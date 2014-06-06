@@ -1,0 +1,100 @@
+290-03	1	0	Record date: 2098-06-04
+290-03	2	0	 RENAL CONSULTATION SERVICE
+290-03	3	0	LOUISIANA AVENUE MEDICAL CENTER
+290-03	4	0	Patient:  Ehlers, Ulysses	MR: 28735364
+290-03	5	0	Renal Attending: Dr.
+290-03	6	0	Judge
+290-03	7	0	Admission Date: 4/24/2098			Consultation Date: 4/24/2098
+290-03	8	0	Reason for Consultation:
+290-03	9	0	Progressive renal impairment.
+290-03	10	0	Creat rose from 1.6 (Nov 97) to 4.07 (may 98)
+290-03	11	0	History of Present Illness:
+290-03	12	0	This is a 69 year old male with a hx of CAD s/p CABG 10/2097, who was referred on 6/03 from renal Dr.
+290-03	13	0	Turk, Elvis at the Central Buffalo Hospital to Dr.
+290-03	14	0	Judge at BHCC for rapidly progressive renal impairment.
+290-03	15	0	He is an arteriopath with occluded aorta beneath the levels of renal arteries as revealed in recent MRA.
+290-03	16	0	In the past an attempted femoral artery cannulation was proved unsuccessful due to above reason.
+290-03	17	0	Subsequently he underwent two cardiac angiograms thro' left brachial and Rt radial arterial route.
+290-03	18	0	 His creatinine has risen from baseline of 1.6 (Nov 97, post CABG) to 4.07 (may 98).
+290-03	19	0	He denies taking any NSAIDS.
+290-03	20	0	He thinks that he was started on Altace post surgery, but was not sure about that fact.
+290-03	21	0	Dr. Turk did an duplex scan to assess his renal arteries which was suggestive of high grade stenosis of renal arteries on both sides.
+290-03	22	0	Since IR doctors at CentralBuffalo were not keen to do renal agniogram/angioplasty thro' radial artery route, Dr.Turk refered Mr. Ehlers to BHCC for consideration of renal angioplasty.
+290-03	23	0	He has also asked him to discontinue Altace and to withold coumadin (Indn: AF) inview of potential angioplasty.
+290-03	24	0	He complains of claudication pains in both legs with left leg>Rt leg.
+290-03	25	0	He experiences pain on exertion on left calf, thigh and buttock.
+290-03	26	0	He complains of long term pedal swelling which extends upto upper knee level.
+290-03	27	0	He is SOB on moderate exertion and sleeps with 3 pillows.
+290-03	28	0	He also has some prostatic symptoms with poor urinary stream, frequency etc.
+290-03	29	0	Past Medical History:
+290-03	30	0	CAD s/p CABG on 10/97
+290-03	31	0	Paroxysmal AF
+290-03	32	0	DM2
+290-03	33	0	HTN
+290-03	34	0	Hyperlipidemia
+290-03	35	0	PVD (occluded aorta)
+290-03	36	0	AS (aortic bicapsid)
+290-03	37	0	BPH
+290-03	38	438	Medications: NKDA
+290-03	39	438	Amiodarone 200mg daily
+290-03	40	438	Atenolol 100mg BID
+290-03	41	438	Metformin HCL 500mg daily
+290-03	42	438	ASA 81mg daily
+290-03	43	438	Lasix 40mg daily,
+290-03	44	438	lipitor 40mg daily prn
+290-03	45	438	Zetia 10mg daily prn
+290-03	46	0	Family History: no history of renal disease in family
+290-03	47	0	Social History: married.
+290-03	48	0	PPD for 50 years.
+290-03	49	0	Review of Systems: as above.
+290-03	50	0	No chest pain, discomfort, palpitation, SOB, BM changes, abdominal pain.
+290-03	51	0	He notes mild occasional back pain.
+290-03	52	0	Vital Signs: 98.4 50 132/78 20 97% on RAUrine output: 600 ml (6/04 0-12am)
+290-03	53	0	Physical Examination:General: well appearing
+290-03	54	0	HEENT: PERRLA, EOMI
+290-03	55	0	Neck: no bruit
+290-03	56	0	Skin: no rash, normal turgor
+290-03	57	0	Chest: CTAB
+290-03	58	0	Heart: RRR, no mrg
+290-03	59	0	Abd: nontender, distended, normal active bowel sounds, no HSM
+290-03	60	0	Ext: 2+ edema in lower extremities upto knee level.
+290-03	61	0	Bilateral distal femoral, popliteal , dorsalis pedis and posterior tibial pulses not palpable.
+290-03	62	0	Toes appear discolored and dusky in appearance with slight delay in capillary refill.
+290-03	63	0	Results
+290-03	64	0	Date/Time         NA             K              CL             CO2
+290-03	65	0	06/04/2098        136            5.3 (*)        102            27
+290-03	66	0	06/04/2098        141            5.5 (*)        108            24
+290-03	67	0	06/03/2098        137            4.9            103            27
+290-03	68	0	Date/Time         BUN            CRE            EGFR           GLU
+290-03	69	0	06/04/2098        83 (*)         4.23 (*)       14 [1]         130 (*)
+290-03	70	0	06/04/2098        80 (*)         3.92 (*)       15 [2]         108
+290-03	71	0	06/03/2098        75 (*#)        4.07 (*#)      15 [3]         165 (*)
+290-03	72	0	Date/Time         ANION
+290-03	73	0	06/04/2098        7
+290-03	74	0	06/04/2098        9
+290-03	75	0	06/03/2098        7
+290-03	76	0	Date/Time         CA             MG             TBILI          TP
+290-03	77	0	06/04/2098        9.0
+290-03	78	0	06/04/2098        9.1            2.2
+290-03	79	0	06/03/2098        8.8                           0.7            6.4
+290-03	80	0	Date/Time         ALB            GLOB
+290-03	81	0	06/03/2098        3.8            2.6
+290-03	82	0	Date/Time         ALT/SGPT       AST/SGOT       ALKP           TBILI
+290-03	83	0	06/03/2098        30             23             80             0.7
+290-03	84	0	Date/Time         WBC            RBC            HGB            HCT
+290-03	85	0	06/04/2098        6.84           2.77 (*)       9.1 (*)        28.7 (*)
+290-03	86	0	06/03/2098        6.76           2.65 (*#)      8.7 (*#)       27.2 (*)
+290-03	87	0	Date/Time         MCV            MCH            MCHC           PLT
+290-03	88	0	06/04/2098        103.4 (*)      32.8 (*)       31.8 (*)       164
+290-03	89	0	06/03/2098        102.4 (*#)     32.9 (*)       32.1           179 (#)
+290-03	90	0	Date/Time         RDW
+290-03	91	0	06/04/2098        17.8 (*)
+290-03	92	0	06/03/2098        18.0 (*#)
+290-03	93	0	ASSESSMENT:
+290-03	94	0	Progressive renal dysfunction in the setting of severe bilateral renal artery stenosis for consideration of reno-vascular disease.
+290-03	95	0	PLAN:
+290-03	96	0	1. His MRA of abdomen was reviewed with Dr.Quilici, BHCC IR department. Aorta is fully occluded beneath the level of both kidneys.
+290-03	97	0	Tight renal artery stenosis noted in both kidneys.
+290-03	98	0	Both proximal and distal stenosis noted in the Rt renal artery.
+290-03	99	0	Both kidneys appeared normal in size 11.2 and 11.4 cm.
+290-03	100	0	Dr.Quilici is confident that renal angioplasty could be done relatively safely through radial artery approach. 2. We have requested Dr.Xi, Vascular surgeon to get his opinon on the need for surgical revascularisation of feet to save his legs from critical ischemia in the future. If so, whether he would benefit from surgical revascularisation of the kidneys. We are awaiting his expert opinion. 3. Patient realises that renal angiogram + angioplasty thro' radial artery carries its own risk. Risks of Cholesterol emboli, Contrast nephropathy, arterial injury, risk of further deterioration of his kidney function leading to early initiation of dialysis are explained. However patient feels that it worth taking a choice to prevent the kidneys from worsening rapidly by attempted angiopalsty. 4. We will obtain renal ultrasound to again measure his kidneys and to rule out any obstructive uropathy as the cause of renal dysfunction. 5. If patient is going for IR renal angiogram/plasty, then he will need Contrast prophylaxis.

@@ -1,0 +1,14 @@
+350-01	4	0	Patient: Doss, Ruth	doss, FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+350-01	20	438	Cozaar 100 mg qd	cozaar FFF 0 0	100 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+350-01	21	438	Lipitor 20 mg qd	lipitor FFF 0 0	20 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+350-01	22	438	Atenolol 50 mg qd	atenolol FFF 0 0	50 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+350-01	23	438	Glucophage 1000 mg qd	glucophage FFF 0 0	1000 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+350-01	24	438	HCTZ 12.5 mg qd	hctz FFF 0 0	12.5 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+350-01	25	438	Ibuprofen 800 mg bid	ibuprofen FFF 0 0	800 mg FFF 1 2	 FFF 	bid FFF 3 3	 FFF 	 FFF 	narrative
+350-01	26	438	ASA 81 mg qd	asa FFF 0 0	81 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+350-01	27	438	Fish oil 1000 mg qd	fish oil FFF 0 1	1000 mg FFF 2 3	 FFF 	qd FFF 4 4	 FFF 	 FFF 	narrative
+350-01	28	438	Ca 600/vit D	600/vit d FFF 1 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+350-01	31	0	Rare EtOH or drugs.	drugs. FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+350-01	53	0	FE	fe FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+350-01	93	0	Coord: point-to-point (FNF, HTS) movements intact.	hts) FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+350-01	168	0	Sparing of face/leg suggests small embolic stroke to the corona radiata in L hemisphere where the motor fiber from face/arm/leg regions are most separated.	fiber FFF 17 17	 FFF 	face/arm/leg FFF 19 19	 FFF 	 FFF 	 FFF 	narrative

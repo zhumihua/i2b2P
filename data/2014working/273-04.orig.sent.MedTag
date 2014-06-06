@@ -1,0 +1,65 @@
+273-04	1	Record date: 2078-06-03	
+273-04	2		
+273-04	3	Novolog 3-10 tid 683-51-28		DBN FFF novolog#0	DOSE FFF 3-10#1	FREQ FFF tid#2
+273-04	4	Lantus 19-20 at hs Xuan, Wendy		DBN FFF lantus#0	DOSE FFF 19-20#1	FREQ FFF hs#3
+273-04	5	Neoral 100/100 mg bid		DBN FFF neoral#0	DOSE FFF 100/100mg#2	FREQ FFF bid#3
+273-04	6	CellCept 1000 mg bid		DBN FFF cellcept#0	DOSE FFF 1000mg#2	FREQ FFF bid#3
+273-04	7	Toprol XL 25 mg qd, not yet started		DPN FFF toprol xl#1	DOSE FFF 25mg#3	FREQ FFF qd#4
+273-04	8	Lipitor 10 mg qd		DBN FFF lipitor#0	DOSE FFF 10mg#2	FREQ FFF qd#3
+273-04	9	Neurontin 600/1200 mg bid		DBN FFF neurontin#0	DOSE FFF 600/1200mg#2	FREQ FFF bid#3
+273-04	10	Tums 200 mg ii qd (should be at least bid)		DBN FFF tums#0	DOSE FFF 200mg#2	FREQ FFF qd#4	FREQ FFF bid#9
+273-04	11	Prilosec 20 mg bid		DBN FFF prilosec#0	DOSE FFF 20mg#2	FREQ FFF bid#3
+273-04	12	MVI i bid		DPN FFF mvi#0	FREQ FFF bid#2
+273-04	13	ASA 325 mg qd		DIN FFF asa#0	DOSE FFF 325mg#2	FREQ FFF qd#3
+273-04	14	Quinine Sulfate 260 mg at hs		DIN FFF quinine sulfate#1	DOSE FFF 260mg#3	FREQ FFF hs#5
+273-04	15	Tylenol 1325 mg over the day for arthritis		DBN FFF tylenol#0	DOSE FFF 1325mg#2	INDICATION FFF arthritis#7
+273-04	16	Wellbutrin 150 mg bid		DBN FFF wellbutrin#0	DOSE FFF 150mg#2	FREQ FFF bid#3
+273-04	17	Androgel to leg qd		DBN FFF androgel#0	FREQ FFF qd#3
+273-04	18	DHEA qd		DBN FFF dhea#0	FREQ FFF qd#1
+273-04	19	Jun 03, 2078	
+273-04	20	Interim History:	
+273-04	21	Comes to review her medical problems.	
+273-04	22	Has lost weight thanks to some spring viral illnesses     she is pleased about it.		INDICATION FFF weight#2
+273-04	23	Reports that her control has not been good and does not have records.	
+273-04	24	No severe hypoglycemia.		INDICATION FFF hypoglycemia#2
+273-04	25	Retinopathy: Still has not seen Dr.	
+273-04	26	Aragon.	
+273-04	27	No subjective change in visual acuity.		INDICATION FFF change#2
+273-04	28	Nephropathy: Cr 1.7 in January.		INDICATION FFF nephropathy#0
+273-04	29	Has not seen transplant MDs in a couple of years.	
+273-04	30	Formerly saw Dr.	
+273-04	31	Hayes.	
+273-04	32	Neuropathy: No foot discomfort.		INDICATION FFF neuropathy#0
+273-04	33	Cardiac: Has occasional high substernal chest tightness, every couple of weeks, over about 6 months, unrelated to exercise.		INDICATION FFF tightness#6	DRT FFF 6 months#14
+273-04	34	Can last up to 15 minutes.	
+273-04	35	Has not become more frequent.	
+273-04	36	Sees Dr.	
+273-04	37	Dotson annually.	
+273-04	38	Has sensation about weekly that she cannot swallow, liquids>solids.		FREQ FFF weekly#3	RUT FFF swallow#7
+273-04	39	Has had this for over a year and it has not been progressive.		DRT FFF a year#6
+273-04	40	Vascular: No claudication.	
+273-04	41	Past Medical History:	
+273-04	42	Medications: wants to reduce costs     asks about generics for Lipitor, transplant meds.		DBN FFF lipitor#9
+273-04	43	Family History:	
+273-04	44	Wendee has been profiled in the media because of her work as an industrial engineer		INDICATION FFF as#11
+273-04	45	Social History:	
+273-04	46	Jake is well.	
+273-04	47	His parents have been ill.	
+273-04	48	Review of Systems: above	
+273-04	49	Psych: Referred to urologist at KJH, Dr.	
+273-04	50	Xayachack (? sp) because of absent libido.	
+273-04	51	He made the switch from Celexa to Wellbutrin and added Androgel and DHEA.		DBN FFF celexa#5	DBN FFF wellbutrin#7	DBN FFF androgel#10	DBN FFF dhea#12
+273-04	52	She has noted more acne or no more libido.		INDICATION FFF acne#4
+273-04	53	The loss of libido precedes the Celexa and the possibility of its relationship to Neoral or CellCept has been raised.		DBN FFF celexa#6	DBN FFF neoral#14	DBN FFF cellcept#16
+273-04	54	She sees her gynecologist regularly.	
+273-04	55	Physical Exam:	
+273-04	56	Looks remarkably well.	
+273-04	57	BP:   160/98   170/88  P:   60, regular		INDICATION FFF bp#0
+273-04	58	Wt:   153 without shoes, down 15	
+273-04	59	HEENT: Anicteric.	
+273-04	60	Fundi: Limited views; laser scars; some ? fibrous bands OS.		INDICATION FFF os#9
+273-04	61	No active lesions seen.	
+273-04	62	Carotids: Normal pulses, without bruits	
+273-04	63	Thyroid: 20-25 grams, firm without nodules.		DOSE FFF 20-25grams#2
+273-04	64	Chest: Clear to auscultation	
+273-04	65	Heart: Normal S1; physiologic S2.  S4.  2/6 systolic ejection murmur	

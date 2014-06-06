@@ -1,0 +1,69 @@
+350-03	1	Record date: 2090-09-25	
+350-03	2	EDVISIT^49535763^DOSS, RUATH^09/25/90^GILMORE, RACHEL		DIN FFF doss#0
+350-03	3	The patient was seen in conjunction with resident, Dr.	
+350-03	4	Xiang.	
+350-03	5	Resident's note was reviewed.	
+350-03	6	The patient was seen and examined by me.		INDICATION FFF me#7
+350-03	7	Please see the resident's note for details of the patient's past medical, social, family history, review of systems, and physical exam.	
+350-03	8	CHIEF COMPLAINT:  Tingling and numbness.	
+350-03	9	HISTORY OF PRESENT ILLNESS:  This is a 58-year-old woman with a	
+350-03	10	history of stroke and seizure in 12/2089 and a longstanding		INDICATION FFF stroke#2	INDICATION FFF seizure#4
+350-03	11	history of diabetes who presents today with a sharp thumbtack		INDICATION FFF diabetes#2
+350-03	12	poking sensation in her right hand at 9:30 a.m. while driving.		TOD FFF a.m#8	DRT FFF while#9
+350-03	13	It lasted 3-4 seconds and then completely resolved.	
+350-03	14	Thirty minutes later, she noticed a similar sensation in her right hand for a few seconds and then resolved completely, and then she noticed it in her right foot and the toes.	
+350-03	15	She wiggles her toes in her shoe and then that resolved after a few seconds and then 30 minutes after that she had a similar but less severe sensation in the fingertips of her left hand at about 10:45 that then resolved completely.	
+350-03	16	Since then, she has had no sensation like this.	
+350-03	17	She has had pins and needles feeling in her hands and feet in the past, but never a sharp thumbtack feeling like this in the past.	
+350-03	18	She had no dysarthria, confusion, weakness, numbness trauma, dizziness, loss of consciousness, syncope, seizure activity, changes in her medications, or any new medications.		INDICATION FFF dysarthria#3	INDICATION FFF trauma#7	INDICATION FFF dizziness#8	INDICATION FFF loss of consciousness#11	INDICATION FFF seizure#13	DIN FFF new medications#22
+350-03	19	She took her Plavix as usual this morning, is now symptom free,		DBN FFF plavix#3	INDICATION FFF as#4	TOD FFF morning#7
+350-03	20	and very well appearing.	
+350-03	21	She called her doctor's office and the nurse told her to come to the Emergency Department to be checked.	
+350-03	22	PAST MEDICAL HISTORY:  Hypertension, diabetes, high cholesterol,		INDICATION FFF hypertension#3	INDICATION FFF diabetes#4	INDICATION FFF cholesterol#6
+350-03	23	seizures in the setting of a stroke in 12/2089, and a left MCA		INDICATION FFF seizures#0	INDICATION FFF stroke#6
+350-03	24	stroke in 12/2089.		INDICATION FFF stroke#0
+350-03	25	She has had no seizures since then.		INDICATION FFF seizures#4
+350-03	26	She has residual right lower extremity weakness, which is now much improved.	
+350-03	27	Echo in 12/2089 showed an EF of 60%.		INDICATION FFF ef#5	DOSE FFF 60%#7
+350-03	28	She has concentric LVH, no wall motion abnormalities, and no other surgeries.		INDICATION FFF lvh#3
+350-03	29	SOCIAL HISTORY:  Past smoker of 30 pack years, ETOH none, and no		DOSEAMT FFF 30 pack#6
+350-03	30	IV drug use.		RUT FFF iv#0
+350-03	31	She works as a Business Services Manager and lives with her family.		INDICATION FFF as#2
+350-03	32	FAMILY HISTORY:  Noncontributory.	
+350-03	33	REVIEW OF SYSTEMS:  Otherwise, negative.	
+350-03	34	MEDICATIONS:  She takes Dilantin, glipizide, Glucophage, Plavix,		DBN FFF dilantin#3	DIN FFF glipizide#4	DBN FFF glucophage#5	DBN FFF plavix#6
+350-03	35	atenolol, Cozaar, and Lipitor.		DIN FFF atenolol#0	DBN FFF cozaar#1	DBN FFF lipitor#3
+350-03	36	ALLERGIES:  None.		INDICATION FFF allergies#0
+350-03	37	PHYSICAL EXAMINATION:  She is afebrile with normal and stable	
+350-03	38	vital signs.  Awake, alert, and in no distress.	
+350-03	39	Her exam is completely unremarkable including 5/5 strength in her upper and lower extremities.	
+350-03	40	Gait is normal.	
+350-03	41	She has no cerebellar signs, past pointing dysmetria, aphasia, ataxia, focal weakness, or any focal sensory deficit at all.	
+350-03	42	LABORATORY DATA:  EKG shows bradycardia at 50 beats a minute with		INDICATION FFF bradycardia#4
+350-03	43	nonspecific T-wave changes.	
+350-03	44	Fingerstick is 150.	
+350-03	45	Dilantin level is normal.		DBN FFF dilantin#0
+350-03	46	Head CT shows no evidence of bleeding or any other abnormality.		INDICATION FFF ct#1	INDICATION FFF bleeding#6
+350-03	47	EMERGENCY DEPARTMENT COURSE:  Neurology was consulted and agrees	
+350-03	48	with the diagnosis of likely peripheral neuropathy.		INDICATION FFF neuropathy#6
+350-03	49	They will help arrange followup within 1 week for this patient with her neurologist and she is told to see her primary care physician within 2 weeks and to return to the Emergency Department for any chest pain, shortness of breath, or any other worsening of her symptoms.		DRT FFF 1 week#7	DRT FFF 2 weeks#26	INDICATION FFF chest pain#37	INDICATION FFF shortness of breath#40	INDICATION FFF symptoms#47
+350-03	50	DISPOSITION:  She is well appearing at the time of discharge in	
+350-03	51	satisfactory condition.	
+350-03	52	______________________________	
+350-03	53	GILMORE, RACHEL M.D.	
+350-03	54	D: 09/25/90	
+350-03	55	T: 09/25/90		INDICATION FFF t#0
+350-03	56	Dictated By: GILMORE, RACHEL	
+350-03	57	eScription document:1-9359833 BFFocus	
+350-03	58	******** Not reviewed by Attending Physician ********	
+350-03	59		
+350-03	60		
+350-03	61		
+350-03	62		
+350-03	63		
+350-03	64		
+350-03	65		
+350-03	66		
+350-03	67		
+350-03	68		
+350-03	69		

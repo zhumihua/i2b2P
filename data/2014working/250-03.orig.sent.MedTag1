@@ -1,0 +1,24 @@
+250-03||1||Record date: 2081-02-19
+250-03||2||Titonka Cardiovascular Care Center
+250-03||3||TCC ER5||DIN FFF tcc FFF 0 0||
+250-03||4||54 Buker St                                      YERGER, URANIA||INDICATION FFF st FFF 2 2||
+250-03||5||Port Louis, GA 52114                                           58348900||INDICATION FFF ga FFF 2 2||
+250-03||6||(784) 032-8966                                           02/19/81
+250-03||7||Xan Dillon, M.D.
+250-03||8||22 East Dunstable Road
+250-03||9||Nouakchott, GA  95269||INDICATION FFF ga FFF 1 1||
+250-03||10||Dear Dr.
+250-03||11||Dillon:
+250-03||12||I had the pleasure of seeing Urania Yerger today in Titonka Care Center in followup of her coronary artery disease (CABG in October 2078), hypertension, and heart failure.||INDICATION FFF coronary artery disease FFF 17 19||INDICATION FFF hypertension, FFF 24 24||INDICATION FFF heart failure. FFF 26 27||
+250-03||13||Since increasing her Lasix dose approximately 12 months ago, she has had substantial improvement in her heart failure symptoms.||DBN FFF lasix FFF 3 3||DRT FFF 12 months FFF 6 7||INDICATION FFF her heart failure FFF 15 17||INDICATION FFF symptoms. FFF 18 18||
+250-03||14||She continues to admit to fatigue and musculoskeletal pain as limiting her exertion, but no longer experiences significant dyspnea.||INDICATION FFF fatigue FFF 5 5||INDICATION FFF pain FFF 8 8||INDICATION FFF as FFF 9 9||INDICATION FFF dyspnea. FFF 18 18||
+250-03||15||She denies orthopnea, PND, or ankle edema.||INDICATION FFF orthopnea, FFF 2 2||INDICATION FFF edema. FFF 6 6||
+250-03||16||Her current medications are aspirin 325 mg p.o. q.d., Lasix 60 mg p.o. q.d., glipizide 10 mg p.o. q.d., losartan 100 mg p.o. q.d., Toprol-XL 100 mg p.o. q.d., simvastatin 10 mg p.o. q.d., Avandia, and multivitamins.||DIN FFF aspirin FFF 4 4||DOSE FFF 325 mg FFF 5 6||RUT FFF p.o. FFF 7 7||FREQ FFF q.d., FFF 8 8||DBN FFF lasix FFF 9 9||DOSE FFF 60 mg FFF 10 11||RUT FFF p.o. FFF 12 12||FREQ FFF q.d., FFF 13 13||DIN FFF glipizide FFF 14 14||DOSE FFF 10 mg FFF 15 16||RUT FFF p.o. FFF 17 17||FREQ FFF q.d., FFF 18 18||DIN FFF losartan FFF 19 19||DOSE FFF 100 mg FFF 20 21||RUT FFF p.o. FFF 22 22||FREQ FFF q.d., FFF 23 23||DBN FFF toprol-xl FFF 24 24||DOSE FFF 100 mg FFF 25 26||RUT FFF p.o. FFF 27 27||FREQ FFF q.d., FFF 28 28||DIN FFF simvastatin FFF 29 29||DOSE FFF 10 mg FFF 30 31||RUT FFF p.o. FFF 32 32||FREQ FFF q.d., FFF 33 33||DBN FFF avandia, FFF 34 34||DIN FFF multivitamins. FFF 36 36||
+250-03||17||Her blood pressure today is 165/70 and her heart rate is in the low 60s.||INDICATION FFF her blood pressure FFF 0 2||INDICATION FFF her heart rate FFF 7 9||
+250-03||18||She is comfortable seated on the exam table.
+250-03||19||Her jugular venous pressure is approximately 8 cm with prominent V waves.||INDICATION FFF pressure FFF 3 3||INDICATION FFF cm FFF 7 7||
+250-03||20||There are very rare crackles at the bases.
+250-03||21||Cardiac exam reveals a nondisplaced PMI with regular rate and rhythm, normal intensity S1 and S2.  P2 is increased.
+250-03||22||There is a grade 3/6 holosystolic murmur, loudest at the apex.
+250-03||23||She has no edema of the extremities and they are warm to touch.||INDICATION FFF edema FFF 3 3||
+250-03||24||Her ECG reveals sinus rhythm with normal axis intervals.||DIN FFF ecg FFF 1 1||

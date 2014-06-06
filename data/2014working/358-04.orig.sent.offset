@@ -1,0 +1,23 @@
+358-04	3	0	Since her last visit, she has been to the Windsor Hospital where she was started on "sea kelp" lotion for hidradenitis and was told to bathe in salt water and keep the affected areas moist.	salt FFF 27 27	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+358-04	4	0	No longer taking levofloxacin.	levofloxacin. FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+358-04	8	0	Diabetes: as her sugars have been high, she self increased metformin to BID.	metformin FFF 10 10	 FFF 	 FFF 	bid. FFF 12 12	 FFF 	 FFF 	narrative
+358-04	14	0	Uses ativan up to 4 times a day for anxiety.	ativan FFF 1 1	 FFF 	 FFF 	4 times a day FFF 4 7	 FFF 	 FFF 	narrative
+358-04	16	0	Trauma: attacked by her cat 5 days ago on her left wrist--using topical antibiotics obtained at Montgomery Infirmary ED.	antibiotics FFF 13 13	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+358-04	21	0	Colace (DOCUSATE Sodium) 100 MG (100MG TABLET take 1) PO TID	colace FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+358-04	22	0	Oxycontin (OXYCODONE Controlled Release) 10 MG (10MG TAB.SR 12H take 1) PO BID x 10 days	oxycontin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+358-04	23	0	LISINOPRIL 40 MG (40MG TABLET take 1) PO QD x 30 days	lisinopril FFF 0 0	40 mg FFF 1 2	po FFF 7 7	qd FFF 8 8	30 days FFF 10 11	 FFF 	narrative
+358-04	24	0	Zocor (SIMVASTATIN) 80 MG (80MG TABLET take 1) PO QHS x 30 days, if you develop muscle pain or weakness, stop the drug immediately and call your doctor.	zocor FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+358-04	25	0	Glucotrol Xl (GLIPIZIDE Xl) 5 MG (5MG TAB SR OSM take 1) PO QD	glucotrol xl FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+358-04	25	0	Glucotrol Xl (GLIPIZIDE Xl) 5 MG (5MG TAB SR OSM take 1) PO QD	osm FFF 9 9	 FFF 	po FFF 12 12	qd FFF 13 13	 FFF 	 FFF 	narrative
+358-04	26	0	METFORMIN 500 MG (500MG TABLET take 1) PO QD -->BID	metformin FFF 0 0	500 mg FFF 1 2	po FFF 7 7	QD -->BID FFF 8 9	 FFF 	 FFF 	narrative
+358-04	27	0	HYDROCHLOROTHIAZIDE 25 MG (25MG TABLET take 1) PO QD x 30 days	hydrochlorothiazide FFF 0 0	25 mg FFF 1 2	po FFF 7 7	qd FFF 8 8	30 days FFF 10 11	 FFF 	narrative
+358-04	28	0	Toprol Xl (METOPROLOL Succinate Extended Release) 50 MG (50MG TAB.SR 24H take 1) PO QD x 30 days	toprol xl FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+358-04	29	0	Celexa (CITALOPRAM) 20 MG (20MG TABLET take 1) PO QD x 30 days, take 1/2 tab x 4 days and then take one tablet daily	celexa FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+358-04	30	0	Percocet 5 Mg/325 Mg  (OXYCODONE 5 Mg/acetaminophen 325 Mg) 1-2 TAB PO Q4-6H x 11 days	mg/acetaminophen FFF 6 6	325 mg) FFF 7 8	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+358-04	30	0	Percocet 5 Mg/325 Mg  (OXYCODONE 5 Mg/acetaminophen 325 Mg) 1-2 TAB PO Q4-6H x 11 days	mg/acetaminophen FFF 6 6	1-2 tab FFF 9 10	po FFF 11 11	q4-6h FFF 12 12	11 days FFF 14 15	 FFF 	narrative
+358-04	30	0	Percocet 5 Mg/325 Mg  (OXYCODONE 5 Mg/acetaminophen 325 Mg) 1-2 TAB PO Q4-6H x 11 days	Percocet 5 Mg/325 Mg (OXYCODONE 5 Mg/acetaminophen 325 Mg) FFF 0 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+358-04	31	0	Clindamycin 1% Gel 1 APPLICATION (1% GEL ) TOP BID x 21 days, please apply to affected areas twice a day	clindamycin 1% gel FFF 0 2	(1% FFF 5 5	top FFF 8 8	bid FFF 9 9	21 days, FFF 11 12	 FFF 	narrative
+358-04	32	0	OXYCODONE 5 MG (5MG TABLET take 1) PO Q6H PRN pain , to be alternated with percocet to minimize tylenol dose	oxycodone FFF 0 0	5 mg FFF 1 2	po FFF 7 7	Q6H PRN FFF 8 9	 FFF 	 FFF 	narrative
+358-04	32	0	OXYCODONE 5 MG (5MG TABLET take 1) PO Q6H PRN pain , to be alternated with percocet to minimize tylenol dose	percocet FFF 16 16	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+358-04	32	0	OXYCODONE 5 MG (5MG TABLET take 1) PO Q6H PRN pain , to be alternated with percocet to minimize tylenol dose	tylenol FFF 19 19	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+358-04	33	0	Ativan (LORAZEPAM) 0.5 MG (0.5MG TABLET take 1) PO Q6H PRN anxiety/panic , take one tablet up to four times daily as needed for panic attacks	ativan FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

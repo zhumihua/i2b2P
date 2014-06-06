@@ -1,0 +1,8 @@
+302-01	16	438	1.  Lipitor 20 mg q.d.	lipitor FFF 1 1	20 mg FFF 2 3	 FFF 	q.d. FFF 4 4	 FFF 	 FFF 	narrative
+302-01	18	438	3.  Trandate 100 mg q.d.	trandate FFF 1 1	100 mg FFF 2 3	 FFF 	q.d. FFF 4 4	 FFF 	 FFF 	narrative
+302-01	19	438	4.  Tegretol 300 mg in a.m., 200 mg in the p.m.	tegretol FFF 1 1	300 mg FFF 2 3	 FFF 	a.m., FFF 5 5	 FFF 	 FFF 	narrative
+302-01	19	438	4.  Tegretol 300 mg in a.m., 200 mg in the p.m.	tegretol FFF 1 1	200 mg FFF 6 7	 FFF 	the p.m. FFF 9 10	 FFF 	 FFF 	narrative
+302-01	20	438	5.  Premarin 0.625 mg 30 days a month.	premarin FFF 1 1	0.625 mg FFF 2 3	 FFF 	 FFF 	30 days FFF 4 5	 FFF 	narrative
+302-01	21	438	6.  Provera 5 mg 12 days a month.	provera FFF 1 1	5 mg FFF 2 3	 FFF 	 FFF 	12 days FFF 4 5	 FFF 	narrative
+302-01	22	438	7.  Enteric-coated aspirin 81 mg q.d.	aspirin FFF 2 2	81 mg FFF 3 4	 FFF 	q.d. FFF 5 5	 FFF 	 FFF 	narrative
+302-01	23	438	8.  Calcium 1200 mg q.d.	calcium FFF 1 1	1200 mg FFF 2 3	 FFF 	q.d. FFF 4 4	 FFF 	 FFF 	narrative

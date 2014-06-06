@@ -1,0 +1,156 @@
+324-05	1	0	Record date: 2072-06-12
+324-05	2	0	Internal Medicine Admit Note   06/12/72
+324-05	3	0	Patient Name: Xavier Rutledge (KEKELA 53954143)
+324-05	4	0	Renal TPx Details:  Cadaveric RTX 2060 w/ CAN and baseline Cr 2.5
+324-05	5	0	Renal Dx:  ESRD of unclear cause
+324-05	6	0	Current Immsp:  CsA and Prednisone
+324-05	7	0	Reason for Admit: Fever, diarrhea and probable UTI
+324-05	8	0	Background:  63M with known CRRTx since 2060 with known CKD and baseline Cr 2.5 with urethral stricture and in-dwelling Foley catheter who presented to ED with h/o multiple episodes of diarrhea last night, cloudy urine and severe weakness.
+324-05	9	0	He was on Ampicillin for a recent UTI.
+324-05	10	0	He denies any fevers this past weekend, however he was febrile today at 102 F.
+324-05	11	0	He has chronic lower extremity edema for which he is on  high dose lasix with minimal response.
+324-05	12	0	In ED patient was hypoglycemic with FSBS 46.
+324-05	13	0	He was givin 1amp D50 and a liter of NS IV.
+324-05	14	0	Medical Hx:
+324-05	15	0	1. ESRD s/p CRRTx 2060
+324-05	16	0	 - Prior to TPx was on HD via RUE AVF, presumed ESRD d/t HTN
+324-05	17	0	 - CRRTx 2060 requiring re-implantation of the ureter two times
+324-05	18	0	 - Renal Bx (2065): cyclosporine toxicity, nephrolithiasis, TIF
+324-05	19	0	 - Baseline Cr 2.4 - 2.8, Renal Bx 2065:
+324-05	20	0	2. Urethral stricture requiring repeated catherisation and c/b UTI's, foley in place.
+324-05	21	0	Plan for suprapubic catheter placement by Dr.
+324-05	22	0	Acevedo.
+324-05	23	0	 - Multiple UTI's w/ h/o Candida (Apr 2072), Klebsiella (September 2071), Proteus
+324-05	24	0	3. Type 2 DM
+324-05	25	0	 - Diagnosed following TPx and steroids
+324-05	26	0	 - On insulin
+324-05	27	0	4. CMV retinitis post-transplant
+324-05	28	0	5. Aortic stenosis
+324-05	29	0	 - Echo 2071: AVA 1.3 cm and peak gradient 28 mmHg
+324-05	30	0	6. Recurrent LE DVT's - on Coumadin
+324-05	31	0	7. HTN
+324-05	32	0	8. Torn right rotator cuff
+324-05	33	0	9. Gout
+324-05	34	0	10. BPH
+324-05	35	0	11. Hypercholesterolemia
+324-05	36	0	12. s/p left 5th toe amputation
+324-05	37	0	13. h/o  C. dif colitis
+324-05	38	0	14. s/p ccy and appy
+324-05	39	0	15. G6PD deficiency
+324-05	40	438	Medications:
+324-05	41	438	Neoral 100mg bid po
+324-05	42	438	Prednisone 5/10mg qd po
+324-05	43	438	Lopressor 50mg bid po
+324-05	44	438	Lasix 80 mg bid po
+324-05	45	438	Iron Sulfate 325mg bid po
+324-05	46	438	Calcium Carbonate 500 mg tid po
+324-05	47	438	Flomax 0.8mg qhs po
+324-05	48	438	Proscar 5 mg qd po
+324-05	49	438	Coumadin 1 mg qd po
+324-05	50	438	Procrit 10,000 U q week (Wed)
+324-05	51	438	NPH 22 units qam and 10 U qpm, Insulin sliding scale qAC+HS
+324-05	52	438	Immodium q4-6hrs prn loose stools
+324-05	53	438	Ampicillin 500mg qid
+324-05	54	448	Allergies: Codeine -> Nausea, Potassium -> Nausea and Rash, Quinine
+324-05	55	0	Social History: Lives with wife, retired.
+324-05	56	0	Denies tobacoo (quit 30 yrs ago), ETOH9(quit 30 yrs ago), and ilicit drug use
+324-05	57	0	Family History: unremarkable
+324-05	58	0	On examination:
+324-05	59	0	General:  Lying on bed in no distress
+324-05	60	0	Vitals:  T99.8 F;  BP 97/44 mmHg;  HR 77/min;  R 20
+324-05	61	0	HEENT:  (+) orbital edema b/l,   (+) facial flushing
+324-05	62	0	CVS:  S1 and S2, no S3/Rub, clinical ESM loudes over aortic areaResp:  slight expiratory wheeze RLLB, no rhonchi or rales.
+324-05	63	0	Abd:  Soft, non tender, no masses, NABS.
+324-05	64	0	Left sided palpable graft with no tenderness.
+324-05	65	0	Cloudy urine in Foley
+324-05	66	0	Legs:  3+ edema bilaterally
+324-05	67	0	RUE:  AVF with thrill and bruit
+324-05	68	0	Neuro: A &O x 3
+324-05	69	0	Results
+324-05	70	0	Date/Time         PT             PT-INR         PTT
+324-05	71	0	06/12/2072        28.3 (*#)      2.7 (*)        46.6 (*#)
+324-05	72	0	Date/Time         NA             K              CL             CO2
+324-05	73	0	06/12/2072        138            3.6            110 (*)        20
+324-05	74	0	Date/Time         BUN            CRE            EGFR           GLU   06/12/2072        89 (*)         3.1 (*)        22 [11]        48
+324-05	75	0	Date/Time         ANION
+324-05	76	0	06/12/2072        8
+324-05	77	0	Date/Time         CA             PHOS           MG             TBILI
+324-05	78	0	06/12/2072        8.5 (*)        4.1            1.7 (*)        0.7
+324-05	79	0	Date/Time         TP             ALB            GLOB           LDH
+324-05	80	0	06/12/2072        5.3 (*)        2.7 (*)        2.6            284
+324-05	81	0	Date/Time         AMY            LIPS
+324-05	82	0	06/12/2072        25             4 [21]
+324-05	83	0	Date/Time         bPO2           bPCO2          bPH          UBASEX  06/12/2072 [22]   39 (*)         38 (#)         7.32 (*#)      -6
+324-05	84	0	Date/Time         O2 Sat         K-PL           CO2-PL         HGBBG 06/12/2072 [23]   74.2 (*)       3.5            20 (*)         10.3
+324-05	85	0	Date/Time         HCT-BG
+324-05	86	0	06/12/2072 [24]   30 (*)
+324-05	87	0	Date/Time         ALT/SGPT       AST/SGOT       ALKP         TBILI
+324-05	88	0	06/12/2072        96 (*#)        157 (*#)       178 (*#)       0.7
+324-05	89	0	Date/Time         LDH
+324-05	90	0	06/12/2072        284 (*)
+324-05	91	0	Date/Time         UK
+324-05	92	0	06/12/2072        13
+324-05	93	0	Date/Time         UTIME
+324-05	94	0	06/12/2072        RANDOM
+324-05	95	0	Date/Time         UTIME          U/UNA          U/UCL        U/UOSM  06/12/2072        RANDOM         70             77             PEND
+324-05	96	0	Date/Time         MHGB           COHGB
+324-05	97	0	06/12/2072 [30]   0.3            0.5
+324-05	98	0	Date/Time         UA-COLOR       UA-GLUC        UA-BILI      UA-KET  06/12/2072        YELLOW [31]    NEG            NEG            NEG
+324-05	99	0	Date/Time         UA-SPGR        UA-BLD         UA-PH        UA-PROT 06/12/2072        1.014          3+             5.0            2+
+324-05	100	0	Date/Time         UA-UROBI       UA-NIT         UA-WBC       MIC-SED
+324-05	101	0	06/12/2072        NEG            NEG            3+             NEG
+324-05	102	0	Date/Time         OCAST          HCAST          UAS-RBC      UAS-WBC 06/12/2072        NEG            0              233 (*)        316
+324-05	103	0	Date/Time         UAS-BACT       UAS-SQHI       UAS-CRYS
+324-05	104	0	06/12/2072        TR             3+             NEG
+324-05	105	0	Date/Time         UA-EPIS
+324-05	106	0	06/12/2072        NEG
+324-05	107	0	Date/Time         WBC            RBC            HGB            HCT   06/12/2072        13.61 (*)      3.86 (*)       10.7 (*)       32.3  06/12/2072        13.65 (*#)     3.76 (*)       10.4 (*)       32.2
+324-05	108	0	Date/Time         MCV            MCH            MCHC           PLT   06/12/2072        83.7           27.8           33.2           157   06/12/2072        85.7           27.5           32.1           151
+324-05	109	0	Date/Time         RDW
+324-05	110	0	06/12/2072        17.5 (*)
+324-05	111	0	06/12/2072        17.3 (*)
+324-05	112	0	Date/Time         %POLY-A        %LYMPH-A       %MONO-A       %EOS-A 06/12/2072        88.8 (*)       4.4 (*)        6.0            0.5
+324-05	113	0	Date/Time         %BASO-A        %POLY-M        %BAND-M    %LYMPH-M 06/12/2072        0.3            89 (*)         2              1 (*) 06/12/2072                       92 (*)         1              1 (*)
+324-05	114	0	Date/Time         %ATYPS         %MONO-M        %EOS-M      %BASO-M  06/12/2072        0              8              0              0     06/12/2072        0              6              0              0
+324-05	115	0	Date/Time         ANEUT-A        ALYMP-A        AMONO-A       AEOS-A 06/12/2072        12.09 (*)      .6 (*)         0.82 (*)       0.06
+324-05	116	0	Date/Time         ABASO-A
+324-05	117	0	06/12/2072        0.04
+324-05	118	0	Date/Time         ANISO          POIK           POLYCH         HYPO  06/12/2072        +              1+             1+             +     06/12/2072                       1+
+324-05	119	0	Date/Time         MACRO          MICRO          OVALS        TEARDR  06/12/2072        1+             +              1+                   06/12/2072                                      1+             1+
+324-05	120	0	Date/Time         PLT-EST
+324-05	121	0	06/12/2072        NL
+324-05	122	0	06/12/2072        NL
+324-05	123	0	Date/Time         ESR
+324-05	124	0	06/12/2072        PEND
+324-05	125	0	06/12/2072        20 (*)[32]
+324-05	126	0	Radiology:
+324-05	127	0	06/12/2072 12:16 KEKELA Radiology                 Report Status:  Final
+324-05	128	0	Type:  Chest PA & Lateral
+324-05	129	0	HISTORY: Fever.
+324-05	130	0	
+324-05	131	0	Chest: Frontal and lateral views of the chest are compared to prior exam dated 5/31/2072 and show mild enlargement of the cardiac silhouette and an atherosclerotic aorta.
+324-05	132	0	There are small bilateral posterior pleural effusions.
+324-05	133	0	Adjacent parenchymal opacity may reflect atelectasis or early pneumonia in theappropriate clinical setting.
+324-05	134	0	Mild diffuse elevation of        the interstitium appears chronic.
+324-05	135	0	Right upper lobe granuloma.
+324-05	136	0	     IMPRESSION: Mild cardiomegaly with small bilateral posterior
+324-05	137	0	     pleural effusions. Adjacent parenchymal opacity could reflect
+324-05	138	0	     subsegmental atelectasis or early pneumonia in the appropriate      clinical setting.
+324-05	139	0	These findings were communicated by me to Dr.
+324-05	140	0	     Ximena Webber at 2:25 p.m
+324-05	141	0	
+324-05	142	0	A/P:  63M with known CRRTx since 2060 with known CKD and baseline Cr 2.5 with urethral stricture and in-dwelling Foley.
+324-05	143	0	Pt. now with fevers, UTI, and diarrhea.
+324-05	144	0	He will be admitted to George Rutledge, M.D. on the Internal Medicine. 1. Renal- CRRTx with creatinine elevated 3.1 (2.5), ? pyelonephritis
+324-05	145	0	 - Urine cultures sent in the ED.
+324-05	146	0	 - Would hold further iv fluids.
+324-05	147	0	 - Continue current Lasix dose
+324-05	148	0	 - Strict I/O
+324-05	149	0	 - Check Urine Protein/Creat Ratio
+324-05	150	0	2. Urologic- urethral stricture and in-dwelling foley cath with fever and high urinary WBC.
+324-05	151	0	 - Given iv Levofloxacin/Ceftaz in the ED.
+324-05	152	0	 - Need to change Foley cathether.
+324-05	153	0	 - Dr Acevedo to review for suprapubic catheter placement.
+324-05	154	0	3. Immunosuppresion
+324-05	155	0	 - Continue CsA and Prednisone
+324-05	156	0	 - Check CsA level in the am.

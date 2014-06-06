@@ -1,0 +1,64 @@
+296-01	1	Record date: 2099-01-06		 
+296-01	2	Chief Complaint		 
+296-01	3	annual, menopausal vaginal atrophy		 
+296-01	4	Last Pap:		 
+296-01	5	2096		 
+296-01	6	Last Mammogram:		 
+296-01	7	9/98 WNL		 
+296-01	8	LMP:		 
+296-01	9	2096		 
+296-01	10	Last Bone Density:		 
+296-01	11	6/98- t-1.80		 
+296-01	12	Contraception:   Abstinence		 
+296-01	13	unable to have intercourse		 
+296-01	14	Past History		 
+296-01	15	---  Menstrual History ---		 
+296-01	16	menopausal, no PMB		INDICATION FFF menopausal#0	DBN FFF pmb#2
+296-01	17	Abnormal Paps:		 
+296-01	18	s/p CKC 2060s		 
+296-01	19	STD's:   None		 
+296-01	20	Problems		 
+296-01	21	Diabetes mellitus		 
+296-01	22	CAD s/p quadruple bypass 2096		 
+296-01	23	s/p E.coli sepsis 2096		DIN FFF e.coli#1	INDICATION FFF sepsis#2
+296-01	24	ARDS/ Seizures requiring extended MICU stay, colostomy		 
+296-01	25	SVC thromobosis 2096		 
+296-01	26	s/p sternal oseomyelitis w/ graft 2096		 
+296-01	27	s/p cold-knife cone in 2060s		 
+296-01	28	s/p partial thyroidectomy		 
+296-01	29	Medication list:     : MVI, CA+D, fossamax, prograf, cellcept, prednisone, nexxium, ASA, lipitor, Toprol XL, coumadin, insulin		DPN FFF mvi#3	INDICATION FFF ca#4
+296-01	29	Medication list:     : MVI, CA+D, fossamax, prograf, cellcept, prednisone, nexxium, ASA, lipitor, Toprol XL, coumadin, insulin		DBN FFF prograf#6
+296-01	29	Medication list:     : MVI, CA+D, fossamax, prograf, cellcept, prednisone, nexxium, ASA, lipitor, Toprol XL, coumadin, insulin		DBN FFF cellcept#7
+296-01	29	Medication list:     : MVI, CA+D, fossamax, prograf, cellcept, prednisone, nexxium, ASA, lipitor, Toprol XL, coumadin, insulin		DIN FFF prednisone#8
+296-01	29	Medication list:     : MVI, CA+D, fossamax, prograf, cellcept, prednisone, nexxium, ASA, lipitor, Toprol XL, coumadin, insulin		DIN FFF asa#10
+296-01	29	Medication list:     : MVI, CA+D, fossamax, prograf, cellcept, prednisone, nexxium, ASA, lipitor, Toprol XL, coumadin, insulin		DBN FFF lipitor#11
+296-01	29	Medication list:     : MVI, CA+D, fossamax, prograf, cellcept, prednisone, nexxium, ASA, lipitor, Toprol XL, coumadin, insulin		DPN FFF toprol xl#13
+296-01	29	Medication list:     : MVI, CA+D, fossamax, prograf, cellcept, prednisone, nexxium, ASA, lipitor, Toprol XL, coumadin, insulin		DBN FFF coumadin#14
+296-01	29	Medication list:     : MVI, CA+D, fossamax, prograf, cellcept, prednisone, nexxium, ASA, lipitor, Toprol XL, coumadin, insulin		DIN FFF insulin#15
+296-01	30	Physical Exam		 
+296-01	31	General Appearance:   NL Habitus		 
+296-01	32	Neck:   Normal		 
+296-01	33	Thyroid:   Normal		 
+296-01	34	Resp.		 
+296-01	35	Effort:   Normal		 
+296-01	36	Ausc.		 
+296-01	37	Lungs:   Normal		 
+296-01	38	Ausc.		 
+296-01	39	Heart:   Abnormal 2/6 SEM		 
+296-01	40	Abdomen:   Abnormal		 
+296-01	41	colostomy, benign		 
+296-01	42	Liver/Spleen:   Normal		 
+296-01	43	Neck:   Normal		 
+296-01	44	Axilla:   Normal		 
+296-01	45	+ costochondritis		 
+296-01	46	Mood and Affect:   Normal		 
+296-01	47	Breasts:   Normal		 
+296-01	48	Ext.		 
+296-01	49	Genitalia:   Normal		 
+296-01	50	Ureth Meatus:   Normal		 
+296-01	51	Bladder:   Normal		 
+296-01	52	Vagina/pelv. supp:   Abnormal		 
+296-01	53	atrophic, very painful, pt couldn't tolerate exam		 
+296-01	54	Assessment and Plan		 
+296-01	55	56 y.o. w/ mult medical problems presenting for vaginal atrophy.		 
+296-01	56	HCM: due for pap but unable to tolerate exam d/t pain.		 

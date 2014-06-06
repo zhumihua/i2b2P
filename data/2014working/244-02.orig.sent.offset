@@ -1,0 +1,16 @@
+244-02	15	0	She reports that the pain, at it's worst is 5/10, but has improved to 2/10 after NTG en route to the ED and once in the ED.	ntg FFF 16 16	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+244-02	22	0	* Celebrex    - SOB : "that triggered her asthma"	celebrex FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+244-02	24	0	Aspirin (ACETYLSALICYLIC Acid)    81 MG,  1 Tablet(s)  PO QD	Aspirin (ACETYLSALICYLIC Acid) FFF 0 2	81 mg, FFF 3 4	po FFF 7 7	qd FFF 8 8	 FFF 	 FFF 	narrative
+244-02	25	0	Calcium Gluconate    500MG,  2 Tablet(s)  PO x1	calcium gluconate FFF 0 1	500mg, FFF 2 2	po FFF 5 5	x1 FFF 6 6	 FFF 	 FFF 	narrative
+244-02	26	0	Vitamin D (ERGOCALCIFEROL)      PO QD	Vitamin D (ERGOCALCIFEROL) FFF 0 2	 FFF 	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+244-02	27	0	Nitroglycerin 1/150 (0.4 Mg)    1 TAB SL  : PRN	nitroglycerin 1/150 (0.4 mg) FFF 0 3	1 tab FFF 4 5	sl FFF 6 6	prn FFF 8 8	 FFF 	 FFF 	narrative
+244-02	28	0	Vioxx (ROFECOXIB)    25MG,  1 Tablet(s)  PO QD PRN leg pain	Vioxx (ROFECOXIB) FFF 0 1	25mg, FFF 2 2	po FFF 5 5	QD PRN FFF 6 7	 FFF 	 FFF 	narrative
+244-02	29	0	Nifedipine (EXTENDED Release)    90MG,  1 Tablet(s)  PO QD	nifedipine (extended release) FFF 0 2	90mg, FFF 3 3	po FFF 6 6	qd FFF 7 7	 FFF 	 FFF 	narrative
+244-02	30	0	HYDROXYCHLOROQUINE   200MG,  1 Tablet(s)  PO BID x 30 day(s)	hydroxychloroquine FFF 0 0	200mg, FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+244-02	30	0	HYDROXYCHLOROQUINE   200MG,  1 Tablet(s)  PO BID x 30 day(s)	hydroxychloroquine FFF 0 0	1 tablet(s) FFF 2 3	po FFF 4 4	bid FFF 5 5	30 day(s) FFF 7 8	 FFF 	narrative
+244-02	31	0	ATENOLOL   50MG,  1 Tablet(s)  PO QD	atenolol FFF 0 0	50mg, FFF 1 1	po FFF 4 4	qd FFF 5 5	 FFF 	 FFF 	narrative
+244-02	32	0	Protonix (PANTOPRAZOLE)    40MG,  1 Tablet(s)  PO QD x 30 day(s)	Protonix (PANTOPRAZOLE) FFF 0 1	40mg, FFF 2 2	po FFF 5 5	qd FFF 6 6	30 day(s) FFF 8 9	 FFF 	narrative
+244-02	33	0	PREDNISONE   10MG,  1 Tablet(s)  PO QD x 30 day(s)	prednisone FFF 0 0	10mg, FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+244-02	33	0	PREDNISONE   10MG,  1 Tablet(s)  PO QD x 30 day(s)	prednisone FFF 0 0	1 tablet(s) FFF 2 3	po FFF 4 4	qd FFF 5 5	30 day(s) FFF 7 8	 FFF 	narrative
+244-02	34	0	Isosorbide Dinitrate    30MG,  1 Tablet(s)  PO QD	isosorbide dinitrate FFF 0 1	30mg, FFF 2 2	po FFF 5 5	qd FFF 6 6	 FFF 	 FFF 	narrative
+244-02	41	0	No alcohol or drugs.	drugs. FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

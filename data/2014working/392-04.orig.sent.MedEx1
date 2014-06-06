@@ -1,0 +1,64 @@
+392-04||1||Record date: 2113-04-07
+392-04||2||Vascular Surgery
+392-04||3||Millen Service Admission Note
+392-04||4||Name: Adair, Helen
+392-04||5||MRN: 684-22-67
+392-04||6||Date: 4/07/13
+392-04||7||Attending: Dr.
+392-04||8||Salgado
+392-04||9||Fellow:  Dr. Cross
+392-04||10||Junior:  Dr. Chandler
+392-04||11||History of Present Illness:  50 yo F with NIDDM, active smoking, hypercholesterolemia, and severe PVD (s/p PTCA and multiple toe amputations for diabetic foot), now presents with worsening wet gangrene.
+392-04||12||She first noted drainage from her left great toe five days prior to admission.
+392-04||13||This was accompanied by toe swelling, fevers to 100.5 and chills, but she denies pain in her L great toe.
+392-04||14||Almost simultaneous with the drainage from her L great toe, she also noted increasing pain from the lateral aspect of the plantar surface of her left forefoot, especially when walking.
+392-04||15||She denies any trauma to her left foot.
+392-04||16||She reports that the ulcer on her right lateral foot is stable, and she has been dressing it with Panafil ointment as prescribed by Dr.||INDICATION FFF ulcer FFF 4 4||DBN FFF panafil FFF 19 19||DDF FFF ointment FFF 20 20||INDICATION FFF as FFF 21 21||
+392-04||17||Salgado.
+392-04||18||She denies any rest pain, and reports that her prior claudication is almost fully resolved following her R SFA angioplasty last year.
+392-04||19||She presented today to Dr.
+392-04||20||Salgado&#8217;s clinic for routine follow-up, when wet gangrene of her L great toe was detected on clinical exam.
+392-04||21||Furthermore, she underwent repeat A-LENIs that demonstrated a major decline in the ABI of her R leg, suggestive of worsening peripheral vascular disease.
+392-04||22||She is now admitted for parenteral antibiotics and amputation of the L great toe and debridement of the R forefoot ulcer.||DIN FFF antibiotics FFF 6 6||INDICATION FFF debridement FFF 15 15||INDICATION FFF ulcer. FFF 20 20||
+392-04||23||Past Medical History:
+392-04||24||(1) Diabetes mellitus type 2 (A1Cs &#8211; 7.70% in 3/2113, 7.60% in 2112, 10.10% in 2111, 10.70% in 2106, 9.80% in 2104)
+392-04||25||(2) Hypercholesterolemia
+392-04||26||(3) Smoking (50 pack years, currently &#189; pack per day, recently started Chantix)||DBN FFF chantix) FFF 12 12||
+392-04||27||(4) PVD with claudication and lower extremity ulcers:  arterial vascular study - right ABI 0.34 (down from 0.69) and left ABI 0.81, disease diffusely in R leg
+392-04||28||(5) Uterine cancer
+392-04||29||Past Surgical History:
+392-04||30||2097: TAH-BSO
+392-04||31||10/03/12: Balloon angioplasty of right superficial femoral artery and right peroneal artery
+392-04||32||10/05/12: Thrombin injection for left common femoral artery||DIN FFF thrombin FFF 1 1||DDF FFF injection FFF 2 2||
+392-04||33||10/30/12:  R 5th toe amputation
+392-04||34||1/24/13: L 4th toe amputation, foot debridement
+392-04||35||Social History:
+392-04||36||Works as waitress at Hardee's and cashier at Barnes Noble.
+392-04||37||No kids, closest to sister Trudy
+392-04||38||Tobacco - 50 pack year, currently 1/2 pack per day, had recently quit for 4 weeks but restarted due to &#8220;stress&#8221;.
+392-04||39||Tried to start Chantix, but insurance does not cover.||DBN FFF chantix, FFF 3 3||
+392-04||40||No EtOH
+392-04||41||No drugs||DIN FFF drugs FFF 1 1||
+392-04||42||Family history:  Brother CAD; father died of bone cancer; mother died of uterine cancer; brother, sister, grandfather on maternal side all w/ DM.
+392-04||43||Medications at home:
+392-04||44||1) PO BID
+392-04||45||Glipizide Xl (GLIPIZIDE Xl) 10 MG (10MG TAB OSM 24 take 1) PO QD||DBN FFF glipizide xl FFF 0 1||
+392-04||45||Glipizide Xl (GLIPIZIDE Xl) 10 MG (10MG TAB OSM 24 take 1) PO QD||DIN FFF osm FFF 8 8||DOSE FFF 24 FFF 9 9||RUT FFF po FFF 12 12||FREQ FFF qd FFF 13 13||
+392-04||46||LISINOPRIL 2.5 MG (2.5MG TABLET take 1) PO QD||DIN FFF lisinopril FFF 0 0||DOSE FFF 2.5 mg FFF 1 2||DOSE FFF (2.5mg FFF 3 3||DDF FFF tablet FFF 4 4||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||
+392-04||47||METFORMIN 850 MG (850MG TABLET take 1) PO BID||DIN FFF metformin FFF 0 0||DOSE FFF 850 mg FFF 1 2||DOSE FFF (850mg FFF 3 3||DDF FFF tablet FFF 4 4||RUT FFF po FFF 7 7||FREQ FFF bid FFF 8 8||
+392-04||48||Plavix (CLOPIDOGREL) 75 MG (75MG TABLET take 1) PO QD||DBN FFF plavix FFF 0 0||
+392-04||49||Pravastatin (PRAVASTATIN) 20 MG (20MG TABLET take 1) PO QHS||DIN FFF pravastatin FFF 0 0||
+392-04||50||Tramadol (TRAMADOL) 50 MG (50MG TABLET take 1) PO Q6H PRN||DIN FFF tramadol FFF 0 0||
+392-04||51||Allergies: NKDA
+392-04||52||Physical Examination:
+392-04||53||Vital Signs            T: 97.7    P: 82   BP: 126/67       RR: 20     Sat: 98%
+392-04||54||General:  Comfortable, in bed, no acute distress
+392-04||55||HEENT:  Normocephalic, atraumatic, PERRLA, no lymphadenopathy, anicteric sclera, moist mucous membranes.
+392-04||56||Neck:  supple, no thyromegaly, no jugular venous distension, normal carotid upstrokes bilaterally, no carotid bruits.
+392-04||57||Pulm:  Clear to auscultation bilaterally
+392-04||58||Cardiac:  Regular rate and rhythm; no murmurs, rubs or gallops.
+392-04||59||Abdomen:  Soft, mildly overweight, non-distended, non-tender, no palpable pulsatile masses, no organomegaly, no abdominal bruit, no costovertebral tenderness
+392-04||60||Extremities:  R foot cool, L foot warm.  s/p R 5th toe and L 4th toe amputation.
+392-04||61||No venous stasis dermatitis or bronzing, no pedal edema.  5/5 plantar/dorsiflexion bilaterally.
+392-04||62||Sensation to light touch intact in both feet.
+392-04||63||Deep ulcer with fibrinous exudate at base on lateral aspect of R forefoot (at 5th toe amputation site), no visible bone, no periulcer cellulitis. L foot with wet gangrene involving primarily plantar surface and nailbed of L great toe, visible sinus extending deeper on medial aspect of L nailbed, cellulitis and edema extending throughout toe.

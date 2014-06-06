@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2100-10-21
+
+Johnson County Home
+
+Emergency Department Record
+
+
+
+Patient: YEO, AUSTIN             MRN: 8652895        DOB:  5/17/2060     Sex: M
+
+Registration Date/Time: 10/21/2100 9:15:00 AM            Provider: ELLEN HUNTER
+
+
+
+
+
+PMHx
+
+cad?
+
+etoh abuse
+
+Meds
+
+patient unable to recall
+
+Allergy
+
+nkda
+
+Social Hx
+
+homeless
+
+history of etOH abuse
+
+
+
+ED Attending Physician Note
+
+HPI
+
+Patient was admitted to the observation unit at JCH overnight because of his complaints of chest pain.  Plan had been to cycle enzymes and provocative testing, however, this am patient adamantly refused to stay in hospital and understanding leaving included incomplete evaluation of chest pain and risk of death, patient signed out AMA.
+
+
+
+I left the obseration unit to walk downstairs and find patient signing into the ER "I want to go to detox"
+
+Asked patient why he left OU to just come back to the hospital and he said "There is nothing wrong with my heart".
+
+
+
+Patient also reports he thought he had a place to stay but after making a few phone calls, realized he had nowhere to go to spend the night.
+
+
+
+No new complaints including no chest pain or shortness of breath
+
+ROS
+
+see above
+
+Vitals
+
+See Nursing Notes
+
+PE
+
+awake alert
+
+EOMI PERRL
+
+supple
+
+cTA
+
+RRR
+
+soft NT
+
+no edema +pulses
+
+no rashes
+
+ambulatory
+
+Medical Decision Making ED Course
+
+social services contacted and they began screening for detox.
+
+however, before screening process could be finished patient left the ED and has not returned.
+
+Condition on Discharge
+
+stable
+
+Diagnoses
+
+detox evaluation and screening
+
+
+
+This note has been electronically signed by ELLEN HUNTER, MD 10/24/2100 12:31:23 PM
+
+
+
+Clinical staff documenting in the ED note include:
+
+
+
+Attending/Nurse Practitioners(s)
+
+
+
+ELLEN HUNTER, MD
+
+
+
+]]></TEXT>
+  <TAGS>
+    <CAD id="DOC0" time="before DCT" indicator="mention"/>
+    <CAD id="DOC1" time="during DCT" indicator="mention"/>
+    <CAD id="DOC4" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC2" indicator="not present"/>
+    <SMOKER id="DOC3" status="unknown"/>
+  </TAGS>
+</root>

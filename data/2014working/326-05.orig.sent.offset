@@ -1,0 +1,25 @@
+326-05	8	0	She was started on lasix 20 mg po qd.	lasix FFF 4 4	20 mg FFF 5 6	po FFF 7 7	qd. FFF 8 8	 FFF 	 FFF 	narrative
+326-05	25	0	ALL:  cipro, pcn (rash), vanco (red man&#8217;s), quinolone	cipro, FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+326-05	25	0	ALL:  cipro, pcn (rash), vanco (red man&#8217;s), quinolone	pcn FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+326-05	25	0	ALL:  cipro, pcn (rash), vanco (red man&#8217;s), quinolone	quinolone FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+326-05	27	438	calcium carbonate and vitamin d   500mg/200units po bid	calcium carbonate and vitamin d FFF 0 4	500mg/200units FFF 5 5	po FFF 6 6	bid FFF 7 7	 FFF 	 FFF 	narrative
+326-05	28	438	Cellcept   750mg po bid	cellcept FFF 0 0	750mg FFF 1 1	po FFF 2 2	bid FFF 3 3	 FFF 	 FFF 	narrative
+326-05	29	438	Diovan  160mg po daily	diovan FFF 0 0	160mg FFF 1 1	po FFF 2 2	daily FFF 3 3	 FFF 	 FFF 	narrative
+326-05	30	438	doxepin   50mg po at bedtime	doxepin FFF 0 0	50mg FFF 1 1	po FFF 2 2	at bedtime FFF 3 4	 FFF 	 FFF 	narrative
+326-05	31	438	ferrous gluconate	ferrous gluconate FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+326-05	32	438	Lasix   20mg po once a day	lasix FFF 0 0	20mg FFF 1 1	po FFF 2 2	once a day FFF 3 5	 FFF 	 FFF 	narrative
+326-05	33	438	metformin hydrochloride  500mg po bid	metformin hydrochloride FFF 0 1	500mg FFF 2 2	po FFF 3 3	bid FFF 4 4	 FFF 	 FFF 	narrative
+326-05	34	438	Paxil   10mg po bid	paxil FFF 0 0	10mg FFF 1 1	po FFF 2 2	bid FFF 3 3	 FFF 	 FFF 	narrative
+326-05	35	438	prednisone   5mg po daily	prednisone FFF 0 0	5mg FFF 1 1	po FFF 2 2	daily FFF 3 3	 FFF 	 FFF 	narrative
+326-05	36	438	Prilosec   20mg po daily	prilosec FFF 0 0	20mg FFF 1 1	po FFF 2 2	daily FFF 3 3	 FFF 	 FFF 	narrative
+326-05	37	438	Prograf   4 mg bid	prograf FFF 0 0	4 mg FFF 1 2	 FFF 	bid FFF 3 3	 FFF 	 FFF 	narrative
+326-05	38	438	sodium bicarbonate tablets   650 mg oral twice a day	sodium bicarbonate tablets FFF 0 2	650 mg FFF 3 4	oral FFF 5 5	twice a day FFF 6 8	 FFF 	 FFF 	narrative
+326-05	39	438	Xanax  0.5mg po tid PRN	xanax FFF 0 0	0.5mg FFF 1 1	po FFF 2 2	tid PRN FFF 3 4	 FFF 	 FFF 	narrative
+326-05	69	0	Her face appears slightly swollen and she has had SVC syndrome in the past but her facial swelling is likely related to her steroids, she has only mild venous distention on her chest and she claims her fascial swelling is not worse then usual. &#224;Agree w/ lasix 60 mg iv BID (but pt may be preload dependent w/ such severe pulm htn so we have to avoid volume depleting her)	lasix FFF 46 46	60 mg FFF 47 48	iv FFF 49 49	bid FFF 50 50	 FFF 	 FFF 	narrative
+326-05	71	0	&#224;If no PE and not better w/ lasix then will need to consider chest CT w/ IV contrast to r/o SVC syndrome and parechymal lund problems.	lasix FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+326-05	71	0	&#224;If no PE and not better w/ lasix then will need to consider chest CT w/ IV contrast to r/o SVC syndrome and parechymal lund problems.	iv contrast FFF 16 17	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+326-05	74	0	Hopefully won&#8217;t worsen w/ lasix. &#224;check prograf trough	lasix. FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+326-05	74	0	Hopefully won&#8217;t worsen w/ lasix. &#224;check prograf trough	prograf FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+326-05	75	0	&#224;continue prograf, cellcept, prednisone at usual doses	prograf, FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+326-05	75	0	&#224;continue prograf, cellcept, prednisone at usual doses	cellcept, FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+326-05	75	0	&#224;continue prograf, cellcept, prednisone at usual doses	prednisone FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

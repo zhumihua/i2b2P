@@ -1,0 +1,100 @@
+226-01	1	Record date: 2136-12-05	
+226-01	2	HIGHLAND HOSITAL VISIT	
+226-01	3	PT: Ellen Law	
+226-01	4	date of visit: 12/05/36	
+226-01	5	CC: fu cards, htn, hyperlipidemia, DM		TOD FFF cc#0	INDICATION FFF htn#3	INDICATION FFF hyperlipidemia#4	INDICATION FFF dm#5
+226-01	6	HPI: Since our last visit, saw Cardiology re her neck and jaw pain w exertion, Dr.		INDICATION FFF pain#12
+226-01	7	Uphoff who feels that she has stable angina. he recommended that she optimize her medical management by increasing her BB and CCB. At this point, she has increased her BB to 2 pills 2x per day.  she feels ok on this.  no lightheadedness or dizziness.  She is also going to start nitrates as soon as they arrive--imdur 30mg qd.  still having intermittenly jaw discomfort walking up stairs.  no chest pressure or jaw discomfort at rest.  she has not gained any wt.  however, has not been able to increase her lantus bc she was not sent the correct amount and would run out if she increaesd to previously recommended dose.		INDICATION FFF angina#7	DBN FFF bb#19	DBN FFF ccb#21	DBN FFF bb#29	DOSEAMT FFF 2 pills#32	FREQ FFF per day#35	INDICATION FFF dizziness#44	INDICATION FFF as#52	INDICATION FFF as#54	DOSE FFF 30mg#57	FREQ FFF qd#58	INDICATION FFF pressure#69	DBN FFF lantus#89	INDICATION FFF run#100
+226-01	8	also started pravastain since our last visit.  has not noticed any muscle aches or generalized weakness. has only been on this for 2 weeks though.		DRT FFF 2 weeks#23
+226-01	9	no hypoglycemia; good energy; feeling well overall.		INDICATION FFF hypoglycemia#1
+226-01	10	describes feeling pressure, fullness in left ear; slight decrease in hearing.		INDICATION FFF pressure#2	RUT FFF ear#6
+226-01	11	Problems	
+226-01	12	Diabetes mellitus		INDICATION FFF diabetes mellitus#1
+226-01	13	Malignant tumor of urinary bladder : stage 1, now s/p bcg treatment, followed by urology		INDICATION FFF tumor of urinary bladder#4	DIN FFF bcg#10
+226-01	14	Hypertensive disorder		INDICATION FFF hypertensive disorder#1
+226-01	15	Obesity		INDICATION FFF obesity#0
+226-01	16	Retinal detachment : s/p repair Dr.		DIN FFF retinal#0
+226-01	17	Cleveland	
+226-01	18	Medications	
+226-01	19	Aspirin (ACETYLSALICYLIC ACID) 81 MG (81MG TABLET Take 1) PO QD #90 Tablet(s)		DIN FFF aspirin#0	DOSE FFF 81mg#4	DOSE FFF 81mg#5	RUT FFF po#9	FREQ FFF qd#10
+226-01	20	Cozaar (LOSARTAN) 50 MG (50MG TABLET Take 1) PO BID , Member ID # 55080437876 #180 Tablet(s)		DBN FFF cozaar#0	DOSE FFF 50mg#3	DOSE FFF 50mg#4	RUT FFF po#8	FREQ FFF bid#9
+226-01	21	Hydrochlorothiazide 25 MG (25MG TABLET Take 1) PO QD , Member ID # 033388269 #90 Tablet(s)		DIN FFF hydrochlorothiazide#0	DOSE FFF 25mg#2	DOSE FFF 25mg#3	RUT FFF po#7	FREQ FFF qd#8
+226-01	22	Imdur ER (ISOSORBIDE MONONITRATE (SR)) 30 MG (30 MG TAB.SR 24H Take 1) PO QD #90 TAB.SR		DBN FFF imdur#0	DPN FFF isosorbide mononitrate ( sr )#4	DOSE FFF 30mg#6	DOSE FFF 30mg#8	DRT FFF 24 h#10	RUT FFF po#13	FREQ FFF qd#14
+226-01	23	Lantus (INSULIN GLARGINE) 100 U/ML VIAL ML SC AS DIRECTED , 65U before breakfast and 10 units at night Member ID # 033388269 #3 Month(s) Supply		DBN FFF lantus#0	DOSE FFF 100u / ml#4	RUT FFF sc#7	INDICATION FFF as#8	DOSE FFF 65u#11	DOSEAMT FFF 10 units#16	TOD FFF at night#18
+226-01	24	Metformin 1000 MG (1000MG TABLET Take 1) PO BID #180 Tablet(s)		DIN FFF metformin#0	DOSE FFF 1000mg#2	DOSE FFF 1000mg#3	RUT FFF po#7	FREQ FFF bid#8
+226-01	25	Metoprolol TARTRATE 50 MG (50MG TABLET Take 1) PO QD AS DIRECTED , 2 PO QAM AND 1 PO QPM #180 Tablet(s)		DIN FFF metoprolol tartrate#1	DOSE FFF 50mg#3	DOSE FFF 50mg#4	RUT FFF po#8	FREQ FFF qd#9	INDICATION FFF as#10	RUT FFF po#14	FREQ FFF qam#15	RUT FFF po#18	FREQ FFF qpm#19
+226-01	26	Norvasc (AMLODIPINE) 5 MG (5 MG TABLET Take 1) PO QD x 90 days #90 Tablet(s)		DBN FFF norvasc#0	DOSE FFF 5mg#3	DOSE FFF 5mg#5	RUT FFF po#9	FREQ FFF qd#10	DRT FFF x 90 days#13
+226-01	27	Novolog flexpens SC AC AS DIRECTED , 10U before breakfast, 10U before lunch, 20U before dinner #15 prefilled pens		DBN FFF novolog#0	RUT FFF sc#2	TOD FFF ac#3	INDICATION FFF as#4	DOSE FFF 10u#7	DOSE FFF 10u#10	DOSE FFF 20u#13	TOD FFF before dinner#15
+226-01	28	One touch ultra test strips 1 SC BID #3 Month(s) Supply		DBN FFF one touch#1	RUT FFF sc#6	FREQ FFF bid#7
+226-01	29	Pravastatin 20 MG (20MG TABLET Take 1) PO QHS #90 Tablet(s)		DIN FFF pravastatin#0	DOSE FFF 20mg#2	DOSE FFF 20mg#3	RUT FFF po#7	FREQ FFF qhs#8
+226-01	30	Solostar prefilled disposable lantus insulin pen 65 UNITS SC qd , Member ID# 033388269 #3 Month(s) Supply		DBN FFF solostar#0	DBN FFF lantus#3	DOSEAMT FFF 65 units#7	RUT FFF sc#8	FREQ FFF qd#9
+226-01	31	Zostavax (ZOSTER VACCINE LIVE (PF)) 1 VIAL SC X1 x 365 days, 1. Reconstitute and inject 1 vial.		DBN FFF zostavax#0	DOSEAMT FFF 1 vial#6	RUT FFF sc#7	FREQ FFF x1#8	DRT FFF 365 days#11	DOSEAMT FFF 1 vial#17
+226-01	32	Sub-cutaneous upper arm. 2. Please document vaccine administration in the LMR immunization module (or notify the practice in writing if no LMR access). #1 vial		DIN FFF vaccine#6
+226-01	33	Allergies		INDICATION FFF allergies#0
+226-01	34	AZITHROMYCIN - Unknown		DIN FFF azithromycin#0
+226-01	35	Ace Inhibitor - cough,		DIN FFF ace inhibitor#1	INDICATION FFF cough#3
+226-01	36	TOB: quit 2120; smoked 2ppd x 15 yrs		DRT FFF 15 yrs#7
+226-01	37	ETOH: none	
+226-01	38	IVDU/illict drugs: none		DIN FFF drugs#1
+226-01	39	SH: originally from Mt.		INDICATION FFF sh#0	INDICATION FFF mt#3
+226-01	40	Married for 39 years to Friedman, describes marriage as good, safe.		DRT FFF 39 years#3	INDICATION FFF as#8
+226-01	41	Has 2 children and 8 grandchildren.	
+226-01	42	Has 2 daugthers, 1 lives in hartsville and 1 in nuku'alofa. no pets. fulltime author. husband has h/p prostate CA.		INDICATION FFF prostate#18	INDICATION FFF ca#19
+226-01	43	FH:		INDICATION FFF fh#0
+226-01	44	(no known )h/o sudden death, hyperlipidemia		INDICATION FFF death#4	INDICATION FFF hyperlipidemia#5
+226-01	45	+ Dm in father (dxd in his 60-70)		INDICATION FFF dm#1
+226-01	46	+ mgm w stroke (		INDICATION FFF stroke#3
+226-01	47	+CHF in ther mother		INDICATION FFF chf#0
+226-01	48	+mUncles x 2 with MIs (~ 60's_		FREQ FFF x 2#2
+226-01	49	(no known) h/o endometrial, ovarian, thyroid, melanoma, breast, prostate		INDICATION FFF melanoma#6	INDICATION FFF prostate#8
+226-01	50	+ colon cancer in her mother, dx'd 55-60yo		INDICATION FFF colon#1	INDICATION FFF cancer#2
+226-01	51	(no known )h/o osteoporosis/premature bone loss		INDICATION FFF osteoporosis#3
+226-01	52	(no known )h/o colon polyp, dysplasic nevi		INDICATION FFF colon#3
+226-01	53	(no known )h/o pe, DVT, miscarriages, bleeding disorders		INDICATION FFF pe#3	INDICATION FFF dvt#4	INDICATION FFF miscarriages#5	INDICATION FFF bleeding#6
+226-01	54	(+)h/o glaucoma in mUncle		INDICATION FFF glaucoma#1
+226-01	55	(no known ) h/o depression, suicide, schizophrenia		INDICATION FFF depression#4	INDICATION FFF schizophrenia#6
+226-01	56	+ dementia in her mother		INDICATION FFF dementia#1
+226-01	57	+alcoholis in 2 muncles	
+226-01	58	+ bipolar do in grandson	
+226-01	59	VS: 130/66  76  97.1  98%RA  250 lbs  57.25		DOSE FFF 98%#4	INDICATION FFF ra#4
+226-01	60	general: well- appearing F in NAD		INDICATION FFF f#3
+226-01	61	HEENT: anicteric, PERRL, EOMI, mmm; difficult to assess JVP, L TM w nearly obstructing cerumen; R w nl TM and light reflex.	
+226-01	62	PULM: CTAB w good air movement. no wheezes, rhonchi, or crackles		INDICATION FFF wheezes#7
+226-01	63	COR: rrr, nls1s1, no m/r/g		DIN FFF cor#0	DIN FFF m / r#4
+226-01	64	EXT: wwp, no edema		INDICATION FFF edema#3
+226-01	65		
+226-01	66	A/P: 61 yo F with PMH of HTN, hyperlipidemia, DM, obesity, bladder cancer presenting for fu of multiple medical issues.		INDICATION FFF f#3	INDICATION FFF htn#7	INDICATION FFF hyperlipidemia#8	INDICATION FFF dm#9	INDICATION FFF obesity#10	INDICATION FFF bladder cancer#12
+226-01	67	1) DM: Dx'd ~ 2129, c/b diabetic retinopathy s/p laser tx and likely neuropathy.		INDICATION FFF dm#1	INDICATION FFF tx#10	INDICATION FFF neuropathy#13
+226-01	68	Most recent 10/36 HgbA1c: 7.0%, very near goal of &lt;7.0% and improving compared to 7.8 % since increase in lantus dose.		DOSE FFF 7.0%#4	DOSE FFF 7.0%#9	DOSE FFF 7.8%#15	DBN FFF lantus#19
+226-01	69	Did not bring FS log today but continues to report that her fasting glucose in AM still often above goal and that her largest meal and need for novolg is at dinner.		TOD FFF am#15
+226-01	70	Previously recommended starting BID dosing of lantus and adding 10 units in PM, but not able to obtain yet from pfizer; discussed that for some individuals it dose not last for 24 hours adn that they get better glucose control w BID dosing.		FREQ FFF bid#3	DBN FFF lantus#6	DOSEAMT FFF 10 units#10	TOD FFF pm#12	DRT FFF for 24 hours#32	INDICATION FFF glucose control#39	FREQ FFF bid#41
+226-01	71	Discussed that she will likely need to decrease her PM dose of novolog ----recheck hgba1c ~ 1/2137		TOD FFF pm#9	DBN FFF novolog#12
+226-01	72	----continue metformin 1000mg BID, lantus 65units qam and novolog 70/30 but also adding 10 units of lantus in PM		DIN FFF metformin#1	DOSE FFF 1000mg#2	FREQ FFF bid#3	DBN FFF lantus#4	DOSEAMT FFF 65 units#5	FREQ FFF qam#6	DBN FFF novolog#8	DOSE FFF 70/30#9	DOSEAMT FFF 10 units#14	DBN FFF lantus#16	TOD FFF pm#18
+226-01	73	----continue glucose monitoring for likely need for further adjustments to regimen	
+226-01	74	----7/36 urine microalbumin/crt: 35.9 above goal of &lt;30; have made changes to BP regimen and BP now within goal; will recheck u microalb/crt in 1/2137		INDICATION FFF bp#12	INDICATION FFF bp#15
+226-01	75	----OPTHO: followd by dr arias; reports uptodate	
+226-01	76	----PODIOTRY: pt w likely diabetic neuropathy and e/o oncychomycosis; referrred to podiotry for further care and monitoring at previous visit		INDICATION FFF diabetic neuropathy#5
+226-01	77	----BP: within goal on HCTZ, Cozzar, metoprolol and norvasc		INDICATION FFF bp#0	DPN FFF hctz#4	DIN FFF metoprolol#6	DBN FFF norvasc#8
+226-01	78	----2136 LDL: 114 above goal of &lt;100, not on statin; started simvastatin which was dc'd 2/2 myalgias and generalized weakness (nl LFTS and CK); pt has started pravastain and appears to be doing well on this		INDICATION FFF ldl#1	DIN FFF statin#9	DIN FFF simvastatin#11
+226-01	79	----9/36 Gabriella Yockey	
+226-01	80	----discussed nutrition referral; pt declined but plans on joining south beach diet	
+226-01	81	----discussed importance of wt loss; pt to try south beach diet;	
+226-01	82	----PNEUMOVAX: 2136		DIN FFF pneumovax#0
+226-01	83	----Flu shot/H1N1:  flu shot uptodate; receiving h1n1 today	
+226-01	84	2) HTN: Dx'd in ~ 2129.		INDICATION FFF htn :#1
+226-01	85	BP very near  goal today on current regimen of HCTZ 25mg qd, cozaar 50mg BId, metoprolol 100mg BID and norvasc 5 mg qd which appears to be well-tolerated.		INDICATION FFF bp#0	DPN FFF hctz#9	DOSE FFF 25mg#10	FREQ FFF qd#11	DBN FFF cozaar#12	DOSE FFF 50mg#13	FREQ FFF bid#14	DIN FFF metoprolol#15	DOSE FFF 100mg#16	FREQ FFF bid#17	DBN FFF norvasc#19	DOSE FFF 5mg#21	FREQ FFF qd#22
+226-01	86	Will not make any additional changes since pt is planning on adding imdur 30mg as soon as she received it from Pfizer. 10/2136 chem 7, renal fxn, ca wnl.  -----encouraged low na diet, wt loss ----continue HCTZ 25mg qd, cozaar 50mg BId, and metoprolol 100mg BID, and norvasc 5 mg qd		DBN FFF imdur#12	DOSE FFF 30mg#13	INDICATION FFF as#14	INDICATION FFF as#16	INDICATION FFF ca#27	DIN FFF na#31	DPN FFF hctz#36	DOSE FFF 25mg#37	FREQ FFF qd#38	DBN FFF cozaar#39	DOSE FFF 50mg#40	FREQ FFF bid#41	DIN FFF metoprolol#43	DOSE FFF 100mg#44	FREQ FFF bid#45	DBN FFF norvasc#47	DOSE FFF 5mg#49	FREQ FFF qd#50
+226-01	87	----reviewed si/sxs for which she should seek immediate medical attention	
+226-01	88	3) dyslipidemia: 7/36 LDL 114 above goal of &lt;100 given DM  and likely CAD.		INDICATION FFF ldl#3	INDICATION FFF dm#10	INDICATION FFF cad#13
+226-01	89	Pt w brief 2 week trial of simvastatin self-dc'd 2/2 myalgias and generalized weakness but nl LFTS/CK/GFR.		DRT FFF 2 week#4	DIN FFF simvastatin#7
+226-01	90	Pt now on pravastatin x 2 weeks and appears to be well-tolerated thus far.		DIN FFF pravastatin#3	DRT FFF x 2 weeks#6
+226-01	91	Again reviewed possible side effects and she knows to call w any concerns or questions ----continue pravastatin 20mg qhs; reivwed possible side effects and instructed to call w concerns ----pt instructed that she will need repeat lipids and LFTS in ~ 6-8 weeks after starting pravasatin; will check at next visit ----recommended low cholesterol diet		DIN FFF pravastatin#16	DOSE FFF 20mg#17	FREQ FFF qhs#18	DRT FFF 6-8 weeks#42	INDICATION FFF cholesterol#53
+226-01	92	4) Likely stable angina/CAD; now s/p Cardiology, consult w Dr.		INDICATION FFF angina#3	INDICATION FFF cad#3
+226-01	93	Uphoff who feels that clinical presentation c/w stable angina/CAD and has recommended trial of optimizing medical management w nitrates and BB/CCB for now.		INDICATION FFF angina#8	INDICATION FFF cad#8
+226-01	94	Reviewed consult recs with patient.  however, if this does not work, will consider possible cath/stress test. pt appears to be tolerating increase in BB and has not yet started imdur.  recent LDL above goal but just restarted statin so will need fu measurement in ~ 4 weeks.   ----continue asa 81 mg qd; increased metoprolol 100mg BID, ARB, and pravastatin 20mg qhs ----fu appt w dr uphoff in ~ 1 week		DBN FFF bb#23	DBN FFF imdur#29	INDICATION FFF ldl#31	DIN FFF statin#37	DRT FFF 4 weeks#46	DIN FFF asa#48	DOSE FFF 81mg#50	FREQ FFF qd#51	DIN FFF metoprolol#53	DOSE FFF 100mg#54	FREQ FFF bid#55	DBN FFF arb#56	DIN FFF pravastatin#58	DOSE FFF 20mg#59	FREQ FFF qhs#60	DRT FFF 1 week#69
+226-01	95	----pt to add imdur 30mg as soon as arrives from pharmacy		INDICATION FFF add#2	DBN FFF imdur#3	DOSE FFF 30mg#4	INDICATION FFF as#5	INDICATION FFF as#7
+226-01	96	5) Left ear impaction: Left TM w nearly completely obstructing cerumen.		RUT FFF ear#2
+226-01	97	Irrigated ear w full removal and visualizatino of nl TM post irrigation.		RUT FFF ear#1
+226-01	98	Pt confirms complete resolution of sxs w return of nl hearing.  pt felt well post irrigation w no dizziness. disucsed possible dizziness and she will sit in waiting room for a while and make sure that she does not experience.  6) HCM:		INDICATION FFF dizziness#18	INDICATION FFF dizziness#21	DRT FFF while#31
+226-01	99	----recevied flu shot	
+226-01	100	----will give h1n1 today	

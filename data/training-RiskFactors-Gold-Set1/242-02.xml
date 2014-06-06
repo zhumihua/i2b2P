@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2072-01-10
+
+                     LAGRANGE EMERGENCY DEPT VISIT
+
+ 
+
+LOUIS,ROBERT   855-88-85-2                   VISIT DATE: 01/10/72
+
+This patient was interviewed and examined by me exclusively.
+
+PRESENTING COMPLAINT:  Chest pain.
+
+HISTORY OF PRESENTING COMPLAINT:  This patient is a 67-year-old 
+
+male who has known atherosclerotic coronary heart disease 
+
+manifested by myocardial infarction approximately five years ago.  
+
+He also has congestive heart failure with an ejection fraction of 
+
+25%, and this is thought to be due to alcoholic cardiomyopathy 
+
+given a substantial history of alcohol ingestion.  Over the past 
+
+several months, he has stopped taking his medicine because he could 
+
+not get to his doctor and felt he could not buy the medicine.  Over 
+
+the past two weeks, he has been beset by palpitations and dyspnea 
+
+on exertion as well as palpitations at rest.
+
+REVIEW OF SYSTEMS:  He has had no vomiting, diaphoresis, radiation 
+
+of the pain, change in bowel habits or any cough.  All of the 
+
+systems are negative.
+
+PAST MEDICAL HISTORY:  He has had no significant surgeries.
+
+SOCIAL HISTORY AND FAMILY HISTORY:  He consumes alcohol slightly, 
+
+once smoked in the past, but does not any longer.  He lives with 
+
+his family.
+
+PHYSICAL EXAMINATION:  GENERAL:  Physical examination shows a 
+
+patient who is awake, alert, calm and oriented.  He is in no 
+
+distress at the time of examination.  EYES:  He had no scleral 
+
+icterus.  NECK:  There was no adenopathy.  His thyroid was not 
+
+palpable.  CHEST:  His chest was clear.  CARDIOVASCULAR:  His 
+
+cardiovascular exam showed a regular rate and rhythm.  ABDOMEN:  
+
+His abdomen was soft and nontender.  EXTREMITIES:  His extremities 
+
+showed no clubbing, cyanosis or edema.  SKIN:  He had no rash.  
+
+NEURO:  Neurologic exam was physiologic.
+
+LABORATORY EVALUATION:  Electrocardiogram showed tachycardia and 
+
+T-wave inversion diffusely, which was unchanged from prior 
+
+electrocardiogram.  His CK and troponin were unremarkable.  His 
+
+troponin was 1.1, which was similar to a previous admission.
+
+THERAPY RENDERED/COURSE IN ED:  The patient was treated with beta 
+
+blocker and aspirin in the Emergency Department.
+
+FINAL DIAGNOSES:
+
+1.  Angina pectoris.
+
+2.  Hypertension.
+
+3.  Tachycardia.
+
+DISPOSITION (including condition upon discharge):  The patient was  
+
+admitted to the Medical service for further evaluation.  He was 
+
+admitted in satisfactory condition.
+
+___________________________________                    FM381/03624 
+
+WILLIAM YARGER, M.D.       RY70                         D:01/10/72 
+
+                                                       T:01/10/72 
+
+Dictated by:  WILLIAM YARGER, M.D.       RY70 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC9" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC6" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC8" time="after DCT" indicator="mention"/>
+    <CAD id="DOC0" time="before DCT" indicator="mention"/>
+    <CAD id="DOC2" time="before DCT" indicator="event"/>
+    <CAD id="DOC5" time="during DCT" indicator="mention"/>
+    <CAD id="DOC7" time="during DCT" indicator="symptom"/>
+    <CAD id="DOC10" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC4" indicator="not present"/>
+  </TAGS>
+</root>

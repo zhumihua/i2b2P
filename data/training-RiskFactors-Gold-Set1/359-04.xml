@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2095-06-09
+
+
+62 yo wf presenting to my office for  for FU post admission to UGM for rapid AF
+
+
+PMHx:
+   htn found 
+   DM 2,
+   HLP
+    hypothyroidism
+
+  
+ALL PNC rash
+
+
+
+FHx
+CAD   M                       Ca      no                         Endo  M with DM
+
+
+SHx
+tobacco     neg      ETOH    neg     drugs neg     work  detective         marital   div 1 c          dom violence neg     belts  no/ advised to use seatbelts.     
+ROS
+chest pain neg            palpitation neg             syncope neg
+dyspnea neg               wheezing neg              cough neg                     coryza neg
+nocturia 0          
+menses hysterectomy 2064 for endometriosis. 
+             
+
+diet just joined WW 1200 cal ADA NAS                      METS  3                        cholesterol
+
+
+PEx         BP  160/86    HR  72               RR   16        wt 236  lbs 
+
+
+NEURO        mental status nl          DTR  nl          gait nl            motor nl           sensory nl
+NECK           jvd   no        carotids/bruits  no         nodes  neg     thyroid  wnl
+CHEST         wheezes no
+COR             sounds S1 S2  reg     
+ABDOMEN soft NT              masses no            obese   no bruits 
+EXTREMITIES   edema no     DTR normal.
+                                       
+A+P
+
+AF with RHR, new onset; sp ECV in NSR now ; P: same meds
+HTN BP high at office,  P: increase lisinopril 20 mg/d  .
+Type 2 dm on diet and glyburide;  poor compl with HBGM. on WW diet 1200 cal ada nas; P: continue diet, glyburide, check BS bid
+HLP on statin,and diet; P: continue same.
+Hypothyroidism clinically euthyr; last TSH ok; P; continue  levothyroxine.
+LVH  P: control BP.
+All PNC.
+
+
+Medications
+Asa (CHILDREN 81MG TABLET Take 1 Tablet(s) QD , Take as directed 
+Dyazide 50/25 (Take 1) PO QD , 50/25 #90 Capsule(s)
+Flonase (FLUTICASONE NASAL SPRAY) 1-2 SPRAY NAS QD x 14 days #1 Bottle(s)
+Glyburide 5MG TABLET Take 1 Tablet(s) PO BID 15 minutes prior to breakfast and supper #60 Tablet(s)
+Levothyroxine SODIUM 112MCG TABLET PO QD , Take as directed #90 Tablet(s)
+Lisinopril 10 MG (10MG TABLET Take 1) PO QD , Take as directed #30 Tablet(s)
+Simvastatin 40 MG (40MG TABLET Take 1) PO QPM #90 Tablet(s)
+Toprol XL (METOPROLOL SUCCINATE EXTENDED RELEASE) 100MG TABLET CR 24HR Take 1.5 Tablet(s) PO QD , Please keep appt for further refills #135 Tablet(s)
+Warfarin SODIUM 4 MG (1MG TABLET Take 4) PO QPM , Take as directed per AMA clinic
+
+
+X. Hayes, M.D
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC9" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC20" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC23" time="before DCT" indicator="mention"/>
+    <OBESE id="DOC24" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC6" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC8" time="before DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC12" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC14" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC17" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC18" time="during DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC21" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC25" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC26" time="after DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC28" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC29" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC10" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC13" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC27" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC19" indicator="not present"/>
+    <SMOKER id="DOC22" status="never"/>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC15" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC30" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

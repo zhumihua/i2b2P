@@ -1,0 +1,49 @@
+254-01	1	Record date: 2079-07-28	
+254-01	2	MIDLAND EMERGENCY DEPT VISIT	
+254-01	3		
+254-01	4	NOONAN,FRANKIE   516-39-35-7                    VISIT DATE: 07/28/79	
+254-01	5	The patient was interviewed and examined by myself along with the  resident, Dr.	
+254-01	6	Welsh.	
+254-01	7	Please see his note for full details.	
+254-01	8	HISTORY OF PRESENTING COMPLAINT:  In brief, a 60 year-old male	
+254-01	9	complaining of shortness of breath.		INDICATION FFF shortness of breath .#4
+254-01	10	Ran out of his Lasix about 5-6  days ago and now is with increasing lower extremity edema,  orthopnea, PND.		DBN FFF lasix#4	DRT FFF 5-6 days#7	INDICATION FFF lower extremity edema#16	INDICATION FFF orthopnea#17	INDICATION FFF pnd .#18
+254-01	11	Denies fever, chills, nausea or vomiting.		INDICATION FFF fever#1	INDICATION FFF nausea#3	INDICATION FFF vomiting#5
+254-01	12	Sent  here for evaluation by his PCP today.		INDICATION FFF pcp#6
+254-01	13	REVIEW OF SYSTEMS:  No palpitations, no diaphoresis.	
+254-01	14	PAST MEDICAL HISTORY:  Insulin dependent diabetes mellitus,		INDICATION FFF insulin dependent diabetes mellitus#6
+254-01	15	hypertension, coronary artery disease, and atrial fibrillation.		INDICATION FFF hypertension#0	INDICATION FFF coronary artery disease#3	INDICATION FFF atrial fibrillation .#6
+254-01	16	MEDICATIONS:  Insulin, Glucophage, Verapamil, Lasix, Relafen, and		DIN FFF insulin#1	DBN FFF glucophage#2	DIN FFF verapamil#3	DBN FFF lasix#4	DBN FFF relafen#5
+254-01	17	Coumadin.		DBN FFF coumadin#0
+254-01	18	ALLERGIES:  No known drug allergies.		INDICATION FFF allergies#0	INDICATION FFF drug allergies#4
+254-01	19	SOCIAL HISTORY AND FAMILY HISTORY:  Does not drink, does not smoke.	
+254-01	20	PHYSICAL EXAMINATION:  VITAL SIGNS:  Blood pressure 136/88, O2		INDICATION FFF blood pressure#5
+254-01	21	saturation 95 percent, heart rate 54, temperature 97.8.		INDICATION FFF heart rate#4	INDICATION FFF temperature#6
+254-01	22	GENERAL:	
+254-01	23	Well-developed, well-nourished male in no apparent distress,	
+254-01	24	denying chest pain at this time.		INDICATION FFF chest pain#2
+254-01	25	HEENT:  Normocephalic,  atraumatic.	
+254-01	26	Pupils were equal, round and reactive to light.	
+254-01	27	Extraocular muscles full.  NECK:  No evidence of jugular venous	
+254-01	28	distension.  Supple.  LUNGS:  Clear to auscultation.	
+254-01	29	HEART:	
+254-01	30	Regular rate and rhythm.	
+254-01	31	Normal S1 and S2.	
+254-01	32	No murmurs, rubs or  gallops.	
+254-01	33	ABDOMEN:  Soft, non-tender and non-distended.	
+254-01	34	Active  bowel sounds.  EXTREMITIES:  3+ pedal edema.  NEUROLOGIC:  Cranial  nerves II-XII grossly intact.		INDICATION FFF edema#6
+254-01	35	Alert and oriented times three.		FREQ FFF times three#4
+254-01	36	Motor 5/5.	
+254-01	37	Sensation intact to light touch throughout.	
+254-01	38	LABORATORY EVALUATION:  Basic labs included a white count of 6.9,  hematocrit 39, BUN and creatinine of 10 and 1.0, with a potassium  of 5.7.		INDICATION FFF hematocrit#10	INDICATION FFF creatinine#14	DIN FFF potassium#21
+254-01	39	CK was 186, troponin 0.04.	
+254-01	40	Amylase was 61.		DIN FFF amylase#0
+254-01	41	Blood sugar  was 253.		INDICATION FFF blood sugar#1
+254-01	42	Chest x-ray showed cardiomegaly.  EKG showed atrial  fibrillation at about 50.		INDICATION FFF atrial fibrillation#7
+254-01	43	Nonspecific ST-T wave changes.	
+254-01	44	THERAPY RENDERED/COURSE IN ED:  Differential of his shortness of		INDICATION FFF ed#3
+254-01	45	breath includes congestive heart failure, ischemia.		INDICATION FFF congestive heart failure#4	INDICATION FFF ischemia .#5
+254-01	46	He was  admitted to the hospital for training of his congestive heart  failure regimen.		INDICATION FFF congestive heart failure#12
+254-01	47	His primary M.D. was notified.	
+254-01	48	FINAL DIAGNOSIS:	
+254-01	49	1.  Shortness of breath.		INDICATION FFF shortness of breath .#3

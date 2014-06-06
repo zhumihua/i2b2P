@@ -1,0 +1,81 @@
+250-04	1	Record date: 2082-01-22		 
+250-04	2			 
+250-04	3	Infectious Disease Fellow Consult Note		 
+250-04	4	Patient Name:  Yerger, Urania		 
+250-04	5	MRN:  58348900		 
+250-04	6	Location: 47N		 
+250-04	7	Admit Date: 1/21/82		 
+250-04	8	Consult Date: 1/22/82		 
+250-04	9			 
+250-04	10	HPI:  Ms. Yerger is an 84 yo F with CAD, DM, CHF, Htn, HL, and right ankle fracture s/p ORIF on 11/04/81 who presents with poor healing over the medial malleolus; we were consulted by Dr.		 
+250-04	11	Felton for recommendations on antibiotic management.		DBN FFF antibiotic#4
+250-04	12	She was initially seen on 11/01/81 after a mechanical fall which resulted in comminuted bimalleolar ankle fracture for which she underwent ORIF on 11/04/81.		 
+250-04	13	She had follow-up with her orthopaedist on 1/15/81 at which time she was noted to have an eschar with poor wound healing around the medial malleolus.		 
+250-04	14	She was therefore admitted yesterday for I&D of the open lesion on her ankle, as well as hardware removal.		 
+250-04	15	There is no operative report from the procedure.		 
+250-04	16	Reportedly there was non-union of the fracture, so hardware was removed.		 
+250-04	17	Tissue appeared fairly healthy.		 
+250-04	18	She denies having any recent fevers, chills, night sweats, or particular pain in the ankle.		 
+250-04	19	She has been doing some weight bearing with use of a walker.		 
+250-04	20	She has had some mild serous drainage from the ankle, but no purulent drainage.		 
+250-04	21	ROS: See HPI for positives.		 
+250-04	22	ROS otherwise negative in detail.		 
+250-04	23	PMH:		 
+250-04	24	1. CAD: s/p NSTEMI in 2078, followed by CABG (SVG to ramus, OM2, RCA, and LIMA to LAD)		 
+250-04	25	2.     CHF: diastolic dysfunction, EF 60% with mod MR/TR, flash pulm edema in setting of coronary ischemia		 
+250-04	26	3.     DM for 10-15yrs		 
+250-04	27	4.     HTN		 
+250-04	28	5.     Hyperlipidemia		 
+250-04	29	6.     Osteoporosis		 
+250-04	30	7.     R TKR		 
+250-04	31			 
+250-04	32	Medications:		 
+250-04	33	1. Vancomycin 1gm IV q24h		DIN FFF vancomycin#1	DOSE FFF 1gm#2	RUT FFF iv#3	FREQ FFF q24h#4
+250-04	34	2.     Also on lovenox, simvastatin, amlodipine, toprol xl, losartan, lasix, glipizide, colace, aspirin, morphine, MOM, maalox		DBN FFF lovenox#3
+250-04	34	2.     Also on lovenox, simvastatin, amlodipine, toprol xl, losartan, lasix, glipizide, colace, aspirin, morphine, MOM, maalox		DIN FFF simvastatin#4
+250-04	34	2.     Also on lovenox, simvastatin, amlodipine, toprol xl, losartan, lasix, glipizide, colace, aspirin, morphine, MOM, maalox		DIN FFF amlodipine#5
+250-04	34	2.     Also on lovenox, simvastatin, amlodipine, toprol xl, losartan, lasix, glipizide, colace, aspirin, morphine, MOM, maalox		DPN FFF toprol xl#7
+250-04	34	2.     Also on lovenox, simvastatin, amlodipine, toprol xl, losartan, lasix, glipizide, colace, aspirin, morphine, MOM, maalox		DIN FFF losartan#8
+250-04	34	2.     Also on lovenox, simvastatin, amlodipine, toprol xl, losartan, lasix, glipizide, colace, aspirin, morphine, MOM, maalox		DBN FFF lasix#9
+250-04	34	2.     Also on lovenox, simvastatin, amlodipine, toprol xl, losartan, lasix, glipizide, colace, aspirin, morphine, MOM, maalox		DIN FFF glipizide#10
+250-04	34	2.     Also on lovenox, simvastatin, amlodipine, toprol xl, losartan, lasix, glipizide, colace, aspirin, morphine, MOM, maalox		DBN FFF colace#11
+250-04	34	2.     Also on lovenox, simvastatin, amlodipine, toprol xl, losartan, lasix, glipizide, colace, aspirin, morphine, MOM, maalox		DIN FFF aspirin#12
+250-04	34	2.     Also on lovenox, simvastatin, amlodipine, toprol xl, losartan, lasix, glipizide, colace, aspirin, morphine, MOM, maalox		DIN FFF morphine#13
+250-04	34	2.     Also on lovenox, simvastatin, amlodipine, toprol xl, losartan, lasix, glipizide, colace, aspirin, morphine, MOM, maalox		DBN FFF maalox#15
+250-04	35	Home medications:		 
+250-04	36	ECASA 325 mg p.o. daily,		DPN FFF ecasa#0	DOSE FFF 325mg#2	RUT FFF p.o#3	FREQ FFF daily#4
+250-04	37	Lasix 60 mg p.o. daily,		DBN FFF lasix#0	DOSE FFF 60mg#2	RUT FFF p.o#3	FREQ FFF daily#4
+250-04	38	Toprol-XL 50 mg p.o. daily,		DBN FFF toprol-xl#0	DOSE FFF 50mg#2	RUT FFF p.o#3	FREQ FFF daily#4
+250-04	39	Losartan 100 mg p.o. daily,		DIN FFF losartan#0	DOSE FFF 100mg#2	RUT FFF p.o#3	FREQ FFF daily#4
+250-04	40	Simvastatin 10 mg p.o. daily,		DIN FFF simvastatin#0	DOSE FFF 10mg#2	RUT FFF p.o#3	FREQ FFF daily#4
+250-04	41	Glipizide 10 mg p.o. daily,		DIN FFF glipizide#0	DOSE FFF 10mg#2	RUT FFF p.o#3	FREQ FFF daily#4
+250-04	42	Avandia 4mg p.o. daily		DBN FFF avandia#0	DOSE FFF 4mg#1	RUT FFF p.o#2	FREQ FFF daily#3
+250-04	43	Norvasc 5mg po qod		DBN FFF norvasc#0	DOSE FFF 5mg#1	RUT FFF po#2	FREQ FFF qod#3
+250-04	44	Fosamax 70mg po qweek		DBN FFF fosamax#0	DOSE FFF 70mg#1	RUT FFF po#2	FREQ FFF qweek#3
+250-04	45	Multivitamin		DBN FFF multivitamin#0
+250-04	46	Allergies:  Ciprofloxacin causes unknown reaction.		 
+250-04	47	Metformin causes GI intolerance.		DIN FFF metformin#0
+250-04	48	Tylenol causes reaction.		DBN FFF tylenol#0
+250-04	49	SHx:  Lives alone in Cohasset, but with 5 supporting daughters nearby.		 
+250-04	50	No tob, EtOH.		 
+250-04	51	PE:		 
+250-04	52	Gen: pleasant, elderly, well appearing lady, in NAD		 
+250-04	53	VS: Tmax:97.8   Tc:97.8   BP 142/64   P 81   R 18   94% on RA		 
+250-04	54	HEENT: PERRL, EOMI, OP without lesions, + dentures		 
+250-04	55	Neck: supple, no cervical LAN		 
+250-04	56	Pulm: CTA bilaterally, no rales/wheezes		 
+250-04	57	CV: RRR, II/VI HSM at LSB, normal S1/S2, well healed sternotomy incision		 
+250-04	58	Abd: soft, NT, ND, NABS, no HSM		 
+250-04	59	Ext: no c/c/e, W&WP, right foot in cast, toes with good perfusion, drain in place with serosanguenous drainage		 
+250-04	60	Skin: no rash		 
+250-04	61	Labs:		 
+250-04	62	WBC 10.9, Hct 30, Plt 383, Diff: not done		 
+250-04	63	BUN/Cr: 36 / 1.3 (on 1/19/82)		 
+250-04	64	LFTs: not done		 
+250-04	65	INR 1.1, PTT 29		 
+250-04	66	ESR 92 (1/22/82)		 
+250-04	67	Micro:		 
+250-04	68	Right ankle culture (1/21/82): FEW SUSPECTED STAPHYLOCOCCUS AUREUS (gm stain-no polys, no org)		DIN FFF staphylococcus aureus#7
+250-04	69	Radiology:		 
+250-04	70	Right ankle xrays pending (1/21/82)		 
+250-04	71	Impression/Recommendations: 84 yo F with CAD, DM, CHF, Htn, HL, and right ankle fracture s/p ORIF on 11/04/81 who presents with poor healing over the medial malleolus, now s/p I&D of the open medial malleolus wound; we were consulted by Dr.		 

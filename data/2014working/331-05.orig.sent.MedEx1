@@ -1,0 +1,104 @@
+331-05||1||Record date: 2080-12-18
+331-05||2||RENAL TRANSPLANT ADMIT NOTE  12/18/80
+331-05||3||Cause of ESRD: DM2, HTN
+331-05||4||Date of this kidney transplant: 11.08.80; LURT from step-son; share HLA-B and HLA-DR; simulect induction||DBN FFF simulect FFF 13 13||
+331-05||5||CC:  elevated creatinine
+331-05||6||HPI:   Mr. Sparks is a 76 y/o M h/o ESRD 2/2 DM s/p LURTx 11/08/80 c/b delayed graft function.
+331-05||7||Pt. had a renal bx on 11/23/80 c/w ATN, no acute rejection.
+331-05||8||However,  creatinine has failed to fall below 2's despite treatment for UTI and hydration.
+331-05||9||There has been some question of medication compliance previously, as he frequently confuses his meds.
+331-05||10||His FK level has been lowered as a possible source for his allograft dysfunction.
+331-05||11||Mr. Sparks is being admitted for renal transplant biopsy to r/o acute rejection.
+331-05||12||Current immunosuppression: tacrolimus 6mg bid, MMF 750 mg tid||DIN FFF tacrolimus FFF 2 2||DOSE FFF 6mg FFF 3 3||FREQ FFF bid, FFF 4 4||DPN FFF mmf FFF 5 5||DOSE FFF 750 mg FFF 6 7||FREQ FFF tid FFF 8 8||
+331-05||13||Other meds: Valcyte 450mg qod, Bactrim SS 1 qod, Diltiazem ER 120mg qd, Hydralazine 25mg tid, CaCO3 500mg bid, Calcitriol 0.25mcg qd, Nexium 40mg qd, Flomax 0.8mg qd, insulin NPH 6U bid and Novolog 5U pre meals, Colace qd.||DBN FFF valcyte FFF 2 2||DOSE FFF 450mg FFF 3 3||FREQ FFF qod, FFF 4 4||
+331-05||13||Other meds: Valcyte 450mg qod, Bactrim SS 1 qod, Diltiazem ER 120mg qd, Hydralazine 25mg tid, CaCO3 500mg bid, Calcitriol 0.25mcg qd, Nexium 40mg qd, Flomax 0.8mg qd, insulin NPH 6U bid and Novolog 5U pre meals, Colace qd.||DIN FFF bactrim ss FFF 5 6||FREQ FFF qod, FFF 8 8||
+331-05||13||Other meds: Valcyte 450mg qod, Bactrim SS 1 qod, Diltiazem ER 120mg qd, Hydralazine 25mg tid, CaCO3 500mg bid, Calcitriol 0.25mcg qd, Nexium 40mg qd, Flomax 0.8mg qd, insulin NPH 6U bid and Novolog 5U pre meals, Colace qd.||DBN FFF diltiazem er FFF 9 10||DOSE FFF 120mg FFF 11 11||FREQ FFF qd, FFF 12 12||
+331-05||13||Other meds: Valcyte 450mg qod, Bactrim SS 1 qod, Diltiazem ER 120mg qd, Hydralazine 25mg tid, CaCO3 500mg bid, Calcitriol 0.25mcg qd, Nexium 40mg qd, Flomax 0.8mg qd, insulin NPH 6U bid and Novolog 5U pre meals, Colace qd.||DIN FFF hydralazine FFF 13 13||DOSE FFF 25mg FFF 14 14||FREQ FFF tid, FFF 15 15||
+331-05||13||Other meds: Valcyte 450mg qod, Bactrim SS 1 qod, Diltiazem ER 120mg qd, Hydralazine 25mg tid, CaCO3 500mg bid, Calcitriol 0.25mcg qd, Nexium 40mg qd, Flomax 0.8mg qd, insulin NPH 6U bid and Novolog 5U pre meals, Colace qd.||DIN FFF caco3 FFF 16 16||DOSE FFF 500mg FFF 17 17||FREQ FFF bid, FFF 18 18||
+331-05||13||Other meds: Valcyte 450mg qod, Bactrim SS 1 qod, Diltiazem ER 120mg qd, Hydralazine 25mg tid, CaCO3 500mg bid, Calcitriol 0.25mcg qd, Nexium 40mg qd, Flomax 0.8mg qd, insulin NPH 6U bid and Novolog 5U pre meals, Colace qd.||DIN FFF calcitriol FFF 19 19||DOSE FFF 0.25mcg FFF 20 20||FREQ FFF qd, FFF 21 21||
+331-05||13||Other meds: Valcyte 450mg qod, Bactrim SS 1 qod, Diltiazem ER 120mg qd, Hydralazine 25mg tid, CaCO3 500mg bid, Calcitriol 0.25mcg qd, Nexium 40mg qd, Flomax 0.8mg qd, insulin NPH 6U bid and Novolog 5U pre meals, Colace qd.||DBN FFF nexium FFF 22 22||DOSE FFF 40mg FFF 23 23||FREQ FFF qd, FFF 24 24||
+331-05||13||Other meds: Valcyte 450mg qod, Bactrim SS 1 qod, Diltiazem ER 120mg qd, Hydralazine 25mg tid, CaCO3 500mg bid, Calcitriol 0.25mcg qd, Nexium 40mg qd, Flomax 0.8mg qd, insulin NPH 6U bid and Novolog 5U pre meals, Colace qd.||DBN FFF flomax FFF 25 25||DOSE FFF 0.8mg FFF 26 26||FREQ FFF qd, FFF 27 27||
+331-05||13||Other meds: Valcyte 450mg qod, Bactrim SS 1 qod, Diltiazem ER 120mg qd, Hydralazine 25mg tid, CaCO3 500mg bid, Calcitriol 0.25mcg qd, Nexium 40mg qd, Flomax 0.8mg qd, insulin NPH 6U bid and Novolog 5U pre meals, Colace qd.||DIN FFF insulin nph FFF 28 29||DOSE FFF 6u FFF 30 30||FREQ FFF bid FFF 31 31||
+331-05||13||Other meds: Valcyte 450mg qod, Bactrim SS 1 qod, Diltiazem ER 120mg qd, Hydralazine 25mg tid, CaCO3 500mg bid, Calcitriol 0.25mcg qd, Nexium 40mg qd, Flomax 0.8mg qd, insulin NPH 6U bid and Novolog 5U pre meals, Colace qd.||DBN FFF novolog FFF 33 33||DOSE FFF 5u FFF 34 34||
+331-05||13||Other meds: Valcyte 450mg qod, Bactrim SS 1 qod, Diltiazem ER 120mg qd, Hydralazine 25mg tid, CaCO3 500mg bid, Calcitriol 0.25mcg qd, Nexium 40mg qd, Flomax 0.8mg qd, insulin NPH 6U bid and Novolog 5U pre meals, Colace qd.||DBN FFF colace FFF 37 37||FREQ FFF qd. FFF 38 38||
+331-05||14||PMHx:
+331-05||15||ESRD 2/2 DM and HTN x 10years- good urine output prior to transplant.
+331-05||16||No retinopathy, CAD, peripheral neuropathy. -Adenomatous polyp : May 2078
+331-05||17||-Gastritis : H. pylori positive
+331-05||18||-Diastolic dysfunction
+331-05||19||-Hyperlipidemia
+331-05||20||-Hyerparathyroidism - PTH 367 in Nov, 2080||DIN FFF pth FFF 2 2||DOSE FFF 367 FFF 3 3||
+331-05||21||-H/o Transient ischemic attack 2073
+331-05||22||-S/p R Inguinal Hernia repair, 2078
+331-05||23||-S/p Umbilical Hernia repair, 2079
+331-05||24||BKVL Neg 11/80
+331-05||25||Exam:
+331-05||26||Gen- WD, WN, M, NAD
+331-05||27||Heent- NC, EOMI, PERLA, no LAD, OPC
+331-05||28||Cor- RRR, nml S1S2||DIN FFF cor- FFF 0 0||
+331-05||29||Lungs-CTA b/l, no wheezing, no rhonchi
+331-05||30||Abd- s/nt/nd, NABS
+331-05||31||Ext- No leg edema
+331-05||32||Neuro- A&O x 3
+331-05||33||Today's Labs:
+331-05||34||Date/Time         NA             K              CL             CO2||DIN FFF na FFF 1 1||INDICATION FFF k FFF 2 2||INDICATION FFF cl FFF 3 3||
+331-05||35||12/18/2080        131 (*)        5.2 (*)      99             28
+331-05||36||12/17/2080        130 (*)        4.9           98             26
+331-05||37||Date/Time         BUN            CRE            EGFR           GLU||DIN FFF glu FFF 4 4||
+331-05||38||12/18/2080        46 (*)            2.2 (*)          31 [1]           132 (*#)
+331-05||39||12/17/2080        41 (*)            2.4 (*)          28 [2]           298 (*)
+331-05||40||Date/Time         ANION
+331-05||41||12/18/2080        4
+331-05||42||12/17/2080        6
+331-05||43||Date/Time         CA             PHOS           TBILI          TP
+331-05||44||12/18/2080        9.9
+331-05||45||12/17/2080        9.4              2.4                0.8            7.1
+331-05||46||Date/Time         ALB            GLOB           LDH||DIN FFF alb FFF 1 1||
+331-05||47||12/17/2080        3.9               3.2              156
+331-05||48||Date/Time         ALT/SGPT       AST/SGOT       ALKP           TBILI
+331-05||49||12/17/2080        12                    24                     162 (*)           0.8
+331-05||50||Date/Time         LDH
+331-05||51||12/17/2080        156
+331-05||52||Date/Time         WBC            RBC            HGB            HCT
+331-05||53||12/18/2080        4.58           4.02 (*)       11.3 (*)       34.5 (*)
+331-05||54||12/17/2080        5.36           4.07 (*)       11.0 (*)       35.3 (*)
+331-05||55||Date/Time         MCV            MCH            MCHC           PLT
+331-05||56||12/18/2080        85.7              28.2           32.9                332
+331-05||57||12/17/2080        86.8              27.0           31.1 (*)           314
+331-05||58||Date/Time         RDW
+331-05||59||12/18/2080        13.4
+331-05||60||12/17/2080        13.5
+331-05||61||Date/Time         %POLY-A        %LYMPH-A       %MONO-A        %EOS-A
+331-05||62||12/17/2080        72.8                    17.9 (*)               7.0                   1.9
+331-05||63||Date/Time         %BASO-A
+331-05||64||12/17/2080        0.5
+331-05||65||Date/Time         ANEUT-A        ALYMP-A        AMONO-A        AEOS-A
+331-05||66||12/17/2080        3.91                   .96                   0.38                0.10
+331-05||67||Date/Time         ABASO-A
+331-05||68||12/17/2080        0.02
+331-05||69||Date/Time         PT             PT-INR         PTT
+331-05||70||12/18/2080        13.9           1.1              31.4
+331-05||71||Date/Time         UA-COLOR       UA-GLUC        UA-BILI        UA-KET
+331-05||72||12/17/2080        YELLOW [3]        NEG               NEG            NEG
+331-05||73||Date/Time         UA-SPGR        UA-BLD         UA-PH          UA-PROT
+331-05||74||12/17/2080        1.015                 NEG             5.0                NEG
+331-05||75||Date/Time         UA-UROBI       UA-NIT         UA-WBC         MIC-SED
+331-05||76||12/17/2080        NEG                  NEG            TR (*)                NEG
+331-05||77||Date/Time         OCAST          HCAST          UAS-RBC        UAS-WBC
+331-05||78||12/17/2080        NEG                    0                   1                      5 (*)
+331-05||80||Date/Time         UAS-BACT       UAS-SQHI       UAS-CRYS
+331-05||81||12/17/2080        NEG                     TR                 NEG
+331-05||82||Date/Time         UA-EPIS
+331-05||83||12/17/2080        NEG
+331-05||84||Date/Time         TACRO
+331-05||85||12/17/2080        7.3 (C)[4]
+331-05||86||A/P:Mr. Sparks is a 76 y/o M h/o ESRD 2/2 DM s/p LURTx 11/08/80 c/b delayed graft function.
+331-05||87||He will be admitted to the Internal Medicine under attending Harold Crosby, M.D. for renal transplant biopsy. 1. Renal - slightly impaired graft function, probaly due to a combination of BPH  vs. increased sensitivity to FK vs. acute rejection . Plan for renal transplant bx this afternoon if possible, if not possible will do first thing in the am.
+331-05||88||2. Immunosuppression- cont. current regimen for now, pending renal bx
+331-05||89||3. CVS- well controlled, however would d/c Diltiazem and Hydralazine given renal insufficiency.||DIN FFF diltiazem FFF 7 7||
+331-05||89||3. CVS- well controlled, however would d/c Diltiazem and Hydralazine given renal insufficiency.||DIN FFF hydralazine FFF 9 9||INDICATION FFF renal insufficiency. FFF 11 12||
+331-05||90||Would start Labetolol 200mg tid. 4. ID- no concerns, U/A negative||DIN FFF labetolol FFF 2 2||DOSE FFF 200mg FFF 3 3||FREQ FFF tid. FFF 4 4||
+331-05||91||5. Heme- Hct stable, INR 1.1, will send off type and hold for biopsy.
+331-05||92||6. Labs- CBC w/diff, BMP, LDH, PO4, albumin, tacrolimus level qam.||DIN FFF albumin, FFF 7 7||
+331-05||92||6. Labs- CBC w/diff, BMP, LDH, PO4, albumin, tacrolimus level qam.||DIN FFF tacrolimus FFF 8 8||FREQ FFF qam. FFF 10 10||
+331-05||93||_________________________________________

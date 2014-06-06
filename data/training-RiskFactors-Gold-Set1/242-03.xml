@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2073-04-03
+
+                                                       Patient Name: LOUIS,ROBERT [ MRN: 85588852LGH ]
+
+                                                         Date of Visit: 04/03/2073
+
+
+
+
+
+
+
+
+
+ROBERT   LOUIS
+
+65 FERRY STREET
+
+BARABOO, UT 11521
+
+
+
+
+
+04/05/2073
+
+
+
+
+
+Dear Mr. Louis, 
+
+
+
+
+
+It was very nice to see you again the other day.  I hope you are doing well.  I am writing to let you know about your recent test results.  
+
+
+
+
+
+The following tests were essentially negative, normal, or unchanged from prior testing and do not require follow-up at this time.
+
+1) Kidney test.
+
+2) Cholesterol.  Your cholesterol results are as follows:
+
+     Total Cholesterol = 129,
+
+     HDL (the 'good' cholesterol) = 43,
+
+     LDL (the 'bad' cholesterol) = 70,
+
+     triglycerides = 82.
+
+My records indicate that your total cholesterol has increased since 01/11/2072.  Given your medical history, we would like to keep your LDL (the 'bad' cholesterol) below 100.  Please continue to follow a heart-healthy diet.
+
+3) Hemoglobin A1c.  This is a blood test that indicates how well you have controlled your blood sugar over the past 3 months.  For patients with diabetes, we would like to keep it below 7.  Your Hemoglobin A1c value was 6.5 on 04/04/2073.  It has remained stable compared to the last value of 6.5 on 07/12/2072.  Please continue to check your sugars regularly and take Metformin as prescribed.
+
+4) X-ray.  No fractures were detected on the X-ray of your spine, but it did show changes consistent with osteoarthritis.
+
+
+
+
+
+The following tests were abnormal or require follow-up.
+
+1) PSA.  As we discussed during our visit, this is a blood test that measures activity in your prostate, and is one way to measure your potential risk of prostate cancer.  This is not a perfect test, and its use for prostate cancer screening is controversial.  My records indicate that your PSA has mildly increased since 4/01/72.  I recommend that you follow-up with a urologist for a prostate biopsy, which we can arrange when you return for your follow-up appointment.  At that time, we will again discuss the specifics of the PSA test and the risks/benefits of different treatment/follow-up options.
+
+
+
+
+
+If you have any questions, please do not hesitate to reach me at my office at 191-537-1871.  I will see you on 5/16/73 at 9:40am for our next appointment.
+
+
+
+
+
+
+
+
+
+_____________________________________________
+
+Bailey Bray, M.D.
+
+
+
+
+
+
+
+
+
+
+
+______________________________                              
+
+
+
+Bailey Bray, M.D.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2=""/>
+    <FAMILY_HIST id="DOC3" indicator="not present"/>
+    <SMOKER id="DOC4" status="unknown"/>
+  </TAGS>
+</root>

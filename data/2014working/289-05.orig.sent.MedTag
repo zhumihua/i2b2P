@@ -1,0 +1,81 @@
+289-05	1	Record date: 2077-11-21	
+289-05	2	INTERNAL MEDICINE ASSOCIATES	
+289-05	3	SABINE MEDICAL CENTER	
+289-05	4	Major Problems	
+289-05	5	Diabetes mellitus		INDICATION FFF diabetes mellitus#1
+289-05	6	Metformin 1000 mg BID, glyburide 1.25 mg QD.		DIN FFF metformin#0	DOSE FFF 1000mg#2	FREQ FFF bid#3	DIN FFF glyburide#4	DOSE FFF 1.25mg#6	FREQ FFF qd#7
+289-05	7	He is trying to be much more disciplined with his diet and as a result, according to his wife, he is experiencing fairly frequent minor hypoglycemic episodes.		INDICATION FFF as#12	DIN FFF hypoglycemic#25
+289-05	8	His last hemoglobin A1c six months ago was 6.50.		DRT FFF six months#5
+289-05	9	Recheck today.  I suspect we will be able to discontinue the glyburide.		DIN FFF glyburide#11
+289-05	10	Urine albumin/creatinine ratio within normal limits six months ago.		DIN FFF albumin#1	INDICATION FFF creatinine#1	DRT FFF six months#7
+289-05	11	Coronary artery disease		INDICATION FFF coronary artery disease#2
+289-05	12	Cardiac arrest January 2072 while skiing; multivessel disease on cath; underwent three-vessel bypass (SVGs to the LAD, diagonal, OM).		INDICATION FFF cardiac arrest#1	DRT FFF while#4	INDICATION FFF om#18
+289-05	13	Most recent ETT January 2076 showed equivocal mild apical reversible defect.	
+289-05	14	Remains active, has had no chest discomfort of any kind or palpitations.	
+289-05	15	Continue medical management.	
+289-05	16	Myasthenia gravis		INDICATION FFF myasthenia gravis#1
+289-05	17	Remains on Mestinon.		DBN FFF mestinon#2
+289-05	18	Denies symptoms.		INDICATION FFF symptoms#1
+289-05	19	Hyperlipidemia		INDICATION FFF hyperlipidemia#0
+289-05	20	Remains on pravastatin.		DIN FFF pravastatin#2
+289-05	21	Total cholesterol 151, HDL 70, LDL 72, triglycerides 46 February 2077.		INDICATION FFF cholesterol#1	INDICATION FFF ldl#5	DIN FFF triglycerides#7	DOSE FFF 46#8
+289-05	22	Complains of occasional leg spasms but has no fevers or GI symptoms.		INDICATION FFF spasms#4	INDICATION FFF fevers#8	INDICATION FFF symptoms#11
+289-05	23	Check CK and transaminases.	
+289-05	24	Asthma		INDICATION FFF asthma#0
+289-05	25	He continues to be followed by Dr.	
+289-05	26	Nye; see his notes.	
+289-05	27	Continues to have occasional episodes of very minor shortness of breath at rest, never with exercise.		INDICATION FFF shortness of breath#10
+289-05	28	Lungs clear.	
+289-05	29	Doing well.	
+289-05	30	Gastroesophageal reflux disease		INDICATION FFF gastroesophageal reflux disease#2
+289-05	31	Documented on barium swallow 2069.		RUT FFF swallow#3
+289-05	32	Compliant with PPI.		DIN FFF ppi#2
+289-05	33	No symptoms.		INDICATION FFF symptoms#1
+289-05	34	Anemia		INDICATION FFF anemia#0
+289-05	35	Longstanding issue, hematocrit in mid 30s, MCV mid 90s, iron studies, ferritin, B12, and folate unremarkable.		INDICATION FFF hematocrit#2
+289-05	36	Check TSH, SPEP.05/25/2077:   TSH and SPEP unremarkable.	
+289-05	37	Check EPO level, follow CBC.     11/21/2077:   EPO level inappropriately low.		DIN FFF epo#1	DIN FFF epo#6
+289-05	38	Therefore, suspect anemia is secondary to age-related reduction in renal mass/GFR.		INDICATION FFF anemia#2
+289-05	39	Hypertension		INDICATION FFF hypertension#0
+289-05	40	On low-dose ACE inhibitor and beta blocker.		DOSE FFF low-dose#1	DIN FFF ace inhibitor#3	DIN FFF beta blocker#6
+289-05	41	Blood pressure today uncharacteristically elevated, 150/70.		INDICATION FFF blood pressure#1
+289-05	42	He attributes this to rushing to get to his appointment with me.		INDICATION FFF me#11
+289-05	43	Blood pressure earlier this month was 120/55 at his pulmonary visit.  I suspect that he is probably well controlled overall.		INDICATION FFF blood pressure#1
+289-05	44	For now, no change in management.		INDICATION FFF change#3
+289-05	45	Allergies		INDICATION FFF allergies#0
+289-05	46	Penicillin allergy		INDICATION FFF allergy#1
+289-05	47	Active Medications	
+289-05	48	Advair 500/50mcg spray inh bid		DBN FFF advair#0	DOSE FFF 500/50mcg#1	RUT FFF inh#3	FREQ FFF bid#4
+289-05	49	albuterol inhaler  inh 2 puffs qid prn		DBN FFF albuterol inhaler#1	RUT FFF inh#2	DOSEAMT FFF 2 puffs#4	FREQ FFF qid#5	NEC FFF prn#6
+289-05	50	aspirin 81mg		DIN FFF aspirin#0	DOSE FFF 81mg#1
+289-05	51	atenolol 25mg po qd		DIN FFF atenolol#0	DOSE FFF 25mg#1	RUT FFF po#2	FREQ FFF qd#3
+289-05	52	Ativan 1mg po prn air travel		DBN FFF ativan#0	DOSE FFF 1mg#1	RUT FFF po#2	NEC FFF prn#3
+289-05	53	Dalmane 30 mg take 1 at hs prn		DBN FFF dalmane#0	DOSE FFF 30mg#2	FREQ FFF hs#6	NEC FFF prn#7
+289-05	54	Fish oil 1 gm DAILY		DIN FFF fish oil#1	DOSE FFF 1gm#3	FREQ FFF daily#4
+289-05	55	free text medication #1  QHS quinine		FREQ FFF qhs#4	DIN FFF quinine#5
+289-05	56	lisinopril 5 mg po qd		DIN FFF lisinopril#0	DOSE FFF 5mg#2	RUT FFF po#3	FREQ FFF qd#4
+289-05	57	Mestinon 60mg/180mg 60mg @6am,11am,4pm: then180mg @time spansule at night daily metformin hydrochloride 500 mg 2 tabs po bid multivitamins		DBN FFF mestinon#0	DOSE FFF 60mg/180mg#1	DOSE FFF 60mg#2	TOD FFF 6 am#3	TOD FFF 11 am#3	TOD FFF 4 pm#3	DIN FFF spansule#6	TOD FFF at night#8	FREQ FFF daily#9	DIN FFF metformin hydrochloride#11	DOSE FFF 500mg#13	DOSEAMT FFF 2 tabs#15	RUT FFF po#16	FREQ FFF bid#17	DIN FFF multivitamins#18
+289-05	58	Protonix 40 mg po qd do not cut/crush/chew		DBN FFF protonix#0	DOSE FFF 40mg#2	RUT FFF po#3	FREQ FFF qd#4
+289-05	59	Change in therapies and Renewals		INDICATION FFF change#0
+289-05	60	atenolol 25mg po qd Start: 9/18/2074		DIN FFF atenolol#0	DOSE FFF 25mg#1	RUT FFF po#2	FREQ FFF qd#3
+289-05	61	pravastatin 20mg po qd QTY:90 Refills:3 Start: 2/27/2077 End: 11/21/2077 - Inactivated		DIN FFF pravastatin#0	DOSE FFF 20mg#1	RUT FFF po#2	FREQ FFF qd#3
+289-05	62	Past medical history	
+289-05	63		
+289-05	64	Asthma.		INDICATION FFF asthma#0
+289-05	65	Pneumonia March 2076.		INDICATION FFF pneumonia#0
+289-05	66	Right bundle-branch block.	
+289-05	67	Raynaud's syndrome, status post sympathectomy.		INDICATION FFF raynaud's syndrome#1
+289-05	68	Bilat cataract extraction	
+289-05	69	Family history	
+289-05	70		
+289-05	71	No known family history of prostate cancer.		INDICATION FFF prostate#5	INDICATION FFF cancer#6
+289-05	72	Father may have had malignant rectal polyp.	
+289-05	73	Social history	
+289-05	74		
+289-05	75	For decades, Architect in Dumas, now retired.	
+289-05	76	Second marriage, two children from first marriage.	
+289-05	77	Exercises at least three times per week, usually four.		FREQ FFF three times per week#6
+289-05	78	Nonsmoker.	
+289-05	79	No significant alcohol.	
+289-05	80	Procedures and Immunizations		INDICATION FFF procedures#0
+289-05	81	Influenza vaccine		DIN FFF influenza vaccine#1

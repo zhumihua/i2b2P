@@ -1,0 +1,25 @@
+305-01||1||Record date: 2081-04-27
+305-01||2||Patient Name: ROBISON,NEIL [ MRN: 013423CA ]||INDICATION FFF 013423ca FFF 5 5||
+305-01||3||Date of Visit: 04/27/81
+305-01||4||Mr. Robison comes to clinic today for f/u after being hospitalized for central pontine CVA in early April.||INDICATION FFF f/u FFF 7 7||INDICATION FFF cva FFF 14 14||
+305-01||5||He has been working with OT, speech therapy and nutrition at home, with some improvement in gait and fine motor skills.
+305-01||6||He still feels like his speech is poor and his right hand is not working at baseline.
+305-01||7||Other complaints include a HA every morning which is global and tends to improve over the course of the day with tylenol.||INDICATION FFF ha FFF 4 4||FREQ FFF every morning FFF 5 6||DBN FFF tylenol. FFF 21 21||
+305-01||8||He does admit to some visual changes that have been occuring for about one year--transient decreased vision in right eye, lasting for several minutes to hours and happening about twice per week.||RUT FFF eye, FFF 19 19||DRT FFF several minutes FFF 22 23||FREQ FFF twice per week. FFF 29 31||
+305-01||9||He saw an ophthamologist in 12/02 who, per the patient, found no abnormalities.
+305-01||10||He also states that he has had nonproductive cough with chest congestion for about 2 weeks.||INDICATION FFF cough FFF 8 8||INDICATION FFF congestion FFF 11 11||DRT FFF 2 weeks. FFF 14 15||
+305-01||11||No fevers, chills, n/v or diarrhea.||INDICATION FFF fevers, FFF 1 1||INDICATION FFF diarrhea. FFF 5 5||
+305-01||12||Some rhinorrhea but no sinus sxs.
+305-01||13||He has had difficulty with muscle cramps since his BMT which respond well to gatorade.||INDICATION FFF muscle cramps FFF 5 6||
+305-01||14||The nutritionist is not thrilled with the high salt content of gatorade.||DIN FFF salt FFF 8 8||
+305-01||15||We discussed the possibility of drinking less gatorade and adding a banana daily.||FREQ FFF daily. FFF 12 12||
+305-01||16||MEDS:
+305-01||17||lopressor 25 TID||DBN FFF lopressor FFF 0 0||DOSE FFF 25 FFF 1 1||FREQ FFF tid FFF 2 2||
+305-01||18||coumadin 5 QHS||DBN FFF coumadin FFF 0 0||DOSE FFF 5 FFF 1 1||FREQ FFF qhs FFF 2 2||
+305-01||19||PE: 97.1   66   144/90, repeat 130/90    wt 225||INDICATION FFF pe: FFF 0 0||
+305-01||20||gen: NAD, slightly dysarthric
+305-01||21||neuro: CNII-XII intact except for slight right mouth droop; strength is 5/5 both upper and lower extremities; biceps and patellar DTRs 2+ symmetrically; gait is steady, but heel to toe is unsteady||RUT FFF mouth FFF 7 7||
+305-01||22||CV: distant RRR without murmurs
+305-01||23||Pulm: soft bibasilar crackles; no wheezes, rhonchi or areas of consolidation. no dullness to percussion||INDICATION FFF wheezes, FFF 5 5||
+305-01||24||Skin: flaking over forehead and nasal bridge with slight redness||RUT FFF nasal FFF 5 5||INDICATION FFF redness FFF 9 9||
+305-01||25||Rectal: erythema perirectally without bleeding or hemorrhoids. sl decreased rectal tone, no tenderness guaic neg brown stool||INDICATION FFF erythema FFF 1 1||INDICATION FFF bleeding FFF 4 4||INDICATION FFF hemorrhoids. FFF 6 6||RUT FFF sl FFF 7 7||

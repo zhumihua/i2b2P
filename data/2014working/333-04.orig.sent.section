@@ -1,0 +1,151 @@
+333-04	1	0	Record date: 2124-03-04
+333-04	2	0	
+333-04	3	0	Internal Medicine C Admission Note
+333-04	4	0	PATIENT:  Veda Edgar
+333-04	5	0	MRN: 9262764
+333-04	6	0	ADMIT DATE: 3/4/2124
+333-04	7	0	ATTENDING:  Brenda Youmans (ward)
+333-04	8	0	PCP: Arthur Qin
+333-04	9	0	Code status: FULL (per chart)
+333-04	10	0	Sources: Patient, daughter, chart
+333-04	11	0	CC:
+333-04	12	0	Persistent cough
+333-04	13	0	HPI:
+333-04	14	0	Ms. Edgar is a 64 year-old frequently hospitalized woman with CHFpEF (EF = 71%), COPD on 2.5L home O2 and chronic steroids (currently 10 mg prednisone), OSA on BiPAP, CKD, and chronic pain on chronic narcotics, who presents with persistent cough productive of green sputum after recently being treated for influenza.
+333-04	15	0	According to the patient, she left the hospital, completed the course of Tamiflu and azithromycin on 2/24, and continued to feel poorly, with a chronic nagging cough that was productive of dark green sputum.
+333-04	16	0	No fever, chills, sweats, myalgias, or SOB.
+333-04	17	0	Yesterday, she developed worsening pain, especially in her ribs, extending across the anterior surface; she said the pain is worse with movement but does not vary with respiration or cough.
+333-04	18	0	She is unable to ambulate, as she states she does at baseline with a walker.
+333-04	19	0	This is her tenth hospital and fourteenth ED visit to MCH in the past year (there are records in the chart of OSH visits as well).
+333-04	20	0	On interview she is tearful regarding her readmission, stating that she &#8220;tries so hard&#8221; to stay out of the hospital, &#8220;but what am I supposed to do when I am sick?&#8221;
+333-04	21	0	ED Course:
+333-04	22	0	In the ED, a CXR showed a RLL patchy opacity suggestive of pneumonia.
+333-04	23	0	She received 750 mg levofloxacin, 1 g vancomycin, nebulizer treatments, and morphine for pain control.
+333-04	24	0	ROS
+333-04	25	0	On interview, she endorses only rib pain and back and hip pain that she says is chronic from her spinal stenosis.
+333-04	26	0	She also complains of the chronic cough described above.
+333-04	27	0	No CP, SOB, dysuria, pyuria, N/V/D.
+333-04	28	0	MEDICAL/SURGICAL HISTORY
+333-04	29	0	- Influenza: Recently discharged on 2/22/2124 after being diagnosed with influenza A.
+333-04	30	0	She was treated with nebulizers, tamiflu, and azithromycin for 5 days. -
+333-04	31	0	Spinal stenosis and chronic back pain, on standing narcotics at home.
+333-04	32	0	Hospitalized in January for hypotension&#8212;-required CCU level of care; ultimately believed to be secondary to narcotics overdose. - COPD: on 2.L home O2 with combined obstructive/restrictive component. PFTs (2122): FEV1 44% pred, FEV1/FVC 65% pred, DLCO 24% pred, no significant bronchodilator response
+333-04	33	0	- HFpEF: TTE 7/2123 EF 71%, no WMA, +RVH, unable to estimate RVSP
+333-04	34	0	- OSA on home BiPAP
+333-04	35	0	- Morbidy obesity with Obesity-Hypoventilation Syndrome
+333-04	36	0	- NSCLC: T1N0 s/p VATS LLL wedge resection (2121)
+333-04	37	0	- Recurrent 5-15mm pulmonary nodules by CT 4/2122 and 3/2123, being followed by Dr.
+333-04	38	0	Lacey - DVT/PE: 4/2122 s/p treatment with Coumadin which was discontinued on 3/2123 admission due to fall risk concerns. D-Dimer at that time 1295
+333-04	39	0	- HTN
+333-04	40	0	- DM2 on Insulin
+333-04	41	0	- Strabismus
+333-04	42	0	- Depression
+333-04	43	0	- Diverticulosis w/ h/o diverticulitis s/p colectomy
+333-04	44	0	- Hypothyroidism
+333-04	45	0	- Endometrial hyperplasia
+333-04	46	0	- Microcytic anemia
+333-04	47	0	FAMILY HISTORY
+333-04	48	0	Noncontributory to this admission.
+333-04	49	0	SOCIAL HISTORY
+333-04	50	0	General &#8211; lives with husband and grandchildren
+333-04	51	0	Tobacco &#8211; used to smoke 1.5-2 pack/day, quit 12 years ago
+333-04	52	0	EtOH &#8211; none
+333-04	53	0	IVDU &#8211; none
+333-04	54	448	ALLERGIES:
+333-04	55	448	Penicillins (Rash)
+333-04	56	448	TRIMETHOPRIM/SULFAMETHOXAZOLE (Rash)
+333-04	57	448	OMEPRAZOLE (Possible acute interstitial nephritis)
+333-04	58	448	MEDICATIONS ON ADMISSION
+333-04	59	448	  1. Acetylsalicylic Acid (Aspirin)  81 MG PO QD
+333-04	60	448	  2. Albuterol Inhaler Hfa  2 PUFF INH Q6H prn Wheezing
+333-04	61	448	  3. Amlodipine  10 MG PO QD
+333-04	62	448	  4. Clonazepam  0.25 MG PO BID
+333-04	63	448	  5. Fenofibrate (Tricor)  145 MG PO QD
+333-04	64	448	  6. Fluoxetine Hcl (Prozac)  40 MG PO QD
+333-04	65	448	  7. Fluticasone Prop/Salmeterol 500/50 (Advair Diskus 500/50)  1 INHALATION INH BID
+333-04	66	448	  8. Furosemide (Lasix)  80 MG PO BID
+333-04	67	448	  9. Insulin Aspart 70/30 Pen (Novolog 70/30 Flexpen)  40 UNITS     SC
+333-04	68	448	10. Kcl Slow Release Tab  20 MEQ PO QD
+333-04	69	448	11. Ketoconazole  1 APPLICATION TOP BID
+333-04	70	448	12. Levothyroxine Sodium (Levoxyl)  175 MCG PO QD
+333-04	71	448	      Dr.
+333-04	72	448	Uy signing for Dr.
+333-04	73	448	Arthur Qin 13.
+333-04	74	448	Lidocaine 5% Patch  1 PATCH TRANSDERMAL QD 14.
+333-04	75	448	Lisinopril  2.5 MG PO QD 15.
+333-04	76	448	Medroxyprogesterone  10 MG PO QD 16.
+333-04	77	448	Metformin Extended Release  500 MG PO QD 17.
+333-04	78	448	Metolazone  2.5 MG PO AS DIRECTED       please take half an hour before morning lasix dose twice a week, on Thursday and Sunday
+333-04	79	448	18. Metoprolol Succinate Extended Release (Toprol Xl)  25 MG PO QD
+333-04	80	448	19. Morphine Controlled Release  30 MG PO Q12H prn back pain
+333-04	81	448	20. Nystatin Powder  1 APPLICATION TOP BID
+333-04	82	448	21. Oxycodone  5 MG PO Q12H prn pain
+333-04	83	448	22. Phenazopyridine Hcl (Pyridium)  100 MG PO TID
+333-04	84	448	      please take AFTER meals
+333-04	85	448	23. Prednisone  10 MG PO QD
+333-04	86	448	24. Pregabalin (Lyrica)  50 MG PO TID
+333-04	87	448	25. Sennosides (Senna Tablets)  2 TAB PO BID prn Constipation
+333-04	88	448	26. Simvastatin  10 MG PO QPM
+333-04	89	448	      take one po daily
+333-04	90	448	27. Tiotropium  18 MCG INH QD
+333-04	91	448	28. Trazodone  25 MG PO QHS prn Insomnia
+333-04	92	448	PHYSICAL EXAM
+333-04	93	0	VITALS:  T: 99.2 P: 91
+333-04	94	0	BP: 98/63 RR: 22
+333-04	95	0	SpO2: 98% 2.5L NC
+333-04	96	0	GEN&#8217;L: Obese, tearful woman reclining flat in bed
+333-04	97	0	HEENT: EOMI, PERRL.
+333-04	98	0	NECK: Supple.
+333-04	99	0	Could not appreciate IJ.
+333-04	100	0	No lymphadenopathy.
+333-04	101	0	Heart: RRR.
+333-04	102	0	No m/r/g.
+333-04	103	0	LUNG:  Exam limited by obesity (could not sit up for full posterior exam), but I could not appreciate any wheezes or crackles.
+333-04	104	0	ABD:
+333-04	105	0	Obese, soft, non-tender.
+333-04	106	0	Bowel sounds present.
+333-04	107	0	EXT:
+333-04	108	0	Changes c/w venous stasis; trace bilateral ankle edema.
+333-04	109	790	LABS:
+333-04	110	790	Plasma Sodium                    138                       (135-145)      mmol/L
+333-04	111	790	Plasma Potassium                 3.6                       (3.4-4.8)      mmol/L
+333-04	112	790	Plasma Chloride                  89               L        (100-108)      mmol/L
+333-04	113	790	Plasma Carbon Dioxide            39.8             H        (23.0-31.9)    mmol/L
+333-04	114	790	Plasma Anion GAP                 9                         (3-15)         mmol/L
+333-04	115	790	Calcium                          9.8                       (8.5-10.5)     mg/dl
+333-04	116	790	Phosphorus                       4.4                       (2.6-4.5)      mg/dl
+333-04	117	790	Magnesium                        1.8                       (1.4-2.0)      meq/L
+333-04	118	790	Plasma Urea Nitrogen             51               H        (8-25)         mg/dl
+333-04	119	790	Plasma Creatinine                1.04                      (0.60-1.50)    mg/dl
+333-04	120	790	eGFR                             57                                       mL/min/1.73m2
+333-04	121	790	Plasma Glucose                   183              H        (70-110)       mg/dl
+333-04	122	790	Total Protein                    7.4                       (6.0-8.3)      g/dl
+333-04	123	790	Albumin                          3.9                       (3.3-5.0)      g/dl
+333-04	124	790	Globulin                         3.5                       (2.3-4.1)      g/dl
+333-04	125	790	Direct Bilirubin                 0.2                       (0-0.4)        mg/dl
+333-04	126	790	Total Bilirubin                  0.5                       (0.0-1.0)      mg/dl
+333-04	127	790	Alkaline Phosphatase             88                        (30-100)       U/L
+333-04	128	790	Transaminase-SGPT                13                        (7-30)         U/L
+333-04	129	790	NT-proBNP                        42                        (0-900)        pg/ml
+333-04	130	790	Transaminase-SGOT                15                        (9-32)         U/L
+333-04	131	790	Lipase                           20                        (13-60)        U/L
+333-04	132	790	WBC                              13.0             H        (4.5-11.0)     th/cmm
+333-04	133	790	HCT                              32.8             L        (36.0-46.0)    %
+333-04	134	790	HGB                              11.0             L        (12.0-16.0)    gm/dl
+333-04	135	790	RBC                              4.13                      (4.00-5.20)    mil/cmm
+333-04	136	790	PLT                              286                       (150-400)      th/cumm
+333-04	137	790	MCV                              80                        (80-100)       fl
+333-04	138	790	MCH                              26.5                      (26.0-34.0)    pg/rbc
+333-04	139	790	MCHC                             33.4                      (31.0-37.0)    g/dl
+333-04	140	790	RDW                              17.6             H        (11.5-14.5)    %
+333-04	141	790	Diff Method                      Auto
+333-04	142	790	Poly                             85               H        (40-70)        %
+333-04	143	790	Lymphs                           8                L        (22-44)        %
+333-04	144	790	Monos                            6                         (4-11)         %
+333-04	145	790	EOS                              1                         (0-8)          %
+333-04	146	790	Basos                            0                         (0-3)          %
+333-04	147	0	MICROBIOLOGY:
+333-04	148	0	Blood cultures and urine cultures from ED on 3/4 pending
+333-04	149	0	No respiratory sample sent.
+333-04	150	0	RADIOLOGY:
+333-04	151	0	CXR (3/4): RLL patchy opacity.

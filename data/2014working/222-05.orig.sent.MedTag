@@ -1,0 +1,73 @@
+222-05	1	Record date: 2098-07-20	
+222-05	2		
+222-05	3		
+222-05	4	July 20, 2098	
+222-05	5		
+222-05	6		
+222-05	7		
+222-05	8	Patricia Islam, M.D.	
+222-05	9	Redwood Area Hospital	
+222-05	10	34 Tamworth Place/Internal Medicine	
+222-05	11	Cass City, MS  25448	
+222-05	12		
+222-05	13	Re:  Brady Duvall	
+222-05	14	MR #425-03-15-1	
+222-05	15		
+222-05	16	Dear Patricia:	
+222-05	17		
+222-05	18	I saw Brady Duvall again today.	
+222-05	19	He has been very stable clinically over these past six months.  I believe this represents a composite of the following three major changes in his medical regimen.		DRT FFF six months#10	DBN FFF medical regimen#26
+222-05	20	As you know, we have discontinued all beta blockers, and this has been associated with a symptomatic stability.		INDICATION FFF as#0	DIN FFF beta blockers#8
+222-05	21	He had biventricular pacing box placed, certainly contributing to	
+222-05	22	his overall improved status and he is now taking a regular dose	
+222-05	23	of Lasix.		DBN FFF lasix#1
+222-05	24	He is on 80 mg alternating with 40 mg per day.		DOSE FFF 80mg#4	DOSE FFF 40mg#8	FREQ FFF per day#10
+222-05	25	He does have symptoms of fatigue, but his overall volume status is quite reasonable.		INDICATION FFF symptoms#3	INDICATION FFF fatigue#5
+222-05	26	He is currently on Aldactone 25 mg daily and		DBN FFF aldactone#4	DOSE FFF 25mg#6	FREQ FFF daily#7
+222-05	27	Lasix 80 mg per day alternating with 40 mg per day, Captopril		DBN FFF lasix#0	DOSE FFF 80mg#2	FREQ FFF per day#4	DOSE FFF 40mg#8	FREQ FFF per day#10	DIN FFF captopril#11
+222-05	28	6.25 mg p.o. t.i.d., Zocor, insulin, Glucophage, aspirin, and		DOSE FFF 6.25mg#1	RUT FFF p.o#2	FREQ FFF t.i.d#3	DBN FFF zocor#4	DIN FFF insulin#5	DBN FFF glucophage#6	DIN FFF aspirin#7
+222-05	29	mexiletine.		DIN FFF mexiletine#0
+222-05	30	His amiodarone has been discontinued.		DIN FFF amiodarone#1
+222-05	31	He does have asymptomatic ventricular tachycardia, often paced out of this, but I am reluctant to recommend ablation therapy for him at the present time.		INDICATION FFF ventricular tachycardia#5	TOD FFF am#13
+222-05	32	He has not been shocked by his ICD.	
+222-05	33	Functionally he seems quite stable.	
+222-05	34	He does have mild fatigue, but is otherwise reasonably active.		INDICATION FFF fatigue#4
+222-05	35	He will hopefully be traveling to Miami this spring.	
+222-05	36		
+222-05	37	Physical examination today is of note for a weight of 184 lbs.		INDICATION FFF weight#8
+222-05	38	His blood pressure is 118/70, his resting pulse 69.		INDICATION FFF blood pressure#2
+222-05	39	His neck veins are in fact, quite unimpressive.	
+222-05	40	There is minimal jugular distention, perhaps 6-7 cm.		INDICATION FFF cm#7
+222-05	41	There is no hepatojugular reflux.	
+222-05	42		
+222-05	43	Re:  Brady Duvall	
+222-05	44	MR #425-03-15-1                 -2-                07/18/98	
+222-05	45		
+222-05	46	Lungs were clear.	
+222-05	47	Examination of his heart reveals a quiet precordium.  S1 and S2 seem normal.	
+222-05	48	No S3, no gallop and no murmur or mitral regurgitation.	
+222-05	49	Abdomen is benign without palpable liver or spleen and there was no peripheral edema.		INDICATION FFF liver#5	INDICATION FFF edema#13
+222-05	50	There are bilateral varicosities.		INDICATION FFF varicosities#3
+222-05	51		
+222-05	52	His electrocardiogram shows pace rhythm.	
+222-05	53		
+222-05	54	Mr. Brady Duvall is currently stable on this regimen.	
+222-05	55	Accordingly, I have made no changes.  I have checked appropriate	
+222-05	56	electrolytes.	
+222-05	57		
+222-05	58	Many thanks for letting us participate in his care.	
+222-05	59		
+222-05	60	With best regards.	
+222-05	61		
+222-05	62	Sincerely,	
+222-05	63		
+222-05	64		
+222-05	65		
+222-05	66	U. L. Dana, M.D.	
+222-05	67		
+222-05	68	/paris	
+222-05	69		
+222-05	70		
+222-05	71	******** Not reviewed by Attending Physician ********	
+222-05	72		
+222-05	73		

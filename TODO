@@ -1,0 +1,36 @@
+TODO-LIST
+.set up github repo
+.install and use UIMAFit
+.set up cTakes
+	sentence spliter, tokenizer
+.other openNLP, temporal tagger
+.in sentTags.py, separate different Factor types,
+or in dataset.py, separate different types
+	:prefer dataset, because may have larger feature vectors
+.set up the matlab to use libSVM
+.fix the sentfile_orginal matching problem!!!
+
+THOUGHTS
+.replace "medication full name" with a token medication
+parsing on named entity
+
+
+
+:show your passione for technology
+	I've been using Visual Studio recently to learn game programming and it's APIs are excellent
+:what areas of technology you are familiar with
+:code on whiteboard
+:web-based company, care about scale: prepare for questions in 'Large Scale'; object oriented design(Amazon)
+:Analytical ability, coding, experience, communication; design a scalable system, prepare for questions from
+"System Design and Memory Limits", questions involving "Bit Manipulation"
+excellent technical skills, passion fro the position and company
+thoughts are clearly communicated
+Apple employees are huge apple fans
+interview with 6-7 people on the same team for 45 minutes each. One interviewer might focus on databases, while another interviewer mgiht focus on your understanding of computer architecture
+5 minutes: general conversation, Tell me about yourself, your project,etc
+20 minutes: coding question. for example implement merge sort
+20 minutes: system design,design a large distribured cache, focus on an area from your past experience or on something your interviewer is curretly working on
+product demos, concerns about the company, your competing offers
+Yahoo: asks aquestions about system design, anticipate you can design software
+
+

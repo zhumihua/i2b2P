@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2062-06-10
+
+Medical Walk In Unit
+
+Hartsville General Hospital
+
+21 Brook St 
+
+Pataskala, RI 33689
+
+Phone: 929-462-2794   Fax: 648-875-5821 
+
+
+
+PCP: 
+
+
+
+
+
+Nursing Assessment:  
+
+WT:    Temp:    P: 100     BP: 190/116
+
+
+
+Reason for visit: Pt just left the EW.  Noted HTN has been off meds for a while.  Was nor given any meds
+
+
+
+Lab Data :
+
+
+
+Allergies:      
+
+
+
+
+
+Medication: 
+
+off meds for more than 3 months
+
+
+
+History of the Present Illness:                                
+
+59 y/o female here for high blood pressure.  Pt was seen in EW for medications and was given Seroquel, Neurontin, and amytriptyline.  Pt has been out of meds for more than 3 months.
+
+
+
+Pt remembers being atenolol and HCTZ.  Pt plans to come to the medical walk-in tomorrow with all her medications.
+
+
+
+Pt denies HA, visual problems, chest pain, problems with urination.
+
+
+
+Father had CAD and died at age 55.  Mother died when she was 89 (10 months ago).  Pt never had a heart attack.  Pt never smoked.
+
+
+
+Pertinent PMH:  
+
+diabetes
+
+HTN
+
+mood disorder
+
+
+
+Physical Exam:  
+
+Gen: NAD
+
+Vitals: HR 100, BP 200/130 on right arm
+
+Heart: reg, no murmur
+
+Lungs: CTAB
+
+
+
+Assessment/Plan:
+
+high blood pressure
+
+-- metoprolol 50 po now and then bid
+
+-- lisinopril 10 po now and then qd
+
+-- follow-up in the EW now to make sure BP is lower before discharge
+
+
+
+Follow-up:
+
+to EW
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC6" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC10" time="before DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC12" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC2" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC8" indicator="present"/>
+    <SMOKER id="DOC14" status="never"/>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC13" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

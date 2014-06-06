@@ -1,0 +1,118 @@
+246-02	1	Record date: 2101-04-28	
+246-02	2	Johnson County Home	
+246-02	3	Emergency Department Record	
+246-02	4	Patient: YEO, AUSTIN             MRN: 8652895        DOB:  5/17/2060     Sex: M		DIN FFF dob#5
+246-02	5	Registration Date/Time: 4/28/2101 1:01:00 AM            Provider: URIEL  ILES		TOD FFF 00 am#4
+246-02	6	Time Patient Seen	
+246-02	7	3:40am		TOD FFF am#0
+246-02	8	Chief Complaint	
+246-02	9	leg pain		INDICATION FFF leg pain#1
+246-02	10	HPI	
+246-02	11	40M h/o known CAD, recent admission for CP, h/o HTN, hyperchol, DM, p/w leg pain and also c/o CP, exertional since yesterday.		INDICATION FFF cad#3	INDICATION FFF cp#7	INDICATION FFF htn#9	INDICATION FFF dm#11	INDICATION FFF leg pain#14	INDICATION FFF c / o#17	INDICATION FFF cp#18
+246-02	12	No SOB/diaph/palp/N/V. did not c/o CP at triage or to nursing. No F/C/NS/dysuria/cough/ad pain. h/o polysubstance abuse, admits to EtOH today.		INDICATION FFF sob#1	INDICATION FFF c / o#4	INDICATION FFF cp#5	INDICATION FFF f#12	INDICATION FFF ns#12	INDICATION FFF cough#12	INDICATION FFF ad#12	INDICATION FFF pain .#13
+246-02	13	PMHx	
+246-02	14	CAD		INDICATION FFF cad#0
+246-02	15	DM		INDICATION FFF dm#0
+246-02	16	HTN		INDICATION FFF htn#0
+246-02	17	hyperchol	
+246-02	18	HCV	
+246-02	19	PSurHx	
+246-02	20	denies	
+246-02	21	Meds	
+246-02	22	ATENOLOL 50 MG PO QD		DIN FFF atenolol#0	DOSE FFF 50mg#2	RUT FFF po#3	FREQ FFF qd#4
+246-02	23	METFORMIN 500 MGPO BID		DIN FFF metformin#0	DOSE FFF 500#1	FREQ FFF bid#3
+246-02	24	ATORVASTATIN 10 MGPO QHS		DIN FFF atorvastatin#0	DOSE FFF 10#1	FREQ FFF qhs#3
+246-02	25	NAPROXEN 375 MG PO BID		DIN FFF naproxen#0	DOSE FFF 375mg#2	RUT FFF po#3	FREQ FFF bid#4
+246-02	26	PERCOCET 5/325 6 tabs/day		DBN FFF percocet 5/325#1	DOSEAMT FFF 6 tabs#3
+246-02	27	MEHTADONE ? 80 MG daily		DOSE FFF 80mg#3	FREQ FFF daily#4
+246-02	28	Allergy		INDICATION FFF allergy#0
+246-02	29	nkda	
+246-02	30	Family Hx	
+246-02	31	nc	
+246-02	32	Social Hx	
+246-02	33	etoh, cocaine, smokes x5 yrs, homeless/living with relatives		DIN FFF cocaine#1	FREQ FFF x5#3
+246-02	34	ROS	
+246-02	35	Constitutional	
+246-02	36	No major weight loss or gain, fatigue, fever, chills.		INDICATION FFF weight#2	INDICATION FFF fatigue#6	INDICATION FFF fever#7
+246-02	37	Head/Eyes	
+246-02	38	No visual changes, lesions, headaches		INDICATION FFF headaches#4
+246-02	39	ENT/Neck	
+246-02	40	No hearing loss, tinnitus, vertigo, rhinorrhea, hoarseness, difficulty swallowing, oral lesions, stiffness		INDICATION FFF vertigo#4	RUT FFF oral#9
+246-02	41	Chest/Respiratory	
+246-02	42	See HPI	
+246-02	43	Cardiovascular	
+246-02	44	See HPI	
+246-02	45	GI/Abdominal	
+246-02	46	No pain, nausea, vomiting, diarrhea, melena, bleeding, heartburn		INDICATION FFF pain#1	INDICATION FFF nausea#2	INDICATION FFF vomiting#3	INDICATION FFF diarrhea#4	INDICATION FFF bleeding#6	INDICATION FFF heartburn#7
+246-02	47	Musculoskeletal/Extr/Back	
+246-02	48	See HPI	
+246-02	49	Skin	
+246-02	50	No rashes, itching		INDICATION FFF itching#2
+246-02	51	Neuro	
+246-02	52	No loss of awareness, seizures, paralysis, paraesthesias, no syncope, tremors		INDICATION FFF seizures#4	INDICATION FFF paralysis#5	INDICATION FFF tremors#9
+246-02	53	Psych	
+246-02	54	No depression, anxiety, unusual stress		INDICATION FFF depression#1	INDICATION FFF anxiety#2
+246-02	55	Physical Exam	
+246-02	56	Constitutional	
+246-02	57	Patient is a well developed, obese, alert male, no acute distress, no obvious discomfort		INDICATION FFF obese#5
+246-02	58	Vitals	
+246-02	59	T:97	
+246-02	60	P:80	
+246-02	61	BP:165/82	
+246-02	62	RR:16	
+246-02	63	SaO2:98RA	
+246-02	64	Head/Eyes	
+246-02	65	NC/AT, pupils are equal, round and react normally to light, EOM's are full, no ocular discharge, conjunctiva normal	
+246-02	66	ENT	
+246-02	67	There is no nasal discharge.		RUT FFF nasal#3
+246-02	68	TM's clear, auditory canal without lesions, no intraoral lesions, good dentition, uvula midline, tonsils and pharynx without inflammation or exudates		INDICATION FFF inflammation#17
+246-02	69	Neck	
+246-02	70	Full range of motion, no stiffness or tenderness, thyroid normal size without nodularity.	
+246-02	71	Carotid pulses are intact bilaterally without bruits, no lymphadenopathy, no masses, no neck vein distention	
+246-02	72	Chest/Respiratory	
+246-02	73	Clear to auscultation and percussion, no crackles, wheezes or rhonchi		INDICATION FFF wheezes#7
+246-02	74	Cardiovascular	
+246-02	75	Regular rate and rhythm, normal S1 & S2, no murmurs, gallops or rubs	
+246-02	76	GI/Abdomen	
+246-02	77	obese, soft, normal bowel sounds, nontender, no intra-abdominal masses or hepatosplenomegaly		INDICATION FFF obese#0
+246-02	78	Musculoskeletal	
+246-02	79	No cyanosis, clubbing, edema, or joint swelling		INDICATION FFF cyanosis#1	INDICATION FFF edema#3	INDICATION FFF swelling#6
+246-02	80	Skin	
+246-02	81	No rash, no lesions of significance	
+246-02	82	Neurologic	
+246-02	83	PERRL, EOMI, cranial nerves intact, mental status, speech and memory normal, strength, sensation, reflexes and gait normal		INDICATION FFF mental status#6
+246-02	84	Psychiatric	
+246-02	85	No visual or auditory hallucination, not suicidal, not homicidal	
+246-02	86	EKG	
+246-02	87	old L hemi-block, no ischemic changes, unchanged from prior	
+246-02	88	Impression/Plan	
+246-02	89	40M who presents frequently, apparently out of meds, CP at baseline and no ecg changes, CE neg, does not need r/o. medically cleared and to be seen by APS for substance issues and psychiatric eval. d/c home or to APS for further eval.		INDICATION FFF cp#8	DIN FFF ecg#13
+246-02	90	ED Attending Physician Note		INDICATION FFF ed#0
+246-02	91	Medical Records Reviewed	
+246-02	92	yes	
+246-02	93	HPI	
+246-02	94	40 year old male presents with chest and leg pain.		DRT FFF 40 year#1	INDICATION FFF leg pain#9
+246-02	95	These have been chronic problems for him.	
+246-02	96	He has a history of EtOH use.	
+246-02	97	Not taking any of his medications at this time.	
+246-02	98	No fever, chills, vomiting.		INDICATION FFF fever#1	INDICATION FFF vomiting#3
+246-02	99	Pain is constant, days.		INDICATION FFF pain#0
+246-02	100	Non radiating.	
+246-02	101	ROS	
+246-02	102	all systems reviewed and negative except as above		INDICATION FFF as#6
+246-02	103	Vitals	
+246-02	104	See Nursing Notes	
+246-02	105	PE		INDICATION FFF pe#0
+246-02	106	Gen: Disheveled, awake, communicative	
+246-02	107	Head: NC/AT	
+246-02	108	Neck: Supple full ROM	
+246-02	109	Lungs: CTA bilat	
+246-02	110	CV: RRR no m/r/g		DIN FFF m / r#3
+246-02	111	Abd: Soft NT ND	
+246-02	112	Ext: No deformity	
+246-02	113	Neuro: Moves all extremities	
+246-02	114	Medical Decision Making ED Course		INDICATION FFF ed#3
+246-02	115	Review of records - previous visits for same.	
+246-02	116	He has recent MIBI that is negative and recent admit for cardiac rule out.	
+246-02	117	Here, ECG is unchanged from old - no further cardiac workup needed in the ED at this time.		DIN FFF ecg#1	INDICATION FFF ed#14
+246-02	118	CBC, chem7, and LFTs are benign, as is tox screen.		INDICATION FFF as#6

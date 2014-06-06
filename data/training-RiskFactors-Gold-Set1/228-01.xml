@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2081-05-01
+
+ 
+ 
+ 
+ 
+ 
+May 01, 2081
+ 
+ 
+ 
+Usha Gibbons, M.D.
+CIMA
+Cooley Dickinson Hospital
+08 Pinehaven Dr.
+Schuyler, FL  76969
+ 
+ 
+RE:  Wonda Benitez
+     MR #892-76-95-4
+ 
+Dear Usha:
+ 
+I had the pleasure of seeing one of your clinic patients, Ms.
+Benitez, in my cardiovascular clinic for follow-up for palpitations,
+hypertension, and status post coronary artery bypass surgery.  As
+you know, she has been complaining of leg cramps mostly at night. 
+She has been taking quinine for this, however develops palpitations
+whenever she takes the quinine.  She has not been taking this since
+the initial two doses.  I suspect that her leg cramps are probably
+secondary to intermittent passing fluxes.  I have told her to eat
+a banana during the evening and possibly this would avoid leg
+cramps in the evening.  In the meantime, her EKG showed sinus
+bradycardia at a rate of 50 per minute.  There is borderline first
+degree AV block and anterolateral infarct by EKG which is unchanged
+from previous tracing.  We will continue her on Vasotec 10 mg bid
+as well as Lopressor 12.5 mg bid.  She will see me in follow-up in
+three months' time.
+ 
+Again, thank you for referring this patient to my cardiovascular
+clinic.
+ 
+With warm regards.
+ 
+Sincerely,
+ 
+ 
+ 
+Gordon Q. Iniguez, M.D.
+ 
+DD: 05/01/81
+DT: 05/05/81
+DV: 05/01/81
+ 
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC3" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC5" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC10" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC7" time="after DCT" indicator="mention"/>
+    <CAD id="DOC2" time="before DCT" indicator="event"/>
+    <FAMILY_HIST id="DOC11" indicator="not present"/>
+    <SMOKER id="DOC9" status="unknown"/>
+  </TAGS>
+</root>

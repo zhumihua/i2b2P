@@ -1,0 +1,22 @@
+339-01	4	0	HEENT:  no history of head injury, glaucoma, tinnitus, vertigo, motion sickness, URI, hearing loss.	motion sickness, FFF 9 10	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+339-01	5	0	Cardiovascular: + hypertension - adequate control for patient on zestril, EKG - w/ Q wave in II, III, f and poor r wave progression w/ ? inferior infarct, no chnage form 2065 no hypercholesterolemia, murmur, rheumatic fever, syncope, palpitations, edema, dyspnea.	zestril, FFF 9 9	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+339-01	7	0	GI:  + history of GERD - stopped zantac about 6 months ago and had occ. reflux, but know symptoms are more frequent w/ epigatsric burning, no hx of PUD, bleeding, change in bowel habits.	zantac FFF 7 7	 FFF 	 FFF 	 FFF 	6 months FFF 9 10	 FFF 	narrative
+339-01	11	0	Pt was using tylenol only for pain control, but that doesn't work with the shoulder pain.	tylenol FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+339-01	17	0	Pt currently on glucophage and glyburide.	glucophage FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+339-01	17	0	Pt currently on glucophage and glyburide.	glyburide. FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+339-01	18	0	Pt's glyburide was recently increased to 10mg  BID form 5 mg BID.	glyburide FFF 1 1	10mg FFF 6 6	 FFF 	bid FFF 7 7	 FFF 	 FFF 	narrative
+339-01	18	0	Pt's glyburide was recently increased to 10mg  BID form 5 mg BID.	glyburide FFF 1 1	5 mg FFF 9 10	 FFF 	bid. FFF 11 11	 FFF 	 FFF 	narrative
+339-01	33	0	THYROID NODULE - dx 2074 s/p bx, treated w/ synthroid for several years, nl TSH since	synthroid FFF 9 9	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+339-01	41	0	*   One touch test strips  As  QD	one touch FFF 1 2	 FFF 	 FFF 	qd FFF 6 6	 FFF 	 FFF 	narrative
+339-01	42	0	GLUCOPHAGE (METFORMIN) 1000MG 1 Tablet(s) PO BID	GLUCOPHAGE (METFORMIN) FFF 0 1	1000mg FFF 2 2	po FFF 5 5	bid FFF 6 6	 FFF 	 FFF 	narrative
+339-01	43	0	glyburide  10mg PO BID	glyburide FFF 0 0	10mg FFF 1 1	po FFF 2 2	bid FFF 3 3	 FFF 	 FFF 	narrative
+339-01	44	0	ZESTRIL (LISINOPRIL) 10MG 1 Tablet(s) PO QD	ZESTRIL (LISINOPRIL) FFF 0 1	10mg FFF 2 2	po FFF 5 5	qd FFF 6 6	 FFF 	 FFF 	narrative
+339-01	45	0	NEURONTIN (GABAPENTIN) 400MG 1 Capsule(s) PO QHS(increased form 300mg on 2/28) zanatc 150mg qhs, restarted on 2/28/82	neurontin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+339-01	54	0	Influenza Vaccine 09/27/2081 L arm	influenza vaccine FFF 0 1	09/27/2081 FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+339-01	54	0	Influenza Vaccine 09/27/2081 L arm	influenza vaccine FFF 0 1	09/27/2081 l FFF 2 3	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+339-01	60	0	Pneumovax 12/24/2075  Done	pneumovax FFF 0 0	12/24/2075 FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+339-01	72	0	P: increase neurotin to 400mg qhs	neurotin FFF 2 2	400mg FFF 4 4	 FFF 	qhs FFF 5 5	 FFF 	 FFF 	narrative
+339-01	75	0	P:  change tylenol to celebrex 100mg BID to start after surg	tylenol FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+339-01	75	0	P:  change tylenol to celebrex 100mg BID to start after surg	celebrex FFF 4 4	100mg FFF 5 5	 FFF 	bid FFF 6 6	 FFF 	 FFF 	narrative
+339-01	79	0	P: cont zestril, check bun, crt lytes	zestril, FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+339-01	81	0	P:  restart zantac 150mg qhs	zantac 150mg FFF 2 3	 FFF 	 FFF 	qhs FFF 4 4	 FFF 	 FFF 	narrative

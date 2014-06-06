@@ -1,0 +1,69 @@
+225-04	1	Record date: 2095-12-04	
+225-04	2	CARDIOLOGY	
+225-04	3		
+225-04	4	OXFORD DELTA CLINIC	
+225-04	5		
+225-04	6	Reason for visit:	
+225-04	7	chest pain		INDICATION FFF chest pain#1
+225-04	8	Interval History:	
+225-04	9	71 yo male with HTN, hyperlipidemia, DM, CAD/CABG September 2092 which was c/b premature graft failure of the SVG to LAD presents with increasing frequency of left jaw pain and chest pain for the past 4 wks.		INDICATION FFF htn#4	INDICATION FFF hyperlipidemia#5	INDICATION FFF dm#6	INDICATION FFF cad#7	INDICATION FFF pain#28	INDICATION FFF chest pain#31	DRT FFF 4 wks#36
+225-04	10	After his CABG, he underwent POBA of likely diffusely diseased, intramyocardial LAD in 1/93 due to recurrent angina.		INDICATION FFF angina#17
+225-04	11	He then underwent May 94 and cath demonstrated severe native disease with a mid-LAD lesion which was treated with PTCA/Taxus stent.		INDICATION FFF stent .#20
+225-04	12	He had symptomatic relief until 11/94 when he began to experience exertional discomfort and dyspnea which has now progressed to symptoms at rest despite an aggressive medical regimen.		INDICATION FFF symptomatic relief#3	DRT FFF until#4	INDICATION FFF dyspnea#14	INDICATION FFF symptoms#20	DBN FFF medical regimen#27
+225-04	13	He then underwent repeat cath in 12/94 which revealed in stent restenosis of prior LAD stent and was stented with a 2.25 x 13 mm Cypher stent.		INDICATION FFF mm#24	INDICATION FFF cypher stent#26
+225-04	14	He reports complete symptomatic relief after his stent in 12/94 and he was chest pain free until about a month ago when he noted left-sided chest pain and left jaw pain that was similar to his cardiac chest pain in the past.		INDICATION FFF symptomatic relief#4	INDICATION FFF chest pain#14	DRT FFF until#16	DRT FFF a month#19	INDICATION FFF chest pain#26	INDICATION FFF pain#30	INDICATION FFF chest pain#38
+225-04	15	The pain was both exertional and non-exertional.		INDICATION FFF the pain#1
+225-04	16	He also noted gradually worsening exertional dyspnea as well, though he has mostly been sedentary.		INDICATION FFF dyspnea#6	INDICATION FFF as#7
+225-04	17	He denies any orthopnea, PND, leg edema or palpitations.		INDICATION FFF orthopnea#3	INDICATION FFF edema#6
+225-04	18	He has been compliant with all medications, including ASA and Plavix.		DIN FFF asa#8	DBN FFF plavix#10
+225-04	19	He is currently chest pain free.		INDICATION FFF chest pain#4
+225-04	20	Past medical history:	
+225-04	21	DM		INDICATION FFF dm#0
+225-04	22	HTN		INDICATION FFF htn#0
+225-04	23	Hyperlipidemia		INDICATION FFF hyperlipidemia#0
+225-04	24	CAD -CABG x 3 September 2092 WMMC (LIMA to D2, SVG to RCA, SVG to LAD) s/p PCI prox LAD Jan 2093, s/p Taxus stent to LAD 5/94, s/p Cypher stent to mid LAD 12/94		INDICATION FFF cad#0	FREQ FFF x 3#3	INDICATION FFF cypher stent#30
+225-04	25	Cardiac cath 12/94: Diffuse 3 vessel CAD.		DIN FFF vessel#5	INDICATION FFF cad#6
+225-04	26	Patent LIMA to D1, patent SVG to RCA.	
+225-04	27	Occluded SVG to LAD as previous.  60% in-stent restenosis of mid LAD.		INDICATION FFF as#4	DOSE FFF 60%#6
+225-04	28	GERD s/p H pylori eradication several years ago		INDICATION FFF gerd#0
+225-04	29	Left rotator cuff injury s/p CABG	
+225-04	30	Anxiety		INDICATION FFF anxiety#0
+225-04	31	hernia repair	
+225-04	32	Medications:	
+225-04	33	Albuterol Inhaler Hfa INH as directed		DBN FFF albuterol inhaler#1	RUT FFF inh#3	INDICATION FFF as#4
+225-04	34	Buffered Aspirin (ASPIRIN Buffered) 325 MG (325 MG TABLET Take 1) PO QD #Tablet(s)		DIN FFF buffered aspirin#1	DOSE FFF 325mg#5	DOSE FFF 325mg#7	RUT FFF po#11	FREQ FFF qd#12
+225-04	35	Citalopram 40 MG (40 MG TABLET Take 1) PO QD #Tablet(s)		DIN FFF citalopram#0	DOSE FFF 40mg#2	DOSE FFF 40mg#4	RUT FFF po#8	FREQ FFF qd#9
+225-04	36	Fenofibrate, Micronized (LOFIBRA Caps) 200 MG (200 MG CAPSULE Take 1) PO QD, Take with food. #Capsule(s)		DIN FFF fenofibrate , micronized#1	DOSE FFF 200mg#5	DOSE FFF 200mg#7	RUT FFF po#11	FREQ FFF qd#12
+225-04	37	Furosemide 20 MG (20 MG TABLET Take 1) PO QD #Tablet(s)		DIN FFF furosemide#0	DOSE FFF 20mg#2	DOSE FFF 20mg#4	RUT FFF po#8	FREQ FFF qd#9
+225-04	38	Isosorbide Mononitrate (SR) 60 MG (60 MG TAB.SR 24H Take 1) PO QD #TAB.SR		DPN FFF isosorbide mononitrate ( sr )#2	DOSE FFF 60mg#4	DOSE FFF 60mg#6	DRT FFF 24 h#8	RUT FFF po#11	FREQ FFF qd#12
+225-04	39	Klor-con (KCL Slow Release Tab) PO #Tablet(s)		DBN FFF klor-con#0	RUT FFF po#5
+225-04	40	Lipitor (ATORVASTATIN) 40 MG (40 MG TABLET Take 1) PO QHS #Tablet(s)		DBN FFF lipitor#0	DOSE FFF 40mg#3	DOSE FFF 40mg#5	RUT FFF po#9	FREQ FFF qhs#10
+225-04	41	Metoprolol Tartrate 37.5 MG (25 MG TABLET Take 1.5) PO BID #Tablet(s)		DIN FFF metoprolol tartrate#1	DOSE FFF 37.5mg#3	DOSE FFF 25mg#5	RUT FFF po#9	FREQ FFF bid#10
+225-04	42	Norvasc (AMLODIPINE) 10 MG (10 MG TABLET Take 1) PO QD #Tablet(s)		DBN FFF norvasc#0	DOSE FFF 10mg#3	DOSE FFF 10mg#5	RUT FFF po#9	FREQ FFF qd#10
+225-04	43	Pantoprazole 40 MG (40 MG TABLET DR Take 1) PO QD #Tablet(s)		DIN FFF pantoprazole#0	DOSE FFF 40mg#2	DOSE FFF 40mg#4	RUT FFF po#9	FREQ FFF qd#10
+225-04	44	Plavix (CLOPIDOGREL) 75 MG (75 MG TABLET Take 1) PO QD #Tablet(s)		DBN FFF plavix#0	DOSE FFF 75mg#3	DOSE FFF 75mg#5	RUT FFF po#9	FREQ FFF qd#10
+225-04	45	Ranexa (RANOLAZINE Er) PO BID #TAB.SR		DBN FFF ranexa#0	RUT FFF po#3	FREQ FFF bid#4
+225-04	46	Symbicort 80/4.5 (BUDESONIDE/FORMOTEROL 80/4.5) 2 PUFF INH BID		DBN FFF symbicort 80/4 . 5#1	DOSEAMT FFF 2 puff#5	RUT FFF inh#6	FREQ FFF bid#7
+225-04	47		
+225-04	48	Changes to Allergies		INDICATION FFF allergies#2
+225-04	49		
+225-04	50	ACE Inhibitor - reaction: cough [reviewed]		DIN FFF ace inhibitor#1	INDICATION FFF cough#4
+225-04	51	METFORMIN - reaction: GI Intolerance [reviewed]		DIN FFF metformin#0
+225-04	52	ROSUVASTATIN - reaction: myalgia [reviewed]		DIN FFF rosuvastatin#0
+225-04	53	SIMVASTATIN - reaction: myalgias [reviewed]		DIN FFF simvastatin#0
+225-04	54	VALSARTAN - reaction: fatigue [reviewed]		DIN FFF valsartan#0	INDICATION FFF fatigue#3
+225-04	55	Family history:	
+225-04	56	Father + CAD		INDICATION FFF cad#2
+225-04	57	Social history:	
+225-04	58	Lives with wife in Lagrange,KS.		INDICATION FFF ks#4
+225-04	59	Retired.	
+225-04	60	Former heavy smoker-quit x 30 yrs.		DRT FFF 30 yrs#5
+225-04	61	Rare ETOH.	
+225-04	62	Review of systems:	
+225-04	63	negative in detail other than mentioned in HPI	
+225-04	64	Physical examination:	
+225-04	65		
+225-04	66	-Pulse: 74	
+225-04	67	-resp. rate: 18  99%RA		DOSE FFF 99%#3	INDICATION FFF ra#3
+225-04	68	-Extremities:   No cyanosis, clubbing or edema. 2+ femoral pulses without bruits. 2+ pedal pulses.		INDICATION FFF cyanosis#2	INDICATION FFF edema#5
+225-04	69	-Abdomen:   Normal bowel sounds, soft and nontender, with no hepatosplenomegaly or masses appreciated.	

@@ -1,0 +1,281 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2093-07-04
+
+
+
+	CARDIOLOGY
+
+	
+
+	KELLIHER CARE CENTER
+
+	
+
+
+
+	Reason for visit:
+
+   s/p cerebral angiogram w/ placement stent to left carotid
+
+
+
+	Interval History:
+
+   The patient is a 68 yo male w/ hx TIA '82. Since then, he has had no further subsequent events, but was recently diagnosed with a left-sided carotid artery bruit. CNI's revealed 70% to 89% left internal carotid artery stenosis and he was therefore referred for cerebral angiography. He is now admitted to the Cardilogy Unit s/p sucesful placement of Xact stent. He arrived on Wllison 11 pain free and hemodynamically stable.
+
+
+
+	Past medical history:
+
+   TIA '82
+
+Coronary artery disease
+
+Hypertension.
+
+Hyperlipidemia.
+
+Gastroesophageal reflux disease.
+
+Asthma
+
+Anxiety
+
+BPH
+
+
+
+	Medications (Confirmed):
+
+	
+
+Advair  500/50mcg spray inh bid
+
+atenolol  50mg po daily
+
+Cozaar  50 mg qd
+
+enteric coated aspirin  325 mg qd
+
+Lipitor  10 mg qd
+
+Nexium  40 mg qhs
+
+Norvasc  2.5 mg qd
+
+Plavix  75mg po daily
+
+terazosin  2 mg qd
+
+Valium  2mg po bid PRN
+
+Zantac  150 mg qam
+
+
+
+Allergies:
+
+	
+
+Drug reaction   Demerol ~ bradycardia
+
+
+
+	Social history:
+
+   Divorced, adult children, lives in Winston-salem Nv, works in economics
+
+Tobacco: None
+
+ETOH:1-2 beers/week
+
+Diet:Follows Weight Watchers diet
+
+Exercise:Walks daily, treadmill 2 x/week
+
+
+
+	Review of systems:
+
+   chronic anxiety well controlled w/ Valium, occ headache, + BPH symptoms w/ 2-3 x nocturia otherwise negative in detail.
+
+
+
+Physical examination:
+
+	
+
+-BMI: 26.6  Overweight, moderate risk
+
+-Pulse: 50  
+
+-weight: 185  lbs.
+
+-General:   No acute distress.
+
+-Skin:   No rashes, anicteric.
+
+-Neck:   Carotids 2+ without bruits. JVP flat, no jugular venous distention.
+
+-Chest:   Clear to auscultation anteriorly
+
+-Cardiac:   Regular rate and rhythm with a normal S1 and S2.  There is no evidence of S3 or S4.  There is no evidence of significant murmurs, rubs, or gallops
+
+-Abdomen:   Soft, nontender, and nondistended.  There is no evidence of hepatosplenomegaly or palpable masses.  No evidence of epigastric bruits
+
+-Extremities:   Reveal 2+ femoral artery pulses without any evidence of bruits.  There is also bilateral 2+ popliteal and PT pulses.  There is no evidence of clubbing, cyanosis, or edema
+
+-Neuro:   No focal deficits
+
+-BP: 138/69   
+
+-resp. rate: 16  
+
+-height: 70  in.
+
+-temp:   
+
+
+
+Selected recent labs:
+
+	 Metabolic
+
+Date     NA       K        CL       CO2      BUN      CRE      GLU      CA       
+
+07/03/93 141      4.3      104      26.6     19       1.1      200      9.4      
+
+
+
+Lipid/Thyroid
+
+Date     CHOL     TRIG     HDL      LDL      
+
+07/03/93 145      276      37       53       
+
+
+
+Hematology
+
+Date     HCT      WBC      PLT      
+
+07/03/93 38.7     5.6      155      
+
+
+
+Immunology
+
+Date     HGBA1C   
+
+01/02/93 7.20     
+
+
+
+
+
+	
+
+
+
+	Assessment and plan:
+
+   68 yo male w/ hx CAD, HTN, remote TIA w/ recently discovered asymptomatic left carotid stenosis now s/p sucesfull stnet placement.
+
+
+
+Neuro:Stable, continue ASA/plavix
+
+CV:Continue current medical regimen, monitoring for bradycardai/hypotension.
+
+HLD:Continue current regimen, triglycerides elevated ? r/t DM as HgbA1c was elevated in january, will recheck, consider adding niaspan
+
+?DM:Recheck HgbA1c, cover w/ RISS as needed, nutrition consult for diet education, concider adding gliburide.
+
+
+
+Further per Dr Villa
+
+
+
+Changes to Medications this visit
+
+	
+
+atenolol 50mg  po daily
+
+terazosin 2 mg   qd
+
+Norvasc 2.5 mg   qd
+
+Cozaar 50 mg   qd
+
+Lipitor 10 mg   qd
+
+Zantac 150 mg   qam
+
+Nexium 40 mg   qhs
+
+enteric coated aspirin 325 mg   qd
+
+Valium 2mg  po bid PRN
+
+Advair 500/50mcg spray  inh bid Start: 07/04/2093
+
+Plavix 75mg  po daily Start: 07/04/2093
+
+	
+
+Queen F. Hodge, NP pager #78686
+
+	
+
+Transcribed by: Queen F Hodge
+
+	
+
+Signed electronically by  Queen F. Hodge, NP
+
+Document Status: Final
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC5" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC8" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC20" time="after DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC9" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC10" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC16" time="after DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC18" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC22" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC24" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC25" time="before DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC27" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC28" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC30" time="during DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC31" time="before DCT" type1="ARB" type2=""/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC26" time="before DCT" indicator="mention"/>
+    <CAD id="DOC15" time="after DCT" indicator="mention"/>
+    <CAD id="DOC21" time="during DCT" indicator="mention"/>
+    <CAD id="DOC29" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC19" indicator="not present"/>
+    <SMOKER id="DOC23" status="never"/>
+    <DIABETES id="DOC3" time="before DCT" indicator="A1C"/>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC14" time="before DCT" indicator="glucose"/>
+  </TAGS>
+</root>

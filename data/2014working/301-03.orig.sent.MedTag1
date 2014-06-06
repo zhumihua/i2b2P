@@ -1,0 +1,154 @@
+301-03||1||Record date: 2079-05-14
+301-03||3||MEDICINE TEAM 4 ADMIT NOTE
+301-03||4||Name: Albert, Bobbie
+301-03||5||MRN: 7000963
+301-03||6||Date of Admission: 5/14/79
+301-03||7||Attending: Dr.
+301-03||8||Benjamin Earnest
+301-03||9||CC/ID: pneumonia||TOD FFF cc/id: FFF 0 0||INDICATION FFF pneumonia FFF 1 1||
+301-03||10||HPI:
+301-03||11||44M s/p double lung transplant in 2073 for bronchiectasis (on 2L home O2), HTN, and CKD, who is directly admitted to team 4 for PNA.||INDICATION FFF bronchiectasis FFF 8 8||DOSE FFF 2l FFF 10 10||INDICATION FFF htn, FFF 13 13||INDICATION FFF pna. FFF 24 24||
+301-03||12||Pt. was in USOH until about 3 weeks ago when he first noted a sore throat.||DRT FFF until FFF 4 4||DRT FFF 3 weeks FFF 6 7||INDICATION FFF sore throat. FFF 14 15||
+301-03||13||He had a sick contact at work.||INDICATION FFF sick FFF 3 3||
+301-03||14||Pt. saw his PCP, who prescribed 10 days of Levaquin.||INDICATION FFF pcp, FFF 3 3||DRT FFF 10 days FFF 6 7||DBN FFF levaquin. FFF 9 9||
+301-03||15||Although the sore throat resolved after about one week, pt. developed a cough producing yellowish sputum and chest congestion.  Pt. called his pulmonologist   s office (Dr. Earnest) and was advised to have a sputum sample sent to a lab in Florida, where pt. lives.  He was also advised to complete his Levaquin course, which ended on 5/10.  Despite completing levaquin course, cough, congestion, and mild DOE (occasionally had to increase home O2 from 2L to 3L) persisted.  He noted a temperature to 100 on 5/8, no chills, no chest pain.  Pt. again called Dr. Earnest, who ordered chest CT, PFTs, and obtain sputum culture results from lab in Florida, which revealed a pathogen resistant to cipro (did not test susceptibility to levoflox) and susceptible to zosyn and cefepime.  Pt. is admitted for IV antibiotics.||INDICATION FFF sore throat FFF 2 3||DRT FFF one week, FFF 7 8||INDICATION FFF a cough FFF 11 12||INDICATION FFF congestion. FFF 18 18||DBN FFF levaquin FFF 51 51||DBN FFF levaquin FFF 59 59||INDICATION FFF cough, FFF 61 61||INDICATION FFF congestion, FFF 62 62||DOSE FFF 2l FFF 73 73||DOSE FFF 3l) FFF 75 75||INDICATION FFF a temperature FFF 79 80||INDICATION FFF chest pain. FFF 88 89||INDICATION FFF ct, FFF 98 98||INDICATION FFF sputum culture FFF 102 103||DBN FFF cipro FFF 115 115||DPN FFF levoflox) FFF 121 121||DBN FFF zosyn FFF 125 125||DIN FFF cefepime. FFF 127 127||RUT FFF iv FFF 132 132||DIN FFF antibiotics. FFF 133 133||
+301-03||16||ROS:
+301-03||17||Negative in detail, including no recent unintentional weight changes, HA, neck pain/stiffness, change in vision, palpitations, abd pain, N/V/D/C, blood in stool, dysuria, hematuria, joint/muscle pain, numbness, or weakness.||INDICATION FFF weight FFF 7 7||INDICATION FFF ha, FFF 9 9||INDICATION FFF pain/stiffness, FFF 11 11||INDICATION FFF change FFF 12 12||INDICATION FFF pain, FFF 17 17||INDICATION FFF pain, FFF 25 25||
+301-03||18||PMH:
+301-03||19||S/p double lung transplant (7/73) for bronchiectasis||INDICATION FFF bronchiectasis FFF 6 6||
+301-03||20||Hypertension||INDICATION FFF hypertension FFF 0 0||
+301-03||21||CKD (baseline Cr 1.8-2.4)
+301-03||22||OSA
+301-03||23||Obesity||INDICATION FFF obesity FFF 0 0||
+301-03||24||Osteoporosis||INDICATION FFF osteoporosis FFF 0 0||
+301-03||25||Avascular necrosis of R hip/knee||INDICATION FFF necrosis FFF 1 1||
+301-03||26||Depression||INDICATION FFF depression FFF 0 0||
+301-03||27||Psoriasis||INDICATION FFF psoriasis FFF 0 0||
+301-03||28||Meds on Admit:
+301-03||29||acyclovir  200mg po TID||DIN FFF acyclovir FFF 0 0||DOSE FFF 200mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF tid FFF 3 3||
+301-03||30||albuterol inhaler  90mcg/spray inh q4-6h PRN||DBN FFF albuterol inhaler FFF 0 1||DOSE FFF 90mcg/spray FFF 2 2||RUT FFF inh FFF 3 3||FREQ FFF q4-6h FFF 4 4||NEC FFF prn FFF 5 5||
+301-03||31||Albuterol Nebulizer  3ml (0.083%) neb q4h PRN||DIN FFF albuterol FFF 0 0||DOSE FFF 3ml FFF 2 2||DOSE FFF (0.083%) FFF 3 3||RUT FFF neb FFF 4 4||FREQ FFF q4h FFF 5 5||NEC FFF prn FFF 6 6||
+301-03||32||azithromycin  250mg tab po MWF||DIN FFF azithromycin FFF 0 0||DOSE FFF 250mg FFF 1 1||RUT FFF po FFF 3 3||FREQ FFF mwf FFF 4 4||
+301-03||33||Bactrim  single strength 1 tab po MWF||DBN FFF bactrim single strength FFF 0 2||DOSEAMT FFF 1 tab FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF mwf FFF 6 6||
+301-03||34||calcium citrate  600 mg po bid||DIN FFF calcium citrate FFF 0 1||DOSE FFF 600 mg FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF bid FFF 5 5||
+301-03||35||Cellcept  500mg po bid||DBN FFF cellcept FFF 0 0||DOSE FFF 500mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF bid FFF 3 3||
+301-03||36||colistin  150 mg inhaled qd||DIN FFF colistin FFF 0 0||DOSE FFF 150 mg FFF 1 2||RUT FFF inhaled FFF 3 3||FREQ FFF qd FFF 4 4||
+301-03||37||Cozaar  100mg po qd||DBN FFF cozaar FFF 0 0||DOSE FFF 100mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qd FFF 3 3||
+301-03||38||doxycycline  100mg po bid||DIN FFF doxycycline FFF 0 0||DOSE FFF 100mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF bid FFF 3 3||
+301-03||39||Lasix  40 mg po qd||DBN FFF lasix FFF 0 0||DOSE FFF 40 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+301-03||40||Lipitor  40mg po qd||DBN FFF lipitor FFF 0 0||DOSE FFF 40mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qd FFF 3 3||
+301-03||41||magnesium gluconate  1000mg po tid||DIN FFF magnesium gluconate FFF 0 1||DOSE FFF 1000mg FFF 2 2||RUT FFF po FFF 3 3||FREQ FFF tid FFF 4 4||
+301-03||42||multivitamins  1 tab po qd||DIN FFF multivitamins FFF 0 0||DOSEAMT FFF 1 tab FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+301-03||43||Nexium  20mg po qd||DBN FFF nexium FFF 0 0||DOSE FFF 20mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qd FFF 3 3||
+301-03||44||Norvasc  5 mg po qd||DBN FFF norvasc FFF 0 0||DOSE FFF 5 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+301-03||45||pamidronate  60mg iv q 6 months||DIN FFF pamidronate FFF 0 0||DOSE FFF 60mg FFF 1 1||RUT FFF iv FFF 2 2||FREQ FFF q 6 months FFF 3 5||
+301-03||46||potassium chloride  20mEq po bid||DIN FFF potassium chloride FFF 0 1||DOSE FFF 20meq FFF 2 2||RUT FFF po FFF 3 3||FREQ FFF bid FFF 4 4||
+301-03||47||prednisone  15mg po qd||DIN FFF prednisone FFF 0 0||DOSE FFF 15mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qd FFF 3 3||
+301-03||48||Prograf  1mg 6 caps po bid||DBN FFF prograf FFF 0 0||DOSE FFF 1mg FFF 1 1||DOSEAMT FFF 6 caps FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF bid FFF 5 5||
+301-03||49||Reglan  5mg po qac, qhs||DBN FFF reglan FFF 0 0||DOSE FFF 5mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qhs FFF 4 4||
+301-03||50||Toprol XL  50 mg po qd||DPN FFF toprol xl FFF 0 1||DOSE FFF 50 mg FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF qd FFF 5 5||
+301-03||51||vitamin d  50,000 IU po q week||DIN FFF vitamin d FFF 0 1||RUT FFF po FFF 4 4||FREQ FFF q week FFF 5 6||
+301-03||52||Allergies:||INDICATION FFF allergies: FFF 0 0||
+301-03||53||NKDA
+301-03||54||Family Hx:
+301-03||55||Breast cancer- relatives||INDICATION FFF cancer- FFF 1 1||
+301-03||56||Social Hx:
+301-03||57||Lives in Florida w/ wife.
+301-03||58||Never smoked.  No EtOH.
+301-03||59||PE||INDICATION FFF pe FFF 0 0||
+301-03||60||Floor vitals: T 97.9, HR 77, BP 127/67, RR 20, Sat 93% on 2L||INDICATION FFF t FFF 2 2||INDICATION FFF bp FFF 6 6||DOSE FFF 93% FFF 11 11||DOSE FFF 2l FFF 13 13||
+301-03||61||Gen: alert, in NAD
+301-03||62||HEENT: NCAT, PERRLA, EOMI, MMM, OP clear||INDICATION FFF op FFF 5 5||
+301-03||63||Neck: Supple, no cervical or supraclavicular LAN, 2+ carotids, no bruits, no appreciable JVD
+301-03||64||Chest: scattered course BS, expiratory wheezes||INDICATION FFF bs, FFF 3 3||INDICATION FFF wheezes FFF 5 5||
+301-03||65||Cor: RRR, distant heart sounds, no m/r/g||DIN FFF cor: FFF 0 0||DIN FFF m/r/g FFF 6 6||
+301-03||66||Abd: soft, NT, ND, BS+||INDICATION FFF bs+ FFF 4 4||
+301-03||67||Extrem: trace LE edema, 2+ PT pulses bilat.||INDICATION FFF le FFF 2 2||INDICATION FFF edema, FFF 3 3||
+301-03||68||Neuro: alert and oriented x3, CN 2-12 intact, 5/5 motor strength and nl. sensation to light touch in all extremities||FREQ FFF x3, FFF 4 4||INDICATION FFF cn FFF 5 5||
+301-03||69||Data
+301-03||70||Test Name  MARY
+301-03||71||05/14/79
+301-03||72||08:18
+301-03||73||NA         144||DIN FFF na FFF 0 0||
+301-03||74||K          4.4||INDICATION FFF k FFF 0 0||
+301-03||75||CL         106||INDICATION FFF cl FFF 0 0||
+301-03||76||CO2        28.3
+301-03||77||BUN        36(H)
+301-03||78||CRE        2.5(H)
+301-03||79||GLU        80||DIN FFF glu FFF 0 0||
+301-03||80||Test Name  MARY
+301-03||81||05/14/79
+301-03||82||08:18
+301-03||83||CA         9.9||INDICATION FFF ca FFF 0 0||
+301-03||84||TBILI      0.3
+301-03||85||TP         7.1||INDICATION FFF tp FFF 0 0||
+301-03||86||ALB        4.0||DIN FFF alb FFF 0 0||
+301-03||87||GLOB       3.1
+301-03||88||Test Name  MARY
+301-03||89||05/14/79
+301-03||90||08:18
+301-03||91||ALT/SGPT   13
+301-03||92||AST/SGOT   10
+301-03||93||ALKP       88
+301-03||94||TBILI      0.3
+301-03||95||Test Name  MARY
+301-03||96||05/14/79
+301-03||97||08:18
+301-03||98||CHOL       115(T)||INDICATION FFF 115(t) FFF 1 1||
+301-03||99||TRIG       89
+301-03||100||HDL        51
+301-03||101||LDL        46(T)||INDICATION FFF ldl FFF 0 0||INDICATION FFF 46(t) FFF 1 1||
+301-03||102||CHOL/HDL   2.3(T)||INDICATION FFF 2.3(t) FFF 1 1||
+301-03||103||Test Name  MARY
+301-03||104||05/14/79
+301-03||105||08:18
+301-03||106||WBC        10.9
+301-03||107||RBC        4.36(L)
+301-03||108||HGB        13.9
+301-03||109||HCT        40.7(L)
+301-03||110||MCV        94
+301-03||111||MCH        31.9
+301-03||112||MCHC       34.1
+301-03||113||PLT        159
+301-03||114||RDW        15.7(H)
+301-03||115||DIFFR      Received
+301-03||116||METHOD     Auto
+301-03||117||%NEUT      79(H)
+301-03||118||%LYMPH     11(L)
+301-03||119||%MONO      7
+301-03||120||%EOS       3
+301-03||121||%BASO      0
+301-03||122||ANEUT      8.63(H)
+301-03||123||ALYMP      1.20
+301-03||124||AMONS      0.71(H)
+301-03||125||AEOSN      0.33(H)
+301-03||126||ABASOP     0.04
+301-03||127||ANISO      None
+301-03||128||HYPO       None
+301-03||129||MACRO      None
+301-03||130||MICRO      None
+301-03||131||Test Name  MARY
+301-03||132||05/14/79
+301-03||133||08:18
+301-03||134||TACRO      11
+301-03||135||Chest CT: pending||INDICATION FFF ct: FFF 1 1||
+301-03||136||PFTs: FEV1, FVC and FEV1/FVC are reduced.
+301-03||137||TLC is normal.
+301-03||138||FRC is normal.
+301-03||139||RV is increased.
+301-03||140||RV/TLC ratio is increased.
+301-03||141||Resistance is increased; specific conductance is decreased.
+301-03||142||Single breath diffusion capacity is reduced.
+301-03||143||Floor EKG: sinus at 75 bpm, nl.
+301-03||144||Axis, nl. Intervals, no significant ST-T abnormalities
+301-03||145||Assessment/Plan:
+301-03||146||44M s/p double lung transplant in 2073 for bronchiectasis, HTN, CKD, admitted w/ PNA.||INDICATION FFF bronchiectasis, FFF 8 8||INDICATION FFF htn, FFF 9 9||INDICATION FFF pna. FFF 13 13||
+301-03||147||PNA
+301-03||148||Tx w/ Cefepime and Zosyn given susceptibilities from OSH sputum cx||INDICATION FFF tx FFF 0 0||DIN FFF cefepime FFF 2 2||DBN FFF zosyn FFF 4 4||
+301-03||149||Cont. colistin nebs, albuterol nebs||DIN FFF colistin FFF 1 1||DIN FFF albuterol FFF 3 3||
+301-03||150||F/u chest CT||INDICATION FFF f/u FFF 0 0||INDICATION FFF ct FFF 2 2||
+301-03||151||s/p Lung Transplant
+301-03||152||Cont. Cellcept, tacrolimus, prednisone||DBN FFF cellcept, FFF 1 1||DIN FFF tacrolimus, FFF 2 2||DIN FFF prednisone FFF 3 3||
+301-03||153||Cont. bactrim, doxycycline, acyclovir, azithromycin||DBN FFF bactrim, FFF 1 1||DIN FFF doxycycline, FFF 2 2||DIN FFF acyclovir, FFF 3 3||DIN FFF azithromycin FFF 4 4||
+301-03||154||CV
+301-03||155||Cont. cozaar, lasix, lipitor, norvasc, Toprol||DBN FFF cozaar, FFF 1 1||DBN FFF lasix, FFF 2 2||DBN FFF lipitor, FFF 3 3||DBN FFF norvasc, FFF 4 4||DPN FFF toprol FFF 5 5||

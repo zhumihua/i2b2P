@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2094-09-18
+
+EDVISIT^11289501^FAY, BROOK^9/18/2094^XAYSANA, YUSEF
+
+I confirm that I have interviewed and examined the patient,
+
+reviewed the resident's documentation on the patient's chart, and
+
+discussed the evaluation, plan of care, and disposition with the
+
+patient and the resident, Dr. Vanburen.  Please see his note for
+
+full details.
+
+HISTORY OF PRESENT ILLNESS:  A 67-year-old female who presents to
+
+triage complaining of substernal chest pain, diaphoretic.  Triage
+
+note states that she is complaining of substernal chest pain
+
+radiating to the neck with this and diaphoresis.  She is cool and
+
+pale.  Her triage vital signs showed pulse of 148, up to 180s. 
+
+She was tachypneic.  Her blood pressure was unobtainable and her
+
+sats were 90% on room air.  She is hypoxic.  She was afebrile,
+
+temperature 96.  She was immediately brought back to room.  At
+
+that time, she complained of palpitations, diaphoresis, and chest
+
+pain since 10 p.m.  She has had no history of an MI.
+
+PAST MEDICAL HISTORY:  She does have history of hypertension,
+
+diabetes, and hypercholesterolemia.
+
+SOCIAL HISTORY:  She denies any tobacco or IV drugs or any other
+
+drugs.  She lives with her family who is at her bedside.
+
+PAST SURGICAL HISTORY:  She has had bilateral tubal ligation.
+
+REVIEW OF SYSTEMS:  Currently, chest pain, palpitations,
+
+diaphoresis, and shortness of breath.  Otherwise, all systems are
+
+negative.
+
+MEDICATIONS:  She is on metformin and Lipitor.
+
+ALLERGIES:  She has no known drug allergies.
+
+PHYSICAL EXAMINATION:  She is awake, alert, in moderate distress.
+
+ She is tachycardic to 180 in the monitor.  Her blood pressure is
+
+not able to be obtained at this time.  Her saturations are 100%
+
+on room air, normal interpretation.  She is alert, awake and
+
+oriented, follows commands.  Her head is atraumatic.  Her pharynx
+
+is normal.  Her neck is supple and nontender.  She is in no
+
+respiratory distress with normal breath sounds.  Her heart is
+
+tachycardic with a narrow complex tachycardia on monitor.  Her
+
+abdomen is soft and nontender.  Her skin is intact but
+
+diaphoretic.  Extremities are without pedal edema.  She is
+
+oriented x3 with no cranial nerve and no motor or sensory
+
+deficits.
+
+EMERGENCY DEPARTMENT COURSE:  She was placed on a monitor, EKG
+
+and received oxygen as well with this.  She was explained that
+
+she was going to receive adenosine 6 mg and this did break her
+
+off from her SVT.  I was present during this time.  She had an
+
+EKG that then transformed to normal sinus rhythm at 91 with an
+
+incomplete right bundle-branch block with no previous to compare.
+
+ She received aspirin, Lopressor, and nitroglycerin and remained
+
+hemodynamically stable throughout her ED stay.  For her
+
+tachycardia and chest pain, we ruled out AFib, complex
+
+tachycardia, pulmonary embolism, and acute coronary syndrome. 
+
+She was admitted for telemetry as well as a cardiac rule out. 
+
+Her white count was 12 and her hematocrit was 42.  BUN 29 and
+
+creatinine 1.2.  The d-dimer was negative.  Troponin was
+
+negative.  Her chest x-ray was negative.
+
+ ******** Not reviewed by Attending Physician ********
+
+1.  SVT.
+
+2.  Chest pain, rule out acute coronary syndrome.
+
+3.  Abnormal EKG.
+
+CRITICAL CARE TIME:  20 minutes.
+
+______________________________
+
+XAYSANA, YUSEF M.D.
+
+D: 09/20/94
+
+T: 09/21/94
+
+Dictated By: XAYSANA, YUSEF
+
+eScription document:8-5805926 BFFocus
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC6" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC10" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC18" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC4" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC5" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC16" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC19" time="during DCT" type1="nitrate" type2=""/>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC13" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC17" time="after DCT" indicator="mention"/>
+    <CAD id="DOC15" time="during DCT" indicator="symptom"/>
+    <FAMILY_HIST id="DOC14" indicator="not present"/>
+    <SMOKER id="DOC20" status="never"/>
+    <DIABETES id="DOC7" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC11" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC12" time="during DCT" indicator="mention"/>
+  </TAGS>
+</root>

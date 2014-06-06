@@ -1,0 +1,28 @@
+228-01||1||Record date: 2081-05-01
+228-01||7||May 01, 2081
+228-01||11||Usha Gibbons, M.D.
+228-01||12||CIMA
+228-01||13||Cooley Dickinson Hospital
+228-01||14||08 Pinehaven Dr.
+228-01||15||Schuyler, FL  76969
+228-01||18||RE:  Wonda Benitez
+228-01||19||MR #892-76-95-4
+228-01||21||Dear Usha:
+228-01||23||I had the pleasure of seeing one of your clinic patients, Ms.
+228-01||24||Benitez, in my cardiovascular clinic for follow-up for palpitations, hypertension, and status post coronary artery bypass surgery.||INDICATION FFF hypertension, FFF 9 9||INDICATION FFF surgery. FFF 16 16||
+228-01||25||As you know, she has been complaining of leg cramps mostly at night.||INDICATION FFF as FFF 0 0||INDICATION FFF leg cramps FFF 8 9||TOD FFF at night. FFF 11 12||
+228-01||26||She has been taking quinine for this, however develops palpitations whenever she takes the quinine.||DIN FFF quinine FFF 4 4||DIN FFF quinine. FFF 14 14||
+228-01||27||She has not been taking this since the initial two doses.  I suspect that her leg cramps are probably secondary to intermittent passing fluxes.  I have told her to eat a banana during the evening and possibly this would avoid leg cramps in the evening.||DRT FFF two doses. FFF 9 10||INDICATION FFF leg cramps FFF 15 16||DRT FFF during FFF 32 32||TOD FFF evening FFF 34 34||INDICATION FFF leg cramps FFF 40 41||TOD FFF in the evening. FFF 42 44||
+228-01||28||In the meantime, her EKG showed sinus bradycardia at a rate of 50 per minute.||INDICATION FFF bradycardia FFF 7 7||FREQ FFF per minute. FFF 13 14||
+228-01||29||There is borderline first degree AV block and anterolateral infarct by EKG which is unchanged from previous tracing.||INDICATION FFF av FFF 5 5||INDICATION FFF infarct FFF 9 9||
+228-01||30||We will continue her on Vasotec 10 mg bid as well as Lopressor 12.5 mg bid.||DBN FFF vasotec FFF 5 5||DOSE FFF 10 mg FFF 6 7||FREQ FFF bid FFF 8 8||INDICATION FFF as FFF 9 9||INDICATION FFF as FFF 11 11||DBN FFF lopressor FFF 12 12||DOSE FFF 12.5 mg FFF 13 14||FREQ FFF bid. FFF 15 15||
+228-01||31||She will see me in follow-up in three months' time.||INDICATION FFF me FFF 3 3||DRT FFF three months' FFF 7 8||
+228-01||33||Again, thank you for referring this patient to my cardiovascular
+228-01||34||clinic.
+228-01||36||With warm regards.
+228-01||38||Sincerely,
+228-01||42||Gordon Q. Iniguez, M.D.
+228-01||44||DD: 05/01/81||INDICATION FFF dd: FFF 0 0||
+228-01||45||DT: 05/05/81||INDICATION FFF dt: FFF 0 0||
+228-01||46||DV: 05/01/81
+228-01||48||******** Approved but not reviewed by Attending Provider ********

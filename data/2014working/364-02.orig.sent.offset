@@ -1,0 +1,10 @@
+364-02	17	0	His PCP prescribed metoclopramid and protonix for his abdominal complaints; however, the patient felt dizzy and dehydrated after taking these medications and decided to discontinue those.	protonix FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+364-02	17	0	His PCP prescribed metoclopramid and protonix for his abdominal complaints; however, the patient felt dizzy and dehydrated after taking these medications and decided to discontinue those.	these medications FFF 19 20	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+364-02	18	0	He also stopped taking his regular lasix medication about a week ago.	lasix FFF 6 6	 FFF 	 FFF 	 FFF 	a week FFF 9 10	 FFF 	narrative
+364-02	21	0	He received one dose of lasix 80mg iv, urine output unrecorded.	lasix FFF 5 5	80mg FFF 6 6	iv, FFF 7 7	 FFF 	 FFF 	 FFF 	narrative
+364-02	36	438	Aspirin 325 QD	aspirin FFF 0 0	325 FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+364-02	37	438	Verapamil 60mg TID	verapamil FFF 0 0	60mg FFF 1 1	 FFF 	tid FFF 2 2	 FFF 	 FFF 	narrative
+364-02	39	438	Lasix 80mg QD	lasix FFF 0 0	80mg FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+364-02	40	438	Protonix 40mg QD	protonix FFF 0 0	40mg FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+364-02	41	438	Metoclopramide 5mg QD	metoclopramide FFF 0 0	5mg FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+364-02	44	0	Quite smoking 6 years ago, total ca. 30-40 py. Denies EtOH, illicit drugs.	illicit drugs. FFF 11 12	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

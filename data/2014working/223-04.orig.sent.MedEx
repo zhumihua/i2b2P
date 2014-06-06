@@ -1,0 +1,60 @@
+223-04	1	Record date: 2087-03-22		 
+223-04	2	Internal Medicine		 
+223-04	3	Reason for visit		 
+223-04	4	Diarrhea		 
+223-04	5	Fever		 
+223-04	6	Chest pain		 
+223-04	7	Fatigue		 
+223-04	8	History of present illness		 
+223-04	9	The patient is here complaining of several days history of diarrhea with mild nausea, mild fever and retrosternal chest discomfort.		 
+223-04	10	That is intermittent mild and  insiduous.		 
+223-04	11	The pain is not triggered by exercise or physical activity or position.		 
+223-04	12	She has been feeling weak.		 
+223-04	13	Medical history		 
+223-04	14	Coronary vasospastic events		 
+223-04	15	Glucose intolerance + postprandial hyperglycemia		 
+223-04	16	Hyperlipidemia		 
+223-04	17	Hypertension		 
+223-04	18	Postmenopausal		 
+223-04	19	Cervical osteoarthritis DDD		 
+223-04	20	Microscopic hematuria with negative work up		 
+223-04	21	Hypovitaminosis D		 
+223-04	22	Obesity - now loosing weight		 
+223-04	23	Current meds		 
+223-04	24	Amlodipine                 5 mg qd		DIN FFF amlodipine#0	DOSE FFF 5mg#2	FREQ FFF qd#3
+223-04	25	Metoprolol XL             50 mg qd		DIN FFF metoprolol#0	DOSE FFF 50mg#3	FREQ FFF qd#4
+223-04	26	Valsartan                160 mg qd       -combined		DIN FFF valsartan#0	DOSE FFF 160mg#2	FREQ FFF qd#3
+223-04	27	Hydrochlorothiazide       25 mg qd       -combined		DIN FFF hydrochlorothiazide#0	DOSE FFF 25mg#2	FREQ FFF qd#3
+223-04	28	Atorvastatin              20 mg qd		DIN FFF atorvastatin#0	DOSE FFF 20mg#2	FREQ FFF qd#3
+223-04	29	Aspirin                   81 mg qd		DIN FFF aspirin#0	DOSE FFF 81mg#2	FREQ FFF qd#3
+223-04	30	Metformin                500 mg bid		DIN FFF metformin#0	DOSE FFF 500mg#2	FREQ FFF bid#3
+223-04	31	Review of systems		 
+223-04	32	Denies abdominal pain, vomiting, dyspnea		 
+223-04	33	Family and social history		 
+223-04	34	Place of birth        GambiaHome residence        JaffreyMarital status        MarriedHousehold members     HusbandOccupation            Composer		 
+223-04	35	Mother       A       dementia		 
+223-04	36	Father       A       diabetes		 
+223-04	37	Brothers     0		 
+223-04	38	Sisters      1		 
+223-04	39	Spouse       A		 
+223-04	40	Children     2		 
+223-04	41	Cancer       0		 
+223-04	42	Diabetes     +       F		 
+223-04	43	+       M		 
+223-04	44	CV Disease   0		 
+223-04	45	Stroke       0		 
+223-04	46	Labs and images		 
+223-04	47	Reviewed		 
+223-04	48	Exam		 
+223-04	49	Vitals 110/72  96  16  98.0		 
+223-04	50	HEENT eomi, conjunctiva pink, ears clear, nasal mucosa pink, no mucus, no sinus tenderness, no post nasal drip.		 
+223-04	51	Neck is supple, no JVD, no thyroid imprint, no submandibular nodes.		 
+223-04	52	Thorax expands symmetrically, clear to auscultation bilaterally.		 
+223-04	53	Pain reproduced on chest palpation.		 
+223-04	54	Cardiovascular S1 and S2 with regular rhythm and rate.		 
+223-04	55	No murmurs.		 
+223-04	56	Abdomen is soft, non tender, no palpable masses or organomegaly.		 
+223-04	57	Increased bowel sounds.		 
+223-04	58	Extremities are symmetrical with no edema.		 
+223-04	59	Neurological exam is grossly non focal.		 
+223-04	60	Assessment and plan		 

@@ -1,0 +1,13 @@
+229-02	13	438	Imdur 30 mg qd	imdur FFF 0 0	30 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+229-02	14	438	Lasix 10 mg qd	lasix FFF 0 0	10 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+229-02	15	438	Lipitor 20 mg qd	lipitor FFF 0 0	20 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+229-02	16	438	lisinopril 40 mg qd	lisinopril FFF 0 0	40 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+229-02	17	438	Plavix 75 mg qd	plavix FFF 0 0	75 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+229-02	18	438	aspirin 325 mg qd	aspirin FFF 0 0	325 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+229-02	19	438	Prilosec 20 mg qd	prilosec FFF 0 0	20 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+229-02	20	438	Toprol XL 25 mg qd	toprol xl FFF 0 1	25 mg FFF 2 3	 FFF 	qd FFF 4 4	 FFF 	 FFF 	narrative
+229-02	21	438	nitroglycerin PRN	nitroglycerin FFF 0 0	 FFF 	 FFF 	prn FFF 1 1	 FFF 	 FFF 	narrative
+229-02	60	0	There is an LV aneurysm, but Coumadin has been deferred and he has been treated with aspirin and Plavix.	coumadin FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+229-02	60	0	There is an LV aneurysm, but Coumadin has been deferred and he has been treated with aspirin and Plavix.	aspirin FFF 16 16	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+229-02	60	0	There is an LV aneurysm, but Coumadin has been deferred and he has been treated with aspirin and Plavix.	plavix. FFF 18 18	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+229-02	61	0	He is on a good medical regimen.	medical regimen. FFF 5 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

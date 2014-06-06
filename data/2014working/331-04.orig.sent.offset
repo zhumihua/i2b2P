@@ -1,0 +1,17 @@
+331-04	8	0	Induction: Simulect, Prograf, MMF, steroid taper	simulect, FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+331-04	8	0	Induction: Simulect, Prograf, MMF, steroid taper	prograf, FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+331-04	8	0	Induction: Simulect, Prograf, MMF, steroid taper	mmf, FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+331-04	8	0	Induction: Simulect, Prograf, MMF, steroid taper	steroid FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+331-04	12	0	Needed dopamine for SBP of 120.	dopamine FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+331-04	22	0	-Hyerparathyroidism - PTH 154 in Oct, 2079H	pth FFF 2 2	154 FFF 3 3	 FFF 	 FFF 	2079h FFF 6 6	 FFF 	narrative
+331-04	33	438	Bactrim 1 qod	bactrim FFF 0 0	1 FFF 1 1	 FFF 	qod FFF 2 2	 FFF 	 FFF 	narrative
+331-04	34	438	Valcyte 1 qod	valcyte FFF 0 0	1 FFF 1 1	 FFF 	qod FFF 2 2	 FFF 	 FFF 	narrative
+331-04	35	438	Rocaltrol 0.25 qd	rocaltrol FFF 0 0	0.25 FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+331-04	36	438	Nexium	nexium FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+331-04	37	438	Cellcept 1000mg bid	cellcept FFF 0 0	1000mg FFF 1 1	 FFF 	bid FFF 2 2	 FFF 	 FFF 	narrative
+331-04	38	438	Lopressor 5mg q6hr	lopressor FFF 0 0	5mg FFF 1 1	 FFF 	q6hr FFF 2 2	 FFF 	 FFF 	narrative
+331-04	72	0	Cor: regular, s1s2, no m/c/r/g	cor: FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+331-04	74	0	Transplant Kidney: LIF/RIF - nontender	lif/rif FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+331-04	123	0	1. S/P LURTx: simulect + cellcept + FK + Pred taper - after 5th day steroid free regimen	pred FFF 9 9	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+331-04	123	0	1. S/P LURTx: simulect + cellcept + FK + Pred taper - after 5th day steroid free regimen	steroid FFF 15 15	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+331-04	127	0	- calcitriol 0.5mcg qd	calcitriol FFF 1 1	0.5mcg FFF 2 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative

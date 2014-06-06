@@ -1,0 +1,47 @@
+301-05	19	0	CXR was read as no acute processHe was thought to be wheezy, and was given 10 mg of dexamethasone IV, nebulizers.	dexamethasone FFF 18 18	 FFF 	iv, FFF 19 19	 FFF 	 FFF 	 FFF 	narrative
+301-05	20	0	He was empirically started on a heparin drip (800 unit bolus, 1800 units/hr) given his h/o DVT and a subtherapeutic INR.	heparin FFF 6 6	 FFF 	drip FFF 7 7	 FFF 	 FFF 	 FFF 	narrative
+301-05	20	0	He was empirically started on a heparin drip (800 unit bolus, 1800 units/hr) given his h/o DVT and a subtherapeutic INR.	bolus, FFF 10 10	1800 units/hr) FFF 11 12	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+301-05	25	0	He also notes that his INR had been stable recently (followed by his PCP) on his current dose of 4 Coumadin daily (except 2 on Mon/Fri).	coumadin FFF 20 20	 FFF 	 FFF 	daily FFF 21 21	 FFF 	 FFF 	narrative
+301-05	49	438	1. Acetylsalicylic Acid (Aspirin)  81 MG PO QD	Acetylsalicylic Acid (Aspirin) FFF 1 3	81 mg FFF 4 5	po FFF 6 6	qd FFF 7 7	 FFF 	 FFF 	narrative
+301-05	50	438	2. Acyclovir    200 MG PO BID	acyclovir FFF 1 1	200 mg FFF 2 3	po FFF 4 4	bid FFF 5 5	 FFF 	 FFF 	narrative
+301-05	51	438	3. Albuterol Nebulizer Solution  2.5 MG NEB Q8H prn dypsnea	albuterol nebulizer FFF 1 2	2.5 mg FFF 4 5	neb FFF 6 6	Q8H prn FFF 7 8	 FFF 	 FFF 	narrative
+301-05	52	438	4. Albuterol Inhaler Hfa  1 PUFF INH Q4H prn dyspnea, wheezing	albuterol inhaler FFF 1 2	1 puff FFF 4 5	inh FFF 6 6	Q4H prn FFF 7 8	 FFF 	 FFF 	narrative
+301-05	53	438	5. Amlodipine (Norvasc)  10 MG PO QD	Amlodipine (Norvasc) FFF 1 2	10 mg FFF 3 4	po FFF 5 5	qd FFF 6 6	 FFF 	 FFF 	narrative
+301-05	54	438	6. Amoxicillin  500 MG PO	amoxicillin FFF 1 1	500 mg FFF 2 3	po FFF 4 4	 FFF 	 FFF 	 FFF 	narrative
+301-05	56	438	7. Atorvastatin (Lipitor)  40 MG PO QD	Atorvastatin (Lipitor) FFF 1 2	40 mg FFF 3 4	po FFF 5 5	qd FFF 6 6	 FFF 	 FFF 	narrative
+301-05	57	438	9. Azithromycin  250 MG PO QMWF	azithromycin FFF 1 1	250 mg FFF 2 3	po FFF 4 4	 FFF 	 FFF 	 FFF 	narrative
+301-05	58	438	10. Bupropion Hcl Sustained Release (12 Hr Tab) (Wellbutrin Sr)  150 MG PO BID	bupropion hcl sustained release FFF 1 4	 FFF 	 FFF 	 FFF 	(12 hr FFF 5 6	 FFF 	narrative
+301-05	59	438	11. Bupropion Hcl (Wellbutrin)  150 MG PO BID	Bupropion Hcl (Wellbutrin) FFF 1 3	150 mg FFF 4 5	po FFF 6 6	bid FFF 7 7	 FFF 	 FFF 	narrative
+301-05	60	438	12. Calcium Citrate  Alternate PO BID	calcium citrate FFF 1 2	 FFF 	po FFF 4 4	bid FFF 5 5	 FFF 	 FFF 	narrative
+301-05	62	438	13. Colchicine   0.6 MG PO QD for gout prophylaxis	colchicine FFF 1 1	0.6 mg FFF 2 3	po FFF 4 4	qd FFF 5 5	 FFF 	 FFF 	narrative
+301-05	63	438	14. Colistimethate (Colistin )  150 MG NEB QD	Colistimethate (Colistin ) FFF 1 3	150 mg FFF 4 5	neb FFF 6 6	qd FFF 7 7	 FFF 	 FFF 	narrative
+301-05	64	438	15. Doxycycline Monohydrate  100 MG PO BID	doxycycline monohydrate FFF 1 2	100 mg FFF 3 4	po FFF 5 5	bid FFF 6 6	 FFF 	 FFF 	narrative
+301-05	65	438	16. Ergocalciferol  50000 UNITS PO QWEEK	ergocalciferol FFF 1 1	50000 units FFF 2 3	po FFF 4 4	qweek FFF 5 5	 FFF 	 FFF 	narrative
+301-05	66	438	17. Escitalopram (Lexapro)  20 MG PO QD	Escitalopram (Lexapro) FFF 1 2	20 mg FFF 3 4	po FFF 5 5	qd FFF 6 6	 FFF 	 FFF 	narrative
+301-05	67	438	18. Esomeprazole  40 MG PO QD	esomeprazole FFF 1 1	40 mg FFF 2 3	po FFF 4 4	qd FFF 5 5	 FFF 	 FFF 	narrative
+301-05	68	438	19. Fluticasone Propionate Nasal Spray (Flonase  )  1 SPRAY NAS QD	Fluticasone Propionate Nasal Spray (Flonase ) FFF 1 6	1 spray FFF 7 8	 FFF 	qd FFF 10 10	 FFF 	 FFF 	narrative
+301-05	69	438	20. Fluticasone Prop/Salmeterol 250/50 (Advair Diskus 250/50)  1 INHALATION INH BID	fluticasone FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+301-05	69	438	20. Fluticasone Prop/Salmeterol 250/50 (Advair Diskus 250/50)  1 INHALATION INH BID	prop/salmeterol FFF 2 2	250/50 FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+301-05	70	438	21. Ipratropium Nebulizer (Atrovent Nebulizer)  0.5 MG NEB TID prn dyapnea	Ipratropium Nebulizer (Atrovent Nebulizer) FFF 1 4	0.5 mg FFF 5 6	neb FFF 7 7	TID prn FFF 8 9	 FFF 	 FFF 	narrative
+301-05	71	438	22. Magnesium Gluconate  1000 MG PO TID	magnesium gluconate FFF 1 2	1000 mg FFF 3 4	po FFF 5 5	tid FFF 6 6	 FFF 	 FFF 	narrative
+301-05	72	438	23. Metoclopramide Hcl  10 MG PO QID (AC + HS)	metoclopramide hcl FFF 1 2	10 mg FFF 3 4	po FFF 5 5	qid FFF 6 6	 FFF 	 FFF 	narrative
+301-05	73	438	24. Metoprolol Succinate Extended Release  100 MG PO QD	metoprolol succinate extended release FFF 1 4	100 mg FFF 5 6	po FFF 7 7	qd FFF 8 8	 FFF 	 FFF 	narrative
+301-05	74	438	25. Multivitamins  1 TAB PO QD	multivitamins FFF 1 1	1 tab FFF 2 3	po FFF 4 4	qd FFF 5 5	 FFF 	 FFF 	narrative
+301-05	75	438	26. Mycophenolate Mofetil (Cellcept)  500 MG PO BID	Mycophenolate Mofetil (Cellcept) FFF 1 3	500 mg FFF 4 5	po FFF 6 6	bid FFF 7 7	 FFF 	 FFF 	narrative
+301-05	76	438	27. Prednisone  Alternate PO QD	prednisone FFF 1 1	 FFF 	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+301-05	78	438	28. Ranitidine Hcl  150 MG PO BID	ranitidine hcl FFF 1 2	150 mg FFF 3 4	po FFF 5 5	bid FFF 6 6	 FFF 	 FFF 	narrative
+301-05	79	438	29. Tacrolimus (Prograf)  Alternate PO BID	Tacrolimus (Prograf) FFF 1 2	 FFF 	po FFF 4 4	bid FFF 5 5	 FFF 	 FFF 	narrative
+301-05	81	438	30. Trimethoprim /Sulfamethoxazole Single Strength (Bactrim Ss)  1 TAB PO QMONDAY, WEDNESDAY, FRIDAY	trimethoprim /sulfamethoxazole FFF 1 2	single strength FFF 3 4	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+301-05	82	438	31. Warfarin Sodium (Coumadin)  Alternate PO	Warfarin Sodium (Coumadin) FFF 1 3	 FFF 	po FFF 5 5	 FFF 	 FFF 	 FFF 	narrative
+301-05	85	438	NOTE THAT LASIX WAS RECENTLY DISCONTINUED BY DR.	lasix FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+301-05	120	0	-continue heparin drip at reduced rate (units/hr), recheck INR this am, continue coumadin at home dose, lower extremity ultrasound to eval for DVT (as possible proxy for PE)	heparin FFF 1 1	 FFF 	drip FFF 2 2	this am, FFF 9 10	 FFF 	 FFF 	narrative
+301-05	120	0	-continue heparin drip at reduced rate (units/hr), recheck INR this am, continue coumadin at home dose, lower extremity ultrasound to eval for DVT (as possible proxy for PE)	coumadin FFF 12 12	home dose, FFF 14 15	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+301-05	121	0	-continue rglan per home regimen	home regimen FFF 3 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+301-05	124	0	-schedule duonebs	duonebs FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+301-05	125	0	s/p lung transplant: missed last night&#8217;s doses of mycophenolate and tacro, got them at 4 am today in ED	mycophenolate FFF 8 8	 FFF 	 FFF 	at 4 am FFF 13 15	 FFF 	 FFF 	narrative
+301-05	126	0	-discussed with pulm &#8211; hold am dose of mycophenolate/tacro today, restart this evening	mycophenolate/tacro FFF 8 8	 FFF 	 FFF 	this evening FFF 11 12	 FFF 	 FFF 	narrative
+301-05	127	0	-continue prophylactic meds/abx: colistin, azithro, bactrim, doxy	prophylactic meds/abx: colistin, azithro, bactrim, doxy FFF 1 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+301-05	127	0	-continue prophylactic meds/abx: colistin, azithro, bactrim, doxy	bactrim, FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+301-05	129	0	Seems relatively euvolemic -will continue colchicine for gout proph as this has been long-standing	colchicine FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+301-05	130	0	-lasix still on hold	-lasix FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+301-05	131	0	-BNP was low at OSH; don&#8217;t suspect volume overload	don&#8217;t FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

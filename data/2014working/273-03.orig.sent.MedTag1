@@ -1,0 +1,44 @@
+273-03||1||Record date: 2077-01-29
+273-03||3||Novolog 3-7 tid 683-51-28||DBN FFF novolog FFF 0 0||DOSE FFF 3-7 FFF 1 1||FREQ FFF tid FFF 2 2||
+273-03||4||Lantus 19-20 at hs Xuan, Wendy||DBN FFF lantus FFF 0 0||DOSE FFF 19-20 FFF 1 1||FREQ FFF hs FFF 3 3||
+273-03||5||Neoral 100/100 mg bid||DBN FFF neoral FFF 0 0||DOSE FFF 100/100 mg FFF 1 2||FREQ FFF bid FFF 3 3||
+273-03||6||CellCept 1000 mg bid||DBN FFF cellcept FFF 0 0||DOSE FFF 1000 mg FFF 1 2||FREQ FFF bid FFF 3 3||
+273-03||7||Lopressor 25/12.5 mg bid||DBN FFF lopressor FFF 0 0||DOSE FFF 25/12.5 FFF 1 1||DOSE FFF 25/12.5 mg FFF 1 2||FREQ FFF bid FFF 3 3||
+273-03||8||Captopril 12.5 mg bid||DIN FFF captopril FFF 0 0||DOSE FFF 12.5 mg FFF 1 2||FREQ FFF bid FFF 3 3||
+273-03||9||Lipitor 10 mg qd||DBN FFF lipitor FFF 0 0||DOSE FFF 10 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+273-03||10||Neurontin 600/1200 mg bid||DBN FFF neurontin FFF 0 0||DOSE FFF 600/1200 mg FFF 1 2||FREQ FFF bid FFF 3 3||
+273-03||11||Tums 200 mg ii bid (often forgets)||DBN FFF tums FFF 0 0||DOSE FFF 200 mg FFF 1 2||FREQ FFF bid FFF 4 4||
+273-03||12||Prilosec 20 mg bid||DBN FFF prilosec FFF 0 0||DOSE FFF 20 mg FFF 1 2||FREQ FFF bid FFF 3 3||
+273-03||13||MVI i bid||DPN FFF mvi FFF 0 0||FREQ FFF bid FFF 2 2||
+273-03||14||ASA 325 mg qd||DIN FFF asa FFF 0 0||DOSE FFF 325 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+273-03||15||Quinine Sulfate 260 mg at hs||DIN FFF quinine sulfate FFF 0 1||DOSE FFF 260 mg FFF 2 3||FREQ FFF hs FFF 5 5||
+273-03||16||Senekot||DIN FFF senekot FFF 0 0||
+273-03||17||January 29, 2077
+273-03||18||Interim History:
+273-03||19||Comes to review her medical problems.
+273-03||20||Her ETT showed mild distal anterior and antero-apical ischemia.||INDICATION FFF ischemia. FFF 8 8||
+273-03||21||The last p-CABG ETT was done in September, 2074, and did not included nuclear images.
+273-03||22||The electrocardiographic portion of both tests was considered to be uninterpretable because of inadequate elevation of the heart rate.||INDICATION FFF heart rate. FFF 17 18||
+273-03||23||Dr. Dotson asked her to double the atenolol dose.||DIN FFF atenolol FFF 7 7||
+273-03||24||Since she has had low BP in the past, we increased it to only 25/12.5.||INDICATION FFF low bp FFF 4 5||
+273-03||25||BP 80/50-90/60 at home and she has not felt so well, tired.||INDICATION FFF bp FFF 0 0||DRT FFF 80/50-90/60 FFF 1 1||INDICATION FFF tired. FFF 11 11||
+273-03||26||Not sure whether the dyspnea on exertion that led us to get the ETT has changed since she has not challenged it.||INDICATION FFF dyspnea FFF 4 4||INDICATION FFF led FFF 8 8||
+273-03||27||Home Blood Tests:  Not very good by history. A1c over 9%. She still has trouble focusing on it.||DOSE FFF 9%. FFF 10 10||
+273-03||28||Retinopathy: Visions stable.
+273-03||29||Nephropathy: Cr slightly up to 1.5||INDICATION FFF nephropathy: FFF 0 0||
+273-03||30||Cardiac: above
+273-03||31||Vascular: No claudication
+273-03||32||Past Medical History:
+273-03||33||Has had flu shot this year.
+273-03||34||Review of Systems: above
+273-03||35||Physical Exam:
+273-03||36||Looks well.
+273-03||37||BP:   110/76   120/80 by me (not sure she took meds this AM)  P:   72, regular||INDICATION FFF bp: FFF 0 0||INDICATION FFF me FFF 4 4||TOD FFF am) FFF 11 11||
+273-03||38||Wt:   167 without shoes, up 4
+273-03||39||Neck: No JVD
+273-03||40||Chest: Clear to auscultation
+273-03||41||Heart: Normal S1; ? physiologic S2.
+273-03||42||No gallops.
+273-03||43||No murmurs
+273-03||44||Extremities: No edema.||INDICATION FFF edema. FFF 2 2||
+273-03||45||Impressions and Plan:

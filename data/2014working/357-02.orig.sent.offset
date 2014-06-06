@@ -1,0 +1,9 @@
+357-02	13	0	EMS) and responsive to orange juice with normal mental status	orange juice FFF 4 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+357-02	15	0	On further history, it seems that the patient took her usual dose of insulin this morning and ate breakfast but missed lunch and dinner because of a flood in the basement that had preoccupied her.	insulin FFF 13 13	 FFF 	 FFF 	this morning FFF 14 15	 FFF 	 FFF 	narrative
+357-02	21	438	MEDICATIONS:  Insulin, diltiazem, Nephrocaps, methyldopa,	insulin, FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+357-02	21	438	MEDICATIONS:  Insulin, diltiazem, Nephrocaps, methyldopa,	diltiazem, FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+357-02	21	438	MEDICATIONS:  Insulin, diltiazem, Nephrocaps, methyldopa,	nephrocaps, FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+357-02	21	438	MEDICATIONS:  Insulin, diltiazem, Nephrocaps, methyldopa,	methyldopa, FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+357-02	22	438	Flovent, and Pravachol.	flovent, FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+357-02	22	438	Flovent, and Pravachol.	pravachol. FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+357-02	37	0	PLAN:  To lower NPH dose from 30 to 25 units.	nph FFF 3 3	30 to 25 units. FFF 6 9	 FFF 	 FFF 	 FFF 	 FFF 	narrative

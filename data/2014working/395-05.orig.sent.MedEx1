@@ -1,0 +1,79 @@
+395-05||1||Record date: 2109-09-08
+395-05||2||Patient Name: DO, TANYA V.;  MRN: 6051778
+395-05||3||Dictated on: 09/08/2109 by TIBOR OQUINN, M.D.
+395-05||5||Ms. Tanya V.
+395-05||6||Do is an 81-year-old right-handed white woman with seropositive, nodular, erosive rheumatoid arthritis that was diagnosed in 2060, type II noninsulin-dependent diabetes mellitus, vascular insufficiency in her legs, peripheral neuropathy, hearing loss in her left ear, right total hip arthroplasty surgery in 2070, right total knee arthroplasty surgery in 2081, left total knee arthroplasty surgery in 2082, a lumbar fusion performed in 2098 and again in 2099, a sigmoid colonic resection in 2103, cellulitis and osteomyelitis involving her right foot in October 2104, a cataract extracted from her right eye in 2102, a cataract extracted from her left eye in 2103, a transient ischemic attack in June 2106, and cellulitis involving her legs in 2107.
+395-05||7||She returns to see me in rheumatologic follow-up at Rheumatology, this morning.
+395-05||8||Ms. Do has continued to take prednisone 5 mg by mouth twice daily, Celebrex 200 mg by mouth twice daily, and methotrexate 17.5 mg by mouth weekly, with good control of her joint pain, swelling, and stiffness.||DIN FFF prednisone FFF 6 6||DOSE FFF 5 mg FFF 7 8||RUT FFF by mouth FFF 9 10||FREQ FFF twice daily, FFF 11 12||
+395-05||8||Ms. Do has continued to take prednisone 5 mg by mouth twice daily, Celebrex 200 mg by mouth twice daily, and methotrexate 17.5 mg by mouth weekly, with good control of her joint pain, swelling, and stiffness.||DBN FFF celebrex FFF 13 13||DOSE FFF 200 mg FFF 14 15||RUT FFF by mouth FFF 16 17||FREQ FFF twice daily, FFF 18 19||
+395-05||8||Ms. Do has continued to take prednisone 5 mg by mouth twice daily, Celebrex 200 mg by mouth twice daily, and methotrexate 17.5 mg by mouth weekly, with good control of her joint pain, swelling, and stiffness.||DIN FFF methotrexate FFF 21 21||DOSE FFF 17.5 mg FFF 22 23||RUT FFF by mouth FFF 24 25||FREQ FFF weekly, FFF 26 26||INDICATION FFF joint pain, FFF 32 33||INDICATION FFF swelling, FFF 34 34||
+395-05||10||She continues to have difficulty grasping objects with her right hand, dropping objects that are held in that hand.
+395-05||11||She also experiences numbness in her right ring and little fingers.
+395-05||12||She wears a neutral resting splint on her right wrist for symptoms that she ascribes to right carpal tunnel syndrome.
+395-05||13||She has opted not to undergo surgical treatment of her right ulnar neuropathy, after consultation with Dr.
+395-05||14||Kyron M.
+395-05||15||Castaneda of the hand surgery service at OGH.
+395-05||16||She has experienced inadequate treatment of her pain on Darvocet-N 100 two tablets taken by mouth once daily.||INDICATION FFF her pain FFF 6 7||DBN FFF darvocet-n 100 FFF 9 10||DOSEAMT FFF two tablets FFF 11 12||RUT FFF by mouth FFF 14 15||FREQ FFF once daily. FFF 16 17||
+395-05||17||She has continued to tolerate methotrexate therapy without symptoms of significant toxicity.||DIN FFF methotrexate FFF 5 5||INDICATION FFF symptoms FFF 8 8||
+395-05||18||She has not experienced skin rashes, fevers, chills, sores in her nose or mouth, hair loss, cough, shortness of breath, nausea, vomiting, or diarrhea.
+395-05||19||She has continued to tolerate prednisone therapy without adverse symptoms other than for fragility of her skin and easy bruisability.||DIN FFF prednisone FFF 5 5||INDICATION FFF symptoms FFF 9 9||
+395-05||21||She experienced improvement in her lower back discomfort following an epidural corticosteroid injection to her lower back on Jun 02, 2109.||DIN FFF corticosteroid FFF 11 11||DDF FFF injection FFF 12 12||
+395-05||22||She is scheduled to receive another epidural corticosteroid injection to her lower back on September 09, 2109.||DIN FFF corticosteroid FFF 7 7||DDF FFF injection FFF 8 8||
+395-05||23||She has some difficulty dressing herself, getting in and out of bed, lifting a full cup or glass to her mouth, washing and drying her entire body, bending down to pick up clothing from the floor, and turning regular faucets on and off.
+395-05||24||She has much difficulty walking outdoors on flat ground and getting in and out of an automobile.
+395-05||25||She is unable to walk two miles or participate in sports or games to her liking. (MDHAQ = 1.8)  She has much difficulty getting a good night's sleep and she has some difficulty dealing with feelings of anxiety and depression.
+395-05||26||She is stiff throughout the day and experiences severe pain and severe fatigue.
+395-05||27||Medications
+395-05||28||Tylenol (ACETAMINOPHEN) 500MG TABLET take 2 Tablet(s) PO BID||DBN FFF tylenol FFF 0 0||MDBN FFF (acetaminophen) FFF 1 1||DOSE FFF 500mg FFF 2 2||DDF FFF tablet FFF 3 3||DOSEAMT FFF 2 tablet(s) FFF 5 6||RUT FFF po FFF 7 7||FREQ FFF bid FFF 8 8||
+395-05||29||Folic ACID 1MG TABLET take 1 Tablet(s) PO QD||DIN FFF folic acid FFF 0 1||DOSE FFF 1mg FFF 2 2||DDF FFF tablet FFF 3 3||DOSEAMT FFF 1 tablet(s) FFF 5 6||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||
+395-05||30||Asa (ACETYLSALICYLIC ACID) 81MG TABLET take 1 Tablet(s) PO QD||DIN FFF asa FFF 0 0||MDBN FFF (acetylsalicylic acid) FFF 1 2||DOSE FFF 81mg FFF 3 3||DDF FFF tablet FFF 4 4||DOSEAMT FFF 1 tablet(s) FFF 6 7||RUT FFF po FFF 8 8||FREQ FFF qd FFF 9 9||
+395-05||31||Mvi (MULTIVITAMINS) 1 CAPSULE PO QD||DPN FFF mvi FFF 0 0||MDBN FFF (multivitamins) FFF 1 1||DOSEAMT FFF 1 capsule FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF qd FFF 5 5||
+395-05||32||Cod LIVER OIL 1 TBSP PO BID||DIN FFF cod liver oil FFF 0 2||RUT FFF po FFF 5 5||FREQ FFF bid FFF 6 6||
+395-05||33||Calcium + D (500 ELEM. CA) (CALCIUM CARBONATE 1250 MG (500MG ELEM CA)/ VIT D 125 IU) 1 TAB PO BID||DIN FFF calcium FFF 0 0||INDICATION FFF ca) FFF 5 5||
+395-05||33||Calcium + D (500 ELEM. CA) (CALCIUM CARBONATE 1250 MG (500MG ELEM CA)/ VIT D 125 IU) 1 TAB PO BID||DIN FFF vit d FFF 13 14||DOSE FFF 125 iu) FFF 15 16||DOSEAMT FFF 1 tab FFF 17 18||RUT FFF po FFF 19 19||FREQ FFF bid FFF 20 20||
+395-05||34||Aranesp (DARBEPOETIN ALFA) 200 MCG SC EVERY OTHER WEEK||DBN FFF aranesp FFF 0 0||MDBN FFF (darbepoetin alfa) FFF 1 2||DOSE FFF 200 mcg FFF 3 4||RUT FFF sc FFF 5 5||
+395-05||35||Methotrexate (RHEUM.) 17.5 MG (2.5MG TABLET take 7) PO QWEEK||DIN FFF methotrexate FFF 0 0||DOSE FFF 17.5 mg FFF 2 3||DOSE FFF (2.5mg FFF 4 4||DDF FFF tablet FFF 5 5||RUT FFF po FFF 8 8||FREQ FFF qweek FFF 9 9||
+395-05||36||Prednisone 5MG TABLET take 1 Tablet(s) PO BID||DIN FFF prednisone FFF 0 0||DOSE FFF 5mg FFF 1 1||DDF FFF tablet FFF 2 2||DOSEAMT FFF 1 tablet(s) FFF 4 5||RUT FFF po FFF 6 6||FREQ FFF bid FFF 7 7||
+395-05||37||Glucophage (METFORMIN) 500MG TABLET take 2 Tablet(s) PO BID||DBN FFF glucophage FFF 0 0||MDBN FFF (metformin) FFF 1 1||DOSE FFF 500mg FFF 2 2||DDF FFF tablet FFF 3 3||DOSEAMT FFF 2 tablet(s) FFF 5 6||RUT FFF po FFF 7 7||FREQ FFF bid FFF 8 8||
+395-05||38||Zebeta (BISOPROLOL FUMARATE) 5MG TABLET take 0.5 PO QD||DBN FFF zebeta FFF 0 0||MDBN FFF (bisoprolol fumarate) FFF 1 2||DOSE FFF 5mg FFF 3 3||DDF FFF tablet FFF 4 4||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||
+395-05||39||Fosamax (ALENDRONATE) 70MG TABLET take 1 Tablet(s) PO QWEEK||DBN FFF fosamax FFF 0 0||MDBN FFF (alendronate) FFF 1 1||DOSE FFF 70mg FFF 2 2||DDF FFF tablet FFF 3 3||DOSEAMT FFF 1 tablet(s) FFF 5 6||RUT FFF po FFF 7 7||FREQ FFF qweek FFF 8 8||
+395-05||40||Celebrex (CELECOXIB) 200MG CAPSULE take 1 Capsule(s) PO BID||DBN FFF celebrex FFF 0 0||MDBN FFF (celecoxib) FFF 1 1||DOSE FFF 200mg FFF 2 2||DDF FFF capsule FFF 3 3||DOSEAMT FFF 1 capsule(s) FFF 5 6||RUT FFF po FFF 7 7||FREQ FFF bid FFF 8 8||
+395-05||41||Plavix (CLOPIDOGREL) 75 MG PO QD||DBN FFF plavix FFF 0 0||MDBN FFF (clopidogrel) FFF 1 1||DOSE FFF 75 mg FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF qd FFF 5 5||
+395-05||42||Lisinopril 10MG TABLET take 1 Tablet(s) PO QD||DIN FFF lisinopril FFF 0 0||DOSE FFF 10mg FFF 1 1||DDF FFF tablet FFF 2 2||DOSEAMT FFF 1 tablet(s) FFF 4 5||RUT FFF po FFF 6 6||FREQ FFF qd FFF 7 7||
+395-05||43||Carafate SUSPENSION (SUCRALFATE SUSPENSION) 1 GM (1G/10ML ORAL SUSP take 10 ML) PO QID||DBN FFF carafate FFF 0 0||DDF FFF suspension FFF 1 1||
+395-05||44||Restoril (TEMAZEPAM) 15MG CAPSULE take 1-2 PO QHS PRN INSOMNIA||DBN FFF restoril FFF 0 0||MDBN FFF (temazepam) FFF 1 1||DOSE FFF 15mg FFF 2 2||DDF FFF capsule FFF 3 3||RUT FFF po FFF 6 6||FREQ FFF qhs FFF 7 7||NEC FFF prn FFF 8 8||INDICATION FFF insomnia FFF 9 9||
+395-05||46||ALLERGIES:  Codeine has caused gastrointestinal upset.
+395-05||47||Morphine has caused nausea and projectile vomiting.||DIN FFF morphine FFF 0 0||INDICATION FFF nausea FFF 3 3||INDICATION FFF vomiting. FFF 6 6||
+395-05||48||PHYSICAL EXAMINATION:  Vital Signs  BP 148/60, P 64, RR 16, Temp 98.7 F, Wt 144 lb  Ms. Do was a very pleasant, cushingoid-appearing white woman in some distress due to pain.
+395-05||49||Her skin was notable for ecchymoses on her extremities.
+395-05||50||There was a healed skin graft on her left lower leg.
+395-05||51||Well-healed scars were present over the lateral aspect of her right hip and over the anterior aspect of each knee.
+395-05||52||There were no skin rashes.
+395-05||53||Subcutaneous nodules, consistent with rheumatoid nodules, were present over the extensor surfaces of both elbows.
+395-05||54||Her lungs were clear to auscultation.
+395-05||55||Her cardiac examination revealed normal first and second heart sounds without murmurs or extra sounds.
+395-05||56||Her musculoskeletal examination was notable for pain upon abduction and external rotation of her left shoulder.
+395-05||57||There was ulnar deviation of the fingers of her right hand.
+395-05||58||There was a boutonniere deformity of her left ring finger.
+395-05||59||Bilateral hallux valgus deformities and cock-up toe deformities were present on both feet.
+395-05||60||There was full painless motion of all small and large joints in both arms and legs without evidence of joint inflammation or of other significant joint deformity.
+395-05||61||Her neurologic examination was notable for decreased sensation to light touch in the distribution of her right ulnar nerve, but was otherwise normal.
+395-05||62||Her neurologic examination was normal with normal mental status, normal function of cranial nerves II through XII, normal muscle strength and tone in both arms and legs, intact sensation to light touch throughout, normal coordination, and symmetric deep tendon reflexes with downgoing plantar reflexes bilaterally.
+395-05||63||LABORATORY DATA:  I reviewed the laboratory data in the LMR with Ms. Do.  Studies performed at OGH on Jun 04, 2109, revealed ESR 19 mm/hr, CRP 10.6 mg/L, a benign urinalysis, ANA 1:80 with a speckled pattern of immunofluorescence, rheumatoid factor 165 IU/mL, and IgG anti-CCP antibodies 129 units.||DIN FFF igg FFF 44 44||DOSEAMT FFF 129 units. FFF 47 48||
+395-05||64||IMPRESSION:
+395-05||66||1.  Nodular, erosive rheumatoid arthritis since 2060, without evidence of synovitis on prednisone 5 mg p.o. b.i.d., Celebrex 200 mg p.o. b.i.d., and methotrexate 17.5 mg p.o. weekly.||DIN FFF prednisone FFF 12 12||DOSE FFF 5 mg FFF 13 14||RUT FFF p.o. FFF 15 15||FREQ FFF b.i.d., FFF 16 16||
+395-05||66||1.  Nodular, erosive rheumatoid arthritis since 2060, without evidence of synovitis on prednisone 5 mg p.o. b.i.d., Celebrex 200 mg p.o. b.i.d., and methotrexate 17.5 mg p.o. weekly.||DBN FFF celebrex FFF 17 17||DOSE FFF 200 mg FFF 18 19||RUT FFF p.o. FFF 20 20||FREQ FFF b.i.d., FFF 21 21||
+395-05||66||1.  Nodular, erosive rheumatoid arthritis since 2060, without evidence of synovitis on prednisone 5 mg p.o. b.i.d., Celebrex 200 mg p.o. b.i.d., and methotrexate 17.5 mg p.o. weekly.||DIN FFF methotrexate FFF 23 23||DOSE FFF 17.5 mg FFF 24 25||RUT FFF p.o. FFF 26 26||FREQ FFF weekly. FFF 27 27||
+395-05||67||She continues to be most limited by her right hand dysfunction and right ulnar neuropathy, but has opted to treat this conservatively.
+395-05||68||2.  Low back pain, treated with epidural corticosteroid injection on Jun 02, 2109.||INDICATION FFF low back pain, FFF 1 3||DIN FFF corticosteroid FFF 7 7||DDF FFF injection FFF 8 8||
+395-05||70||3.  Type II noninsulin-dependent diabetes mellitus.
+395-05||71||4.  Vascular insufficiency in her legs.
+395-05||72||5.  Peripheral neuropathy.
+395-05||73||6.  Hearing loss in her left ear.
+395-05||74||7.  Right total hip arthroplasty surgery in 2070.
+395-05||75||8.  Right total knee arthroplasty surgery in 2081.
+395-05||76||10. Left total knee arthroplasty surgery in 2082.
+395-05||77||11. Lumbar fusion performed in 2098 and again in 2099.
+395-05||78||12. Sigmoid colonic resection in 2103.
+395-05||79||13. Cellulitis and osteomyelitis involving her right foot in October 2104.
+395-05||80||14. Cataract extracted from her right eye in 2102.

@@ -1,0 +1,111 @@
+227-05||1||Record date: 2164-08-24
+227-05||2||CARDIOLOGY
+227-05||4||NORTHLAND MEDICAL CLINIC
+227-05||6||Reason for visit:
+227-05||7||Follow up of CAD s/p CABG adn multiple CV risk factors
+227-05||8||Interval History:
+227-05||9||A 74 yo man with a long history of CAD eventually necessitating CABG in 4/2161.
+227-05||10||He has had several chest pain syndromes over the years but, as of late, has been doing quite well in that regard.
+227-05||11||His last CV evaluation was an Adenosine PET in 4/63 which showed an EF 46 with anterior and anterolateral flow abnormalites.||DIN FFF adenosine FFF 6 6||INDICATION FFF pet FFF 7 7||INDICATION FFF ef FFF 13 13||
+227-05||12||These are consistent with his known occluded diagonal (also unbypassed).
+227-05||13||His last cath in 6/62 showed patent vein grafts to his OM and to his RCA and a patent but atretic LIMA.
+227-05||14||He has an occluded RCA, an 80% OM, and a 60% LAD in addition to the occluded diagonal (fills via OM collaterals).
+227-05||15||He was admitted to Fahey Center in May with syncope associated with bradycardia.
+227-05||16||His atenolol was changed to coreg and he has had no difficulties since that time.||DIN FFF atenolol FFF 1 1||
+227-05||16||His atenolol was changed to coreg and he has had no difficulties since that time.||DBN FFF coreg FFF 5 5||
+227-05||17||He does have a long-standing trifasicular block.
+227-05||18||He denies any chest pain, orthopnea, PND, LEE, palpitations, or syncope since that admission.
+227-05||19||Someone started him on Niaspan which has been associated with diffuse flushing, itching, and a burning sensation.||DBN FFF niaspan FFF 4 4||INDICATION FFF itching, FFF 12 12||
+227-05||20||Past medical history:
+227-05||21||CAD with CABG in 4/61, LIMA to LAD, V to RCA PLVB, V to OM  -- he has an unbypassed occluded Diagonal with collaterals from the OM
+227-05||22||Dressler's
+227-05||23||HTN
+227-05||24||lipids
+227-05||25||DM
+227-05||26||neuropathy
+227-05||27||Frozen shoulder
+227-05||28||GERD
+227-05||29||TIAs 2153 and 12/2160
+227-05||30||Bladder CA
+227-05||31||s/p TURP
+227-05||32||Medications (Confirmed):
+227-05||34||aspirin||DIN FFF aspirin FFF 0 0||
+227-05||35||Coreg 3.125mg po qd||DBN FFF coreg FFF 0 0||DOSE FFF 3.125mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qd FFF 3 3||
+227-05||36||Diovan||DBN FFF diovan FFF 0 0||
+227-05||37||Insulin syringes||DIN FFF insulin FFF 0 0||
+227-05||38||Klor con 10meq po qd
+227-05||39||Lasix 40mg po qd||DBN FFF lasix FFF 0 0||DOSE FFF 40mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qd FFF 3 3||
+227-05||40||Neurontin 300 mg po tid||DBN FFF neurontin FFF 0 0||DOSE FFF 300 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF tid FFF 4 4||
+227-05||41||Nexium 40mg po qd||DBN FFF nexium FFF 0 0||DOSE FFF 40mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qd FFF 3 3||
+227-05||42||NPH insulin 48units sc qam||DIN FFF nph insulin FFF 0 1||DOSEAMT FFF 48units FFF 2 2||RUT FFF sc FFF 3 3||FREQ FFF qam FFF 4 4||
+227-05||43||Onetouch strips
+227-05||44||Pravachol 20mg po qd||DBN FFF pravachol FFF 0 0||DOSE FFF 20mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qd FFF 3 3||
+227-05||45||regular insulin sc||DIN FFF regular insulin FFF 0 1||RUT FFF sc FFF 2 2||
+227-05||46||Zetia 10mg po qd||DBN FFF zetia FFF 0 0||DOSE FFF 10mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qd FFF 3 3||
+227-05||47||Allergies:
+227-05||49||Drug allergy   Vioxx.  Zestril, gives a cough.||DBN FFF vioxx. FFF 2 2||
+227-05||49||Drug allergy   Vioxx.  Zestril, gives a cough.||DBN FFF zestril, FFF 3 3||INDICATION FFF a cough. FFF 5 6||
+227-05||50||Penicillin allergy   Penicillin.
+227-05||51||Family history:
+227-05||52||Mother died at 67, had MI in her 50s
+227-05||53||Father died in his 80s, had DM and PVD
+227-05||54||Social history:
+227-05||55||Married.
+227-05||56||Retired sales specialist.
+227-05||57||Paints and enjoys model trains.
+227-05||58||Quit smoking 2152.  No ETOH.
+227-05||59||Review of systems:
+227-05||60||As above.
+227-05||61||Also some memory lapses.
+227-05||62||He has some productive cough, but no change from prior.
+227-05||63||Otherwise negative in detail.
+227-05||64||Physical examination:
+227-05||66||-Pulse: 62
+227-05||67||-General:   No acute distress.
+227-05||68||-Skin:   No rashes, anicteric.
+227-05||69||-Neck:   Carotids 2+ without bruits.
+227-05||70||JVP 7 no jugular venous distention. -Chest:   Clear to auscultation and percussion.
+227-05||71||-Cardiac:   Left ventricular impulse discrete and nondisplaced.
+227-05||72||Regular rate and rhythm, normal S1 and S2, with no S3 or S4.
+227-05||73||There were no murmurs, clicks or rubs. -Abdomen:   Normal bowel sounds, soft and nontender, with no hepatosplenomegaly or masses appreciated. -Extremities:   No cyanosis, clubbing or edema. 2+ femoral pulses without bruits. 2+ pedal pulses.
+227-05||74||-BP: 152/66
+227-05||75||-resp. rate: 12
+227-05||76||-weight: 216  lbs.
+227-05||77||-Heent:   Unremarkable
+227-05||78||EKG:
+227-05||79||NSR with trifasicular block.
+227-05||80||CR c/w COPD.
+227-05||81||Compared to 9/63, HR has increased.
+227-05||82||Selected recent labs:
+227-05||83||Metabolic
+227-05||84||Date     K        CRE
+227-05||85||07/29/64 3.8      1.1
+227-05||86||Lipid/Thyroid
+227-05||87||Date     CHOL     TRIG     HDL      LDL
+227-05||88||07/20/64 125      118      42       59
+227-05||90||Assessment and plan:
+227-05||91||A 74 yo man with multiple chest pain syndromes and CV risk factors associated with CAD and mild LV dysfunction.
+227-05||92||His chest pain syndromes have resolved.
+227-05||93||He has a long-standing trifasicular block and had what sounds like syncope a few months ago.
+227-05||94||This was associated with bradycardia and has resolved with changing him to low dose coreg.||INDICATION FFF bradycardia FFF 4 4||DBN FFF coreg. FFF 14 14||
+227-05||95||CV risk factor modification remains our primary focus.
+227-05||96||Plan.
+227-05||97||1. CAD-increase asa to 325 and take at night with niaspan in hopes of lessening side effects.||DIN FFF asa FFF 2 2||TOD FFF at night FFF 7 8||
+227-05||97||1. CAD-increase asa to 325 and take at night with niaspan in hopes of lessening side effects.||DBN FFF niaspan FFF 10 10||
+227-05||98||He needs an ARB, so will try again to get him to take diovan at 80 a day (I gave samples and a Rx). 2. LV dysfunction--we will check a GBPS for EF.||DBN FFF arb, FFF 3 3||
+227-05||98||He needs an ARB, so will try again to get him to take diovan at 80 a day (I gave samples and a Rx). 2. LV dysfunction--we will check a GBPS for EF.||DBN FFF diovan FFF 13 13||DRT FFF a day FFF 16 17||INDICATION FFF lv FFF 25 25||INDICATION FFF ef. FFF 32 32||
+227-05||99||3. DM-followed by Dr.
+227-05||100||Orton.
+227-05||101||Continue to aim for an A1c of 7.0 4.
+227-05||102||Carotid disease--this seems to be limited to the external carotid, so I don't think any intervention will be necessary.
+227-05||103||Continue to Rx risk factors. 5. Lipids-look great today.  Continue as is, but given his past intolerance of and noncompliance with meds, I suspect he will give up the Niaspan soon!  We will try to give asa with it to help with the side effects. 6. HTN--home BPs have been higher too on coreg.  I am trying to get him on an ARB again.  Diovan at 80 a day. He will get f/u labs in one month f/u 6months||DBN FFF niaspan FFF 29 29||
+227-05||103||Continue to Rx risk factors. 5. Lipids-look great today.  Continue as is, but given his past intolerance of and noncompliance with meds, I suspect he will give up the Niaspan soon!  We will try to give asa with it to help with the side effects. 6. HTN--home BPs have been higher too on coreg.  I am trying to get him on an ARB again.  Diovan at 80 a day. He will get f/u labs in one month f/u 6months||DIN FFF asa FFF 36 36||
+227-05||103||Continue to Rx risk factors. 5. Lipids-look great today.  Continue as is, but given his past intolerance of and noncompliance with meds, I suspect he will give up the Niaspan soon!  We will try to give asa with it to help with the side effects. 6. HTN--home BPs have been higher too on coreg.  I am trying to get him on an ARB again.  Diovan at 80 a day. He will get f/u labs in one month f/u 6months||DBN FFF coreg. FFF 53 53||TOD FFF am FFF 55 55||
+227-05||103||Continue to Rx risk factors. 5. Lipids-look great today.  Continue as is, but given his past intolerance of and noncompliance with meds, I suspect he will give up the Niaspan soon!  We will try to give asa with it to help with the side effects. 6. HTN--home BPs have been higher too on coreg.  I am trying to get him on an ARB again.  Diovan at 80 a day. He will get f/u labs in one month f/u 6months||DBN FFF arb FFF 62 62||
+227-05||103||Continue to Rx risk factors. 5. Lipids-look great today.  Continue as is, but given his past intolerance of and noncompliance with meds, I suspect he will give up the Niaspan soon!  We will try to give asa with it to help with the side effects. 6. HTN--home BPs have been higher too on coreg.  I am trying to get him on an ARB again.  Diovan at 80 a day. He will get f/u labs in one month f/u 6months||DBN FFF diovan FFF 64 64||DRT FFF a day. FFF 67 68||INDICATION FFF f/u FFF 72 72||DRT FFF one month FFF 75 76||INDICATION FFF f/u FFF 77 77||DRT FFF 6months FFF 78 78||
+227-05||104||Changes to Medications this visit
+227-05||106||regular insulin   sc  14u qam and 14u qpm QTY:1 Refills:6 Start: 11/25/2160||DIN FFF regular insulin FFF 0 1||RUT FFF sc FFF 2 2||DOSE FFF 14u FFF 3 3||FREQ FFF qam FFF 4 4||DOSE FFF 14u FFF 6 6||FREQ FFF qpm FFF 7 7||
+227-05||107||NPH insulin 48units  sc qam 16 units qpm QTY:3month supply Refills:5 Start: 10/20/2153||DIN FFF nph insulin FFF 0 1||DOSEAMT FFF 48units FFF 2 2||RUT FFF sc FFF 3 3||FREQ FFF qam FFF 4 4||
+227-05||107||NPH insulin 48units  sc qam 16 units qpm QTY:3month supply Refills:5 Start: 10/20/2153||DIN FFF nph insulin FFF 0 1||DOSEAMT FFF 16 units FFF 5 6||FREQ FFF qpm FFF 7 7||
+227-05||108||Diovan 80mg  po qd QTY:90 Refills:3 Start: 08/24/2164||DBN FFF diovan FFF 0 0||DOSE FFF 80mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qd FFF 3 3||
+227-05||109||Coreg 3.125mg  po bid QTY:30 Refills:5 Start: 06/16/2164||DBN FFF coreg FFF 0 0||DOSE FFF 3.125mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF bid FFF 3 3||

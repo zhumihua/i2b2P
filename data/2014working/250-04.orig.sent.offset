@@ -1,0 +1,24 @@
+250-04	11	0	Felton for recommendations on antibiotic management.	antibiotic FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+250-04	33	438	1. Vancomycin 1gm IV q24h	vancomycin FFF 1 1	1gm FFF 2 2	iv FFF 3 3	q24h FFF 4 4	 FFF 	 FFF 	narrative
+250-04	34	438	2.     Also on lovenox, simvastatin, amlodipine, toprol xl, losartan, lasix, glipizide, colace, aspirin, morphine, MOM, maalox	lovenox, FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+250-04	34	438	2.     Also on lovenox, simvastatin, amlodipine, toprol xl, losartan, lasix, glipizide, colace, aspirin, morphine, MOM, maalox	simvastatin, FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+250-04	34	438	2.     Also on lovenox, simvastatin, amlodipine, toprol xl, losartan, lasix, glipizide, colace, aspirin, morphine, MOM, maalox	amlodipine, FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+250-04	34	438	2.     Also on lovenox, simvastatin, amlodipine, toprol xl, losartan, lasix, glipizide, colace, aspirin, morphine, MOM, maalox	toprol xl, FFF 6 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+250-04	34	438	2.     Also on lovenox, simvastatin, amlodipine, toprol xl, losartan, lasix, glipizide, colace, aspirin, morphine, MOM, maalox	losartan, FFF 8 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+250-04	34	438	2.     Also on lovenox, simvastatin, amlodipine, toprol xl, losartan, lasix, glipizide, colace, aspirin, morphine, MOM, maalox	lasix, FFF 9 9	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+250-04	34	438	2.     Also on lovenox, simvastatin, amlodipine, toprol xl, losartan, lasix, glipizide, colace, aspirin, morphine, MOM, maalox	glipizide, FFF 10 10	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+250-04	34	438	2.     Also on lovenox, simvastatin, amlodipine, toprol xl, losartan, lasix, glipizide, colace, aspirin, morphine, MOM, maalox	colace, FFF 11 11	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+250-04	34	438	2.     Also on lovenox, simvastatin, amlodipine, toprol xl, losartan, lasix, glipizide, colace, aspirin, morphine, MOM, maalox	aspirin, FFF 12 12	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+250-04	34	438	2.     Also on lovenox, simvastatin, amlodipine, toprol xl, losartan, lasix, glipizide, colace, aspirin, morphine, MOM, maalox	morphine, FFF 13 13	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+250-04	34	438	2.     Also on lovenox, simvastatin, amlodipine, toprol xl, losartan, lasix, glipizide, colace, aspirin, morphine, MOM, maalox	maalox FFF 15 15	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+250-04	36	438	ECASA 325 mg p.o. daily,	ecasa FFF 0 0	325 mg FFF 1 2	p.o. FFF 3 3	daily, FFF 4 4	 FFF 	 FFF 	narrative
+250-04	37	438	Lasix 60 mg p.o. daily,	lasix FFF 0 0	60 mg FFF 1 2	p.o. FFF 3 3	daily, FFF 4 4	 FFF 	 FFF 	narrative
+250-04	38	438	Toprol-XL 50 mg p.o. daily,	toprol-xl FFF 0 0	50 mg FFF 1 2	p.o. FFF 3 3	daily, FFF 4 4	 FFF 	 FFF 	narrative
+250-04	39	438	Losartan 100 mg p.o. daily,	losartan FFF 0 0	100 mg FFF 1 2	p.o. FFF 3 3	daily, FFF 4 4	 FFF 	 FFF 	narrative
+250-04	40	438	Simvastatin 10 mg p.o. daily,	simvastatin FFF 0 0	10 mg FFF 1 2	p.o. FFF 3 3	daily, FFF 4 4	 FFF 	 FFF 	narrative
+250-04	41	438	Glipizide 10 mg p.o. daily,	glipizide FFF 0 0	10 mg FFF 1 2	p.o. FFF 3 3	daily, FFF 4 4	 FFF 	 FFF 	narrative
+250-04	42	438	Avandia 4mg p.o. daily	avandia FFF 0 0	4mg FFF 1 1	p.o. FFF 2 2	daily FFF 3 3	 FFF 	 FFF 	narrative
+250-04	43	438	Norvasc 5mg po qod	norvasc FFF 0 0	5mg FFF 1 1	po FFF 2 2	qod FFF 3 3	 FFF 	 FFF 	narrative
+250-04	44	438	Fosamax 70mg po qweek	fosamax FFF 0 0	70mg FFF 1 1	po FFF 2 2	qweek FFF 3 3	 FFF 	 FFF 	narrative
+250-04	45	438	Multivitamin	multivitamin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+250-04	68	0	Right ankle culture (1/21/82): FEW SUSPECTED STAPHYLOCOCCUS AUREUS (gm stain-no polys, no org)	staphylococcus aureus FFF 6 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

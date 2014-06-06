@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2125-07-28
+
+
+
+
+
+
+
+HOLCOMB, DENNIS
+
+83312060
+
+07/28/2125
+
+
+
+
+
+HISTORY OF PRESENT ILLNESS:  Dennis Holcomb is a lovely 57-year-old gentleman with a past medical history notable for coronary artery disease, status post myocardial infarction with known ventricular tachycardia with AICD in place.  He continues to work at Alaska Air and has multiple family obligations which are stressful to him.  He has had no exertional neck, chest, arm, or jaw pain.  He has not felt his AICD fire.  He has had no lightheadedness or weakness.  He continues on atenolol, aspirin, folate, furosemide, insulin, lisinopril, simvastatin and Viagra.
+
+
+
+PHYSICAL EXAMINATION:  On exam today, his weight is 224, heart rate is 74 and blood pressure is 120/77.  There is no increase in jugular venous pressure.  Carotids are without bruits.  Lungs are clear to auscultation throughout.  Cardiovascular exam is notable for nondisplaced PMI, S1, physiologically split S2 with systolic ejection murmur and a soft holosystolic apical murmur.  Abdomen is soft, nontender, free of organomegaly and bruits.  Extremities are warm and free of edema with symmetric pulses, motor strength, and sensation.
+
+
+
+LABORATORY DATA:  EKG is notable for sinus with evidence of prior inferior myocardial infarction.
+
+
+
+ASSESSMENT AND PLAN:  In summary, Dennis has been doing well with respect to his blood pressure control and exercise.  Given his current levels of stress, we are going to change his atenolol to 100 mg in the morning and 50 mg at night, and I have encouraged him to get to a target weight of 190 this year, and I am making no other changes in his medical regimen.
+
+
+
+
+
+______________________________
+
+Evelyn Maxwell-Johnston, M.D.
+
+
+
+
+
+
+
+
+
+
+
+eScription document:5-3853809 IFFocus
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC9" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC10" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC12" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC14" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC15" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC17" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC19" time="during DCT" type1="beta blocker" type2=""/>
+    <CAD id="DOC8" time="after DCT" indicator="mention"/>
+    <CAD id="DOC13" time="during DCT" indicator="mention"/>
+    <CAD id="DOC16" time="before DCT" indicator="event"/>
+    <CAD id="DOC20" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC11" indicator="not present"/>
+    <SMOKER id="DOC7" status="unknown"/>
+  </TAGS>
+</root>

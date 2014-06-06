@@ -1,0 +1,30 @@
+292-05||1||HALL, NICK
+292-05||2||65219816
+292-05||3||06/14/2097
+292-05||4||Primary Care Physician:
+292-05||5||Youssef Nall, M.D.
+292-05||6||Ludlow Medical Center
+292-05||7||10 Wilder St||INDICATION FFF st FFF 2 2||
+292-05||8||Post, IN  86454
+292-05||9||Dear Dr. Nall:
+292-05||10||It was a pleasure to see Nick again in the Internal Medicine at Wytheville South Hospital on 06/14/2098 for routine folow up of radiation associated ischemic heart disease.||INDICATION FFF ischemic heart disease. FFF 25 27||
+292-05||11||As you know, Nick had mantle radiation in his youth for Hodgkin's lymphoma, and subsequently had 2 NSTEMIs in 2087 and 2090.||INDICATION FFF as FFF 0 0||INDICATION FFF hodgkin's lymphoma, FFF 11 12||
+292-05||12||He received bare-metal stents to his LAD and RCA and did well until 2094 when after diagnosis and resection of a squamous cell lung carcinoma, his postop course was immediately complicated by an acute inferior STEMI/VT/VF arrest.||DRT FFF until FFF 12 12||INDICATION FFF carcinoma, FFF 24 24||INDICATION FFF stemi/vt/vf FFF 35 35||INDICATION FFF stemi/vt/vf FFF 35 35||
+292-05||13||Immediate angiography post-resuscitation found massive thrombus burden in his proximal right coronary artery, with good result after thrombectomy and POBA, in addition to Integrilin, aspirin, Plavix, and low dose heparin.||INDICATION FFF thrombus FFF 5 5||DBN FFF integrilin, FFF 23 23||DIN FFF aspirin, FFF 24 24||DBN FFF plavix, FFF 25 25||DIN FFF heparin. FFF 29 29||
+292-05||14||Remarkably, after an IABP and aggressive care Nick walked away with a preserved LV function after this event.||INDICATION FFF lv FFF 13 13||
+292-05||15||He did well until 01/2095 when he represented with unstable angina and was found to have in-stent restenosis in the ostial LAD and the ostial RCA bare-metal stents.||DRT FFF until FFF 3 3||INDICATION FFF unstable angina FFF 9 10||
+292-05||16||He was treated with Cypher drug-eluting stents to both lesions (3.5 x 18 mm Cypher stent post dilated to 20 atm to the LAD and 3.5 x 23 mm extending slightly into the sinus of Valsalva to the RCA) with no residual stenosis.||INDICATION FFF mm FFF 13 13||INDICATION FFF cypher stent FFF 14 15||DIN FFF atm FFF 20 20||INDICATION FFF mm FFF 28 28||INDICATION FFF stenosis. FFF 42 42||
+292-05||17||Because of concerns with regards to recurrent in-stent restenosis he was put on dual antiplatelet therapy (325mg ECASA and clopidogrel 150 mg) since that event intended as longterm therapy.||DOSE FFF (325mg FFF 16 16||DPN FFF ecasa FFF 17 17||DIN FFF clopidogrel FFF 19 19||DOSE FFF 150 mg) FFF 20 21||INDICATION FFF as FFF 26 26||DRT FFF longterm FFF 27 27||
+292-05||18||He has been followed by me since 2095 with no recurrent ischemic heart disease, chest pain, and has returned to normal exercise capacity and with preserved cardiac systolic function.||INDICATION FFF me FFF 5 5||INDICATION FFF ischemic heart disease, FFF 11 13||INDICATION FFF chest pain, FFF 14 15||
+292-05||19||Nick continues to be very successful as a technology consultant in IBM research in Leland.||INDICATION FFF as FFF 6 6||
+292-05||20||As the economy is picking up, his work environment has improved as has his stress level.||INDICATION FFF as FFF 0 0||INDICATION FFF as FFF 11 11||
+292-05||21||He is walking every day both at work and recreationally and lost another 5pounds.||FREQ FFF every day FFF 3 4||
+292-05||22||He takes his medications regularly and is usually compliant  but ran out of atenolol last week and instead has been taking bid ramipril in its place.||DIN FFF atenolol FFF 13 13||FREQ FFF bid FFF 21 21||DIN FFF ramipril FFF 22 22||
+292-05||23||Every year he asks whether we can down-titrate his clopidogrel both for tolerance and cost reasons (I reassured him that it should be generic within a year).||DIN FFF clopidogrel FFF 9 9||DIN FFF generic FFF 23 23||DRT FFF a year). FFF 25 26||
+292-05||24||Nevertheless, we tested the degree of platelet inhibition he currently has with the VerifyNow P2Y12 PRU assay, and his result was 177, which is below the cut-off of 230 PRU thought to approximate adequate platelet inhibition.
+292-05||25||He recently had some transient melena for which he was placed on ranitidine.||DIN FFF ranitidine. FFF 12 12||
+292-05||26||His current medications should be aspirin 325 mg p.o. daily, clopidogrel 150 mg p.o. daily, atorvastatin 80 mg p.o. daily, ramipril 10 mg p.o. daily, atenolol 50 mg p.o. daily, L-thyroxine 125 mcg p.o. daily, ranitidine 150 mg po daily, 1 tablet fish oil daily, and 1 tablet of vitamin D daily.||DIN FFF aspirin FFF 5 5||DOSE FFF 325 mg FFF 6 7||RUT FFF p.o. FFF 8 8||FREQ FFF daily, FFF 9 9||DIN FFF clopidogrel FFF 10 10||DOSE FFF 150 mg FFF 11 12||RUT FFF p.o. FFF 13 13||FREQ FFF daily, FFF 14 14||DIN FFF atorvastatin FFF 15 15||DOSE FFF 80 mg FFF 16 17||RUT FFF p.o. FFF 18 18||FREQ FFF daily, FFF 19 19||DIN FFF ramipril FFF 20 20||DOSE FFF 10 mg FFF 21 22||RUT FFF p.o. FFF 23 23||FREQ FFF daily, FFF 24 24||DIN FFF atenolol FFF 25 25||DOSE FFF 50 mg FFF 26 27||RUT FFF p.o. FFF 28 28||FREQ FFF daily, FFF 29 29||DIN FFF l-thyroxine FFF 30 30||DOSE FFF 125 mcg FFF 31 32||RUT FFF p.o. FFF 33 33||FREQ FFF daily, FFF 34 34||DIN FFF ranitidine FFF 35 35||DOSE FFF 150 mg FFF 36 37||RUT FFF po FFF 38 38||FREQ FFF daily, FFF 39 39||DOSEAMT FFF 1 tablet FFF 40 41||DIN FFF fish oil FFF 42 43||FREQ FFF daily, FFF 44 44||DOSEAMT FFF 1 tablet FFF 46 47||DIN FFF vitamin d FFF 49 50||FREQ FFF daily. FFF 51 51||
+292-05||27||He has no known drug allergies.||INDICATION FFF drug allergies. FFF 4 5||
+292-05||28||Physical Examination:  Nick looks well.
+292-05||29||He is in no distress.
+292-05||30||Weight is 221 lbs.||INDICATION FFF weight FFF 0 0||

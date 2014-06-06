@@ -1,0 +1,68 @@
+304-02	1	Record date: 2061-10-03	
+304-02	2		
+304-02	3	BMH Cancer Center		INDICATION FFF cancer#1
+304-02	4	Hematology Note	
+304-02	5	Fellow: James Tyler	
+304-02	6	Attending:  Cole Morgan	
+304-02	7	Date of consultation:  October 04, 2061	
+304-02	8	Diagnosis:  thrombocytosis, reactive vs. essential thrombocytosis		INDICATION FFF thrombocytosis#1	INDICATION FFF essential thrombocytosis#5
+304-02	9	HPI:	
+304-02	10	27 yo African American male with recent complicated hospital stay at BMH presents to hematology clinic for first time for follow up of his thrombocytosis.		INDICATION FFF thrombocytosis#24
+304-02	11	This 27 yo male with history of type I DM who does not get regular medical care in late August was  visiting family in Maryland and had sudden witnessed seizure activity.		INDICATION FFF dm#9	INDICATION FFF seizure#29
+304-02	12	At the time, blood sugar was >500.		INDICATION FFF blood sugar#4
+304-02	13	Upon initial arrival to the ER in Maryland, he has BP 248/146; plt count was in 800's.		INDICATION FFF bp#10
+304-02	14	The patient was intubated, treated for HTN with labetolol and placed on IV insulin and dilantin  and transferred to BMH for further care.		INDICATION FFF htn#6	DIN FFF labetolol#8	RUT FFF iv#12	DIN FFF insulin#13	DBN FFF dilantin#15
+304-02	15	At BMH, MRI showed several small areas of infarct read as concerning for embolic CVA- echo was done showing no vegetations, no PFO, NL EF with LVH; TEE without vegetations as well.		INDICATION FFF infarct#8	INDICATION FFF as#10	INDICATION FFF embolic#13	INDICATION FFF cva#14	INDICATION FFF ef#24	INDICATION FFF lvh#26	INDICATION FFF as#30
+304-02	16	LP was done and sent for HSV which was negative.	
+304-02	17	He underent a renal workup which showed  nephrotic range proteinuria; labs also showed rhabdoymyolysis.	
+304-02	18	Renal doppler US showed no sign of RAS.	
+304-02	19	He was continued on abx for his  aspiration PNA.		DPN FFF abx#4	INDICATION FFF aspiration#7	INDICATION FFF pna .#8
+304-02	20	Other parts of the secondary htn workup were done including evaluation for hyper aldo, pheo.		INDICATION FFF htn#5
+304-02	21	The vent was weaned and he was extubated on the 4th.	
+304-02	22	HTN was controlled with labetolol drip with additional oral agents being added.		INDICATION FFF htn#0	DIN FFF labetolol#4	RUT FFF drip#5	RUT FFF oral#8
+304-02	23	He continued to have intermittent fevers and was on broad antibiotics which were originally weaned off.		INDICATION FFF fevers#5	DIN FFF antibiotics#10
+304-02	24	Hematologically, the hct and wbc fell as he was hydrated.		INDICATION FFF as#6
+304-02	25	Plt count stayed stable in the 600's for several days before increasing on the 3rd gradually up to the 1000's.		DRT FFF for several days#9
+304-02	26	Retics were depressed at presentation and iron studies were c/w ACD and he was started on epogen.		INDICATION FFF acd#10	DBN FFF epogen#16
+304-02	27	Initially it was felt that his thrombocytosis was most certainly reactive; CRP was >150 with ESR >100.		INDICATION FFF thrombocytosis#6	INDICATION FFF crp#11
+304-02	28	He left the ICU and at this point his WBC trended down and he was afebrile and more clinically stable.	
+304-02	29	But his platelets kept climbing to nearly 1.5 million.	
+304-02	30	A bone marrow biopsy was done showing no cytogenetics to suggest CML and there were elevated megakaryocytes read as concerning for a myeloproliferative process.		INDICATION FFF cml#11	INDICATION FFF as#18
+304-02	31	As well, he suffered a DVT in his subclavian/IJ on the same side as a central venous catheter.		INDICATION FFF as#0	INDICATION FFF dvt#5	INDICATION FFF as#13
+304-02	32	Given his thrombocytosis and elevated plt count, he was platelet pheresed twice in the hospital.		INDICATION FFF thrombocytosis#2
+304-02	33	As well, hydrea was started at this time, initially at 500mg bid and then escalated to 1000mg bid when his counts were up to 800-900 despite the medication.		INDICATION FFF as#0	DBN FFF hydrea#2	DOSE FFF 500mg#10	FREQ FFF bid#11	DOSE FFF 1000mg#16	FREQ FFF bid#17	DPN FFF the medication#27
+304-02	34	As well, he suffered a small GI bleed due to an ulcer.		INDICATION FFF as#0	INDICATION FFF gi bleed#7	INDICATION FFF ulcer#11
+304-02	35	For this reason he was not anticoagulated but placed upon daily ASA.		INDICATION FFF anticoagulated#6	FREQ FFF daily#10	DIN FFF asa#11
+304-02	36	He was discharged from the hospital two weeks ago and has done fairly well since then.		DRT FFF two weeks#7
+304-02	37	His energy has been good.	
+304-02	38	He denies any fevers/chills/sweats.		INDICATION FFF fevers#3	INDICATION FFF sweats#3
+304-02	39	No bleeding/bruising.		INDICATION FFF bleeding#1
+304-02	40	No further swelling in his arms/legs.		INDICATION FFF swelling#2
+304-02	41	He does have some occasionally blurryness in eyes immediately after taking his anti-hypertensives but no numnbess/weakness/dizziness.		DIN FFF anti-hypertensives#12	INDICATION FFF dizziness#15
+304-02	42	Problems/PMH:	
+304-02	43	DM type 1 since age 12		INDICATION FFF dm#0
+304-02	44	no recollection of any abnormal blood counts prior to this admit	
+304-02	45	New diagnoses on this admit	
+304-02	46	renal insufficiency		INDICATION FFF renal insufficiency#1
+304-02	47	nephrotic proteinuria	
+304-02	48	malignant hypertension		INDICATION FFF malignant hypertension#1
+304-02	49	thrombocytosis		INDICATION FFF thrombocytosis#0
+304-02	50	GI bleed- upper with ulcer visualized on EGD		INDICATION FFF gi bleed#1	INDICATION FFF ulcer#4
+304-02	51	small embolic appearing CVA's		INDICATION FFF embolic#1
+304-02	52	Medications:	
+304-02	53	Diovan		DBN FFF diovan#0
+304-02	54	lisinopril		DIN FFF lisinopril#0
+304-02	55	Hydrea 1000 bid		DBN FFF hydrea#0	DOSE FFF 1000#1	FREQ FFF bid#2
+304-02	56	ASA 81 qod		DIN FFF asa#0	DOSE FFF 81#1	FREQ FFF qod#2
+304-02	57	lopressor		DBN FFF lopressor#0
+304-02	58	procardia		DBN FFF procardia#0
+304-02	59	clonidine		DIN FFF clonidine#0
+304-02	60	nexium		DBN FFF nexium#0
+304-02	61	insulin:  am 25 regular/34 NPH, pm  20 regular/28 NPH		DIN FFF insulin#0	TOD FFF am#1	DBN FFF nph#4	TOD FFF pm#5	DBN FFF nph#8
+304-02	62	Allergies:		INDICATION FFF allergies#0
+304-02	63	nkda	
+304-02	64	Social History:	
+304-02	65	lives in waycross; single	
+304-02	66	works in Geologist	
+304-02	67	no tob	
+304-02	68	reports social etoh	

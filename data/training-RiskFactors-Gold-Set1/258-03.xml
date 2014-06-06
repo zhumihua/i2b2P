@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2068-10-10
+
+
+Sheboygan Memorial Medical Center
+38 Aston Street                                        SCHWARTZ, XAVIER
+Helena, MD 97756                                      49921666
+(871) 720-9439                                           10/10/68
+
+
+This patient of Dr. Bridges was seen because Dr. Bridges was
+called away on an emergency basis.
+
+His major concern is results of recent vascular studies.  He has
+known diabetes and has a history of several years of exertional
+cramping and discomfort in his legs.  This occurs only with heavy
+exertion.  Dr. Bridges documented normal pedal pulses the last
+visit.
+
+His recent vascular studies showed no significant drop off and
+perfusion pressures level of the ankle.
+
+Did given his history a more inclined to suspect this might be
+pseudoclaudication due to neuropathy or spinal stenosis.  He will
+follow up with Dr. Bridges about next steps.
+
+Ret he declines a flu shot today.
+
+
+______________________________
+FRANK J. XI, M.D.
+
+eScription document:3-638570
+
+DD: 10/10/68
+DT: 10/11/68
+DV: 10/10/68
+
+
+
+]]></TEXT>
+  <TAGS>
+    <FAMILY_HIST id="DOC0" indicator="not present"/>
+    <SMOKER id="DOC1" status="unknown"/>
+    <DIABETES id="DOC2" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC4" time="before DCT" indicator="mention"/>
+  </TAGS>
+</root>

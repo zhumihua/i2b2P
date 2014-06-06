@@ -1,0 +1,54 @@
+363-02	1	Record date: 2092-11-19	
+363-02	2	Reason for Visit	
+363-02	3	Nancy is a 74 y/o womanhere for evaluationof TH and DM treatment.		INDICATION FFF dm#10
+363-02	4	Also, c/o pain in right knnee with weight bearing.		INDICATION FFF c / o#1	INDICATION FFF pain#2	INDICATION FFF weight#7
+363-02	5	Hashad for about 11 months.		DRT FFF 11 months#4
+363-02	6	Naproxen helped in past.		DIN FFF naproxen#0
+363-02	7	No swell red or hot.	
+363-02	8	With AM stiffness.		TOD FFF am#1
+363-02	9	NO other joint complaints.	
+363-02	10	Problems	
+363-02	11	Glaucoma		INDICATION FFF glaucoma#0
+363-02	12	Diabetes mellitus type 2		INDICATION FFF diabetes mellitus type 2#3
+363-02	13	Hypertension		INDICATION FFF hypertension#0
+363-02	14	Osteoarthritis		INDICATION FFF osteoarthritis#0
+363-02	15	Polyarteritis    : 20 years ago.		DRT FFF 20 years#3
+363-02	16	Medications	
+363-02	17	Dyazide  (TRIAMTERENE 37.5 Mg/hydrochlorthiazide 25 Mg)    1 CAPSULE PO QD		DBN FFF dyazide#0	DOSE FFF 25mg#5	DOSEAMT FFF 1 capsule#7	RUT FFF po#8	FREQ FFF qd#9
+363-02	18	LISINOPRIL   10MG TABLET take 1 Tablet(s) PO QD		DIN FFF lisinopril#0	DOSE FFF 10mg#1	DOSEAMT FFF 1 tablet#5	RUT FFF po#6	FREQ FFF qd#7
+363-02	19	GLYBURIDE   5 MG (5MG TABLET take 1) PO BID		DIN FFF glyburide#0	DOSE FFF 5mg#2	DOSE FFF 5mg#3	RUT FFF po#7	FREQ FFF bid#8
+363-02	20	Prevacid (LANSOPRAZOLE)    30 MG (30MG CAPSULE DR take 1) PO QD		DBN FFF prevacid#0	DOSE FFF 30mg#3	DOSE FFF 30mg#4	RUT FFF po#9	FREQ FFF qd#10
+363-02	21	Alphagan (BRIMONIDINE Tartrate)    1 DROP OU BID		DBN FFF alphagan#0	DOSEAMT FFF 1 drop#4	RUT FFF ou#5	FREQ FFF bid#6
+363-02	22	METFORMIN   850 MG (850MG TABLET take 1) PO TID		DIN FFF metformin#0	DOSE FFF 850mg#2	DOSE FFF 850mg#3	RUT FFF po#7	FREQ FFF tid#8
+363-02	23	PHENOBARBITAL   32.5 MG PO QD		DIN FFF phenobarbital#0	DOSE FFF 32.5mg#2	RUT FFF po#3	FREQ FFF qd#4
+363-02	24	ATENOLOL   25MG TABLET take 1 Tablet(s) PO QD		DIN FFF atenolol#0	DOSE FFF 25mg#1	DOSEAMT FFF 1 tablet#5	RUT FFF po#6	FREQ FFF qd#7
+363-02	25	Allergies		INDICATION FFF allergies#0
+363-02	26	Penicillins    - Unknown		DBN FFF penicillins#0
+363-02	27	Narrative History	
+363-02	28	Takes meds. No SEs.	
+363-02	29	Nocturia x 2 ; polys-uria  ;		FREQ FFF x 2#2
+363-02	30	Eyes- no complaints.	
+363-02	31	Last exam - 10/92.	
+363-02	32	Feet- no pain, numbness, burning.		INDICATION FFF pain#2
+363-02	33	Cor- No chest pain.		DIN FFF cor#0	INDICATION FFF chest pain .#3
+363-02	34	No SOB.		INDICATION FFF sob#1
+363-02	35	No  palpitations.	
+363-02	36	No lighthead.	
+363-02	37	No PND.		INDICATION FFF pnd .#1
+363-02	38	No orthopnea.		INDICATION FFF orthopnea#1
+363-02	39	No claudicatioin.	
+363-02	40	No edema.		INDICATION FFF edema#1
+363-02	41	No  nausea		INDICATION FFF nausea#1
+363-02	42	GI- No nausea.		INDICATION FFF nausea .#2
+363-02	43	No  vomitting.	
+363-02	44	No  dyspepsia.		INDICATION FFF dyspepsia#1
+363-02	45	No  reflux.	
+363-02	46	No abdo pain.		INDICATION FFF abdo pain#2
+363-02	47	No diarrhea but has loose stool.		INDICATION FFF diarrhea#1	INDICATION FFF loose stool#5
+363-02	48	No constipation.		INDICATION FFF constipation .#1
+363-02	49	No melena.	
+363-02	50	No BRBPR.	
+363-02	51	Neuro- No headache.		INDICATION FFF headache .#2
+363-02	52	No vision change.		INDICATION FFF change#2
+363-02	53	NO  hearing change.		INDICATION FFF change#2
+363-02	54	No numbness.	

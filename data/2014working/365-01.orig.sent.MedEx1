@@ -1,0 +1,27 @@
+365-01||1||Record date: 2066-02-07
+365-01||2||KCM EMERGENCY DEPT VISIT
+365-01||4||RIVERS,KARSTEN   957-18-08-4                    VISIT DATE: 02/07/66
+365-01||5||The patient was seen and examined by me.
+365-01||6||HISTORY OF PRESENTING COMPLAINT:  This is a 39-year-old man with a  history of hypertension and diabetes, whose social history is  unremarkable, who has a negative review of systems, and who has no  history of any surgical procedures.
+365-01||7||He presents with a burn on the  right side of the neck.
+365-01||8||He presents to the emergency department  with a minor amount of redness on the right side of the neck and  minor soft tissue swelling.
+365-01||9||The trachea is midline.
+365-01||10||The uvula is  midline.
+365-01||11||There is no airway compromise.
+365-01||12||There are no airway  complaints.
+365-01||13||PHYSICAL EXAMINATION:  No voice change.
+365-01||14||The airway is patent and  intact.
+365-01||15||The lungs are clear, with no wheezes.
+365-01||16||The examination  shows a first-degree burn of the right side of the neck, with no  blistering and no breakage of the skin.
+365-01||17||THERAPY RENDERED/COURSE IN ED:  The patient received a tetanus shot  and was seen by the Burn Service.||DIN FFF tetanus FFF 8 8||INDICATION FFF burn FFF 15 15||
+365-01||18||He was dressed with Bacitracin  and discharged home.||DIN FFF bacitracin FFF 4 4||
+365-01||19||He was to follow up in 48 hours just for a  recheck.
+365-01||20||The Burn Service essentially signed off on him, with no  need for follow-up, but given this was his neck and only  first-degree, I asked him to return here for follow-up.
+365-01||21||FINAL DIAGNOSIS:  First-degree burn of the right side of the neck.
+365-01||22||DISPOSITION (including condition upon discharge):  He is discharged  with Bacitracin ointment and analgesics, and is to follow up in 48  hours.||DIN FFF bacitracin FFF 9 9||DDF FFF ointment FFF 10 10||
+365-01||22||DISPOSITION (including condition upon discharge):  He is discharged  with Bacitracin ointment and analgesics, and is to follow up in 48  hours.||DIN FFF analgesics, FFF 12 12||DRT FFF 48 hours. FFF 19 20||
+365-01||23||The patient's condition on discharge is stable.   ___________________________________                    RO904/06747
+365-01||24||XAVIER ODONNELL, M.D.       XO71                           D:02/07/66
+365-01||25||T:02/07/66
+365-01||26||Dictated by:  XAVIER ODONNELL, M.D.       XO71
+365-01||27||******** Not reviewed by Attending Physician ********

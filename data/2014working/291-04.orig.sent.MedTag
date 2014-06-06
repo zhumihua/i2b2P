@@ -1,0 +1,92 @@
+291-04	1	Record date: 2097-01-17	
+291-04	2	Patient Name: KEATING,FRANK [ MRN: 4832978HOB ]		INDICATION FFF frank#2
+291-04	3	Date of Visit: 1/17/2097	
+291-04	4	BCH SURGERY EW EVALUATION		INDICATION FFF surgery#1
+291-04	5	HPI: Mr. Keating is a 75 year-old male with a complex medical history which includes a history of a stage 4 sacral decubitus ulcer, secondary to being bedridden due to paraplegia (due to injury in 2066).		INDICATION FFF ulcer#23
+291-04	6	His ulcer was eroding into his rectum and therefore he underwent sigmoid colostomy 8/96 for diversion.		INDICATION FFF ulcer#1
+291-04	7	He is also s/p ileal loop urostomy in the distant past.	
+291-04	8	Was seen in plastics clinic today, decub progressing well, but poor POs, referred for admission.	
+291-04	9	Denies N/V, has had normal ostomy output, denies abd pain, though he did have some cramping several days ago.		INDICATION FFF pain#9	DRT FFF several days#17
+291-04	10	His main complaint is long-standing back pain.		INDICATION FFF back pain#6
+291-04	11	Of note, he had been readmitted about 2 weeks postop with distention and pain, CT showing partial SBO and a pelvic fluid collection, which was drained, cultures were sterile.		DRT FFF 2 weeks#8	INDICATION FFF pain#13	INDICATION FFF ct#14
+291-04	12	Wife noted some discharge from midline wound several days ago, but this has ceased.		INDICATION FFF wound#6	DRT FFF several days#8
+291-04	13	PMH:      Paraplegia, secondary to compression fracture in 2066;	
+291-04	14	Cervical spondylosis;	
+291-04	15	Chronic obstructive pulmonary disease;		INDICATION FFF obstructive pulmonary disease#3
+291-04	16	Coronary artery disease, status post coronary artery bypass graft times 3		INDICATION FFF coronary artery disease#2
+291-04	17	in 2087;	
+291-04	18	Ileal loop, complicated by recurrent pyleonephritis;	
+291-04	19	History of transient ischemic attack, status post bilateral carotid      endarterectomies;		INDICATION FFF transient ischemic attack#4
+291-04	20	Hypercholesterolemia;		INDICATION FFF hypercholesterolemia#0
+291-04	21	Insulin dependent diabetes mellitus;		INDICATION FFF insulin dependent diabetes mellitus#3
+291-04	22	Disc herniation at the L4-5, L5-S1 levels;	
+291-04	23	History of peptic ulcer disease with upper gastrointestinal bleed in 2089,      requiring packed red blood cells transfusion;		INDICATION FFF peptic ulcer disease#4	INDICATION FFF gastrointestinal bleed#8	DIN FFF packed red blood cells#15
+291-04	24	Hemorrhoids;		INDICATION FFF hemorrhoids#0
+291-04	25	History of candida infection involving his ileal conduit;		INDICATION FFF candida infection#3
+291-04	26	Status post left tibia fracture;	
+291-04	27	Depression;		INDICATION FFF depression#0
+291-04	28	Peripheral vascular disease, status post bilateral iliofemoral bypass.		INDICATION FFF peripheral vascular disease#2
+291-04	29	H/o Acute renal failure after cardiac catheterization		INDICATION FFF acute renal failure#3	INDICATION FFF cardiac catheterization#6
+291-04	30	Spinal cord infarction from embolic event		INDICATION FFF infarction#2	INDICATION FFF embolic#4
+291-04	31	PSH:	
+291-04	32	1.    C5-6 and C6-7 right foraminotomy in 2081	
+291-04	33	2. Laminectomy at L4-5 and L5-S1 in 2081	
+291-04	34	3. Bilateral carotid endarterectomies in 2081	
+291-04	35	4.    Coronary artery bypass grafting in 2087	
+291-04	36	5. 11/24/95 underwent bilateral iliofemoral and renal artery stent placement	
+291-04	37	6. 11/28/95 cardiac catheterization with a stent placed in the left circumflex artery		INDICATION FFF cardiac catheterization#3
+291-04	38	7.   Diverting colostomy 8/23/96	
+291-04	39	Meds:	
+291-04	40	o SIMVASTATIN (ZOCOR )  20 MG PO  QHS    Last Dose Given:  10/24/96 at 08:00 am  o CLOPIDOGREL (PLAVIX )  75 MG PO  QD    Last Dose Given:  10/24/96 at 08:00 am  o ESOMEPRAZOLE (NEXIUM )  40 MG PO  QD    Last Dose Given:  10/24/96 at 08:00 am  o ZOLPIDEM TARTRATE (AMBIEN )  10 MG PO  QHS   PRN: insomnia  o PAROXETINE (PAXIL )  30 MG PO  QD    Last Dose Given:  10/24/96 at 08:00 am  o INSULIN NPH HUMAN  10 UNITS SC  QAM BEFORE BREAKFAST    Last Dose Given:  10/24/96 at 08:00 am  o INSULIN NPH HUMAN  16 UNITS SC  QPM BEFORE SUPPER  10/21/2096 (Thu) Routine x1    Last Dose Given:  10/23/96 at 08:00 am  o INSULIN REGULAR HUMAN  Sliding Scale  If BS <=    200 give 0 Units ;  For BS from 201  to 250 give 4 Units ;  For BS from 251  to 300 give 6 Units ;  For BS from 301  to 350 give 8 Units ;  For BS from 351  to 400 give 10 Units ;  For BS > 400 give 12 Units and Call House MD ;   SC  QID (AC + HS)    Last Dose Given:  10/24/96 at 12:00 pm  o OXYCODONE 5 MG/ACETAMINOPHEN 325 MG (PERCOCET 5 MG/325 MG )  1-2 TAB PO  Q4-6H   PRN: pain  Last Dose Given:  10/24/96 at 03:00 pm  o AMLODIPINE (NORVASC )  5 MG PO  QD    Last Dose Given:  10/24/96 at 08:00 am  o LISINOPRIL (ZESTRIL )  40 MG PO  QD    Last Dose Given:  10/24/96 at 08:00 am  o DALTEPARIN SODIUM (FRAGMIN )  5000 UNITS SC  QD  <DI>    o METOPROLOL SUCCINATE EXTENDED RELEASE (TOPROL XL )  400 MG PO  QD  <DI>    o ISOSORBIDE MONONITRATE (SR) (IMDUR )  60 MG PO  QD    Last Dose Given:  10/24/96 at 08:00 am  o GABAPENTIN (NEURONTIN )  100 MG PO  QHS		DIN FFF simvastatin#1	DOSE FFF 20mg#5	RUT FFF po#6	FREQ FFF qhs#7	TOD FFF am#14	DIN FFF clopidogrel#16	DOSE FFF 75mg#20	RUT FFF po#21	FREQ FFF qd#22	TOD FFF am#29	DIN FFF esomeprazole#31	DOSE FFF 40mg#35	RUT FFF po#36	FREQ FFF qd#37	TOD FFF am#44	DIN FFF zolpidem tartrate#47	DOSE FFF 10mg#51	RUT FFF po#52	FREQ FFF qhs#53	NEC FFF prn#54	INDICATION FFF insomnia#55	DIN FFF paroxetine#57	DOSE FFF 30mg#61	RUT FFF po#62	FREQ FFF qd#63	TOD FFF am#70	DIN FFF insulin nph human#74	DOSEAMT FFF 10 units#76	RUT FFF sc#77	FREQ FFF qam#78	TOD FFF am#87	DIN FFF insulin nph human#91	DOSEAMT FFF 16 units#93	RUT FFF sc#94	FREQ FFF qpm#95	FREQ FFF x1#101	TOD FFF am#108	DPN FFF insulin regular human#112	DOSE FFF sliding scale#114	INDICATION FFF bs#116	DOSEAMT FFF 0 units#121	INDICATION FFF bs#124	DOSEAMT FFF 4 units#131	INDICATION FFF bs#134	DOSEAMT FFF 6 units#141	INDICATION FFF bs#144	DOSEAMT FFF 8 units#151	INDICATION FFF bs#154	DOSEAMT FFF 10 units#161	INDICATION FFF bs#164	DOSEAMT FFF 12 units#169	INDICATION FFF md#173	RUT FFF sc#175	FREQ FFF qid#176	TOD FFF ac#177	FREQ FFF hs#179	TOD FFF pm#186	DIN FFF oxycodone#188	DOSE FFF 5mg#190	DIN FFF acetaminophen#190	DOSE FFF 325mg#192	DOSEAMT FFF 1-2 tab#199	RUT FFF po#200	FREQ FFF q4-6h#201	NEC FFF prn#202	INDICATION FFF pain#203	TOD FFF pm#210	DIN FFF amlodipine#212	DOSE FFF 5mg#216	RUT FFF po#217	FREQ FFF qd#218	TOD FFF am#225	DIN FFF lisinopril#227	DOSE FFF 40mg#231	RUT FFF po#232	FREQ FFF qd#233	TOD FFF am#240	DIN FFF dalteparin sodium#243	DOSEAMT FFF 5000 units#247	RUT FFF sc#248	FREQ FFF qd#249	INDICATION FFF di#250	DIN FFF metoprolol succinate#253	DPN FFF toprol xl#257	DOSE FFF 400mg#260	RUT FFF po#261	FREQ FFF qd#262	INDICATION FFF di#263	DPN FFF isosorbide mononitrate ( sr )#267	DOSE FFF 60mg#271	RUT FFF po#272	FREQ FFF qd#273	TOD FFF am#280	DIN FFF gabapentin#282	DOSE FFF 100mg#286	RUT FFF po#287	FREQ FFF qhs#288
+291-04	41	All: benzocaine spray -> methgbemia		DIN FFF benzocaine#1
+291-04	42	ROS: no neuro changes, weakness, slurred speech, etc	
+291-04	43	no cough, SOB		INDICATION FFF cough#1	INDICATION FFF sob#2
+291-04	44	no chest pain, DOE		INDICATION FFF chest pain#2
+291-04	45	has been seen for penile d/c by Dr Regan, who did not think he had any active lower urinary infection no diarrhea, vomiting		INDICATION FFF urinary infection#19	INDICATION FFF diarrhea#21	INDICATION FFF vomiting#22
+291-04	46	PE: 97.1   129/51   58  18  99ra		INDICATION FFF pe#0	INDICATION FFF ra#5
+291-04	47	comfortable, NAD	
+291-04	48	Abd soft, NT, ND, well-healed midline incis with small dark scab, no fluctuance, no erythema, no discahrge urostomy clean, pink; ostomy pink, viable, thin tan stool, guiaic neg		INDICATION FFF erythema#14	DIN FFF tan#24
+291-04	49	Labs:	
+291-04	50	WBC                              15.3             H        (4.5-11.0)     th/cmm		DRT FFF 15.3 h#2
+291-04	51	HCT                              26.2             L        (41.0-53.0)    %		DOSE FFF 26.2l#2
+291-04	52	PLT                              375              H        (150-350)      th/cumm		DRT FFF 375 h#2
+291-04	53	Poly                             87               H        (40-70)        %		DRT FFF 87 h#2
+291-04	54	Sodium (Stat Lab)                128              L        (135-145)      mmol/L		TOD FFF stat#1	DOSE FFF 128l#4
+291-04	55	Potassium (Stat Lab)             5.0              H        (3.4-4.8)      mmol/L		TOD FFF stat#1	DRT FFF 5.0 h#4
+291-04	56	Chloride (Stat Lab)              110              H        (100-108)      mmol/L		TOD FFF stat#1	DRT FFF 110 h#4
+291-04	57	CO2 (Stat Lab)                   13.8             L        (23.0-31.9)    mmol/L		TOD FFF stat#1	DOSE FFF 13.8l#4
+291-04	58	BUN (Stat Lab)                   148              H        (8-25)         mg/dl		TOD FFF stat#1	DRT FFF 148 h#4
+291-04	59	Creatinine (Stat Lab)            3.2              H        (0.6-1.5)      mg/dl		INDICATION FFF creatinine#0	TOD FFF stat#1	DRT FFF 3.2 h#4
+291-04	60	Glucose (Stat Lab)               109                       (70-110)       mg/dl		TOD FFF stat#1
+291-04	61	LFTs, amylase, lipase, Lactic Acid all normal		DIN FFF amylase#1	DIN FFF lipase#2	DIN FFF lactic acid#4
+291-04	62	Arterial pH                      7.27             L        (7.35-7.45)		DOSE FFF 7.27l#3
+291-04	63	Arterial PCO2                    23               L        (35-42)        mm/Hg		DOSE FFF 23l#3	INDICATION FFF mm#5	INDICATION FFF hg#5
+291-04	64	Arterial PO2                     113              H        (80-100)       mm/Hg		DRT FFF 113 h#3	INDICATION FFF mm#5	INDICATION FFF hg#5
+291-04	65	Osmolality                       324              H        (280-296)      mOsm/kg		DRT FFF 324 h#2
+291-04	66	Urine Sodium                     28                        (NOTDEF)       mmol/L		DIN FFF sodium#1	DOSE FFF 28#2
+291-04	67	Urine Creatinine                 0.39                                     mg/ml		INDICATION FFF creatinine#1	DOSE FFF 0.39mg / ml#3
+291-04	68	FENA 1.73%		DOSE FFF 1.73%#1
+291-04	69	UA-SED-RBC                       5-10                      (0-2)          /hpf	
+291-04	70	UA-SED-WBC                       20-50                     (0-2)          /hpf	
+291-04	71	UA-SED-Bacteria                  Moderate                  (NEG)          /hpf	
+291-04	72	CXR: clear lungs	
+291-04	73	CT (I-O+): mild R and moderate L hydro, mild perinephric fat stranding R>L, no abnormal pelvic fluid collections, no bowel thickening or abscess, some thickened distal sigmoid colon		INDICATION FFF ct#0	INDICATION FFF abscess#22	INDICATION FFF colon#27
+291-04	74	A/P:  75yr man s/p sig colostomy for diversion, s/p IR drainage of postop collection, now with FTT, acute renal failure with FENA>1% and possible UTI, non-gap metabolic acidodis		DRT FFF 75 yr#1	INDICATION FFF ftt#16	INDICATION FFF acute renal failure#19	DOSE FFF 1%#21	INDICATION FFF uti#24
+291-04	75	--Check C-dif	
+291-04	76	--UTI Rx, directed towards the gram negatives he has grown in the past --Agree with transfusion given CAD hx		INDICATION FFF uti#0	INDICATION FFF cad#17
+291-04	77	--Routine ostomy care, ostomy nurse consult for any ostomy related questions.	
+291-04	78	The ostomy itself appears very healthy, so I doubt the thickening represents hypoperfusion to the distal bowel --Please contact BCH Surgical Service with any questions	
+291-04	79	______________________________	
+291-04	80	Earl N. Morrow, M.D.	
+291-04	81		
+291-04	82		
+291-04	83		
+291-04	84		
+291-04	85		
+291-04	86		
+291-04	87		
+291-04	88		
+291-04	89		
+291-04	90		
+291-04	91		
+291-04	92		

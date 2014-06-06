@@ -1,0 +1,49 @@
+324-04||1||Record date: 2070-10-24
+324-04||2||EDVISIT^53954143^Rutledge, Xavier^10/24/70^OCASIO, WANDA
+324-04||3||This patient was seen by myself and Dr.
+324-04||4||Pappas on 10/24/2070.  I confirm that I interviewed and examined the patient, reviewed the resident's documentation and discussed plan of care with the patient.
+324-04||5||HISTORY OF PRESENT ILLNESS:  This is a 61-year-old gentleman with
+324-04||6||a history of cadaveric renal transplant 11 years ago with a||DRT FFF 11 years FFF 6 7||
+324-04||7||history of DVT, on Coumadin, diabetes, chronic right lower||INDICATION FFF dvt, FFF 2 2||DBN FFF coumadin, FFF 4 4||INDICATION FFF diabetes, FFF 5 5||
+324-04||8||extremity edema, who comes in with dysuria and chills.||INDICATION FFF edema, FFF 1 1||
+324-04||9||He had no urinary output since last night.
+324-04||10||He says his fevers started this morning above 101.||INDICATION FFF fevers FFF 3 3||TOD FFF morning FFF 6 6||
+324-04||11||He went to his PCP who sent him here.||INDICATION FFF pcp FFF 4 4||
+324-04||12||He denies any nausea or vomiting.||INDICATION FFF nausea FFF 3 3||INDICATION FFF vomiting. FFF 5 5||
+324-04||13||He has mild lower suprapubic abdominal pain and some mild flank pain.||INDICATION FFF abdominal pain FFF 5 6||INDICATION FFF flank pain. FFF 10 11||
+324-04||14||He has had some urinary frequency.
+324-04||15||PAST MEDICAL HISTORY:  Hypertension, diabetes, gout,||INDICATION FFF hypertension, FFF 3 3||INDICATION FFF diabetes, FFF 4 4||INDICATION FFF gout, FFF 5 5||
+324-04||16||hypercholesterolemia, end-stage renal disease, status post||INDICATION FFF hypercholesterolemia, FFF 0 0||INDICATION FFF end-stage renal disease, FFF 1 3||
+324-04||17||transplant, anemia, BPH, and DVT.||INDICATION FFF anemia, FFF 1 1||INDICATION FFF bph, FFF 2 2||INDICATION FFF dvt. FFF 4 4||
+324-04||18||MEDICATIONS:  Please refer to the EDUCARE-FARGO list in the chart.
+324-04||19||ALLERGIES:  He has allergies to codeine.||INDICATION FFF allergies: FFF 0 0||INDICATION FFF allergies FFF 3 3||
+324-04||20||SOCIAL HISTORY:  He is not a smoker, drinker, or drug user.
+324-04||21||REVIEW OF SYSTEMS:  As noted in the HPI, otherwise negative.||INDICATION FFF as FFF 3 3||
+324-04||22||PHYSICAL EXAMINATION:  He is an ill-appearing gentleman with
+324-04||23||rigors.
+324-04||24||Vital signs are as noted.||INDICATION FFF as FFF 3 3||
+324-04||25||Head, eyes, ears, nose, and throat are unremarkable.
+324-04||26||Neck is supple.
+324-04||27||He does have dry mucous membranes.||INDICATION FFF dry mucous membranes. FFF 3 5||
+324-04||28||Chest is clear to auscultation.
+324-04||29||Heart is slightly tachycardic.||INDICATION FFF slightly tachycardic. FFF 2 3||
+324-04||30||Abdomen has some suprapubic fullness and tenderness but otherwise is benign.
+324-04||31||His rectal exam is heme-positive.
+324-04||32||There is no prostate tenderness.||INDICATION FFF prostate FFF 3 3||
+324-04||33||His skin is warm and flushed.
+324-04||34||He has got toe amputations.
+324-04||35||Extremities are otherwise unremarkable.
+324-04||36||Neuro exam is nonfocal.
+324-04||37||LABORATORY DATA:  He has got a white count of 14, hematocrit of||INDICATION FFF hematocrit FFF 10 10||
+324-04||38||35, and platelet count 139,000.
+324-04||39||SMA-7 shows bicarbonate of 15 with an anion gap of 15, and a creatinine of 4.7 which is up from his baseline.||INDICATION FFF creatinine FFF 13 13||
+324-04||40||LFTs are otherwise unremarkable.
+324-04||41||A chest x-ray was unremarkable.
+324-04||42||EMERGENCY DEPARTMENT COURSE:  He did get a Foley catheter with
+324-04||43||******** Not reviewed by Attending Physician ********
+324-04||44||obstruction.
+324-04||45||He was given levofloxacin and vancomycin.||DIN FFF levofloxacin FFF 3 3||DIN FFF vancomycin. FFF 5 5||
+324-04||46||He was also given Tylenol.||DBN FFF tylenol. FFF 4 4||
+324-04||47||He got some IV fluids.||DPN FFF iv fluids. FFF 3 4||
+324-04||48||He had an INR of 2.6 which was about baseline.||INDICATION FFF inr FFF 3 3||
+324-04||49||The plan was to admit him to the hospital.

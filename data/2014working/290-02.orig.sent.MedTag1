@@ -1,0 +1,40 @@
+290-02||1||Record date: 2097-11-06
+290-02||2||History of Present Illness
+290-02||3||Asked by Dr.
+290-02||4||Ehlers to consult on glycemic management for Mr. Ulysses Ehlers who has no history of DM but was noted to be hyperglycemic postop. Mr. Ehlers is POD 1, s/p C4. His family history is positive for diabetes (mother diagnosed in her 80s).  He has required a regular insulin gtt protocol intermittently postop. He is now on a full liquid diet.||INDICATION FFF dm FFF 15 15||INDICATION FFF diabetes FFF 36 36||DIN FFF regular insulin FFF 46 47||
+290-02||5||Max BG: 197
+290-02||6||Current BG: 145
+290-02||7||Insulin gtt off at present||DIN FFF insulin FFF 0 0||
+290-02||9||Mr. Ehlers is a 69 yo M h/o CAD s/p MI 2084 (posterolateral), HTN, hyperlipidemia, a-fib, AAA, PVD, smoking (50 pk yr) who presents for CABG.||INDICATION FFF cad FFF 8 8||INDICATION FFF mi FFF 10 10||INDICATION FFF htn, FFF 13 13||INDICATION FFF hyperlipidemia, FFF 14 14||INDICATION FFF pvd, FFF 17 17||
+290-02||10||Initially presented to Bonner General Hospital 9/97 for w/u of exertional chest pain.||INDICATION FFF chest pain. FFF 11 12||
+290-02||11||Cardiac cath was unsuccessful via femoral approach due to presumed aortoiliac occlusion.
+290-02||12||Subsequent cath 10/18/97 revealed left main stenosis with distal occlusion, RCA proximal occlusion and diffuse LAD stenosis.||INDICATION FFF stenosis FFF 6 6||INDICATION FFF stenosis. FFF 16 16||
+290-02||13||Pt was transferred to BHCC on 10/19 for further evaluation by the cardiology service.
+290-02||14||On 10/21 he underwent echo which revealed EF 55% with mild AS.||INDICATION FFF ef FFF 7 7||DOSE FFF 55% FFF 8 8||INDICATION FFF as. FFF 11 11||
+290-02||15||On 10/22, cardiac cath revealed 3 V disease.
+290-02||16||Cardiac surgery was consulted and recommended CABG after medical optimization.||INDICATION FFF surgery FFF 1 1||
+290-02||17||His anginal symptoms remained stable and he was subsequently discharged home on 10/23.||INDICATION FFF symptoms FFF 2 2||
+290-02||18||He now returns for surgical revascularization.
+290-02||19||Since his discharge on 10/23, he has not experienced any new or worsening chest pain or SOB.||INDICATION FFF chest pain FFF 13 14||INDICATION FFF sob. FFF 16 16||
+290-02||20||Denies orthopnea, PND.||INDICATION FFF orthopnea, FFF 1 1||INDICATION FFF pnd. FFF 2 2||
+290-02||21||Preoperative Cardiac Status: Myocardial infarction 2084, requiring hospitalization.||INDICATION FFF myocardial infarction FFF 3 4||
+290-02||22||Myocardial infarction 2084, requiring hospitalization.||INDICATION FFF myocardial infarction FFF 0 1||
+290-02||23||The patient has a history of class I angina (no limitation of ordinary physical activity).||INDICATION FFF angina FFF 8 8||DRT FFF physical activity). FFF 13 14||
+290-02||24||There has been no recent angina.||INDICATION FFF angina. FFF 5 5||
+290-02||25||The patient does not have symptomatic heart failure.||INDICATION FFF heart failure. FFF 6 7||
+290-02||26||The patient is in normal sinus rhythm.
+290-02||27||The patient has a history of AF/flutter||INDICATION FFF af/flutter FFF 6 6||
+290-02||28||Previous Cardiovascular Interventions: None.
+290-02||30||Past Medical History: Hypertension.||INDICATION FFF hypertension. FFF 3 3||
+290-02||31||Peripheral vascular disease 3.6cm abdominal aortic aneurysm .||INDICATION FFF peripheral vascular disease FFF 0 2||INDICATION FFF 3.6cm FFF 3 3||INDICATION FFF aortic aneurysm FFF 5 6||
+290-02||32||Dyslipidemia. CAD Atrial fibrillation BPH Chronic back pain PVD Bicuspid aortic valve, mild AS/AI /Creatinine Clearance (estimate): 77.31 cc/min||INDICATION FFF cad FFF 1 1||INDICATION FFF atrial fibrillation FFF 2 3||INDICATION FFF bph FFF 4 4||INDICATION FFF back pain FFF 6 7||INDICATION FFF pvd FFF 8 8||INDICATION FFF as/ai FFF 13 13||INDICATION FFF /creatinine FFF 14 14||TOD FFF cc/min FFF 18 18||
+290-02||33||Past Surgical History: s/p R inguinal hernia repair
+290-02||35||Family History: Coronary artery disease.||INDICATION FFF coronary artery disease. FFF 2 4||
+290-02||36||Father died of CAD at age 88||INDICATION FFF cad FFF 3 3||
+290-02||37||Social History: History of tobacco use. 50 pack year cigarette smoking history. Used within the last year. History of alcohol use. 1/month. The patient is a Cardiology Technologist.||DOSEAMT FFF 50 pack FFF 6 7||INDICATION FFF alcohol use. FFF 19 20||
+290-02||39||Allergies: Flecanide - unknown||INDICATION FFF allergies: FFF 0 0||
+290-02||41||Medications: lopressor 50 po bid/ ramipril 10 po daily/ aspirin 325 po daily/ atorvastatin 80 po daily/ ezetimbe 10 po daily/||DBN FFF lopressor FFF 1 1||DOSE FFF 50 FFF 2 2||RUT FFF po FFF 3 3||FREQ FFF bid/ FFF 4 4||DIN FFF ramipril FFF 5 5||DOSE FFF 10 FFF 6 6||RUT FFF po FFF 7 7||FREQ FFF daily/ FFF 8 8||DIN FFF aspirin FFF 9 9||DOSE FFF 325 FFF 10 10||RUT FFF po FFF 11 11||FREQ FFF daily/ FFF 12 12||DIN FFF atorvastatin FFF 13 13||DOSE FFF 80 FFF 14 14||RUT FFF po FFF 15 15||FREQ FFF daily/ FFF 16 16||RUT FFF po FFF 19 19||FREQ FFF daily/ FFF 20 20||
+290-02||42||Physical Exam
+290-02||43||100.3-107-18   99% on 4L   155/65||DOSE FFF 99% FFF 1 1||DOSE FFF 4l FFF 3 3||
+290-02||44||Neuro: A&O x3||FREQ FFF x3 FFF 2 2||
+290-02||45||Edema: +BLE edema||INDICATION FFF edema: FFF 0 0||INDICATION FFF edema FFF 2 2||

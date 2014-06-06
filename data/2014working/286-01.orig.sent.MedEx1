@@ -1,0 +1,45 @@
+286-01||1||Record date: 2076-11-11
+286-01||2||OFFICE NOTE
+286-01||5||Esposito, Perla
+286-01||6||#146-55-23-5                                 November 11, 2076
+286-01||8||Has had no exertional chest pains.
+286-01||9||Urinates two to three times a night but not very frequently during the day.
+286-01||10||Ran out of her
+286-01||11||Lopressor yesterday.||DBN FFF lopressor FFF 0 0||
+286-01||12||Continues to have some discomfort in her right buttock radiating down the side of her leg.
+286-01||13||Not happy with the orthotics that were given her for her arch pain because she can only use them with bulkier shoes.
+286-01||14||Has had some right shoulder discomfort.
+286-01||16||Meds:  Procardia XL 120 mg. q.d.  Aspirin 325 mg. q.d.  Lopressor||DBN FFF procardia xl FFF 1 2||DOSE FFF 120 mg. FFF 3 4||FREQ FFF q.d. FFF 5 5||
+286-01||16||Meds:  Procardia XL 120 mg. q.d.  Aspirin 325 mg. q.d.  Lopressor||DIN FFF aspirin FFF 6 6||DOSE FFF 325 mg. FFF 7 8||FREQ FFF q.d. FFF 9 9||
+286-01||16||Meds:  Procardia XL 120 mg. q.d.  Aspirin 325 mg. q.d.  Lopressor||DBN FFF lopressor FFF 10 10||
+286-01||17||100 mg. b.i.d.  Micronase 5 mg. q.d.||DBN FFF micronase FFF 3 3||DOSE FFF 5 mg. FFF 4 5||FREQ FFF q.d. FFF 6 6||
+286-01||19||W. 141.  176/90 in the left arm, 178/90 in the right.  80.  Good
+286-01||20||range of motion of the right shoulder.
+286-01||21||There is some crepitance over the AC joint.
+286-01||22||No subdeltoid or bicipital tendon tenderness.
+286-01||23||Full range of motion.
+286-01||24||Lungs are clear.
+286-01||25||Soft, positive S4.  No pedal edema.
+286-01||26||1.  CAD.  Doing well without angina.
+286-01||28||2.  Hypertension.  I renewed her Lopressor.||INDICATION FFF hypertension. FFF 1 1||DBN FFF lopressor. FFF 5 5||
+286-01||29||Will recheck this after she has been taking both medications faithfully.
+286-01||31||3.  Diabetes.
+286-01||32||Will check a glucose today and I renewed her
+286-01||33||Micronase.||DBN FFF micronase. FFF 0 0||
+286-01||35||4.  Question right sciatica.
+286-01||36||She is not interested in any invasive therapy so we will not pursue imaging at this time.
+286-01||37||She had a negative CT in 2073.  I put her on 400 mg. of Motrin three times a day.||DBN FFF motrin FFF 14 14||FREQ FFF three times a day. FFF 15 18||
+286-01||39||5.  Arch pain.
+286-01||40||This is clearly not that bothersome that she feels that it is more important to wear lighter shoes.
+286-01||42||6.  Right shoulder pain.
+286-01||43||She may have some mild rotator cuff tendinitis.
+286-01||44||We discussed the importance of not overusing this shoulder and avoiding lifting anything heavier than a coffee cup.
+286-01||45||Motrin 400 mg. t.i.d. on a full stomach.  I showed her some range||DBN FFF motrin FFF 0 0||DOSE FFF 400 mg. FFF 1 2||FREQ FFF t.i.d. FFF 3 3||
+286-01||46||of motion exercises.
+286-01||50||Ulises J. Kelley, M.D.
+286-01||52||/dalton
+286-01||53||Esposito, Perla
+286-01||54||#146-55-23-5                  - 2 -          November 11, 2076
+286-01||56||DD: 11/11/76
+286-01||57||DT: 11/19/76
+286-01||58||DV: 11/11/76

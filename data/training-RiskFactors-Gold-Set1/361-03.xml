@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2066-05-09
+
+
+EDUCARE-FARGO INPATIENT DIALYSIS ADMIT NOTE
+
+
+
+Admitting Service: Renal
+Admitting/Referring MD: Oliver Napier 
+Outpatient Dialysis Unit: CMHuck FAT
+Estimated dry weight: 110 kg ?
+Dialysis access:  LAVG
+ 
+Reason for admission:N/V/D
+ 
+HPI: 45 yo M with ESRD on HD, diabetes, bilateral TMA, legally blind, admitted for N/V/D x 1 day prior to admission.  The patient reports having beef burgers that may have been the cause of his GI upset.  All sx resolved after being NPO w/ so IVF overnight, no more diarrhea.  Denies F/C/SOB/CP, had occ abd pain which resolved. Starting to advance his diet slowly this am.  Last dialysis was on Friday.
+
+
+Past Medical History: 
+ESRD on HD x 2yrs
+Type 1 DM since age 25 - +legally blind, PVD, nephropathy
+bilateral TMA
+
+
+Vascular access history: L AVG, tunneled catheter before that
+ 
+Allergies: NKDA
+Medications: (per report, can not confirm w/ pt as he does not know them) Celexa 40mg daily, Zelnorm 6mg bid, ASA 81mg daily, Lipitor 20mg qhs, Phoslo 1334mg qac, Gemfibrozil 300mg bid, Insulin, Lisinopril 40mg daily, Reglan, Toprol XL 50mg daily, Nephrocaps, Omeprazole 20mg daily, Senna, Renagel 1600mg qac, Sensipar 30mg daily
+
+
+
+
+Social History:  neg tob, neg EtOH, lives w/ elderly diabetic mother, poor social supports
+ 
+Family History: Mother also with diabetes/debilitated 
+
+
+PHYSICAL EXAM
+
+Weight: 113 kg
+Temp: 96.8
+BP: 200/90
+HR: 95
+ 
+Gen: Pleasant male in NAD
+HEENT: O&amp;P clear and moist
+Neck: supple, no LAD, JVP 10cm
+Lungs: CTA b/l
+Cor: regular, s1s2, no m/r/g
+Abd: soft, NTND, no HSM
+Ext: no edema in LE b/l, bilateral TMAs.
+Vascular access: site clean and without inflammation, systolic and diastolic bruit present
+ 
+
+LABS:
+
+
+pending this am
+
+
+ASSESSMENT AND PLAN:
+
+45 yo M with ESRD from DM, now admitted for GI upset, resolved.
+
+
+1. Reason for admission: N/V/D, resolved, the pt is now hungry and wants to advance his diet, so this illness truly seems to be self-limited, would advance diet slowly, diabetic renal diet please.
+
+
+
+2. Dialysis Adequacy: tbd
+
+
+3. BP: Suspect that this is a combination of held medication this am (and poor complainace? he does not know his meds) and volume overload.  UF 3-4L at HD today.
+
+
+4. Anemia management: Hgb below goal, on epogen.
+
+
+5. Mineral metabolism (Ca/Phos/PTH): continuing zemplar, phos binders, check phos today.
+
+
+6. Nutrition: On nephrocaps, needs low K/phos diabetic diet.
+
+
+7. Vascular access: AVG functioning well.
+ 
+8. Dialysis prescription: 4.5 h, F200, 400/800, 2K, 2.5Ca, 5L UF, 5000Units heparin.
+ 
+ 
+Dr. Napier to staff shortly.
+ 
+ 
+ 
+ 
+
+
+------------------------
+Olivia France, M.D.
+Renal fellow
+pager 69637
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="fibrate" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC11" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC12" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC14" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC15" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC17" time="during DCT" type1="fibrate" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC19" time="before DCT" type1="fibrate" type2=""/>
+    <MEDICATION id="DOC20" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC22" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="high bp"/>
+    <FAMILY_HIST id="DOC21" indicator="not present"/>
+    <SMOKER id="DOC16" status="never"/>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC10" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC23" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

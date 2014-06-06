@@ -1,0 +1,91 @@
+221-05||1||Record date: 2093-07-04
+221-05||2||CARDIOLOGY
+221-05||4||KELLIHER CARE CENTER
+221-05||6||Reason for visit:
+221-05||7||s/p cerebral angiogram w/ placement stent to left carotid
+221-05||8||Interval History:
+221-05||9||The patient is a 68 yo male w/ hx TIA '82.||INDICATION FFF tia FFF 9 9||
+221-05||10||Since then, he has had no further subsequent events, but was recently diagnosed with a left-sided carotid artery bruit.
+221-05||11||CNI's revealed 70% to 89% left internal carotid artery stenosis and he was therefore referred for cerebral angiography.||DOSE FFF 70% FFF 2 2||DOSE FFF 89% FFF 4 4||INDICATION FFF stenosis FFF 9 9||
+221-05||12||He is now admitted to the Cardilogy Unit s/p sucesful placement of Xact stent.||INDICATION FFF stent. FFF 13 13||
+221-05||13||He arrived on Wllison 11 pain free and hemodynamically stable.||INDICATION FFF pain FFF 5 5||
+221-05||14||Past medical history:
+221-05||15||TIA '82||INDICATION FFF tia FFF 0 0||
+221-05||16||Coronary artery disease||INDICATION FFF coronary artery disease FFF 0 2||
+221-05||17||Hypertension.||INDICATION FFF hypertension. FFF 0 0||
+221-05||18||Hyperlipidemia.||INDICATION FFF hyperlipidemia. FFF 0 0||
+221-05||19||Gastroesophageal reflux disease.||INDICATION FFF gastroesophageal reflux disease. FFF 0 2||
+221-05||20||Asthma||INDICATION FFF asthma FFF 0 0||
+221-05||21||Anxiety||INDICATION FFF anxiety FFF 0 0||
+221-05||22||BPH||INDICATION FFF bph FFF 0 0||
+221-05||23||Medications (Confirmed):
+221-05||25||Advair  500/50mcg spray inh bid||DBN FFF advair FFF 0 0||DOSE FFF 500/50mcg FFF 1 1||RUT FFF inh FFF 3 3||FREQ FFF bid FFF 4 4||
+221-05||26||atenolol  50mg po daily||DIN FFF atenolol FFF 0 0||DOSE FFF 50mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF daily FFF 3 3||
+221-05||27||Cozaar  50 mg qd||DBN FFF cozaar FFF 0 0||DOSE FFF 50 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+221-05||28||enteric coated aspirin  325 mg qd||DBN FFF enteric coated aspirin FFF 0 2||DOSE FFF 325 mg FFF 3 4||FREQ FFF qd FFF 5 5||
+221-05||29||Lipitor  10 mg qd||DBN FFF lipitor FFF 0 0||DOSE FFF 10 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+221-05||30||Nexium  40 mg qhs||DBN FFF nexium FFF 0 0||DOSE FFF 40 mg FFF 1 2||FREQ FFF qhs FFF 3 3||
+221-05||31||Norvasc  2.5 mg qd||DBN FFF norvasc FFF 0 0||DOSE FFF 2.5 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+221-05||32||Plavix  75mg po daily||DBN FFF plavix FFF 0 0||DOSE FFF 75mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF daily FFF 3 3||
+221-05||33||terazosin  2 mg qd||DIN FFF terazosin FFF 0 0||DOSE FFF 2 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+221-05||34||Valium  2mg po bid PRN||DBN FFF valium FFF 0 0||DOSE FFF 2mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF bid FFF 3 3||NEC FFF prn FFF 4 4||
+221-05||35||Zantac  150 mg qam||DBN FFF zantac 150 FFF 0 1||FREQ FFF qam FFF 3 3||
+221-05||36||Allergies:||INDICATION FFF allergies: FFF 0 0||
+221-05||38||Drug reaction   Demerol ~ bradycardia||DBN FFF demerol FFF 2 2||INDICATION FFF bradycardia FFF 4 4||
+221-05||39||Social history:
+221-05||40||Divorced, adult children, lives in Winston-salem Nv, works in economics
+221-05||41||Tobacco: None
+221-05||42||ETOH:1-2 beers/week
+221-05||43||Diet:Follows Weight Watchers diet||INDICATION FFF weight FFF 1 1||
+221-05||44||Exercise:Walks daily, treadmill 2 x/week||FREQ FFF daily, FFF 1 1||
+221-05||45||Review of systems:
+221-05||46||chronic anxiety well controlled w/ Valium, occ headache, + BPH symptoms w/ 2-3 x nocturia otherwise negative in detail.||INDICATION FFF anxiety FFF 1 1||DBN FFF valium, FFF 5 5||INDICATION FFF headache, FFF 7 7||INDICATION FFF bph FFF 9 9||INDICATION FFF symptoms FFF 10 10||
+221-05||47||Physical examination:
+221-05||49||-BMI: 26.6  Overweight, moderate risk||INDICATION FFF risk FFF 4 4||
+221-05||50||-Pulse: 50
+221-05||51||-weight: 185  lbs.||INDICATION FFF -weight: FFF 0 0||
+221-05||52||-General:   No acute distress.
+221-05||53||-Skin:   No rashes, anicteric.
+221-05||54||-Neck:   Carotids 2+ without bruits.
+221-05||55||JVP flat, no jugular venous distention. -Chest:   Clear to auscultation anteriorly
+221-05||56||-Cardiac:   Regular rate and rhythm with a normal S1 and S2.
+221-05||57||There is no evidence of S3 or S4.
+221-05||58||There is no evidence of significant murmurs, rubs, or gallops -Abdomen:   Soft, nontender, and nondistended.
+221-05||59||There is no evidence of hepatosplenomegaly or palpable masses.
+221-05||60||No evidence of epigastric bruits -Extremities:   Reveal 2+ femoral artery pulses without any evidence of bruits.
+221-05||61||There is also bilateral 2+ popliteal and PT pulses.
+221-05||62||There is no evidence of clubbing, cyanosis, or edema -Neuro:   No focal deficits -BP: 138/69    -resp. rate: 16   -height: 70  in.||INDICATION FFF cyanosis, FFF 6 6||INDICATION FFF edema FFF 8 8||INDICATION FFF -bp: FFF 13 13||
+221-05||63||-temp:
+221-05||64||Selected recent labs:
+221-05||65||Metabolic
+221-05||66||Date     NA       K        CL       CO2      BUN      CRE      GLU      CA||DIN FFF na FFF 1 1||INDICATION FFF k FFF 2 2||INDICATION FFF cl FFF 3 3||DIN FFF glu FFF 7 7||INDICATION FFF ca FFF 8 8||
+221-05||67||07/03/93 141      4.3      104      26.6     19       1.1      200      9.4
+221-05||68||Lipid/Thyroid
+221-05||69||Date     CHOL     TRIG     HDL      LDL||INDICATION FFF ldl FFF 4 4||
+221-05||70||07/03/93 145      276      37       53
+221-05||71||Hematology
+221-05||72||Date     HCT      WBC      PLT
+221-05||73||07/03/93 38.7     5.6      155
+221-05||74||Immunology
+221-05||75||Date     HGBA1C
+221-05||76||01/02/93 7.20
+221-05||78||Assessment and plan:
+221-05||79||68 yo male w/ hx CAD, HTN, remote TIA w/ recently discovered asymptomatic left carotid stenosis now s/p sucesfull stnet placement.||INDICATION FFF cad, FFF 5 5||INDICATION FFF htn, FFF 6 6||INDICATION FFF tia FFF 8 8||INDICATION FFF stenosis FFF 15 15||
+221-05||80||Neuro:Stable, continue ASA/plavix
+221-05||81||CV:Continue current medical regimen, monitoring for bradycardai/hypotension.||DBN FFF medical regimen, FFF 2 3||INDICATION FFF bradycardai/hypotension. FFF 6 6||
+221-05||82||HLD:Continue current regimen, triglycerides elevated ? r/t DM as HgbA1c was elevated in january, will recheck, consider adding niaspan||DIN FFF triglycerides FFF 3 3||INDICATION FFF r/t FFF 6 6||INDICATION FFF dm FFF 7 7||INDICATION FFF as FFF 8 8||DBN FFF niaspan FFF 18 18||
+221-05||83||?DM:Recheck HgbA1c, cover w/ RISS as needed, nutrition consult for diet education, concider adding gliburide.||NEC FFF as needed, FFF 5 6||DBN FFF gliburide. FFF 14 14||
+221-05||84||Further per Dr Villa
+221-05||85||Changes to Medications this visit
+221-05||87||atenolol 50mg  po daily||DIN FFF atenolol FFF 0 0||DOSE FFF 50mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF daily FFF 3 3||
+221-05||88||terazosin 2 mg   qd||DIN FFF terazosin FFF 0 0||DOSE FFF 2 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+221-05||89||Norvasc 2.5 mg   qd||DBN FFF norvasc FFF 0 0||DOSE FFF 2.5 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+221-05||90||Cozaar 50 mg   qd||DBN FFF cozaar FFF 0 0||DOSE FFF 50 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+221-05||91||Lipitor 10 mg   qd||DBN FFF lipitor FFF 0 0||DOSE FFF 10 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+221-05||92||Zantac 150 mg   qam||DBN FFF zantac 150 FFF 0 1||FREQ FFF qam FFF 3 3||
+221-05||93||Nexium 40 mg   qhs||DBN FFF nexium FFF 0 0||DOSE FFF 40 mg FFF 1 2||FREQ FFF qhs FFF 3 3||
+221-05||94||enteric coated aspirin 325 mg   qd||DBN FFF enteric coated aspirin FFF 0 2||DOSE FFF 325 mg FFF 3 4||FREQ FFF qd FFF 5 5||
+221-05||95||Valium 2mg  po bid PRN||DBN FFF valium FFF 0 0||DOSE FFF 2mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF bid FFF 3 3||NEC FFF prn FFF 4 4||
+221-05||96||Advair 500/50mcg spray  inh bid Start: 07/04/2093||DBN FFF advair FFF 0 0||DOSE FFF 500/50mcg FFF 1 1||RUT FFF inh FFF 3 3||FREQ FFF bid FFF 4 4||
+221-05||97||Plavix 75mg  po daily Start: 07/04/2093||DBN FFF plavix FFF 0 0||DOSE FFF 75mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF daily FFF 3 3||
+221-05||99||Queen F. Hodge, NP pager #78686||INDICATION FFF f. FFF 1 1||INDICATION FFF np FFF 3 3||

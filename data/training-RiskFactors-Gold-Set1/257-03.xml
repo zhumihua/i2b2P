@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2097-05-30
+
+CARDIAC SURGERY
+ELIZABETHTOWN STATE HOSPITAL
+
+Narrative Note:
+   May 30, 2097
+
+
+Re:  Verna Cantu
+ESH #:033-98-74
+
+
+I had the pleasure of seeing Verna and her daughter in my office today after her aortic valve replacement with a 19 mm Magna Ease, aortic root enlargement, and two-vessel coronary bypass grafting with a LIMA to the LAD and a saphenous vein to the posterior left ventricular branch.  
+
+As you know, she is a 60-year-old woman with a history of peripheral arterial disease, aortic stenosis, diabetes, hypertension, hyperlipidemia, and coronary artery disease who has had progressive dyspnea on exertion especially with walking up into her house which is 25 stairs.  We did her surgery, and she had a very uneventful postoperative course.  
+
+She was discharged home on postoperative day seven and has continued to make progress.  She is walking each day.  Her medications include 5 mg of Norvasc, 25 mg of Toprol-XL, 20 mg of simvastatin and an aspirin and her Plaquenil.  She has no complaints of pain.  She is eating well.  She is sleeping well.  Her incisions have healed nicely.  Her sternum is stable, and she has no murmurs.  Overall, I am extremely pleased with her progress.  I told her to suggest to you that she was interested in cardiac rehab which she should be able to start in the next week or two.
+
+Thank you so much for the opportunity of caring for her.
+
+
+Norma Gonzalez, M.D.
+
+
+cc:Holly Xavia Avalos, M.D.
+Jackson X. Triplett, M.D.
+
+
+
+Transcribed by: Julie L Cobb
+
+Signed electronically by  Norma C. Gonzalez, MD
+Document Status: Final
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC3" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC6" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC16" time="after DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC7" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC8" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC14" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC22" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC24" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC25" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC23" time="before DCT" indicator="mention"/>
+    <CAD id="DOC15" time="after DCT" indicator="mention"/>
+    <CAD id="DOC17" time="during DCT" indicator="mention"/>
+    <CAD id="DOC21" time="before DCT" indicator="event"/>
+    <CAD id="DOC26" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC19" indicator="not present"/>
+    <SMOKER id="DOC11" status="unknown"/>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC12" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC20" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

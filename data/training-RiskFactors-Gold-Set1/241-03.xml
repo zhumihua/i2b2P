@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2075-10-05
+
+                     MEC EMERGENCY DEPT VISIT
+ 
+OLIVIER,CHRISTINE   652-33-21-5                     VISIT DATE: 10/05/75
+PRESENTING COMPLAINT:  Chest pain. 
+HISTORY OF PRESENTING COMPLAINT:  The resident's note was reviewed, 
+and the patient seen and examined on arrival.  This is a 
+65-year-old female status post multiple angioplasties and stent 
+placement.  She had recurrence of her typical angina at home, took 
+three nitroglycerin with minimal relief, and activated the 911 
+system.  Her pre-hospital electrocardiogram shows a small amount of 
+ST depression, perhaps 1 mm, and flattening V3-V6.  This is 
+comparable to a previous electrocardiogram in October, which may 
+have been her most recent presentation with ischemia.  She was 
+given aspirin and nitroglycerin, and continued to have pain in the 
+Emergency Department.  The total duration of pain was approximately 
+two hours. 
+PHYSICAL EXAMINATION:  Her vital signs remained stable. 
+LABORATORY EVALUATION:  Her initial enzymes were flat. 
+THERAPY RENDERED/COURSE IN ED:  She is being taken to the Cardiac 
+Catheterization Laboratory for an urgent study to rule out acute 
+coronary syndrome. 
+FINAL DIAGNOSIS:  Rule out unstable angina. 
+DISPOSITION (including condition upon discharge):  The patient is 
+taken to the Cardiac Catheterization Laboratory.  The condition at 
+the time of this dictation is favorable. 
+___________________________________                    FK981/1979 
+RONNIE PALMER, M.D.  RP400                           D:10/05/75 
+                                                       T:10/05/75 
+Dictated by:  RONNIE PALMER, M.D.  RP400 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC4" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC5" time="during DCT" type1="nitrate" type2=""/>
+    <CAD id="DOC1" time="before DCT" indicator="event"/>
+    <FAMILY_HIST id="DOC2" indicator="not present"/>
+    <SMOKER id="DOC3" status="unknown"/>
+  </TAGS>
+</root>

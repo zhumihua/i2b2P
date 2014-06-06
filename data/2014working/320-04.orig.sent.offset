@@ -1,0 +1,4 @@
+320-04	11	0	She was treated with streptomycin IM q daily x 2 weeks,and concurrent doxycycline 100 mg po bid plus rifampin 300 mg po tid.	streptomycin FFF 4 4	 FFF 	im FFF 5 5	q daily FFF 6 7	x 2 weeks,and FFF 8 10	 FFF 	narrative
+320-04	11	0	She was treated with streptomycin IM q daily x 2 weeks,and concurrent doxycycline 100 mg po bid plus rifampin 300 mg po tid.	doxycycline FFF 12 12	100 mg FFF 13 14	po FFF 15 15	bid FFF 16 16	 FFF 	 FFF 	narrative
+320-04	11	0	She was treated with streptomycin IM q daily x 2 weeks,and concurrent doxycycline 100 mg po bid plus rifampin 300 mg po tid.	rifampin FFF 18 18	300 mg FFF 19 20	po FFF 21 21	tid. FFF 22 22	 FFF 	 FFF 	narrative
+320-04	38	0	Cor   S1 S2, no murmurs, no peripheral stigmata of endocarditis	cor FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

@@ -1,0 +1,84 @@
+270-01	1	Record date: 2097-01-27	
+270-01	2	RENAL FELLOW CONSULTATION NOTE	
+270-01	3	PATIENT:	
+270-01	4	WHITAKER, VINCENT	
+270-01	5	UNIT#:	
+270-01	6	29964344	
+270-01	7	ADMIT DATE:	
+270-01	8	1/26/97	
+270-01	9	ATTENDING:	
+270-01	10	Dr. Noor Uyeda	
+270-01	11	Source:	
+270-01	12	Notes	
+270-01	13	Reason for consult: Acute on chronic renal failure		INDICATION FFF chronic renal failure#7
+270-01	14	HPI: 65 y/o man with PMH of stage IV CKD, HTN, CAD, RAS, DM, who was admitted to the CCU on 1/26 after an episode of bradycardia and PEA arrest at home.		RUT FFF iv#8	INDICATION FFF htn#10	INDICATION FFF cad#11	INDICATION FFF dm#13	INDICATION FFF bradycardia#26
+270-01	15	Pt was found by his wife yesterday to be complaining of severe chest pain and SOB.		INDICATION FFF chest pain#13	INDICATION FFF sob#15
+270-01	16	She called EMS.		INDICATION FFF ems#2
+270-01	17	Upon arrival of EMS, pt was in respiratory distress and bradycardic with a HR in the 20s.		INDICATION FFF ems#3	DRT FFF a hr#13
+270-01	18	He was intubated.	
+270-01	19	He subsequently became puloseless and asystolic and was coded for about 10 minutes with 3 rounds of epinephrine and atropine before he regained his pulse.		INDICATION FFF asystolic#5	DIN FFF epinephrine#17	DIN FFF atropine#19
+270-01	20	In the ED, his BP was 230/120 and he was started on a nitro gtt.		INDICATION FFF ed#2	INDICATION FFF his bp#4
+270-01	21	He was noted to have blood in his OG tube.		RUT FFF tube#9
+270-01	22	CXR showed bilateral patchy infiltrates consistent with pulmonary edema.		INDICATION FFF pulmonary edema#8
+270-01	23	Chest CT showed multiple rib fractures with substernal hematoma and bilateral modest pleural effusions with adjacent atelectasis vs consolidations.		INDICATION FFF ct#1	INDICATION FFF pleural effusions#13	INDICATION FFF atelectasis#16
+270-01	24	On admission, pt&#8217;s BUN and creatinine were 43 and 4.35, respectively.		INDICATION FFF creatinine#5
+270-01	25	He was started on a lasix gtt for diuresis without a good response.		DBN FFF lasix#5	INDICATION FFF diuresis#8
+270-01	26	His Cr started to rise: 4.6 &#224; 4.9 &#224; 5.4 &#224; 5.33 &#224; 6.3 &#224; 7.0.		DIN FFF rise#4
+270-01	27	His urine output continued to be poor, and renal consult was called.	
+270-01	28	MEDICAL HISTORY:	
+270-01	29	Stage IV CKD		RUT FFF iv#1
+270-01	30	Right-sided RAS	
+270-01	31	HTN		INDICATION FFF htn#0
+270-01	32	CAD		INDICATION FFF cad#0
+270-01	33	DM		INDICATION FFF dm#0
+270-01	34	Anemia		INDICATION FFF anemia#0
+270-01	35	GERD		INDICATION FFF gerd#0
+270-01	36	Impotence		INDICATION FFF impotence#0
+270-01	37	MEDICATIONS:	
+270-01	38	Versed gtt		DBN FFF versed#0
+270-01	39	Propofol gtt		DIN FFF propofol#0
+270-01	40	Fentanyl gtt		DIN FFF fentanyl#0
+270-01	41	Heparin 5000 units Q8h		DIN FFF heparin#0	DOSEAMT FFF 5000 units#2	FREQ FFF q8h#3
+270-01	42	Levofloxacin 250mg IV Q48h		DIN FFF levofloxacin#0	DOSE FFF 250mg#1	RUT FFF iv#2	FREQ FFF q48h#3
+270-01	43	Flagyl 250mg IV Q8h		DBN FFF flagyl#0	DOSE FFF 250mg#1	RUT FFF iv#2	FREQ FFF q8h#3
+270-01	44	ASA 325mg daily		DIN FFF asa#0	DOSE FFF 325mg#1	FREQ FFF daily#2
+270-01	45	Pepcid 20mg IV daily		DBN FFF pepcid#0	DOSE FFF 20mg#1	RUT FFF iv#2	FREQ FFF daily#3
+270-01	46	Colace 100mg BID		DBN FFF colace#0	DOSE FFF 100mg#1	FREQ FFF bid#2
+270-01	47	Tylenol PRN		DBN FFF tylenol#0	NEC FFF prn#1
+270-01	48	Maalox PRN		DBN FFF maalox#0	NEC FFF prn#1
+270-01	49	Mucomyst 1200mg BID x 4 doses		DBN FFF mucomyst#0	DOSE FFF 1200mg#1	FREQ FFF bid#2	DRT FFF x 4 doses#5
+270-01	50	ALLERGIES:  NKDA		INDICATION FFF allergies#0
+270-01	51	SOCIAL HISTORY:	
+270-01	52	Tobacco &#8211; Denies	
+270-01	53	EtOH &#8211; Denies	
+270-01	54	Illicits &#8211; Denies	
+270-01	55	Lives with wife and 4 children	
+270-01	56	PHYSICAL EXAM:	
+270-01	57	VITALS:	
+270-01	58	T 99.7, pulse 58, BP 120/60, CVP 9		INDICATION FFF t#0	INDICATION FFF bp#4
+270-01	59	Vent: AC 14 x 600 / 40% / +5		TOD FFF ac#1	DOSE FFF 40%#6
+270-01	60	U/O: 0-30cc/hr		DOSE FFF 0-30cc / hr#1
+270-01	61	GEN:	
+270-01	62	Intubated and sedated		INDICATION FFF sedated#2
+270-01	63	HEENT:	
+270-01	64	Atraumatic	
+270-01	65	NECK:	
+270-01	66	Right IJ central line.	
+270-01	67	HEART:	
+270-01	68	RRR, S1S2 normal, no M/R/G		DIN FFF m / r#4
+270-01	69	LUNG:	
+270-01	70	Coarse vented breath sounds	
+270-01	71	ABD:	
+270-01	72	Soft, NT, ND	
+270-01	73	EXT:	
+270-01	74	Trace edema		INDICATION FFF trace edema#1
+270-01	75	SKIN:	
+270-01	76	No rashes	
+270-01	77	NEURO:	
+270-01	78	Unable to assess	
+270-01	79	LAB RESULTS:	
+270-01	80	CBC: WBC 9.1, Hgb 7.9, plts 188k		INDICATION FFF k#6
+270-01	81	BCP: Na 136, K 5.2, Cl 106, HCO3 18, BUN 68, Cr 7.0, glucose 139		DOSE FFF 136#2	INDICATION FFF k#3	INDICATION FFF cl#5	DIN FFF hco3#7	DOSE FFF 18#8
+270-01	82	Ca 7.9, Mg 2.4		INDICATION FFF ca#0
+270-01	83	Coags: INR 1.2, PTT 28.6		INDICATION FFF inr#1	INDICATION FFF ptt#3
+270-01	84	ABG: 7.33 / 37 / 171	

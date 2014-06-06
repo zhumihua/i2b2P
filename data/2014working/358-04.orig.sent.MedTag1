@@ -1,0 +1,36 @@
+358-04||1||Record date: 2081-10-07
+358-04||2||Ms. Greenwood is a 50yo F with DM, HTN, hidradenitis, hyperlipidemia and obesity who presents for routine follow-up.||INDICATION FFF f FFF 5 5||INDICATION FFF dm, FFF 7 7||INDICATION FFF htn, FFF 8 8||INDICATION FFF hyperlipidemia FFF 10 10||INDICATION FFF obesity FFF 12 12||
+358-04||3||Since her last visit, she has been to the Windsor Hospital where she was started on "sea kelp" lotion for hidradenitis and was told to bathe in salt water and keep the affected areas moist.||DIN FFF salt FFF 27 27||
+358-04||4||No longer taking levofloxacin.||DIN FFF levofloxacin. FFF 3 3||
+358-04||5||She is encouraged about this new treatment.
+358-04||6||These doctors recommended losing 50 lbs, which could help her condition as well.||INDICATION FFF as FFF 11 11||
+358-04||7||Because of this, she has been to see the nutritionist today and is eager to lose 40lb.
+358-04||8||Diabetes: as her sugars have been high, she self increased metformin to BID.||INDICATION FFF diabetes: FFF 0 0||INDICATION FFF as FFF 1 1||DIN FFF metformin FFF 10 10||FREQ FFF bid. FFF 12 12||
+358-04||9||Has not noticed any side effects.
+358-04||10||Would like her sugars checked today.
+358-04||11||Social Stressors: her husband will be released from jail in November.
+358-04||12||She intends to move prior to his release.
+358-04||13||Still involved with psychiatry and passageways.
+358-04||14||Uses ativan up to 4 times a day for anxiety.||DBN FFF ativan FFF 1 1||FREQ FFF 4 times a day FFF 4 7||INDICATION FFF anxiety. FFF 9 9||
+358-04||15||Had her meds confiscated by security at Chariton airport as her PICH last name does not match her drivers license.||INDICATION FFF as FFF 9 9||
+358-04||16||Trauma: attacked by her cat 5 days ago on her left wrist--using topical antibiotics obtained at Montgomery Infirmary ED.||INDICATION FFF trauma: FFF 0 0||DRT FFF 5 days FFF 5 6||RUT FFF topical FFF 12 12||DIN FFF antibiotics FFF 13 13||INDICATION FFF ed. FFF 18 18||
+358-04||17||SHx: volunteering for Computer Sciences Corporation and enjoying the work.
+358-04||18||Smoking has decreased to 4 per day.||FREQ FFF per day. FFF 5 6||
+358-04||19||Home phone # 249-007-9762
+358-04||20||Medications
+358-04||21||Colace (DOCUSATE Sodium) 100 MG (100MG TABLET take 1) PO TID||DBN FFF colace FFF 0 0||DOSE FFF 100 mg FFF 3 4||DOSE FFF (100mg FFF 5 5||RUT FFF po FFF 9 9||FREQ FFF tid FFF 10 10||
+358-04||22||Oxycontin (OXYCODONE Controlled Release) 10 MG (10MG TAB.SR 12H take 1) PO BID x 10 days||DBN FFF oxycontin FFF 0 0||DOSE FFF 10 mg FFF 4 5||DOSE FFF (10mg FFF 6 6||DRT FFF 12h FFF 8 8||RUT FFF po FFF 11 11||FREQ FFF bid FFF 12 12||DRT FFF x 10 days FFF 13 15||
+358-04||23||LISINOPRIL 40 MG (40MG TABLET take 1) PO QD x 30 days||DIN FFF lisinopril FFF 0 0||DOSE FFF 40 mg FFF 1 2||DOSE FFF (40mg FFF 3 3||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||DRT FFF 30 days FFF 10 11||
+358-04||24||Zocor (SIMVASTATIN) 80 MG (80MG TABLET take 1) PO QHS x 30 days, if you develop muscle pain or weakness, stop the drug immediately and call your doctor.||DBN FFF zocor FFF 0 0||DOSE FFF 80 mg FFF 2 3||DOSE FFF (80mg FFF 4 4||RUT FFF po FFF 8 8||FREQ FFF qhs FFF 9 9||DRT FFF 30 days, FFF 11 12||INDICATION FFF pain FFF 17 17||
+358-04||25||Glucotrol Xl (GLIPIZIDE Xl) 5 MG (5MG TAB SR OSM take 1) PO QD||DBN FFF glucotrol xl FFF 0 1||DOSE FFF 5 mg FFF 4 5||DOSE FFF (5mg FFF 6 6||DIN FFF osm FFF 9 9||RUT FFF po FFF 12 12||FREQ FFF qd FFF 13 13||
+358-04||26||METFORMIN 500 MG (500MG TABLET take 1) PO QD -->BID||DIN FFF metformin FFF 0 0||DOSE FFF 500 mg FFF 1 2||DOSE FFF (500mg FFF 3 3||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||FREQ FFF -->bid FFF 9 9||
+358-04||27||HYDROCHLOROTHIAZIDE 25 MG (25MG TABLET take 1) PO QD x 30 days||DIN FFF hydrochlorothiazide FFF 0 0||DOSE FFF 25 mg FFF 1 2||DOSE FFF (25mg FFF 3 3||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||DRT FFF 30 days FFF 10 11||
+358-04||28||Toprol Xl (METOPROLOL Succinate Extended Release) 50 MG (50MG TAB.SR 24H take 1) PO QD x 30 days||DPN FFF toprol xl FFF 0 1||DOSE FFF 50 mg FFF 6 7||DOSE FFF (50mg FFF 8 8||DRT FFF 24h FFF 10 10||RUT FFF po FFF 13 13||FREQ FFF qd FFF 14 14||DRT FFF 30 days FFF 16 17||
+358-04||29||Celexa (CITALOPRAM) 20 MG (20MG TABLET take 1) PO QD x 30 days, take 1/2 tab x 4 days and then take one tablet daily||DBN FFF celexa FFF 0 0||DOSE FFF 20 mg FFF 2 3||DOSE FFF (20mg FFF 4 4||RUT FFF po FFF 8 8||FREQ FFF qd FFF 9 9||DRT FFF 30 days, FFF 11 12||DOSEAMT FFF 1/2 tab FFF 14 15||DRT FFF x 4 days FFF 16 18||DOSEAMT FFF one tablet FFF 22 23||FREQ FFF daily FFF 24 24||
+358-04||30||Percocet 5 Mg/325 Mg  (OXYCODONE 5 Mg/acetaminophen 325 Mg) 1-2 TAB PO Q4-6H x 11 days||DBN FFF percocet FFF 0 0||DOSE FFF 5 mg/325 mg FFF 1 3||DIN FFF mg/acetaminophen FFF 6 6||DOSE FFF 325 mg) FFF 7 8||DOSEAMT FFF 1-2 tab FFF 9 10||RUT FFF po FFF 11 11||FREQ FFF q4-6h FFF 12 12||DRT FFF 11 days FFF 14 15||
+358-04||31||Clindamycin 1% Gel 1 APPLICATION (1% GEL ) TOP BID x 21 days, please apply to affected areas twice a day||DIN FFF clindamycin FFF 0 0||DOSE FFF 1% FFF 1 1||DOSEAMT FFF 1 application FFF 3 4||DOSE FFF (1% FFF 5 5||RUT FFF top FFF 8 8||FREQ FFF bid FFF 9 9||DRT FFF 21 days, FFF 11 12||FREQ FFF twice a day FFF 18 20||
+358-04||32||OXYCODONE 5 MG (5MG TABLET take 1) PO Q6H PRN pain , to be alternated with percocet to minimize tylenol dose||DIN FFF oxycodone FFF 0 0||DOSE FFF 5 mg FFF 1 2||DOSE FFF (5mg FFF 3 3||RUT FFF po FFF 7 7||FREQ FFF q6h FFF 8 8||NEC FFF prn FFF 9 9||INDICATION FFF pain FFF 10 10||DBN FFF percocet FFF 16 16||DBN FFF tylenol FFF 19 19||
+358-04||33||Ativan (LORAZEPAM) 0.5 MG (0.5MG TABLET take 1) PO Q6H PRN anxiety/panic , take one tablet up to four times daily as needed for panic attacks||DBN FFF ativan FFF 0 0||DOSE FFF 0.5 mg FFF 2 3||DOSE FFF (0.5mg FFF 4 4||RUT FFF po FFF 8 8||FREQ FFF q6h FFF 9 9||NEC FFF prn FFF 10 10||INDICATION FFF anxiety/panic FFF 11 11||DOSEAMT FFF one tablet FFF 14 15||FREQ FFF four times daily FFF 18 20||NEC FFF as needed FFF 21 22||
+358-04||34||Exam
+358-04||35||Vital Signs BP 142/62, P 72, Wt 227 lb||INDICATION FFF bp FFF 2 2||
+358-04||36||AGE 50y6.2m

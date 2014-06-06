@@ -1,0 +1,101 @@
+328-01||1||Record date: 2077-06-29
+328-01||2||Medicine Service Consult Note
+328-01||3||Patient Name: Carlson, Rebecca
+328-01||4||MR#: 9500004
+328-01||5||Date and Time of Consultation: 6/29/2077 8:30 AM
+328-01||6||Primary Attending: Dr.
+328-01||7||Oscar Urzua
+328-01||8||Medicine Consult Attending: Dr.
+328-01||9||Elliot Sexton
+328-01||10||Contact: Kurtis Carlson (son, HCP) 041-787-2145 home and 947-504-1545 cell
+328-01||11||Consult Question/Request: Preoperative evaluation
+328-01||12||CC/HPI:
+328-01||13||87F with PMHx of HTN, hypercholesterolemia, DM, hypothyroidism, chronic venous stasis, and h/o post-op DVT presents with L proximal femur fracture after fall.
+328-01||14||Pt was on her porch attempting to reach the doorknob of her front door, but failed to reach it and fell back landing sitting down.
+328-01||15||Pt c/o of left femur pain and was unable to get up from the sitting position even with the assistance of her daughter who witnessed the fall.
+328-01||16||EMS was called to the scene to transport the patient to the hospital.
+328-01||17||Pt denies hitting her head.
+328-01||18||No LOC.
+328-01||19||Denies CP, SOB or palpitations as the cause of her fall.
+328-01||20||ROS: As in HPI, otherwise negative in detail.
+328-01||21||Past Medical:
+328-01||22||Hypercholesterolemia
+328-01||23||Diabetes: diet controlled
+328-01||24||HTN
+328-01||25||Hypothyroidism
+328-01||26||Hx of post-op DVT &gt;40 years ago after hysterectomy
+328-01||27||- Unclear whether patient ever treated with coumadin||DBN FFF coumadin FFF 7 7||
+328-01||28||- Since then has had chronic venous stasis of lower extremities
+328-01||29||Past Surgical:
+328-01||30||Total hysterectomy w/bladder suspension at age 42
+328-01||31||Medications at Home (confirmed with family):
+328-01||32||Atenolol 75 mg qday (different than stated on earlier note)||DIN FFF atenolol FFF 0 0||DOSE FFF 75 mg FFF 1 2||FREQ FFF qday FFF 3 3||
+328-01||33||Lasix 120 mg PO daily (different than stated on earlier note)||DBN FFF lasix FFF 0 0||DOSE FFF 120 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF daily FFF 4 4||
+328-01||34||Norvasc 7.5 mg qday||DBN FFF norvasc FFF 0 0||DOSE FFF 7.5 mg FFF 1 2||FREQ FFF qday FFF 3 3||
+328-01||35||Lipitor 10 mg qday,||DBN FFF lipitor FFF 0 0||DOSE FFF 10 mg FFF 1 2||FREQ FFF qday, FFF 3 3||
+328-01||36||Levothyroxine 0.25 mcg qday||DIN FFF levothyroxine FFF 0 0||DOSE FFF 0.25 mcg FFF 1 2||FREQ FFF qday FFF 3 3||
+328-01||37||ASA 81 mg||DIN FFF asa FFF 0 0||DOSE FFF 81 mg FFF 1 2||
+328-01||38||Calcium carbonate +vit D 1 tab q day||DIN FFF calcium carbonate FFF 0 1||DIN FFF +vit d FFF 2 3||DOSEAMT FFF 1 tab FFF 4 5||FREQ FFF q day FFF 6 7||
+328-01||39||Medications Here:
+328-01||40||Acetaminophen (Tylenol ) PO 650 MG Q4H [06/28/77]||DIN FFF acetaminophen FFF 0 0||
+328-01||41||Amlodipine (Norvasc ) PO 7.5 MG QD [06/28/77]||DIN FFF amlodipine FFF 0 0||
+328-01||42||Atenolol PO 50 MG QD [06/28/77]||DIN FFF atenolol FFF 0 0||RUT FFF po FFF 1 1||DOSE FFF 50 mg FFF 2 3||FREQ FFF qd FFF 4 4||
+328-01||43||Atorvastatin (Lipitor ) PO 10 MG QD [06/28/77]||DIN FFF atorvastatin FFF 0 0||
+328-01||44||Calcium Carbonate/vitd (250mg Ca++/125u Vitd) PO 1 TAB QD [06/28/77]||DIN FFF calcium carbonate/vitd FFF 0 1||DOSE FFF (250mg FFF 2 2||INDICATION FFF ca++/125u FFF 3 3||DOSE FFF ca++/125u FFF 3 3||RUT FFF po FFF 5 5||DOSEAMT FFF 1 tab FFF 6 7||FREQ FFF qd FFF 8 8||
+328-01||45||Enoxaparin (Lovenox ) SC 40 MG qPM [06/28/77]||DIN FFF enoxaparin FFF 0 0||
+328-01||46||Furosemide (Lasix ) PO 40 MG QD [06/28/77]||DIN FFF furosemide FFF 0 0||
+328-01||47||Morphine Sulfate IV 2-4 MG Q3H prn [06/28/77]||DIN FFF morphine sulfate FFF 0 1||RUT FFF iv FFF 2 2||DOSE FFF 2-4 mg FFF 3 4||FREQ FFF q3h FFF 5 5||NEC FFF prn FFF 6 6||
+328-01||48||Allergies: HCTZ - facial swelling and rash
+328-01||49||Family History:
+328-01||50||Father with open heart surgery (?valvular disease) at age 79.
+328-01||51||Mother with 3 MIs, earliest in 60s.
+328-01||52||Brother with lung cancer who was smoker.
+328-01||53||Social History:
+328-01||54||Widow Performer, lives alone in the third floor of a triple decker, her daughter and son live in the second and first floor of the building.
+328-01||55||Ambulates w/o any devices or assistance.
+328-01||56||Denies Etoh, smoking or recreational drugs.||DIN FFF drugs. FFF 5 5||
+328-01||57||Physical Exam:
+328-01||58||VS:  T=99.1 HR=62-78 BP=124/54-140/70 RR=16 O2sat=97 on RA
+328-01||59||General:    NAD
+328-01||60||HEENT:     NC/AT, PERRL, anicteric.
+328-01||61||EOMI. MMM. OP clear with no exudates.
+328-01||62||Skin:          No rashes or lesions
+328-01||63||Neck:         Supple. No LAD.
+328-01||64||JVP at 6 cm
+328-01||65||Chest:
+328-01||66||CTA anteriorly
+328-01||67||CVS:          RRR. Normal S1/S2.
+328-01||68||II/VI SEM at LLSB.
+328-01||69||No carotid bruits.
+328-01||70||Nondisplaced PMI.
+328-01||71||Abd:            Normactive BS.
+328-01||72||Soft, nontender, nondistended.
+328-01||73||GI/GU:       deferred
+328-01||74||Extr:           1+ edema bilaterally with chronic stasis changes.
+328-01||75||Warm and well perfused. 1+ pedal pulses bilaterally
+328-01||76||Neuro:       Cranial nerves II-XII intact
+328-01||77||Labs:
+328-01||78||06/28/77
+328-01||79||NA          140||DIN FFF na FFF 0 0||
+328-01||80||K           3.6
+328-01||81||CL          97(L)
+328-01||82||CO2         32.4(H)
+328-01||83||BUN         23
+328-01||84||CRE
+328-01||85||1.19
+328-01||86||EGFR        46(T)
+328-01||87||GLU         158(H)||DIN FFF glu FFF 0 0||DOSE FFF 158(h) FFF 1 1||
+328-01||88||ANION       11
+328-01||89||WBC         8.9
+328-01||90||RBC         4.09
+328-01||91||HGB         12.2
+328-01||92||HCT         34.6(L)
+328-01||93||MCV         84
+328-01||94||PLT         221
+328-01||95||RDW         14.4
+328-01||96||%NEUT       80(H)
+328-01||97||%LYMPH      15(L)
+328-01||98||%MONO       3(L)
+328-01||99||%EOS        2
+328-01||100||%BASO       0
+328-01||102||PT 12.2; PT-INR 1.1; PTT 24.3

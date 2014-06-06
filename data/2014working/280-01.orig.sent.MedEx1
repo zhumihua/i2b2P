@@ -1,0 +1,93 @@
+280-01||1||Record date: 2085-11-01
+280-01||2||EDVISIT^42521583^ZASTROW, IRENE^11/01/85^CONNER, VICKIE
+280-01||3||The resident's history, physical examination, and evaluation
+280-01||4||reviewed by me and I concur.
+280-01||5||In addition, I personally interviewed and examined this patient.
+280-01||6||HISTORY OF PRESENT ILLNESS:  This is a 65-year-old female who
+280-01||7||presents for evaluation of chest pain.
+280-01||8||The patient had no history of coronary artery disease until the last week.
+280-01||9||She was apparently in Pennsylvania where she had been for the last week.
+280-01||10||She had been having 5 days of epigastric and substernal discomfort.
+280-01||11||She considered it to be indigestion and have been taking Tums.||INDICATION FFF indigestion FFF 5 5||DBN FFF tums. FFF 10 10||
+280-01||12||After approximately 5 days while in Pennsylvania, she felt that the discomfort was not improving.
+280-01||13||She did feel like that she had less energy for her usual activity.
+280-01||14||She went to a hospital there in her land of Pennsylvania where she was noted to have a positive troponin.
+280-01||15||She underwent a diagnostic catheterization that did show multivessel disease with an occluded LAD.
+280-01||16||She subsequently underwent a therapeutic PCI with stenting of her LAD.
+280-01||17||She did have recurrent chest pain today after catheterization, which was much more severe, sharper in nature per her description.
+280-01||18||She was told in the hospital in Pennsylvania that this was due to reperfusion.
+280-01||19||She returned home today, called her primary care physician and
+280-01||20||was advised to come to the Emergency Department for evaluation.
+280-01||21||She does state that since discharge from the hospital in Pennsylvania earlier this week, she has had intermittent episodes of more severe left anterior chest pain, which she describes as somewhat more sharp than the indigestion feeling she was experiencing before.
+280-01||22||It is not always associated with exertion.
+280-01||23||It sometimes radiates to her left shoulder.
+280-01||24||It is not pleuritic in nature.
+280-01||25||It seems to be intermittent, although she does have a low level
+280-01||26||of dull aching pain, which has been fairly constant since her
+280-01||27||discharge from Pennsylvania.
+280-01||28||She denies any shortness of breath.
+280-01||29||She is able to lie flat.
+280-01||30||Denies any lower extremity edema.
+280-01||31||PAST MEDICAL HISTORY:  Positive for type 1 diabetes, which is
+280-01||32||fairly brittle per her report.
+280-01||33||She is status post MI within the last week.
+280-01||34||She also has a remote history of PE in the past and is no longer on Coumadin.||INDICATION FFF pe FFF 7 7||DBN FFF coumadin. FFF 16 16||
+280-01||35||SOCIAL HISTORY:  She does not smoke.
+280-01||36||She lives with her husband and has recently returned from Pennsylvania.
+280-01||37||FAMILY HISTORY:  Reviewed and is also positive for CAD.
+280-01||38||REVIEW OF SYSTEMS:  All other systems are reviewed and are also
+280-01||39||negative except per the HPI.
+280-01||40||MEDICATIONS:  Include insulin, Plavix, aspirin, Nexium, Lipitor,||DIN FFF insulin, FFF 2 2||
+280-01||40||MEDICATIONS:  Include insulin, Plavix, aspirin, Nexium, Lipitor,||DBN FFF plavix, FFF 3 3||
+280-01||40||MEDICATIONS:  Include insulin, Plavix, aspirin, Nexium, Lipitor,||DIN FFF aspirin, FFF 4 4||
+280-01||40||MEDICATIONS:  Include insulin, Plavix, aspirin, Nexium, Lipitor,||DBN FFF nexium, FFF 5 5||
+280-01||40||MEDICATIONS:  Include insulin, Plavix, aspirin, Nexium, Lipitor,||DBN FFF lipitor, FFF 6 6||
+280-01||41||and atenolol.||DIN FFF atenolol. FFF 1 1||
+280-01||42||ALLERGIES:  The patient has allergies to iodine and Indocin.
+280-01||43||PHYSICAL EXAMINATION:  Her temperature is 98.6, her pulse 65,
+280-01||44||respirations 18, and blood pressure 105/69.
+280-01||45||The patient is awake, alert, pleasant female who is reclining in no acute distress.
+280-01||46||Her head examination is normocephalic and atraumatic.
+280-01||47||Her pupils are equal and reactive to light.
+280-01||48||Her sclerae are anicteric.
+280-01||49||Her conjunctivae are pink and moist.
+280-01||50||She has moist mucous membranes and appears well hydrated.
+280-01||51||Her neck is supple and nontender with full range of motion.
+280-01||52||The JVP is not elevated.
+280-01||53||Her lungs are clear to auscultation bilaterally with equal breath sounds, no respiratory distress.
+280-01||54||No accessory muscle use and no chest wall tenderness.
+280-01||55||Her cardiac examination is regular rate and rhythm with no murmur, rub, or gallop.
+280-01||56||Her abdomen is nondistended, soft, and nontender.
+280-01||57||No guarding, no peritoneal signs, and no organomegaly.
+280-01||58||Her skin is intact, warm, dry, and slightly pale.
+280-01||59||There are no rashes.
+280-01||60||Her back is nontender with full range of motion.
+280-01||61||Extremities reveal no cyanosis, clubbing, or edema.
+280-01||62||Her calves are soft and nontender with no palpable cords and full range of motion with normal strength and tone.
+280-01||63||She is alert and oriented x3, very pleasant.
+280-01||64||Cranial nerves are intact, and there is no motor or sensory
+280-01||65||deficit.
+280-01||66||Rectal examination performed by the resident reveals heme-negative stool with normal tone.
+280-01||67||EMERGENCY DEPARTMENT COURSE:  The patient was placed on a cardiac
+280-01||68||monitor.  IV access was maintained.
+280-01||69||Laboratory studies were sent and EKG was also ordered.
+280-01||70||Her prior records from Pennsylvania were reviewed.
+280-01||71||Her white blood cell count is 8.4, hematocrit 37, and platelets 285,000.
+280-01||72||Her electrolytes are within normal limits.
+280-01||73||Her BUN is 18, creatinine 0.8, and glucose 112.
+280-01||74||Her CK here returned normal at 33.
+280-01||75||Her MB was 0.4.
+280-01||76||Her troponin returned elevated at 0.39.
+280-01||77||This is in comparison to the troponin from her records of Pennsylvania, which was 0.2.
+280-01||78||Her d-dimer is less than 200.
+280-01||79||Her INR is 1.1.
+280-01||80||The patient had an EKG, which showed evidence of a new T-wave inversions, present on prior EKG from this hospital.
+280-01||81||She was started on heparin for concern of unstable angina status post MI, remained hemodynamically stable, and is admitted to the Cardiac Service.||DIN FFF heparin FFF 4 4||INDICATION FFF unstable angina FFF 8 9||INDICATION FFF mi, FFF 12 12||
+280-01||82||DIAGNOSIS:  Chest pain, rule out unstable angina.
+280-01||83||______________________________
+280-01||84||CONNER, VICKIE M.D.
+280-01||85||D: 11/08/85
+280-01||86||T: 11/08/85
+280-01||87||Dictated By: CONNER, VICKIE
+280-01||88||eScription document:6-4710513 BFFocus
+280-01||89||******** Not reviewed by Attending Physician ********

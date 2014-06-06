@@ -1,0 +1,34 @@
+308-03	1	Record date: 2075-09-26	
+308-03	2		
+308-03	3	Neurology MEDIQUIK Senior Note	
+308-03	4	9/26/75	
+308-03	5	5:00AM		TOD FFF am#0
+308-03	6	Patient Name: Percy Carrillo	
+308-03	7	MRN: 1668727	
+308-03	8	HISTORY OF PRESENT ILLNESS: Please see neurology PGY2 note for full details.	
+308-03	9	In brief the patient is a 62 yo man with mental retardation, HTN, hyperlipidemia, head trauma with SDH with evacuation, DM who presents with gait instability and difficulty with speaking and swallowing.		INDICATION FFF mental retardation#11	INDICATION FFF htn#12	INDICATION FFF hyperlipidemia#13	INDICATION FFF head trauma#15	INDICATION FFF dm#20
+308-03	10	Per guardian the patient was in his USOH until 9/24/75 evening at approximately 8:30pm he was found to have mumbled speech and having difficulty with ambulation with leaning to the left.		DRT FFF until#8	TOD FFF evening#10	TOD FFF pm#13
+308-03	11	On 9/25/75 in the morning he had a fall when getting out of bed and struck his head, and brought to the ED.		TOD FFF in the morning#4	INDICATION FFF ed#22
+308-03	12	No prior history of stroke or TIA.		INDICATION FFF stroke#4	INDICATION FFF tia#6
+308-03	13	MEDS: ASA, Metformin, Glyberide, Tegretol, Fosinoperil, Lipitor, HCTZ		DIN FFF asa#1	DIN FFF metformin#2	DBN FFF tegretol#4	DBN FFF lipitor#6	DPN FFF hctz#7
+308-03	14		
+308-03	15	PHYSICAL EXAMINATION	
+308-03	16	VITALS:  BP 130/85		INDICATION FFF bp#1
+308-03	17	MS: AA&Ox3, speech fluent with slurring (unclear baseline), repeats and names well.	
+308-03	18	Comprehends simple commands.  Names president	
+308-03	19	CN:  PERRL, VF full with BTT.		INDICATION FFF cn#0	INDICATION FFF vf#2
+308-03	20	EOMI but with nystagmus in all directions of gaze, even primary gaze.	
+308-03	21	Facial sensation intact.	
+308-03	22	Face asymmetric.		RUT FFF face#0
+308-03	23	Tongue, palate symmetric.	
+308-03	24	SCM and traps 5/5.	
+308-03	25	Motor: UMN pattern weakness in RUE (4-/5), most notable in hands.	
+308-03	26	Mild  proximal RLE weak (4+/5).	
+308-03	27	Coord: Impaired FTN in LUE, intact in RUE.	
+308-03	28	Refl: Deep tendon reflexes are 2+ at biceps, triceps, brachioradialis, patella, and ankles.	
+308-03	29	Plantar response is flexor on right and extensor on left.		DIN FFF flexor#3
+308-03	30	Sens:              Decreased PP but NOT LT in LUE and LLE		INDICATION FFF pp#2
+308-03	31	Imaging:	
+308-03	32	MRI Brain (9/25/75)     DWI bright ADC dark right lateral medullary pyramid with associated increased T2 signal.		DIN FFF adc#5
+308-03	33	MRA Head/Neck (9/25/75)     Narrowing of basilar artery with flow signal throughout and no thrombosis		INDICATION FFF thrombosis#13
+308-03	34	CTA Head/Neck (9/25/75)     Diffuse atherosclerotic disease, occluded R-ICA with good collateralization of right hemisphere, severe irregular narrowing through out bilateral vertebral arteries and basilar arteries.	

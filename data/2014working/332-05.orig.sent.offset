@@ -1,0 +1,23 @@
+332-05	17	0	Per PCP: Ms. Rojas is a 87-year-old woman with a PMH of metastatic pancreatic cancer recently diagnosed s/p 1 dose of gemcitabine (on 11/14), DM, HTN, and CRI who presents s/p mechanical fall at home resulting in a right hip fracture.	gemcitabine FFF 21 21	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+332-05	23	0	Needs basal insulin	basal insulin FFF 1 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+332-05	28	0	RUQ U/S showed CBD dilatation with hypoechoic mass near head of pancreas measuring 4.1x5x5.5cm b.       11/03/2097, ERCP showed 3cm distal bile duct stricture that was stented.	cbd FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+332-05	30	0	Biopsy obtained under EUS guidance showed pancreatic adenocarcinoma. CT scan revealed pulmonary nodules, likely metastatic disease c.        11/14/2097, treated with 1st dose of 25% dose gemcitabine (given CKD), course s/p chemotx c/b fatigue, rash, worsening renal function and anemia.	gemcitabine FFF 25 25	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+332-05	32	0	She was scheduled for her second dose of gemcitabine on 12/05 (2)     Diabetes mellitus a.	gemcitabine FFF 8 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+332-05	33	0	Last HgbA1c = 7.2 (10/08/2097) b.       Was maintained on Glucophage, but this was discontinued 2/2 worsening renal function c.	glucophage, FFF 9 9	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+332-05	34	0	Recently placed on insulin with BS&#8217;s to be kept around 200 given CA dx	insulin FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+332-05	40	438	Vitamin d 1000 units po daily	vitamin d FFF 0 1	1000 units FFF 2 3	po FFF 4 4	daily FFF 5 5	 FFF 	 FFF 	narrative
+332-05	41	438	Novolin R innolet 2-6 units sc bid prn per sliding scale	novolin r innolet FFF 0 2	sliding scale FFF 9 10	sc FFF 5 5	bid prn FFF 6 7	 FFF 	 FFF 	narrative
+332-05	42	438	Novolin N innolet 22 units sc qam	novolin n innolet FFF 0 2	22 units FFF 3 4	sc FFF 5 5	qam FFF 6 6	 FFF 	 FFF 	narrative
+332-05	43	438	ferrous sulfate 325mg po daily	ferrous sulfate FFF 0 1	325mg FFF 2 2	po FFF 3 3	daily FFF 4 4	 FFF 	 FFF 	narrative
+332-05	44	438	metoprolol 25mg po bid 2 tabs	metoprolol FFF 0 0	25mg FFF 1 1	po FFF 2 2	bid FFF 3 3	2 tabs FFF 4 5	 FFF 	narrative
+332-05	45	438	furosemide 10mg po daily	furosemide FFF 0 0	10mg FFF 1 1	po FFF 2 2	daily FFF 3 3	 FFF 	 FFF 	narrative
+332-05	46	438	Ecotrin 325 mg po daily	ecotrin FFF 0 0	325 mg FFF 1 2	po FFF 3 3	daily FFF 4 4	 FFF 	 FFF 	narrative
+332-05	118	0	Superstat PT                     12.9                      (10.3-13.2)    sec	superstat FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+332-05	118	0	Superstat PT                     12.9                      (10.3-13.2)    sec	sec FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+332-05	119	0	Superstat PT-INR                 1.1	superstat FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+332-05	120	0	Superstat APTT                   20.6             L        (22.1-34.0)    sec	superstat FFF 0 0	20.6 l FFF 2 3	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+332-05	120	0	Superstat APTT                   20.6             L        (22.1-34.0)    sec	sec FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+332-05	165	0	87yo F with h/o metastatic pancreatic CA s/p 1 dose of gemcitabine and biliary stenting, CKD, DM, and HTN who p/w right hip fracture s/p mechanical fall at home.	gemcitabine FFF 11 11	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+332-05	168	0	According to guidelines from ACCP: #UFH 5000 Units SC TID [or LMWH &gt;3400 Units SC QD (her CrCl &lt;30, therefore renally dosed = LMWH 30mg SC QD)] to be started either in PACU or on the floor. #Compression stockings	lmwh FFF 11 11	&gt;3400 units FFF 12 13	&gt;3400 FFF 12 12	qd FFF 15 15	 FFF 	 FFF 	narrative
+332-05	168	0	According to guidelines from ACCP: #UFH 5000 Units SC TID [or LMWH &gt;3400 Units SC QD (her CrCl &lt;30, therefore renally dosed = LMWH 30mg SC QD)] to be started either in PACU or on the floor. #Compression stockings	lmwh FFF 23 23	30mg FFF 24 24	sc FFF 25 25	qd)] FFF 26 26	 FFF 	 FFF 	narrative
+332-05	173	0	Patient recently started on insulin at home.	insulin FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

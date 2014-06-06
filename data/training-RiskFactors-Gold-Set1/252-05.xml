@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2072-07-06
+
+
+
+
+
+
+
+JOSHI, KATHY
+
+15842112
+
+07/06/2072
+
+
+
+
+
+Benjamin W. Taylor, M.D.
+
+Illini Community Hospital
+
+66 Cardinal Circle
+
+Three Rivers, NM  11424
+
+
+
+Dear Dr. Taylor:
+
+
+
+Mrs. Joshi returns to the office for routine followup.  Since last seen, she apparently was without evidence of increasing BUN and creatinine and for this reason was advised to transiently hold both her lisinopril and Zaroxolyn.  By doing so, her creatinine fell from 2.2 to 1.6 and BUN from 117 to 57.  She subsequently has resumed her lisinopril therapy, as apparently her blood pressure increased off her ACE inhibitor.  In addition, as part of her followup last March, she underwent an adenosine MIBI stress test during which time she achieved a peak heart rate of 65, peak blood pressure of 129/50, stopping because she reached the end of the adenosine infusion protocol.  Her gated SPECT imaging demonstrated a global left ventricular ejection fraction of 38% with a mildly dilated left ventricle and akinesis of the basal inferoseptal and entire inferior wall.  Her rest-stress perfusion imaging showed similarly a large fixed perfusion defect in the inferior and basal inferoseptal wall without any area of reversible ischemia.  Her last echocardiogram performed in July 2071 showed a residual of left ventricular ejection fraction mildly reduced at 45% with severe inferoseptal and inferior hypokinesis.  In addition, at that time showed evidence for trivial mitral and tricuspid regurgitation and her echo was essentially unchanged from her prior study in March 2071.
+
+
+
+Currently, she is concerned primarily about her inability to lose weight, and in fact states that during a recent vacation she actually discontinued her diet.  Presently, she continues on a regimen of Toprol-XL 37.5 mg p.o. daily, simvastatin 80 mg p.o. daily, lisinopril 5 mg p.o. daily, potassium chloride 20 mEq p.o. b.i.d., furosemide 160 mg p.o. b.i.d., Coumadin, enteric-coated aspirin 81 mg p.o. daily, Niferex 150 mg p.o. daily, Humulin N 20 units subcutaneous q.a.m. and Humulin N 20 units subcutaneous q.p.m.
+
+
+
+Physical exam reveals a pleasant, mildly overweight woman in no acute distress.  Blood pressure right arm sitting 120/52, heart rate 45 and irregularly regular, respirations 14 and unlabored, and weight 253 pounds, which is 12 pounds above her weight of six months ago.  The neck is supple.  JVP is flat.  Carotids are without significant bruits.  Chest remains clear.  Cardiac exam shows normal S1, physiologically split S2 with a soft systolic ejection murmur radiating from the apex to the base.  No significant diastolic murmur or rub.  The abdomen is overweight, but otherwise benign without evidence of abdominal aneurysm or bruit.  Extremities reveal trace bipedal edema.  Peripheral pulses are detectable, albeit mildly diminished.
+
+
+
+Electrocardiogram shows atrial fibrillation flutter with at times of significant AV block with pauses as high as approximately 2 seconds.  There is evidence of a prior inferior myocardial infarction and minor nonspecific ST and T-wave changes.  Compared with her last electrocardiogram, her heart rate at times is slower.
+
+
+
+Impression:  Ms. Joshi remains stable from a cardiovascular perspective, however, I am obviously concerned about her potential for lightheadedness in light of her bradycardia.  I have asked her to decrease her Toprol-XL to 25 mg p.o. daily and to repeat an EKG four to five days after doing so.  I of course have reminded her as to the importance of getting in contact with you or myself straight away should she develop any symptoms suggestive of lightheadedness or dizziness.  She understands that she may require a permanent pacemaker in the future.  Most recent blood studies show a significantly elevated glucose of 183 (she states she is trying to tailor her insulin regimen with you) and in January, normal liver function studies except for an alkaline phosphatase of 304 and lipid profile last September notable for a cholesterol of 134, triglyceride of 74, HDL 58, and LDL 61.  She understands the importance of continuing to adhere to a low-saturated fat, low-cholesterol diet while remaining on her antilipemic therapy.  She will discuss with you and her nephrologist the optimal management of her mild renal insufficiency.  In light of both her diabetes and coronary disease, it certainly would be optimal if possible to continue her on her ACE inhibitor.  At the present time, she does not meet criteria for prophylactic placement of an AICD and her New York Heart Association class I to II status precludes the need for consideration of biventricular pacing.  Other than reducing her beta-blocker regimen as described above, I have not further altered her current medical program.
+
+
+
+I thank you very much for allowing me to assist in her care.
+
+
+
+Sincerely yours,
+
+
+
+
+
+
+
+Brandon W Neilson, M.D.
+
+
+
+
+
+
+
+
+
+
+
+eScription document:0-2421626 RU
+
+
+
+CC: James Nolen M.D.
+
+48 Auburn Street
+
+Rehoboth, NM 42761
+
+
+
+
+
+DD: 07/06/72
+
+DT: 07/07/72
+
+DV: 07/06/72
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC8" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC9" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC11" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC12" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC15" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC17" time="during DCT" type1="beta blocker" type2=""/>
+    <CAD id="DOC14" time="before DCT" indicator="event"/>
+    <FAMILY_HIST id="DOC10" indicator="not present"/>
+    <SMOKER id="DOC7" status="unknown"/>
+  </TAGS>
+</root>

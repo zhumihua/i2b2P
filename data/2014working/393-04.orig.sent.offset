@@ -1,0 +1,30 @@
+393-04	14	0	Originally, she had been on oral medication and has been on insulin since 2076, initially on NPH bid and then switched to Lantus.	oral medication FFF 5 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-04	14	0	Originally, she had been on oral medication and has been on insulin since 2076, initially on NPH bid and then switched to Lantus.	insulin FFF 11 11	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-04	14	0	Originally, she had been on oral medication and has been on insulin since 2076, initially on NPH bid and then switched to Lantus.	nph FFF 16 16	 FFF 	 FFF 	bid FFF 17 17	 FFF 	 FFF 	narrative
+393-04	14	0	Originally, she had been on oral medication and has been on insulin since 2076, initially on NPH bid and then switched to Lantus.	lantus. FFF 22 22	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-04	15	0	After her admission June 2081, she was placed back on NPH from what had been lantus 40 U qhs + metformin 1000 bid.	nph FFF 10 10	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-04	15	0	After her admission June 2081, she was placed back on NPH from what had been lantus 40 U qhs + metformin 1000 bid.	lantus FFF 15 15	40 u FFF 16 17	 FFF 	qhs FFF 18 18	 FFF 	 FFF 	narrative
+393-04	15	0	After her admission June 2081, she was placed back on NPH from what had been lantus 40 U qhs + metformin 1000 bid.	metformin FFF 20 20	1000 FFF 21 21	 FFF 	bid. FFF 22 22	 FFF 	 FFF 	narrative
+393-04	19	0	Accordingly, and in response to severe hyperglycemia and a hemoglobin A1c above 10, we changed her reigimen to NPH 70/30 50Units BID.	nph 70/30 FFF 18 19	50units FFF 20 20	 FFF 	bid. FFF 21 21	 FFF 	 FFF 	narrative
+393-04	24	0	On ROSystems and history, she reports that she had been taking her new 70/30 insulin, 50 units BID.	insulin, FFF 14 14	50 units FFF 15 16	 FFF 	bid. FFF 17 17	 FFF 	 FFF 	narrative
+393-04	28	0	Written only for insulin sliding scale.	insulin FFF 3 3	sliding scale. FFF 4 5	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-04	37	0	7) s/p TAH/BSO	tah/bso FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-04	38	0	ALL: Percocet	percocet FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-04	40	438	1) Insulin 70/30 NPH/Regular 50U BID	insulin 70/30 FFF 1 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-04	40	438	1) Insulin 70/30 NPH/Regular 50U BID	nph/regular FFF 3 3	50u FFF 4 4	 FFF 	bid FFF 5 5	 FFF 	 FFF 	narrative
+393-04	41	438	2) ASA 325 QD	asa FFF 1 1	325 FFF 2 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+393-04	42	438	3) Lisinopril 40 mg qam	lisinopril FFF 1 1	40 mg FFF 2 3	 FFF 	qam FFF 4 4	 FFF 	 FFF 	narrative
+393-04	43	438	4) Atenolol 50 mg QD	atenolol FFF 1 1	50 mg FFF 2 3	 FFF 	qd FFF 4 4	 FFF 	 FFF 	narrative
+393-04	44	438	5) Reglan 10 mg bid-qid	reglan FFF 1 1	10 mg FFF 2 3	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-04	45	438	6) Lexapro 10mg QD	lexapro FFF 1 1	10mg FFF 2 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+393-04	46	438	7) Colace 100mg bid	colace FFF 1 1	100mg FFF 2 2	 FFF 	bid FFF 3 3	 FFF 	 FFF 	narrative
+393-04	47	438	8) Miralax 17g QD	miralax FFF 1 1	17g FFF 2 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+393-04	48	438	9) Nexium 40 mg QD	nexium FFF 1 1	40 mg FFF 2 3	 FFF 	qd FFF 4 4	 FFF 	 FFF 	narrative
+393-04	49	438	10) Ativan 0.5-1mg tid	ativan FFF 1 1	0.5-1mg FFF 2 2	 FFF 	tid FFF 3 3	 FFF 	 FFF 	narrative
+393-04	50	438	11) Zofran 8mg bid	zofran FFF 1 1	8mg FFF 2 2	 FFF 	bid FFF 3 3	 FFF 	 FFF 	narrative
+393-04	51	438	12) Hydrochlorothiazide	hydrochlorothiazide FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-04	52	438	13) Norvasc 5 QD	norvasc FFF 1 1	5 FFF 2 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+393-04	53	438	14) Zelnorm	zelnorm FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-04	54	438	15) Metformin 500 QD titrating up to 1000 BID (started on last visit, she has not taken it yet.	metformin FFF 1 1	500 FFF 2 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+393-04	87	0	NA         138                   136	na FFF 0 0	138 FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-04	93	0	GLU        359(H)     373(H)     527(H)	glu FFF 0 0	359(h) FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative

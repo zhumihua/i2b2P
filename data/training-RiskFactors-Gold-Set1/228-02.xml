@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2083-08-05
+
+                    
+ 
+ 
+ 
+August 05, 2083
+ 
+ 
+ 
+Usha Gibbons, M.D.
+CIMA
+Cooley Dickinson Hospital 
+98 Greenfield Drive
+Schuyler, FL 76969
+ 
+RE: Benitez, Wonda
+MR: 89276954
+ 
+Dear Usha:
+ 
+I had the pleasure of seeing one of your clinic patients, Ms.
+Wonda Benitez, in my cardiovascular clinic for follow-up status
+post coronary artery bypass surgery and pounding headaches.  As you
+know, we performed a persantine MIBI recently which showed inferior
+wall ischemia.  I wasn't sure whether or not this ischemia was new. 
+On review of her coronary artery bypass surgery notes, she did not
+have her totally occluded right coronary artery bypass.  Therefore,
+I suggest that this reversible ischemia in the inferior wall is
+probably old and was the result of the fact that they did not
+bypass this area.  She did have a LIMA to the LAD and two saphenous
+venous grafts to the circumflex territory, the OM and the diagonal. 
+She has been doing relatively well with chest discomfort and I
+recommended we continue her current cardiac medications.  However,
+she has been complaining of pounding headaches and she did have a
+history of otitis media in her right ear.  Therefore, I think it
+wouldn't be unreasonable to refer her to ENT to have them evaluate
+her ears as a possible source of her pounding headaches.  In the
+meantime, I have suggested that she take her nifedipine and
+nitroglycerin in the event that her blood pressure shoots up during
+these episodes.  I suspect that her blood pressure rise during
+these episodes is due more to anxiety than to intrinsic problem
+with her cardiovascular system.  She will return to see me in
+follow-up in three months time, at which time I will check her
+cholesterol level.
+ 
+Again, thank you for allowing me to participate in the care of your
+patient.  Please do not hesitate to call me if you have any
+questions.
+ 
+With warm regards,
+ 
+ 
+Gordon Q. Iniguez, M.D.
+ 
+ 
+Benitez, Wonda
+MR: 89276954
+August 05, 2083
+Page Two
+ 
+ 
+ 
+ 
+/goldstein
+DD: 08/05/83
+DT: 08/08/83
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC3" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC4" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC9" time="during DCT" type1="nitrate" type2=""/>
+    <CAD id="DOC1" time="before DCT" indicator="test"/>
+    <CAD id="DOC2" time="before DCT" indicator="event"/>
+    <FAMILY_HIST id="DOC6" indicator="not present"/>
+    <SMOKER id="DOC7" status="unknown"/>
+  </TAGS>
+</root>

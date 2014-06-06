@@ -1,0 +1,54 @@
+297-05	1	Record date: 2095-09-30	
+297-05	2	SPENCER EMERGENCY DEPT VISIT	
+297-05	3		
+297-05	4	VICENTE,KADEEM FRANCIS   948-59-58-0              VISIT DATE: 09/30/95		INDICATION FFF francis#1
+297-05	5	PRESENTING COMPLAINT:  Chest discomfort.	
+297-05	6	HISTORY OF PRESENTING COMPLAINT:  This is a 78-year-old gentleman  who had a stuttering course of chest discomfort throughout the  night, last night, and into today.	
+297-05	7	He finally took nitroglycerin  tablets at about 9 or 10:00 a.m. and this abated his chest  discomfort.		DIN FFF nitroglycerin#3	TOD FFF a.m#10
+297-05	8	The patient has known history of coronary artery  disease and recently had gone back on his coronary rehab program,  however, yesterday after a workout, he became extremely tired, more  tire than usual.		INDICATION FFF coronary artery disease#8	INDICATION FFF tired#27
+297-05	9	He thought he might have pushed it a bit and he  rested throughout the rest of the day.	
+297-05	10	Then last night, he had  some chest discomfort, which he initially did not think much of.	
+297-05	11	Then was then associated with some shortness of breath in the early  morning hours.		INDICATION FFF shortness of breath#8	TOD FFF morning#12
+297-05	12	He felt he was wheezing.		INDICATION FFF wheezing .#4
+297-05	13	This resolved after he  got up and walked around.	
+297-05	14	He took the nitroglycerin tablets this  morning.		DIN FFF nitroglycerin#3	TOD FFF morning#6
+297-05	15	These were fresh nitroglycerin tablets he had just  obtained and this, in fact, resolved his symptoms.		DIN FFF nitroglycerin#3	INDICATION FFF symptoms#15
+297-05	16	He then came in  to see Dr.	
+297-05	17	Echeverria, his physician, in clinic and was sent to the  emergency department for evaluation.	
+297-05	18	Please see the handwritten  emergency department record for additional details.	
+297-05	19	PAST MEDICAL HISTORY:  Coronary artery disease		INDICATION FFF coronary artery disease#5
+297-05	20	SOCIAL HISTORY AND FAMILY HISTORY:  See handwritten emergency	
+297-05	21	department record.	
+297-05	22	PHYSICAL EXAMINATION:  The patient is presently comfortable, not	
+297-05	23	tachypneic.	
+297-05	24	His blood pressure is 160/80.		INDICATION FFF blood pressure#2
+297-05	25	His heart rate is in  the 50s.		INDICATION FFF heart rate#2
+297-05	26	There is no evidence of congestive heart failure on  examination.		INDICATION FFF congestive heart failure#7
+297-05	27	There is no jugular venous distention and his lungs  are clear to auscultation.	
+297-05	28	His heart examination is distant, with  no murmurs or gallops appreciated.	
+297-05	29	His extremities have trace  edema.		INDICATION FFF trace edema#4
+297-05	30	Abdomen in soft and non-tender.	
+297-05	31	Pulses are equal.	
+297-05	32	LABORATORY EVALUATION:  His electrocardiogram shows a left bundle  branch pattern with no change in configuration from previous  tracings.		INDICATION FFF change#12
+297-05	33	His other laboratory studies are pending.	
+297-05	34	THERAPY RENDERED/COURSE IN ED:  The case was discussed with his		INDICATION FFF ed#3
+297-05	35	physician, Dr. Echeverria.	
+297-05	36	We both agree that the patient has  probably had a progression of his coronary syndrome with possible  unstable plaque, given his episode of shortness of breath and  paroxysmal nocturnal dyspnea.		INDICATION FFF plaque#18	INDICATION FFF shortness of breath#25	INDICATION FFF dyspnea#29
+297-05	37	It is possible that he has silent  ischemia, which is not evident because of the left bundle branch  pattern.		INDICATION FFF ischemia#7
+297-05	38	Pending the other evaluation and studies, which are being  sent at this time, the patient will require hospitalization for  further medical management.	
+297-05	39	FINAL DIAGNOSIS:  Acute coronary insufficiency, coronary artery	
+297-05	40	disease.	
+297-05	41	DISPOSITION (including condition upon discharge):  The patient was  admitted to the hospital in stable condition.	
+297-05	42	___________________________________                    BR445/05178	
+297-05	43	STEPHEN HENDERSON, M.D.   SH44                             D:09/30/95	
+297-05	44	T:09/30/95	
+297-05	45	Dictated by:  STEPHEN HENDERSON, M.D.   SH44	
+297-05	46	******** Not reviewed by Attending Physician ********	
+297-05	47		
+297-05	48		
+297-05	49		
+297-05	50		
+297-05	51		
+297-05	52		
+297-05	53		
+297-05	54		

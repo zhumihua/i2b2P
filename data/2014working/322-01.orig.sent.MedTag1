@@ -1,0 +1,33 @@
+322-01||1||Record date: 2076-01-24
+322-01||2||Pt is a pleasant obese 31yo man presenting for f/u DM, HTN, lipids, insomnia and depression.||INDICATION FFF obese FFF 4 4||INDICATION FFF f/u FFF 9 9||INDICATION FFF dm, FFF 10 10||INDICATION FFF htn, FFF 11 11||INDICATION FFF insomnia FFF 13 13||INDICATION FFF depression. FFF 15 15||
+322-01||3||Problems
+322-01||4||Diabetes mellitus type 2||INDICATION FFF diabetes mellitus type 2 FFF 0 3||
+322-01||5||Hypertension||INDICATION FFF hypertension FFF 0 0||
+322-01||6||Hyperlipidemia||INDICATION FFF hyperlipidemia FFF 0 0||
+322-01||7||Elevated triglycerides||INDICATION FFF elevated triglycerides FFF 0 1||
+322-01||8||Depression||INDICATION FFF depression FFF 0 0||
+322-01||9||Obesity||INDICATION FFF obesity FFF 0 0||
+322-01||10||Back pain : DISH||INDICATION FFF back pain FFF 0 1||
+322-01||11||Medications
+322-01||12||Motrin (IBUPROFEN) 800 MG (800MG TABLET take 1) PO TID PRN pain||DBN FFF motrin FFF 0 0||DOSE FFF 800 mg FFF 2 3||DOSE FFF (800mg FFF 4 4||RUT FFF po FFF 8 8||FREQ FFF tid FFF 9 9||NEC FFF prn FFF 10 10||INDICATION FFF pain FFF 11 11||
+322-01||13||Metformin 875 MG (875MG TABLET take 1) PO TID||DIN FFF metformin FFF 0 0||DOSE FFF 875 mg FFF 1 2||DOSE FFF (875mg FFF 3 3||RUT FFF po FFF 7 7||FREQ FFF tid FFF 8 8||
+322-01||14||Lisinopril 40 MG (40MG TABLET take 1) PO QD , dose increase||DIN FFF lisinopril FFF 0 0||DOSE FFF 40 mg FFF 1 2||DOSE FFF (40mg FFF 3 3||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||
+322-01||15||Prozac (FLUOXETINE HCL) 40 MG (20MG TABLET take 2) PO QD||DBN FFF prozac FFF 0 0||DOSE FFF 40 mg FFF 3 4||DOSE FFF (20mg FFF 5 5||RUT FFF po FFF 9 9||FREQ FFF qd FFF 10 10||
+322-01||16||Zocor (SIMVASTATIN) 40 MG (40MG TABLET take 1) PO QHS , replaces Lipitor (insurance)||DBN FFF zocor FFF 0 0||DOSE FFF 40 mg FFF 2 3||DOSE FFF (40mg FFF 4 4||RUT FFF po FFF 8 8||FREQ FFF qhs FFF 9 9||DBN FFF lipitor FFF 12 12||
+322-01||17||Hydrochlorothiazide 25 MG (25MG TABLET take 1) PO QD x 30 days||DIN FFF hydrochlorothiazide FFF 0 0||DOSE FFF 25 mg FFF 1 2||DOSE FFF (25mg FFF 3 3||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||DRT FFF 30 days FFF 10 11||
+322-01||18||Serax (OXAZEPAM) 10 MG (10MG TABLET take 1) PO QHS PRN insomnia x 30 days||DBN FFF serax FFF 0 0||DOSE FFF 10 mg FFF 2 3||DOSE FFF (10mg FFF 4 4||RUT FFF po FFF 8 8||FREQ FFF qhs FFF 9 9||NEC FFF prn FFF 10 10||INDICATION FFF insomnia FFF 11 11||DRT FFF 30 days FFF 13 14||
+322-01||19||Fioricet (BUTALBITAL+APAP+CAFFEINE) 1 TAB (325-40-50 CAPSULE ) PO Q4H PRN headache||DBN FFF fioricet FFF 0 0||DIN FFF (butalbital+apap+caffeine) FFF 1 1||DOSEAMT FFF 1 tab FFF 2 3||DOSEAMT FFF (325-40-50 capsule FFF 4 5||RUT FFF po FFF 7 7||FREQ FFF q4h FFF 8 8||NEC FFF prn FFF 9 9||INDICATION FFF headache FFF 10 10||
+322-01||20||Last seen by PCP 1 mo ago.||INDICATION FFF pcp FFF 3 3||DRT FFF 1 mo FFF 4 5||
+322-01||21||At that time, he had been complaining of hypoglycemia w/ sugars in the 70's causing him to feel shakey and anxious.||INDICATION FFF hypoglycemia FFF 8 8||
+322-01||22||Glyburide was stopped, Metformin dose was adjusted from 1000mg bid to 875mg tid.||DIN FFF glyburide FFF 0 0||DIN FFF metformin FFF 3 3||DOSE FFF 1000mg FFF 8 8||FREQ FFF bid FFF 9 9||DOSE FFF 875mg FFF 11 11||FREQ FFF tid. FFF 12 12||
+322-01||23||Today he states he has had no hypoglycemic sxs since these changes.||DIN FFF hypoglycemic FFF 7 7||
+322-01||24||He forgot his logbook today.
+322-01||25||Reports lowest sugar in the 80's, highest 180.
+322-01||26||Most fastings around 100, randoms 140-150's. He is still walking every day.||FREQ FFF every day. FFF 10 11||
+322-01||27||States his back is "fine", no longer painful, though sometimes stiff upon wakening.||INDICATION FFF painful, FFF 7 7||
+322-01||28||Has appt at Promptcare for eye exam later this month.||RUT FFF eye FFF 5 5||
+322-01||29||Has gained #14 in 1 month, which he blames on increased stress at home.||DRT FFF 1 month, FFF 4 5||
+322-01||30||His cat was injured and recuperating.
+322-01||31||His mother was recently dx'd w/ "carcinoma", but he is unclear of type.||INDICATION FFF "carcinoma", FFF 6 6||
+322-01||32||He eats when he is stressed.
+322-01||33||Has not seen psych yet, but states they have been playing "phone tag".

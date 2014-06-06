@@ -1,0 +1,60 @@
+397-01	1	Record date: 2076-06-19		 
+397-01	2	Physical exam - Male		 
+397-01	3	Patient is a 45 yo  M who presents for yearly physical exam.		 
+397-01	4	He has been lost to f/u x > 1 year and was recently hospitalized for R foot ulcer/heel.		 
+397-01	5	Active medical issues include:		 
+397-01	6	Diabetes mellitus : dxed dec 2074 when admitted with foot ulcer.		 
+397-01	7	On metformin. 4/75: BG at home 160-170 6/76: BG at home 120-200.		DIN FFF metformin#1
+397-01	8	Taking glyburide 5 mg qd instead of metformin bec afraid of renal failure.		DIN FFF glyburide#1	DOSE FFF 5mg#3	FREQ FFF qd#4
+397-01	8	Taking glyburide 5 mg qd instead of metformin bec afraid of renal failure.		DIN FFF metformin#7	INDICATION FFF renal failure#12
+397-01	9	To see diabetes ctr doc in July		 
+397-01	10	Smoking : 12 cig/day x 30 years		 
+397-01	11	6/76: still smoking, thinking about quitting		 
+397-01	12	Lower extremity ulcer : Right leg. Admitted to RSC 12/2074 - rxed with dicloxacillin		INDICATION FFF lower extremity ulcer#2	DIN FFF dicloxacillin#13
+397-01	13	6/76: admitted to RSC 2 weeks ago with R foot ulcer, rxed with abx, wound care.		DPN FFF abx#13	INDICATION FFF wound care#15
+397-01	14	Followed by surgical clinic - f/u 2 weeks.		 
+397-01	15	Wet dry dressings.		 
+397-01	16	Pain meds as needed neuropathy :  6/76: neuropathy bilateral.		DBN FFF pain meds#1	NEC FFF as needed#3	INDICATION FFF neuropathy#4	INDICATION FFF neuropathy#7
+397-01	17	No longer on ultram - on neurontin		DBN FFF ultram#3
+397-01	17	No longer on ultram - on neurontin		DBN FFF neurontin#6
+397-01	18	Other issues: impotence.		 
+397-01	19	Asking for viagra.		DBN FFF viagra#2
+397-01	20	No chest pain, not on nitrates.		 
+397-01	21	ROS otherwise negative		 
+397-01	22	Current medications:Medications		 
+397-01	23	Neurontin (GABAPENTIN) 100MG, 1 Capsule(s) PO TID : for diabetic neuropahty and pain from heel ulcer		DBN FFF neurontin#0
+397-01	24	GLYBURIDE 5MG, 1 Tablet(s) PO QD		DIN FFF glyburide#0	DOSE FFF 5mg#1	DOSEAMT FFF 1 tablet#3	RUT FFF po#4	FREQ FFF qd#5
+397-01	25	Percocet 5 Mg/325 Mg (OXYCODONE 5 Mg/acet... 1 TAB PO Q4-6H PRN prn foot ulcer pain : Take as directed		DBN FFF percocet#0	DOSE FFF 5mg/325mg#3
+397-01	25	Percocet 5 Mg/325 Mg (OXYCODONE 5 Mg/acet... 1 TAB PO Q4-6H PRN prn foot ulcer pain : Take as directed		DBN FFF acet#6	DOSEAMT FFF 1 tab#8	RUT FFF po#9	FREQ FFF q4-6h#10	NEC FFF prn#11	NEC FFF prn#12	INDICATION FFF foot ulcer#14	INDICATION FFF pain#15	INDICATION FFF as#18
+397-01	26	Allergies		 
+397-01	27	Codeine - GI upset		DIN FFF codeine#0
+397-01	28	Social History:		 
+397-01	29	Single.		 
+397-01	30	Divorced.		 
+397-01	31	He has 1 child - he does not have custody.		 
+397-01	32	He worked up until Dec 2074 - editor at DRS Technologies and burned himself on both legs - developed ulcer.		 
+397-01	33	No workman's comp case pending.		 
+397-01	34	Working again as editor.		 
+397-01	35	Lives in an apartment with his girlfriend.		 
+397-01	36	Smoke 12 cig/day x 30 years.  NO etoh.		 
+397-01	37	Rec marijuana.  No ivda.		DIN FFF marijuana#1
+397-01	38	Does not wear seat belts.		 
+397-01	39	Walks regularly.		 
+397-01	40	Family history:  Mother has diabetes - on dialysis.		 
+397-01	41	Father also has diabetes.		 
+397-01	42	He has 2 brothers - one has diabetes.		 
+397-01	43	Negative for early CAD, stroke, htn, hyperlipidemia, bleeding/clotting disorders, breast CA, colon CA, skin CA.		 
+397-01	44	FH otherwise negative.		 
+397-01	45	PE:		 
+397-01	46	Vital signs		 
+397-01	47	bp 126/70  Wt 130 lbs		 
+397-01	48	Gen: NAD.  A&Ox4.		 
+397-01	49	Affect: normal		 
+397-01	50	HEENT: PERRLA.		 
+397-01	51	EOMs intact.		 
+397-01	52	Oropharynx clear		 
+397-01	53	Neck: supple, no adenopathy, no thyromegaly or thyroid nodules.		 
+397-01	54	NO carotid bruits		 
+397-01	55	Lungs: CTAB.  No crackles or wheezes		 
+397-01	56	Cardiac:  RRR.  No m/g/r		 
+397-01	57	Abdomen: soft, ND, NT, nl BS.		 

@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2076-10-07
+
+
+
+
+
+
+
+Hospital De Doctor Pila
+
+0744 Roseann Circle              DIETZ, SUSIE
+
+San Manuel, WY  76846                    53841210
+
+(082) 471-7456                     10/07/2076
+
+
+
+
+
+HISTORY OF PRESENT ILLNESS:  Ms. Dietz is a 59-year-old woman who comes for follow up of diabetes and other medical problems.
+
+
+
+PROBLEMS:
+
+1.  Diabetes mellitus.  Last A1c six months ago was 6.6.  Last eye exam also was six months ago.
+
+2.  Hypertension.  No chest pain, shortness of breath, or pedal edema.
+
+3.  Hypercholesterolemia.  A fasting lipid analysis done five months ago showed total cholesterol of 158, triglycerides of 55, HDL of 52, and an LDL of 95.
+
+
+
+MEDICATIONS:  Aspirin 81 mg p.o. daily, calcium carbonate 600 mg b.i.d., Diovan 80 mg daily, Glucophage 850 mg b.i.d., lorazepam 1 mg q.i.d. p.r.n., Paxil 10 mg daily, and fluvastatin 20 mg daily, but she ran out some time ago.
+
+
+
+REVIEW OF SYMPTOMS:  She has noted some pruritus between several toes on both feet. No significant weight change, febrile signs or symptoms, headache, blurred vision, tinnitus, chest pain, cough, shortness of breath, nausea, abdominal pain, nightsweats, diarrhea, dysuria, polyuria, skin rash, bruising, joint pain, or focal weakness.  
+
+
+
+
+
+PHYSICAL EXAMINATION:  The patient is in no acute distress.  Blood pressure 124/80, weight 154 pounds, and temperature 98.6.  Skin exam: Notable for slight erythema and breakdown between several toes on the right and left feet.  No scaling elsewhere.  Pedal pulses 1+ bilaterally.  Sensation is intact on plantar aspect of both feet.  Chest: Clear to percussion and auscultation.  Extremities: No edema.
+
+
+
+ASSESSMENT AND PLAN:
+
+1.  Diabetes mellitus.  Good control.  Will recheck values today.
+
+2.  Hypertension.  Good control.  Diovan renewed.
+
+3.  Hypercholesterolemia.  I reviewed with the patient the need to take medication essentially for lifelong.  Better control of LDL than previous value also indicated.  I gave her a prescription for Crestor 10 mg p.o. daily.
+
+4.  Tinea pedis.  I explained disorder to the patient and preventive care.  Also, gave prescription for clotrimazole cream.
+
+5.  Adult health maintenance.  Mammogram requested.  Influenza vaccine given.
+
+
+
+
+
+______________________________
+
+Roger S Conrad, M.D.
+
+
+
+
+
+
+
+
+
+
+
+eScription document:2-8665601 EMSSten Tel
+
+
+
+
+
+
+
+DD: 10/07/76
+
+DT: 10/08/76
+
+DV: 10/07/76
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC5" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC8" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC17" time="after DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC13" time="after DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC14" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC15" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC22" time="during DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC23" time="before DCT" type1="ARB" type2=""/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC19" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC20" indicator="not present"/>
+    <SMOKER id="DOC10" status="unknown"/>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC11" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC12" time="before DCT" indicator="A1C"/>
+    <DIABETES id="DOC21" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

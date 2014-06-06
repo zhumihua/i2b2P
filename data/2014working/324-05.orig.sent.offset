@@ -1,0 +1,32 @@
+324-05	4	0	Renal TPx Details:  Cadaveric RTX 2060 w/ CAN and baseline Cr 2.5	rtx FFF 4 4	 FFF 	 FFF 	 FFF 	2060 w/ FFF 5 6	 FFF 	narrative
+324-05	6	0	Current Immsp:  CsA and Prednisone	csa FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+324-05	6	0	Current Immsp:  CsA and Prednisone	prednisone FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+324-05	9	0	He was on Ampicillin for a recent UTI.	ampicillin FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+324-05	11	0	He has chronic lower extremity edema for which he is on  high dose lasix with minimal response.	lasix FFF 13 13	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+324-05	12	0	In ED patient was hypoglycemic with FSBS 46.	hypoglycemic FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+324-05	13	0	He was givin 1amp D50 and a liter of NS IV.	d50 FFF 4 4	a liter FFF 6 7	iv. FFF 10 10	 FFF 	 FFF 	 FFF 	narrative
+324-05	18	0	- Renal Bx (2065): cyclosporine toxicity, nephrolithiasis, TIF	cyclosporine FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+324-05	26	0	- On insulin	insulin FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+324-05	30	0	6. Recurrent LE DVT's - on Coumadin	coumadin FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+324-05	41	438	Neoral 100mg bid po	neoral FFF 0 0	100mg FFF 1 1	po FFF 3 3	bid FFF 2 2	 FFF 	 FFF 	narrative
+324-05	42	438	Prednisone 5/10mg qd po	prednisone FFF 0 0	5/10mg FFF 1 1	po FFF 3 3	qd FFF 2 2	 FFF 	 FFF 	narrative
+324-05	43	438	Lopressor 50mg bid po	lopressor FFF 0 0	50mg FFF 1 1	po FFF 3 3	bid FFF 2 2	 FFF 	 FFF 	narrative
+324-05	44	438	Lasix 80 mg bid po	lasix FFF 0 0	80 mg FFF 1 2	po FFF 4 4	bid FFF 3 3	 FFF 	 FFF 	narrative
+324-05	45	438	Iron Sulfate 325mg bid po	iron sulfate FFF 0 1	325mg FFF 2 2	po FFF 4 4	bid FFF 3 3	 FFF 	 FFF 	narrative
+324-05	46	438	Calcium Carbonate 500 mg tid po	calcium carbonate FFF 0 1	500 mg FFF 2 3	po FFF 5 5	tid FFF 4 4	 FFF 	 FFF 	narrative
+324-05	47	438	Flomax 0.8mg qhs po	flomax FFF 0 0	0.8mg FFF 1 1	po FFF 3 3	qhs FFF 2 2	 FFF 	 FFF 	narrative
+324-05	48	438	Proscar 5 mg qd po	proscar FFF 0 0	5 mg FFF 1 2	po FFF 4 4	qd FFF 3 3	 FFF 	 FFF 	narrative
+324-05	49	438	Coumadin 1 mg qd po	coumadin FFF 0 0	1 mg FFF 1 2	po FFF 4 4	qd FFF 3 3	 FFF 	 FFF 	narrative
+324-05	50	438	Procrit 10,000 U q week (Wed)	procrit FFF 0 0	 FFF 	 FFF 	q week FFF 3 4	 FFF 	 FFF 	narrative
+324-05	51	438	NPH 22 units qam and 10 U qpm, Insulin sliding scale qAC+HS	nph FFF 0 0	22 units FFF 1 2	 FFF 	qam FFF 3 3	 FFF 	 FFF 	narrative
+324-05	51	438	NPH 22 units qam and 10 U qpm, Insulin sliding scale qAC+HS	nph FFF 0 0	10 u FFF 5 6	 FFF 	qpm, FFF 7 7	 FFF 	 FFF 	narrative
+324-05	51	438	NPH 22 units qam and 10 U qpm, Insulin sliding scale qAC+HS	insulin FFF 8 8	sliding scale FFF 9 10	 FFF 	qac+hs FFF 11 11	 FFF 	 FFF 	narrative
+324-05	53	438	Ampicillin 500mg qid	ampicillin FFF 0 0	500mg FFF 1 1	 FFF 	qid FFF 2 2	 FFF 	 FFF 	narrative
+324-05	72	0	Date/Time         NA             K              CL             CO2	na FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+324-05	74	0	Date/Time         BUN            CRE            EGFR           GLU   06/12/2072        89 (*)         3.1 (*)        22 [11]        48	glu FFF 4 4	06/12/2072 FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+324-05	79	0	Date/Time         TP             ALB            GLOB           LDH	alb FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+324-05	146	0	- Would hold further iv fluids.	iv fluids. FFF 4 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+324-05	147	0	- Continue current Lasix dose	lasix FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+324-05	155	0	- Continue CsA and Prednisone	csa FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+324-05	155	0	- Continue CsA and Prednisone	prednisone FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+324-05	156	0	- Check CsA level in the am.	csa FFF 2 2	 FFF 	 FFF 	the am. FFF 5 6	 FFF 	 FFF 	narrative

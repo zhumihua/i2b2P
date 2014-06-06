@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2080-12-12
+
+FREDERICK JEFFERSON
+
+KRMC Unit No: 887-09-86
+
+
+
+ZUCKER HILLSIDE HOSPITAL
+
+
+
+ADULT MEDICINE
+
+
+
+
+
+Date: December 12, 2080
+
+84-year-old male for follow up of a recent hospitalization last weekend.  Apparently, had some mild congestive heart failure, after eating some pizza.  Apparently he ruled out, he was only in the hospital for 24 hours.  Since discharge, he has been doing well.  He feels perhaps a slight tickle in his throat and occasional cough but no PND, orthopnea, dyspnea on exertion or chest pain.  There were no changes of his medication.
+
+PAST MEDICAL HISTORY:  
+
+(1)	CAD with CHF: EF of 25%.
+
+(2)	Hypertension.
+
+(3)	Peripheral vascular disease.
+
+(4)	Gout.
+
+(5)	DJD.
+
+(6)	Renal insufficiency.
+
+(7)	Hyperlipidemia.
+
+(8)	BPH.
+
+MEDICATIONS: Lasix 40 mg b.i.d., digoxin .125 mg q.o.d., Colchicine .6 mg q.o.d., Metoprolol 50 mg twice a day, prednisone 5 mg q.d., Coumadin as per Anticoag Clinic, hydralazine 10 mg q.i.d., Isordil 20 mg t.i.d., K-DUR 20 meq q.d., Hydroxychloroquine 200 mg q.d., calcium and vitamin D twice a day, allopurinol 100 mg q.d., Celebrex 200 mg q.d. and Azulfidine 500 mg taken 3 x per week.
+
+
+
+PHYSICAL EXAM: Weight: 197, down 6 pounds from November.  His blood pressure today is 130/70.  His pulse is in the 80's and slightly irregular.  Neck: 8 cm JVD.  Lungs: Although diminished breath sounds, clear.  Cardiac: Regularly irregular, S1, S2.  Abdomen: Soft and nontender.  Extremities: No edema on the right.  Trace ankle edema on the left.
+
+
+
+A/P:	Status post episode of congestive heart failure due to dietary noncompliance: Appears to be stable now with decrease in his weight. Continue present medical regimen.  We had a discussion on the importance of diet compliance.  Avoid salt products.  Will otherwise see Mrs. Kang later this month in December and I will see him again in January.
+
+David Hale, M.D.
+
+DH/quiggle/nielsen
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC3" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC7" time="after DCT" indicator="mention"/>
+    <MEDICATION id="DOC4" time="after DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC6" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC12" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC14" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC16" time="during DCT" type1="nitrate" type2=""/>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention"/>
+    <CAD id="DOC0" time="before DCT" indicator="mention"/>
+    <CAD id="DOC8" time="during DCT" indicator="mention"/>
+    <CAD id="DOC13" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC15" indicator="not present"/>
+    <SMOKER id="DOC11" status="unknown"/>
+  </TAGS>
+</root>

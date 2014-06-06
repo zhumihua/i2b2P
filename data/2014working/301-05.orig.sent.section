@@ -1,0 +1,131 @@
+301-05	1	0	Record date: 2082-08-21
+301-05	2	0	
+301-05	3	0	TEAM 4 ADMISSION NOTE
+301-05	4	0	PATIENT: Albert, Bobbie
+301-05	5	0	MRN: 7000963
+301-05	6	0	ADMIT DATE:   8/21/82                TIME:  0515 AM
+301-05	7	0	PCP:   Dr. Alexander Petersen
+301-05	8	0	Attending: Dr.
+301-05	9	0	Atkinson, transplant
+301-05	10	0	Code status:
+301-05	11	0	Full
+301-05	12	0	Source: Patient, patient record
+301-05	13	0	CC: dyspnea, hypoxia
+301-05	14	0	HPI:
+301-05	15	0	47 yo man with long-standing bronchiectasis requiring double lung transplant in 2073 who states that for approximately the last month he has felt occasionally dyspneic and &#8220;dizzy&#8221; (which he more specifically describes as a sensation of unsteadiness, not vertigo-like), along with several discrete episodes of nausea with vomiting (maybe three days in the last month, the last time yesterday).
+301-05	16	0	He was visiting friends/family near The Woodlands, when on 8/20 he awoke feeling acutely dyspneic and weak.
+301-05	17	0	He presented to Marion Memorial Hospital, where he was noted to be saturating in the high 90s on 2L, which is his baseline (4L with activity).
+301-05	18	0	Other notable labs were a Cr of 2.3, BNP 84, INR subtherapeutic at 1.4.
+301-05	19	0	CXR was read as no acute processHe was thought to be wheezy, and was given 10 mg of dexamethasone IV, nebulizers.
+301-05	20	0	He was empirically started on a heparin drip (800 unit bolus, 1800 units/hr) given his h/o DVT and a subtherapeutic INR.
+301-05	21	0	He was then transferred to MARY.
+301-05	22	0	In the ED here his INR was 2.4 (and his PTT was over 150).
+301-05	23	0	Upon interview here, he endorses the above history.
+301-05	24	0	Vitals upon arrival to the ED 97.3 79 141/95 24 100%2L.
+301-05	25	0	He also notes that his INR had been stable recently (followed by his PCP) on his current dose of 4 Coumadin daily (except 2 on Mon/Fri).
+301-05	26	0	He denies cough, chest pain, GI symptoms, URI symptoms
+301-05	27	0	15-point ROS negative except as in HPI with following additions: none.
+301-05	28	0	MEDICAL HISTORY
+301-05	29	0	Bronchiectasis, diagnosed as a toddler, with double lung transplant in 2073
+301-05	30	0	Chronic renal insufficiency (baseline cr from 2.3-3)
+301-05	31	0	Depression
+301-05	32	0	Gout
+301-05	33	0	Hyperlipidemia
+301-05	34	0	Hypertension
+301-05	35	0	Obesity
+301-05	36	0	Sleep apnea, on bipap nocturnally at 18/12
+301-05	37	0	Cataracts
+301-05	38	0	Lung transplantation, status post
+301-05	39	0	Chronic rejection
+301-05	40	0	Deep venous thrombosis in October of 2081.
+301-05	41	0	Plan is for perpetual anticoagulation given risk factors.
+301-05	42	0	Dizziness
+301-05	43	0	Hypokalemia
+301-05	44	0	Hypomagnesemia
+301-05	45	0	Insomnia
+301-05	46	0	Pseudomonas pulmonary infection
+301-05	47	0	h/o suspected cute rejection
+301-05	48	438	MEDICATIONS ON ADMISSION:
+301-05	49	438	  1. Acetylsalicylic Acid (Aspirin)  81 MG PO QD
+301-05	50	438	  2. Acyclovir    200 MG PO BID
+301-05	51	438	  3. Albuterol Nebulizer Solution  2.5 MG NEB Q8H prn dypsnea
+301-05	52	438	  4. Albuterol Inhaler Hfa  1 PUFF INH Q4H prn dyspnea, wheezing
+301-05	53	438	  5. Amlodipine (Norvasc)  10 MG PO QD
+301-05	54	438	  6. Amoxicillin  500 MG PO
+301-05	55	438	                takke 4 tabs 1 hour prior to dental procedures
+301-05	56	438	  7. Atorvastatin (Lipitor)  40 MG PO QD
+301-05	57	438	  9. Azithromycin  250 MG PO QMWF
+301-05	58	438	10. Bupropion Hcl Sustained Release (12 Hr Tab) (Wellbutrin Sr)  150 MG PO BID
+301-05	59	438	11. Bupropion Hcl (Wellbutrin)  150 MG PO BID
+301-05	60	438	12. Calcium Citrate  Alternate PO BID
+301-05	61	438	                                500 mg bid
+301-05	62	438	13. Colchicine   0.6 MG PO QD for gout prophylaxis
+301-05	63	438	14. Colistimethate (Colistin )  150 MG NEB QD
+301-05	64	438	15. Doxycycline Monohydrate  100 MG PO BID
+301-05	65	438	16. Ergocalciferol  50000 UNITS PO QWEEK
+301-05	66	438	17. Escitalopram (Lexapro)  20 MG PO QD
+301-05	67	438	18. Esomeprazole  40 MG PO QD
+301-05	68	438	19. Fluticasone Propionate Nasal Spray (Flonase  )  1 SPRAY NAS QD
+301-05	69	438	20. Fluticasone Prop/Salmeterol 250/50 (Advair Diskus 250/50)  1 INHALATION INH BID
+301-05	70	438	21. Ipratropium Nebulizer (Atrovent Nebulizer)  0.5 MG NEB TID prn dyapnea
+301-05	71	438	22. Magnesium Gluconate  1000 MG PO TID
+301-05	72	438	23. Metoclopramide Hcl  10 MG PO QID (AC + HS)
+301-05	73	438	24. Metoprolol Succinate Extended Release  100 MG PO QD
+301-05	74	438	25. Multivitamins  1 TAB PO QD
+301-05	75	438	26. Mycophenolate Mofetil (Cellcept)  500 MG PO BID
+301-05	76	438	27. Prednisone  Alternate PO QD
+301-05	77	438	                12.5 mg
+301-05	78	438	28. Ranitidine Hcl  150 MG PO BID
+301-05	79	438	29. Tacrolimus (Prograf)  Alternate PO BID
+301-05	80	438	                6 mg
+301-05	81	438	30. Trimethoprim /Sulfamethoxazole Single Strength (Bactrim Ss)  1 TAB PO QMONDAY, WEDNESDAY, FRIDAY
+301-05	82	438	31. Warfarin Sodium (Coumadin)  Alternate PO
+301-05	83	438	
+301-05	84	438	4 mg daily, except 2 mg Mon/Fri
+301-05	85	438	NOTE THAT LASIX WAS RECENTLY DISCONTINUED BY DR.
+301-05	86	438	ATKINSON
+301-05	87	448	ALLERGIES:
+301-05	88	448	NKDA
+301-05	89	448	FAMILY HISTORY
+301-05	90	448	Notable for maternal aunt with Cancer.
+301-05	91	448	SOCIAL HISTORY
+301-05	92	448	The patient lives in Earle, Florida.
+301-05	93	448	He doesn&#8217;t currently work, but used to be a Motion Picture Manager.
+301-05	94	448	He has never smoked.
+301-05	95	448	PHYSICAL EXAM
+301-05	96	0	VITALS:  T:  97.9   HR:   74     BP: 162/96     O2Sat: 99% 2L Weight 304 lbs
+301-05	97	0	GEN&#8217;L: pleasant, no acute distress, cushingoid body habitus
+301-05	98	0	SKIN: dry, no rashes noted
+301-05	99	0	HEENT: normocephalic, atraumatic, mucus membranes moist
+301-05	100	0	NECK: no cervical lymphadenopathy noted, supple
+301-05	101	0	HEART: RRR, no m/r/g
+301-05	102	0	LUNG: CTAB &#8211; unable to appreciate any wheezes
+301-05	103	0	ABD: NT/ND/+BS
+301-05	104	0	EXT: no c/c/e bilaterally
+301-05	105	0	NEURO: CN 2-12 intact.
+301-05	106	0	Strength 5/5 in all extremities, major muscle groups
+301-05	107	0	LABORATORY STUDIES
+301-05	108	0	Creatinine 2.35, glucose 239
+301-05	109	0	CK and troponin I negative in ED
+301-05	110	0	WBC 8.1, Hct 35, platelets 128
+301-05	111	0	INR 2.3, PTT over 150 in ED
+301-05	112	0	1 am tacro level pending
+301-05	113	0	CXR with no evidence of infiltrate, volume overload.
+301-05	114	0	ASSESSMENT &amp; PLAN
+301-05	115	0	47-year-old man with h/o double lung transplant admitted with one-month h/o subjective dyspnea (without hypoxia), weakness, and intermittent nausea.
+301-05	116	0	Workup relatively unremarkable so far.
+301-05	117	0	History not c/w PE, lungs clear on admission exam, no fever or leukocytosis or cough endorsed.
+301-05	118	0	Dyspnea/nausea/weakness:
+301-05	119	0	-check orthostatics
+301-05	120	0	-continue heparin drip at reduced rate (units/hr), recheck INR this am, continue coumadin at home dose, lower extremity ultrasound to eval for DVT (as possible proxy for PE)
+301-05	121	0	-continue rglan per home regimen
+301-05	122	0	-transplant service to follow
+301-05	123	0	-lung exam currently clear, little suspicion for COPD flare &#8211; will resume steroids at home dose (12.5 mg)
+301-05	124	0	-schedule duonebs
+301-05	125	0	s/p lung transplant: missed last night&#8217;s doses of mycophenolate and tacro, got them at 4 am today in ED
+301-05	126	0	-discussed with pulm &#8211; hold am dose of mycophenolate/tacro today, restart this evening
+301-05	127	0	-continue prophylactic meds/abx: colistin, azithro, bactrim, doxy
+301-05	128	0	Renal insufficiency: at baseline.
+301-05	129	0	Seems relatively euvolemic -will continue colchicine for gout proph as this has been long-standing
+301-05	130	0	-lasix still on hold
+301-05	131	0	-BNP was low at OSH; don&#8217;t suspect volume overload

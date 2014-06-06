@@ -1,0 +1,127 @@
+364-02||1||Record date: 2121-08-10
+364-02||3||SMHFC 7 Intern Admission Note
+364-02||4||Patient Name: Uribe, Walter
+364-02||5||MRN: 4067033
+364-02||6||Date of Admission: 8/09/2121
+364-02||7||Attending: Thomas Wyatt
+364-02||8||PCP: Ulisses Xuan (Santa Barbara General Hospital)
+364-02||9||Source of History: Patient and medical record
+364-02||10||CC/RFA: SOB, extremity edema, abdominal discomfort
+364-02||11||HPI: This 53 yoM with a hx of morbid obesity, CHF, COPD, Diabetes and OSA reports a increase in his weight from 395 lb to 450 lb over the last 2-4 weeks.
+364-02||12||This occurred despite his efforts to lose weight and his active participation in a weight watchers weight reduction program.
+364-02||13||The weight gain was accompanied by abdominal distension and    bloating   , increased leg swelling and increasing SOB.
+364-02||14||He also reports severe DoE, with a maximal walking distance of 5-6 steps, as well as a deteriorating a scrotal edema with some dysuria, and rectal incontinence.
+364-02||15||Since the recent weight gain, he also developed an extensive itchy erythema in his groins.
+364-02||16||He denies CP, diarrhea, HA, fever, chills, cough.
+364-02||17||His PCP prescribed metoclopramid and protonix for his abdominal complaints; however, the patient felt dizzy and dehydrated after taking these medications and decided to discontinue those.||DBN FFF protonix FFF 5 5||INDICATION FFF dehydrated FFF 16 16||
+364-02||17||His PCP prescribed metoclopramid and protonix for his abdominal complaints; however, the patient felt dizzy and dehydrated after taking these medications and decided to discontinue those.||DPN FFF these medications FFF 19 20||
+364-02||18||He also stopped taking his regular lasix medication about a week ago.||DBN FFF lasix FFF 6 6||DRT FFF a week FFF 9 10||
+364-02||19||Because of his increasing SOB, he called EMS, who found him cyanotic in his apartment with an Sa02 of 73% on RA.
+364-02||20||ED Course: On arrival in the ED, his VS were: T98, BP108/65, RR24, HR100, O2Sa 92% on 4L 02.
+364-02||21||He received one dose of lasix 80mg iv, urine output unrecorded.||DOSEAMT FFF one dose FFF 2 3||DBN FFF lasix FFF 5 5||DOSE FFF 80mg FFF 6 6||RUT FFF iv, FFF 7 7||
+364-02||22||He was transferred to Internal Medicine for further management.
+364-02||23||PMH/PSH:
+364-02||24||Obstructive sleep apnea
+364-02||25||COPD
+364-02||26||CHF (EF in 2117: 53%)
+364-02||27||Hyperlipidemia
+364-02||28||Pulmonary hypertension
+364-02||29||HTN
+364-02||30||NIDDM
+364-02||31||Venous stasis with chronic leg ulcers
+364-02||32||Morbid obesity
+364-02||33||Peripheral neuropathy
+364-02||34||S/p PNAx2
+364-02||35||Medications:
+364-02||36||Aspirin 325 QD||DIN FFF aspirin FFF 0 0||DOSE FFF 325 FFF 1 1||FREQ FFF qd FFF 2 2||
+364-02||37||Verapamil 60mg TID||DIN FFF verapamil FFF 0 0||DOSE FFF 60mg FFF 1 1||FREQ FFF tid FFF 2 2||
+364-02||38||Glybyride 5mg QD
+364-02||39||Lasix 80mg QD||DBN FFF lasix FFF 0 0||DOSE FFF 80mg FFF 1 1||FREQ FFF qd FFF 2 2||
+364-02||40||Protonix 40mg QD||DBN FFF protonix FFF 0 0||DOSE FFF 40mg FFF 1 1||FREQ FFF qd FFF 2 2||
+364-02||41||Metoclopramide 5mg QD||DIN FFF metoclopramide FFF 0 0||DOSE FFF 5mg FFF 1 1||FREQ FFF qd FFF 2 2||
+364-02||42||Family Hx: Mother: Diabetes, Father/son: bipolar disorder.
+364-02||43||Social Hx: Married, two children, used to work as die setter for 25 years, has not worked for last 5 years.
+364-02||44||Quite smoking 6 years ago, total ca. 30-40 py. Denies EtOH, illicit drugs.||DIN FFF illicit drugs. FFF 11 12||
+364-02||45||Allergies: NKDA
+364-02||46||Physical Exam:
+364-02||47||VS: T97.9, P101, BP 117/55, RR20, Sa02 85% on RA, 92% on 3l 02
+364-02||48||General: interactive, mild respiratory distress,
+364-02||49||HEENT: EOMI, PERRLA, AT
+364-02||50||Neck: no LAN
+364-02||51||CV: basal crackles bilaterally
+364-02||52||Chest: S1 S2, RRR,
+364-02||53||Abd: morbid obesity, BS+, mild diffuse tenderness in r lower abdomen, large itching erythema in groins bilaterally. 3+ Scrotal edema
+364-02||54||Back: diffuse tenderness in R flank
+364-02||55||Ext: 2+ edema.
+364-02||56||Peripheral pulses+,  LE cool.
+364-02||57||Neuro: alert, oriented x3, CN II-XII ok, no sensation defects
+364-02||58||Skin: granulated leg ulcer on R LE, bilateral mal-odorous groin erythemas
+364-02||59||Labs:
+364-02||60||WBC                              7.3                       (4.5-11.0)     th/cmm
+364-02||61||HCT                              43.1                      (41.0-53.0)    %
+364-02||62||HGB                              14.9                      (13.5-17.5)    gm/dl
+364-02||63||RBC                              4.69                      (4.50-5.90)    mil/cmm
+364-02||64||PLT                              186                       (150-350)      th/cumm
+364-02||65||MCV                              92                        (80-100)       fl
+364-02||66||MCH                              31.8                      (26.0-34.0)    pg/rbc
+364-02||67||MCHC                             34.6                      (31.0-37.0)    g/dl
+364-02||68||RDW                              16.1             H        (11.5-14.5)    %
+364-02||69||Superstat PT                     15.2             H        (11.1-13.6)    sec||DIN FFF superstat FFF 0 0||DRT FFF 15.2 h FFF 2 3||
+364-02||69||Superstat PT                     15.2             H        (11.1-13.6)    sec||DIN FFF sec FFF 5 5||
+364-02||71||Superstat PT-INR                 1.3||DIN FFF superstat FFF 0 0||
+364-02||72||Superstat APTT                   29.0                      (22.1-34.0)    sec||DIN FFF superstat FFF 0 0||
+364-02||72||Superstat APTT                   29.0                      (22.1-34.0)    sec||DIN FFF sec FFF 4 4||
+364-02||73||Diff Method                      Auto
+364-02||74||Poly                             76               H        (40-70)        %
+364-02||75||Lymphs                           16               L        (22-44)        %
+364-02||76||Monos                            5                         (4-11)         %
+364-02||77||EOS                              2                         (0-8)          %
+364-02||78||Basos                            1                         (0-3)          %
+364-02||79||Absolute Neuts                   5.61                      (1.8-7.7)      th/cmm
+364-02||80||Absolute Lymphs                  1.13                      (1.0-4.8)      th/cmm
+364-02||81||Absolute Monos                   0.36                      (0.2-0.4)      th/cmm
+364-02||82||Absolute EOS                     0.15                      (0.1-0.3)      th/cmm
+364-02||83||Absolute Basos                   0.06                      (0.0-0.3)      th/cmm
+364-02||84||Aniso                            1+               H        (None)
+364-02||85||Hypo                             1+               H        (None)
+364-02||86||Macrocytes                       None                      (None)
+364-02||87||Calcium                          7.1              L        (8.5-10.5)     mg/dl||DIN FFF calcium FFF 0 0||DOSE FFF 7.1 l FFF 1 2||
+364-02||88||Phosphorus                       3.5                       (2.6-4.5)      mg/dl
+364-02||89||Magnesium                        1.2              L        (1.4-2.0)      meq/L||DIN FFF magnesium FFF 0 0||DOSE FFF 1.2 l FFF 1 2||
+364-02||90||Total Protein                    6.4                       (6.0-8.3)      g/dl
+364-02||91||Albumin                          2.8              L        (3.3-5.0)      g/dl||DIN FFF albumin FFF 0 0||DOSE FFF 2.8 l FFF 1 2||
+364-02||92||Globulin                         3.6                       (2.6-4.1)      g/dl
+364-02||93||Direct Bilirubin                 0.4                       (0-0.4)        mg/dl
+364-02||94||Total Bilirubin                  0.7                       (0.0-1.0)      mg/dl
+364-02||95||Alkaline Phosphatase             87                        (45-115)       U/L
+364-02||96||Transaminase-SGPT                42                        (10-55)        U/L
+364-02||97||Amylase                          24                        (3-100)        units/L||DIN FFF amylase FFF 0 0||DOSE FFF 24 FFF 1 1||
+364-02||98||Lipase                           3.2                       (1.3-6.0)      U/dl||DIN FFF lipase FFF 0 0||DOSE FFF 3.2 FFF 1 1||
+364-02||99||NT-proBNP                        1326             H        (0-900)        pg/ml
+364-02||100||Transaminase-SGOT                42               H        (10-40)        U/L
+364-02||101||Sodium (Stat Lab)                137                       (135-145)      mmol/L
+364-02||102||Potassium (Stat Lab)             4.1                       (3.4-4.8)      mmol/L
+364-02||103||Chloride (Stat Lab)              102                       (100-108)      mmol/L
+364-02||104||CO2 (Stat Lab)                   33.3             H        (23.0-31.9)    mmol/L
+364-02||105||BUN (Stat Lab)                   22                        (8-25)         mg/dl
+364-02||106||Creatinine (Stat Lab)            0.9                       (0.6-1.5)      mg/dl
+364-02||107||Glucose (Stat Lab)               159              H        (70-110)       mg/dl
+364-02||108||Creatine Kinase Isoenzymes       NEGATIVE                  (NEG)
+364-02||109||Troponin-I                       NEGATIVE                  (NEG)
+364-02||110||UA-Specific Gravity              1.015                     (1.001-1.035)
+364-02||111||UA-pH                            5.0                       (5.0-9.0)
+364-02||112||UA-WBC Screen                    NEGATIVE                  (NEG)
+364-02||113||UA-Nitrite                       NEGATIVE                  (NEG)
+364-02||114||UA-Albumin                       NEGATIVE                  (NEG)
+364-02||115||UA-Glucose                       NEGATIVE                  (NEG)
+364-02||116||UA-Ketones                       NEGATIVE                  (NEG)
+364-02||117||UA-Occult Blood                  NEGATIVE                  (NEG)
+364-02||118||EKG: SR @90 BPM, low voltage, 1. degree heart block, right axis deviation
+364-02||119||Radiology:
+364-02||120||CXR (portable): Low lung volumes.
+364-02||121||Pulmonary vascular redistribution cannot be excluded on this semi upright film.
+364-02||122||CXR (pa/lat): Mild pulmonary congestion with cardiomegaly.
+364-02||123||Small right pleural effusion.
+364-02||124||Stable elevated right hemidiaphragm.
+364-02||125||Assessment and Plan:
+364-02||126||53 yoM with hx of morbid obesity, CHF,  HTN, COPD, DM type 2, OSA, p/w increasing SOB and abdominal discomfort.

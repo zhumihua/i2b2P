@@ -1,0 +1,128 @@
+331-04	1	0	Record date: 2080-11-09
+331-04	2	0	MANAMANA INPATIENT RENAL TRANSPLANT ADMIT NOTE
+331-04	3	0	Referring Physician: Dr. Amar Jacoby
+331-04	4	0	Outpatient Nephrologist: Dr. Pao Arias
+331-04	5	0	Reason for Admission: Living unrelated renal transplant
+331-04	6	0	CMV status: Donor negative, Recipient Negative
+331-04	7	0	HLA: share one HLA-B and HLA-DR locus antigen, negative cross-match
+331-04	8	0	Induction: Simulect, Prograf, MMF, steroid taper
+331-04	9	0	HPI: 76-year-old man with history of per-ESRD 2/2 DM, HTN underwent pre-emptive living unrelated (stepson) renal transplant on 11/08/80.
+331-04	10	0	The patient denies any uremia symptoms before transplant.
+331-04	11	0	Operative course complicated by slight hypoperfusion of the allograft immediately post-implant.
+331-04	12	0	Needed dopamine for SBP of 120.
+331-04	13	0	After few minutes post-implant - spontaneous perfusion of the allograft - good urine output since.
+331-04	14	0	Overnight, no complaints. 2600 cc Input/ 5885 cc urine output.
+331-04	15	0	Past Medical History:
+331-04	16	0	ESRD 2/2 DM and HTN x 10years- good urine output prior to transplant.
+331-04	17	0	No uremia symptoms.
+331-04	18	0	No retinopathy, CAD, peripheral neuropathy. -Dialysis access: Placed LUE AVF, not needed as yet -Adenomatous polyp : May 2078
+331-04	19	0	-Gastritis : H. pylori positive
+331-04	20	0	-Diastolic dysfunction
+331-04	21	0	-Hyperlipidemia
+331-04	22	0	-Hyerparathyroidism - PTH 154 in Oct, 2079H
+331-04	23	0	-H/o Transient ischemic attack 2073
+331-04	24	0	-S/p R Inguinal Hernia repair, 2078
+331-04	25	0	-S/p Umbilical Hernia repair, 2079
+331-04	26	0	Current Transplant:  Date 11/08/80, donor type ABO B (same as recipient), CIT, stent
+331-04	27	0	Previous Transplants: none
+331-04	28	0	Immunologic history: Transfusions - none
+331-04	29	0	Past Dialysis Modalities: left UE AVF(never used)
+331-04	30	0	Past Surgical History: AVF
+331-04	31	448	Allergies: NKDA
+331-04	32	438	Medications:
+331-04	33	438	Bactrim 1 qod
+331-04	34	438	Valcyte 1 qod
+331-04	35	438	Rocaltrol 0.25 qd
+331-04	36	438	Nexium
+331-04	37	438	Cellcept 1000mg bid
+331-04	38	438	Lopressor 5mg q6hr
+331-04	39	0	Social History:   Retired flying instructor; worked in private airfield.
+331-04	40	0	Appears younger than stated age.
+331-04	41	0	Lives with wife who is well but does not drive.  2 daughters and 2 sons. Tob: Quit 35 years ago
+331-04	42	0	ETOH:  none
+331-04	43	0	Family History:  Mom,died due to blood disorder, .
+331-04	44	0	Dad died in young age.
+331-04	45	0	Has 3 siblings, all healthy without medical problems.
+331-04	46	0	No family history of kidney disease, HTN, DM, heart disease, CVA, or malignancy.
+331-04	47	0	Review of Systems:
+331-04	48	0	Constitutional:  fair energy and appetite.  weight loss of 40lb over the past year.
+331-04	49	0	Pulmonary: No asthma/COPD, no pneumonias, negative TB testing.
+331-04	50	0	Cardiovascular: No MI, CHF, rheumatic heart disease.
+331-04	51	0	No DOE, PND, or exertional chest pain.
+331-04	52	0	No history of elevated cholesterol.
+331-04	53	0	Gastrointestinal: No PUD, liver disease, gallbladder disease, melana, BRBPR, diarrhea or constipation.
+331-04	54	0	GU: No UTI's, strong urine stream, no hesitancy or dribbling, no kidney infections.
+331-04	55	0	Endocrine: diabetes
+331-04	56	0	Skin: no rashes or easy bruising
+331-04	57	0	Hematologic: No history of anemia, sickle cell disease/trait
+331-04	58	0	Rheumatologic: No arthritis or gout
+331-04	59	0	Vascular: No history of phlebitis, clots or varicose veins
+331-04	60	0	Oncologic: No history of cancer, skin cancers, papilloma, PTLD
+331-04	61	0	Neurologic: No headaches, history of seizures, or stroke
+331-04	62	0	Psychiatric: No history of depression, anxiety or other psychiatric disorders
+331-04	63	0	PHYSICAL EXAM
+331-04	64	0	Weight: 95Kg
+331-04	65	0	Temp: 98.7
+331-04	66	0	BP: 160/70mmHg
+331-04	67	0	HR: 69/min
+331-04	68	0	Gen: Pleasant man in NAD.
+331-04	69	0	HEENT: sclerae non-icteric, O&P clear and moist
+331-04	70	0	Neck: supple, no LAD, no thyromegaly, CVP 10-12 cm
+331-04	71	0	Lungs: CTA b/l
+331-04	72	0	Cor: regular, s1s2, no m/c/r/g
+331-04	73	0	Abd: soft, NTND, no HSM, no abdominal bruits
+331-04	74	0	Transplant Kidney: LIF/RIF - nontender
+331-04	75	0	Ext: no edema in LE b/l, 2+ pulses distally
+331-04	76	0	Skin: warm, smooth, no rashes
+331-04	77	0	Back: no CVAT
+331-04	78	790	LABS:
+331-04	79	790	Results
+331-04	80	790	11/09/2080 NA 137,  K 4.8,  CL 105,  CO2 18 (*),  BUN 64 (*),  CRE 4.8 (*),  EGFR 13,  GLU 182 (*)
+331-04	81	790	11/08/2080 NA 141,  K 5.0,  CL 111 (*),  CO2 20 (*),  BUN 60 (*),  CRE 5.2 (*),  EGFR 12,  GLU 114
+331-04	82	790	11/08/2080 GLU 72
+331-04	83	790	11/02/2080 NA 141,  K 5.3 (*),  CL 109 (*),  CO2 23,  BUN 81 (*),  CRE 5.6 (*),  EGFR 11,  GLU 92
+331-04	84	790	11/09/2080 ANION 14
+331-04	85	790	11/08/2080 ANION 10
+331-04	86	790	11/02/2080 ANION 9
+331-04	87	790	11/09/2080 CA 7.6 (*),  PHOS 4.4,  LDH 208
+331-04	88	790	11/08/2080 CA 7.4 (*),  PHOS 3.9,  LDH 187
+331-04	89	790	11/08/2080 IC 1.13
+331-04	90	790	11/02/2080 CA 8.7 (*),  TBILI 1.1,  TP 7.4,  ALB 4.2,  GLOB 3.2
+331-04	91	790	11/09/2080 25VITD 38
+331-04	92	790	11/08/2080 25VITD UNSATISFACTORY, NO SPECIMEN RECEIVED
+331-04	93	790	11/08/2080 bPO2 45 (*),  bPCO2 47,  bPH 7.33 (*),  UBASEX -2,  O2 Sat 81.1 (*),  NA-PL 144 (*),  K-PL 4.4,  CO2-PL 26
+331-04	94	790	11/08/2080 HGB BG 9.4 (*),  HCT-BG 28 (*)
+331-04	95	790	11/02/2080 ALT/SGPT 21 (#),  AST/SGOT 25,  ALKP 147 (*),  TBILI 1.1
+331-04	96	790	11/09/2080 CK 672 (*),  CK-MB 5.2 (*),  TROP-I <0.10 (LESS THAN ASSAY RANGE)
+331-04	97	790	11/09/2080 LDH 208
+331-04	98	790	11/09/2080 CK 578 (*),  CK-MB 3.6,  TROP-I <0.10 (LESS THAN ASSAY RANGE)
+331-04	99	790	11/08/2080 CK 597 (*),  CK-MB 2.9,  LDH 187,  TROP-I <0.10 (LESS THAN ASSAY RANGE)
+331-04	100	790	11/09/2080 PTH 367 (*)
+331-04	101	790	11/09/2080 HGBA1C PEND
+331-04	102	790	11/08/2080 HGBA1C 6.2 (*)
+331-04	103	790	11/09/2080 WBC 9.00,  RBC 3.29 (*),  HGB 9.7 (*),  HCT 28.1 (*),  MCV 85.2,  MCH 29.4 (#),  MCHC 34.4,  PLT 144 (*)
+331-04	104	790	11/08/2080 WBC 6.71,  RBC 3.34 (*),  HGB 9.2 (*),  HCT 28.4 (*),  MCV 84.8,  MCH 27.6,  MCHC 32.5,  PLT 149 (*)
+331-04	105	790	11/07/2080 WBC 3.70 (*),  RBC 3.68 (*),  HGB 10.2 (*),  HCT 31.0 (*),  MCV 84.3,  MCH 27.6,  MCHC 32.8,  PLT 159
+331-04	106	790	11/02/2080 WBC 3.94 (*),  RBC 3.55 (*),  HGB 9.9 (*),  HCT 29.9 (*),  MCV 84.3 (#),  MCH 28.0,  MCHC 33.2,  PLT 140 (*)
+331-04	107	790	11/09/2080 RDW 14.2
+331-04	108	790	11/08/2080 RDW 13.8
+331-04	109	790	11/07/2080 RDW 13.6
+331-04	110	790	11/02/2080 RDW 13.5
+331-04	111	790	11/09/2080 %POLY-M 94 (*#),  %BAND-M 3,  %LYMPH-M 2 (*)
+331-04	112	790	11/08/2080 %POLY-A 88.4 (*#),  %LYMPH-A 8.2 (*#),  %MONO-A 2.1 (*#),  %EOS-A 1.1,  %BASO-A 0.2
+331-04	113	790	11/07/2080 %POLY-A 48.2,  %LYMPH-A 35.3,  %MONO-A 7.2,  %EOS-A 8.9 (*),  %BASO-A 0.5
+331-04	114	790	11/09/2080 %ATYPS 0,  %MONO-M 1 (*),  %EOS-M 0,  %BASO-M 0
+331-04	115	790	11/08/2080 ANEUT-A 5.93,  ALYMP-A .55 (*),  AMONO-A 0.14,  AEOS-A 0.07,  ABASO-A 0.01
+331-04	116	790	11/07/2080 ANEUT-A 1.78 (*),  ALYMP-A 1.3,  AMONO-A 0.27,  AEOS-A 0.33,  ABASO-A 0.02
+331-04	117	790	11/09/2080 ANISO 1+,  BURRS 1+,  OVALS 1+,  SCHIST 1+,  PLT-EST SL DEC
+331-04	118	790	11/08/2080 HYPO +,  LShift +
+331-04	119	790	11/07/2080 PT 15.3 (*),  PT-INR 1.2 (*),  PTT 32.8
+331-04	120	790	11/02/2080 PT 15.3 (*),  PT-INR 1.2 (*),  PTT 33.2
+331-04	121	790	11/09/2080 TACRO PEND
+331-04	122	0	ASSESSMENT AND PLAN:
+331-04	123	0	1. S/P LURTx: simulect + cellcept + FK + Pred taper - after 5th day steroid free regimen
+331-04	124	0			- monitor UOP and chem - 7 - 1/2cc/cc replacement, follow CVP parameters
+331-04	125	0			- SBP 140-160mmHg, will avoid hypotension
+331-04	126	0			- renal diet
+331-04	127	0			- calcitriol 0.5mcg qd
+331-04	128	0			- iron studies

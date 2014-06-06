@@ -1,0 +1,39 @@
+254-05||1||Record date: 2088-11-29
+254-05||2||LCFMC D Housestaff Admission Note
+254-05||3||Intern: Woods
+254-05||4||Att:Ball
+254-05||5||CC:||TOD FFF cc: FFF 0 0||
+254-05||6||Dyspnea/Chest pain||INDICATION FFF dyspnea/chest FFF 0 0||INDICATION FFF dyspnea/chest pain FFF 0 1||
+254-05||7||HPI: 76 year old Spanish speaking male with numerous medical problems (IDDM, Afib, HTN, PVD, Cr baseline 1.7, no prior HF,, normal echo 2085, normal MIBI 2085) who was just dishcharged 28 days ago for LE edema admission, who complains of 3 weeks of sore throat.||DRT FFF 76 year FFF 1 2||INDICATION FFF (iddm, FFF 11 11||INDICATION FFF afib, FFF 12 12||INDICATION FFF htn, FFF 13 13||INDICATION FFF pvd, FFF 14 14||DRT FFF 28 days FFF 31 32||INDICATION FFF le FFF 35 35||INDICATION FFF edema FFF 36 36||DRT FFF 3 weeks FFF 41 42||INDICATION FFF sore throat. FFF 44 45||
+254-05||8||He states that because of this he has suffered from a gradual dyspnea, complicated by orthopnea and PND for two days.||INDICATION FFF dyspnea, FFF 12 12||INDICATION FFF orthopnea FFF 15 15||DRT FFF for two days. FFF 18 20||
+254-05||9||He states he has left sided pleuritic chest pain worse with inspiration.||INDICATION FFF chest pain FFF 7 8||
+254-05||10||He states he also has noticed increased baseline LE edema for 2 weeks, but denies and increase in abdominal girth.||INDICATION FFF le FFF 8 8||INDICATION FFF edema FFF 9 9||DRT FFF 2 weeks, FFF 11 12||
+254-05||11||He states he decided to seek medical treatment for his gradual onset shortness of breath.||INDICATION FFF shortness of breath. FFF 12 14||
+254-05||12||The patient states he has been taking all of his medications and has not increased the sodium in his diet recently.||DIN FFF sodium FFF 16 16||
+254-05||13||He denies fever, chills, dysuria, asymettric leg swelling, or any palpable blood vessels in his legs.||INDICATION FFF fever, FFF 2 2||INDICATION FFF leg swelling, FFF 6 7||
+254-05||14||Of note the patient is on 80 mg BID of lasix for his LE edema though his most recent echo, 2085, shows a normal EF and the patient has no history of CHF.||DOSE FFF 80 mg FFF 6 7||FREQ FFF bid FFF 8 8||DBN FFF lasix FFF 10 10||INDICATION FFF le FFF 13 13||INDICATION FFF edema FFF 14 14||INDICATION FFF ef FFF 24 24||INDICATION FFF chf. FFF 32 32||
+254-05||15||Ed Course: Routine labs and blood cultures were drawn.||INDICATION FFF ed FFF 0 0||
+254-05||16||ROS:  As above||INDICATION FFF as FFF 1 1||
+254-05||17||PMH:
+254-05||18||chronic LE ulcers AF on Coumadingout - currently no symptomsDMHTN OSAPVD CRI, bl cr=1.8Hypercholesterolemia||INDICATION FFF le FFF 1 1||INDICATION FFF ulcers FFF 2 2||INDICATION FFF af FFF 3 3||INDICATION FFF bl FFF 12 12||INDICATION FFF cr=1.8hypercholesterolemia FFF 13 13||
+254-05||19||MEDS: patient doesnt know, from last DC summary
+254-05||20||1. WARFARIN SODIUM   4 MG PO  QPM  2.  ACETAMINOPHEN   650 MG PO  Q4H     PRN Pain||DIN FFF warfarin sodium FFF 1 2||DOSE FFF 4 mg FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF qpm FFF 6 6||DIN FFF acetaminophen FFF 8 8||DOSE FFF 650 mg FFF 9 10||RUT FFF po FFF 11 11||FREQ FFF q4h FFF 12 12||NEC FFF prn FFF 13 13||INDICATION FFF pain FFF 14 14||
+254-05||21||3.  ACETYLSALICYLIC ACID   325 MG PO  DAILY  4.  DOCUSATE SODIUM   100 MG PO  BID  5.  FLUTICASONE PROP/SALMETEROL 250/50   1 INHALATION INH  BID  6.||DBN FFF acetylsalicylic acid FFF 1 2||DOSE FFF 325 mg FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF daily FFF 6 6||DIN FFF docusate sodium FFF 8 9||DOSE FFF 100 mg FFF 10 11||RUT FFF po FFF 12 12||FREQ FFF bid FFF 13 13||DIN FFF fluticasone FFF 15 15||DIN FFF prop/salmeterol FFF 16 16||DOSE FFF 250/50 FFF 17 17||DOSEAMT FFF 1 FFF 18 18||RUT FFF inhalation FFF 19 19||RUT FFF inh FFF 20 20||FREQ FFF bid FFF 21 21||
+254-05||22||FUROSEMIDE   80 MG PO  BID  7.  GABAPENTIN   300 MG PO  TID  8.  INSULIN ASPART   Sliding Scale (subcutaneously) SC  AC+HS  9.||DIN FFF furosemide FFF 0 0||DOSE FFF 80 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF bid FFF 4 4||DIN FFF gabapentin FFF 6 6||DOSE FFF 300 mg FFF 7 8||RUT FFF po FFF 9 9||FREQ FFF tid FFF 10 10||DIN FFF insulin aspart FFF 12 13||DOSE FFF sliding scale FFF 14 15||RUT FFF (subcutaneously) FFF 16 16||RUT FFF sc FFF 17 17||TOD FFF ac+hs FFF 18 18||FREQ FFF ac+hs FFF 18 18||
+254-05||23||INSULIN NPH HUMAN   50 UNITS SC  BID  10.||DIN FFF insulin nph human FFF 0 2||DOSEAMT FFF 50 units FFF 3 4||RUT FFF sc FFF 5 5||FREQ FFF bid FFF 6 6||
+254-05||24||IPRATROPIUM AND ALBUTEROL SULFATE   2 PUFF INH  QID  11.||DIN FFF ipratropium FFF 0 0||DIN FFF albuterol sulfate FFF 2 3||DOSEAMT FFF 2 puff FFF 4 5||RUT FFF inh FFF 6 6||FREQ FFF qid FFF 7 7||
+254-05||25||LORATADINE   10 MG PO  DAILY  12. METOPROLOL TARTRATE   25 MG PO  BID  13. MUPIROCIN   TOPICAL TP  BID  14.||DIN FFF loratadine FFF 0 0||DOSE FFF 10 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF daily FFF 4 4||DIN FFF metoprolol tartrate FFF 6 7||DOSE FFF 25 mg FFF 8 9||RUT FFF po FFF 10 10||FREQ FFF bid FFF 11 11||DIN FFF mupirocin FFF 13 13||RUT FFF topical tp FFF 14 15||FREQ FFF bid FFF 16 16||
+254-05||26||NORTRIPTYLINE HCL   25 MG PO  BEDTIME  15.||DIN FFF nortriptyline hcl FFF 0 1||DOSE FFF 25 mg FFF 2 3||RUT FFF po FFF 4 4||TOD FFF bedtime FFF 5 5||
+254-05||27||PROTONIX  (PANTOPRAZOLE)   40 MG PO  BID  16. POLYETHYLENE GLYCOL    17 GM PO  DAILY  17. SENNOSIDES   8.6 MG PO  BID  18. SIMVASTATIN   20 MG PO  BEDTIME  19.||DBN FFF protonix FFF 0 0||DOSE FFF 40 mg FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF bid FFF 5 5||DIN FFF polyethylene glycol FFF 7 8||DOSE FFF 17 gm FFF 9 10||RUT FFF po FFF 11 11||FREQ FFF daily FFF 12 12||DIN FFF sennosides FFF 14 14||DOSE FFF 8.6 mg FFF 15 16||RUT FFF po FFF 17 17||FREQ FFF bid FFF 18 18||DIN FFF simvastatin FFF 20 20||DOSE FFF 20 mg FFF 21 22||RUT FFF po FFF 23 23||TOD FFF bedtime FFF 24 24||
+254-05||28||SPIRONOLACTONE   25 MG PO  BID  20. ALISKIREN   150 MG PO  DAILY||DIN FFF spironolactone FFF 0 0||DOSE FFF 25 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF bid FFF 4 4||DIN FFF aliskiren FFF 6 6||DOSE FFF 150 mg FFF 7 8||RUT FFF po FFF 9 9||FREQ FFF daily FFF 10 10||
+254-05||29||ALL: NKDA
+254-05||30||SH:Born in Paraguay.
+254-05||31||Wife died of colon cancer.||INDICATION FFF colon FFF 3 3||INDICATION FFF cancer. FFF 4 4||
+254-05||32||Used to work in publishing, now retired.
+254-05||33||No smoking, rarely drinks EtOH.
+254-05||34||Occasionally smokes marijuana for pain relief.||DIN FFF marijuana FFF 2 2||DBN FFF pain relief. FFF 4 5||
+254-05||35||Now lives w son.
+254-05||36||FH:Mother and brother with DM.||INDICATION FFF dm. FFF 4 4||
+254-05||37||Brother with MI||INDICATION FFF mi FFF 2 2||
+254-05||38||PE: VS: T^ 96.4 P 69, P 114/62 RR 18 90% RA||INDICATION FFF pe: FFF 0 0||INDICATION FFF t^ FFF 2 2||DOSE FFF 90% FFF 10 10||INDICATION FFF ra FFF 11 11||
+254-05||39||General: well appearing, NAD

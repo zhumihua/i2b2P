@@ -1,0 +1,57 @@
+323-02||1||Record date: 2061-07-15
+323-02||2||Reason for Visit
+323-02||3||This is a  65 year old  female referred to the diabetes management service for poorly  controlled diabetes||DRT FFF 65 year FFF 3 4||INDICATION FFF diabetes management FFF 10 11||INDICATION FFF diabetes FFF 16 16||
+323-02||4||Chief Complaint
+323-02||5||This patient is admitted to the hospital for lap gastric banding
+323-02||6||History of Present Illness
+323-02||7||The patient has  history of Type 2 diabetes.||INDICATION FFF type 2 diabetes. FFF 5 7||
+323-02||8||Currently the patient is treated with NPH 40 units sc bid and lispro 15-25 units pre breakfast and dinner.||DBN FFF nph FFF 6 6||DOSEAMT FFF 40 units FFF 7 8||RUT FFF sc FFF 9 9||FREQ FFF bid FFF 10 10||DPN FFF lispro FFF 12 12||DOSEAMT FFF 15-25 units FFF 13 14||
+323-02||9||The control has been fair with recent A1c of 7.2.
+323-02||10||She is followed at Loudes Hospital for her diabetes care.||INDICATION FFF her diabetes FFF 7 8||
+323-02||11||The patient tests her blood sugar  at least tid  .Her diabetes has been complicated by symptomatic neuropathy and retinopathy requiring laser therapy.||INDICATION FFF her blood sugar FFF 3 5||FREQ FFF tid FFF 8 8||INDICATION FFF .her diabetes FFF 9 10||INDICATION FFF neuropathy FFF 16 16||
+323-02||12||She was admitted yesterday for her banding procedure.
+323-02||13||She received NPH 22 units sc last night but not today.While in the hospital glucose levels have been elevated over 200    and the patient has been started on  D5W at 125/hour.||DBN FFF nph FFF 2 2||DOSEAMT FFF 22 units FFF 3 4||RUT FFF sc FFF 5 5||DBN FFF d5w FFF 28 28||DIN FFF at 125/hour. FFF 29 30||
+323-02||14||The patient is not yet being fed .
+323-02||15||Past Medical History
+323-02||16||Concurrent medical problems include:htn, hyperlipidemia, hypothyriodism||INDICATION FFF hyperlipidemia, FFF 4 4||
+323-02||17||Family History
+323-02||18||Family history is positive for diabetes||INDICATION FFF diabetes FFF 5 5||
+323-02||19||Social History
+323-02||20||The patient is married       .
+323-02||21||Habits
+323-02||22||The patient is not a smoker.
+323-02||23||Review of Systems
+323-02||24||ROS:
+323-02||25||Feels well in general.
+323-02||26||No polyuria, dysuria, polydipsia, change in bowel habits or GI distress.||INDICATION FFF polyuria, FFF 1 1||INDICATION FFF change FFF 4 4||
+323-02||27||Denies symptoms of skin, bladder upper respiratory infections.||INDICATION FFF symptoms FFF 1 1||INDICATION FFF respiratory infections. FFF 6 7||
+323-02||28||Energy appropriate, sleep unremarkable, mood stable.||INDICATION FFF sleep FFF 2 2||
+323-02||29||No palpitations or dizziness, headaches or visual symptoms.||INDICATION FFF dizziness, FFF 3 3||INDICATION FFF headaches FFF 4 4||INDICATION FFF symptoms. FFF 7 7||
+323-02||30||Medications
+323-02||31||Quinine (QUININE Sulfate)   324MG CAPSULE  PO QHS PRN||DIN FFF quinine FFF 0 0||DOSE FFF 324mg FFF 3 3||RUT FFF po FFF 5 5||FREQ FFF qhs FFF 6 6||NEC FFF prn FFF 7 7||
+323-02||32||Asa (ACETYLSALICYLIC Acid)   81MG TABLET EC take 1 Tablet(s) PO QD||DIN FFF asa FFF 0 0||DOSE FFF 81mg FFF 3 3||DIN FFF ec FFF 5 5||DOSEAMT FFF 1 tablet(s) FFF 7 8||RUT FFF po FFF 9 9||FREQ FFF qd FFF 10 10||
+323-02||33||Insulin Nph Human   40 UNITS SC BID BEFORE BREAKFAST AND BEFORE SUPPER||DIN FFF insulin nph human FFF 0 2||DOSEAMT FFF 40 units FFF 3 4||RUT FFF sc FFF 5 5||FREQ FFF bid FFF 6 6||
+323-02||34||Humalog (INSULIN Lispro)   15-25  SC BID BEFORE BREAKFAST AND BEFORE SUPPER PRN sliding scale||DBN FFF humalog FFF 0 0||RUT FFF sc FFF 4 4||FREQ FFF bid FFF 5 5||NEC FFF prn FFF 11 11||DOSE FFF sliding scale FFF 12 13||
+323-02||35||Levothyroxine Sodium   150 MCG (150MCG TABLET take 1) PO||DIN FFF levothyroxine sodium FFF 0 1||DOSE FFF 150 mcg FFF 2 3||DOSE FFF (150mcg FFF 4 4||RUT FFF po FFF 8 8||
+323-02||36||Hctz (HYDROCHLOROTHIAZIDE)   25MG TABLET take 1-2 PO QD as directed x 30 days||DPN FFF hctz FFF 0 0||DOSE FFF 25mg FFF 2 2||RUT FFF po FFF 6 6||FREQ FFF qd FFF 7 7||INDICATION FFF as FFF 8 8||DRT FFF 30 days FFF 11 12||
+323-02||37||Lipitor (ATORVASTATIN)   20 MG (20MG TABLET take 1) PO QD||DBN FFF lipitor FFF 0 0||DOSE FFF 20 mg FFF 2 3||DOSE FFF (20mg FFF 4 4||RUT FFF po FFF 8 8||FREQ FFF qd FFF 9 9||
+323-02||38||Celebrex (CELECOXIB)   200 MG (200MG CAPSULE take 1) PO BID||DBN FFF celebrex FFF 0 0||DOSE FFF 200 mg FFF 2 3||DOSE FFF (200mg FFF 4 4||RUT FFF po FFF 8 8||FREQ FFF bid FFF 9 9||
+323-02||39||Flonase (FLUTICASONE Nasal Spray)   1-2 SPRAY INH QD PRN as directed , 1-2 sprays each nostril QD as directed||DBN FFF flonase FFF 0 0||DOSEAMT FFF 1-2 spray FFF 4 5||RUT FFF inh FFF 6 6||FREQ FFF qd FFF 7 7||NEC FFF prn FFF 8 8||INDICATION FFF as FFF 9 9||DOSEAMT FFF 1-2 sprays FFF 12 13||RUT FFF nostril FFF 15 15||FREQ FFF qd FFF 16 16||INDICATION FFF as FFF 17 17||
+323-02||40||Alocril 2% (NEDOCROMIL Sodium)   1 DROP OU BID PRN||DBN FFF alocril FFF 0 0||DOSE FFF 2% FFF 1 1||DOSEAMT FFF 1 drop FFF 4 5||RUT FFF ou FFF 6 6||FREQ FFF bid FFF 7 7||NEC FFF prn FFF 8 8||
+323-02||41||TEMAZEPAM   30 MG (30MG CAPSULE take 1) PO QHS prn||DIN FFF temazepam FFF 0 0||DOSE FFF 30 mg FFF 1 2||DOSE FFF (30mg FFF 3 3||RUT FFF po FFF 7 7||FREQ FFF qhs FFF 8 8||NEC FFF prn FFF 9 9||
+323-02||42||ATENOLOL   50MG TABLET take 1 Tablet(s) PO QD||DIN FFF atenolol FFF 0 0||DOSE FFF 50mg FFF 1 1||DOSEAMT FFF 1 tablet(s) FFF 4 5||RUT FFF po FFF 6 6||FREQ FFF qd FFF 7 7||
+323-02||43||LISINOPRIL   40MG TABLET  PO QD||DIN FFF lisinopril FFF 0 0||DOSE FFF 40mg FFF 1 1||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+323-02||44||Laboratory Data
+323-02||45||Relevant lab data:
+323-02||46||HgA1c 7.2
+323-02||47||Creatinine .9||INDICATION FFF creatinine FFF 0 0||
+323-02||48||Physical Exam
+323-02||49||Vitals Bp120/60  P 70  Wt.281
+323-02||50||Skin no acanthosis, no diabetic dermopathy
+323-02||51||Heent no asymmetry, no lid lag
+323-02||52||Neck no bruits heard no thyromegaly||INDICATION FFF thyromegaly FFF 5 5||
+323-02||53||Chest clear
+323-02||54||Cor S1, S2 normal, no murmurs||DIN FFF cor FFF 0 0||
+323-02||55||Abd obese,  no masses||INDICATION FFF obese, FFF 1 1||
+323-02||56||Extremities no edema, no ulcers ,dorsalis pedis pulses intact||INDICATION FFF edema, FFF 2 2||INDICATION FFF ulcers FFF 4 4||
+323-02||57||Neuro    Vibratory sense intact  Monofilament testing intact

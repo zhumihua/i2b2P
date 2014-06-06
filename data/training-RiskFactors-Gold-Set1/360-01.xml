@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2076-09-25
+
+ 
+
+ 
+
+OLIVIA PATTY HOPKINS, M.D.
+
+ 
+
+HALE MEMORIAL HOSPITAL
+
+Internal Medicine
+
+699 Burrit St
+
+Rayne,  MI  82978
+
+Xander Geiger
+
+01729440
+
+9/25/76
+
+Office Visit:
+
+ 
+
+F/U for panhypopituitarism.  Had recent hospitalization for vomiting and 
+
+bring unable to take meds.  Has been doing well since then. Was drawing 
+
+up testo himself and there was a question as to whether he was using too 
+
+much so now on prefilled syringes which means he has to pick them up 
+
+every 3 wks.  He had an injection one week ago and does not feel that 
+
+his sexual function is as god as his prior baseline. He is taking 
+
+prednisone 5 mg am and 2.5 mg in pm, Levoxyl 0.137 mg/dy, testo 200 mg 
+
+IM q 3 wks, Atenolol 25 mg qd and Lisinopril 10 mg po qd.
+
+ 
+
+ROS:
+
+No chest pain, change in bowels, trouble with urination
+
+ 
+
+SH:
+
+Lives with wife
+
+Decorator for income
+
+Neither using ETOH
+
+ 
+
+EXAM:
+
+BP 142/60 P 80 wt 174 lbs
+
+Appears well
+
+Eyes- no lid lag, full motion, full fields, Neck- small thyroid, Lungs-
+
+clear, Cor0RR S1 S2 S4, Abd- +BS, no masses, non tender, Rectal-nl 
+
+appearance, no masses palpable, prostate smooth, Stool-heme negative 
+
+Neuro-OX3, in good spirits, relfexes- 2/2
+
+ 
+
+IMPRESSION:
+
+Panhypopit on replacement rx
+
+Hypertension-controlled (cannot take diuretic)
+
+ 
+
+PLAN:
+
+Pt will schedule appt with Helen Morris, RN to review adrenal teaching 
+
+and review testo inj technique
+
+Check testo level now 1 wk post injection.
+
+Has appt next week with new primary Dr. Whaley
+
+Return 4 mos
+
+ 
+
+ 
+
+ 
+
+________________________
+
+Olivia P. Hopkins, MD
+
+ 
+
+Cc: Dr. Whaley, SH
+
+ 
+
+ 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC3" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC5" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC10" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC7" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC11" indicator="not present"/>
+    <SMOKER id="DOC9" status="unknown"/>
+  </TAGS>
+</root>

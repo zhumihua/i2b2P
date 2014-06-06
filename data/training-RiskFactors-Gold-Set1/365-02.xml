@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2071-04-11
+
+            Burn Surgery Admission H&P 		Date/Time: 4/11/71, 9am
+****************************************************
+Name: Rivers, Karsten   
+MRN# 95718084 
+Resident: Gillis
+Attending: Michael 
+****************************************************
+CC: burn to R foot
+HPI: 
+44yo diabetic M with peripheral neuropathy, fell asleep in front of space heater approximately 3 weeks ago and noted swelling/blisters at tips of R 1st-3rd toes upon waking.  His wounds have been managed until this time by his podiatrist and his mother (a former doctor) has been doing dressing changes at home- initially with silvadene but over the past several days with ?betadine as directed by his podiatrist.  The pt is a floor covering installer, and has been bearing weight on the R foot since his injury and admits that he has not been compliant wearing a heel boot.  He has not had fever/chills, nausea/emesis and in general feels well.  He has not had pain in the foot, but does have a significant neuropathy.  His podiatrist recommended that he be evaluated by plastic/burn surgery and he presents to burn clinic for further evaluation.
+-- 
+PMHx: 
+NIDDM
+HTN
+dyslipidemia
+PSHx: 
+R shoulder
+L hip
+umbilical hernia
+Meds: 
+toprol xl 100 qd
+glucophage 1000 bid
+neurontin 400 bid
+minoxidil 10 qd
+lipitor 20 qd
+lasix 20 qd
+avalide 300/12.5 qd
+ASA 81 qd
+cipro 500 bid
+All: Augmentin- rash
+SHx: 
+smoker
+-- 
+PE: 
+General: AOx3, NAD 
+Chest: CTA B 
+Heart: RRR 
+Abdomen: obese, NT/ND  
+Extremities: wwp, +3rd degree burns with areas of grey eschar at tips of 1st-3rd toes on R extending to plantar surfaces; some areas of pink granulating tissue.  + surrounding erythema- does not extend beyond toes onto foot, most significant on 3rd toe.  +wound on lat surface of 4th toe (site of recent corn removal per pt)- clean with no erythema/drainage    
+Pulses: dp/pt 2+ bilaterally
+-- 
+Labs: 
+	pending
+	EKG: pending 
+-- 
+Imaging: 
+CXR: pending
+-- 
+Assessment: 
+44yo M with 3rd degree burn to R 1st/2nd/3rd toes and superimposed cellulitis.  
+--
+Plan:
+Admit to Michael/burn service
+triple abx, leg elevation at all times, NWB RLE
+dressing changes with silvadine/gauze bid
+OR for debridement/possible grafting when celluliltis improves; f/u labs, UA, CXR, EKG
+--
+D/W Dr. Michael, who agrees with assessment and plan.
+-- 
+Julia Gillis MD
+50741
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC5" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC8" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC17" time="after DCT" indicator="mention"/>
+    <OBESE id="DOC20" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC12" time="after DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC14" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC15" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC22" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC23" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC25" time="during DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC26" time="before DCT" type1="ARB" type2=""/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC21" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC16" indicator="not present"/>
+    <SMOKER id="DOC19" status="current"/>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC11" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC24" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

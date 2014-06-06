@@ -1,0 +1,22 @@
+247-01	14	0	His pain was alleviated with IV NTG, and BiPap improved his O2 saturation.	ntg, FFF 6 6	 FFF 	iv FFF 5 5	 FFF 	 FFF 	 FFF 	narrative
+247-01	16	0	He was begun on aspirin, lopressor, lasix, heparin, and integrelin and sent to the cath lab, where he was found to have 3-vessel disease not amenable to percutaneous interventions.	aspirin, FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+247-01	16	0	He was begun on aspirin, lopressor, lasix, heparin, and integrelin and sent to the cath lab, where he was found to have 3-vessel disease not amenable to percutaneous interventions.	lopressor, FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+247-01	16	0	He was begun on aspirin, lopressor, lasix, heparin, and integrelin and sent to the cath lab, where he was found to have 3-vessel disease not amenable to percutaneous interventions.	lasix, FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+247-01	16	0	He was begun on aspirin, lopressor, lasix, heparin, and integrelin and sent to the cath lab, where he was found to have 3-vessel disease not amenable to percutaneous interventions.	heparin, FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+247-01	16	0	He was begun on aspirin, lopressor, lasix, heparin, and integrelin and sent to the cath lab, where he was found to have 3-vessel disease not amenable to percutaneous interventions.	3-vessel FFF 22 22	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+247-01	17	0	He was sent to the SDU, where he was started on lasix 60IV BID and a CABG pre-op workup was begun.	lasix FFF 11 11	60iv FFF 12 12	60iv FFF 12 12	bid FFF 13 13	 FFF 	 FFF 	narrative
+247-01	18	0	Since admission to the SDU, he has been stable, with excellent RA sats.	sats. FFF 12 12	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+247-01	22	0	He was given 4 gm iv of MgSO4, 60 mEq of KCL.	kcl. FFF 11 11	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+247-01	27	0	HTN-Took Lisinopril before admission	lisinopril FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+247-01	28	0	DMII-Takes Glyburide before admission	glyburide FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+247-01	31	438	Lopressor 12.5 mg PO BID	lopressor FFF 0 0	12.5 mg FFF 1 2	po FFF 3 3	bid FFF 4 4	 FFF 	 FFF 	narrative
+247-01	32	438	Captopril 6.25 mg PO BID	captopril FFF 0 0	6.25 mg FFF 1 2	po FFF 3 3	bid FFF 4 4	 FFF 	 FFF 	narrative
+247-01	33	438	Lipitor 80 mg PO qd	lipitor FFF 0 0	80 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+247-01	34	438	Zantac 50 mg IV q12h	zantac FFF 0 0	50 mg FFF 1 2	iv FFF 3 3	q12h FFF 4 4	 FFF 	 FFF 	narrative
+247-01	35	438	Colace 100 mg PO TID	colace FFF 0 0	100 mg FFF 1 2	po FFF 3 3	tid FFF 4 4	 FFF 	 FFF 	narrative
+247-01	36	438	Insulin SS	insulin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+247-01	37	438	ASA 325 mg PO QD	asa FFF 0 0	325 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+247-01	38	438	Lasix 60 mg IV QD	lasix FFF 0 0	60 mg FFF 1 2	iv FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+247-01	39	438	Heparin IV SS	heparin FFF 0 0	 FFF 	iv FFF 1 1	 FFF 	 FFF 	 FFF 	narrative
+247-01	51	0	Cor: RRR S1, S2 nl.  I/VI SM @ LUSB. No r/g.	cor: FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+247-01	131	0	Will increase beta-blocker dose to 25 mg po q8h, titrate up aggressively as tolerated.	beta-blocker FFF 2 2	25 mg FFF 5 6	po FFF 7 7	q8h, FFF 8 8	 FFF 	 FFF 	narrative

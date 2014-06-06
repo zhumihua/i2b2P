@@ -1,0 +1,11 @@
+283-02	1	Record date: 2125-07-28	
+283-02	2	HOLCOMB, DENNIS	
+283-02	3	83312060	
+283-02	4	07/28/2125	
+283-02	5	HISTORY OF PRESENT ILLNESS:  Dennis Holcomb is a lovely 57-year-old gentleman with a past medical history notable for coronary artery disease, status post myocardial infarction with known ventricular tachycardia with AICD in place.		INDICATION FFF coronary artery disease#20	INDICATION FFF myocardial infarction#24	INDICATION FFF ventricular tachycardia#28
+283-02	6	He continues to work at Alaska Air and has multiple family obligations which are stressful to him.	
+283-02	7	He has had no exertional neck, chest, arm, or jaw pain.		INDICATION FFF pain .#10
+283-02	8	He has not felt his AICD fire.	
+283-02	9	He has had no lightheadedness or weakness.	
+283-02	10	He continues on atenolol, aspirin, folate, furosemide, insulin, lisinopril, simvastatin and Viagra.		DIN FFF atenolol#3	DIN FFF aspirin#4	DIN FFF folate#5	DIN FFF furosemide#6	DIN FFF insulin#7	DIN FFF lisinopril#8	DIN FFF simvastatin#9	DBN FFF viagra#11
+283-02	11	PHYSICAL EXAMINATION:  On exam today, his weight is 224, heart rate is 74 and blood pressure is 120/77.		INDICATION FFF weight#6	INDICATION FFF heart rate#10	INDICATION FFF blood pressure#15

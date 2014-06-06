@@ -1,0 +1,59 @@
+224-02||1||Record date: 2083-10-18
+224-02||2||CARDIOLOGY
+224-02||4||WETZEL COUNTY HOSPITAL
+224-02||6||Reason for visit:
+224-02||7||Mr Qazi returns for followup of his coronary disease.||INDICATION FFF coronary disease. FFF 7 8||
+224-02||8||Interval History:
+224-02||9||He was recently transferred in January to the WCH after presenting to the Florida Hospital Orlando with a non ST segment elevation MI in the anterolateral zone.||INDICATION FFF st FFF 19 19||INDICATION FFF mi FFF 22 22||
+224-02||10||He underwent angioplasty and stenting of his proximal LAD using a 2.5 x 13 mm Cypher drug eluting stent.||INDICATION FFF mm FFF 14 14||INDICATION FFF stent. FFF 18 18||
+224-02||11||He has no symptoms of chest pain or pressure, no palpitations dyspnea or orthopnea.||INDICATION FFF symptoms FFF 3 3||INDICATION FFF chest pain FFF 5 6||INDICATION FFF pressure, FFF 8 8||INDICATION FFF dyspnea FFF 11 11||INDICATION FFF orthopnea. FFF 13 13||
+224-02||12||He has gained some weight and needs to work on that.||INDICATION FFF weight FFF 4 4||
+224-02||13||Past medical history:
+224-02||14||1. CAD:||INDICATION FFF cad: FFF 1 1||
+224-02||15||-Cath 1/73: 80% prox RCA stenosis w/ thrombus, mod D1 stenosis, clear Lcx.  LV gram EF 69%, normal motion.||DOSE FFF 80% FFF 2 2||INDICATION FFF stenosis FFF 5 5||INDICATION FFF thrombus, FFF 7 7||INDICATION FFF mod FFF 8 8||INDICATION FFF stenosis, FFF 10 10||INDICATION FFF lv FFF 13 13||INDICATION FFF ef FFF 15 15||DOSE FFF 69%, FFF 16 16||
+224-02||16||-Cath 9/81: Critical proximal ramus lesion.  RCA with proximal 40% lesion, patent RCA stent.||DOSE FFF 40% FFF 9 9||INDICATION FFF stent. FFF 13 13||
+224-02||17||Patent left main, apical LAD with 99% lesion with L-L collaterals.||DOSE FFF 99% FFF 6 6||
+224-02||18||Cfx 35% mid lesion.||DOSE FFF 35% FFF 1 1||
+224-02||19||Normal LVEDP, no AS.||INDICATION FFF as. FFF 3 3||
+224-02||20||LVf 50-55%. -Also with h/o RCA stent, unclear where procedure was done and patient unable to recall details. 2. HTN 3. Hyperlipidemia||DOSE FFF 50-55%. FFF 1 1||INDICATION FFF htn FFF 19 19||INDICATION FFF hyperlipidemia FFF 21 21||
+224-02||22||Medications (Confirmed):
+224-02||24||Ecotrin  325 mg po daily||DBN FFF ecotrin FFF 0 0||DOSE FFF 325 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF daily FFF 4 4||
+224-02||25||Lipitor  80mg po daily||DBN FFF lipitor FFF 0 0||DOSE FFF 80mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF daily FFF 3 3||
+224-02||26||nitroglycerin  0.4 mg sl every 5 minutes PRN chest pain||DIN FFF nitroglycerin FFF 0 0||DOSE FFF 0.4 mg FFF 1 2||RUT FFF sl FFF 3 3||FREQ FFF every 5 minutes FFF 4 6||NEC FFF prn FFF 7 7||INDICATION FFF chest pain FFF 8 9||
+224-02||27||Plavix  75mg po daily||DBN FFF plavix FFF 0 0||DOSE FFF 75mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF daily FFF 3 3||
+224-02||28||Toprol XL  50 mg mg po bid||DPN FFF toprol xl FFF 0 1||DOSE FFF 50 mg FFF 2 3||RUT FFF po FFF 5 5||FREQ FFF bid FFF 6 6||
+224-02||29||Tricor  48mg po daily||DBN FFF tricor FFF 0 0||DOSE FFF 48mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF daily FFF 3 3||
+224-02||30||Family history:
+224-02||31||Mother: deceased in 60's with leukemia||INDICATION FFF deceased FFF 1 1||INDICATION FFF leukemia FFF 5 5||
+224-02||32||Father: extensive CAD, with first MI in 50's.||INDICATION FFF cad, FFF 2 2||INDICATION FFF mi FFF 5 5||
+224-02||33||Had MI x7, died in 70s.||INDICATION FFF mi FFF 1 1||FREQ FFF x7, FFF 2 2||
+224-02||34||Social history:
+224-02||35||He runs  Mason house,a halfway home.
+224-02||36||He has h/o drug/ETOH abuse but denies x 25 years.||DRT FFF 25 years. FFF 8 9||
+224-02||37||He is not married, no children.
+224-02||38||Tobacco: + for 40 years 2-4ppd.||DRT FFF 40 years FFF 3 4||
+224-02||39||Review of systems:
+224-02||40||There are no new findings except as above.||INDICATION FFF as FFF 6 6||
+224-02||41||All the following a normal or negative: General: Unexpected weight gain or weight loss, night sweats fever or chills.||INDICATION FFF weight gain FFF 9 10||INDICATION FFF weight FFF 12 12||INDICATION FFF sweats FFF 15 15||INDICATION FFF fever FFF 16 16||
+224-02||42||Head and neck: Headaches, dizzy spells hoarseness.||INDICATION FFF headaches, FFF 3 3||
+224-02||43||Respiratory: Cough wheezing, sputum production, hemoptysis.||INDICATION FFF cough FFF 1 1||INDICATION FFF wheezing, FFF 2 2||
+224-02||44||Cardiovascular: See history above.
+224-02||45||Gastrointestinal: Frequent heartburn or indigestion, difficulty swallowing, nausea vomiting jaundice, unusual constipation or diarrhea, black or bloody stools.||INDICATION FFF heartburn FFF 2 2||INDICATION FFF indigestion, FFF 4 4||INDICATION FFF nausea FFF 7 7||INDICATION FFF vomiting FFF 8 8||INDICATION FFF constipation FFF 11 11||INDICATION FFF diarrhea, FFF 13 13||
+224-02||46||Urinary: Frequent urination at night, urinary infections, kidney stones, blood in the urine.||TOD FFF at night, FFF 3 4||INDICATION FFF infections, FFF 6 6||INDICATION FFF kidney stones, FFF 7 8||
+224-02||47||Neurologic: Transient paralysis, seizures, loss of vision in one eye, numbness or tingling in the feet.||INDICATION FFF paralysis, FFF 2 2||INDICATION FFF seizures, FFF 3 3||RUT FFF eye, FFF 9 9||
+224-02||48||Hematologic: Easy bruising, recurrent infections.||INDICATION FFF infections. FFF 4 4||
+224-02||49||Skin: New rashes or eruptions, poor healing of foot sores, moles changing in size or color.
+224-02||50||Endocrine: Polyuria, polydipsia, heat or cold intolerance.||INDICATION FFF polyuria, FFF 1 1||INDICATION FFF cold FFF 5 5||
+224-02||51||Musculoskeletal: Low back pain, joint pains, joint swelling.||INDICATION FFF low back pain, FFF 1 3||INDICATION FFF swelling. FFF 7 7||
+224-02||52||Physical examination:
+224-02||54||-temp:    afebrile
+224-02||55||-Pulse: 60
+224-02||56||-resp. rate: 14
+224-02||57||-General:   No acute distress.
+224-02||58||-Skin:   No rashes, anicteric.
+224-02||59||-HEENT:   Unremarkable
+224-02||60||-Neck:   Carotids 2+ without bruits.
+224-02||61||JVP no jugular venous distention. -Chest:   Clear to auscultation and percussion.
+224-02||62||-Cardiac:   Left ventricular impulse discrete and nondisplaced.
+224-02||63||Regular rate and rhythm, normal S1 and S2, with no S3 or S4.
+224-02||64||There were no murmurs, clicks or rubs. -Abdomen:   Normal bowel sounds, soft and nontender, with no hepatosplenomegaly or masses appreciated. -Extremities:   No edema. 2+ PT bilateral||INDICATION FFF edema. FFF 22 22||

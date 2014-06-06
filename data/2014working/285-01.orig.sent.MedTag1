@@ -1,0 +1,82 @@
+285-01||1||Record date: 2093-02-28
+285-01||10||February 28, 2093
+285-01||14||Herman Patton, M.D.
+285-01||15||Department of Thoracic Surgery||INDICATION FFF surgery FFF 3 3||
+285-01||16||Grafton State Hospital
+285-01||17||39 Pacific Boulevard
+285-01||18||Cape Town, OR 67125||DIN FFF cape FFF 0 0||
+285-01||20||RE: Michael Ogrady
+285-01||21||MR #631-90-33-7
+285-01||23||Dear Dr.
+285-01||24||Patton:
+285-01||25||I had the pleasure of seeing your patient Michael Ogrady in consultation for  his coronary artery disease, before his surgery for esophageal cancer.||INDICATION FFF coronary artery disease, FFF 14 16||INDICATION FFF surgery FFF 19 19||INDICATION FFF esophageal cancer. FFF 21 22||
+285-01||26||As you know, this is a  63-year-old male with a||INDICATION FFF as FFF 0 0||
+285-01||27||long past medical history which includes diabetes, coronary artery disease,  peripheral vascular disease, hypertension, smoking history, hypercholesterolemia, DVT and newly  diagnosed esophageal carcinoma.||INDICATION FFF diabetes, FFF 6 6||INDICATION FFF coronary artery disease, FFF 7 9||INDICATION FFF peripheral vascular disease, FFF 10 12||INDICATION FFF hypertension, FFF 13 13||INDICATION FFF hypercholesterolemia, FFF 16 16||INDICATION FFF dvt FFF 17 17||INDICATION FFF esophageal FFF 21 21||INDICATION FFF carcinoma. FFF 22 22||
+285-01||28||He has been followed by his cardiologist, Yehuda
+285-01||29||Landers, for the last nine
+285-01||30||years.  Essentially he has every cardiac risk factor and known coronary  artery disease which is documented on cardiac catheterization performed on 1/20/93.||INDICATION FFF risk FFF 6 6||INDICATION FFF coronary artery disease FFF 10 12||INDICATION FFF cardiac catheterization FFF 17 18||
+285-01||31||The  catheterization demonstrated
+285-01||32||right dominant system with 100% RCA lesion, a complex 30% diagonal 1 lesion  and a 30% marginal 1 lesion.||DOSE FFF 100% FFF 4 4||DOSE FFF 30% FFF 9 9||DOSE FFF 30% FFF 15 15||
+285-01||33||There was collateral flow noted from the LAD to the right
+285-01||34||PDA and from the||INDICATION FFF pda FFF 0 0||
+285-01||35||septal 2 branch to the RCA, and from the circumflex artery to the RCA.
+285-01||36||The  procedure was
+285-01||37||performed through the right radial artery without complications.
+285-01||38||Patient  also has peripheral
+285-01||39||vascular disease and is status post a left femoral posterior tibial saphenous  vein bypass graft in 2088.
+285-01||40||He is also status post atherectomy and dilatation of stenosis in the  femoral to posterior tibial graft.||INDICATION FFF stenosis FFF 9 9||
+285-01||41||He also had a left leg DVT in 2090.||INDICATION FFF dvt FFF 6 6||
+285-01||42||His activity level is  limited by his claudication.
+285-01||43||He has a history of hypertension and hypercholesterolemia and diabetes on  treatment.||INDICATION FFF hypertension FFF 5 5||INDICATION FFF hypercholesterolemia FFF 7 7||INDICATION FFF diabetes FFF 9 9||
+285-01||45||At baseline he has dyspnea on exertion after walking half a mile.||INDICATION FFF dyspnea FFF 4 4||
+285-01||46||He gets  chest pressure one to||INDICATION FFF pressure FFF 3 3||
+285-01||47||two times a month.||FREQ FFF two times a month. FFF 0 3||
+285-01||48||However, his activity is extremely limited.
+285-01||49||He reports  that he has had a
+285-01||50||positive stress test.
+285-01||51||Further information is not available.
+285-01||52||Patient  understands he has coronary
+285-01||53||disease, however does not have amenable disease for angioplasty.
+285-01||54||On  catheterization he had
+285-01||55||preserved ejection fraction of 62%.||DOSE FFF 62%. FFF 4 4||
+285-01||57||He is to undergo esophageal cancer surgery in the next one to two months  after receiving chemotherapy and radiation therapy preop.||INDICATION FFF esophageal cancer FFF 4 5||INDICATION FFF surgery FFF 6 6||DRT FFF one to two months FFF 10 13||
+285-01||58||Patient states he will be  receiving a Hickman
+285-01||59||Michael Ogrady
+285-01||60||Page 2
+285-01||61||March 3, 2093
+285-01||63||catheter and a jejunostomy tube placement before his chemo and radiation  therapy.||DIN FFF jejunostomy tube FFF 3 4||
+285-01||65||On physical exam, the patient is obese, weighing 288 pounds.||INDICATION FFF obese, FFF 6 6||
+285-01||66||His blood  pressure is 100/72,||INDICATION FFF blood pressure FFF 1 2||
+285-01||67||heart rate is 57 bpm.||INDICATION FFF heart rate FFF 0 1||
+285-01||68||HEENT: oropharynx benign.
+285-01||69||Neck: carotids intact  bilaterally without audible bruits.
+285-01||70||Lungs: distant breath sounds.
+285-01||71||Cor: without obvious jugular  venous distention.||DIN FFF cor: FFF 0 0||
+285-01||72||Heart sounds distant.
+285-01||73||Normal S1 and S2.
+285-01||74||No appreciable murmurs.
+285-01||75||Abdomen:  unable to palpate firm masses or aortic aneurysm.||INDICATION FFF aortic aneurysm. FFF 7 8||
+285-01||76||Bowel sounds present.
+285-01||77||Extremities: status  post surgery to the left flank with 1 to 2+ edema to the knee.||INDICATION FFF surgery FFF 3 3||INDICATION FFF edema FFF 12 12||
+285-01||78||Distal pulses are absent.
+285-01||79||Neuro:  intact.
+285-01||80||EKG: Sinus brady with first degree AV block.||INDICATION FFF av FFF 6 6||
+285-01||81||IMI with age undetermined.
+285-01||82||Nonspecific STT
+285-01||83||wave abnormalities present.
+285-01||84||No previous EKG for comparison.
+285-01||85||Impression: 63-year-old diabetic, hypertensive male with known coronary  artery disease and peripheral vascular disease who has preserved left ventricular function.||INDICATION FFF hypertensive FFF 3 3||INDICATION FFF coronary artery disease FFF 7 9||INDICATION FFF peripheral vascular disease FFF 11 13||
+285-01||86||He  clearly has ischemia||INDICATION FFF ischemia FFF 3 3||
+285-01||87||on a positive stress test.  I would recommend dobutamine echocardiogram to  check ischemic threshold.||DIN FFF dobutamine FFF 8 8||
+285-01||88||He is clearly at intermediate risk for a perioperative cardiac  event.||INDICATION FFF risk FFF 5 5||DRT FFF perioperative FFF 8 8||
+285-01||89||However, given his life-threatening esophageal carcinoma, patient wants to proceed with  surgery even understanding possible complications.||INDICATION FFF esophageal FFF 4 4||INDICATION FFF carcinoma, FFF 5 5||INDICATION FFF surgery FFF 11 11||
+285-01||91||Plan:
+285-01||92||1.   Dobutamine echocardiogram to check ischemic threshold.||DIN FFF dobutamine FFF 1 1||
+285-01||93||2.   Recommend intravenous beta-blockers during the surgery with fairly tight  control of      blood pressure and heart rate, utilizing the information determined on  dobutamine      echocardiography.||RUT FFF intravenous FFF 2 2||DRT FFF during FFF 4 4||INDICATION FFF surgery FFF 6 6||INDICATION FFF tight control FFF 9 10||INDICATION FFF blood pressure FFF 12 13||INDICATION FFF heart rate, FFF 15 16||DIN FFF dobutamine FFF 22 22||
+285-01||95||Thank you for allowing me to participate in the care of your patient, Michael||INDICATION FFF me FFF 4 4||
+285-01||96||Ogrady.
+285-01||97||Please do not hesitate to contact me if you have any questions.||INDICATION FFF me FFF 6 6||
+285-01||99||Sincerely yours,
+285-01||102||Susan Ximena Elias, M.D., M.M.S.C.
+285-01||104||/alvarado
+285-01||106||******** Not reviewed by Attending Physician ********

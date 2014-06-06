@@ -1,0 +1,42 @@
+292-03	1	Record date: 2095-03-12	
+292-03	2	3/12/2095	
+292-03	3	Youssef Null	
+292-03	4	Ludlow Medical Center	
+292-03	5	87 Manatee Street	
+292-03	6	Post, IN 86454	
+292-03	7	Dear Dr. Null,	
+292-03	8	I had the pleasure of seeing Nick Hall in WSH cardiology clinic today in follow-up for his known coronary artery disease and recent admission to Wytheville South with a non-ST elevation myocardial infarction.		INDICATION FFF coronary artery disease#20	INDICATION FFF myocardial infarction .#32
+292-03	9	As I'm sure you recall, he is a lovely 54 year old gentleman whose history of Hodgkins disease status-post mantle radiation in the early 70's, squamous cell lung cancer status post left upper lobectomy 1/94, and coronary artery disease, status post-PCI to the LAD and RCA in '90 and '87, respectively, and perioperative VT/VF arrest at the time of his LUL resection 1/94.		INDICATION FFF as#0	DRT FFF 54 year#10	INDICATION FFF hodgkins disease#17	INDICATION FFF cancer#28	INDICATION FFF coronary artery disease#38	DRT FFF perioperative#52	INDICATION FFF vt#53	INDICATION FFF vf#53
+292-03	10	At that time, emergent catheterization revealed massive volume of thrombus extending throughout his RCA, managed with extensive suction catheter use and POBA, with a good angiographic result.		INDICATION FFF thrombus#9
+292-03	11	No stents were placed given the thrombus burden.		INDICATION FFF thrombus#6
+292-03	12	Remarkably, subsequent echocardiogram revealed normal LV systolic function, with basal inferoposterior HK noted.		INDICATION FFF lv#5
+292-03	13	His peak TnI was 33.6, his peak CK was 1710, and his peak MB was 87.2.	
+292-03	14	He had a relatively unremarkable course post-catheterization; plavix initiation was delayed until his chest tube was removed, after which it was started without incident.		DBN FFF plavix#7	DRT FFF until#11	RUT FFF tube#14
+292-03	15	He was discharged 2/11/94, and had done well until 1/31/2095, when he presented to WSH with unstable angina, having noted new sudden onset angina and dyspnea while making his daily walk.		DRT FFF until#8	INDICATION FFF unstable angina#17	INDICATION FFF angina#23	INDICATION FFF dyspnea#25	DRT FFF while#26	FREQ FFF daily#29
+292-03	16	He had a positive troponin, and was taken urgently to cardiac catheterization, which revealed a proximal LAD lesion (felt to be the culprit) and ostial RCA lesion, both of which were stented with CYPHER stents.		INDICATION FFF cardiac catheterization#11
+292-03	17	At that time the decision was made to increase his plavix from 75 to 150 as an attempt to maximize his medical management, given his history and disease burden.		DBN FFF plavix#10	INDICATION FFF as#15
+292-03	18	Since that admission, he has done exceedingly well, and presents today without complaints.	
+292-03	19	He continues to walk 2 miles ~4 times/week without exertional symptoms.		INDICATION FFF symptoms#10
+292-03	20	He specifically denies chest pain, dyspnea, orthopnea, PND, or lower extremity edema.		INDICATION FFF chest pain#4	INDICATION FFF dyspnea#5	INDICATION FFF orthopnea#6	INDICATION FFF lower extremity edema#11
+292-03	21	He has had no palpitations, dizziness/presyncope, or claudication.		INDICATION FFF dizziness#5
+292-03	22	He has significantly modified his diet to eliminate dairy and hydrogenated products/snacks, with a 5# weight loss, and is motivated to further reduce his weight.		INDICATION FFF weight#15	INDICATION FFF weight#24
+292-03	23	He states that he feels "great" and isdoing quite well.	
+292-03	24	He does not that occasionally at this work, when he is frustrated/upset, he will take his pressure and find his systolic to be ~150, but this comes down within minutes if he relaxes, and his pressures are great at home.		INDICATION FFF pressure#16
+292-03	25	He has had no GI symptoms on the aggressive antiplatelet regimen, despite not being on a PPI.		INDICATION FFF symptoms#5	DIN FFF ppi#16
+292-03	26	Regarding his squamous cell lung cancer, it is my understanding that he had no evidence of metastatic disease and that margins were negative; he is not currently planned for any adjuvant therapy, but will be closely followed.		INDICATION FFF cancer#5	INDICATION FFF metastatic disease#17	DIN FFF adjuvant#30
+292-03	27	His most recent imaging was 11/94, which was negative for evidence of metastasis by repor.		INDICATION FFF metastasis#12
+292-03	28	Regarding his remote history of Hodgkins, he is followed at RFPC on an annual basis.	
+292-03	29	His past medical history includes:	
+292-03	30	CAD s/p IMI '88 (totally occluded RCA with good collaterals, revascularized with 3 stents to the RCA), MI '90 (LAD stent), inferior STEMI 2/94 as above s/p POBA		INDICATION FFF cad#0	INDICATION FFF mi#17	INDICATION FFF as#24
+292-03	31	VF arrest in setting of STEMI		INDICATION FFF vf#0
+292-03	32	Hodgkin's '81 - splenectomy, XRT	
+292-03	33	LUL squamous cell cancer s/p L upper lobectomy 2/94		INDICATION FFF squamous cell cancer#3
+292-03	34	hyperlipidemia (low HDL and high LDL - tried niaspan in the past without much benefit)   hypothyroid   basal cell skin CA   nephrolithiasis		INDICATION FFF hyperlipidemia#0	INDICATION FFF low hdl#2	INDICATION FFF ldl#5	DBN FFF niaspan#8	INDICATION FFF hypothyroid#15	INDICATION FFF ca#19
+292-03	35	His medications include:	
+292-03	36	Lipitor 80 mg		DBN FFF lipitor#0	DOSE FFF 80mg#2
+292-03	37	Plavix 150 mg		DBN FFF plavix#0	DOSE FFF 150mg#2
+292-03	38	ASA 325 mg po QD		DIN FFF asa#0	DOSE FFF 325mg#2	RUT FFF po#3	FREQ FFF qd#4
+292-03	39	Toprol 200 mg po BID		DPN FFF toprol#0	DOSE FFF 200mg#2	RUT FFF po#3	FREQ FFF bid#4
+292-03	40	Levoxyl		DBN FFF levoxyl#0
+292-03	41	Omega-3-fatty acids		DIN FFF omega-3-fatty acids#1
+292-03	42	Multivitamin		DBN FFF multivitamin#0

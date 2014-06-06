@@ -1,0 +1,35 @@
+302-03	1	Record date: 2083-08-28	
+302-03	2	Beaumont Hospital Physician Group	
+302-03	3	131 Crowley Avenue                                    Rhodes, Yajaira	
+302-03	4	Rutland, FL 94265                            97627182	
+302-03	5	(153) 636-7011	
+302-03	6	(584) 728-8734	
+302-03	7	SUBJECTIVE:  The patient comes in stating that she has had 5	
+302-03	8	days of substernal pain like a "ball pressing in on her		INDICATION FFF pain#3
+302-03	9	chest."  She has also had abdominal pain and has felt quite		INDICATION FFF abdominal pain#6
+302-03	10	poorly.	
+302-03	11	She did call this service this past weekend she states and never received a call back.	
+302-03	12	She called me this morning, and I saw her immediately.		INDICATION FFF me#2	TOD FFF morning#4
+302-03	13	The pain has not gone down her arms and it is mostly located in her chest.		INDICATION FFF the pain#1
+302-03	14	She feels occasionally like she is going to throw up, and she		INDICATION FFF throw up#9
+302-03	15	says that her blood sugars have been quite high.		INDICATION FFF her blood sugars#4
+302-03	16	She does have diabetes.		INDICATION FFF diabetes .#3
+302-03	17	PHYSICAL EXAMINATION:  Her lungs are clear to P&A.	
+302-03	18	Her blood pressure is 130/80 in the right arm sitting with a		INDICATION FFF her blood pressure#2
+302-03	19	pulse of 64.	
+302-03	20	Her neck veins are flat, carotids 2+ and equal without bruit.	
+302-03	21	Heart is not enlarged.	
+302-03	22	There is a regular sinus rhythm, and no significant murmurs.	
+302-03	23	Liver and spleen are not felt.		INDICATION FFF liver#0
+302-03	24	EKG taken shows a possible old anterior myocardial infarction, which is a distinct change from her last EKG with poor progression of the R waves across the precordium.		INDICATION FFF myocardial infarction#8	INDICATION FFF change#13
+302-03	25	IMPRESSION AND PLAN:  Question myocardial infarction.		INDICATION FFF myocardial infarction .#5
+302-03	26	Because of her prolonged pain and changes in the EKG, I		INDICATION FFF pain#4
+302-03	27	think that she should be observed in the BH emergency	
+302-03	28	ward and attend her there.	
+302-03	29	______________________________	
+302-03	30	Brett F.		INDICATION FFF f#1
+302-03	31	Rutherford, M.D. eScription document:7-351769 RFFocus	
+302-03	32	DD: 08/28/83		INDICATION FFF dd#0
+302-03	33	DT: 08/28/83		INDICATION FFF dt#0
+302-03	34	DV: 08/28/83	
+302-03	35		

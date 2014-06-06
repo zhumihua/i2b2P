@@ -1,0 +1,99 @@
+394-03	1	Record date: 2093-04-24	
+394-03	2	Narrative History	
+394-03	3	81 year old woman who presents for an annual exam with her daughter-in-law, Franchesca Justice.		DRT FFF 81 year#1
+394-03	4	They would like to discuss the following issues: 1.	
+394-03	5	Shoulder pain:  She continues to have bilateral shoulder pain, but the L shoulder is worse than the right.		INDICATION FFF shoulder pain#1	INDICATION FFF shoulder pain#8
+394-03	6	She has been taking Prednisone 9 mg a day for a long time but has not f/u with Rheum for about a year.		DIN FFF prednisone#4	DOSE FFF 9mg#6	DRT FFF a day#8	INDICATION FFF f#16	DRT FFF a year#22
+394-03	7	She did have a cortisone in the L shoulder in the past.		DBN FFF cortisone#4
+394-03	8	She is able to lift her arms over her head. 2.  Depression:  Her family feels that she is doing much better on the Effexor than the Celexa.  The pt has seen Dr. Ramsey in Psych a few months ago.   3.  Dementia:  Dr. Ramsey recommended continuing on the Aricept.  Overall, the pt's family feels that her memory is worsening, although some days are better than others.  She has not had any other episodes of halluncination, as was described in an email from her son a couple weeks ago.  The pt states that she is sleeping and eating well, but her family thinks that she sleeps too much. 4.  Eyelid surgery:  She is scheduled to have surgery on her eyelids on May 25.  The drooping of the lids is so bad by the end of the day that she is unable to read. 5.  Incontinence:  She has now had 3 collagen implants for her bladder.  The pt does not think that she is any better, but when Dr. Xuereb tested her a few months ago, she saw some improvement.		INDICATION FFF depression#11	DBN FFF effexor#23	DBN FFF celexa#26	INDICATION FFF dementia#40	DBN FFF aricept#47	INDICATION FFF as#74	INDICATION FFF surgery#108	INDICATION FFF surgery#114	DRT FFF by the end of#132	INDICATION FFF incontinence#142	DIN FFF collagen#148
+394-03	9	6.  Diarrhea:  She has about 2 soft BM's a day, but she also has intermittent diarrhea.		INDICATION FFF diarrhea#1	DRT FFF a day#9	INDICATION FFF diarrhea .#15
+394-03	10	Her daughter-in-law is wondering if the pt might be lactose intolerant.		DIN FFF lactose#9
+394-03	11	She is not having any blood in her stool.	
+394-03	12	She does not have any diarrhea in the middle of the night.		INDICATION FFF diarrhea#5
+394-03	13	She has never gotten a colonoscopy since the last attempt just prior to her hospitalization 2 years ago. 7.  DM:  The pt states that she does not eat much sugar, but her daughter-in-law thinks that she probably does consume a fair number of sweets. 8.  Hyperlipidemia: She has been on Zocor 20 mg QD but is not following a low fat diet. 9.  Medication compliance:  The pt's family is not sure if she is taking her medications every day.  They pay a private nurse to come lay out the meds in the am, but the pt is often asleep when she comes and will not get up to take the meds at that time. 10.  Onychomycosis:  The pt has a fungal infection in her great toes.  Her daughter-in-law is wondering if there is anything topical to treat this with.  The pt gets regular pedicures.		DRT FFF 2 years#16	INDICATION FFF dm#19	INDICATION FFF hyperlipidemia :#45	DBN FFF zocor#50	DOSE FFF 20mg#52	FREQ FFF qd#53	FREQ FFF every day#78	TOD FFF am#92	INDICATION FFF onychomycosis#115	INDICATION FFF fungal infection#121	RUT FFF topical#134
+394-03	14	Problems	
+394-03	15	Urinary incontinence : s/p sling procedure in 4/91; s/p 3 prior bladder suspension surgeries		INDICATION FFF urinary incontinence#1
+394-03	16	Hypertension		INDICATION FFF hypertension#0
+394-03	17	Depression		INDICATION FFF depression#0
+394-03	18	Elevated cholesterol		INDICATION FFF elevated cholesterol#1
+394-03	19	Diarrhea		INDICATION FFF diarrhea#0
+394-03	20	Polymyalgia rheumatica : diagnosed in 1/91	
+394-03	21	S/P rectocele repair	
+394-03	22	Paroxysmal atrial fibrillation : controlled with medication		INDICATION FFF paroxysmal atrial fibrillation#2
+394-03	23	Peripheral neuropathy : unclear etiology		INDICATION FFF neuropathy#1
+394-03	24	Hyperlipidemia		INDICATION FFF hyperlipidemia#0
+394-03	25	H/O Alcohol abuse	
+394-03	26	S/P urosepsis : admission in 9/90	
+394-03	27	chronic diarrhea : colonoscopy attempted in 9/90 but pt not able to tolerate procedure		INDICATION FFF diarrhea#1
+394-03	28	Dementia : Mild-moderate; neuropsychiatric test done in 5/91		INDICATION FFF dementia#0
+394-03	29	Diverticulitis:  Hospitalized in 7/92		INDICATION FFF diverticulitis#0
+394-03	30	Medications	
+394-03	31	Folic ACID PO QD (1MG TABLET take 1 Tablet(s))		DIN FFF folic acid#1	RUT FFF po#2	FREQ FFF qd#3	DOSE FFF 1mg#4	DOSEAMT FFF 1 tablet#8
+394-03	32	Ecotrin (ASPIRIN ENTERIC COATED) PO QD (325MG TABLET EC take 1 Tablet(s))		DBN FFF ecotrin#0	RUT FFF po#4	FREQ FFF qd#5	DOSE FFF 325mg#6	DIN FFF ec#8	DOSEAMT FFF 1 tablet#11
+394-03	33	Metoprolol TARTRATE PO TID (50MG TABLET take 1 Tablet(s))		DIN FFF metoprolol tartrate#1	RUT FFF po#2	FREQ FFF tid#3	DOSE FFF 50mg#4	DOSEAMT FFF 1 tablet#8
+394-03	34	Thiamine HCL PO QD (100MG TABLET take 1 Tablet(s))		DIN FFF thiamine hcl#1	RUT FFF po#2	FREQ FFF qd#3	DOSE FFF 100mg#4	DOSEAMT FFF 1 tablet#8
+394-03	35	Digoxin PO QD (0.125MG TABLET take 1 Tablet(s))		DIN FFF digoxin#0	RUT FFF po#1	FREQ FFF qd#2	DOSE FFF 0.125mg#3	DOSEAMT FFF 1 tablet#7
+394-03	36	Ferrous SULFATE PO QD (325MG TABLET take 1 Tablet(s))		DIN FFF ferrous sulfate#1	RUT FFF po#2	FREQ FFF qd#3	DOSE FFF 325mg#4	DOSEAMT FFF 1 tablet#8
+394-03	37	Mvi (MULTIVITAMINS) 1CAPSULE PO QD		DPN FFF mvi#0	DOSEAMT FFF 1 capsule#2	RUT FFF po#3	FREQ FFF qd#4
+394-03	38	Calcium CARBONATE VIT D(1TABLET=250MG E... 500MG PO TID		DIN FFF calcium carbonate#1	DIN FFF vit d#3	DOSEAMT FFF 1 tablet#3	DOSE FFF 250mg#3	DOSE FFF 500mg#5	RUT FFF po#6	FREQ FFF tid#7
+394-03	39	Nitrofurantoin PO QD (100MG CAPSULE take 1 Capsule(s))		DIN FFF nitrofurantoin#0	RUT FFF po#1	FREQ FFF qd#2	DOSE FFF 100mg#3	DOSEAMT FFF 1 capsule#7
+394-03	40	Zocor (SIMVASTATIN) PO QHS (20MG TABLET take 1 Tablet(s) x 30 days)		DBN FFF zocor#0	RUT FFF po#2	FREQ FFF qhs#3	DOSE FFF 20mg#4	DOSEAMT FFF 1 tablet#8	DRT FFF 30 days#11
+394-03	41	Glyburide PO QD (2.5MG TABLET take 1 Tablet(s))		DIN FFF glyburide#0	RUT FFF po#1	FREQ FFF qd#2	DOSE FFF 2.5mg#3	DOSEAMT FFF 1 tablet#7
+394-03	42	Prednisone PO QAM (5MG TABLET take 1 Tablet(s))		DIN FFF prednisone#0	RUT FFF po#1	FREQ FFF qam#2	DOSE FFF 5mg#3	DOSEAMT FFF 1 tablet#7
+394-03	43	Prednisone PO QAM (1MG TABLET take 4 Tablet(s)), total 9 mg/d		DIN FFF prednisone#0	RUT FFF po#1	FREQ FFF qam#2	DOSE FFF 1mg#3	DOSEAMT FFF 4 tablet#7	DOSE FFF 9mg#10
+394-03	44	Effexor SR (VENLAFAXINE EXTENDED RELEASE) PO QD (37.5MG CAPSULE CR take 1 Capsule(s))		DBN FFF effexor#0	RUT FFF po#5	FREQ FFF qd#6	DOSE FFF 37.5mg#7	DOSEAMT FFF 1 capsule#12
+394-03	45	Sotalol PO BID (80MG TABLET take 1 Tablet(s))		DIN FFF sotalol#0	RUT FFF po#1	FREQ FFF bid#2	DOSE FFF 80mg#3	DOSEAMT FFF 1 tablet#7
+394-03	46	Aricept (DONEPEZIL HCL) 10MG PO QHS (x 30 days)		DBN FFF aricept#0	DOSE FFF 10mg#3	RUT FFF po#4	FREQ FFF qhs#5	DRT FFF 30 days#8
+394-03	47	Effexor (VENLAFAXINE HCL) PO QD (37.5MG TABLET take 4 Tablet(s))		DBN FFF effexor#0	RUT FFF po#3	FREQ FFF qd#4	DOSE FFF 37.5mg#5	DOSEAMT FFF 4 tablet#9
+394-03	48	Health maintenance	
+394-03	49	Cholesterol 05/24/2092 223		INDICATION FFF cholesterol#0
+394-03	50	Stool Guaiac 12/21/2091 Done - positive 12/09/91;12/11/91;12/12/91.All slides positive.	
+394-03	51	UA-Protein 01/18/2093 NEGATIVE	
+394-03	52	HBA1C 05/25/2092 7.30	
+394-03	53	Urine Culture 01/18/2093 see report in Results CATHETERIZED SPECIMEN	
+394-03	54	Triglycerides 08/26/2091 330		DIN FFF triglycerides#0	DOSE FFF 08/26#1
+394-03	55	Cholesterol-LDL 08/26/2091 148	
+394-03	56	Bone Density 06/16/2091 BMD-Hip	
+394-03	57	Hct (Hematocrit) 12/07/2092 40.7		INDICATION FFF hematocrit#1
+394-03	58	Cholesterol-HDL 05/24/2092 43	
+394-03	59	Hgb (Hemoglobin) 12/07/2092 13.7	
+394-03	60	Syphilis 09/14/2090 FINAL Result NON-REACTIVE.		INDICATION FFF syphilis#0
+394-03	61	Allergies		INDICATION FFF allergies#0
+394-03	62	NKDA	
+394-03	63	Social History	
+394-03	64	Lives in Forest Hills, an assisted living facility; never smoking; Etoh- rare- she might have one drink if she goes to her son's house for dinner; exercise- walking.	
+394-03	65	Family History	
+394-03	66	Family History: mother died at 89 of "old age"; father died of unknown causes; no breast or colon ca; brother is s/p MI before age 60; + DM.		INDICATION FFF colon#17	INDICATION FFF ca#18	INDICATION FFF mi#22	INDICATION FFF dm#27
+394-03	67	Review of Systems	
+394-03	68	No change in weight, appetite.		INDICATION FFF change#1	INDICATION FFF weight#3
+394-03	69	No dizziness, F/C/N/V, cough, SOB, CP, abd pain, constipation, dysuria, joint pain.		INDICATION FFF dizziness#1	INDICATION FFF f#2	INDICATION FFF cough#3	INDICATION FFF sob#4	INDICATION FFF cp#5	INDICATION FFF pain#7	INDICATION FFF constipation#8	INDICATION FFF joint pain .#11
+394-03	70	Physical Exam	
+394-03	71	BP: 122/70  Weight: 132 lbs. (down 8 lbs)  Height: 5'2"		INDICATION FFF bp#0	INDICATION FFF weight#2
+394-03	72	GENERAL:  Elderly woman with Cushingoid facies.	
+394-03	73	SKIN:  NL turgor, no abnormal lesions.	
+394-03	74	HEENT:             NL eyes, lids drooping over eyes about 1/2 way; NL oropharynx	
+394-03	75	NECK:             No thyromegally, no nodes; carotids 2+ bilat without bruits.	
+394-03	76	CHEST:             Clear lungs, NL frame	
+394-03	77	COR:  NL S1S2, no murmur, rubs, or gallops.		DIN FFF cor#0
+394-03	78	BACK:             No spinal tenderness.	
+394-03	79	BREASTS: Symmetrical, No dominant masses; no axillary masses.	
+394-03	80	ABD:  NL BS; soft, NO HSM		INDICATION FFF bs#2
+394-03	81	PELVIC:             deferred	
+394-03	82	RECTAL:             deferred	
+394-03	83	EXT:  No edema, clubbing, or cyanosis; DP pulses 2+ bilat		INDICATION FFF edema#2	INDICATION FFF cyanosis#5	INDICATION FFF dp#6
+394-03	84	NEURO:             NL MS, NL gait	
+394-03	85	Assessment and Plan	
+394-03	86	1.  PMR:  Discussed the importance of regular f/u with Dr.		INDICATION FFF f#7
+394-03	87	Inge.	
+394-03	88	We should aim to get the dose of Prednisone decreased.		DIN FFF prednisone#8
+394-03	89	Will check ESR today.	
+394-03	90	Franchesca will make sure appt is scheduled with Dr.	
+394-03	91	Inge. 2.  Depression:  She seems better.  Continue Effexor.  3.  Dementia:  Will continue Aricept.  Discussed keeping pt stimulated with outings, family visits.  Her excessive sleeping is likely a combination of several factors, including her multiple medications, depression, and possibly the dementia. 4.  Eyelid surgery:  Pre-op exam today.  Will order complete metabolic panel, CBC, and EKG. 5.  Incontinence:  It is not likely that she will be able to have any more procedures at this point.  Some of the incontinence may be secondary to dementia rather than pure stress incontinence. 6.  Diarrhea:  Discussed trying a lactose-free diet for a week to determine if lactose-intolerance may be playing a role.  Will set up a virtual colonoscopy since the pt had such a bad experience with the sedation for her colonoscopy 2 years ago.		INDICATION FFF depression#2	DBN FFF effexor#7	INDICATION FFF dementia#9	DBN FFF aricept#12	DPN FFF multiple medications#34	INDICATION FFF depression#35	INDICATION FFF dementia#39	INDICATION FFF surgery#42	INDICATION FFF incontinence#55	INDICATION FFF procedures#69	INDICATION FFF incontinence#76	INDICATION FFF dementia#81	INDICATION FFF incontinence#86	INDICATION FFF diarrhea#88	DRT FFF a week#96	DRT FFF 2 years#127
+394-03	92	7.  DM:  Check glucose and Hgb A1C.		INDICATION FFF dm#1
+394-03	93	8.  Hyperlipidemia: Check fasting lipids- she will get them drawn at Dameron Hospital.		INDICATION FFF hyperlipidemia :#1
+394-03	94	9.  Medication compliance: Discussed trying to get nurse to come a little later in the day so that pt could be observed while taking her medication.		DRT FFF while#22
+394-03	95	10.  Onychomycosis:  I do not think oral medication would be a good idea for this patient because the risks of hepatotoxicity outweigh the benefits.		INDICATION FFF onychomycosis#1	DPN FFF oral medication#7
+394-03	96	Will refer her to Podiatry for care of the toenails since the pt has a h/o peripheral neuropathy. 11.  Health maint:  Order mammo to be done at DH; TSH.		DRT FFF a h#15	INDICATION FFF neuropathy#17	INDICATION FFF dh#27
+394-03	97	_____________________________________________	
+394-03	98	Faith G. Ice, M.D.	
+394-03	99	_____________________________________________	

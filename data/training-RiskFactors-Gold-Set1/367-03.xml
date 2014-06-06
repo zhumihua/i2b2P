@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2083-07-09
+
+Pt here for new PCP and f/u on multiple issues.
+
+
+
+Medications
+
+Premarin (CONJUGATED Estrogens) 2 GM PV QHS : SIG ONE APPLICATOR FULL AT HSX 1WK THEN TWICE PER WEEK
+
+Cozaar (LOSARTAN) 50MG, 1 Tablet(s) PO bid
+
+ATENOLOL 50MG, 0.5 Tablet(s) PO QD
+
+Ativan (LORAZEPAM) 0.5MG, 1 Tablet(s) PNGT QD
+
+GLYBURIDE 5MG, 1 Tablet(s) PO QD 
+
+
+
+Allergies
+
+Codeine - GI upset
+
+Sulfa - Rash
+
+* lisinopril - cough
+
+Penicillins - Rash
+
+* hctz - cramps 
+
+
+
+Problems
+
+Diabetes mellitus - cheated last weekend at a party, but mostly sugars 60-150s.  Last low-sugar rxn was a month ago, and her glyb. was decreased.  She may have "polys".  She still has not called her eye doctor for an appt. b/c too busy.  Urine microalbumin nl.  HBA1C 6.6%
+
+
+
+Hypertension - did not increase atenolol as advised by Dr Buckley.  Her home BPs are 150/70, but her pulse is often in the 50s, which is why she is taking only 1/2 of atenolol.
+
+
+
+Renal cancer : incidentally discovered, s/p nephrectomy
+
+
+
+Hyperparathyroidism : ? 2/2 Vit D deficiency. Thyroid nodules.  Being evaluated by Dr Lawson, SH Endocrine.  However, the last time she went to Endo. she was told she did not have an appt. She has not rec'd another in the mail.  She never had the thyroid bx.  Last Ca nl. but phos low.
+
+
+
+Dyspepsia/ H Pylori : unable to tolerate bismuth, TCN, metronidazole or clarithromycin and metronidazole.  She has occ. dyspepsia, for which she takes prn ranitidine, none lately.  Of note, recent guaiacs positive.  She had a colonoscopy 2079, which showed a polyp and diverticulosis.  Three year f/u rec.  Pt has been afraid to reschedule b/c was not sufficiently anesthetised the last time and had a lot of pain.
+
+
+
+Plantar Fasciitis - resolved.
+
+
+
+RHM - UTD.
+
+
+
+SH - married.  Husband has some medical problems, but is able to drive her on all her errands, as she does not dirve. No cigs, EtOH, sexual activity.  She has 4 children and 9 grandchildren.  Her son was hit by a car some years ago, and sustained head trauma, now in assisted living.  She is very stressed all the time worrying about him.  She became tearful telling me about this.  Enjoys gardening and attending her quilting group.
+
+
+
+ROS - + for hearing loss, diff. w/ memory related to stress and anxiety about son, as above in specific items, occ. constip.  Neg. otherwise.
+
+
+
+PLAN:
+
+Rev'd medical and SH. 
+
+Re-refer to Dr Lawson, emailed Dr Lawson.
+
+Disc. pt's intent about cancer surveillance.  She states that she would want to be treated if she had ca, and therefore agrees to upper and lower endo. if I request she receive adequate analgesia.
+
+F/U 2 mo.  BP not done today b/c she became upset.  Prob. will need a third BP med, but not incr. bb.
+
+
+
+
+
+
+
+_____________________________________________
+
+Patricia Lund, M.D.
+
+
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC1" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC7" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC8" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC12" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC13" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC15" time="during DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="ARB" type2=""/>
+    <HYPERTENSION id="DOC3" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC16" time="before DCT" indicator="high bp"/>
+    <FAMILY_HIST id="DOC9" indicator="not present"/>
+    <SMOKER id="DOC18" status="never"/>
+    <DIABETES id="DOC0" time="during DCT" indicator="A1C"/>
+    <DIABETES id="DOC2" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC14" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

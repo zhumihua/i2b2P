@@ -1,0 +1,114 @@
+244-02||1||Record date: 2091-12-12
+244-02||2||Team B Intern Admission Note
+244-02||3||Name: French, Xue
+244-02||4||MRN:  875-10-45
+244-02||5||Date of Admission: 12-Dec-2091
+244-02||6||PCP:   Dr. John Hood (Resident - PVH Isabela Healthcare Center)
+244-02||7||Other PVH providers:   Dr. Raymond Xie - Rheum
+244-02||8||Admitting Intern: Olivia H.
+244-02||9||Grant, MD
+244-02||10||Team:   B
+244-02||11||CC:   Pt is a 59 year old female with h/o SLE, interstitial nephritis, GERD, h/o positive stress s/p RCA angioplasty 2082, and chronic abdominal pain who presents with c/o two weeks of intermittent chest pain.
+244-02||12||HPI: Pt initially presented to her PCP on day of admission with a complaint of 2 weeks of intermittent chest pain.
+244-02||13||Pt reported that pain has been lasting anywhere from 20 min to 1 hour and that it emanates from the L sternal border with radiation to L lateral thorax and radiation to L arm, accompanied by tingling/numbness in L digits + occasionally right digits, as well as down the L leg.
+244-02||14||In PVH ED, pt describes the pain as    like a bleeding scar    and states    my heart is bloated    through her daughter who acted as her interpreter.
+244-02||15||She reports that the pain, at it's worst is 5/10, but has improved to 2/10 after NTG en route to the ED and once in the ED.||DPN FFF ntg FFF 16 16||INDICATION FFF en FFF 17 17||INDICATION FFF ed FFF 21 21||INDICATION FFF ed. FFF 26 26||
+244-02||16||She affirms nausea and diaphoresis accompany pain.
+244-02||17||Pain has no relationship to position or activity -- has occurred during sitting, ambulation, and reclining.
+244-02||18||Pt lives on the second story of her building and has noted that walking up stairs has been been more difficult over the past two weeks secondary to calf and ankle pain, L > R, follow by chest pain.
+244-02||19||Pt has not had to use more pillows in the past two weeks when sleeping, and reports no change in the number of times per week that she wakes up short of breath, which varies between one to two times per week.
+244-02||20||Pt denies increased swelling in extremities over the past two weeks or increase in weight.
+244-02||21||Allergies
+244-02||22||* Celebrex    - SOB : "that triggered her asthma"||DBN FFF celebrex FFF 1 1||INDICATION FFF sob FFF 3 3||INDICATION FFF asthma" FFF 8 8||
+244-02||23||Medications
+244-02||24||Aspirin (ACETYLSALICYLIC Acid)    81 MG,  1 Tablet(s)  PO QD||DIN FFF aspirin FFF 0 0||MDBN FFF (acetylsalicylic acid) FFF 1 2||DOSE FFF 81 mg, FFF 3 4||DOSEAMT FFF 1 tablet(s) FFF 5 6||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||
+244-02||25||Calcium Gluconate    500MG,  2 Tablet(s)  PO x1||DIN FFF calcium gluconate FFF 0 1||DOSE FFF 500mg, FFF 2 2||DOSEAMT FFF 2 tablet(s) FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF x1 FFF 6 6||
+244-02||26||Vitamin D (ERGOCALCIFEROL)      PO QD||DIN FFF vitamin d FFF 0 1||MDBN FFF (ergocalciferol) FFF 2 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+244-02||27||Nitroglycerin 1/150 (0.4 Mg)    1 TAB SL  : PRN||DIN FFF nitroglycerin 1/150 (0.4 mg) FFF 0 3||DOSEAMT FFF 1 tab FFF 4 5||RUT FFF sl FFF 6 6||NEC FFF prn FFF 8 8||
+244-02||28||Vioxx (ROFECOXIB)    25MG,  1 Tablet(s)  PO QD PRN leg pain||DBN FFF vioxx FFF 0 0||MDBN FFF (rofecoxib) FFF 1 1||DOSE FFF 25mg, FFF 2 2||DOSEAMT FFF 1 tablet(s) FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF qd FFF 6 6||NEC FFF prn FFF 7 7||INDICATION FFF leg pain FFF 8 9||
+244-02||29||Nifedipine (EXTENDED Release)    90MG,  1 Tablet(s)  PO QD||DIN FFF nifedipine FFF 0 0||DDF FFF (extended release) FFF 1 2||DOSE FFF 90mg, FFF 3 3||DOSEAMT FFF 1 tablet(s) FFF 4 5||RUT FFF po FFF 6 6||FREQ FFF qd FFF 7 7||
+244-02||30||HYDROXYCHLOROQUINE   200MG,  1 Tablet(s)  PO BID x 30 day(s)||DIN FFF hydroxychloroquine FFF 0 0||DOSE FFF 200mg, FFF 1 1||
+244-02||30||HYDROXYCHLOROQUINE   200MG,  1 Tablet(s)  PO BID x 30 day(s)||DIN FFF hydroxychloroquine FFF 0 0||DOSEAMT FFF 1 tablet(s) FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF bid FFF 5 5||DRT FFF 30 day(s) FFF 7 8||
+244-02||31||ATENOLOL   50MG,  1 Tablet(s)  PO QD||DIN FFF atenolol FFF 0 0||DOSE FFF 50mg, FFF 1 1||DOSEAMT FFF 1 tablet(s) FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF qd FFF 5 5||
+244-02||32||Protonix (PANTOPRAZOLE)    40MG,  1 Tablet(s)  PO QD x 30 day(s)||DBN FFF protonix FFF 0 0||MDBN FFF (pantoprazole) FFF 1 1||DOSE FFF 40mg, FFF 2 2||DOSEAMT FFF 1 tablet(s) FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF qd FFF 6 6||DRT FFF 30 day(s) FFF 8 9||
+244-02||33||PREDNISONE   10MG,  1 Tablet(s)  PO QD x 30 day(s)||DIN FFF prednisone FFF 0 0||DOSE FFF 10mg, FFF 1 1||
+244-02||33||PREDNISONE   10MG,  1 Tablet(s)  PO QD x 30 day(s)||DIN FFF prednisone FFF 0 0||DOSEAMT FFF 1 tablet(s) FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF qd FFF 5 5||DRT FFF 30 day(s) FFF 7 8||
+244-02||34||Isosorbide Dinitrate    30MG,  1 Tablet(s)  PO QD||DIN FFF isosorbide dinitrate FFF 0 1||DOSE FFF 30mg, FFF 2 2||DOSEAMT FFF 1 tablet(s) FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF qd FFF 6 6||
+244-02||35||Social History
+244-02||36||Pt originally from Hawley, Puerto Rico.
+244-02||37||She has been married for 23 yrs and currently lives with her husband and one grandson.
+244-02||38||She has 4 children.
+244-02||39||She is G4P4.
+244-02||40||LIfetime non-smoker.
+244-02||41||No alcohol or drugs.||DIN FFF drugs. FFF 3 3||
+244-02||42||She does not work anymore but did work in fire prevention.
+244-02||43||Family History
+244-02||44||Father and ten siblings with h/o heart disease but pt uncertain as to the age of onset or nature of heart disease by ED report.
+244-02||45||Review of Systems
+244-02||46||Constitutional - no involuntary weight loss, malaise, or anorexia.
+244-02||47||Pt reports increased sweating a night and during the day, as well as fatigue which has been a long standing issue with pt.
+244-02||48||CV - chest pain as per HPI; no change in orthopnea, PND, or SOB at rest.
+244-02||49||Pulm - no cough, wheezing, SOB at rest.
+244-02||50||Abd - chronic abdominal pain; no BRBPR, melena, constipation, change in BM.
+244-02||51||Ext - no LE edema
+244-02||52||MSK - multiple chronic small jt pain, esp PIP.
+244-02||54||Physical  Exam:
+244-02||55||Vitals:  T 97.6      BP 140/76   HR  56     RR  22    Sat  99% on 2L of O2 via NC
+244-02||56||General:  well appearing, cooperative, no acute distress
+244-02||57||Skin:  no rashes or lesions noted
+244-02||58||HEENT:  PERRL, MMM, OP w/o erythema or exudates
+244-02||59||NECK:   Supple, no observable JVD, no carotid bruits
+244-02||60||Respiratory:  CTA bilaterally, good air movmenet
+244-02||61||Chest: Pain to palpation at L sternal border.
+244-02||62||CV:  RRR, with normal S1, S2, no S3, S4, 2/6 SEM best heard at LUSB
+244-02||63||Abd:  Soft with diffuse tenderness, but without voluntary guarding or rebound tenderness, positive bowel sounds, no HSM,
+244-02||64||Extremities:  WWP, 2+ radial, DP and PT pulses, LLE with calf and shin tenderness to palpation.
+244-02||65||Labs:
+244-02||66||13-Dec-2091 02:11  Accession# 8946B57286
+244-02||67||WBC                      7.5                         (4.5-11.0)       th/cmm
+244-02||68||HCT                      40.3                        (36.0-46.0)      %
+244-02||69||HGB                      13.2                        (12.0-16.0)      gm/dl
+244-02||70||PLT                      292                         (150-350)        th/cumm
+244-02||72||13-Dec-2091 02:19  Accession# 4894U89067
+244-02||73||Test Description         Result             Flags    Ref.
+244-02||74||Range       Units
+244-02||75||Plasma Sodium            143                         (135-145)        mmol/L||DIN FFF sodium FFF 1 1||DOSE FFF 143 FFF 2 2||
+244-02||76||Plasma Potassium         3.9                         (3.4-4.8)        mmol/L||DIN FFF potassium FFF 1 1||DOSE FFF 3.9 FFF 2 2||
+244-02||77||Plasma Chloride          106                         (100-108)        mmol/L
+244-02||78||Plasma Carbon Dioxide    27.7                        (23.0-31.9)      mmol/L||DIN FFF carbon dioxide FFF 1 2||DOSE FFF 27.7 FFF 3 3||
+244-02||79||Calcium                  10.0                        (8.5-10.5)       mg/dl||DIN FFF calcium FFF 0 0||DOSE FFF 10.0 FFF 1 1||
+244-02||80||Phosphorus               3.7                         (2.6-4.5)        mg/dl
+244-02||81||Magnesium                1.8                         (1.4-2.0)        meq/L||DIN FFF magnesium FFF 0 0||DOSE FFF 1.8 FFF 1 1||
+244-02||82||Plasma Urea Nitrogen     19                          (8-25)           mg/dl||DIN FFF urea FFF 1 1||
+244-02||82||Plasma Urea Nitrogen     19                          (8-25)           mg/dl||DIN FFF nitrogen FFF 2 2||DOSE FFF 19 FFF 3 3||
+244-02||83||Plasma Creatinine        0.9                         (0.6-1.5)        mg/dl
+244-02||84||Total Protein            7.6                         (6.0-8.3)        g/dl
+244-02||85||Albumin                  4.1                         (3.3-5.0)        g/dl||DIN FFF albumin FFF 0 0||DOSE FFF 4.1 FFF 1 1||
+244-02||86||Globulin                 3.5                         (2.6-4.1)        g/dl
+244-02||87||Direct Bilirubin         0.1                         (0-0.4)          mg/dl
+244-02||88||Total Bilirubin          0.2                         (0-1.0)          mg/dl
+244-02||89||Alkaline Phosphatase     90                          (30-100)         U/L
+244-02||90||Transaminase-SGPT        18                          (7-30)           U/L
+244-02||91||Creatine Kinase Isoenz   2.5                         (0.0-6.9)        ng/ml
+244-02||92||CPK Isoenzymes Index                                 (0.0-3.5)        %
+244-02||93||CPK and/or CKMB too low to calculate Relative Index.
+244-02||94||Troponin-T               <0.01                       (0.00-0.09)      ng/ml
+244-02||95||Transaminase-SGOT        25                          (9-32)           U/L
+244-02||96||Creatine Kinase          66                          (40-150)         U/L
+244-02||97||12-Dec-2091 18:22  Accession# 4334L01518
+244-02||98||Test Description         Result             Flags    Ref.
+244-02||99||Range       Units
+244-02||100||Creatine Kinase Isoenz   NEGATIVE                    (NEG)
+244-02||101||Troponin-I               NEGATIVE                    (NEG)
+244-02||102||12-Dec-2091 17:51  Accession# 7758U11191
+244-02||103||Test Description         Result             Flags    Ref.
+244-02||104||Range       Units
+244-02||105||Amylase                  136                H        (3-100)          units/L||DIN FFF amylase FFF 0 0||DRT FFF 136 h FFF 1 2||
+244-02||106||Lipase                   8.3                H        (1.3-6.0)        U/dl||DIN FFF lipase FFF 0 0||DRT FFF 8.3 h FFF 1 2||
+244-02||107||Radiology:
+244-02||108||Dissection Protocol CT of 12-Dec-2091: reveals no evidence of aortic dissection.
+244-02||109||Complex cyst within the spleen.
+244-02||110||Uterine fibroids.
+244-02||111||Degenerative disc disease.
+244-02||112||CXR of 12-Dec-2091: The lungs are clear.
+244-02||113||There is no evidence of pneumothorax.

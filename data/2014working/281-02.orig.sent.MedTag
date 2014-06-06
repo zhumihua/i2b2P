@@ -1,0 +1,91 @@
+281-02	1	Record date: 2159-05-12	
+281-02	2	CARDIOLOGY	
+281-02	3	WISNER FAMILY PRACTICE	
+281-02	4	Floyd R Shaw M.D.	
+281-02	5	Mariners Hospital Internists	
+281-02	6	6293 Brookside Terrace, Suite 626	
+281-02	7	Grayling, ME 78726		INDICATION FFF me#1
+281-02	8	Dear Fitzgerald:	
+281-02	9	I had the pleasure of seeing your patient, Haden Doty, in consultation today regarding his peripheral arterial disease and generalized vascular disease.	
+281-02	10	As you know, he is a patient that has known coronary artery disease, for which I ended up doing a catheterization on 08/27/2157, and that was done because of an abnormal stress test and chest pain.		INDICATION FFF as#0	INDICATION FFF coronary artery disease#12	INDICATION FFF chest pain .#35
+281-02	11	At that time, he had been evaluated by Dr.	
+281-02	12	Morgan Thayer, who performed a stress MIBI and demonstrated an inferoposterior ischemia, a low workload of 3 minutes and 18 seconds, and a heart rate of only 72% of predicted.		INDICATION FFF ischemia#11	INDICATION FFF heart rate#24	DOSE FFF 72%#27
+281-02	13	The LV chamber was dilated, and the ejection fraction was estimated at 48%, and there was a suggestion of global ischemia.		INDICATION FFF lv#1	DOSE FFF 48%#12	INDICATION FFF ischemia .#20
+281-02	14	The catheterization demonstrated the presence of moderate diffuse coronary artery disease, plaque distributed throughout much of the coronary tree, some calcification, and narrow caliber vessels overall, but no focal high-grade stenoses.		INDICATION FFF coronary artery disease#10	INDICATION FFF plaque#11
+281-02	15	There was some disease in the distal left main coronary artery, but his angina or ischemia was felt to be on the basis of excess demand in the phase of globally diminished supply.		INDICATION FFF angina#13	INDICATION FFF ischemia#15
+281-02	16	He was treated medically for the coronary artery disease.		INDICATION FFF coronary artery disease#8
+281-02	17	At the time of his cath, he also underwent an angiography of his abdominal aorta and selective angiogram of his left leg, because he was complaining of claudication predominantly on the left calf at that time.	
+281-02	18	That study demonstrated the presence of two renal arteries of the left side, a small superior one that was narrowed by about 50%, and a larger inferior left renal artery that was narrowed by about 60%.		DOSE FFF 50%#22	DOSE FFF 60%#35
+281-02	19	The right side was patent.	
+281-02	20	With respect to the abdominal aorta, there was an ulcerated plaque just below the superior renal artery, narrowing the channel in the aorta by about 30% or 40%.		INDICATION FFF ulcerated#9	INDICATION FFF plaque#10	DOSE FFF 30%#25	DOSE FFF 40%#27
+281-02	21	The iliac vessels were patent, and the left common femoral artery had some irregularity that was patent.	
+281-02	22	The left SFA, a diffusely diseased vessel, had a high-grade stenosis of about 80% in the adductor canal.		DIN FFF vessel#6	INDICATION FFF stenosis#10	DOSE FFF 80%#13
+281-02	23	Then, at the trifurcation, there was occlusion or high-grade stenosis of all three trifurcation vessels on the left side.		INDICATION FFF stenosis#9
+281-02	24	There was reconstitution at the level of the ankle.	
+281-02	25	The decision at that time was made to treat him conservatively, at least for the present, since he was still playing golf three to four times a week.		DRT FFF a week#27
+281-02	26	He also apparently had some other issues, so I never saw him again in followup.	
+281-02	27	The original plan had been to bring him back for revascularization of his left renal artery and the left SFA.	
+281-02	28	He did have back surgery about a year ago when he became significantly crippled by his lumbar spinal stenosis.		INDICATION FFF surgery#4	DRT FFF a year#7	INDICATION FFF stenosis#18
+281-02	29	Dr. Anders Sykes performed an L3-L4, L4-L5 decompressive laminectomy.	
+281-02	30	This had a dramatically positive effect on his back pain.		INDICATION FFF back pain#9
+281-02	31	The biggest problem now is that he feels that he cannot walk as far and his exercise tolerance has decreased.		INDICATION FFF as#12
+281-02	32	He has been an avid golfer in the past, but is now having some more difficulty with that.	
+281-02	33	Even when I saw him two years ago, he was using a cart to play three or four times a week.		DRT FFF two years#6	FREQ FFF four times a week#20
+281-02	34	He still is able to play golf, but if he walks about 100 yards, he starts feeling his calves, and now the symptoms are bilateral and equal.		INDICATION FFF symptoms#22
+281-02	35	He also has some numbness in his toes, which is constant, and his feet feel cold much of the time.		INDICATION FFF cold#15
+281-02	36	The symptoms of claudication have increased over the past couple of years.		INDICATION FFF symptoms#1
+281-02	37	His blood pressure has been reasonably stable.		INDICATION FFF blood pressure#2
+281-02	38	He tells me that you get pressures of 120-130.		INDICATION FFF me#2
+281-02	39	He has not been taking his blood pressure at home, but he does take a fair amount of medication, see below.		INDICATION FFF blood pressure#7
+281-02	40	Of note, his son says that when he was in Michigan, he was playing 18 holes of golf regularly, sometimes a couple of times per day, but Haas notes that he was indeed limited by claudication even though he was able to play the golf down in Michigan.		FREQ FFF per day#25
+281-02	41	He seems to be more limited up here since returning just a short time ago.	
+281-02	42	He also says that he feels like he has got to stay on the move, and if he does not play any golf at all, he will really deteriorate.	
+281-02	43	Of note, the discomfort is not only limited to the calves, but also there is some discomfort in the hips, though not nearly as bad and not as limiting.		INDICATION FFF the discomfort#3	INDICATION FFF as#23	INDICATION FFF as#27
+281-02	44	Of note, he has been seeing Dr.	
+281-02	45	Youngman for his legs and has been told to "walk walk walk."  At this point, he feels that he cannot walk as well or enough to follow through on his instructions.		INDICATION FFF as#21
+281-02	46	Past medical history:	
+281-02	47	As above.		INDICATION FFF as#0
+281-02	48	Others include the following:	
+281-02	49	1.  Diabetes, type 2.		INDICATION FFF diabetes#1
+281-02	50	2.  Hypertension, with blood pressures as high as 220 at times in the past.		INDICATION FFF hypertension#1	INDICATION FFF blood pressures#4	INDICATION FFF as#5	INDICATION FFF as#7
+281-02	51	3.  Carotid bruits, though I do not have any readings from a Duplex ultrasound that was done a couple of years ago or so.	
+281-02	52	4.  Hyperlipidemia.		INDICATION FFF hyperlipidemia#1
+281-02	53	5.  Remote history of smoking, quit 40 years ago or so after 20 years of smoking.		DRT FFF 40 years#7	DRT FFF 20 years#13	INDICATION FFF smoking .#15
+281-02	54	6.  Peripheral neuropathy.		INDICATION FFF neuropathy#2
+281-02	55	7.  Coronary artery disease, as described.		INDICATION FFF coronary artery disease#3	INDICATION FFF as#4
+281-02	56	8.  Renal artery stenosis and PVD.		INDICATION FFF stenosis#3	INDICATION FFF pvd#5
+281-02	57	Current Medications:	
+281-02	58	Avandia 4 mg QD		DBN FFF avandia#0	DOSE FFF 4mg#2	FREQ FFF qd#3
+281-02	59	Prilosec 20 mg QD		DBN FFF prilosec#0	DOSE FFF 20mg#2	FREQ FFF qd#3
+281-02	60	atenolol 150 mg QD		DIN FFF atenolol#0	DOSE FFF 150mg#2	FREQ FFF qd#3
+281-02	61	Imdur 60 mg QD		DBN FFF imdur#0	DOSE FFF 60mg#2	FREQ FFF qd#3
+281-02	62	lisinopril 40 mg QD		DIN FFF lisinopril#0	DOSE FFF 40mg#2	FREQ FFF qd#3
+281-02	63	Lipitor 5 mg QD		DBN FFF lipitor#0	DOSE FFF 5mg#2	FREQ FFF qd#3
+281-02	64	metformin hydrochloride 500 mg 4 tabs qd		DIN FFF metformin hydrochloride#1	DOSE FFF 500mg#3	DOSEAMT FFF 4 tabs#5	FREQ FFF qd#6
+281-02	65	glyburide 5 mg 2 tabs qd		DIN FFF glyburide#0	DOSE FFF 5mg#2	DOSEAMT FFF 2 tabs#4	FREQ FFF qd#5
+281-02	66	aspirin 325 mg QD		DIN FFF aspirin#0	DOSE FFF 325mg#2	FREQ FFF qd#3
+281-02	67	Tricor 54 mg 1 tab qd		DBN FFF tricor#0	DOSE FFF 54mg#2	DOSEAMT FFF 1 tab#4	FREQ FFF qd#5
+281-02	68	Norvasc 5 mg QD		DBN FFF norvasc#0	DOSE FFF 5mg#2	FREQ FFF qd#3
+281-02	69	Plavix 75 mg QD		DBN FFF plavix#0	DOSE FFF 75mg#2	FREQ FFF qd#3
+281-02	70	nitroglycerin PRN		DIN FFF nitroglycerin#0	NEC FFF prn#1
+281-02	71	Lasix 40 mg QD		DBN FFF lasix#0	DOSE FFF 40mg#2	FREQ FFF qd#3
+281-02	72	Social history:	
+281-02	73	He used to run a catering company.		INDICATION FFF run#3
+281-02	74	Currently retired.  Plays golf a lot.	
+281-02	75	Likes to maintain a high level of activity.	
+281-02	76	Has two sons, one in Lake Wildwood, another in Baldwin City.	
+281-02	77	He has a daughter in Michigan.	
+281-02	78	Grandchildren - several.	
+281-02	79	He also has a great grandchild.	
+281-02	80	No smoking currently and only drinks occasional beer.	
+281-02	81	Occasional cup of coffee.	
+281-02	82	Review of systems:	
+281-02	83	Positive for edema, 1+ in both legs.		INDICATION FFF edema#2
+281-02	84	He denies neurologic symptoms, sweats, fever, chills, nausea, vomiting, diarrhea, bloody stools, or hemoptysis.		INDICATION FFF symptoms#3	INDICATION FFF sweats#4	INDICATION FFF fever#5	INDICATION FFF nausea#7	INDICATION FFF vomiting#8	INDICATION FFF diarrhea#9
+281-02	85	He does have night cramps and frequent urination at night.		INDICATION FFF cramps#4	TOD FFF at night#9
+281-02	86	He says he has some problems with vision with some intermittent blurring of his vision, but no monocular blindness.	
+281-02	87	He is set up to see an ophthalmologist soon.	
+281-02	88	Physical examination:	
+281-02	89	-Pulse:   64 and regular	
+281-02	90	-BP: 160/65    by my nurse, but I retook it at 130/60		INDICATION FFF bp#0
+281-02	91	-General:   He is a well-appearing gentleman, looks younger than his age of 82 years		DRT FFF 82 years#13

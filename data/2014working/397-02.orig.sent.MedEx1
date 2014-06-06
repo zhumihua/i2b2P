@@ -1,0 +1,81 @@
+397-02||1||Record date: 2076-07-21
+397-02||2||Attending Admit Note
+397-02||3||Joel Goldberg
+397-02||4||MR#  0370149
+397-02||5||PCP:  Quentina Thornton , MD
+397-02||6||Health Center: Arroyo Grande
+397-02||7||CODE:  FULL
+397-02||8||Date of admit:  7/20/76
+397-02||9||Chief Complaint:  Right foot pain
+397-02||10||History of Present Illness:
+397-02||11||46 yo man with hx of DM neuropathy who presented to the ED with right foot pain.
+397-02||12||He noted "blood blister on right 4th toe 1 wk ago and was seen in ED.
+397-02||13||He was sent home on neurontin.||DBN FFF neurontin. FFF 5 5||
+397-02||14||Last night, right 4th toe was black, with redness on 5th toe as well, with extension to dorsum of foot.
+397-02||15||No hx of trauma to foot.
+397-02||16||ED course:
+397-02||17||Seen by surgical consult in ED.
+397-02||18||Recommended Unasyn and arterial LENI's.||DBN FFF unasyn FFF 1 1||
+397-02||19||Localized wound care with silvadene.||INDICATION FFF wound care FFF 1 2||DBN FFF silvadene. FFF 4 4||
+397-02||20||Past Medical History:
+397-02||21||Diabetes - neuropathy, HgB A1c 8.8% on 7/7.
+397-02||22||Dx 12/74
+397-02||23||Nephropathy - trace protein in urine
+397-02||24||MGUS
+397-02||25||Tobacco abuse
+397-02||26||Right heel ulcer - recent hospitalization 6/4 - 6/12 for ulcer with eschar
+397-02||27||Allergies:
+397-02||28||Codeine - GI upset||DIN FFF codeine FFF 0 0||
+397-02||29||Medications:
+397-02||30||neurontin 100 mg tid||DBN FFF neurontin FFF 0 0||DOSE FFF 100 mg FFF 1 2||FREQ FFF tid FFF 3 3||
+397-02||31||glyburide 5 mg qd||DIN FFF glyburide FFF 0 0||DOSE FFF 5 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+397-02||32||zestril 2.5 mg qd||DBN FFF zestril FFF 0 0||DOSE FFF 2.5 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+397-02||33||viagra||DBN FFF viagra FFF 0 0||
+397-02||34||percocet||DBN FFF percocet FFF 0 0||
+397-02||35||Family History:
+397-02||36||Social History:
+397-02||37||+ tobacco use
+397-02||38||Review of Systems:
+397-02||39||No F/C/S, NO CP, No SOB.
+397-02||40||Physical Examination
+397-02||41||Vital Signs:  T:98.3  BP:114/73  HR:100  RR:16  96%onRA
+397-02||42||General Appearance:  laying in bed in NAD
+397-02||43||HEENT:  mmm, PERRLA, oropharynx clear
+397-02||44||Skin:  warm, dry
+397-02||45||Neck:  no LAD, no bruits, no thyromegaly
+397-02||46||Lungs:  CTA, no w/r/c
+397-02||47||Heart:  RRR, +S1/S2, no m/r/g||DIN FFF m/r/g FFF 4 4||
+397-02||48||Abdomen:  soft,  NT/ND, +BS,
+397-02||49||Extremities:  +2 pulses throughout, no edema, right dorsum of foot erythematous, right 4th toe black, right 5th toe erythema
+397-02||50||Neuro:  decreased sensation to light touch on both feet, otherwise nonfocal
+397-02||51||Psych/Mental Status:  A&O x3,
+397-02||52||Rectal exam:  deferred
+397-02||53||Diagnostic Testing:
+397-02||54||Plasma Sodium          138                       135-145        mmol/L||DIN FFF sodium FFF 1 1||DOSE FFF 138 FFF 2 2||
+397-02||54||Plasma Sodium          138                       135-145        mmol/L||DIN FFF sodium FFF 1 1||DOSE FFF 135-145 mmol/l FFF 3 4||
+397-02||55||Plasma Potassium       4.8                       3.4-4.8        mmol/L||DIN FFF potassium FFF 1 1||DOSE FFF 4.8 FFF 2 2||
+397-02||55||Plasma Potassium       4.8                       3.4-4.8        mmol/L||DIN FFF potassium FFF 1 1||DOSE FFF 3.4-4.8 mmol/l FFF 3 4||
+397-02||56||Plasma Chloride        100                       100-108        mmol/L
+397-02||57||Plasma Carbon Dioxide  29.8                      23.0-31.9      mmol/L||DIN FFF carbon dioxide FFF 1 2||DOSE FFF 29.8 FFF 3 3||
+397-02||57||Plasma Carbon Dioxide  29.8                      23.0-31.9      mmol/L||DIN FFF carbon dioxide FFF 1 2||DOSE FFF 23.0-31.9 mmol/l FFF 4 5||
+397-02||58||Plasma Urea Nitrogen   12                        8-25           mg/dl||DIN FFF nitrogen FFF 2 2||DOSE FFF 12 FFF 3 3||
+397-02||58||Plasma Urea Nitrogen   12                        8-25           mg/dl||DIN FFF nitrogen FFF 2 2||DOSE FFF 8-25 mg/dl FFF 4 5||
+397-02||58||Plasma Urea Nitrogen   12                        8-25           mg/dl||DIN FFF urea FFF 1 1||
+397-02||59||Plasma Creatinine      0.8                       0.6-1.5        mg/dl
+397-02||60||Plasma Glucose         168        H              70-110         mg/dl
+397-02||61||WBC                    10.0                      4.5-11.0       th/cmm
+397-02||62||HCT                    39.1       L              41.0-53.0      %
+397-02||63||HGB                    13.8                      13.5-17.5      gm/dl
+397-02||64||PLT                    194                       150-350        th/cumm
+397-02||65||MCV                    86                        80-100         fl
+397-02||66||RDW                    13.0                      11.5-14.5      %
+397-02||67||Poly                   70                        40-70          %
+397-02||68||Lymphs                 20         L              22-44          %
+397-02||69||Monos                  8                         4-11           %
+397-02||70||Blood cultures x 3 neg todate
+397-02||71||Wound cx pending
+397-02||73||Impression:  46 yo male with Diabetic neuropathy and gangrenous 4th right toe with cellulitis.
+397-02||74||Plan:
+397-02||75||1. Foot Ulceration: Surg following.
+397-02||76||Wound care and unasyn as previous.||DBN FFF unasyn FFF 3 3||INDICATION FFF as FFF 4 4||
+397-02||77||Arterial leni's pending.  2. CV: Agree with starting ASA.||DIN FFF asa. FFF 8 8||

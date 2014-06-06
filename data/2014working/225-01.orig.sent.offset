@@ -1,0 +1,17 @@
+225-01	23	0	Ranexa was added however he has not noted any improvement in jaw pain.	ranexa FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+225-01	24	0	He has progressively worsening dyspnea on exertion and intermittent exertional left jaw pain partially relieved by 2 s.l. TNG. Despite greatly curtailing his activities, he is having daily symptoms.	tng. FFF 18 18	 FFF 	 FFF 	daily FFF 27 27	 FFF 	 FFF 	narrative
+225-01	30	0	HR 73 SR, BP 122/71, O2 sat 98% RA. ECG showed NSR rate 71, incomplete RBBB with LAFB, LAE, TWI V1-V2-no important change c/w prior tracing 2/18/93.	ecg FFF 9 9	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+225-01	35	0	Imdur	imdur FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+225-01	36	0	Plavix 75 mg daily	plavix FFF 0 0	75 mg FFF 1 2	 FFF 	daily FFF 3 3	 FFF 	 FFF 	narrative
+225-01	37	0	ASA 325 mg daily	asa FFF 0 0	325 mg FFF 1 2	 FFF 	daily FFF 3 3	 FFF 	 FFF 	narrative
+225-01	38	0	Lopressor 12.5 mg TID	lopressor FFF 0 0	12.5 mg FFF 1 2	 FFF 	tid FFF 3 3	 FFF 	 FFF 	narrative
+225-01	39	0	Lipitor 20 mg daily	lipitor FFF 0 0	20 mg FFF 1 2	 FFF 	daily FFF 3 3	 FFF 	 FFF 	narrative
+225-01	40	0	Norvasc 10 mg daily	norvasc FFF 0 0	10 mg FFF 1 2	 FFF 	daily FFF 3 3	 FFF 	 FFF 	narrative
+225-01	41	0	Lexapro	lexapro FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+225-01	42	0	Lasix 20mg on Sat and Wednesday	lasix FFF 0 0	20mg FFF 1 1	 FFF 	on Sat and Wednesday FFF 2 5	 FFF 	 FFF 	narrative
+225-01	43	0	Protonix 40mg daily	protonix FFF 0 0	40mg FFF 1 1	 FFF 	daily FFF 2 2	 FFF 	 FFF 	narrative
+225-01	44	0	Glipizide	glipizide FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+225-01	45	0	Ranexa 500 mg bid	ranexa FFF 0 0	500 mg FFF 1 2	 FFF 	bid FFF 3 3	 FFF 	 FFF 	narrative
+225-01	46	0	s.l. TNG PRN	tng FFF 1 1	 FFF 	 FFF 	prn FFF 2 2	 FFF 	 FFF 	narrative
+225-01	75	0	No ulcers, BRBPR. + GERD controlled with Protonix	protonix FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+225-01	76	0	No claudication. + LE post op still on Lasix	lasix FFF 8 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

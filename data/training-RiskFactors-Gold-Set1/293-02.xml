@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2077-03-03
+
+ 
+
+ 
+
+                          OFFICE NOTE
+
+ 
+
+Cora Quinley
+
+MR# 759-87-55-2
+
+March 3, 2077
+
+ 
+
+As the responsible teaching attending, I can confirm both the
+
+history and physical examination of Dr. Uriel Zapien. Briefly, the
+
+patient is a 71-year-old female with several cardiovascular risk
+
+factors. She was admitted to the hospital in January after a
+
+prolonged episode of palpitations. The patient had a tiny
+
+Troponin  elevation to 0.3, and the decision was made to manage
+
+her conservatively. The patient continues to have these episodes
+
+of palpitations, but she does not get chest pain with any
+
+exercise.
+
+ 
+
+Her current medical regimen includes aspirin, beta-blocker,
+
+statin and an ACE Inhibitor. 
+
+ 
+
+On physical examination she has 2+ carotids, which have normal
+
+upstrokes and no bruits. Her lungs are clear to auscultation. Her
+
+heart examination reveals a regular rate with a normal S1 and S2,
+
+without S3 and S4.
+
+ 
+
+Her electrocardiogram is normal.
+
+ 
+
+Assessment: I concur with Dr. Zapien in that we will increase the
+
+patient's beta-blockers to decrease her probable supraventricular
+
+tachycardia. She will be seen back here in several months.
+
+ 
+
+ 
+
+ 
+
+Vasilios C. Osborne, M.D.
+
+/varner
+
+ 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC6" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC7" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC9" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC12" time="during DCT" type1="beta blocker" type2=""/>
+    <FAMILY_HIST id="DOC13" indicator="not present"/>
+    <SMOKER id="DOC11" status="unknown"/>
+  </TAGS>
+</root>

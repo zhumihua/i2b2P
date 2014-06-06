@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2094-08-11
+
+
+
+
+
+INTERNAL MEDICINE ASSOCIATES
+
+ROSELAND COMMUNITY HOSPITAL
+
+
+
+Major Problems
+
+Health maintenance
+
+Up-to-date.  Pneumococcal vaccine given in 2093.  Declines a sigmoidoscopy or colonoscopy.
+
+Diabetes mellitus
+
+Blood sugars have been very good.  Here today, it is 156.  She met with Camp who discussed extensively about her diabetes.  She found it very helpful.  Diet issues reinforced.
+
+Sebaceous cyst
+
+Resolved.
+
+Hypertension
+
+Blood pressure much improved, 130/60 after increasing her medications.  This is a great improvement.  When Camp checked, her blood pressure was also considerably better at that visit, 132/70.  Having her watch her salt and also her sugar in her diet.
+
+
+
+Active Medications
+
+
+
+glyburide 5mg po 2 tabs bid
+
+metformin hydrochloride 500 mg po bid
+
+lisinopril 20 mg po qd
+
+atenolol 100mg po qd
+
+Ecotrin 325 mg po qd
+
+hydrochlorothiazide 25 mg po qd
+
+Norvasc 5mg po qd
+
+
+
+Physical examination
+
+Blood pressure 130/60  
+
+Weight   171 pounds
+
+Chest   Lungs are clear
+
+Cor   Unremarkable
+
+Extrem   Clear
+
+
+
+Disposition
+
+Return is to see me in the fall.
+
+
+
+Note transcribed by outside service   Transcription errors may be present.
+
+
+
+Signed electronically by Ruba M  Neil  on Aug 14, 2094     
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC4" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC8" time="before DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC9" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC11" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC12" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC14" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC17" time="during DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC20" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC21" time="after DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC22" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC23" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC24" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC26" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC27" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC13" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC25" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC19" indicator="not present"/>
+    <SMOKER id="DOC15" status="unknown"/>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC16" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC28" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

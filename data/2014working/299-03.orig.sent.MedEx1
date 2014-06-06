@@ -1,0 +1,33 @@
+299-03||1||Record date: 2064-05-05
+299-03||2||Medications
+299-03||3||Lipitor 40 MG PO 1 TAB QD||DBN FFF lipitor FFF 0 0||DOSE FFF 40 mg FFF 1 2||RUT FFF po FFF 3 3||DOSEAMT FFF 1 tab FFF 4 5||FREQ FFF qd FFF 6 6||
+299-03||4||Paxil 20.0 MG PO 1 TAB QD||DBN FFF paxil FFF 0 0||DOSE FFF 20.0 mg FFF 1 2||RUT FFF po FFF 3 3||DOSEAMT FFF 1 tab FFF 4 5||FREQ FFF qd FFF 6 6||
+299-03||5||Synthroid 0.05 MG PO 1 TAB QD||DBN FFF synthroid FFF 0 0||DOSE FFF 0.05 mg FFF 1 2||RUT FFF po FFF 3 3||DOSEAMT FFF 1 tab FFF 4 5||FREQ FFF qd FFF 6 6||
+299-03||6||Multivitamins 1 TAB QD||DIN FFF multivitamins FFF 0 0||DOSEAMT FFF 1 tab FFF 1 2||FREQ FFF qd FFF 3 3||
+299-03||7||One Touch Test Strips : As directed.||DBN FFF one touch FFF 0 1||INDICATION FFF as FFF 5 5||
+299-03||8||LORAZEPAM 0.5 MG PO 1 TAB QD||DIN FFF lorazepam FFF 0 0||DOSE FFF 0.5 mg FFF 1 2||RUT FFF po FFF 3 3||DOSEAMT FFF 1 tab FFF 4 5||FREQ FFF qd FFF 6 6||
+299-03||9||Accupril (QUINAPRIL) 10 MG PO 1 TAB QD||DBN FFF accupril FFF 0 0||
+299-03||10||Calcium Gluconate 500MG, 2 Tablet(s) PO BID||DIN FFF calcium gluconate FFF 0 1||DOSE FFF 500mg, FFF 2 2||DOSEAMT FFF 2 tablet(s) FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF bid FFF 6 6||
+299-03||11||Serevent (SALMETEROL) 2 PUFFS NAS BID||DBN FFF serevent FFF 0 0||MDBN FFF (salmeterol) FFF 1 1||DOSEAMT FFF 2 puffs FFF 2 3||FREQ FFF bid FFF 5 5||
+299-03||12||Atrovent Inhaler (IPRATROPIUM Inhaler) 2 PUFFS NAS BID||DBN FFF atrovent FFF 0 0||DDF FFF inhaler FFF 1 1||MDBN FFF (ipratropium FFF 2 2||DOSEAMT FFF 2 puffs FFF 4 5||FREQ FFF bid FFF 7 7||
+299-03||13||Ecasa (ASPIRIN Enteric Coated) 81MG, 1 Tablet(s) PO 1 TAQD||DPN FFF ecasa FFF 0 0||MDBN FFF (aspirin enteric coated) FFF 1 3||DOSE FFF 81mg, FFF 4 4||DOSEAMT FFF 1 tablet(s) FFF 5 6||RUT FFF po FFF 7 7||
+299-03||14||Lasix (FUROSEMIDE) 80MG, 2 Tablet(s) PO BID||DBN FFF lasix FFF 0 0||MDBN FFF (furosemide) FFF 1 1||DOSE FFF 80mg, FFF 2 2||DOSEAMT FFF 2 tablet(s) FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF bid FFF 6 6||
+299-03||15||Lopressor (METOPROLOL Tartrate) 50MG, 0.5 Tablet(s) PO BID||DBN FFF lopressor FFF 0 0||MDBN FFF (metoprolol tartrate) FFF 1 2||DOSE FFF 50mg, FFF 3 3||DOSEAMT FFF 0.5 tablet(s) FFF 4 5||RUT FFF po FFF 6 6||FREQ FFF bid FFF 7 7||
+299-03||16||Fe Gluconate (FERROUS Gluconate) 325MG, 1 Tablet(s) PO TID||DIN FFF fe FFF 0 0||
+299-03||16||Fe Gluconate (FERROUS Gluconate) 325MG, 1 Tablet(s) PO TID||DIN FFF gluconate FFF 1 1||MDBN FFF (ferrous gluconate) FFF 2 3||DOSE FFF 325mg, FFF 4 4||DOSEAMT FFF 1 tablet(s) FFF 5 6||RUT FFF po FFF 7 7||FREQ FFF tid FFF 8 8||
+299-03||17||Glucophage (METFORMIN) 500MG, 2 Tablet(s) PO : 2 tabs po qam, 2 tabs po qpm.||DBN FFF glucophage FFF 0 0||
+299-03||18||Caltrate 600 1 TAB PO BID||DBN FFF caltrate FFF 0 0||DOSE FFF 600 FFF 1 1||DOSEAMT FFF 1 tab FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF bid FFF 5 5||
+299-03||19||Avandia (ROSIGLITAZONE) 4MG, 1 Tablet(s) PO BID||DBN FFF avandia FFF 0 0||MDBN FFF (rosiglitazone) FFF 1 1||DOSE FFF 4mg, FFF 2 2||DOSEAMT FFF 1 tablet(s) FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF bid FFF 6 6||
+299-03||20||Ocuvite (MULTIVITAMINS) 1 TAB PO QD||DBN FFF ocuvite FFF 0 0||MDBN FFF (multivitamins) FFF 1 1||DOSEAMT FFF 1 tab FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF qd FFF 5 5||
+299-03||21||Fosamax (ALENDRONATE) 70MG, 1 Tablet(s) PO QWEEK||DBN FFF fosamax FFF 0 0||MDBN FFF (alendronate) FFF 1 1||DOSE FFF 70mg, FFF 2 2||DOSEAMT FFF 1 tablet(s) FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF qweek FFF 6 6||
+299-03||22||Prilosec (OMEPRAZOLE) 20MG, 1 Capsule(s) PO BID||DBN FFF prilosec FFF 0 0||MDBN FFF (omeprazole) FFF 1 1||DOSE FFF 20mg, FFF 2 2||DOSEAMT FFF 1 capsule(s) FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF bid FFF 6 6||
+299-03||23||Problems
+299-03||24||Pernicious anemia : In 3/64 HCT was 28 with B12 195.||INDICATION FFF pernicious anemia FFF 0 1||DPN FFF b12 FFF 9 9||
+299-03||25||All other parameters nl.
+299-03||26||Has been getting monthly IM B12.||FREQ FFF monthly FFF 3 3||RUT FFF im FFF 4 4||DPN FFF b12. FFF 5 5||
+299-03||27||Still feels tired.
+299-03||28||Will check HCT today.
+299-03||29||Hyperlipidemia : Dr. Qu recently changes lipitor to lopid.||DBN FFF lipitor FFF 6 6||
+299-03||29||Hyperlipidemia : Dr. Qu recently changes lipitor to lopid.||DBN FFF lopid. FFF 8 8||
+299-03||30||Dietary non-compliance and poor DM control not helping lipids. 5/05/64: Recently increased to 40 mg qd and fasting chol checked today.
+299-03||31||Diabetes mellitus : Good control.

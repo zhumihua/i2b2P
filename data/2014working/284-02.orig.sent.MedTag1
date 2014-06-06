@@ -1,0 +1,150 @@
+284-02||1||Record date: 2070-08-13
+284-02||3||Ridgewood Hospital Intern Admission Note
+284-02||5||CC  Chest pain||TOD FFF cc FFF 0 0||INDICATION FFF chest pain FFF 1 2||
+284-02||6||HPI
+284-02||7||78 yo F with PMHx sig for CHF, HTN, atrial fibrillation (cardioverted 2/68, now on amiodarone), and DM p/w increased SOB and chest pain over 1 weeks time.||INDICATION FFF f FFF 2 2||INDICATION FFF chf, FFF 7 7||INDICATION FFF htn, FFF 8 8||INDICATION FFF atrial fibrillation FFF 9 10||DIN FFF amiodarone), FFF 15 15||INDICATION FFF dm FFF 17 17||INDICATION FFF sob FFF 20 20||INDICATION FFF chest pain FFF 22 23||DRT FFF 1 weeks FFF 25 26||
+284-02||8||Symptoms not related to exertion and reports sternal area is the location of pain.||INDICATION FFF symptoms FFF 0 0||INDICATION FFF pain. FFF 13 13||
+284-02||9||Occurs at rest.
+284-02||10||Feels like pressure and at times sharp pain, not related to respiration. 7/10 when maximal intensity.||INDICATION FFF pressure FFF 2 2||INDICATION FFF pain, FFF 7 7||
+284-02||11||Pain is constant in nature, patient states lasting up to hours at a time.||INDICATION FFF pain FFF 0 0||
+284-02||12||No specific provocative or palliative factors.
+284-02||13||Not related to position.
+284-02||14||Reports that SOB and chest pain are chronic problems for her and the reason she presented to the ED is because the symptoms have increased over the past week.||INDICATION FFF sob FFF 2 2||INDICATION FFF chest pain FFF 4 5||INDICATION FFF ed FFF 18 18||INDICATION FFF symptoms FFF 22 22||
+284-02||15||No associated symptoms of N/V or diaphoresis.||INDICATION FFF symptoms FFF 2 2||
+284-02||16||Reports occasional palpitations.
+284-02||17||Patient also feels pain in her back, shoulders, and arms which she attributes to her arthritis and not radiation of the pain.||INDICATION FFF pain FFF 3 3||INDICATION FFF arthritis FFF 15 15||INDICATION FFF the pain. FFF 20 21||
+284-02||18||States that she sleeps on 4 pillows and this does represent on acute change.||INDICATION FFF change. FFF 13 13||
+284-02||19||Denies fever/chills.||INDICATION FFF fever/chills. FFF 1 1||
+284-02||20||Reports constipation at baseline (BMs do not occur everyday).||INDICATION FFF constipation FFF 1 1||FREQ FFF everyday). FFF 8 8||
+284-02||21||Patient states she has    frequent sinus infections.||INDICATION FFF infections. FFF 6 6||
+284-02||22||PMHx
+284-02||23||HTN, CHF (good systolic function though), Afib (past cardioversion Feb. 2068),||INDICATION FFF htn, FFF 0 0||INDICATION FFF chf FFF 1 1||INDICATION FFF afib FFF 6 6||
+284-02||24||DM||INDICATION FFF dm FFF 0 0||
+284-02||25||Pulmonary embolism - bilateral, treated at Buzan County Clinic (CT with multiple filling defects in LLL, RUL, RLL c/w PE), non-Q wave MI with inferolateral apical depressoins at Buzan County Clinic 6/69; RSH admission 5/17/70 with D-dimer=1976, CT negative for PE and DVT||INDICATION FFF pulmonary embolism FFF 0 1||INDICATION FFF (ct FFF 9 9||INDICATION FFF pe), FFF 19 19||INDICATION FFF mi FFF 22 22||INDICATION FFF ct FFF 37 37||INDICATION FFF pe FFF 40 40||INDICATION FFF dvt FFF 42 42||
+284-02||26||Osteoarthritis, anxiety, depression with psychotic features, lumbar disc disease (s/p surgical repairs),||INDICATION FFF osteoarthritis, FFF 0 0||INDICATION FFF anxiety, FFF 1 1||INDICATION FFF depression FFF 2 2||INDICATION FFF psychotic FFF 4 4||
+284-02||27||Echo: 5/21/70: The left ventricular systolic function within normal limits.
+284-02||28||There is segmental left ventricular dysfunction which involves the inferior territory, this has deceased sine 12/68 study.||INDICATION FFF left ventricular dysfunction FFF 3 5||INDICATION FFF deceased FFF 13 13||
+284-02||29||The estimated ejection fraction is 57%.||DOSE FFF 57%. FFF 5 5||
+284-02||30||Estimated RV systolic pressure is 89 mmHg.||INDICATION FFF pressure FFF 3 3||
+284-02||31||Right ventricular systolic function is within normal limits.
+284-02||32||Stress The ECG response to pharmacological stress was  uninterpretable for ischemia.||DIN FFF ecg FFF 2 2||INDICATION FFF ischemia. FFF 10 10||
+284-02||33||The myocardial scans are within normal limits and do not demonstrate evidence of myocardial ischemia or infarction.||INDICATION FFF myocardial ischemia FFF 13 14||INDICATION FFF infarction. FFF 16 16||
+284-02||34||Region(s) with apparent reduction in tracer activity likely reflect soft tissue attenuation, not specific for coronary artery disease.||INDICATION FFF coronary artery disease. FFF 15 17||
+284-02||35||LVEF=64%.||DOSE FFF lvef=64%. FFF 0 0||
+284-02||36||PE protocol CT 5/70: no evidence of pulmonary embolism.||INDICATION FFF pe FFF 0 0||INDICATION FFF ct FFF 2 2||INDICATION FFF pulmonary embolism. FFF 7 8||
+284-02||37||Delayed venogram of the pelvis and lower extremities demonstrates no evidence of of DVT.||INDICATION FFF dvt. FFF 13 13||
+284-02||38||A 2.2 x 1.4 cm nodule is identified on image 112 in the right upper lobe.||INDICATION FFF cm FFF 4 4||
+284-02||39||In addition, there is ground glass opacity involving the bilateral lungs.
+284-02||40||There is interstitial pulmonary edema and a small right pleural effusion. 5/23 Chest CT: previously demonstrated nodule in the right upper lung measuring 17 mm x 11 mm has resolved.||INDICATION FFF pulmonary edema FFF 3 4||INDICATION FFF pleural effusion. FFF 9 10||INDICATION FFF ct: FFF 13 13||INDICATION FFF mm FFF 24 24||INDICATION FFF mm FFF 27 27||
+284-02||41||MED
+284-02||42||Amiodarone 200 qD    Premarin 0.625 qD||DIN FFF amiodarone FFF 0 0||DOSE FFF 200 FFF 1 1||FREQ FFF qd FFF 2 2||DBN FFF premarin FFF 3 3||DOSE FFF 0.625 FFF 4 4||FREQ FFF qd FFF 5 5||
+284-02||43||ASA 81 qD     Provera 2.5 mg qD||DIN FFF asa FFF 0 0||DOSE FFF 81 FFF 1 1||FREQ FFF qd FFF 2 2||DBN FFF provera FFF 3 3||DOSE FFF 2.5 mg FFF 4 5||FREQ FFF qd FFF 6 6||
+284-02||44||Atenolol 25 qD     Tylenol 500 tid PRN||DIN FFF atenolol FFF 0 0||DOSE FFF 25 FFF 1 1||FREQ FFF qd FFF 2 2||DBN FFF tylenol FFF 3 3||DOSE FFF 500 FFF 4 4||FREQ FFF tid FFF 5 5||NEC FFF prn FFF 6 6||
+284-02||45||Lasix 40 bid     Ibuprofen 600 q8 PRN||DBN FFF lasix FFF 0 0||DOSE FFF 40 FFF 1 1||FREQ FFF bid FFF 2 2||DIN FFF ibuprofen FFF 3 3||DOSE FFF 600 FFF 4 4||FREQ FFF q8 FFF 5 5||NEC FFF prn FFF 6 6||
+284-02||46||Glucophage 500 bid    Colace 100 tid pRN||DBN FFF glucophage FFF 0 0||DOSE FFF 500 FFF 1 1||FREQ FFF bid FFF 2 2||DBN FFF colace FFF 3 3||DOSE FFF 100 FFF 4 4||FREQ FFF tid FFF 5 5||NEC FFF prn FFF 6 6||
+284-02||47||Nexium 40 qD||DBN FFF nexium FFF 0 0||DOSE FFF 40 FFF 1 1||FREQ FFF qd FFF 2 2||
+284-02||48||Neurontin 100 tid||DBN FFF neurontin FFF 0 0||DOSE FFF 100 FFF 1 1||FREQ FFF tid FFF 2 2||
+284-02||49||Celexa 40 qD||DBN FFF celexa FFF 0 0||DOSE FFF 40 FFF 1 1||FREQ FFF qd FFF 2 2||
+284-02||50||ALL
+284-02||51||Haldol - unknown reaction||DBN FFF haldol FFF 0 0||
+284-02||52||SHx
+284-02||53||Lives alone, upstairs from her nieces (Carpenter 815-009-5048).
+284-02||54||VNA visits 2x/week organizes medications which patient then takes herself.
+284-02||55||Receives Community Means and family helps with shopping.
+284-02||56||Receives PT at home.
+284-02||57||Ambulates with a walker at baseline.
+284-02||58||Smoking:  denies
+284-02||59||Alcohol:  denies
+284-02||60||IVDU: none
+284-02||61||FHx
+284-02||62||Denies
+284-02||63||In ED, T=98.6, HR=90, BP=174/96, RR=18, 94%RA    96%2L; Received Lasix 20 IV, ASA, Albuterol/Atrovent Nebs, Magnesium 2g x1, and Insulin 6 units.||INDICATION FFF ed, FFF 1 1||INDICATION FFF t=98.6, FFF 2 2||INDICATION FFF bp=174/96, FFF 4 4||DOSE FFF 94%ra FFF 6 6||INDICATION FFF 94%ra FFF 6 6||DOSE FFF 96%2l; FFF 7 7||DOSE FFF 96%2l; FFF 7 7||DBN FFF lasix FFF 9 9||DOSE FFF 20 FFF 10 10||RUT FFF iv, FFF 11 11||DIN FFF asa, FFF 12 12||DIN FFF magnesium FFF 15 15||DOSE FFF 2g FFF 16 16||FREQ FFF x1, FFF 17 17||DIN FFF insulin FFF 19 19||DOSEAMT FFF 6 units. FFF 20 21||
+284-02||64||PE||INDICATION FFF pe FFF 0 0||
+284-02||65||VS   Temp: 97.8 BP: 140/82 HR: 80  RR: 26  Sat:99% 2L||INDICATION FFF bp: FFF 3 3||DRT FFF 140/82 hr: FFF 4 5||DOSE FFF 2l FFF 10 10||
+284-02||66||GEN  NAD, wearing a hair piece
+284-02||67||HEENT  PERRL, EOMI, anicteric, no erythema/exudates posterior pharynx||INDICATION FFF erythema/exudates FFF 5 5||
+284-02||68||NECK  JVP elevated, no LAD
+284-02||69||CHEST  bilateral crackles 1/3 of the way up the lung fields, otherwise clear, no wheezes||INDICATION FFF wheezes FFF 14 14||
+284-02||70||HEART  RRR, no m/r/g||DIN FFF m/r/g FFF 3 3||
+284-02||71||ABD  +BS, soft, NTND, no masses||INDICATION FFF +bs, FFF 1 1||
+284-02||72||EXT   1+ edema above the ankles, pulses equal b/l||INDICATION FFF edema FFF 2 2||
+284-02||73||SKIN  no rashes or lesions
+284-02||74||RECTAL  Guaiac neg but minimal stool in vault, 2mm erosion on buttocks||INDICATION FFF 2mm FFF 8 8||
+284-02||75||NEURO AAOx3, (initially states year is 2087, than corrects, day/month accurate
+284-02||76||No facial droop, no tongue deviation, uvula elevated midline
+284-02||77||Sensory intact
+284-02||78||Motor strength 5/5 throughou.
+284-02||80||LABS
+284-02||81||WBC                    8.8                       4.5-11.0       th/cmm
+284-02||82||HCT                    37.0                      36.0-46.0      %||DOSE FFF 36.0-46.0 % FFF 2 3||
+284-02||83||HGB                    12.1                      12.0-16.0      gm/dl||DOSE FFF 12.0-16.0 gm/dl FFF 2 3||
+284-02||84||RBC                    4.57                      4.00-5.20      mil/cmm
+284-02||85||PLT                    261                       150-350        th/cumm
+284-02||86||MCV                    81                        80-100         fl
+284-02||87||MCH                    26.5                      26.0-34.0      pg/rbc
+284-02||88||MCHC                   32.7                      31.0-37.0      g/dl||DOSE FFF 31.0-37.0 g/dl FFF 2 3||
+284-02||89||RDW                    15.0       H              11.5-14.5      %||DRT FFF 15.0 h FFF 1 2||DOSE FFF 11.5-14.5 % FFF 3 4||
+284-02||90||Superstat PT           13.6       H              11.1-13.1      sec||DIN FFF superstat FFF 0 0||DRT FFF 13.6 h FFF 2 3||DIN FFF sec FFF 5 5||
+284-02||91||Superstat APTT         23.2                      22.1-35.1      sec||DIN FFF superstat FFF 0 0||DIN FFF sec FFF 4 4||
+284-02||92||DIFFERENTIAL REQUEST   RECEIVED
+284-02||93||Diff Method            Auto
+284-02||94||Poly                   72         H              40-70          %||DRT FFF 72 h FFF 1 2||DOSE FFF 40-70 % FFF 3 4||
+284-02||95||Lymphs                 20         L              22-44          %||DOSE FFF 20 l FFF 1 2||DOSE FFF 22-44 % FFF 3 4||
+284-02||96||Monos                  4                         4-11           %||DOSE FFF 4-11 % FFF 2 3||
+284-02||97||EOS                    3                         0-8            %||DOSE FFF 0-8 % FFF 2 3||
+284-02||98||Basos                  1                         0-3            %||DOSE FFF 0-3 % FFF 2 3||
+284-02||99||Absolute Neuts         6.40                      1.8-7.7        th/cmm
+284-02||100||Absolute Lymphs        1.79                      1.0-4.8        th/cmm
+284-02||101||Absolute Monos         0.32                      0.2-0.4        th/cmm
+284-02||102||Absolute EOS           0.22                      0.1-0.3        th/cmm
+284-02||103||Absolute Basos         0.06                      0.0-0.3        th/cmm
+284-02||104||Aniso                  None                      NORMAL
+284-02||105||Hypo                   2+                        NORMAL
+284-02||106||Macrocytes             None
+284-02||107||Microcytes             None
+284-02||108||Sodium (Stat Lab)      135                       135-145        mmol/L||TOD FFF (stat FFF 1 1||DOSE FFF 135-145 mmol/l FFF 4 5||
+284-02||109||Potassium (Stat Lab)   4.6                       3.4-4.8        mmol/L||TOD FFF (stat FFF 1 1||DOSE FFF 3.4-4.8 mmol/l FFF 4 5||
+284-02||110||Result Text:
+284-02||111||SLIGHTLY HEMOLYZED
+284-02||112||Chloride (Stat Lab)    104                       100-108        mmol/L||TOD FFF (stat FFF 1 1||DOSE FFF 100-108 mmol/l FFF 4 5||
+284-02||113||CO2 (Stat Lab)         21.8       L              23.0-31.9      mmol/L||TOD FFF (stat FFF 1 1||DOSE FFF 21.8 l FFF 3 4||DOSE FFF 23.0-31.9 mmol/l FFF 5 6||
+284-02||114||BUN (Stat Lab)         11                        8-25           mg/dl||TOD FFF (stat FFF 1 1||DOSE FFF 8-25 mg/dl FFF 4 5||
+284-02||115||Creatinine (Stat Lab)  1.0                       0.6-1.5        mg/dl||INDICATION FFF creatinine FFF 0 0||TOD FFF (stat FFF 1 1||DOSE FFF 0.6-1.5 mg/dl FFF 4 5||
+284-02||116||Glucose (Stat Lab)     296        H              70-110         mg/dl||TOD FFF (stat FFF 1 1||DRT FFF 296 h FFF 3 4||DOSE FFF 70-110 mg/dl FFF 5 6||
+284-02||117||Calcium                8.9                       8.5-10.5       mg/dl||DIN FFF calcium FFF 0 0||DOSE FFF 8.9 FFF 1 1||DOSE FFF 8.5-10.5 mg/dl FFF 2 3||
+284-02||118||Phosphorus             3.2                       2.6-4.5        mg/dl||INDICATION FFF phosphorus FFF 0 0||DOSE FFF 2.6-4.5 mg/dl FFF 2 3||
+284-02||119||Magnesium              1.3        L              1.4-2.0        meq/L||DIN FFF magnesium FFF 0 0||DOSE FFF 1.3 l FFF 1 2||DOSE FFF 1.4-2.0 meq/l FFF 3 4||
+284-02||120||Total Protein          7.8                       6.0-8.3        g/dl||DOSE FFF 6.0-8.3 g/dl FFF 3 4||
+284-02||121||Albumin                3.0        L              3.3-5.0        g/dl||DIN FFF albumin FFF 0 0||DOSE FFF 3.0 l FFF 1 2||DOSE FFF 3.3-5.0 g/dl FFF 3 4||
+284-02||122||Globulin               4.8        H              2.6-4.1        g/dl||DRT FFF 4.8 h FFF 1 2||DOSE FFF 2.6-4.1 g/dl FFF 3 4||
+284-02||123||Direct Bilirubin       <0.1                      0-0.4          mg/dl||DOSE FFF 0-0.4 mg/dl FFF 3 4||
+284-02||124||Total Bilirubin        0.5                       0-1.0          mg/dl||DOSE FFF 0-1.0 mg/dl FFF 3 4||
+284-02||125||Alkaline Phosphatase   69                        30-100         U/L||DOSE FFF 30-100 u/l FFF 3 4||
+284-02||126||Transaminase-SGPT      19                        7-30           U/L||DOSE FFF 7-30 u/l FFF 2 3||
+284-02||127||Creatine Kinase Isoenz 2.2                       0.0-6.9        ng/ml||DOSE FFF 0.0-6.9 ng/ml FFF 4 5||
+284-02||128||CPK Isoenzymes Index                             0.0-3.5        %||DOSE FFF 0.0-3.5 % FFF 3 4||
+284-02||129||Result Text:
+284-02||130||CPK and/or CKMB too low to calculate Relative Index.
+284-02||131||Troponin-T             REFUSED                   0.00-0.09      ng/ml||DOSE FFF 0.00-0.09 ng/ml FFF 2 3||
+284-02||132||Result Text:
+284-02||133||HEMOLYZED SPECIMEN
+284-02||134||Transaminase-SGOT      60         H              9-32           U/L||DRT FFF 60 h FFF 1 2||DOSE FFF 9-32 u/l FFF 3 4||
+284-02||135||Creatine Kinase        62                        40-150         U/L||DOSE FFF 40-150 u/l FFF 3 4||
+284-02||136||D-Dimer (ELISA)        2257       H              <500           ng/ml||DRT FFF 2257 h FFF 2 3||DOSE FFF <500 ng/ml FFF 4 5||
+284-02||138||UA-Color               Yellow                    YELLOW
+284-02||139||UA-Turbidity           CLOUDY                    CLEAR
+284-02||140||UA-Glucose             1+                        NEG
+284-02||141||UA-Bili                NEGATIVE                  NEG
+284-02||142||UA-Ketones             NEGATIVE                  NEG
+284-02||143||UA-Specific Gravity    1.024                     1.001-1.035
+284-02||144||UA-Occult Blood        Trace                     NEG
+284-02||145||UA-pH                  5.5                       5.0-9.0
+284-02||146||UA-Albumin             3+                        NEG
+284-02||147||UA-Urobilinogen        NEGATIVE                  NEG
+284-02||148||UA-Nitrite             NEGATIVE                  NEG
+284-02||149||UA-WBC Screen          NEGATIVE                  NEG
+284-02||150||UA-SED-RBC             0-2                       0-2            /hpf
+284-02||151||UA-SED-WBC             5-10                      0-2            /hpf
+284-02||152||UA-SED-Bacteria        Few                       NEG            /hpf
+284-02||153||Hyaline Cast           0-2                       0-5            /lpf
+284-02||154||Granular Cast          0-2                       NEG            /lpf

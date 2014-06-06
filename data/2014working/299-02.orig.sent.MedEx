@@ -1,0 +1,80 @@
+299-02	1	Record date: 2063-09-29		 
+299-02	2	Reason for Visit		 
+299-02	3	Comprehensive physical.		 
+299-02	4	Problems		 
+299-02	5	Hyperlipidemia		 
+299-02	6	She is now on Lipitor per Dr.		DBN FFF lipitor#4
+299-02	7	Qu. diabetes mellitus		 
+299-02	8	Blood sugars nl on Glucophage and Avandia.  I will check labs today.		 
+299-02	9	S/P Herpetic Neuralgia		 
+299-02	10	Still has itchiness on her chin but no pain.		 
+299-02	11	Colon cancer		 
+299-02	12	Still sees Dr. Aragon Q3mos, doing well.		 
+299-02	13	Coronary artery disease		 
+299-02	14	s/p right coronary stent 1/2061 after non-Q wave MI.		 
+299-02	15	She had an arrest in the field on 9/05/2062 and was taken to SLH, after intubation in the field.		 
+299-02	16	Emergency catheterization showed 30% LAD. 40% diagonal and a ejection fraction of 25% with antero-septal akinesis.		 
+299-02	17	CPKs were neg.		 
+299-02	18	Of note, a recent stress test at DCGH had shown LBBB but nl LV function, so she was diagnosed with new cardiomyopathy.		 
+299-02	19	She was disch on 9/10 to Dr.		 
+299-02	20	Qu's care.		 
+299-02	21	It is not clear that she has followed-up recently, though a echo from 09/24/62 shows an ejection fraction of 58% with no definite segmental wall motion abnormality.		 
+299-02	22	She has been pain free and is able to walk a few blocks without difficulty since then.   hypothyroidism		 
+299-02	23	Continues on Synthroid.		DBN FFF synthroid#2
+299-02	24	Lung cancer		 
+299-02	25	Now 5 yrs out from left lobectomy and is followed by Dr.		 
+299-02	26	Aragon. depression		 
+299-02	27	Seems to be doing extremely well despite her multiple med problems in recent yrs.		 
+299-02	28	Remains on Paxil and also takes Ativan nightly.		DBN FFF paxil#2
+299-02	28	Remains on Paxil and also takes Ativan nightly.		DBN FFF ativan#6	FREQ FFF nightly#7
+299-02	29	Vital Signs		 
+299-02	30	Blood Pressure:  100/50   Left Arm		 
+299-02	31	Pulse:  64   Regular		 
+299-02	32	Weight:  143   Pounds		 
+299-02	33	Physical Exam		 
+299-02	34	General Appearance		 
+299-02	35	Well appearing.		 
+299-02	36	HEENT		 
+299-02	37	No thyromegaly, no adenopathy.		 
+299-02	38	Breast		 
+299-02	39	Without masses, good carotid upstrokes.		 
+299-02	40	Cor/Cardiac		DIN FFF cor#0
+299-02	41	Nl S1-S2.		 
+299-02	42	Abdomen		 
+299-02	43	Benign.		 
+299-02	44	Rectal Exam		 
+299-02	45	Heme neg brown stool, no masses.		 
+299-02	46	Extremity		 
+299-02	47	Full pulses, no edema.		 
+299-02	48	Pelvis		 
+299-02	49	Nl.		 
+299-02	50	Medications		 
+299-02	51	LORAZEPAM  0.5MG  1 qd		DIN FFF lorazepam#0	DOSE FFF 0.5mg#1	DOSEAMT FFF 1#2	FREQ FFF qd#3
+299-02	52	Synthroid  0.05MG  QD		DBN FFF synthroid#0	DOSE FFF 0.05mg#1	FREQ FFF qd#2
+299-02	53	AVANDIA (ROSIGLITAZONE)  4MG 1 Tablet(s) PO BID		DBN FFF avandia#0	MDBN FFF rosiglitazone#1	DOSE FFF 4mg#2	DOSEAMT FFF 1 tablet#4	RUT FFF po#5	FREQ FFF bid#6
+299-02	54	LASIX (FUROSEMIDE)  80MG 1 Tablet(s) PO 2 tabs BID		DBN FFF lasix#0
+299-02	55	PRILOSEC (OMEPRAZOLE)  20MG 1 Capsule(s) PO BID		DBN FFF prilosec#0	MDBN FFF omeprazole#1	DOSE FFF 20mg#2	DOSEAMT FFF 1 capsule#4	RUT FFF po#5	FREQ FFF bid#6
+299-02	56	LOPRESSOR (METOPROLOL TARTRATE)  50MG 0.5 Tablet(s) PO BID		DBN FFF lopressor#0	MDBN FFF metoprolol tartrate#2	DOSE FFF 50mg#3	DOSEAMT FFF 0.5 tablet#5	RUT FFF po#6	FREQ FFF bid#7
+299-02	57	Paxil  20.0MG PO QD		DBN FFF paxil#0	DOSE FFF 20.0mg#1	RUT FFF po#2	FREQ FFF qd#3
+299-02	58	GLUCOPHAGE (METFORMIN)  500MG 2 Tablet(s) PO BID		DBN FFF glucophage#0	MDBN FFF metformin#1	DOSE FFF 500mg#2	DOSEAMT FFF 2 tablet#4	RUT FFF po#5	FREQ FFF bid#6
+299-02	59	CALTRATE 600  1TAB PO BID		DBN FFF caltrate#0	DOSE FFF 600#1	DOSEAMT FFF 1 tab#2	RUT FFF po#3	FREQ FFF bid#4
+299-02	60	FE GLUCONATE (FERROUS GLUCONATE)  325MG 1 Tablet(s) PO TID		DIN FFF fe#0
+299-02	60	FE GLUCONATE (FERROUS GLUCONATE)  325MG 1 Tablet(s) PO TID		DIN FFF gluconate#1	MDBN FFF ferrous gluconate#3	DOSE FFF 325mg#4	DOSEAMT FFF 1 tablet#6	RUT FFF po#7	FREQ FFF tid#8
+299-02	61	ECASA (ASPIRIN ENTERIC COATED)  81MG 1 Tablet(s) PO QD		DPN FFF ecasa#0	MDBN FFF aspirin enteric coated#3	DOSE FFF 81mg#4	DOSEAMT FFF 1 tablet#6	RUT FFF po#7	FREQ FFF qd#8
+299-02	62	ATROVENT INHALER (IPRATROPIUM INHALER)  2PUFF NAS BID		DBN FFF atrovent#0	DDF FFF inhaler#1	MDBN FFF ipratropium#3	DOSEAMT FFF 2 puff#4	FREQ FFF bid#6
+299-02	63	SEREVENT (SALMETEROL)  2PUFF NAS BID		DBN FFF serevent#0	MDBN FFF salmeterol#1	DOSEAMT FFF 2 puff#2	FREQ FFF bid#4
+299-02	64	CALCIUM GLUCONATE  500MG 2 Tablet(s) PO BID		DIN FFF calcium gluconate#1	DOSE FFF 500mg#2	DOSEAMT FFF 2 tablet#4	RUT FFF po#5	FREQ FFF bid#6
+299-02	65	ACCUPRIL (QUINAPRIL)  10MG PO QD		DBN FFF accupril#0	MDBN FFF quinapril#1	DOSE FFF 10mg#2	RUT FFF po#3	FREQ FFF qd#4
+299-02	66	ONE TOUCH TEST STRIPS  BLANK		DBN FFF one touch#1
+299-02	67	Multivitamins  1TAB  QD		DIN FFF multivitamins#0	DOSEAMT FFF 1 tab#1	FREQ FFF qd#2
+299-02	68	OCUVITE (MULTIVITAMINS)  1TAB PO QD		DBN FFF ocuvite#0	MDBN FFF multivitamins#1	DOSEAMT FFF 1 tab#2	RUT FFF po#3	FREQ FFF qd#4
+299-02	69	Lipitor  20MG PO 1 QD		DBN FFF lipitor#0	DOSE FFF 20mg#1	RUT FFF po#2	FREQ FFF qd#4
+299-02	70	Lopid  600MG PO BID		DBN FFF lopid#0	DOSE FFF 600mg#1	RUT FFF po#2	FREQ FFF bid#3
+299-02	71	Health Maintenance		 
+299-02	72	Influenza Vaccine  09/29/63   given today		DIN FFF influenza vaccine#1	DOSE FFF 09/29#2
+299-02	73	Cholesterol  09/29/2063 185		 
+299-02	74	Mammogram  04/12/2063 BilScrMammo		 
+299-02	75	Pap Smear  09/29/2063 See report in Results		 
+299-02	76	Stool Guaiac  07/30/2062  Done - negative		 
+299-02	77	Pneumococcal Vaccine  08/02/2060   Given today.		DIN FFF pneumococcal vaccine#1	DOSE FFF 08/02#2
+299-02	78	UA-Protein  09/06/2062 2+		 

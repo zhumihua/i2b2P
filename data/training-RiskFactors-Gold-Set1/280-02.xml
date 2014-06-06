@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2085-12-07
+
+
+
+
+ZASTROW, IRENE
+42521583
+12/07/2085
+
+
+DATE OF ADMISSION:  12/06/2085.
+
+This 66-year-old woman phoned my office complaining of exertional chest discomfort.  We instructed her to presented to the Emergency Department at Davis Monthan Hospital.  She had experienced multiple episodes of chest pressure with exertion lasting 5-10 minutes and radiating to her left axilla.
+
+On 10/30/2085, she suffered non-ST segment elevation myocardial infarction in Pennsylvania and was managed with percutaneous coronary intervention.
+
+Chest discomfort recurred and on 11/03/2085, she was recatheterized at Davis Monthan Hospital where her mid LAD stent was expanded.
+
+She has had worsening substernal chest discomfort over the past two to three days.  Her discomfort is relieved with nitroglycerin.  Overnight, she had on and off chest discomfort with anterior T-wave lability.  She was placed on intravenous heparin and intravenous nitroglycerin.
+
+She suffered pulmonary embolism in 2074.   That is when I first met her.  She has gastroesophageal reflux disease.
+
+She is married; her husband works at 24 Hour Fitness as a personal trainer in the weight room.  She does not smoke cigarettes.  She has four children.
+
+Home medications include aspirin 325 mg daily, atenolol 25 mg daily, Lipitor 80 mg daily, Plavix 75 mg daily, insulin, and sublingual nitroglycerin as needed.
+
+The review of systems is negative other than the above.
+
+On physical examination, she appears well.  Afebrile, blood pressure 126/82 mmHg, heart rate 72 and regular, and respiratory rate 13 per minute.  HEENT is normal.  The neck veins are not distended.  The chest is clear.  On cardiac examination, she has a regular rhythm with a normal S1, single S2, and no murmur, rub, or gallop.  Abdomen has no masses or hepatomegaly.  The legs have no clubbing or cyanosis, but there is right leg greater than left leg edema.  The skin has no rash.
+
+My assessment is that Irene Zastrow has "small vessel" coronary artery disease in addition to epicardial coronary artery disease.  We will intensify her medical regimen by prescribing higher doses of beta blockade and by initiating a long-acting nitrate.  We will also repeat the chest CT scan to make sure she has not suffered from recurrent pulmonary embolism.
+
+I discussed this plan with her, her husband, and the medical house staff.
+
+
+______________________________
+Victor Z. Qazi, M.D.
+
+
+
+
+
+eScription document:5-9929422 IFFocus
+
+
+
+DD: 12/07/85
+DT: 12/07/85
+DV: 12/07/85
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC6" time="during DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC11" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC12" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC14" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC15" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC20" time="before DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC21" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC22" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC23" time="during DCT" type1="beta blocker" type2=""/>
+    <CAD id="DOC3" time="before DCT" indicator="symptom"/>
+    <CAD id="DOC10" time="after DCT" indicator="mention"/>
+    <CAD id="DOC13" time="during DCT" indicator="mention"/>
+    <CAD id="DOC19" time="before DCT" indicator="event"/>
+    <CAD id="DOC24" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC16" indicator="not present"/>
+    <SMOKER id="DOC17" status="never"/>
+  </TAGS>
+</root>

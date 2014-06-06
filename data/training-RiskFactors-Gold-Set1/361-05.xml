@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2068-07-06
+
+
+Dialysis Fellow Consult Note 
+
+
+
+Date of Admission: 7/6/2068
+Team: Internal Medicine
+Fellow: Wise
+Renal Attending: Leonard
+
+
+Reason for Consult: HD needs while inpt
+
+
+HPI:
+ 48 Spanish speaking M (interviewed with assistance of interpreter services staff) w/ESKD on HD 2/2 T2DM (nephrop, retinop, bilat TMA), HTN, admitted for LLQ pain. Patient recenlty admitted to PROMPTCARE for refractory constipation with discharge 7/01. During the admission he was noted to have inadequate HD and underwent AVF fistulogram and subsequent dilation of stensosis.
+The patient attended his outpatient HD on Fri and Sun. He developed abdominal pain , back pain and difficulty breathing on morning of admission he called EMS and was found to be hypertension with BP &gt;240/110mmHg. He was given SL nitroglycerine with relief of symptoms but not of hypertension. 
+He continued to have HTN in ED and underwent a CT angiogram whihc did not reveal dissection only bilateral pleural effusions. His Trop -T was 0.1 and ECG faied to shw ischemia.
+ 
+He was admitted for managment of Hypertensive urgency
+ 
+ROS: Full review of 12 point ROS negative other than abnormalities noted in HPI.
+
+
+PMHx:
+DM, diagnosed 20 years ago, complicated by retinopathy 5 years ago, nephropathy 5 years ago, and bilateral TMA 8 years ago
+ 
+ESRD on HD, started HD 5 years ago, on MWF schedule at Cochran Memorial Hospital
+
+Bilateral blindness, started 5 years ago
+
+Hypertension
+
+Hyperlipidemia
+
+DepressionGERD/Gastritis
+
+s/p bilateral TMA 8 years ago, complicated by osteomyelitis of right foot in 2065 and 2068
+
+
+
+
+s/p cholecystectomy
+
+
+
+
+Meds: per recent d/c summary.
+1. Aspirin 81 mg p.o. daily. 
+2. Amlodipine 10 mg p.o. daily.
+3. Cinacalcet 30 mg p.o. at bedtime.
+4. Clonidine 0.2 mg p.o. b.i.d.
+5. Diphenhydramine oral 25 mg p.o. 3 times a week, Monday,
+Wednesday, Friday.
+6. Docusate sodium 100 mg p.o. b.i.d.
+7. Duloxetine 20 mg p.o. b.i.d.
+8. Insulin Lispro mix 75/25 12 units subcutaneous every night.
+9. Insulin Lispro mix 75/25 25 units subcutaneous before meals.
+10. Lisinopril 40 mg p.o. daily.
+11. Reglan 5 mg p.o. q.i.d.
+12. Metoprolol succinate extended release 150 mg p.o. daily.
+13. MiraLax 17 grams 2 caps a day titrate to bowel movement.
+14. Senna 17.2 mg p.o. b.i.d.
+15. Sevelamer 2400 mg p.o. t.i.d.
+16. Simvastatin 20 mg p.o. bedtime.
+17. Sodium polystyrene sulfonate 15 grams p.o. 4 times a week,
+Monday, Wednesday, Friday, Sunday.
+
+
+
+Allerg:
+
+NKDA
+
+
+FHx:
+
+DM
+
+
+SHx:
+
+
+(per note from previous admission 3/10/68)
+ 
+Originally from Panama City. Lives with his mother in Needville. Never married, no children.
+
+
+Tobacco: Quit 8 years ago, used to smoke 1/2 PPD
+
+
+
+EtOH: Quit 8 years ago, used to be a heavy drinker
+
+
+Illicits: Never
+
+ 
+P/E:
+Vitals Temp 98. HR 74, BP 160/70, RR 18, SaO2 97% on 2L n/c
+General: Obese male, mildly somnolent
+HEENT: Thick neck, JVP 6cm, moist mucosa
+RESP: Diminished breath sounds at bases Left &gt; Right
+CVS: HS1-2, RRR, no gallops or murmus
+Abdo: No distention or tenderness.
+Ext: AVF on Left forearm bounding pulse, minimal lower extremity edema
+Neuro: able to move all 4 extremites
+Pysch: No abnormal affect noted
+ 
+Labs predialysis
+Na 136, K 5.4, Cl 95, HCO3 23, BUN 42, Cr 9.39
+Ca 11.2, PO4 2.8, PTH 1112
+Hg 11, Fe 23, Ferrtin 1336, TIBC 121
+ 
+ECG: SR, LVH, no ischemia.
+ 
+A/P
+48M with ESRD presents in Hypertensive emergency, concern for medical noncompliance with possible volume overlod as etiology though appears by record to attend HD though elevated Cr perhaps suggest inadequate HD. Alos possible is non-compliance with volume restriction and marked intra-dialytic wieght gain as cause of today' presentation.
+ 
+Plan
+ 
+ESRD
+HD today 
+4hrs, UF 3kg, Bath Na 140, K 2.0, Ca 2.5, HCO3 25
+ 
+Anemia:
+Hg 11, Ferritin 1336, no Fe supplementation avoid EPO while HTN urgency
+ 
+Metabolic bone disease:
+PTH 1112, Ca 11.3 on paricalcitrol at HD
+continue sevelamer AC
+ 
+HTN:
+Will attempt agressive UF while inpatient to reduce EDW, continue medical managment as reduced EDW is attempted.
+ 
+Access:
+AVF with recent fistuloplasty good flows achieved at HD
+ 
+Case discussed with Dr N Leonard
+ 
+Howard Wise MD 
+39607
+EDUCARE-FARGO Renal  Fellow
+ 
+
+ 
+ 
+ 
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC9" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC20" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC25" time="before DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC6" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC10" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC15" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC18" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC21" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC23" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC24" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC26" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC28" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC29" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC30" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC12" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC14" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC22" time="before DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC27" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC19" indicator="not present"/>
+    <SMOKER id="DOC3" status="past"/>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC16" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC31" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

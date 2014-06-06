@@ -1,0 +1,53 @@
+366-04	1	Record date: 2067-03-10		 
+366-04	2	PCC: Respiratory		 
+366-04	3	26 Monica Street		 
+366-04	4	Buena Vista, CT  84376		 
+366-04	5	272-413-0358		 
+366-04	6	FERRARA, LAUREN		 
+366-04	7	48185437		 
+366-04	8	03/10/2067		 
+366-04	9	MAJOR DIAGNOSIS:  Lung mass.		 
+366-04	10	HISTORY OF PRESENT ILLNESS:  Lauren is a 75-year-old woman.		 
+366-04	11	She has only a very remote history of smoking, smoking not at all after the age of 30.		 
+366-04	12	In early March, she was undergoing a routine physical.		 
+366-04	13	At that time, she reported she had some mild weight loss.		 
+366-04	14	However, she had been trying to lose weight.		 
+366-04	15	She had no respiratory symptoms of dyspnea or cough.		 
+366-04	16	A chest x-ray was obtained, which revealed a 6 cm left lung mass.		 
+366-04	17	The patient subsequently had a CT scan.		 
+366-04	18	The CT scan revealed a 4 x 6 lung mass in the posterior subsegment of the right upper lobe.		 
+366-04	19	There were some modestly enlarged hilar nodes, but all below 2 cm.		 
+366-04	20	She has some tiny sub 5 mm nodules in both lungs.		 
+366-04	21	The patient is referred by her primary care physician, Dr.		 
+366-04	22	Jordon for further evaluation.		 
+366-04	23	The patient has no history of lung .		 
+366-04	24	She has no history of asthma or allergies.		 
+366-04	25	She has not had any history of TB or a positive PPD.		 
+366-04	26	She may have had some mild asbestos exposure when she worked in a publishing company, which had asbestos containing pipes.		 
+366-04	27	She has no history of malignancy.		 
+366-04	28	She has no avocational exposures to dust or danders.		 
+366-04	29	PAST MEDICAL HISTORY:  Includes:		 
+366-04	30	1.  Mild vascular dementia.		 
+366-04	31	2.  Hypertension.		 
+366-04	32	3.  Hyperlipidemia.		 
+366-04	33	4.  Diabetes.		 
+366-04	34	5.  Hypothyroidism.		 
+366-04	35	6.  Peripheral vascular disease.		 
+366-04	36	7.  Anemia.		 
+366-04	37	8.  Renal artery stenosis with mild renal failure.		 
+366-04	38	9.  Carotid artery stenosis.		 
+366-04	39	MEDICATIONS:  Levoxyl 88 mcg a day, Plavix 75 mg a day, Aricept 10 mg a day, furosemide 20 mg a day, nifedipine 90 mg a day, Crestor 20 mg a day, metoprolol 25 mg a day, calcium, Zetia 10 mg a day, vitamin D, Nephrocaps 1 mg a day, fish oil, aspirin 81 mg a day.		DBN FFF levoxyl#1	DOSE FFF 88mcg#3	DRT FFF a day#5
+366-04	39	MEDICATIONS:  Levoxyl 88 mcg a day, Plavix 75 mg a day, Aricept 10 mg a day, furosemide 20 mg a day, nifedipine 90 mg a day, Crestor 20 mg a day, metoprolol 25 mg a day, calcium, Zetia 10 mg a day, vitamin D, Nephrocaps 1 mg a day, fish oil, aspirin 81 mg a day.		DBN FFF plavix#6	DOSE FFF 75mg#8	DRT FFF a day#10
+366-04	39	MEDICATIONS:  Levoxyl 88 mcg a day, Plavix 75 mg a day, Aricept 10 mg a day, furosemide 20 mg a day, nifedipine 90 mg a day, Crestor 20 mg a day, metoprolol 25 mg a day, calcium, Zetia 10 mg a day, vitamin D, Nephrocaps 1 mg a day, fish oil, aspirin 81 mg a day.		DBN FFF aricept#11	DOSE FFF 10mg#13	DRT FFF a day#15
+366-04	39	MEDICATIONS:  Levoxyl 88 mcg a day, Plavix 75 mg a day, Aricept 10 mg a day, furosemide 20 mg a day, nifedipine 90 mg a day, Crestor 20 mg a day, metoprolol 25 mg a day, calcium, Zetia 10 mg a day, vitamin D, Nephrocaps 1 mg a day, fish oil, aspirin 81 mg a day.		DIN FFF furosemide#16	DOSE FFF 20mg#18	DRT FFF a day#20
+366-04	39	MEDICATIONS:  Levoxyl 88 mcg a day, Plavix 75 mg a day, Aricept 10 mg a day, furosemide 20 mg a day, nifedipine 90 mg a day, Crestor 20 mg a day, metoprolol 25 mg a day, calcium, Zetia 10 mg a day, vitamin D, Nephrocaps 1 mg a day, fish oil, aspirin 81 mg a day.		DIN FFF nifedipine#21	DOSE FFF 90mg#23	DRT FFF a day#25
+366-04	39	MEDICATIONS:  Levoxyl 88 mcg a day, Plavix 75 mg a day, Aricept 10 mg a day, furosemide 20 mg a day, nifedipine 90 mg a day, Crestor 20 mg a day, metoprolol 25 mg a day, calcium, Zetia 10 mg a day, vitamin D, Nephrocaps 1 mg a day, fish oil, aspirin 81 mg a day.		DBN FFF crestor#26	DOSE FFF 20mg#28	DRT FFF a day#30
+366-04	39	MEDICATIONS:  Levoxyl 88 mcg a day, Plavix 75 mg a day, Aricept 10 mg a day, furosemide 20 mg a day, nifedipine 90 mg a day, Crestor 20 mg a day, metoprolol 25 mg a day, calcium, Zetia 10 mg a day, vitamin D, Nephrocaps 1 mg a day, fish oil, aspirin 81 mg a day.		DIN FFF metoprolol#31	DOSE FFF 25mg#33	DRT FFF a day#35
+366-04	39	MEDICATIONS:  Levoxyl 88 mcg a day, Plavix 75 mg a day, Aricept 10 mg a day, furosemide 20 mg a day, nifedipine 90 mg a day, Crestor 20 mg a day, metoprolol 25 mg a day, calcium, Zetia 10 mg a day, vitamin D, Nephrocaps 1 mg a day, fish oil, aspirin 81 mg a day.		DIN FFF calcium#36
+366-04	39	MEDICATIONS:  Levoxyl 88 mcg a day, Plavix 75 mg a day, Aricept 10 mg a day, furosemide 20 mg a day, nifedipine 90 mg a day, Crestor 20 mg a day, metoprolol 25 mg a day, calcium, Zetia 10 mg a day, vitamin D, Nephrocaps 1 mg a day, fish oil, aspirin 81 mg a day.		DBN FFF zetia#37	DOSE FFF 10mg#39	DRT FFF a day#41
+366-04	39	MEDICATIONS:  Levoxyl 88 mcg a day, Plavix 75 mg a day, Aricept 10 mg a day, furosemide 20 mg a day, nifedipine 90 mg a day, Crestor 20 mg a day, metoprolol 25 mg a day, calcium, Zetia 10 mg a day, vitamin D, Nephrocaps 1 mg a day, fish oil, aspirin 81 mg a day.		DIN FFF vitamin d#43
+366-04	39	MEDICATIONS:  Levoxyl 88 mcg a day, Plavix 75 mg a day, Aricept 10 mg a day, furosemide 20 mg a day, nifedipine 90 mg a day, Crestor 20 mg a day, metoprolol 25 mg a day, calcium, Zetia 10 mg a day, vitamin D, Nephrocaps 1 mg a day, fish oil, aspirin 81 mg a day.		DBN FFF nephrocaps#44	DOSE FFF 1mg#46	DRT FFF a day#48
+366-04	39	MEDICATIONS:  Levoxyl 88 mcg a day, Plavix 75 mg a day, Aricept 10 mg a day, furosemide 20 mg a day, nifedipine 90 mg a day, Crestor 20 mg a day, metoprolol 25 mg a day, calcium, Zetia 10 mg a day, vitamin D, Nephrocaps 1 mg a day, fish oil, aspirin 81 mg a day.		DIN FFF fish oil#50
+366-04	39	MEDICATIONS:  Levoxyl 88 mcg a day, Plavix 75 mg a day, Aricept 10 mg a day, furosemide 20 mg a day, nifedipine 90 mg a day, Crestor 20 mg a day, metoprolol 25 mg a day, calcium, Zetia 10 mg a day, vitamin D, Nephrocaps 1 mg a day, fish oil, aspirin 81 mg a day.		DIN FFF aspirin#51	DOSE FFF 81mg#53	DRT FFF a day#55
+366-04	40	ALLERGIES:  Penicillin and estrogens and red dye #5.		 
+366-04	41	SOCIAL HISTORY:  She lives with her husband.		 

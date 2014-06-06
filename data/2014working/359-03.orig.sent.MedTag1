@@ -1,0 +1,49 @@
+359-03||1||Record date: 2093-07-09
+359-03||2||59 yo wf
+359-03||3||CC:||TOD FFF cc: FFF 0 0||
+359-03||4||medstoprol 150 mg/d, and lisinopril 20 mg||DOSE FFF 150 mg/d, FFF 1 2||DIN FFF lisinopril FFF 4 4||DOSE FFF 20 mg FFF 5 6||
+359-03||5||HBPM about 140/80
+359-03||6||Hx:  htn found 10/89||INDICATION FFF htn FFF 1 1||
+359-03||7||PMHx HTN||INDICATION FFF htn FFF 1 1||
+359-03||8||DM 2,||INDICATION FFF dm FFF 0 0||
+359-03||9||HLP
+359-03||10||hypothyroidism||INDICATION FFF hypothyroidism FFF 0 0||
+359-03||11||Medications
+359-03||12||Asa (CHILDREN 81MG TABLET take 1 Tablet(s) QD , Take as directed||DIN FFF asa FFF 0 0||DOSE FFF 81mg FFF 2 2||DOSEAMT FFF 1 tablet(s) FFF 5 6||FREQ FFF qd FFF 7 7||INDICATION FFF as FFF 10 10||
+359-03||13||Dyazide 50 MG/25 MG (take 1) PO QD , 50/25||DBN FFF dyazide FFF 0 0||DOSE FFF 50 mg/25 mg FFF 1 3||RUT FFF po FFF 6 6||FREQ FFF qd FFF 7 7||
+359-03||14||Erythromycin OPHTHALMIC OINTMENT 1 APPLICATION OU TID x 7 days, use one tube for ea eye||DIN FFF erythromycin FFF 0 0||DOSEAMT FFF 1 application FFF 3 4||RUT FFF ou FFF 5 5||FREQ FFF tid FFF 6 6||DRT FFF x 7 days, FFF 7 9||RUT FFF tube FFF 12 12||RUT FFF eye FFF 15 15||
+359-03||15||Flonase (FLUTICASONE NASAL SPRAY) 1-2 SPRAY NAS QD x 14 days||DBN FFF flonase FFF 0 0||DOSEAMT FFF 1-2 spray FFF 4 5||FREQ FFF qd FFF 7 7||DRT FFF x 14 days FFF 8 10||
+359-03||16||Levothyroxine SODIUM 88MCG TABLET PO QD , Take as directed||DIN FFF levothyroxine sodium FFF 0 1||DOSE FFF 88mcg FFF 2 2||RUT FFF po FFF 4 4||FREQ FFF qd FFF 5 5||INDICATION FFF as FFF 8 8||
+359-03||17||Lisinopril 40 MG (40MG TABLET take 1) PO QD , Take as directed||DIN FFF lisinopril FFF 0 0||DOSE FFF 40 mg FFF 1 2||DOSE FFF (40mg FFF 3 3||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||INDICATION FFF as FFF 11 11||
+359-03||18||Metformin 500MG TABLET take 1 Tablet(s) PO BID , Take as directed||DIN FFF metformin FFF 0 0||DOSE FFF 500mg FFF 1 1||DOSEAMT FFF 1 tablet(s) FFF 4 5||RUT FFF po FFF 6 6||FREQ FFF bid FFF 7 7||INDICATION FFF as FFF 10 10||
+359-03||19||Simvastatin 80 MG (80MG TABLET take 1) PO QHS||DIN FFF simvastatin FFF 0 0||DOSE FFF 80 mg FFF 1 2||DOSE FFF (80mg FFF 3 3||RUT FFF po FFF 7 7||FREQ FFF qhs FFF 8 8||
+359-03||20||Toprol XL (METOPROLOL SUCCINATE EXTENDED RELEASE) 100MG TABLET CR 24HR take 1.5 Tablet(s) PO QD||DPN FFF toprol xl FFF 0 1||DOSE FFF 100mg FFF 6 6||DRT FFF 24hr FFF 9 9||DOSEAMT FFF 1.5 tablet(s) FFF 11 12||RUT FFF po FFF 13 13||FREQ FFF qd FFF 14 14||
+359-03||22||ALL PNC rash
+359-03||23||FHx
+359-03||24||CAD   M                       Ca      no                         Endo  M with DM||INDICATION FFF cad FFF 0 0||INDICATION FFF ca FFF 2 2||INDICATION FFF endo FFF 4 4||INDICATION FFF dm FFF 7 7||
+359-03||25||SHx
+359-03||26||tobacco     neg      ETOH    neg     drugs neg     work  detective         marital   div 1 c          dom violence neg     belts  no/ advised to use seatbelts.||DIN FFF drugs FFF 4 4||DIN FFF dom FFF 12 12||
+359-03||27||ROS
+359-03||28||vision nl                      hearing nl                    fever neg||INDICATION FFF fever FFF 4 4||
+359-03||29||headache neg             weakness neg             numbness neg               seizures neg||INDICATION FFF headache FFF 0 0||INDICATION FFF seizures FFF 6 6||
+359-03||30||chest pain neg            palpitation neg             syncope neg||INDICATION FFF chest pain FFF 0 1||
+359-03||31||dyspnea neg               wheezing neg              cough neg                     coryza neg||INDICATION FFF dyspnea FFF 0 0||INDICATION FFF wheezing FFF 2 2||INDICATION FFF cough FFF 4 4||INDICATION FFF coryza FFF 6 6||
+359-03||32||nausea neg                 vomit neg                    diarrhea neg                  constipation neg       weight loss gain abdominal pain neg||INDICATION FFF nausea FFF 0 0||INDICATION FFF vomit FFF 2 2||INDICATION FFF diarrhea FFF 4 4||INDICATION FFF constipation FFF 6 6||INDICATION FFF weight FFF 8 8||INDICATION FFF abdominal pain FFF 11 12||
+359-03||33||nocturia 1-2              dysuria neg                 polidypsia neg                paresthesias neg      tiredness neg             hoarsness neg             heat intolerance neg       cold intolerance neg||INDICATION FFF tiredness FFF 8 8||INDICATION FFF cold FFF 15 15||
+359-03||34||menses hysterectomy 2064 for endometriosis.               libido nl        arthralgia neg            back pain neg bleeding neg             nodes no enlarg rash neg                   pruritus neg                  hair loss neg                  hirsutism neg tetanus tox               pneumovax                   influenza                       MMR             PPD sexual behavior nl     STD neg                       HIV neg                         hepatitis neg diet nl                      METS  3                        cholesterol||INDICATION FFF endometriosis. FFF 4 4||INDICATION FFF back pain FFF 9 10||INDICATION FFF bleeding FFF 12 12||INDICATION FFF pruritus FFF 19 19||INDICATION FFF hair loss FFF 21 22||INDICATION FFF hirsutism FFF 24 24||DIN FFF tetanus FFF 26 26||DIN FFF pneumovax FFF 28 28||DIN FFF mmr FFF 30 30||INDICATION FFF behavior FFF 33 33||INDICATION FFF hiv FFF 37 37||INDICATION FFF hepatitis FFF 39 39||INDICATION FFF mets FFF 43 43||INDICATION FFF cholesterol FFF 45 45||
+359-03||35||PEx         BP   160/96    HBPM    as above        HR  72               RR   16        wt 234  lbs  pt at gold's gym.||INDICATION FFF bp FFF 1 1||INDICATION FFF as FFF 4 4||
+359-03||36||NEURO        mental status nl          DTR  nl          gait nl            motor nl           sensory nl||INDICATION FFF mental status FFF 1 2||
+359-03||37||NECK           jvd   no        carotids/bruits  no         nodes  neg     thyroid  wnl
+359-03||38||CHEST         wheezes no||INDICATION FFF wheezes FFF 1 1||
+359-03||39||COR             sounds S1 S2 nl         murmurs no||DIN FFF cor FFF 0 0||
+359-03||40||ABDOMEN soft NT              masses no            obese   no bruits||INDICATION FFF obese FFF 5 5||
+359-03||41||EXTREMITIES   edema no     DTR normal.||INDICATION FFF edema FFF 1 1||
+359-03||43||A+P
+359-03||44||HTN BP high at office, but better by HBPM;  P:   increase lisinopril 40 mg/d||INDICATION FFF htn FFF 0 0||INDICATION FFF bp FFF 1 1||DIN FFF lisinopril FFF 11 11||DOSE FFF 40 mg/d FFF 12 13||
+359-03||45||Type 2 dm on diet; P: continue diet and lose wt||INDICATION FFF type 2 dm FFF 0 2||
+359-03||46||HLP on lipitor,and diet; P: continue same.||DBN FFF lipitor,and FFF 2 2||
+359-03||47||Hypothyroidism clinically euthyr; TSH high; P; continue levothyroxine.||INDICATION FFF hypothyroidism FFF 0 0||DIN FFF levothyroxine. FFF 7 7||
+359-03||48||LVH by ekg; P: control BP.||INDICATION FFF lvh FFF 0 0||INDICATION FFF bp. FFF 5 5||
+359-03||49||All PNC.
+359-03||50||advised to make appt with ophthalm. again
+359-03||51||FU  1 month.||DRT FFF 1 month. FFF 1 2||

@@ -1,0 +1,50 @@
+293-05||1||Record date: 2082-04-29
+293-05||3||Vital Signs
+293-05||4||AGE 76y2.3m
+293-05||5||BLOOD PRESSURE 128/70||INDICATION FFF blood pressure FFF 0 1||
+293-05||6||WEIGHT 217 lb||INDICATION FFF weight FFF 0 0||
+293-05||7||O2 sat 97%||DOSE FFF 97% FFF 2 2||
+293-05||8||76  year old patient presents for the following: follow-up of DM, hypertension||DRT FFF 76 year FFF 0 1||INDICATION FFF dm, FFF 10 10||INDICATION FFF hypertension FFF 11 11||
+293-05||9||Also presents for Physical examination and screening pelvic and pap test denies thirst, nocturia denies pelvic pain, vaginal itch, discharge. no postmenopausal bleeding continues to smoke, changed brands in order to help her eventually stop or cut down has a cough, postnasal drip. uses loratadine but not using nasal inhaler||INDICATION FFF pap FFF 9 9||INDICATION FFF pain, FFF 16 16||INDICATION FFF itch, FFF 18 18||INDICATION FFF bleeding FFF 22 22||INDICATION FFF a cough, FFF 39 40||RUT FFF drip. FFF 42 42||DIN FFF loratadine FFF 44 44||
+293-05||10||Medications:  per list
+293-05||11||Allergy:  NKA||INDICATION FFF allergy: FFF 0 0||
+293-05||12||Habits:  walks for exercise. eats some vegetables most days. denies ETOH/illicit substance use. takes multivits and calcium denies safety concerns||DIN FFF calcium FFF 16 16||
+293-05||13||ROS - denies weight change, fevers, chills, sweats||INDICATION FFF weight FFF 3 3||INDICATION FFF change, FFF 4 4||INDICATION FFF fevers, FFF 5 5||INDICATION FFF sweats FFF 7 7||
+293-05||14||denies rash or skin lesion
+293-05||15||denies headache, sensory disturbance, muscle weakness||INDICATION FFF headache, FFF 1 1||INDICATION FFF muscle weakness FFF 4 5||
+293-05||16||denies depression, anxiety, sleep disturbance||INDICATION FFF depression, FFF 1 1||INDICATION FFF anxiety, FFF 2 2||INDICATION FFF sleep disturbance FFF 3 4||
+293-05||17||denies GI distress, change in appetite or bowel habits||INDICATION FFF change FFF 3 3||
+293-05||18||denies joint pain, swelling||INDICATION FFF joint pain, FFF 1 2||INDICATION FFF swelling FFF 3 3||
+293-05||19||denies urinary discomfort/frequency
+293-05||20||denies CP/SOB/PND/orthopnea/change in exercise tolerance||INDICATION FFF cp/sob/pnd/orthopnea/change FFF 1 1||INDICATION FFF cp/sob/pnd/orthopnea/change FFF 1 1||INDICATION FFF cp/sob/pnd/orthopnea/change FFF 1 1||INDICATION FFF cp/sob/pnd/orthopnea/change FFF 1 1||
+293-05||21||denies wheezing||INDICATION FFF wheezing FFF 1 1||
+293-05||22||PE||INDICATION FFF pe FFF 0 0||
+293-05||23||VS as noted||INDICATION FFF as FFF 1 1||
+293-05||24||NAD
+293-05||25||alert and oriented x 3||FREQ FFF x 3 FFF 3 4||
+293-05||26||skin - no rash or lesion
+293-05||27||discs sharp, normal vascular caliber OU||RUT FFF ou FFF 5 5||
+293-05||28||swelling beneath both eyes - inverted eye lids||INDICATION FFF swelling FFF 0 0||RUT FFF eye FFF 6 6||
+293-05||29||TMs intact AU||INDICATION FFF au FFF 2 2||
+293-05||30||no sinus tenderness
+293-05||31||no oral lesion, no pharyngeal inflammation or exudate||RUT FFF oral FFF 1 1||INDICATION FFF pharyngeal inflammation FFF 4 5||
+293-05||32||no thyroid enlargement or tenderness||INDICATION FFF thyroid enlargement FFF 1 2||
+293-05||33||no cervical/ax/ing lymphadenopathy
+293-05||34||chest clear to ausc RR 12
+293-05||35||cardiac normal s1/s2 no m/s3/s4 HR 70 reg
+293-05||36||breasts no mass/tend/discharge  performs BSE regularly
+293-05||37||abd no mass/tend/organomegaly BS+ throughout||INDICATION FFF bs+ FFF 3 3||
+293-05||38||pelvic: vulva/vagina - normal mucosa, no discharge/ulceration  normal urinary meatus cervix - no motion tenderness or discharge.||INDICATION FFF discharge/ulceration FFF 6 6||
+293-05||39||Pap specimen obtained bimanual - no uterine or adnexal mass/tend||INDICATION FFF pap FFF 0 0||
+293-05||40||rectal - no hem/fissure/mass/tend  guaiac negative; normal sphincter tone no CCE no joint effusion, warmth or tenderness alert and oriented x 3; normal stance and gait. normal strength and tone femoral and carotid pulses 2+ symmetric no bruits||INDICATION FFF hem/fissure/mass/tend FFF 3 3||FREQ FFF x 3; FFF 20 21||
+293-05||41||DP and PT pulses 2/2 bilaterally||INDICATION FFF dp FFF 0 0||
+293-05||42||feet - no ulcerations, open areas of skin on either side
+293-05||43||sensation on feet intact to monofilament bilaterally
+293-05||44||hgba1c 7.6
+293-05||45||urine microalb sl elevated||RUT FFF sl FFF 2 2||
+293-05||46||Assessment - DM control has improved; we have already increased lisinopril inverted eye lids - requires surgery allergic rhinitis||INDICATION FFF dm FFF 2 2||RUT FFF eye FFF 12 12||INDICATION FFF surgery FFF 16 16||INDICATION FFF rhinitis FFF 18 18||
+293-05||47||Plan - Pap test pending. call with results/plans||INDICATION FFF pap FFF 2 2||
+293-05||48||pneumovax IM per LPN||DIN FFF pneumovax FFF 0 0||RUT FFF im FFF 1 1||
+293-05||49||patient education regarding diet, exercise, multivits, calcium, ATOD non-use, safety; particular emphasis on tobacco cessation colonoscopy - schedule at next visit.||DIN FFF calcium, FFF 6 6||INDICATION FFF atod FFF 7 7||
+293-05||50||Going to Oregon will return in 2-3 months encouraged to resume nasal steroids check urine microalb next visit pt declines eye appointment - leaving town soon. will arrange next time (to evaluate possible surgery to eye lids) rx's renewed and reviewed||DRT FFF 2-3 months FFF 6 7||RUT FFF nasal FFF 11 11||RUT FFF eye FFF 20 20||INDICATION FFF surgery FFF 33 33||RUT FFF eye FFF 35 35||
+293-05||51||O. Feldman, MD||INDICATION FFF md FFF 2 2||

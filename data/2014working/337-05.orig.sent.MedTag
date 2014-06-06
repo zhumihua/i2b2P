@@ -1,0 +1,85 @@
+337-05	1	Record date: 2087-09-03	
+337-05	2	Kekela Internal Medicine Intern Admission Note	
+337-05	3	Patient Name: Gillis, Betty	
+337-05	4	MRN: 8308652	
+337-05	5	Date of Admission: 9/03/87	
+337-05	6	Attending: Mercado	
+337-05	7	Admitting Intern: Dalton Edwards	
+337-05	8	Source of History: patient, online chart	
+337-05	9	CC: SOB		TOD FFF cc#0	INDICATION FFF sob#1
+337-05	10	HPI: 75 yo woman with a history of R MCA, R cerebellar stroke, TIAs, Iliac vein thrombosis, PFO, and recent RP hematoma and rectus sheath hematoma (at GMH 8/13/87-8/26/87) currently off of anticoagulation because of her recent bleeds.		INDICATION FFF stroke#12	INDICATION FFF vein thrombosis#16	INDICATION FFF rp#20	INDICATION FFF anticoagulation#32
+337-05	11	Pt reports sudden onset of SOB this AM.		INDICATION FFF sob#5	TOD FFF am#7
+337-05	12	Not associated with any other symptoms.		INDICATION FFF symptoms#5
+337-05	13	A contractor who was at her home at the time called EMS who took pt to hospital.		INDICATION FFF ems#11
+337-05	14	En route she developed nausea and had 1 episode of NBNB emesis.		INDICATION FFF en#0	INDICATION FFF nausea#4	INDICATION FFF emesis .#11
+337-05	15	Otherwise, she denies CP, cough, fever, chills, abdominal pain, nausea, vomiting (other than the episode in the ambulance), change in bowel/bladder habits.		INDICATION FFF cp#3	INDICATION FFF cough#4	INDICATION FFF fever#5	INDICATION FFF abdominal pain#8	INDICATION FFF nausea#9	INDICATION FFF vomiting#10	INDICATION FFF change#18
+337-05	16	No exacerbating or alleviating symptoms.		INDICATION FFF symptoms#4
+337-05	17	Of note, she has some residual left sided weakness from her prior R MCA stroke and some balance issues from her cerebellar stroke.		INDICATION FFF stroke#14	DIN FFF balance#17	INDICATION FFF stroke#22
+337-05	18	In the ED the patient was tachypnic with SATS in the low 80s and  placed on oxygen by nasal cannula with improved sats on 4L to the mid 90s.		INDICATION FFF ed#2	DIN FFF sats#8	RUT FFF nasal#18	DIN FFF sats#22	DOSE FFF 4l#24
+337-05	19	Then was able to be weaned to room air with sats still in the mid 90s.		DIN FFF sats#10
+337-05	20	She also was tachycardic to the 90s with BPs to the 90/60 with one episode of BP to 78 systolic.		INDICATION FFF bp#16
+337-05	21	She responded well to fluid with 2L in the ED and improved BPs.		DOSE FFF 2l#6	INDICATION FFF ed#9
+337-05	22	CT showed stable RP and rectus sheath hematomas, no evidence of DVT or iliac thrombosis, and no evidence of PE.		INDICATION FFF ct#0	INDICATION FFF rp#3	INDICATION FFF dvt#11	INDICATION FFF thrombosis#14	INDICATION FFF pe#19
+337-05	23	CXR was clear.	
+337-05	24	Of note, following her hospitalization at PROMPTCARE in July 2087 for TIA where she was found to have a small PFO and iliac vein thrombosis, she was started on Coumadin.		INDICATION FFF tia#11	INDICATION FFF vein thrombosis#24	DBN FFF coumadin#29
+337-05	25	However, the patient was recently admitted to GMH with rectus sheath and RP hematoma.		INDICATION FFF rp#12
+337-05	26	Per the patient, she received 8 U PRBC there.		DOSE FFF 8u#6
+337-05	27	She also received FFP and vitamin K to reverse her Coumadin.		DIN FFF vitamin k#6	DBN FFF coumadin#10
+337-05	28	During her hospitalization she was in the ICU for hypotension and tachycardia.		DRT FFF during#0	INDICATION FFF hypotension#9	INDICATION FFF tachycardia .#11
+337-05	29	An IVC filter was placed initially but subsequently d/c&#8217;d on 8/26/87.	
+337-05	30	She was discharged off of anticoagulation.		INDICATION FFF anticoagulation .#5
+337-05	31	PMH/PSH:	
+337-05	32	R MCA stroke: 02/85		INDICATION FFF stroke#2
+337-05	33	R cerebellar stroke: 12/85		INDICATION FFF stroke#2
+337-05	34	Osteoarthritis s/p bilateral knee replacements		INDICATION FFF osteoarthritis#0
+337-05	35	GERD, chronic GI bleed with anemia		INDICATION FFF gerd#0	INDICATION FFF gi bleed#3	INDICATION FFF anemia#5
+337-05	36	HTN		INDICATION FFF htn#0
+337-05	37	HLD		INDICATION FFF hld#0
+337-05	38	Bladder incontinence		INDICATION FFF bladder incontinence#1
+337-05	39	?Iliac vein thrombosis		INDICATION FFF vein thrombosis#2
+337-05	40	Rectus sheath hematoma/Retroperitoneal hematoma	
+337-05	41	MEDICATIONS ON ADMISSION:	
+337-05	42	Omeprazole 40 MG PO Daily		DIN FFF omeprazole#0	DOSE FFF 40mg#2	RUT FFF po#3	FREQ FFF daily#4
+337-05	43	Atenolol 12.5 MG PO Daily		DIN FFF atenolol#0	DOSE FFF 12.5mg#2	RUT FFF po#3	FREQ FFF daily#4
+337-05	44	Simvastatin 40 MG PO Every night		DIN FFF simvastatin#0	DOSE FFF 40mg#2	RUT FFF po#3
+337-05	45	Ferrous Sulfate 324 MG PO Two times a day		DIN FFF ferrous sulfate#1	DOSE FFF 324mg#3	RUT FFF po#4	FREQ FFF two times a day#8
+337-05	46	ALLERGIES:		INDICATION FFF allergies#0
+337-05	47	NKDA	
+337-05	48	FHX: Unknown, adopted.	
+337-05	49		
+337-05	50		
+337-05	51	SOCIAL HISTORY	
+337-05	52	Lives on her own in Big Bear Lake.	
+337-05	53	Performs all ADLs.	
+337-05	54	Denies EtOH, IVDU	
+337-05	55	Former smoker ~50 pk yrs, quit 20 yrs ago.		DRT FFF 20 yrs#7
+337-05	56	REVIEW OF SYSTEMS:	
+337-05	57	As per HPI, otherwise negative in all details.		INDICATION FFF as#0
+337-05	58	PHYSICAL EXAM:	
+337-05	59	Vitals: T     99.6   HR 75  BP 94/58      RR     22     O2sat		INDICATION FFF t#1	DRT FFF 99.6 hr#3	INDICATION FFF bp#5
+337-05	60	98% 2L NC		DOSE FFF 98%#0	DOSE FFF 2l#1
+337-05	61	General: well-developed, well-nourished female NAD	
+337-05	62	Skin: no rashes	
+337-05	63	HEENT: NC/AT, sclera anicteric, normal conjunctiva.	
+337-05	64	Dry mucous membranes, no oral/buccal lesions.		INDICATION FFF dry mucous membranes#2	RUT FFF oral#4
+337-05	65	Chest: clear to auscultation b/l, no wheezes or rhonchi		INDICATION FFF wheezes#6
+337-05	66	CV:  RRR. Normal S1, S2. no m/r/g.		DIN FFF m / r#6
+337-05	67	Abd: soft, non-tender, non-distended. 8x8 cm mass like structure on right abdomen at rectus.		FREQ FFF x8#4	INDICATION FFF cm#5
+337-05	68	Non tender, non-erythematous.	
+337-05	69	Ext: warm, well-perfused, no clubbing, cyanosis, edema.		INDICATION FFF cyanosis#5	INDICATION FFF edema#6
+337-05	70	No palpable cords, neg Homan&#8217;s sign b/l.	
+337-05	71	Neuro: alert, oriented x 3.		FREQ FFF x 3#4
+337-05	72	CN2-12 intact except for slight left facial droop and mild slurring of speech.	
+337-05	73	M: 5/5 strength at UE and LE bilaterally except for very slight decrease in left		INDICATION FFF le#6
+337-05	74	S: intact to LT b/l.	
+337-05	75	LABORATORY:	
+337-05	76	Notable labs: Chem nl, ca 9.2		INDICATION FFF ca#4
+337-05	77	Lactate 1.4		DIN FFF lactate#0
+337-05	78	VBG 7.34/44/57	
+337-05	79	Cbc 5.4&gt;40.6&lt;347		RUT FFF gt#1
+337-05	80	INR 1.1, PTT 19.2		INDICATION FFF inr#0	INDICATION FFF ptt#2
+337-05	81	Amylase 246, Lipase 330		DIN FFF amylase#0	DOSE FFF 246#1	DIN FFF lipase#2
+337-05	82	LFTs: ALT 14, AST 28, Alk P 61		INDICATION FFF alk#5
+337-05	83	Tbili 1.1, Dbili 0.2	
+337-05	84	ECG:		DIN FFF ecg#0
+337-05	85	NSR @ 75 BPM, nl axis, nl intervals, no evidence hypertrophy or ischemia, unchanged from prior 7/31/87.		INDICATION FFF ischemia#12

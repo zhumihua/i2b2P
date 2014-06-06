@@ -1,0 +1,6 @@
+327-01	24	438	MEDICATIONS:  HCTZ 50 mg p.o. q.d.,  Atenolol 50 mg p.o. b.i.d.,	hctz FFF 1 1	50 mg FFF 2 3	p.o. FFF 4 4	q.d., FFF 5 5	 FFF 	 FFF 	narrative
+327-01	24	438	MEDICATIONS:  HCTZ 50 mg p.o. q.d.,  Atenolol 50 mg p.o. b.i.d.,	atenolol FFF 6 6	50 mg FFF 7 8	p.o. FFF 9 9	b.i.d., FFF 10 10	 FFF 	 FFF 	narrative
+327-01	25	438	allopurinol 300 mg p.o. q.d.	allopurinol FFF 0 0	300 mg FFF 1 2	p.o. FFF 3 3	q.d. FFF 4 4	 FFF 	 FFF 	narrative
+327-01	56	0	Given the severity of his symptoms, I have elected to start him on metformin 500 mg p.o. q.d.  Use and side effects were reviewed.	metformin FFF 13 13	500 mg FFF 14 15	p.o. FFF 16 16	q.d. FFF 17 17	 FFF 	 FFF 	narrative
+327-01	61	0	He will be started on lisinopril instead of  HCTZ.	lisinopril FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+327-01	61	0	He will be started on lisinopril instead of  HCTZ.	hctz. FFF 8 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

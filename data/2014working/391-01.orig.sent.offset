@@ -1,0 +1,7 @@
+391-01	6	0	Oil City, VA  14172	va FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+391-01	13	0	In 2083 Mrs. Ordonez presented with ataxia and dizziness.  She was found to have a left vertebral stenosis and a left posterior inferior cerebellar artery distribution stroke.  She was found to be hypertensive at that time and was started on atenolol.	atenolol. FFF 40 40	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+391-01	14	0	Mrs. Ordonez blood pressure was not well controlled on atenolol and hydrochlorothiazide.	atenolol FFF 9 9	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+391-01	14	0	Mrs. Ordonez blood pressure was not well controlled on atenolol and hydrochlorothiazide.	hydrochlorothiazide. FFF 11 11	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+391-01	15	0	Triamterene was added.	triamterene FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+391-01	25	438	Medications:  Coumadin 2.5 alternating with 3.75 q.d. for her history of vertebral artery stenosis and atenolol 75 q.d.	coumadin FFF 1 1	2.5 FFF 2 2	 FFF 	q.d. FFF 6 6	 FFF 	 FFF 	narrative
+391-01	25	438	Medications:  Coumadin 2.5 alternating with 3.75 q.d. for her history of vertebral artery stenosis and atenolol 75 q.d.	atenolol FFF 15 15	75 FFF 16 16	 FFF 	q.d. FFF 17 17	 FFF 	 FFF 	narrative

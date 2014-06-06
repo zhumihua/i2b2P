@@ -1,0 +1,53 @@
+273-02	1	Record date: 2076-11-21	
+273-02	2		
+273-02	3	Novolog 3-7 tid 683-51-28		DBN FFF novolog#0	DOSE FFF 3-7#1	FREQ FFF tid#2
+273-02	4	Lantus 19-20 at hs Xuan, Wendy		DBN FFF lantus#0	DOSE FFF 19-20#1	FREQ FFF hs#3
+273-02	5	Neoral 100/100 mg bid		DBN FFF neoral#0	DOSE FFF 100/100mg#2	FREQ FFF bid#3
+273-02	6	CellCept 1000 mg bid		DBN FFF cellcept#0	DOSE FFF 1000mg#2	FREQ FFF bid#3
+273-02	7	Lopressor 12.5 mg bid		DBN FFF lopressor#0	DOSE FFF 12.5mg#2	FREQ FFF bid#3
+273-02	8	Captopril 12.5 mg bid		DIN FFF captopril#0	DOSE FFF 12.5mg#2	FREQ FFF bid#3
+273-02	9	Lipitor 10 mg qd		DBN FFF lipitor#0	DOSE FFF 10mg#2	FREQ FFF qd#3
+273-02	10	Neurontin 600/1200 mg bid		DBN FFF neurontin#0	DOSE FFF 600/1200mg#2	FREQ FFF bid#3
+273-02	11	Tums 200 mg ii bid (often forgets)		DBN FFF tums#0	DOSE FFF 200mg#2	FREQ FFF bid#4
+273-02	12	Prilosec 20 mg bid		DBN FFF prilosec#0	DOSE FFF 20mg#2	FREQ FFF bid#3
+273-02	13	MVI i bid		DPN FFF mvi#0	FREQ FFF bid#2
+273-02	14	ASA 325 mg qd		DIN FFF asa#0	DOSE FFF 325mg#2	FREQ FFF qd#3
+273-02	15	Quinine Sulfate 260 mg at hs		DIN FFF quinine sulfate#1	DOSE FFF 260mg#3	FREQ FFF hs#5
+273-02	16	November 21, 2076	
+273-02	17	Interim History:	
+273-02	18	Comes to review his medical problems.	
+273-02	19	Hip X-Rays may have shown early degenerative changes.	
+273-02	20	Still has pain from them on a daily basis but it is minor.		INDICATION FFF pain#2	FREQ FFF daily#7
+273-02	21	Has not tried any analgesics, even acetaminophen.		DIN FFF analgesics#4	DIN FFF acetaminophen#6
+273-02	22	Shoulders have bothered her for years and she has seen Dr.	
+273-02	23	Baird with diagnosis of adhesive capsulitis.	
+273-02	24	Hands have bothered her in the past but do not currently.	
+273-02	25	A1c has been over 9 % and she says that control has not changed.		DOSE FFF 9%#5
+273-02	26	Does not have records but says that she tests about tid.		FREQ FFF tid#10
+273-02	27	Retinopathy: Saw Dr. Aragon a few weeks ago.	
+273-02	28	Now going only yearly.		FREQ FFF yearly#3
+273-02	29	Last laser was about 2.5 years ago.		DRT FFF 2.5 years#5
+273-02	30	Reports that vision was 20/20 in one eye and 20/25 in the other.		RUT FFF eye#7
+273-02	31	Nephropathy: Cr was 1.4 in July.		INDICATION FFF nephropathy#0
+273-02	32	Says that transplant clinic wanted her to return a month after the last visit but she did not want to do so.		DRT FFF a month#9
+273-02	33	She thinks that it was for follow-up of an elevated WBC.	
+273-02	34	However, her WBC has been normal over the last several visits.	
+273-02	35	Neuropathy: Not consistent with taking the Neurontin, and notes it she misses it.		INDICATION FFF neuropathy#0	DBN FFF neurontin#6
+273-02	36	Cardiac: No chest pain or unusual dyspnea on exertion.		INDICATION FFF chest pain#3	INDICATION FFF dyspnea#6
+273-02	37	Does feel out of shape if she climbs    100 stairs   .	
+273-02	38	She is seeing Dr.	
+273-02	39	Dotson in two weeks.		DRT FFF two weeks#3
+273-02	40	Vascular: No claudication	
+273-02	41	Past Medical History:	
+273-02	42	Medications: no changes	
+273-02	43	Social History:	
+273-02	44	Jack has had a UC flair and several other problems recently.		INDICATION FFF uc#4	DIN FFF flair#5
+273-02	45	Both of his parents have cancer.		INDICATION FFF cancer#5
+273-02	46	They is thinking of going on a vacation to (high altitude) in Argentina if he is well enough.	
+273-02	47	Review of Systems: above	
+273-02	48	Physical Exam:	
+273-02	49	Looks well.	
+273-02	50	BP:   114/82  P:   72, regular		INDICATION FFF bp#0
+273-02	51	Wt:   163 without shoes, down 0.5	
+273-02	52	HEENT: Anicteric.	
+273-02	53	Carotids: Normal pulses, without bruits	

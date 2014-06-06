@@ -1,0 +1,169 @@
+350-01	1	0	Record date: 2089-12-22
+350-01	2	0	
+350-01	3	0	Neurology Consult Note
+350-01	4	0	Patient: Doss, Ruth
+350-01	5	0	MRN:	49535763
+350-01	6	0	Date:	12/22/89
+350-01	7	0	Time:	5am
+350-01	8	0	CC: R arm weakness
+350-01	9	0	Reason for consult: ?Stroke
+350-01	10	0	HPI: 58 yo RHF with HTN, DM, dyslipidemia, obesity who was in her USOH until 11:30pm when she acutely developed RUE weakness followed by mild frontal headache and nausea.
+350-01	11	0	She noticed weakness of R hand grip when trying to grab and object.
+350-01	12	0	Denies having double vision, nausea, slurred speech, facial/leg weakness, sensory change, or other neurological symptoms.
+350-01	13	0	She was brought to Stanton Hospital where I- head CT was read negative, and she was transferred to BNH ED for further workup.
+350-01	14	0	ROS:  otherwise negative in detail.
+350-01	15	0	PMHx:
+350-01	16	0	HTN
+350-01	17	0	Hyperlipidemia
+350-01	18	0	DM
+350-01	19	438	Meds:
+350-01	20	438	Cozaar 100 mg qd
+350-01	21	438	Lipitor 20 mg qd
+350-01	22	438	Atenolol 50 mg qd
+350-01	23	438	Glucophage 1000 mg qd
+350-01	24	438	HCTZ 12.5 mg qd
+350-01	25	438	Ibuprofen 800 mg bid
+350-01	26	438	ASA 81 mg qd
+350-01	27	438	Fish oil 1000 mg qd
+350-01	28	438	Ca 600/vit D
+350-01	29	0	All: NKDA
+350-01	30	0	SHx: lives with her husband, has 2 children, smoked from 2061 to 2086.
+350-01	31	0	Rare EtOH or drugs.
+350-01	32	0	FHx: No stroke or heart disease
+350-01	33	0	VS:  T 97.4 HR 77 BP 118/62  RR 16 Sat 96% on RA
+350-01	34	0	PE: GEN 	NAD
+350-01	35	0	HEENT 	NCAT, MMM, OP clear
+350-01	36	0	Neck 	supple, no bruits
+350-01	37	0	Chest 	CTAB
+350-01	38	0	CVS 	RRR, no m/r/g
+350-01	39	0	ABD 	soft, NT, ND
+350-01	40	0	EXT 	no c/c/e, distal pulses strong, no rash
+350-01	41	0	Neuro
+350-01	42	0	MS:	AA&Ox3, appropriately interactive, appears anxious
+350-01	43	0	Attention: spell WORLD backwards
+350-01	44	0	Speech: fluent w/o paraphrasic errors; repetition, naming, intact
+350-01	45	0	Calculations: 9 quarters = $2.25
+350-01	46	0	L/R confusion: No L/R confusion
+350-01	47	0	CN: 	I--not tested; II,III   Pupils 4->2mm  bilaterally, direct/indirect, VFFC; III,IV,VI-EOMI w/o nystagmus, no ptosis; V--sensation intact to LT/temp; VII--face symmetric without weakness; IX,X--voice normal, palate elevates symmetrically; XII--tongue protrudes midline.
+350-01	48	0	Motor:	normal bulk and tone; + R pronator drift/orbiting/hand clumsiness/corticospinal tract slow motor initiation on the RUE.
+350-01	49	0	Strength:
+350-01	50	0	Delt
+350-01	51	0	Bi
+350-01	52	0	Tri
+350-01	53	0	FE
+350-01	54	0	IP
+350-01	55	0	Quad
+350-01	56	0	Hamst
+350-01	57	0	TibAnt
+350-01	58	0	EHL
+350-01	59	0	Gastroc
+350-01	60	0	C5
+350-01	61	0	C6
+350-01	62	0	C7
+350-01	63	0	C8/T1
+350-01	64	0	L2
+350-01	65	0	L3
+350-01	66	0	L4-S1
+350-01	67	0	L4
+350-01	68	0	L5
+350-01	69	0	S1
+350-01	70	0	R
+350-01	71	0	5-
+350-01	72	0	4+
+350-01	73	0	5
+350-01	74	0	4
+350-01	75	0	5
+350-01	76	0	5
+350-01	77	0	5
+350-01	78	0	5
+350-01	79	0	5
+350-01	80	0	5
+350-01	81	0	L
+350-01	82	0	5
+350-01	83	0	5
+350-01	84	0	5
+350-01	85	0	5
+350-01	86	0	5
+350-01	87	0	5
+350-01	88	0	5
+350-01	89	0	5
+350-01	90	0	5
+350-01	91	0	5
+350-01	92	0		Also, mildly weak (4/5) wrist extension, finger spread on the right.
+350-01	93	0	Coord:	point-to-point (FNF, HTS) movements intact.
+350-01	94	0	Reflex:
+350-01	95	0	
+350-01	96	0	Bi
+350-01	97	0	Tri
+350-01	98	0	Bra
+350-01	99	0	Pat
+350-01	100	0	Ank
+350-01	101	0	Toes
+350-01	102	0	C6
+350-01	103	0	C7
+350-01	104	0	C6
+350-01	105	0	L4
+350-01	106	0	S1
+350-01	107	0	R
+350-01	108	0	2
+350-01	109	0	2
+350-01	110	0	2
+350-01	111	0	2
+350-01	112	0	2
+350-01	113	0	down
+350-01	114	0	L
+350-01	115	0	2
+350-01	116	0	2
+350-01	117	0	2
+350-01	118	0	2
+350-01	119	0	2
+350-01	120	0	down
+350-01	121	0	Sens:	LT, temperature, vibration, and joint position intact.
+350-01	122	0	NIHSS
+350-01	123	0	Time of exam: 5am   total: 1
+350-01	124	0	1a:	     0     	1b:	0		1c:	0	2:	0	3:	0	4:	0	5:1
+350-01	125	0	6:	0	7:		0	8:	0	9:	0	10:	0	11:0		12:0
+350-01	126	0	13:	0
+350-01	127	790	Labs:
+350-01	128	790	Hematology Detail for DOSS, RUTH
+350-01	129	790	   SH                  22-Dec-2089 01:32  Accession# 2593:A79604
+350-01	130	790	Test Description                 Result           Flags    Ref.
+350-01	131	790	Range       Units
+350-01	132	790	WHITE BLOOD COUNT.               6.3                       (4.9-10.9)     K/MM3
+350-01	133	790	RED BLOOD COUNT                  4.20             L        (4.4-5.6)      M/MM3
+350-01	134	790	HEMOGLOBIN                       13.3                      (12.2-16.2)    GM/DL
+350-01	135	790	HEMATOCRIT                       38.1                      (37.7-47.7)    %
+350-01	136	790	MEAN CORPUSCULAR VOLUME          91                        (79.0-95.0)    FL
+350-01	137	790	MEAN CORPUSCULAR HGB             31.7             H        (29-31)        PG
+350-01	138	790	MEAN CORPUSCULAR HGB CONC        35.0                      (32-36)        G/DL
+350-01	139	790	RED CELL DIST-CV                 14.5                      (11.5-14.5)    %
+350-01	140	790	PLT                              220                       (165-365)      K/MM3
+350-01	141	790	NEUT                             54.6                      (41.0-75.0)    %
+350-01	142	790	LYMPHS                           36.4                      (27.0-42.0)    %
+350-01	143	790	MONO                             5.7                       (3.0-7.0)      %
+350-01	144	790	EOS                              2.6                       (0.0-5.0)      %
+350-01	145	790	BASO                             0.8                       (0.0-3.0)      %
+350-01	146	790	SODIUM                           137                       (136-146)      MEQ/L
+350-01	147	790	POTASSIUM                        4.1                       (3.5-5.1)      MEQ/L
+350-01	148	790	CHLORIDE                         99                        (96-112)       MEQ/L
+350-01	149	790	CARBON DIOXIDE                   29                        (23-33)        MEQ/L
+350-01	150	790	BLOOD UREA NITROGEN              28               H        (7-22)         MG/DL
+350-01	151	790	GLUCOSE                          328              H        (70-115)       MG/DL
+350-01	152	790	SERUM CREATININE                 1.2                       (0.6-1.3)      MG/DL
+350-01	153	790	TOTAL PROTEIN                    7.3                       (6.1-8.0)      G/DL
+350-01	154	790	ALBUMIN                          4.1                       (3.3-5.0)      G/DL
+350-01	155	790	CALCIUM                          9.1                       (8.5-10.5)     MG/DL
+350-01	156	790	TOTAL BILIRUBIN                  0.4                       (0.0-1.0)      MG/DL
+350-01	157	790	ALKALINE PHOSPHATASE             89                        (50-136)       U/L
+350-01	158	790	SERUM GLUT OXAL TRANS            22                        (12-45)        U/L
+350-01	159	790	SERUM GLUT.PYRUVATE TRANS        42                        (15-60)        U/L
+350-01	160	0	Imaging:
+350-01	161	0	Head CT: (my read) No hemorrhage, mass effect, or hypodensity/loss of grey-white junction.
+350-01	162	0	No acute intracranial process.
+350-01	163	0	Head MRI/MRA: pending
+350-01	164	0	Impression: 58 year-old RHF w/ cardiovascular risk factor including HTN/DM/HL/obesity who presents with acute onset of R hand/arm weakness followed by headache/mild nausea.
+350-01	165	0	Exam with R pronator drift/orbiting/hand clumsiness with distal>proximal arm weakness.
+350-01	166	0	Slow motor initiation is characteristic of corticospinal tract lesion.
+350-01	167	0	She has no face or leg weakness.
+350-01	168	0	Sparing of face/leg suggests small embolic stroke to the corona radiata in L hemisphere where the motor fiber from face/arm/leg regions are most separated.
+350-01	169	0	However, small capsular stroke is still a possibility.

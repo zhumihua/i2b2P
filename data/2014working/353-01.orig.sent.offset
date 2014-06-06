@@ -1,0 +1,12 @@
+353-01	16	0	Prior to that, he had been treated with antibiotics by his primary care  physician for a urinary tract infection with Bactrim and then ampicillin but  he did not get better.	antibiotics FFF 8 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+353-01	16	0	Prior to that, he had been treated with antibiotics by his primary care  physician for a urinary tract infection with Bactrim and then ampicillin but  he did not get better.	bactrim FFF 20 20	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+353-01	16	0	Prior to that, he had been treated with antibiotics by his primary care  physician for a urinary tract infection with Bactrim and then ampicillin but  he did not get better.	ampicillin FFF 23 23	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+353-01	18	0	He was discharged on 10/22/78 on insulin NPH 30 units  in	insulin nph FFF 6 7	30 units FFF 8 9	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+353-01	63	0	The patient is morbidly  obese, has features of insulin resistance.	insulin FFF 8 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+353-01	65	0	He is on insulin twice a day.	insulin FFF 3 3	 FFF 	 FFF 	twice a day. FFF 4 6	 FFF 	 FFF 	narrative
+353-01	67	0	The  patient  is not a good candidate for metformin with his last creatinine of 1.7.	metformin FFF 8 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+353-01	68	0	He may  be a candidate for Avandia.	avandia. FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+353-01	70	0	He has difficulty coming to  the clinic and would prefer to have his visiting nurse and nutritionist  communicate with the clinic physicians to adjust the dose of his insulin and  also have his blood tests done locally rather than here in the clinic.	insulin FFF 28 28	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+353-01	72	0	increase his NPH to 40 units in the morning and 26 units in the PM.	nph FFF 2 2	40 units FFF 4 5	 FFF 	in the morning FFF 6 8	 FFF 	 FFF 	narrative
+353-01	72	0	increase his NPH to 40 units in the morning and 26 units in the PM.	nph FFF 2 2	26 units FFF 10 11	 FFF 	the PM. FFF 13 14	 FFF 	 FFF 	narrative
+353-01	74	0	We will repeat his hemoglobin A1c in a month and also  repeat his creatinine and liver function tests at that time to see if he may  be a candidate for Avandia. I advised the patient to return to the clinic in	avandia. FFF 30 30	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

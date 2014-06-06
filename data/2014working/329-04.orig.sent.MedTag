@@ -1,0 +1,91 @@
+329-04	1	Record date: 2152-06-26	
+329-04	2		
+329-04	3	Team 4 admission note	
+329-04	4	Admission Date/Time: June 26, 2152 at 7:30PM		TOD FFF pm#6
+329-04	5	Patient Name: Yasseen Jacks	
+329-04	6	MRN#: 8841350	
+329-04	7	Attending: Uriel Mays MD		INDICATION FFF md#3
+329-04	8	Code status: DNR/DNI per discussion with son		DIN FFF dnr#2
+329-04	9	Historian: medical record, patient's son Ursula Jacks	
+329-04	10	Chief Complaint: agitation		INDICATION FFF agitation#2
+329-04	11	HPI:	
+329-04	12	Mr. Jacks is an Indonesian-speaking 85M with a history of dementia, lung nodule, CHF who presents with progressively worsening agitation at home.		INDICATION FFF dementia#10	INDICATION FFF chf#13	INDICATION FFF agitation#19
+329-04	13	As patient is currently very somnolent this history is based on phone interview with Ursula Jacks who is the HCP and is very involved with his father's care.		INDICATION FFF as#0
+329-04	14	The patient was diagnosed with dementia by his PCP about 3 years ago and has been relatively stable living at home (on 2nd floor) in Keystone Heights with his wife who has been his primary caretaker; their two sons are very involved as well.		INDICATION FFF dementia#5	INDICATION FFF pcp#8	DRT FFF 3 years#11	INDICATION FFF as#42
+329-04	15	Over the last 6 months they have noticed increasing confusion, agitation, and labile emotions.		DRT FFF 6 months#4	INDICATION FFF agitation#10
+329-04	16	They noted he has been confused about location, time (recalls distant past but not recent past), and has occasionally not been able to identify his wife.	
+329-04	17	He has become emotionally labile and sometimes agitated.		INDICATION FFF agitated#7
+329-04	18	His son notes that he recently had to physically force him to sit down and take his medications.	
+329-04	19	His wife has had to stay up at night to watch the patient to make sure he did not wander.		TOD FFF at night#8
+329-04	20	They are particularly worried about his ability to take the flight of stairs to their home since it takes him about 15 min to get up and appears unsteady.	
+329-04	21	About 1 wk ago, while his wife was out of their home, he wandered out and locked himself out; when she returned he angrily accused her of locking him out.		DRT FFF 1 wk#2	DRT FFF while#4
+329-04	22	Their mother has had increasing difficulty caring for him and has called the 2 sons for help daily for the past week.		FREQ FFF daily#17
+329-04	23	They called his PCP about these accelerating changes and he was started on lorazepam 0.5-1mg Q4h prn which brought mild improvement.		INDICATION FFF pcp#3	DIN FFF lorazepam#13	DOSE FFF 0.5 - 1mg#14	FREQ FFF q4h#15	NEC FFF prn#16
+329-04	24	Out of concern for his father's and mother's safety they brought him to the ED for evaluation and placement which their PCP has already begun to discuss with them.		INDICATION FFF ed#14	INDICATION FFF pcp#21
+329-04	25	They have not noticed fever/chills, nausea/vomiting, diarrhea/constipation (on aggressive regimen), complaints of pain, vision changes.		INDICATION FFF fever#4	INDICATION FFF nausea#5	INDICATION FFF vomiting#5	INDICATION FFF diarrhea#6	INDICATION FFF constipation#6	INDICATION FFF pain#12
+329-04	26	They have noticed recent urinary incontinence in the last few days.		INDICATION FFF urinary incontinence#5
+329-04	27	In the ED:  VS were T: 98.2    P: 71    BP: 169/84    RR: 18    SaO2: 93% RA.		INDICATION FFF ed#2	INDICATION FFF t#5	INDICATION FFF bp#9	DOSE FFF 93%#14	INDICATION FFF ra#15
+329-04	28	Exam was notable only for rales bilaterally and mild-moderate agitation.		INDICATION FFF agitation .#9
+329-04	29	CXR was normal.	
+329-04	30	CBC was at baseline.	
+329-04	31	UA pending. CT brain could not be performed due to agitation.		INDICATION FFF ua#0	INDICATION FFF ct#2	INDICATION FFF agitation .#10
+329-04	32	They spoke to his PCP who felt this was all due to progression of his dementia.		INDICATION FFF pcp#4	INDICATION FFF dementia#15
+329-04	33	He was given ativan 2mg IV (total) and haldol 5mg IV (total).		DBN FFF ativan#3	DOSE FFF 2mg#4	RUT FFF iv#5	DBN FFF haldol#8	DOSE FFF 5mg#9	RUT FFF iv#10
+329-04	34	Also got labetalol PO 200mg PO x 1.		DIN FFF labetalol#2	RUT FFF po#3	DOSE FFF 200mg#4	RUT FFF po#5	FREQ FFF x 1#7
+329-04	35	Past Medical History:	
+329-04	36	Diabetes mellitus (adult onset): diet-controlled.		INDICATION FFF diabetes mellitus ( adult onset )#3
+329-04	37	Hyperlipidemia		INDICATION FFF hyperlipidemia#0
+329-04	38	Thyroid nodule: stable for years, on methimazole		DIN FFF methimazole#6
+329-04	39	Anemia		INDICATION FFF anemia#0
+329-04	40	Benign essential hypertension		INDICATION FFF hypertension#2
+329-04	41	Congestive heart failure		INDICATION FFF congestive heart failure#2
+329-04	42	Dementia		INDICATION FFF dementia#0
+329-04	43	Lung Nodule: increase in size of lung nodule when CT repeated in Feb (suspicious for BAC) Son Ursula spoke to Dr.		INDICATION FFF ct#9
+329-04	44	Daniel (per son's report) and they discussed observing and not being aggressive with surgery etc as even though it could be cancer, an invasive operation, considering his multiple other problems, could be much worse for him than simple observation.		INDICATION FFF surgery#13	INDICATION FFF as#15	INDICATION FFF cancer#21
+329-04	45	They have an appt with Dr.	
+329-04	46	Daniel in September.	
+329-04	47	Fall in 2150 with DISH	
+329-04	48	Medications: reviewed with patient's son over phone	
+329-04	49	1. Acetaminophen (Tylenol )  325-650 MG PO Q4H prn  2. Aspirin Enteric Coated (Enteric Coated Aspirin)  81 MG PO QD  3.		DIN FFF acetaminophen#1	DOSE FFF 325-650mg#5	RUT FFF po#6	FREQ FFF q4h#7	NEC FFF prn#8	DBN FFF aspirin enteric coated#12	DOSE FFF 81mg#17	RUT FFF po#18	FREQ FFF qd#19
+329-04	50	Cyanocobalamin  1000 MCG PO QD  4.		DIN FFF cyanocobalamin#0	DOSE FFF 1000mcg#2	RUT FFF po#3	FREQ FFF qd#4
+329-04	51	Docusate Sodium  100 MG PO BID  5. Furosemide  60 MG PO QD  6.		DIN FFF docusate sodium#1	DOSE FFF 100mg#3	RUT FFF po#4	FREQ FFF bid#5	DIN FFF furosemide#7	DOSE FFF 60mg#9	RUT FFF po#10	FREQ FFF qd#11
+329-04	52	Kcl Slow Release Tab (K-Dur)  10 MEQ PO QD  7.		DIN FFF kcl#0	DOSE FFF 10meq#6	RUT FFF po#7	FREQ FFF qd#8
+329-04	53	Labetalol Hcl  200 MG PO BID  8.		DIN FFF labetalol hcl#1	DOSE FFF 200mg#3	RUT FFF po#4	FREQ FFF bid#5
+329-04	54	Lisinopril  40 MG PO QD  9. Lorazepam  0.5-1 mg PO Q4H 10.		DIN FFF lisinopril#0	DOSE FFF 40mg#2	RUT FFF po#3	FREQ FFF qd#4	DIN FFF lorazepam#6	DOSE FFF 0.5 - 1mg#8	RUT FFF po#9	FREQ FFF q4h#10
+329-04	55	Memantine  10 MG PO BID 11. Methimazole  5 MG PO QD 12.		DIN FFF memantine#0	DOSE FFF 10mg#2	RUT FFF po#3	FREQ FFF bid#4	DIN FFF methimazole#6	DOSE FFF 5mg#8	RUT FFF po#9	FREQ FFF qd#10
+329-04	56	Multivitamins  1 TAB PO QD 13. Omeprazole  20 MG PO QD 14.		DIN FFF multivitamins#0	DOSEAMT FFF 1 tab#2	RUT FFF po#3	FREQ FFF qd#4	DIN FFF omeprazole#6	DOSE FFF 20mg#8	RUT FFF po#9	FREQ FFF qd#10
+329-04	57	Polyethylene Glycol   17 GM PO QD prn Constipation   15.		DIN FFF polyethylene glycol#1	DOSE FFF 17gm#3	RUT FFF po#4	FREQ FFF qd#5	NEC FFF prn#6	INDICATION FFF constipation#7
+329-04	58	Sennosides (Senna Tablets)  2 TAB PO BID 16.		DIN FFF sennosides#0	DOSEAMT FFF 2 tab#4	RUT FFF po#5	FREQ FFF bid#6
+329-04	59	Simvastatin  80 MG PO QD		DIN FFF simvastatin#0	DOSE FFF 80mg#2	RUT FFF po#3	FREQ FFF qd#4
+329-04	60	Allergies:		INDICATION FFF allergies#0
+329-04	61	AMOXICILLIN/CLAV.ACID 875/125 - reaction: diarrhea		DIN FFF amoxicillin#0	INDICATION FFF diarrhea#4
+329-04	62	Family History:	
+329-04	63	Father had dementia in early 70s.		INDICATION FFF dementia#2
+329-04	64	Mother had breast cancer.		INDICATION FFF cancer#3
+329-04	65	Social History:	
+329-04	66	Lives with wife in KH.	
+329-04	67	Sons are very involved.  can get around -but sits at home and does not do muchit is getting harder and harder for him to be at home - his wife is having a harder time caring for him.		DIN FFF sits#8
+329-04	68	Prior smoker - remote 20y ago.	
+329-04	69	No etoh.	
+329-04	70	Review of Systems: Otherwise negative x 10 systems.		FREQ FFF x 10#6
+329-04	71	Physical Examination	
+329-04	72	Vital Signs: T 96.5F, HR 70, BP 177/84, RR 16, O2sat 93% on RA		INDICATION FFF t#2	INDICATION FFF f#3	INDICATION FFF bp#6	DOSE FFF 93%#11	INDICATION FFF ra#13
+329-04	73	General Appearance: elderly somnolent, but arousable and intermittently gives his name.	
+329-04	74	HEENT: NC/AT, PERRLA, OP clear with slightly dry mucous membranes but with mouth open.		INDICATION FFF op#3	INDICATION FFF dry mucous membranes#9	RUT FFF mouth#12
+329-04	75	Skin:	
+329-04	76	No rashes, no petechia.	
+329-04	77	Large scar  on back which son states is from unknown childhood surgery		INDICATION FFF surgery#11
+329-04	78	Neck: Supple, unable to assess JVD	
+329-04	79	Lymphatics: No palpable cervical LAN	
+329-04	80	Chest: CTAB	
+329-04	81	Heart: RRR, normal S1/S2 tones, no M/G/R	
+329-04	82	Abdomen:	
+329-04	83	soft, nontender, nondistended, normal bowel sounds.	
+329-04	84	Extremities: warm, no c/c/e	
+329-04	85	Neuro: somnolent, arousable, moving all extremities.	
+329-04	86	Diagnostic Studies:	
+329-04	87	06/26/2152 NA 142,  K 3.3 (L),  CL 101,  CO2 32.4 (H),  BUN 14,  CRE 1.16,  EGFR &gt;60 [1],  GLU 118 (H)06/26/2152 ANION 9		DIN FFF na#1	DOSE FFF 142#2	INDICATION FFF k#3	INDICATION FFF cl#6	RUT FFF gt#16	DIN FFF glu#18	DOSE FFF 118#19
+329-04	88	06/26/2152 PHOS 2.2 (L),  MG 1.6,  TBILI 0.4,  DBILI 0.1,  TP 6.9,  ALB 4.0,  GLOB 2.906/26/2152 AMY 66,  LIPS 26		INDICATION FFF tp#10	DIN FFF alb#12	DOSE FFF 4.0#13
+329-04	89	06/26/2152 ALT/SGPT 17,  AST/SGOT 19,  ALKP 99,  TBILI 0.4,  DBILI 0.106/26/2152 NT-BNP 688 [1]06/23/2152 LDLDIR PEND	
+329-04	90	06/23/2152 B12 1036,  FOLATE &gt;20.0 (H)		DPN FFF b12#1	DIN FFF folate#3	RUT FFF gt#4
+329-04	91	06/23/2152 TSH 2.78 [1]06/23/2152 HGBA1C PEND,  MEAN-GLU PEND	

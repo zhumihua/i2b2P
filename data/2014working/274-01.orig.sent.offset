@@ -1,0 +1,11 @@
+274-01	13	0	The patient was immediately given aspirin, beta blocker and  heparinized as well as a nitro drip.	aspirin, FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+274-01	13	0	The patient was immediately given aspirin, beta blocker and  heparinized as well as a nitro drip.	beta blocker FFF 6 7	 FFF 	drip. FFF 15 15	 FFF 	 FFF 	 FFF 	narrative
+274-01	20	0	Medications that he has gotten so far  are aspirin, morphine sulfate, nitro paste, sublingual  nitroglycerine.	aspirin, FFF 8 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+274-01	20	0	Medications that he has gotten so far  are aspirin, morphine sulfate, nitro paste, sublingual  nitroglycerine.	morphine sulfate, FFF 9 10	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+274-01	20	0	Medications that he has gotten so far  are aspirin, morphine sulfate, nitro paste, sublingual  nitroglycerine.	nitro paste, FFF 11 12	 FFF 	sublingual FFF 13 13	 FFF 	 FFF 	 FFF 	narrative
+274-01	20	0	Medications that he has gotten so far  are aspirin, morphine sulfate, nitro paste, sublingual  nitroglycerine.	nitroglycerine. FFF 14 14	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+274-01	21	0	He is currently on an IV nitroglycerine drip.	nitroglycerine FFF 6 6	 FFF 	iv FFF 5 5	 FFF 	 FFF 	 FFF 	narrative
+274-01	26	438	MEDICATIONS: Atenolol for his blood pressure medicine and recently  put on quinine sulfate for pain in his legs.	atenolol FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+274-01	26	438	MEDICATIONS: Atenolol for his blood pressure medicine and recently  put on quinine sulfate for pain in his legs.	quinine sulfate FFF 11 12	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+274-01	38	0	He received 2.5 of Lopressor and is almost pain free at this  point and doing well.	lopressor FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+274-01	44	0	She  is probably on the way to the hospital and we will inform her.	inform FFF 12 12	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

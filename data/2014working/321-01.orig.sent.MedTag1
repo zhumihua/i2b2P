@@ -1,0 +1,53 @@
+321-01||1||Record date: 2068-01-04
+321-01||2||Patient Name: JOINER,CAITLIN [ MRN: 3041038MARY ]
+321-01||3||Date of Visit: 1/04/2068
+321-01||4||Here for Urgent Visit.
+321-01||5||She felt well until yesteday evening.||DRT FFF until FFF 3 3||TOD FFF evening. FFF 5 5||
+321-01||6||Noted that her R ear was popping and felt congested.||RUT FFF ear FFF 4 4||
+321-01||7||No pain or fever.||INDICATION FFF pain FFF 1 1||INDICATION FFF fever. FFF 3 3||
+321-01||8||Went to bed feeling relatively well but awoke at about 3 AM dizzy and nauseated.||TOD FFF 3 am FFF 10 11||INDICATION FFF nauseated. FFF 14 14||
+321-01||9||Dizziness passed but she remained nauseated for about an hour and vomited white spittle.||INDICATION FFF dizziness FFF 0 0||INDICATION FFF nauseated FFF 5 5||DRT FFF an hour FFF 8 9||INDICATION FFF vomited FFF 11 11||
+321-01||10||She awoke this am still queezy with small amounts of vomiting spittle.||TOD FFF am FFF 3 3||INDICATION FFF vomiting FFF 10 10||
+321-01||11||Her temp this am was 98.2.||TOD FFF am FFF 3 3||
+321-01||12||Went back to bed about 11 am and awoke at one o'clock still nauseous.||TOD FFF 11 am FFF 5 6||INDICATION FFF nauseous. FFF 13 13||
+321-01||13||No cough, dysuria.||INDICATION FFF cough, FFF 1 1||
+321-01||14||Foot care is good with no ulcers.||INDICATION FFF ulcers. FFF 6 6||
+321-01||15||Efforts to control nausea in past with compazine have not been successful.||INDICATION FFF nausea FFF 3 3||DBN FFF compazine FFF 7 7||
+321-01||16||She took meds including 15u NPH.||DOSE FFF 15u FFF 4 4||DBN FFF nph. FFF 5 5||
+321-01||17||Her BS this am was 170n which is high for her.||INDICATION FFF bs FFF 1 1||TOD FFF am FFF 3 3||
+321-01||18||She has been unable to eat anything despite trying to eat saltines.
+321-01||19||Patient started to vomit at the end of exam.||INDICATION FFF vomit FFF 3 3||
+321-01||20||AODM Type 1- First dx'ed in 12/25 when she presented with R foot foot osteo in mild DKA.||INDICATION FFF aodm FFF 0 0||INDICATION FFF dka. FFF 17 17||
+321-01||21||She ended up with a TMA and is followed now by Dr.||DIN FFF tma FFF 5 5||
+321-01||22||Pete Quintanar and by Dr.
+321-01||23||Infant Church of surgery.||INDICATION FFF surgery. FFF 3 3||
+321-01||24||Last HgbA1c 6.4 11/28/67.
+321-01||25||ROS Denies C, SOB, No GU or GI sx||INDICATION FFF sob, FFF 3 3||INDICATION FFF gu FFF 5 5||
+321-01||26||================ HealthMaintenance ================
+321-01||27||<< New Item >> 09/14/2066
+321-01||28||Breast Exam 08/31/2067 nl Done
+321-01||29||Cholesterol 08/21/2067 140  DESIRABLE: <200||INDICATION FFF cholesterol FFF 0 0||
+321-01||30||HBA1C 11/28/2067 6.40
+321-01||31||Mammogram 08/31/2067  Done/scheduled
+321-01||32||Microalbumin 05/03/2066 6
+321-01||33||Ophthal Exam 08/31/2067  Done elsewhere Dr. J Gaines
+321-01||34||Pap Smear 09/14/2066  Done||INDICATION FFF pap FFF 0 0||
+321-01||35||Podiatry exam 08/09/2066   Dr. Vazquez  will see q 3 months||FREQ FFF q 3 months FFF 7 9||
+321-01||36||Rectal exam 09/14/2066 neg
+321-01||37||Sigmoidoscopy 08/31/2067   Discussed with patient.
+321-01||38||She refuses.
+321-01||39||Smoking status 09/14/2066  Never a smoker
+321-01||40||Stool Guaiac 09/14/2066  Done - negative
+321-01||41||Tetanus 02/08/2066   Will do at next visit||DIN FFF tetanus FFF 0 0||DOSE FFF 02/08/2066 FFF 1 1||
+321-01||42||UA-Protein 06/08/2067 NEGATIVE
+321-01||43||Vision Exam 09/13/2066 no change  Dr.||INDICATION FFF change FFF 4 4||
+321-01||44||Gaines, will see in one year ================ Problems ================||DRT FFF one year FFF 4 5||
+321-01||45||Foot ulcer||INDICATION FFF foot ulcer FFF 0 1||
+321-01||46||Diabetes||INDICATION FFF diabetes FFF 0 0||
+321-01||47||================ Allergies ================||INDICATION FFF allergies FFF 1 1||
+321-01||48||NKDA
+321-01||49||================ Medications ================
+321-01||50||REGLAN (METOCLOPRAMIDE HCL)  10MG PO BID||DBN FFF reglan FFF 0 0||DOSE FFF 10mg FFF 3 3||RUT FFF po FFF 4 4||FREQ FFF bid FFF 5 5||
+321-01||51||INSULIN NPH HUMAN  15UNITS SC QAM||DIN FFF insulin nph human FFF 0 2||DOSEAMT FFF 15units FFF 3 3||RUT FFF sc FFF 4 4||FREQ FFF qam FFF 5 5||
+321-01||52||ASA (ACETYLSALICYLIC ACID) 325MG 1 Tablet(s) PO QD||DIN FFF asa FFF 0 0||DOSE FFF 325mg FFF 3 3||DOSEAMT FFF 1 tablet(s) FFF 4 5||RUT FFF po FFF 6 6||FREQ FFF qd FFF 7 7||
+321-01||53||CAPTOPRIL  50MG PO BID||DIN FFF captopril FFF 0 0||DOSE FFF 50mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF bid FFF 3 3||

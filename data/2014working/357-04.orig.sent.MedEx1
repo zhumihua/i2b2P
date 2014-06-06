@@ -1,0 +1,46 @@
+357-04||1||Record date: 2080-01-18
+357-04||2||Date 01/18/2080 TIPTREE VASCULAR SURGERY CONSULT NOTE
+357-04||3||PATIENT: Massey, Ramona
+357-04||4||MRN: 44690336
+357-04||5||Attending: Andersen
+357-04||6||HPI:
+357-04||7||The patient is a 79yF with ESRD on HD.
+357-04||8||She is being dialyzed via a right brachiocephalic fistula that was created in Nov 2075.
+357-04||9||The patient is a very poor historian and the subsequent information has been collected from the medical record.
+357-04||10||While the fistula is beng used successfully for dialysis, it has undergone aneurysmal dilatation and the patient has also developed non-healing areas over the fistula at points of access.
+357-04||11||There is note made in the chart that the patient has had difficulty with recurrent outflow stenosis and for this she seems to have undergone angioplasty at Brooks Hospital (no record in LMR) recently.
+357-04||12||The patient does not have any complaints.
+357-04||13||PMH:
+357-04||14||ESRD on HD; CKD; DM; HTN; HL
+357-04||15||PSH:
+357-04||16||Right brachiocephalic AV fistula creation 11/75; right forearm loop AV graft creation 02/75; right antecubital AV fistula creation 03/74; right snuff box AV fistula creation 10/70
+357-04||17||MEDS (In house):
+357-04||18||ASA 81mg po qday; Calcium acetate 667mg po qac; Captopril 62.5mg po tid; Colace 100mg po qday; Heparin 5000U sc tid; Metoprolol 50mg pot id; Pravastatin 40mg po qhs; amlodipine 5mg po qday; Donepezil 5mg po qday; Nephrocaps 1tab po qday; RISS||DIN FFF asa FFF 0 0||DOSE FFF 81mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qday; FFF 3 3||
+357-04||18||ASA 81mg po qday; Calcium acetate 667mg po qac; Captopril 62.5mg po tid; Colace 100mg po qday; Heparin 5000U sc tid; Metoprolol 50mg pot id; Pravastatin 40mg po qhs; amlodipine 5mg po qday; Donepezil 5mg po qday; Nephrocaps 1tab po qday; RISS||DIN FFF calcium acetate FFF 4 5||DOSE FFF 667mg FFF 6 6||
+357-04||18||ASA 81mg po qday; Calcium acetate 667mg po qac; Captopril 62.5mg po tid; Colace 100mg po qday; Heparin 5000U sc tid; Metoprolol 50mg pot id; Pravastatin 40mg po qhs; amlodipine 5mg po qday; Donepezil 5mg po qday; Nephrocaps 1tab po qday; RISS||RUT FFF po FFF 7 7||DIN FFF captopril FFF 9 9||DOSE FFF 62.5mg FFF 10 10||RUT FFF po FFF 11 11||FREQ FFF tid; FFF 12 12||
+357-04||18||ASA 81mg po qday; Calcium acetate 667mg po qac; Captopril 62.5mg po tid; Colace 100mg po qday; Heparin 5000U sc tid; Metoprolol 50mg pot id; Pravastatin 40mg po qhs; amlodipine 5mg po qday; Donepezil 5mg po qday; Nephrocaps 1tab po qday; RISS||DBN FFF colace FFF 13 13||DOSE FFF 100mg FFF 14 14||RUT FFF po FFF 15 15||FREQ FFF qday; FFF 16 16||
+357-04||18||ASA 81mg po qday; Calcium acetate 667mg po qac; Captopril 62.5mg po tid; Colace 100mg po qday; Heparin 5000U sc tid; Metoprolol 50mg pot id; Pravastatin 40mg po qhs; amlodipine 5mg po qday; Donepezil 5mg po qday; Nephrocaps 1tab po qday; RISS||DIN FFF heparin FFF 17 17||DOSE FFF 5000u FFF 18 18||RUT FFF sc FFF 19 19||FREQ FFF tid; FFF 20 20||
+357-04||18||ASA 81mg po qday; Calcium acetate 667mg po qac; Captopril 62.5mg po tid; Colace 100mg po qday; Heparin 5000U sc tid; Metoprolol 50mg pot id; Pravastatin 40mg po qhs; amlodipine 5mg po qday; Donepezil 5mg po qday; Nephrocaps 1tab po qday; RISS||DIN FFF metoprolol FFF 21 21||DOSE FFF 50mg FFF 22 22||
+357-04||18||ASA 81mg po qday; Calcium acetate 667mg po qac; Captopril 62.5mg po tid; Colace 100mg po qday; Heparin 5000U sc tid; Metoprolol 50mg pot id; Pravastatin 40mg po qhs; amlodipine 5mg po qday; Donepezil 5mg po qday; Nephrocaps 1tab po qday; RISS||DIN FFF pravastatin FFF 25 25||DOSE FFF 40mg FFF 26 26||RUT FFF po FFF 27 27||FREQ FFF qhs; FFF 28 28||
+357-04||18||ASA 81mg po qday; Calcium acetate 667mg po qac; Captopril 62.5mg po tid; Colace 100mg po qday; Heparin 5000U sc tid; Metoprolol 50mg pot id; Pravastatin 40mg po qhs; amlodipine 5mg po qday; Donepezil 5mg po qday; Nephrocaps 1tab po qday; RISS||DIN FFF amlodipine FFF 29 29||DOSE FFF 5mg FFF 30 30||RUT FFF po FFF 31 31||FREQ FFF qday; FFF 32 32||
+357-04||18||ASA 81mg po qday; Calcium acetate 667mg po qac; Captopril 62.5mg po tid; Colace 100mg po qday; Heparin 5000U sc tid; Metoprolol 50mg pot id; Pravastatin 40mg po qhs; amlodipine 5mg po qday; Donepezil 5mg po qday; Nephrocaps 1tab po qday; RISS||DIN FFF donepezil FFF 33 33||DOSE FFF 5mg FFF 34 34||RUT FFF po FFF 35 35||FREQ FFF qday; FFF 36 36||
+357-04||18||ASA 81mg po qday; Calcium acetate 667mg po qac; Captopril 62.5mg po tid; Colace 100mg po qday; Heparin 5000U sc tid; Metoprolol 50mg pot id; Pravastatin 40mg po qhs; amlodipine 5mg po qday; Donepezil 5mg po qday; Nephrocaps 1tab po qday; RISS||DBN FFF nephrocaps FFF 37 37||DOSEAMT FFF 1tab FFF 38 38||RUT FFF po FFF 39 39||FREQ FFF qday; FFF 40 40||
+357-04||19||ALL:
+357-04||20||NKDA
+357-04||21||FH:
+357-04||22||NC
+357-04||23||SH:
+357-04||24||Lives with her daughter in Brewton, VA; goes to dialysis TThSa||DIN FFF va; FFF 6 6||
+357-04||25||PE: 98.7 65 120/62 18 95% RA
+357-04||26||Elderly woman sitting up in chair with Posey jacket on; appears comfortable; focused physical exam reveals right upper arm with well-healed incisions over forearm, graft in forearm without thrill, brachiocephalic fistula with aneurysmal changes, more prominently toward antecubital fossa, skin with small non-healing ulcers, strongly palpable thrill; radial pulse 1+, hand warm
+357-04||27||--
+357-04||28||Labs
+357-04||29||Chem: 136/ 4.4/ 93/ 29/ 72/ 9.6/ 170
+357-04||30||CBC: 7.3/ 35.3/ 208
+357-04||31||Coags: 14.4/ 1.1/ 27.5
+357-04||32||--
+357-04||33||ASSESSMENT / PLAN:
+357-04||34||79yF with ESRD on HD being dialysed via right brachiocephalic fistula that is aneurysmal.
+357-04||35||Per the record she may also have outflow stenosis. - Will discuss further management (fistulogram vs intervention vs follow up in clinic) with Dr. Andersen
+357-04||36||- We will follow with you
+357-04||37||--

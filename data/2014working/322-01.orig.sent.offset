@@ -1,0 +1,11 @@
+322-01	12	0	Motrin (IBUPROFEN) 800 MG (800MG TABLET take 1) PO TID PRN pain	motrin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+322-01	13	0	Metformin 875 MG (875MG TABLET take 1) PO TID	metformin FFF 0 0	875 mg FFF 1 2	po FFF 7 7	tid FFF 8 8	 FFF 	 FFF 	narrative
+322-01	14	0	Lisinopril 40 MG (40MG TABLET take 1) PO QD , dose increase	lisinopril FFF 0 0	40 mg FFF 1 2	po FFF 7 7	qd FFF 8 8	 FFF 	 FFF 	narrative
+322-01	15	0	Prozac (FLUOXETINE HCL) 40 MG (20MG TABLET take 2) PO QD	prozac FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+322-01	16	0	Zocor (SIMVASTATIN) 40 MG (40MG TABLET take 1) PO QHS , replaces Lipitor (insurance)	zocor FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+322-01	16	0	Zocor (SIMVASTATIN) 40 MG (40MG TABLET take 1) PO QHS , replaces Lipitor (insurance)	lipitor FFF 12 12	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+322-01	17	0	Hydrochlorothiazide 25 MG (25MG TABLET take 1) PO QD x 30 days	hydrochlorothiazide FFF 0 0	25 mg FFF 1 2	po FFF 7 7	qd FFF 8 8	30 days FFF 10 11	 FFF 	narrative
+322-01	18	0	Serax (OXAZEPAM) 10 MG (10MG TABLET take 1) PO QHS PRN insomnia x 30 days	serax FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+322-01	19	0	Fioricet (BUTALBITAL+APAP+CAFFEINE) 1 TAB (325-40-50 CAPSULE ) PO Q4H PRN headache	Fioricet (BUTALBITAL+APAP+CAFFEINE) FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+322-01	19	0	Fioricet (BUTALBITAL+APAP+CAFFEINE) 1 TAB (325-40-50 CAPSULE ) PO Q4H PRN headache	(butalbital+apap+caffeine) FFF 1 1	 FFF 	po FFF 7 7	Q4H PRN FFF 8 9	 FFF 	 FFF 	narrative
+322-01	22	0	Glyburide was stopped, Metformin dose was adjusted from 1000mg bid to 875mg tid.	Glyburide was stopped, FFF 0 3	1000mg FFF 8 8	 FFF 	bid FFF 9 9	 FFF 	 FFF 	narrative

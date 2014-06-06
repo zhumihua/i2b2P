@@ -1,0 +1,81 @@
+295-04	1	0	Record date: 2081-03-08
+295-04	2	0	
+295-04	3	0	
+295-04	4	0	Vascular Surgery
+295-04	5	0	History and Physical
+295-04	6	0	________________________________________________________________________
+295-04	7	0	Attending: Godfrey, Kelley
+295-04	8	0	Fellow: Godfrey, Stanley
+295-04	9	0	Junior: Orosco, Vincent I.
+295-04	10	0	
+295-04	11	0	Patient: Vieira, Nathan B.
+295-04	12	0	MRN: 0666729
+295-04	13	0	Date: 3/8/2081
+295-04	14	0	HPI: This is a 74 y.o. M with h.o CAD and PVD s/p bilateral lower extremity bypass grafting procedures complicated by a thrombus in the L side of the iliac portion of the graft for which he has been on coumadin.
+295-04	15	0	In anticipation for a follow-up cardiac catheterization (recent episodes of shortness of breath), his coumadin was held since Thursday (3/6/2081).
+295-04	16	0	Then on 3/7/2081, he was noted by medical staff to have a slightly cool L lower extremity.
+295-04	17	0	The patient states that it has felt this way with some intermittent pain at rest for the last several weeks.
+295-04	18	0	He complained of both numbness and pain, and he was started on a heparin drip when his INR fell to less than 2.0.
+295-04	19	0	Dr. Atwood who did his initial operation was contacted and he was arranged for transfer to RCH.
+295-04	20	0	He arrives today (3/8/2081) on a heparin drip.
+295-04	21	0	PHMx:
+295-04	22	0	DM (insulin-dependent)
+295-04	23	0	CAD (recent echo showed EF 55-60% but inferior wall infarct in 9/2080; stress test in 11/2080 showed no reversible ischemia)
+295-04	24	0	PVD
+295-04	25	0	Bladder atony
+295-04	26	0	Psoriasis
+295-04	27	0	HTN
+295-04	28	0	HL
+295-04	29	0	PSHx:
+295-04	30	0	R femoral to below-knee popliteal bypass graft with 6-mm PTFE ring (2/2078)
+295-04	31	0	L femoral below-knee popliteal bypass graft with 6-mm PTFE (4/2078)
+295-04	32	0	Open thrombectomy femoral-popliteal bypass graft (12/2078)
+295-04	33	0	Left femoral artery cutdown, graft thrombectomy, patch angioplasty of common femoral artery, patch angioplasty of proximal bypass graft, angiogram of left lower extremity, balloon angioplasty of posterior tibial artery, balloon angioplasty of peroneal artery, balloon angioplasty of tibioperoneal artery with placement of balloon expandable stent (5/2080)
+295-04	34	0	Popliteal exploration with graft thrombectomy. stent placement for stenosis of proximal graft (5/2080)
+295-04	35	0	Incision and drainage and VAC dressing to left lower extremity wound x 2 (7/2080)
+295-04	36	438	Medications:
+295-04	37	438	Lasix 40 IV BID
+295-04	38	438	Coumadin 3 mg QD
+295-04	39	438	Enalapril 5 mg BID
+295-04	40	438	Coreg 3.125 BID
+295-04	41	438	ASA 81 QD
+295-04	42	438	Lipitor 20 QD
+295-04	43	438	Glyburide 10 BID
+295-04	44	438	Zocor 40 QHS
+295-04	45	438	Lantus insulin 30 U QHS and sliding scale
+295-04	46	438	MVI
+295-04	47	438	Clonazepam PRN
+295-04	48	438	Tylenol PRN
+295-04	49	438	Colace 100 BID PRN
+295-04	50	438	Soriatane CK 250 mg TID (for psoriasis)
+295-04	51	438	Bactroban ointment to LLE
+295-04	52	448	Allergies: Adhesive tape
+295-04	53	0	Family Hx: Noncontributory
+295-04	54	0	Social Hx: Lives at home.
+295-04	55	0	ROS: As per HPI.
+295-04	56	0	Physical Exam:
+295-04	57	0	Vitals:             T 99.4, HR 87, BP 117/59, RR 18, 100% on RA
+295-04	58	0	GEN:              Well-appearing in NAD, A&amp;Ox3
+295-04	59	0	HEENT:         NC/AT, PERRL, EOMI, no jaundice
+295-04	60	0	CV:                 RRR, no M/R/G
+295-04	61	0	PULM:           CTAB
+295-04	62	0	ABD:              Soft, NT/ND, +BS
+295-04	63	0	EXT:              L foot slightly cooler than R foot, well-healed medial knee incision on LLE, no open wounds
+295-04	64	0	NEURO:        Non-focal, moving all extremities
+295-04	65	0	PULSES:       Carotids 2+, no bruits
+295-04	66	0	                        Radials 2+
+295-04	67	0	                        Femorals 2+
+295-04	68	0	                        Politeals NP
+295-04	69	0	                        PTs NP
+295-04	70	0	                        DPs NP
+295-04	71	0	
+295-04	72	790	Laboratory Studies: Pending
+295-04	73	0	Imaging: CXR pending
+295-04	74	0	EKG: Pending
+295-04	75	0	Impression: 74 y.o. M with HTN, PVD, HL, DM who presents several days after stopping coumadin for a planned cardiac catheterization with cold, pulseless LLE consistent with acute on chronic thrombosis of L femoral to below-the-knee bypass graft.
+295-04	76	0	Plan:
+295-04	77	0	Routine admission labs
+295-04	78	0	Continue heparin gtt (PTT goal 60-80)
+295-04	79	0	F/U INR/creatinine
+295-04	80	0	Mucomyst
+295-04	81	0	Gentle fluids

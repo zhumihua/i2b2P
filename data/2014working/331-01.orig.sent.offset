@@ -1,0 +1,12 @@
+331-01	20	0	Amlodipine 10 MG (10MG TABLET take 1) PO QD	amlodipine FFF 0 0	10 mg FFF 1 2	po FFF 7 7	qd FFF 8 8	 FFF 	 FFF 	narrative
+331-01	21	0	Lisinopril 40 MG (40MG TABLET take 1) PO QD	lisinopril FFF 0 0	40 mg FFF 1 2	po FFF 7 7	qd FFF 8 8	 FFF 	 FFF 	narrative
+331-01	22	0	Rosuvastatin 40 MG (40MG TABLET take 1) PO QHS	rosuvastatin FFF 0 0	40 mg FFF 1 2	po FFF 7 7	qhs FFF 8 8	 FFF 	 FFF 	narrative
+331-01	23	0	Glipizide 10 MG (10MG TABLET take 1) PO BID	glipizide FFF 0 0	10 mg FFF 1 2	po FFF 7 7	bid FFF 8 8	 FFF 	 FFF 	narrative
+331-01	24	0	Pioglitazone 15 MG (15MG TABLET take 1) PO QD	pioglitazone FFF 0 0	15 mg FFF 1 2	po FFF 7 7	qd FFF 8 8	 FFF 	 FFF 	narrative
+331-01	25	0	Clopidogrel 75 MG (75MG TABLET take 1) PO QD	clopidogrel FFF 0 0	75 mg FFF 1 2	po FFF 7 7	qd FFF 8 8	 FFF 	 FFF 	narrative
+331-01	26	0	Furosemide 20 MG (20MG TABLET take 1) PO BID	furosemide FFF 0 0	20 mg FFF 1 2	po FFF 7 7	bid FFF 8 8	 FFF 	 FFF 	narrative
+331-01	27	0	Atenolol 25 MG (25MG TABLET take 1) PO QD	atenolol FFF 0 0	25 mg FFF 1 2	po FFF 7 7	qd FFF 8 8	 FFF 	 FFF 	narrative
+331-01	28	0	Ferrous GLUCONATE 300 MG PO BID	ferrous gluconate FFF 0 1	300 mg FFF 2 3	po FFF 4 4	bid FFF 5 5	 FFF 	 FFF 	narrative
+331-01	31	0	Habits: no cigarettes, drugs or alcohol;	drugs FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+331-01	49	0	Will address on RTC, with limited options at this point. 4. After risk/benefit discussion, given influenza and pneumovax vaccines;	pneumovax FFF 17 17	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+331-01	49	0	Will address on RTC, with limited options at this point. 4. After risk/benefit discussion, given influenza and pneumovax vaccines;	vaccines; FFF 18 18	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

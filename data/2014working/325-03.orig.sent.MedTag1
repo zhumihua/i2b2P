@@ -1,0 +1,149 @@
+325-03||1||Record date: 2079-02-03
+325-03||2||Educare-Pullman Team D Intern Admit Note
+325-03||3||Patient's name:  IVORY, LORI O
+325-03||4||MRN:   2097545
+325-03||5||Date of Admission: 02/03/79
+325-03||6||PCP: Helen Updike||INDICATION FFF pcp: FFF 0 0||
+325-03||7||Chief Complaint: CP, SOB||INDICATION FFF cp, FFF 2 2||INDICATION FFF sob FFF 3 3||
+325-03||9||History Obtained From: Pt, chart
+325-03||10||History of Present Illness: 51 yo w w/ PMHx sig for HTN and diastolic dysfunction and recent admission with CHF in the context of HTN who presented w/ CC of SOB and CP that she said radiated down both of her arms.||INDICATION FFF htn FFF 11 11||INDICATION FFF chf FFF 19 19||INDICATION FFF htn FFF 24 24||TOD FFF cc FFF 28 28||INDICATION FFF sob FFF 30 30||INDICATION FFF cp FFF 32 32||
+325-03||11||The pain and SOB started on the eve before admission while pt was at rest.||INDICATION FFF the pain FFF 0 1||INDICATION FFF sob FFF 3 3||DRT FFF while FFF 10 10||
+325-03||12||Upon arrival of EMS pt was hypertensive to 220 by report.Given ASA, Nitros and brought to the EDUCARE-FARGO ED.||INDICATION FFF ems FFF 3 3||INDICATION FFF hypertensive FFF 6 6||DIN FFF asa, FFF 11 11||INDICATION FFF ed. FFF 18 18||
+325-03||13||Daughter describes pt to be wheezing several days PTA.||INDICATION FFF wheezing FFF 5 5||DRT FFF several days FFF 6 7||
+325-03||14||Pt c/o of nausea in the ED.||INDICATION FFF c/o FFF 1 1||INDICATION FFF nausea FFF 3 3||INDICATION FFF ed. FFF 6 6||
+325-03||15||Pt denies F/C/V/ diaphoresis/ palpitations/ PND/ orthopnea/ diarrhea/ BRBPR/ melena/ dysuria/ hematuria/ myalgias/ arthralgias.||INDICATION FFF f/c/v/ FFF 2 2||INDICATION FFF orthopnea/ FFF 6 6||INDICATION FFF diarrhea/ FFF 7 7||INDICATION FFF arthralgias. FFF 13 13||
+325-03||16||No recent travel or sick contacts.||INDICATION FFF sick FFF 4 4||
+325-03||17||Diminished exersize tolerance 2/2 knee pain.||INDICATION FFF pain. FFF 5 5||
+325-03||18||Of note, pt has been known to be poorly compliant with her medical as well as dietary regimen.||INDICATION FFF as FFF 13 13||INDICATION FFF as FFF 15 15||
+325-03||19||Pt did say that she stopped taking her lasix close to a month ago.||DBN FFF lasix FFF 8 8||DRT FFF a month FFF 11 12||
+325-03||20||ED Course: VS: T=98.7; BP=160/78; HR= 87 ; RR=20; SaO2=91 % on RA||INDICATION FFF ed FFF 0 0||INDICATION FFF t=98.7; FFF 3 3||INDICATION FFF bp=160/78; FFF 4 4||DOSE FFF sao2=91 % FFF 9 10||INDICATION FFF ra FFF 12 12||
+325-03||21||Lopressor 5 mg IV, Lopressor 25 mg PO, Nitropaste 1 inch, ASA 325, KCL 40 mEq x 2, MgSO4 2 gm x 1, Atenolol 25 mg, Lisinopril 40 mg, Zantac, Zofran 4 mg IV||DBN FFF lopressor FFF 0 0||DOSE FFF 5 mg FFF 1 2||RUT FFF iv, FFF 3 3||DBN FFF lopressor FFF 4 4||DOSE FFF 25 mg FFF 5 6||RUT FFF po, FFF 7 7||DIN FFF asa FFF 11 11||DOSE FFF 325, FFF 12 12||DIN FFF kcl FFF 13 13||DOSE FFF 40 meq FFF 14 15||FREQ FFF x 2, FFF 16 17||DOSE FFF 2 gm FFF 19 20||FREQ FFF x 1, FFF 21 22||DIN FFF atenolol FFF 23 23||DOSE FFF 25 mg, FFF 24 25||DIN FFF lisinopril FFF 26 26||DOSE FFF 40 mg, FFF 27 28||DBN FFF zantac, FFF 29 29||DBN FFF zofran FFF 30 30||DOSE FFF 4 mg FFF 31 32||RUT FFF iv FFF 33 33||
+325-03||22||UO 1850 cc.||TOD FFF cc. FFF 2 2||
+325-03||23||Floor Course: NAD, Related the history above
+325-03||24||Review of System:
+325-03||25||See HPI
+325-03||26||Past Medical History:
+325-03||27||Diastolic Dysfunction: RVSP 43, EF 67 %, no valvular or SVMA; negative Adenosine MIBI in Nov 2078||INDICATION FFF ef FFF 4 4||DOSE FFF 67 %, FFF 5 6||DIN FFF adenosine FFF 12 12||
+325-03||28||Hypertension||INDICATION FFF hypertension FFF 0 0||
+325-03||29||Obesity||INDICATION FFF obesity FFF 0 0||
+325-03||30||Peptic ulcer disease||INDICATION FFF peptic ulcer disease FFF 0 2||
+325-03||31||Status post left knee meniscal repair
+325-03||32||Depression||INDICATION FFF depression FFF 0 0||
+325-03||33||Anemia||INDICATION FFF anemia FFF 0 0||
+325-03||34||Hypercholesterolemia.||INDICATION FFF hypercholesterolemia. FFF 0 0||
+325-03||36||Medications:
+325-03||37||Atenolol 25 mg po qd||DIN FFF atenolol FFF 0 0||DOSE FFF 25 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+325-03||38||Zestril 40 mg po qd,||DBN FFF zestril FFF 0 0||DOSE FFF 40 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd, FFF 4 4||
+325-03||39||Prozac 20 mg po qd||DBN FFF prozac FFF 0 0||DOSE FFF 20 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+325-03||40||Ibuprofen 800 mg po tid prn pain.||DIN FFF ibuprofen FFF 0 0||DOSE FFF 800 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF tid FFF 4 4||NEC FFF prn FFF 5 5||INDICATION FFF pain. FFF 6 6||
+325-03||42||Allergies: NKDA||INDICATION FFF allergies: FFF 0 0||
+325-03||44||Family History:
+325-03||45||No known family history of CAD; + diabetes in her father.||INDICATION FFF cad; FFF 5 5||INDICATION FFF diabetes FFF 7 7||
+325-03||47||Social history:  The patient works as an Railway Transport Operations Supervisor and lives with her husband.||INDICATION FFF as FFF 5 5||
+325-03||48||Tobacco:   The patient quit smoking 10 years ago, but had an 8-10||DRT FFF 10 years FFF 5 6||
+325-03||49||pack year history prior to quitting.
+325-03||50||Alcohol:  The patient drinks and with no history of alcohol withdrawal or seizures.  5-6 beers per night on weekends with her last drink many days ago||INDICATION FFF seizures. FFF 12 12||
+325-03||51||Drugs: previous use of cocaine and pot in HS||DIN FFF drugs: FFF 0 0||DIN FFF cocaine FFF 4 4||FREQ FFF hs FFF 8 8||
+325-03||52||Other: denies
+325-03||53||Physical Exam:
+325-03||54||VS: BP=122/60  HR=73  RR=18  SaO2=99 % on 2 L   Tmax= 98.2||INDICATION FFF bp=122/60 FFF 1 1||DRT FFF bp=122/60 hr=73 FFF 1 2||DOSE FFF sao2=99 % FFF 4 5||DOSE FFF 2 l FFF 7 8||
+325-03||55||General: in NAD
+325-03||56||HEENT: NCAT, PERRL, EOMI, moist mucous membranes
+325-03||57||Neck: supple, JVP flat
+325-03||58||Chest: CTA b/l
+325-03||59||Cor: Reg rhythm, nl rate, nl S1, S2, no S3, S4, murmurs or rubs||DIN FFF cor: FFF 0 0||
+325-03||60||Abdomen: soft, non-distended, non-tendered; BS present;||INDICATION FFF bs FFF 4 4||
+325-03||61||Ext: 2+ DP/PT pulses bilaterally; no pedal edema or cyanosis.||INDICATION FFF dp/pt FFF 2 2||INDICATION FFF edema FFF 7 7||INDICATION FFF cyanosis. FFF 9 9||
+325-03||62||Neuro: A&O x 3; cranial nerves II-XII intact; motor and sensory functions grossly normal; non-focal exam.||FREQ FFF x 3; FFF 2 3||
+325-03||63||Labs:
+325-03||64||Chemistry
+325-03||65||Lytes/Renal/Glucose
+325-03||66||Sodium                 135   135-145 mmol/L     02/02/79 23:57||DIN FFF sodium FFF 0 0||DOSE FFF 135 FFF 1 1||DOSE FFF 135-145 mmol/l FFF 2 3||
+325-03||67||Potassium              2.9L  3.4-4.8 mmol/L     02/02/79 23:57||DIN FFF potassium FFF 0 0||DOSE FFF 2.9l FFF 1 1||DOSE FFF 3.4-4.8 mmol/l FFF 2 3||
+325-03||68||Chloride               103   100-108 mmol/L     02/02/79 23:57||DOSE FFF 100-108 mmol/l FFF 2 3||
+325-03||69||Carbon Dioxide        28.9   23.0-31.9 mmol/L   02/02/79 23:57||DIN FFF carbon dioxide FFF 0 1||DOSE FFF 28.9 FFF 2 2||DOSE FFF 23.0-31.9 mmol/l FFF 3 4||
+325-03||70||BUN                     19   8-25 mg/dl         02/02/79 23:57||DOSE FFF 8-25 mg/dl FFF 2 3||
+325-03||71||Creatinine             0.8   0.6-1.5 mg/dl      02/02/79 23:57||INDICATION FFF creatinine FFF 0 0||DOSE FFF 0.6-1.5 mg/dl FFF 2 3||
+325-03||72||Glucose                146H  70-110 mg/dl       02/02/79 23:57||DRT FFF 146h FFF 1 1||DOSE FFF 70-110 mg/dl FFF 2 3||
+325-03||73||General Chemistries
+325-03||74||Calcium                8.8   8.5-10.5 mg/dl     02/03/79 00:34||DIN FFF calcium FFF 0 0||DOSE FFF 8.8 FFF 1 1||DOSE FFF 8.5-10.5 mg/dl FFF 2 3||
+325-03||75||Phosphorus             3.5   2.6-4.5 mg/dl      02/03/79 00:34||INDICATION FFF phosphorus FFF 0 0||DOSE FFF 2.6-4.5 mg/dl FFF 2 3||
+325-03||76||Magnesium              1.3L  1.4-2.0 meq/L      02/03/79 00:34||DIN FFF magnesium FFF 0 0||DOSE FFF 1.3l FFF 1 1||DOSE FFF 1.4-2.0 meq/l FFF 2 3||
+325-03||77||Bilirubin(Total)       0.4   0-1.0 mg/dl        02/03/79 00:34||DOSE FFF 0-1.0 mg/dl FFF 2 3||
+325-03||78||Bilirubin(Direct       0.2   0-0.4 mg/dl        02/03/79 00:34||DOSE FFF 0-0.4 mg/dl FFF 2 3||
+325-03||79||Total Protein          7.1   6.0-8.3 g/dl       02/03/79 00:34||DOSE FFF 6.0-8.3 g/dl FFF 3 4||
+325-03||80||Albumin                3.7   3.3-5.0 g/dl       02/03/79 00:34||DIN FFF albumin FFF 0 0||DOSE FFF 3.7 FFF 1 1||DOSE FFF 3.3-5.0 g/dl FFF 2 3||
+325-03||81||Globulin               3.4   2.6-4.1 g/dl       02/03/79 00:34||DOSE FFF 2.6-4.1 g/dl FFF 2 3||
+325-03||83||Liver Function Tests||INDICATION FFF liver FFF 0 0||
+325-03||84||ALT (SGPT)              17   7-30 U/L           02/03/79 00:34||DOSE FFF 7-30 u/l FFF 3 4||
+325-03||85||AST (SGOT)              17   9-32 U/L           02/03/79 00:34||DOSE FFF 9-32 u/l FFF 3 4||
+325-03||86||Alk Phos               104H  30-100 U/L         02/03/79 00:34||INDICATION FFF alk FFF 0 0||DRT FFF 104h FFF 2 2||DOSE FFF 30-100 u/l FFF 3 4||
+325-03||87||Bilirubin(Total)       0.4   0-1.0 mg/dl        02/03/79 00:34||DOSE FFF 0-1.0 mg/dl FFF 2 3||
+325-03||88||Bilirubin(Direct       0.2   0-0.4 mg/dl        02/03/79 00:34||DOSE FFF 0-0.4 mg/dl FFF 2 3||
+325-03||89||Cardiac Tests
+325-03||91||CK-MB(quant)      NEGATIVE   NEG                02/03/79 08:25
+325-03||92||Troponin-I        NEGATIVE   NEG                02/03/79 08:25
+325-03||93||Hematology
+325-03||94||Complete Blood Count
+325-03||95||WBC                    6.4   4.5-11.0 th/cmm    02/02/79 23:08
+325-03||96||RBC                   3.94L  4.00-5.20 mil/cm   02/02/79 23:08||DOSE FFF 3.94l FFF 1 1||INDICATION FFF mil/cm FFF 3 3||
+325-03||97||Hgb                   11.8L  12.0-16.0 gm/dl    02/02/79 23:08||DOSE FFF 11.8l FFF 1 1||DOSE FFF 12.0-16.0 gm/dl FFF 2 3||
+325-03||98||HCT                   33.1L  36.0-46.0 %        02/02/79 23:08||DOSE FFF 33.1l FFF 1 1||DOSE FFF 36.0-46.0 % FFF 2 3||
+325-03||99||MCV                     84   80-100 fl          02/02/79 23:08
+325-03||100||MCH                   29.9   26.0-34.0 pg/rbc   02/02/79 23:08
+325-03||101||MCHC                  35.7   31.0-37.0 g/dl     02/02/79 23:08||DOSE FFF 31.0-37.0 g/dl FFF 2 3||
+325-03||102||PLT                    242   150-350 th/cumm    02/02/79 23:08
+325-03||103||RDW                   12.9   11.5-14.5 %        02/02/79 23:08||DOSE FFF 11.5-14.5 % FFF 2 3||
+325-03||104||Blood Differential %
+325-03||105||Differential Req  RECEIVED                      02/02/79 23:05
+325-03||106||Diff Method           Auto                      02/02/79 23:08
+325-03||107||Neutrophils             68   40-70 %            02/02/79 23:08||DOSE FFF 40-70 % FFF 2 3||
+325-03||108||Lymphs                  25   22-44 %            02/02/79 23:08||DOSE FFF 22-44 % FFF 2 3||
+325-03||109||Monos                    4   4-11 %             02/02/79 23:08||DOSE FFF 4-11 % FFF 2 3||
+325-03||110||Eos                      3   0-8 %              02/02/79 23:08||DOSE FFF 0-8 % FFF 2 3||
+325-03||111||Basos                    0   0-3 %              02/02/79 23:08||DOSE FFF 0-3 % FFF 2 3||
+325-03||112||Blood Diff - Absolute
+325-03||113||Neutrophil #          4.28   1.8-7.7 th/cmm     02/02/79 23:08
+325-03||114||Lymph#                1.61   1.0-4.8 th/cmm     02/02/79 23:08
+325-03||115||Mono#                 0.27   0.2-0.4 th/cmm     02/02/79 23:08
+325-03||116||Eos#                  0.21   0.1-0.3 th/cmm     02/02/79 23:08
+325-03||117||Baso#                 0.02   0.0-0.3 th/cmm     02/02/79 23:08
+325-03||118||Anisocytosis          None   NORMAL             02/02/79 23:08
+325-03||119||Hypochromia           None   NORMAL             02/02/79 23:08
+325-03||120||Macrocytes            None                      02/02/79 23:08
+325-03||121||Microcytes            None                      02/02/79 23:08
+325-03||122||Coagulation
+325-03||123||Routine Coagulation
+325-03||124||PT                    12.2   11.1-13.1 sec      02/02/79 23:14||DIN FFF sec FFF 3 3||DOSE FFF 02/02/79 FFF 4 4||
+325-03||125||PT-INR                 1.0                      02/02/79 23:14
+325-03||126||PTT                   22.6   22.1-35.1 sec      02/02/79 23:19||INDICATION FFF ptt FFF 0 0||DIN FFF sec FFF 3 3||DOSE FFF 02/02/79 FFF 4 4||
+325-03||127||Microbiology:
+325-03||128||NA||DIN FFF na FFF 0 0||
+325-03||129||Radiology:
+325-03||130||CXRAY:
+325-03||131||Interstitial pulmonary edema, improved from the previous||INDICATION FFF pulmonary edema, FFF 1 2||
+325-03||132||examination.
+325-03||133||EKG: Resolution of the previously Nov-2078 present ST Elevations in V1-V2; LVH||INDICATION FFF st FFF 7 7||INDICATION FFF lvh FFF 11 11||
+325-03||135||Assessment/Plan:
+325-03||136||51 yo F with hx of diastolc dysfunction and recent admission with flash pul edema in the setting of elevated BP, p/w similar symptoms, i.e. acute CHF in setting of severe HTN, no troponin leak, no new ischemic EKG changes||INDICATION FFF f FFF 2 2||INDICATION FFF edema FFF 14 14||INDICATION FFF bp, FFF 20 20||INDICATION FFF symptoms, FFF 23 23||INDICATION FFF chf FFF 26 26||INDICATION FFF htn, FFF 31 31||
+325-03||137||1.CARDS
+325-03||138||-Serial EKG's
+325-03||139||-Cardiac monitor, telemetry
+325-03||140||- Serial Markers
+325-03||141||-ASA, Lopressor||DIN FFF -asa, FFF 0 0||DBN FFF lopressor FFF 1 1||
+325-03||142||-BP ctrl with ACE-I & B-blocker, aiming for SBP goal of 140's-160's for overnight  (BP had been as high as 220's)||INDICATION FFF -bp FFF 0 0||DIN FFF b-blocker, FFF 5 5||DRT FFF overnight FFF 13 13||INDICATION FFF (bp FFF 14 14||INDICATION FFF as FFF 17 17||INDICATION FFF as FFF 19 19||
+325-03||143||-Lipitor; Check fasting lipids||DBN FFF -lipitor; FFF 0 0||
+325-03||144||-Lasix as needed; Strict I/O's, qd wt's||DBN FFF -lasix FFF 0 0||NEC FFF as needed; FFF 1 2||FREQ FFF qd FFF 5 5||
+325-03||145||-No need for ECHO or Adenosine-MIBI on this admission given no new EKG changes
+325-03||147||2. HTN:||INDICATION FFF htn: FFF 1 1||
+325-03||148||- seems to be well controlled at this time
+325-03||149||- if becomes difficult to control will titrate BB up and consider affing another agent||DBN FFF bb FFF 8 8||DIN FFF agent FFF 14 14||
+325-03||150||- may need to be worked up for 2/2 cause of HTN, such as RAS||INDICATION FFF htn, FFF 11 11||INDICATION FFF as FFF 13 13||
+325-03||151||3. Hx of med noncompliance:
+325-03||152||- will need repetitive reinforcement re importance of adherence to medical regimen||DBN FFF medical regimen FFF 10 11||
+325-03||153||- will discuss potential benefit from being plugged into the CHF clinic||INDICATION FFF chf FFF 10 10||
+325-03||154||- consider nutrition consult
+325-03||156||4. Anemia||INDICATION FFF anemia FFF 1 1||
+325-03||157||-Guaiac all stools;
+325-03||158||- Resend iron studies, peripheral smear, retic count, folic acid, B12||DIN FFF folic acid, FFF 8 9||DPN FFF b12 FFF 10 10||
+325-03||159||- Consider transfusing idf HCT < 30

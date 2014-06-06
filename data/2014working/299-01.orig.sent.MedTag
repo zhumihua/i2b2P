@@ -1,0 +1,52 @@
+299-01	1	Record date: 2061-01-15	
+299-01	2	ST LUCIA EMERGENCY DEPT VISIT		INDICATION FFF st#0
+299-01	3		
+299-01	4	VUONG,XOCHILT R   515-31-23-5                  VISIT DATE: 01/15/61	
+299-01	5	PRESENTING COMPLAINT:  Bleeding.		INDICATION FFF bleeding#2
+299-01	6	HISTORY OF PRESENTING COMPLAINT:  This 71 year old female status		DRT FFF 71 year#6
+299-01	7	post cardiac cath stent placement and then later EP study states		INDICATION FFF ep#8
+299-01	8	that she was doing well until last night when she started to ooze  from the groin site.		DRT FFF until#5
+299-01	9	She did not apply any pressure.		INDICATION FFF pressure#5
+299-01	10	She states  that she was bleeding through the night, did not want to bother her  brother, called Dr.		INDICATION FFF bleeding#5
+299-01	11	Aponte today who told her to come in.	
+299-01	12	She  states that she did not know where the site was.	
+299-01	13	She could not see  it and she did not apply pressure.		INDICATION FFF pressure#10
+299-01	14	She has no chest pain, no  shortness of breath.		INDICATION FFF chest pain#4	INDICATION FFF shortness of breath .#8
+299-01	15	She is not dizzy.	
+299-01	16	She is on Lovenox and		DBN FFF lovenox#3
+299-01	17	Coumadin both.		DBN FFF coumadin#0
+299-01	18	She has not had her PT checked.	
+299-01	19	The rest of the  systems were reviewed and are negative.	
+299-01	20	PAST MEDICAL HISTORY:  Depression, cardiac cath, hypothyroidism.		INDICATION FFF depression#3	INDICATION FFF hypothyroidism .#6
+299-01	21	MEDICATIONS:  Taken from the chart.	
+299-01	22	ALLERGIES:  Taken from the chart.		INDICATION FFF allergies#0
+299-01	23	SOCIAL HISTORY:  She lives with her brother.	
+299-01	24	PHYSICAL EXAMINATION:  Her heart rate was 81, her temperature is		INDICATION FFF her heart rate#4	INDICATION FFF temperature#8
+299-01	25	96.5 degrees, blood pressure is 123/64.		INDICATION FFF blood pressure#3
+299-01	26	This is a well-developed  female, alert, oriented.	
+299-01	27	HEENT exam is atraumatic, normocephalic.	
+299-01	28	Neck is soft and supple.	
+299-01	29	Mouth and throat are normal.		RUT FFF mouth#0
+299-01	30	Well-hydrated moist mucosa.	
+299-01	31	Conjunctiva are clear.	
+299-01	32	Sclerae are  non-icteric.	
+299-01	33	There is no jugular venous distention.	
+299-01	34	Heart had a  regular rate and rhythm.	
+299-01	35	The lungs were clear to auscultation  bilaterally.	
+299-01	36	The abdomen was soft, nontender.	
+299-01	37	No guarding.	
+299-01	38	No  hepatosplenomegaly.	
+299-01	39	There is a hematoma at the right groin.	
+299-01	40	The  cath site was about 1 cm and closed but there was some small oozing  from the site.		INDICATION FFF cm#6
+299-01	41	It stopped with pressure.		INDICATION FFF pressure#3
+299-01	42	The patient was covered  in blood and blood clots.		INDICATION FFF blood clots#8
+299-01	43	The old dressing was removed.	
+299-01	44	All the  dried blood and blood clots were removed.		INDICATION FFF blood clots#6
+299-01	45	The patient was cleaned  up by myself.	
+299-01	46	Then, the nurses put her in the hospital gown.	
+299-01	47	LABORATORY EVALUATION:  PT, PTT, CBC were obtained.		INDICATION FFF ptt#3
+299-01	48	THERAPY RENDERED/COURSE IN ED:  After speaking with the patient at  length, it seems that she lives with her older brother.		INDICATION FFF ed#3
+299-01	49	She is  caring for him and is a bit overwhelmed with this.	
+299-01	50	Obviously, her  medical knowledge base is not adequately prepared to deal with this  problem.	
+299-01	51	She will be admitted to the Observation Area through the  day for nurse training.	
+299-01	52	Social Services will be consulted to  arrange for a home visiting nurse.	

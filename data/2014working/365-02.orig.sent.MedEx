@@ -1,0 +1,63 @@
+365-02	1	Record date: 2071-04-11		 
+365-02	2	Burn Surgery Admission H&P   Date/Time: 4/11/71, 9am		 
+365-02	3	****************************************************		 
+365-02	4	Name: Rivers, Karsten		 
+365-02	5	MRN# 95718084		 
+365-02	6	Resident: Gillis		 
+365-02	7	Attending: Michael		 
+365-02	8	****************************************************		 
+365-02	9	CC: burn to R foot		 
+365-02	10	HPI:		 
+365-02	11	44yo diabetic M with peripheral neuropathy, fell asleep in front of space heater approximately 3 weeks ago and noted swelling/blisters at tips of R 1st-3rd toes upon waking.		 
+365-02	12	His wounds have been managed until this time by his podiatrist and his mother (a former doctor) has been doing dressing changes at home- initially with silvadene but over the past several days with ?betadine as directed by his podiatrist.		DBN FFF silvadene#26	DRT FFF several days#32
+365-02	12	His wounds have been managed until this time by his podiatrist and his mother (a former doctor) has been doing dressing changes at home- initially with silvadene but over the past several days with ?betadine as directed by his podiatrist.		DBN FFF betadine#34	INDICATION FFF as#35
+365-02	13	The pt is a floor covering installer, and has been bearing weight on the R foot since his injury and admits that he has not been compliant wearing a heel boot.		 
+365-02	14	He has not had fever/chills, nausea/emesis and in general feels well.		 
+365-02	15	He has not had pain in the foot, but does have a significant neuropathy.		 
+365-02	16	His podiatrist recommended that he be evaluated by plastic/burn surgery and he presents to burn clinic for further evaluation. --		 
+365-02	17	PMHx:		 
+365-02	18	NIDDM		 
+365-02	19	HTN		 
+365-02	20	dyslipidemia		 
+365-02	21	PSHx:		 
+365-02	22	R shoulder		 
+365-02	23	L hip		 
+365-02	24	umbilical hernia		 
+365-02	25	Meds:		 
+365-02	26	toprol xl 100 qd		DPN FFF toprol xl#1	FREQ FFF qd#3
+365-02	27	glucophage 1000 bid		DBN FFF glucophage#0	DOSE FFF 1000#1	FREQ FFF bid#2
+365-02	28	neurontin 400 bid		DBN FFF neurontin#0	DOSE FFF 400#1	FREQ FFF bid#2
+365-02	29	minoxidil 10 qd		DIN FFF minoxidil#0	DOSE FFF 10#1	FREQ FFF qd#2
+365-02	30	lipitor 20 qd		DBN FFF lipitor#0	DOSE FFF 20#1	FREQ FFF qd#2
+365-02	31	lasix 20 qd		DBN FFF lasix#0	DOSE FFF 20#1	FREQ FFF qd#2
+365-02	32	avalide 300/12.5 qd		DIN FFF avalide 300/12 . 5#1	FREQ FFF qd#2
+365-02	33	ASA 81 qd		DIN FFF asa#0	DOSE FFF 81#1	FREQ FFF qd#2
+365-02	34	cipro 500 bid		DBN FFF cipro#0	DOSE FFF 500#1	FREQ FFF bid#2
+365-02	35	All: Augmentin- rash		DBN FFF augmentin#1
+365-02	36	SHx:		 
+365-02	37	smoker		 
+365-02	38	--		 
+365-02	39	PE:		 
+365-02	40	General: AOx3, NAD		 
+365-02	41	Chest: CTA B		 
+365-02	42	Heart: RRR		 
+365-02	43	Abdomen: obese, NT/ND		 
+365-02	44	Extremities: wwp, +3rd degree burns with areas of grey eschar at tips of 1st-3rd toes on R extending to plantar surfaces; some areas of pink granulating tissue.  + surrounding erythema- does not extend beyond toes onto foot, most significant on 3rd toe.  +wound on lat surface of 4th toe (site of recent corn removal per pt)- clean with no erythema/drainage		 
+365-02	45	Pulses: dp/pt 2+ bilaterally		 
+365-02	46	--		 
+365-02	47	Labs:		 
+365-02	48	pending		 
+365-02	49	EKG: pending		 
+365-02	50	--		 
+365-02	51	Imaging:		 
+365-02	52	CXR: pending		 
+365-02	53	--		 
+365-02	54	Assessment:		 
+365-02	55	44yo M with 3rd degree burn to R 1st/2nd/3rd toes and superimposed cellulitis.		 
+365-02	56	--		 
+365-02	57	Plan:		 
+365-02	58	Admit to Michael/burn service		 
+365-02	59	triple abx, leg elevation at all times, NWB RLE		DPN FFF abx#1
+365-02	60	dressing changes with silvadine/gauze bid		 
+365-02	61	OR for debridement/possible grafting when celluliltis improves; f/u labs, UA, CXR, EKG		 
+365-02	62	--		 

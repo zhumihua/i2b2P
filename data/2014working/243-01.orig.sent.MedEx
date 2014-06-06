@@ -1,0 +1,42 @@
+243-01	1	Record date: 2076-08-10		 
+243-01	2	BARROW MEDICAL CENTER		 
+243-01	3	Johnsonville Family Clinic		 
+243-01	4	4897 Governors Lane		 
+243-01	5	Oroville, AL  89389		 
+243-01	6	Osborne, Mattison		 
+243-01	7	48423663		 
+243-01	8	08/10/76		 
+243-01	9	This patient is seen here in follow-up of the following medical		 
+243-01	10	problems:		 
+243-01	11	PROBLEMS:		 
+243-01	12	1. Coronary artery disease status post coronary artery bypass		 
+243-01	13	(saphenous vein) in 2072.		 
+243-01	14	2. Pulmonary embolus 2074.		 
+243-01	15	3. Idiopathic hypertension.		 
+243-01	16	SUBJECTIVE:  He is entirely asymptomatic.		 
+243-01	17	He has no complaint.		 
+243-01	18	REVIEW OF SYSTEMS:  Negative.		 
+243-01	19	There is no chest pain, shortness  of breath, cough, peripheral edema, orthopnea or PND.		 
+243-01	20	All the  other review of systems is negative as well.		 
+243-01	21	MEDICATIONS:  He continues on lisinopril 10 mg q.d.,		DIN FFF lisinopril#4	DOSE FFF 10mg#6	FREQ FFF q.d .#7
+243-01	22	hydrochlorothiazide 25 mg q.d., atenolol 50 mg q.d., and Plavix		DIN FFF hydrochlorothiazide#0	DOSE FFF 25mg#2	FREQ FFF q.d .#3
+243-01	22	hydrochlorothiazide 25 mg q.d., atenolol 50 mg q.d., and Plavix		DIN FFF atenolol#4	DOSE FFF 50mg#6	FREQ FFF q.d .#7
+243-01	22	hydrochlorothiazide 25 mg q.d., atenolol 50 mg q.d., and Plavix		DBN FFF plavix#9
+243-01	23	75 mg q.d.		 
+243-01	24	OBJECTIVE:  On examination today, the patient appears well.		 
+243-01	25	He  is cheerful and feisty.		 
+243-01	26	Blood pressure 138/80 in the left arm,  sitting.		 
+243-01	27	Weight 175 pounds.		 
+243-01	28	Apical pulse rate 80.		 
+243-01	29	Cardiac  rhythm is regular without murmur, gallop, rub or click.		 
+243-01	30	Breath  sounds are clear to percussion and auscultation.		 
+243-01	31	No jugular  venous distension.		 
+243-01	32	No peripheral edema.		 
+243-01	33	ASSESSMENT:		 
+243-01	34	1. New York Heart Association functional class-I ISHD, status		 
+243-01	35	post CABG.		 
+243-01	36	2. Well-controlled hypertension.		 
+243-01	37	PLAN:		 
+243-01	38	1. Current regimen.		 
+243-01	39	2. Please note that Lipitor was added to his regimen at his last		DBN FFF lipitor#4
+243-01	40	visit for hypercholesterolemia.		 

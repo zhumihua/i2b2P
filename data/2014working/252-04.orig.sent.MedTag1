@@ -1,0 +1,74 @@
+252-04||1||Record date: 2071-07-20
+252-04||2||EDVISIT^15842112^Joshi, Kathy^07/20/71^KATZ, LAURA
+252-04||3||This patient was seen, interviewed, and examined by myself
+252-04||4||primarily.
+252-04||5||HISTORY OF PRESENT ILLNESS:  This is a 65-year-old female who
+252-04||6||presents with body swelling and shortness of breath.||INDICATION FFF swelling FFF 3 3||INDICATION FFF shortness of breath. FFF 5 7||
+252-04||7||The patient is unable to say when she specifically noted her lower extremity swelling.||INDICATION FFF swelling. FFF 13 13||
+252-04||8||She states that approximately 1 year prior to arrival she had to throw out all of her shoes except for 2 pairs because all those shoes had become tight.||DRT FFF 1 year FFF 4 5||
+252-04||9||At the present time, the patient is only able to wear sandals and apparently her co-workers noted her to be significantly swollen and suggested that she see a physician.
+252-04||10||The patient states that there was no acute change in her swelling today.||INDICATION FFF change FFF 8 8||INDICATION FFF swelling FFF 11 11||
+252-04||11||She states that she has had a cough for 1 month.||INDICATION FFF a cough FFF 6 7||DRT FFF 1 month. FFF 9 10||
+252-04||12||Again, there was no acute change.||INDICATION FFF change. FFF 5 5||
+252-04||13||Today, she denies any chest pain at any time.||INDICATION FFF chest pain FFF 4 5||
+252-04||14||She does complain of dyspnea and specifically dyspnea on exertion, no PND, no orthopnea, and no change in her overall energy level.||INDICATION FFF dyspnea FFF 4 4||INDICATION FFF dyspnea FFF 7 7||INDICATION FFF orthopnea, FFF 13 13||INDICATION FFF change FFF 16 16||
+252-04||15||PAST MEDICAL HISTORY:  MI, atrial fibrillation, and diabetes||INDICATION FFF mi, FFF 3 3||INDICATION FFF atrial fibrillation, FFF 4 5||INDICATION FFF diabetes FFF 7 7||
+252-04||16||mellitus.
+252-04||17||MEDICATIONS:  Coumadin, aspirin, insulin, Lasix, and Avapro.||DBN FFF coumadin, FFF 1 1||DIN FFF aspirin, FFF 2 2||DIN FFF insulin, FFF 3 3||DBN FFF lasix, FFF 4 4||DBN FFF avapro. FFF 6 6||
+252-04||18||Otherwise as per the written note.||INDICATION FFF as FFF 1 1||
+252-04||19||ALLERGIES:  No known drug allergies.||INDICATION FFF allergies: FFF 0 0||INDICATION FFF drug allergies. FFF 3 4||
+252-04||20||SOCIAL HISTORY:  Significant for no tobacco use, no alcohol use.||INDICATION FFF alcohol use. FFF 8 9||
+252-04||21||The patient works as an animal trainer.||INDICATION FFF as FFF 3 3||
+252-04||22||She lives with family.
+252-04||23||FAMILY HISTORY:  Noncontributory.
+252-04||24||REVIEW OF SYSTEMS:  She denies fevers or chills, chest pain or||INDICATION FFF fevers FFF 5 5||INDICATION FFF chest pain FFF 8 9||
+252-04||25||palpitations, abdominal pain, or dark stools.||INDICATION FFF abdominal pain, FFF 1 2||
+252-04||26||PHYSICAL EXAMINATION:  This is a well-developed, well-nourished
+252-04||27||female, edematous.||INDICATION FFF edematous. FFF 1 1||
+252-04||28||Temperature 100.9, pulse 97, respiratory rate of 22, blood pressure is 178/64, and oxygen saturation is 89% on room air and 94% on 2 L nasal cannula.||INDICATION FFF temperature FFF 0 0||INDICATION FFF blood pressure FFF 8 9||DOSE FFF 89% FFF 16 16||DOSE FFF 94% FFF 21 21||DOSE FFF 2 l FFF 23 24||RUT FFF nasal FFF 25 25||
+252-04||29||HEENT is normocephalic and atraumatic.
+252-04||30||Moist mucous membranes.
+252-04||31||Extraocular motions are intact.
+252-04||32||Sclerae are anicteric.
+252-04||33||Neck is supple.
+252-04||34||Full range of motion.
+252-04||35||JVD is difficult to assess due to the patient's body habitus.
+252-04||36||Lungs:  Positive crackles in the lower 1/4 of the lung field bilaterally.
+252-04||37||There is no dullness to percussion.
+252-04||38||Cardiac:
+252-04||39||Irregularly regular, not tachycardic, no murmur is auscultated.
+252-04||40||Rectal:  Heme-negative stool.
+252-04||41||Abdomen:  Positive bowel sounds, soft, distended, no fluid wave, no hepatomegaly is palpated but palpation is somewhat limited by the patient's body habitus.
+252-04||42||Skin is warm, dry, and intact.
+252-04||43||There are various ecchymotic lesions on the extremities.
+252-04||44||Extremities:  2+ edema of the bilateral lower extremities in the mid thighs.||INDICATION FFF edema FFF 2 2||
+252-04||45||Neurologic:
+252-04||46||Alert and oriented x3.||FREQ FFF x3. FFF 3 3||
+252-04||47||Follows all commands appropriate.
+252-04||48||Short and long-term memories are intact.||DRT FFF long-term FFF 2 2||
+252-04||49||LABORATORY DATA:  Significant for a chest x-ray which has a
+252-04||50||right-sided pleural effusion and increased pulmonary vasculature||INDICATION FFF pleural effusion FFF 1 2||
+252-04||51||as well as stable cardiomegaly.||INDICATION FFF as FFF 0 0||INDICATION FFF as FFF 2 2||
+252-04||52||Glucose of 223, BUN of 31, a creatinine of 1.2, bicarbonate of 24, CK of 87, BNP of 2570, MB of 0.9, and troponin which is less than assay.||INDICATION FFF creatinine FFF 7 7||
+252-04||53||White count of 5.1, hematocrit of 34.2, and platelets of 124,000.||INDICATION FFF hematocrit FFF 4 4||
+252-04||54||INR of 4.6.||INDICATION FFF inr FFF 0 0||
+252-04||55||EMERGENCY DEPARTMENT COURSE:  The patient was seen, interviewed,
+252-04||56||and examined in the Emergency Department with labs and studies
+252-04||57||obtained as documented above.||INDICATION FFF as FFF 1 1||
+252-04||58||Her past medical records were reviewed.
+252-04||59||The patient is in congestive heart failure.||INDICATION FFF congestive heart failure. FFF 4 6||
+252-04||60||She received Lasix and lisinopril as well as aspirin while in the||DBN FFF lasix FFF 2 2||DIN FFF lisinopril FFF 4 4||INDICATION FFF as FFF 5 5||INDICATION FFF as FFF 7 7||DIN FFF aspirin FFF 8 8||DRT FFF while FFF 9 9||
+252-04||61||Emergency Department and she has been diuresing appropriately
+252-04||62||after receiving the Lasix.||DBN FFF lasix. FFF 3 3||
+252-04||63||She has been supplemented with oxygen by nasal cannula.||RUT FFF nasal FFF 7 7||
+252-04||64||The source of her fever is not clear.||INDICATION FFF fever FFF 4 4||
+252-04||65||She will need to have a repeat chest x-ray as her pulmonary edema  ******** Not reviewed by Attending Physician ******** evidence of cellulitis.||INDICATION FFF as FFF 9 9||INDICATION FFF pulmonary edema FFF 11 12||INDICATION FFF cellulitis. FFF 22 22||
+252-04||66||UA is pending.||INDICATION FFF ua FFF 0 0||
+252-04||67||The patient also needs serial cardiac enzymes and an echocardiogram but this will be handled by the inpatient department.  I did speak with the patient's cardiologist and she will be admitted to the Cardiology Service.
+252-04||68||DIAGNOSIS:  Congestive heart failure.||INDICATION FFF congestive heart failure. FFF 1 3||
+252-04||69||DISPOSITION:  The patient is admitted in satisfactory condition.
+252-04||70||______________________________
+252-04||71||KATZ, LAURA M.D.
+252-04||72||D: 07/20/71
+252-04||73||T: 07/20/71||INDICATION FFF t: FFF 0 0||
+252-04||74||Dictated By: KATZ, LAURA

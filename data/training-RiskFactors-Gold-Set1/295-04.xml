@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2081-03-08
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+ 
+
+
+Vascular Surgery
+
+History and Physical
+
+________________________________________________________________________
+
+
+Attending: Godfrey, Kelley
+Fellow: Godfrey, Stanley
+Junior: Orosco, Vincent I.
+  
+Patient: Vieira, Nathan B.
+MRN: 0666729
+Date: 3/8/2081
+
+
+HPI: This is a 74 y.o. M with h.o CAD and PVD s/p bilateral lower extremity bypass grafting procedures complicated by a thrombus in the L side of the iliac portion of the graft for which he has been on coumadin. In anticipation for a follow-up cardiac catheterization (recent episodes of shortness of breath), his coumadin was held since Thursday (3/6/2081). Then on 3/7/2081, he was noted by medical staff to have a slightly cool L lower extremity. The patient states that it has felt this way with some intermittent pain at rest for the last several weeks. He complained of both numbness and pain, and he was started on a heparin drip when his INR fell to less than 2.0. Dr. Atwood who did his initial operation was contacted and he was arranged for transfer to RCH. He arrives today (3/8/2081) on a heparin drip.
+
+
+
+PHMx: 
+
+
+DM (insulin-dependent)
+CAD (recent echo showed EF 55-60% but inferior wall infarct in 9/2080; stress test in 11/2080 showed no reversible ischemia)
+PVD
+Bladder atony
+Psoriasis
+HTN
+HL
+
+
+PSHx: 
+
+
+R femoral to below-knee popliteal bypass graft with 6-mm PTFE ring (2/2078)
+L femoral below-knee popliteal bypass graft with 6-mm PTFE (4/2078)
+Open thrombectomy femoral-popliteal bypass graft (12/2078)
+Left femoral artery cutdown, graft thrombectomy, patch angioplasty of common femoral artery, patch angioplasty of proximal bypass graft, angiogram of left lower extremity, balloon angioplasty of posterior tibial artery, balloon angioplasty of peroneal artery, balloon angioplasty of tibioperoneal artery with placement of balloon expandable stent (5/2080)
+Popliteal exploration with graft thrombectomy. stent placement for stenosis of proximal graft (5/2080)
+Incision and drainage and VAC dressing to left lower extremity wound x 2 (7/2080)
+
+
+Medications:
+
+Lasix 40 IV BID
+Coumadin 3 mg QD
+Enalapril 5 mg BID
+Coreg 3.125 BID
+ASA 81 QD
+Lipitor 20 QD
+Glyburide 10 BID
+Zocor 40 QHS
+Lantus insulin 30 U QHS and sliding scale
+MVI
+Clonazepam PRN
+Tylenol PRN
+Colace 100 BID PRN
+Soriatane CK 250 mg TID (for psoriasis)
+Bactroban ointment to LLE
+
+
+Allergies: Adhesive tape
+
+
+Family Hx: Noncontributory
+
+
+Social Hx: Lives at home.
+
+
+ROS: As per HPI.
+
+
+Physical Exam:
+
+Vitals:             T 99.4, HR 87, BP 117/59, RR 18, 100% on RA
+GEN:              Well-appearing in NAD, A&amp;Ox3
+HEENT:         NC/AT, PERRL, EOMI, no jaundice
+CV:                 RRR, no M/R/G
+PULM:           CTAB
+ABD:              Soft, NT/ND, +BS
+EXT:              L foot slightly cooler than R foot, well-healed medial knee incision on LLE, no open wounds
+NEURO:        Non-focal, moving all extremities
+PULSES:       Carotids 2+, no bruits
+                        Radials 2+
+                        Femorals 2+
+                        Politeals NP
+                        PTs NP
+                        DPs NP
+                                                                                    
+Laboratory Studies: Pending
+
+
+Imaging: CXR pending
+
+
+EKG: Pending
+
+
+Impression: 74 y.o. M with HTN, PVD, HL, DM who presents several days after stopping coumadin for a planned cardiac catheterization with cold, pulseless LLE consistent with acute on chronic thrombosis of L femoral to below-the-knee bypass graft.
+
+
+
+Plan:
+
+
+Routine admission labs
+Continue heparin gtt (PTT goal 60-80)
+F/U INR/creatinine
+Mucomyst
+Gentle fluids
+CTA angiogram with distal runoff of B/L lower extremities
+
+
+
+
+
+
+______________________________
+Vincent I. Orosco, M.D.  
+PGY2 General Surgery
+Pager #46717
+
+
+Case discussed with Stanley Godfrey, M.D., vascular fellow.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC9" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC20" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC25" time="before DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC6" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC12" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC14" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC18" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC22" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC24" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC26" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC28" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC29" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC30" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC13" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC27" time="before DCT" indicator="mention"/>
+    <CAD id="DOC16" time="after DCT" indicator="mention"/>
+    <CAD id="DOC21" time="during DCT" indicator="mention"/>
+    <CAD id="DOC31" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC19" indicator="not present"/>
+    <SMOKER id="DOC15" status="unknown"/>
+    <DIABETES id="DOC4" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC23" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

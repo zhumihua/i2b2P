@@ -1,0 +1,78 @@
+284-04	1	Record date: 2072-12-04	
+284-04	2	HPI: 81 y.o.w. with multiple medical problems including DM, HTN, CAD, CHF, PE, depresion here for follow up accompanied by her great great niece who provides part of the hx missed few appointments - last time seen 8 months ago   says doing well  does not walk much - does not go out of the house at all - at home walks with walker occ legs, ankles,back pain same as before takes  ibuprofen prn less only 1-2 day her breathing is o.k. occ has CP with exertion as always no change		INDICATION FFF dm#8	INDICATION FFF htn#9	INDICATION FFF cad#10	INDICATION FFF chf#11	INDICATION FFF pe#12	DRT FFF 8 months#38	INDICATION FFF back pain#66	INDICATION FFF as#68	DIN FFF ibuprofen#71	NEC FFF prn#72	DRT FFF 1-2 day#76	INDICATION FFF cp#83	INDICATION FFF as#86	INDICATION FFF change#89
+284-04	3	BM normal oc constipation , no more diarrhea, no abdominal discomfort does not check her FS - VN does says it is fine denies depression, niece does not coment on any new events - hallucinations screaming has diaper does not c/o dysuria, polyuria no headache, rash F/C other ros neg		INDICATION FFF bm#0	INDICATION FFF constipation#3	INDICATION FFF diarrhea#7	INDICATION FFF depression#24	INDICATION FFF c / o#40	INDICATION FFF polyuria#42	INDICATION FFF headache#44	INDICATION FFF f#46
+284-04	4	PMH: Hypertension		INDICATION FFF hypertension#1
+284-04	5	Osteoarthritis		INDICATION FFF osteoarthritis#0
+284-04	6	Dizziness		INDICATION FFF dizziness#0
+284-04	7	amputation : 3rd left toe	
+284-04	8	Depression : with psychotic features		INDICATION FFF depression#0	INDICATION FFF psychotic#3
+284-04	9	Lumbar disc disease : s/p discectomy	
+284-04	10	Cholecystectomy : s/p open procedure	
+284-04	11	H/O Atrial fibrillation : vs. atrial tachycardia -- s/p cardioversion 2/68		INDICATION FFF atrial fibrillation#2
+284-04	12	Diabetes mellitus : type 2		INDICATION FFF diabetes mellitus :#2
+284-04	13	Pulmonary embolism : bilateral; tx'd at Buzan County Clinic		INDICATION FFF pulmonary embolism#1
+284-04	14	Myocardial infarction : NQWMI with inferolateral/apical depressions 5/31/69 - 6/04/69 at Buzan County Clinic; no cath or f/u ETT done there as pt requested conservative management		INDICATION FFF myocardial infarction#1	INDICATION FFF f#17	INDICATION FFF as#21
+284-04	15	Pulmonary hypertension : echo 05/70		INDICATION FFF pulmonary hypertension#1
+284-04	16	MMSE 26/29 (could not spell otherwise got everything else) 01/72	
+284-04	17	SH: lives alone - niece lives down stairs		INDICATION FFF sh#0
+284-04	18	has Ursula Toth from Gladwin VNA	
+284-04	19	smoking no	
+284-04	20	ETOH no	
+284-04	21	Med:	
+284-04	22	Hydrocortisone 1% -TOPICAL CREAM TOP BID		DIN FFF hydrocortisone#0	DOSE FFF 1%#1	RUT FFF top#4	FREQ FFF bid#5
+284-04	23	Naproxen 375 MG (375MG TABLET take 1) PO BID x 30 days		DIN FFF naproxen#0	DOSE FFF 375mg#2	DOSE FFF 375mg#3	RUT FFF po#7	FREQ FFF bid#8	DRT FFF 30 days#11
+284-04	24	Ritalin (METHYLPHENIDATE HCL) 5MG TABLET take 1 Tablet(s) PO QD x 30 days		DBN FFF ritalin#0	DOSE FFF 5mg#3	DOSEAMT FFF 1 tablet#7	RUT FFF po#8	FREQ FFF qd#9	DRT FFF 30 days#12
+284-04	25	Asa (CHILDRENS) (ACETYLSALICYLIC ACID (C... 81MG TABLET take 1 Tablet(s) PO QD		DIN FFF asa#0	DOSE FFF 81mg#5	DOSEAMT FFF 1 tablet#9	RUT FFF po#10	FREQ FFF qd#11
+284-04	26	Amiodarone 200MG TABLET take 1 Tablet(s) PO QD		DIN FFF amiodarone#0	DOSE FFF 200mg#1	DOSEAMT FFF 1 tablet#5	RUT FFF po#6	FREQ FFF qd#7
+284-04	27	Lasix (FUROSEMIDE) 80 MG (40MG TABLET take 2) PO QD		DBN FFF lasix#0	DOSE FFF 80mg#3	DOSE FFF 40mg#4	RUT FFF po#8	FREQ FFF qd#9
+284-04	28	Zestril (LISINOPRIL) 30MG TABLET PO QD		DBN FFF zestril#0	DOSE FFF 30mg#2	RUT FFF po#4	FREQ FFF qd#5
+284-04	29	Celexa (CITALOPRAM) 40MG TABLET take 1.5 Tablet(s) PO QD , PA#128310		DBN FFF celexa#0	DOSE FFF 40mg#2	DOSEAMT FFF 1.5 tablet#6	RUT FFF po#7	FREQ FFF qd#8	INDICATION FFF pa#10
+284-04	30	Protonix (PANTOPRAZOLE) 40MG TABLET EC take 1 Tablet(s) PO QD PRN		DBN FFF protonix#0	DOSE FFF 40mg#2	DIN FFF ec#4	DOSEAMT FFF 1 tablet#7	RUT FFF po#8	FREQ FFF qd#9	NEC FFF prn#10
+284-04	31	Mvi (MULTIVITAMINS) 1 CAPSULE PO QD		DPN FFF mvi#0	DOSEAMT FFF 1 capsule#3	RUT FFF po#4	FREQ FFF qd#5
+284-04	32	Atenolol 25MG TABLET take 1 Tablet(s) PO QD		DIN FFF atenolol#0	DOSE FFF 25mg#1	DOSEAMT FFF 1 tablet#5	RUT FFF po#6	FREQ FFF qd#7
+284-04	33	Tylenol (ACETAMINOPHEN) 500MG TABLET take 2 Tablet(s) PO TID PRN arthritis pain		DBN FFF tylenol#0	DOSE FFF 500mg#2	DOSEAMT FFF 2 tablet#6	RUT FFF po#7	FREQ FFF tid#8	NEC FFF prn#9	DBN FFF arthritis pain#11
+284-04	34	Colace (DOCUSATE SODIUM) 100MG TABLET take 1 Tablet(s) PO TID PRN constip , please mail to pt		DBN FFF colace#0	DOSE FFF 100mg#3	DOSEAMT FFF 1 tablet#7	RUT FFF po#8	FREQ FFF tid#9	NEC FFF prn#10
+284-04	35	Ibuprofen 600MG TABLET take 1 Tablet(s) PO Q8H PRN pain , to be taken with food		DIN FFF ibuprofen#0	DOSE FFF 600mg#1	DOSEAMT FFF 1 tablet#5	RUT FFF po#6	FREQ FFF q8h#7	NEC FFF prn#8	INDICATION FFF pain#9
+284-04	36	Vitamin B12 (CYANOCOBALAMIN) 1000MCG TABLET take 1 Tablet(s) PO QD		DIN FFF vitamin b12#1	DOSE FFF 1000mcg#3	DOSEAMT FFF 1 tablet#7	RUT FFF po#8	FREQ FFF qd#9
+284-04	37	Synthroid (LEVOTHYROXINE SODIUM) 50 MCG (50MCG TABLET take 1) PO QD x 30 days		DBN FFF synthroid#0	DOSE FFF 50mcg#4	DOSE FFF 50mcg#5	RUT FFF po#9	FREQ FFF qd#10	DRT FFF 30 days#13
+284-04	38	Glucophage (METFORMIN) 500MG TABLET take 2 Tablet(s) PO BID , take 2 tabs bid, and 1 tab		DBN FFF glucophage#0	DOSE FFF 500mg#2	DOSEAMT FFF 2 tablet#6	RUT FFF po#7	FREQ FFF bid#8	DOSEAMT FFF 2 tabs#12	FREQ FFF bid#13	DOSEAMT FFF 1 tab#16
+284-04	39	All:Haloperidol Lactate - Unknown		DIN FFF lactate#1
+284-04	40	FH:		INDICATION FFF fh#0
+284-04	41	no hx of CAD, HTN, DM, CVA, no hx of colon, breast, prostate ca		INDICATION FFF cad#3	INDICATION FFF htn#4	INDICATION FFF dm#5	INDICATION FFF cva#6	INDICATION FFF colon#10	INDICATION FFF prostate#12	INDICATION FFF ca#13
+284-04	42	BP 120/80 was 130/80 was  105/70 was 115/70		INDICATION FFF bp#0
+284-04	43	Weight:  did not want to go on the scale today  168   [Pounds] was 170		INDICATION FFF weight#0
+284-04	44	General: pleasant, communicative, looks stated age, has hair piece and make up, overweight in NAD hard of hearing exam preformed in chair - as usual she said she could not get up to exam table however at the end of visit was able to get up herself (minimal help from niece) and walks well with her walker		INDICATION FFF as#23
+284-04	45	HEENT: normocephalic and atraumatic, PERRLA, EOMI, no icterus, nose wnl, lips no cyanosis or pallor, dentures		INDICATION FFF cyanosis#12
+284-04	46	Neck: supple, full ROM, no lymphadenopathy, thyroid gland normal	
+284-04	47	Lungs: clear to auscultation, no wheezes, rales or ronchi		INDICATION FFF wheezes#5
+284-04	48	Heart: normal S1 S2, RRR, no m/r/g		DIN FFF m / r#6
+284-04	49	Abdomen: obese BS+, soft, nontender, nondistended		INDICATION FFF obese#1	INDICATION FFF bs#2
+284-04	50	Ext: no clubbing, cyanosis or edema		INDICATION FFF cyanosis#3	INDICATION FFF edema#5
+284-04	51	Mood; appears in good spirits	
+284-04	52	FS 161	
+284-04	53	Labs: reviewed	
+284-04	54	A/P 81 y.o.w.with multiple medical problems including  CAD, CHF, djd, DM, htn, depression, anemia, hypothyroid  here for follow up		INDICATION FFF cad#7	INDICATION FFF chf#8	INDICATION FFF djd#9	INDICATION FFF dm#10	INDICATION FFF htn#11	INDICATION FFF depression#12	INDICATION FFF anemia#13	INDICATION FFF hypothyroid#14
+284-04	55	1. cvs seems stable BP  normal check BMP (Lasix dose was recently adjusted as well as her lisinopril		INDICATION FFF bp#4	INDICATION FFF as#13	INDICATION FFF as#15	DIN FFF lisinopril#17
+284-04	56	2. DM will check  HbA1c , mircroalbumin		INDICATION FFF dm#1
+284-04	57	3. depression better continue celexa and ritaline		INDICATION FFF depression#1	DBN FFF celexa#4	DIN FFF ritaline#6
+284-04	58	4. hypothyroid check TSH		INDICATION FFF hypothyroid#1
+284-04	59	5. anemia on B12 suppl will check cbc and anemia studies		INDICATION FFF anemia#1	INDICATION FFF anemia#9
+284-04	60	6. DJD better takien only 1-2 ibuproens a day (I tried to get her to take tylenol however she always said it did nto help) also on protonix for GI protection and her GERD that seems stable		INDICATION FFF djd#1	DRT FFF a day#8	DBN FFF tylenol#16	DBN FFF protonix#27	INDICATION FFF gerd#33
+284-04	61	7. HM check fasting lipid panel (last one in 2070 o.k. but pt has CAD) influenza vaccine given follow up in 4-6 months or earlier prn (pt has weekly visit with VN who monitors her and is in touch with me )		INDICATION FFF cad#14	DIN FFF influenza vaccine#16	DRT FFF 4-6 months#22	NEC FFF prn#25	FREQ FFF weekly#28	INDICATION FFF me#40
+284-04	62	______________________________	
+284-04	63	Opal Carrie-Guerrero, M.D.	
+284-04	64		
+284-04	65		
+284-04	66		
+284-04	67		
+284-04	68		
+284-04	69		
+284-04	70		
+284-04	71		
+284-04	72		
+284-04	73		
+284-04	74		
+284-04	75		
+284-04	76		
+284-04	77		
+284-04	78		

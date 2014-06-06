@@ -1,0 +1,12 @@
+368-01	6	438	Prilosec (OMEPRAZOLE) 20MG, 1 Capsule(s) PO BID	Prilosec (OMEPRAZOLE) FFF 0 1	20mg, FFF 2 2	po FFF 5 5	bid FFF 6 6	 FFF 	 FFF 	narrative
+368-01	7	438	Clonazepam 0.5MG, 1 Tablet(s) PO BID x 30 day(s) PRN prn anxiety, up to bid	clonazepam FFF 0 0	0.5mg, FFF 1 1	po FFF 4 4	bid FFF 5 5	30 day(s) FFF 7 8	 FFF 	narrative
+368-01	9	438	Prozac (FLUOXETINE Hcl) 20MG, 2 Capsule(s) PO QD	Prozac (FLUOXETINE Hcl) FFF 0 2	20mg, FFF 3 3	po FFF 6 6	qd FFF 7 7	 FFF 	 FFF 	narrative
+368-01	10	438	Glucovance (GLYBURIDE/METFORMIN) 2.5-500MG, 2 Tablet(s) PO BID	Glucovance (GLYBURIDE/METFORMIN) FFF 0 1	2.5-500mg, FFF 2 2	po FFF 5 5	bid FFF 6 6	 FFF 	 FFF 	narrative
+368-01	11	438	Cozaar (LOSARTAN) 50MG, 2 Tablet(s) PO QD	Cozaar (LOSARTAN) FFF 0 1	50mg, FFF 2 2	po FFF 5 5	qd FFF 6 6	 FFF 	 FFF 	narrative
+368-01	12	438	Vioxx (ROFECOXIB) 25MG, 1 Tablet(s) PO bid x 15 day(s)	Vioxx (ROFECOXIB) FFF 0 1	25mg, FFF 2 2	po FFF 5 5	bid FFF 6 6	15 day(s) FFF 8 9	 FFF 	narrative
+368-01	13	438	Norflex (ORPHENADRINE Citrate) 100MG, 1 Tablet(s) PO Q12H	Norflex (ORPHENADRINE Citrate) FFF 0 2	100mg, FFF 3 3	po FFF 6 6	q12h FFF 7 7	 FFF 	 FFF 	narrative
+368-01	15	438	This often           occurs at the end of the week, when has been at the computer all week           and then has to take her Vioxx and Norflex for the next two or three           days, into the weekend.	vioxx FFF 23 23	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+368-01	15	438	This often           occurs at the end of the week, when has been at the computer all week           and then has to take her Vioxx and Norflex for the next two or three           days, into the weekend.	norflex FFF 25 25	 FFF 	 FFF 	 FFF 	three days, FFF 31 32	 FFF 	narrative
+368-01	21	438	He is referring her to a retinal specialist, due           to a question of cystoid macular edema, due to diabetic retinopathy and           some possible borderline intraocular pressures.	retinal FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+368-01	30	0	COR: AP 96, NSR. Positive tenderness and spasm to left trapezius muscle.	cor: FFF 0 0	 FFF 	 FFF 	ap FFF 1 1	 FFF 	 FFF 	narrative
+368-01	43	0	Larry Kowalski, a retinal specialist, as soon as possible.	retinal FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

@@ -1,0 +1,16 @@
+226-03	11	0	Since I last saw Ms. Law, she underwent a 3-vessel coronary artery bypass surgery, internal mammary to the left anterior descending artery, free right radial graft to the obtuse marginal branch of the left circumflex, and reverse saphenous vein graft to the posterior descending branch of the right coronary artery.	3-vessel FFF 9 9	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+226-03	17	438	1.  Aspirin 325 mg daily.	aspirin FFF 1 1	325 mg FFF 2 3	 FFF 	daily. FFF 4 4	 FFF 	 FFF 	narrative
+226-03	18	438	2.  DuoNeb.	duoneb. FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+226-03	19	438	3.  Diltiazem 300 mg p.o. t.i.d.	diltiazem FFF 1 1	300 mg FFF 2 3	p.o. FFF 4 4	t.i.d. FFF 5 5	 FFF 	 FFF 	narrative
+226-03	20	438	4.  Furosemide 40 mg p.o. daily.	furosemide FFF 1 1	40 mg FFF 2 3	p.o. FFF 4 4	daily. FFF 5 5	 FFF 	 FFF 	narrative
+226-03	21	438	5.  K-Dur 20 mEq p.o. daily.	k-dur 20 FFF 1 2	 FFF 	p.o. FFF 4 4	daily. FFF 5 5	 FFF 	 FFF 	narrative
+226-03	22	438	6.  Metolazone 2.5 mg daily.	metolazone FFF 1 1	2.5 mg FFF 2 3	 FFF 	daily. FFF 4 4	 FFF 	 FFF 	narrative
+226-03	23	438	7.  Toprol 100 mg p.o. b.i.d.	toprol FFF 1 1	100 mg FFF 2 3	p.o. FFF 4 4	b.i.d. FFF 5 5	 FFF 	 FFF 	narrative
+226-03	24	438	8.  Pravastatin 20 mg p.o. daily.	pravastatin FFF 1 1	20 mg FFF 2 3	p.o. FFF 4 4	daily. FFF 5 5	 FFF 	 FFF 	narrative
+226-03	25	438	9.  Furosemide 40 mg p.o. daily.	furosemide FFF 1 1	40 mg FFF 2 3	p.o. FFF 4 4	daily. FFF 5 5	 FFF 	 FFF 	narrative
+226-03	26	438	10.  Colace, ferrous sulfate, ibuprofen, senna.	colace, FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+226-03	26	438	10.  Colace, ferrous sulfate, ibuprofen, senna.	ferrous sulfate, FFF 2 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+226-03	26	438	10.  Colace, ferrous sulfate, ibuprofen, senna.	ibuprofen, FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+226-03	26	438	10.  Colace, ferrous sulfate, ibuprofen, senna.	senna. FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+226-03	28	438	1.  Azithromycin.	azithromycin. FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+226-03	29	438	2.  ACE inhibitor, cough.	ace inhibitor, FFF 1 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

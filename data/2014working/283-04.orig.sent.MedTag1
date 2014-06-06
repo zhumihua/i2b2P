@@ -1,0 +1,60 @@
+283-04||1||Record date: 2129-02-19
+283-04||2||Lee County Community Hospital0021 New Hampshire AvenueKigali, NJ  47798497-045-1949
+283-04||3||Dennis Holcomb
+283-04||4||Medical record #83312060
+283-04||5||Date of visit-February 19, 2129
+283-04||7||Date of birth: December 14, 2067
+283-04||8||Chief complaint: The patient presents today in follow up for his diabetes and coronary disease, as well as a reevaluation of his recent left proximal humeral fracture||INDICATION FFF his diabetes FFF 10 11||INDICATION FFF coronary disease, FFF 13 14||INDICATION FFF as FFF 15 15||INDICATION FFF as FFF 17 17||
+283-04||9||Problems
+283-04||10||Diabetes mellitus type 2 : insulin requiring||INDICATION FFF diabetes mellitus type 2 FFF 0 3||DIN FFF insulin FFF 5 5||
+283-04||11||H/O left foot infection||INDICATION FFF infection FFF 3 3||
+283-04||12||Erectile dysfunction||INDICATION FFF erectile dysfunction FFF 0 1||
+283-04||13||Onychomycosis||INDICATION FFF onychomycosis FFF 0 0||
+283-04||14||Hyperlipidemia||INDICATION FFF hyperlipidemia FFF 0 0||
+283-04||15||Coronary artery disease||INDICATION FFF coronary artery disease FFF 0 2||
+283-04||16||inferior myocardial infarction||INDICATION FFF myocardial infarction FFF 1 2||
+283-04||17||H/O Ventricular tachycardia||INDICATION FFF ventricular tachycardia FFF 1 2||
+283-04||18||Obesity||INDICATION FFF obesity FFF 0 0||
+283-04||19||diabetic retinopathy
+283-04||20||ischemic cardiomyopathy
+283-04||21||low testosterone||DIN FFF testosterone FFF 1 1||
+283-04||22||Polyp of colon||INDICATION FFF colon FFF 2 2||
+283-04||23||Fracture of humerus
+283-04||24||Procedures||INDICATION FFF procedures FFF 0 0||
+283-04||25||Cardiac catheterization||INDICATION FFF cardiac catheterization FFF 0 1||
+283-04||26||Coronary stent : rca stent, ptca of diagonal
+283-04||27||Implanted cardiac defibrillator
+283-04||28||Allergies||INDICATION FFF allergies FFF 0 0||
+283-04||29||NKA
+283-04||30||Medications
+283-04||31||Atenolol 100 MG (100MG TABLET Take 1) PO QAM, to be taken in conjunction with 50 mg tab at qhs #90 Tablet(s)||DIN FFF atenolol FFF 0 0||DOSE FFF 100 mg FFF 1 2||DOSE FFF (100mg FFF 3 3||RUT FFF po FFF 7 7||FREQ FFF qam, FFF 8 8||DOSE FFF 50 mg FFF 15 16||FREQ FFF qhs FFF 19 19||
+283-04||32||Atenolol 50 MG (50MG TABLET Take 1) PO QHS, to be taken in conjunction with 100 mg qam #90 Tablet(s)||DIN FFF atenolol FFF 0 0||DOSE FFF 50 mg FFF 1 2||DOSE FFF (50mg FFF 3 3||RUT FFF po FFF 7 7||FREQ FFF qhs, FFF 8 8||DOSE FFF 100 mg FFF 15 16||FREQ FFF qam FFF 17 17||
+283-04||33||Enteric Coated Aspirin (ASPIRIN Enteric Coated) 81MG TABLET DR Take 2 PO QD #Tablet(s)||DBN FFF enteric coated aspirin FFF 0 2||DOSE FFF 81mg FFF 6 6||RUT FFF po FFF 11 11||FREQ FFF qd FFF 12 12||
+283-04||34||Folate (FOLIC Acid) 1 MG (1MG TABLET Take 1) PO QD #Tablet(s)||DIN FFF folate FFF 0 0||DOSE FFF 1 mg FFF 3 4||DOSE FFF (1mg FFF 5 5||RUT FFF po FFF 9 9||FREQ FFF qd FFF 10 10||
+283-04||35||Furosemide 40 MG (40MG TABLET Take 1) PO QD #90 Tablet(s)||DIN FFF furosemide FFF 0 0||DOSE FFF 40 mg FFF 1 2||DOSE FFF (40mg FFF 3 3||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||
+283-04||36||Insulin Nph Human 40 UNITS SC QD #4 Bottle(s)||DIN FFF insulin nph human FFF 0 2||DOSEAMT FFF 40 units FFF 3 4||RUT FFF sc FFF 5 5||FREQ FFF qd FFF 6 6||
+283-04||37||Insulin Regular Human Variable (100 U/ML VIAL ML) SC #2 Bottle(s)||DPN FFF insulin regular human FFF 0 2||DOSE FFF (100 u/ml FFF 4 5||RUT FFF sc FFF 8 8||
+283-04||38||Lisinopril 5 MG (5MG TABLET Take 1) PO QD #90 Tablet(s)||DIN FFF lisinopril FFF 0 0||DOSE FFF 5 mg FFF 1 2||DOSE FFF (5mg FFF 3 3||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||
+283-04||39||Mvi (MULTIVITAMINS) 1 TAB PO QD||DPN FFF mvi FFF 0 0||DOSEAMT FFF 1 tab FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF qd FFF 5 5||
+283-04||40||Simvastatin 20 MG (20MG TABLET Take 1) PO QHS #90 Tablet(s)||DIN FFF simvastatin FFF 0 0||DOSE FFF 20 mg FFF 1 2||DOSE FFF (20mg FFF 3 3||RUT FFF po FFF 7 7||FREQ FFF qhs FFF 8 8||
+283-04||41||Ultram (TRAMADOL) 50 MG TABLET PO Q4-6H PRN pain, 1-2 tabs before bedtime and as needed, max of 300 mg per day #60 Tablet(s)||DBN FFF ultram FFF 0 0||DOSE FFF 50 mg FFF 2 3||RUT FFF po FFF 5 5||FREQ FFF q4-6h FFF 6 6||NEC FFF prn FFF 7 7||INDICATION FFF pain, FFF 8 8||DOSEAMT FFF 1-2 tabs FFF 9 10||TOD FFF bedtime FFF 12 12||NEC FFF as needed, FFF 14 15||DOSE FFF 300 mg FFF 18 19||FREQ FFF per day FFF 20 21||
+283-04||42||Vitamin B12 (CYANOCOBALAMIN) 250 MCG (250 MCG TABLET Take 1) PO QD #Tablet(s)||DIN FFF vitamin b12 FFF 0 1||DOSE FFF 250 mcg FFF 3 4||DOSE FFF (250 mcg FFF 5 6||RUT FFF po FFF 10 10||FREQ FFF qd FFF 11 11||
+283-04||43||Vitamin E (TOCOPHEROL-DL-ALPHA) 1000 UNIT CAPSULE PO QD #Capsule(s)||DIN FFF vitamin e FFF 0 1||RUT FFF po FFF 6 6||FREQ FFF qd FFF 7 7||
+283-04||44||Family / Social History
+283-04||45||Cerebral Aneurysm:
+283-04||46||Relative: Father;
+283-04||47||Hypertension:||INDICATION FFF hypertension: FFF 0 0||
+283-04||48||Cardiac:
+283-04||49||Relative: Grandmother, maternal;
+283-04||50||Relative: Grandfather, maternal;
+283-04||51||Social history: Engaged, does not smoke, drink or use drugs, works as a architect at the Alaska Air Group in Juneau||DIN FFF drugs, FFF 9 9||INDICATION FFF as FFF 11 11||
+283-04||52||History of Present Illness: The patient presents today for follow up of his diabetes and heart disease, and to follow up as well as recent proximal humeral fracture that will not require surgery per his orthopedic specialist.||INDICATION FFF his diabetes FFF 12 13||INDICATION FFF heart disease, FFF 15 16||INDICATION FFF as FFF 21 21||INDICATION FFF as FFF 23 23||INDICATION FFF surgery FFF 32 32||
+283-04||53||The patient fell down a couple weeks ago on ice and landed on his left shoulder, sustaining a proximal humeral fracture that is currently well aligned.
+283-04||54||The patient was seen by orthopedics at the Boulder County Hospital, he was told to have no work for the next 3 months.||DRT FFF 3 months. FFF 21 22||
+283-04||55||He also received reports no chest pain, PND or orthopnea, he also denies any AICD firing, and reports only occasional low blood sugar reactions.||INDICATION FFF chest pain, FFF 5 6||INDICATION FFF orthopnea, FFF 9 9||INDICATION FFF low blood sugar FFF 20 22||
+283-04||56||He has a history of poorly controlled type 2 diabetes, he currently uses NPH insulin 42 units daily with sliding scale to 3 times a day at a maximal 8 units at a time.||INDICATION FFF type 2 diabetes, FFF 7 9||DIN FFF nph insulin FFF 13 14||DOSEAMT FFF 42 units FFF 15 16||FREQ FFF daily FFF 17 17||DOSE FFF sliding scale FFF 19 20||FREQ FFF 3 times a day FFF 22 25||DOSEAMT FFF 8 units FFF 29 30||
+283-04||57||He reports no polyuria or polydipsia.||INDICATION FFF polyuria FFF 3 3||
+283-04||58||His only risk doctor for fracture includes a low testosterone diagnosed about 3 years ago.||INDICATION FFF risk FFF 2 2||DIN FFF testosterone FFF 9 9||DRT FFF 3 years FFF 12 13||
+283-04||59||He is currently on no replacement for testosterone, and only recently started calcium and vitamin D after his fracture.||DIN FFF testosterone, FFF 7 7||DIN FFF calcium FFF 12 12||DIN FFF vitamin d FFF 14 15||
+283-04||60||He has not had an eye examination in over a year.||RUT FFF eye FFF 5 5||DRT FFF a year. FFF 9 10||
+283-04||61||Physical Examination:

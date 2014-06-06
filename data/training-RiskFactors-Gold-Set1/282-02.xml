@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2070-06-06
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+June 06, 2070
+
+ 
+
+ 
+
+Leon Craft, M.D.
+
+North Penn Hospital
+
+559 Tamworth Place
+
+Garnett, CA  47749
+
+ 
+
+RE:  Peter Joshi
+
+MRN: 453-39-84-4
+
+ 
+
+Dear Dr. Craft:
+
+ 
+
+I had the pleasure of seeing Peter Joshi in the Cardiovascular Clinic today.  This lovely gentleman continues to see
+
+both me and Dr. Orlena Knowles.  I have discussed this with Dr.
+
+Knowles and I am certainly comfortable in whatever role you all
+
+would need to see me playing in Mr. Joshi's care.  He notes that
+
+his weight has increased to 212 lb and that he has been followed
+
+closely by Dr. Knowles who is adjusting Lasix and potassium
+
+chloride doses.  He has had no shortness of breath at rest.  He
+
+has noticed no significant change in his lower extremity edema. 
+
+He has mild orthopnea and no paroxysmal nocturnal dyspnea.  His
+
+medical regimen includes aspirin 325 mg PO q.d., Lasix 80 mg PO
+
+b.i.d., Isordil 40 mg PO b.i.d., Zestril 40 mg PO b.i.d.,
+
+Lopressor 100 mg PO b.i.d., simvastatin 20 mg PO q.d., Norvasc 5
+
+mg PO b.i.d., Prevacid 20 mg PO q.d., and K-Dur 25 mEq q.d. in
+
+addition to albuterol, Atrovent, and Serevent.
+
+ 
+
+His physical exam is notable for a blood pressure of 150/70 right
+
+and left arm seated.  After rest, this comes down to 135/70 right
+
+and left arm seated.  His heart rate is 70 and regular. 
+
+Respiratory rate is 10.  His room air saturation is 95%.  His
+
+lungs are clear to auscultation, although breath sounds are
+
+somewhat distant.  Cardiovascular exam is notable for
+
+nondisplaced PMI and a soft systolic ejection murmur.  His
+
+abdomen is soft and nontender.  Extremities are notable for edema
+
+to his knees bilaterally.
+
+ 
+
+RE:  Peter Joshi
+
+MRN: 453-39-84-4            -2-              June 06, 2070 
+
+ 
+
+Electrocardiogram is notable for sinus rhythm with an axis of -14
+
+and normal intervals, no evidence of ischemia or infarction.  No
+
+change from prior electrocardiograms.
+
+ 
+
+In summary, Mr. Joshi is currently being treated for ongoing
+
+congestive heart failure.  His pulmonary evaluation here was
+
+notable for a combination of restrictive and obstructive
+
+pulmonary dysfunction.  I would certainly concur with continued
+
+diuresis with close attention to his potassium, BUN, and
+
+creatinine.
+
+ 
+
+If there are any questions or issues, please give me a call.
+
+ 
+
+Sincerely,
+
+ 
+
+ 
+
+Corrine James-Wagner, M.D.
+
+/padgett  
+
+ 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC6" time="during DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC7" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC9" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC12" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC13" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC15" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC18" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC19" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC20" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="high bp"/>
+    <FAMILY_HIST id="DOC14" indicator="not present"/>
+    <SMOKER id="DOC11" status="unknown"/>
+  </TAGS>
+</root>

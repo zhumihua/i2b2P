@@ -1,0 +1,44 @@
+301-01	1	Record date: 2074-10-01	
+301-01	2	Office Note   Bobbie Albert #7000963       Tuesday, October 01, 2074		FREQ FFF tuesday#5
+301-01	3	Reason for visit	
+301-01	4	Mr. Albert is a 39-year-old American man status post bilateral lung transplantation due to cystic fibrosis and a history of HCV.		INDICATION FFF cystic fibrosis#15
+301-01	5	He now presents with rising creatinine over the past three months and is referred by Dr.		INDICATION FFF creatinine#5	DRT FFF three months#10
+301-01	6	Benjamin Earnest.	
+301-01	7	Previous History and HPI	
+301-01	8	1) CKD     Normal renal function until transplantation in 8/03/73, Crea 0.9 (weight 280lb).		DRT FFF until#5	INDICATION FFF weight#11
+301-01	9	ARF during transplant admission, peak Crea 2.9. Post-tx Creatinine 1.8    2.0. Slow rise to 2.5 in 6/74, then episode of low blood pressure and fatigue.		INDICATION FFF arf#0	DRT FFF during#1	INDICATION FFF creatinine#8	DIN FFF rise#12	INDICATION FFF low blood pressure#22	INDICATION FFF fatigue#24
+301-01	10	Cellcept and Norvasc were stopped.		DBN FFF cellcept#0	DBN FFF norvasc#2
+301-01	11	Crea rise from 1.8 to 3.3, yesterday 3.0.		DIN FFF rise#1
+301-01	12	No foamy urine noted.	
+301-01	13	Since 12/73 receives Parmidronate IV q3months.		RUT FFF iv#4	FREQ FFF q3months#5
+301-01	14	Estimated creatinine clearance 50-65ml/min. 2) Cystic fibrosis     h/o multiple pneumonia, also aspergillus pneumonia.		INDICATION FFF creatinine#1	DOSE FFF 50-65ml#3	INDICATION FFF cystic fibrosis#6	INDICATION FFF pneumonia#9	INDICATION FFF pneumonia .#12
+301-01	15	During admission for transplantation  7/73 MRSA sinusitis. 10/73 pneumomedistinum. 3) h/o HCV postive 60-68, since then negative x2 4) Hypertension. 5) Hypercholesterolemia 6) Gout for several years, several attacks, responding to Colchizine 7) Obstructive sleep apnea, on Bipap		DRT FFF during#0	INDICATION FFF mrsa#5	INDICATION FFF sinusitis#6	FREQ FFF x2#17	INDICATION FFF hypertension .#19	INDICATION FFF hypercholesterolemia#21	INDICATION FFF gout#23	INDICATION FFF sleep#34	INDICATION FFF apnea#35
+301-01	16	8) Obesity, 340 lb peak post transplant, now 326 lb		INDICATION FFF obesity#1
+301-01	17	9) AVN right knee and hip	
+301-01	18	Allergies		INDICATION FFF allergies#0
+301-01	19	NKDA	
+301-01	20	Medications	
+301-01	21	Neoral 150/175 bid, Prednison 15 qod, Bactrim SS tiw, Acyclovir 200 bid, Lipitor 40, Atenolol 50, MgGluconate 500 tid, Ca 600 bid, Vit D 50,000, Reglan 10 tid.		DBN FFF neoral#0	DOSE FFF 150/175#1	FREQ FFF bid#2	FREQ FFF qod#5	DIN FFF bactrim ss#7	DIN FFF acyclovir#9	DOSE FFF 200#10	FREQ FFF bid#11	DBN FFF lipitor#12	DOSE FFF 40#13	DIN FFF atenolol#14	DOSE FFF 50#15	FREQ FFF tid#18	INDICATION FFF ca#19	FREQ FFF bid#21	DIN FFF vit d#23	DBN FFF reglan#25	DOSE FFF 10#26	FREQ FFF tid#27
+301-01	22	Pamidronate IV q3months		DIN FFF pamidronate#0	RUT FFF iv#1	FREQ FFF q3months#2
+301-01	23	Social-, Work-, and Family- History	
+301-01	24	Married with other lung transplant recipient (tx 9 years ago).		INDICATION FFF tx#6	DRT FFF 9 years#8
+301-01	25	No family history of renal disease.		INDICATION FFF renal disease#5
+301-01	26	Nonsmoker, Marketing Manager.	
+301-01	27	ROS:	
+301-01	28	Good appetite, no skin itching.		INDICATION FFF itching .#4
+301-01	29	Drinks little according to wife.	
+301-01	30	Poor energy level.	
+301-01	31	Heart, lung, GI system without abnormal finding.	
+301-01	32	No renal stones, no recurrent UTIs, urine amount unchanged.		INDICATION FFF renal stones#2
+301-01	33	Occasional cramping while walking.		DRT FFF while#2
+301-01	34	Exercises in fitness studio.	
+301-01	35	Physical Exam	
+301-01	36	BP     R 150/105  L  145/100  HR     64 weight 327 lbs.		INDICATION FFF bp#0	DOSE FFF 150/105l#3	DRT FFF 145/100 hr#5	INDICATION FFF weight#7
+301-01	37	FS limited due to cataract.	
+301-01	38	Moon facies, short neck.	
+301-01	39	OC     moist tongue.	
+301-01	40	JVP ~ 8 cm.		INDICATION FFF cm#3
+301-01	41	No bruit neck/abdomen. distant heart sounds. Lungs clear.	
+301-01	42	Abdomen soft, spleen not palpated, liver ~12cm.		INDICATION FFF liver#5	INDICATION FFF cm#6
+301-01	43	Trace edema.		INDICATION FFF trace edema#1
+301-01	44	Appeared oriented, appropriate concerns.	

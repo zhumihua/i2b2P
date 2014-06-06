@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2078-01-30
+
+We are consulted by Dr. Bonilla for assistance with glycemic management.
+
+
+
+Mr. Ervin is a 67 y/o gentleman who is presently POD # 1 after AVR and 2V CABG.  He had known calcific AS and presented with increasing fatigue and dyspnea on exertion.  He was subsequently found to have worsening AS and CAD, including LM disease.  His peri-operative course has been notable for hyperglycemia with maximum BG 252.  He was started on an insulin  infusion according to the Portland Protocol and remains on 0.5-2 units/hour since midnight with BS 117-134-163-151-125-137-98-99.
+
+
+
+Mr. Ervin recalls having been diagnosed with DM at the age of 19 as part of a military physical.  He was overweight and was placed on dietary therapy.  Per his own report his DM was diet controlled and "seemed to disappear" several years after initial diagnosis.  Approximately 4 years ago he experienced blurry vision and was again noted to have elevated BGs (he is uncertain of the magnitude of the BG elevation).  He resumed dietary therapy and has achieved good control with a  pre-op A1c of 6.2.  He is followed at the Skiff.  He has never been on insulin or OHAs and denies knowledge of diabetic complications.  He checks BS at home sporadically which are usually in the low-mid 100s.  He says when he experiences hyperglycemic symptoms (i.e. occasional nocturia) he walks to bring down his blood sugar.  In general he is active, walking several miles/day.
+
+
+
+Past Medical History: HTN, AS, DM2 as above
+
+
+
+Current Medications: Insulin, K/Mg, ASA, Toradol, Zofran, Vanco, Carafate
+
+
+
+Social History: remote tobacco, ETOH
+
+
+
+Famiy History: Son with DM1,  Grandmother with DM
+
+
+
+ROS: Denies HA or changes in vision.  +SOB PTA.  No abdominal pain or changes in bowels.  No dysuria, occasional nocturia.  No recent lower extremity swelling.  Remainder of review of systems is negative or as per HPI.
+
+
+
+Physical Exam:
+
+
+
+Vitals: 98.2 70 120/68
+
+Gen: pleasant, heavy set (but muscular) gentleman in NAD
+
+HEENT: NC/AT EOMI
+
+Neck: supple central venous line in place
+
+CV: distant HS
+
+Chest: wound intact
+
+Lungs: Clear anteriorly
+
+Abd: S/NT
+
+Extremities: no edema, well perfused
+
+Neuro: A&Ox3
+
+Skin: intact
+
+
+
+Labs: pre-op A1c 6.2.  Prior A1c 7.2 in 4/73
+
+
+
+A/P 
+
+Mr. Ervin has DM2 which was adequately controlled pre-operatively with diet and exercise.  He is presently requiring insulin in the setting of the stress of surgery.  Meticulous BG control is important in the post-operative period.  The goal is to maintain BS<175.  He should remain on the Portland Protocol until at least POD #3.  At that point only if he is fully stabilized and eating well can he be transitioned on to an alternative regimen.  He may transiently require subcutaneous insulin but will ideally be able to resume dietary control of DM.
+
+
+
+Thank you for allowing us to participate in the care of this patient. Our team will follow with you.
+
+
+
+
+
+
+
+_____________________________________________
+
+Paige Quadirah Hooper, M.D.
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC9" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC13" time="during DCT" type1="insulin" type2=""/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC6" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC12" time="before DCT" indicator="mention"/>
+    <CAD id="DOC8" time="during DCT" indicator="mention"/>
+    <CAD id="DOC10" time="after DCT" indicator="mention"/>
+    <CAD id="DOC11" time="before DCT" indicator="event"/>
+    <CAD id="DOC15" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC14" indicator="not present"/>
+    <SMOKER id="DOC1" status="past"/>
+    <DIABETES id="DOC3" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC7" time="before DCT" indicator="mention"/>
+  </TAGS>
+</root>

@@ -1,0 +1,84 @@
+287-01||1||Record date: 2063-10-04
+287-01||2||CARDIOLOGY
+287-01||4||GRETNA COUNTY CENTER
+287-01||6||Reason for visit:
+287-01||7||STEMI
+287-01||8||Interval History:
+287-01||9||This is a 56 year old female veterinarian who works for Calista Corporation in Wrightwood, AL who has been complaining of right shoulder pain for some time and was admitted to the GCC yesterday for same day arthroscopic surgery to treat adhesive capsulitis of the right shoulder.
+287-01||10||The surgery went well without complications, but the patient awoke at home today with 3/10 chest pain and diaphoresis.
+287-01||11||She called 911 and was found with inferior ST elevation and 8/10 CP that continued to worsen to 10/10 chest pain in the West Memorial Infirmary ER.
+287-01||12||The ECG began to evolve reciprical changes, but the RV leads were negative for infarction.||DIN FFF ecg FFF 1 1||INDICATION FFF infarction. FFF 14 14||
+287-01||13||The patient was transferred emergently directly to the GCC catheterization lab.
+287-01||14||PAST MEDICAL HISTORY:
+287-01||15||Adhesive capsulitis of the right shoulder
+287-01||16||Calcific tendonitis of R supraspinatus
+287-01||17||GERD
+287-01||18||PAST SURGICAL HISTORY:
+287-01||19||PROCEDURE:
+287-01||20||Right shoulder arthroscopic acromioplasty, debridement, and resection of calcific mass on 10/3/63 at GCC.
+287-01||21||Partial hysterectomy
+287-01||22||SBO
+287-01||23||ALLERGIES: Augmentin
+287-01||24||HOME MEDICATIONS:
+287-01||25||Prilosec 10 mg bid||DBN FFF prilosec FFF 0 0||DOSE FFF 10 mg FFF 1 2||FREQ FFF bid FFF 3 3||
+287-01||26||estrogen patch TOP qweek||DIN FFF estrogen FFF 0 0||DDF FFF patch FFF 1 1||RUT FFF top FFF 2 2||FREQ FFF qweek FFF 3 3||
+287-01||27||TRANSFER MEDICATIONS:||DPN FFF transfer medications: FFF 0 1||
+287-01||28||ASA 325 mg x 1||DIN FFF asa FFF 0 0||DOSE FFF 325 mg FFF 1 2||FREQ FFF x 1 FFF 3 4||
+287-01||29||Morphine||DIN FFF morphine FFF 0 0||
+287-01||30||Integrilin gtt||DBN FFF integrilin FFF 0 0||
+287-01||31||Nitroglycerine gtt||DIN FFF nitroglycerine FFF 0 0||
+287-01||32||Heparin gtt||DIN FFF heparin FFF 0 0||
+287-01||33||FAMILY HISTORY:  Positive for colonic CA on mother's side.
+287-01||34||SOCIAL HISTORY:
+287-01||35||Lives in Lodi with her children.
+287-01||36||Veterinarian at Calista Corporation.
+287-01||37||Smokes about 3/4 of a pack a day and has done so for over thirty years.
+287-01||38||Denies  alcohol abuse.
+287-01||39||Review of systems:
+287-01||40||General: No F/C/Sweats/Weakness/Fatigue/Weight loss
+287-01||41||HEENT: No vision problems/hearing problems/nose bleed/teeth or gum problems
+287-01||42||Card: No DOE/Orthopnea/PND/LE edema/Palpitations; + CP and diaphoresis
+287-01||43||Pulm:  No SOB/Pleursy/Wheezing/Cough/COPD/Asthma
+287-01||44||Abd: No pain/N/V/D/C/hematemasis/hematochezia/melena
+287-01||45||M/S: No decreased ROM/joint aches/muscle aches
+287-01||46||PVS: No claudication/cold extremities/varicose veins
+287-01||47||Hemo: No anemia/easy bruising or bleeding
+287-01||48||Urinary: No increased frequency/urgency/burning of urination
+287-01||49||Endo: No heat/cold sensitivity/polyuria/polydipsia/polyphagia
+287-01||50||Neuro: No loss of sensation/numbness/tingling/weak muscle strength
+287-01||51||Psych: No anxiety/depression
+287-01||52||Physical examination:
+287-01||54||-BMI: 23.8  Normal, low risk
+287-01||55||-Pulse:
+287-01||56||-resp. rate:
+287-01||57||-height: 68  in.
+287-01||58||-weight: 71  kg.
+287-01||59||-General appearance:   No acute distress.
+287-01||60||-HEENT:   Unremarkable
+287-01||61||-Neck:   JVP no jugular venous distention
+287-01||62||-Chest:   Clear to auscultation bilaterally by anterior exam.
+287-01||63||-Cardiac:   Left ventricular impulse discrete and nondisplaced.
+287-01||64||Regular rate and rhythm, normal S1 and S2, with no S3 or S4.
+287-01||65||There were no murmurs, clicks or rubs. -Abdomen:   Normal bowel sounds, soft and nontender, with no hepatosplenomegaly or masses appreciated. -Extremities:   No cyanosis, clubbing or edema. 2+ pedal pulses.
+287-01||66||-Neuro:   A&amp;O x3
+287-01||67||-BP:
+287-01||68||Selected recent labs:
+287-01||69||Bainbridge State Hospital ER:
+287-01||70||K 4.2, BUN 19, Cr 0.9, Glu 177||INDICATION FFF k FFF 0 0||DIN FFF glu FFF 6 6||
+287-01||71||WBC 170, Hct 44.3, Hgb 15.1, Plt 261
+287-01||72||PT 9.9, PTT 25.2
+287-01||74||Assessment and plan:
+287-01||75||This is a 56 yo WF with no cardiac history and only the risk factor of cigarette smoking presenting to the GCC cath lab emergently today with an STEMI while recovering at home from arthroscopic surgery on the right shoulder yesterday.
+287-01||76||PLAN:
+287-01||77||- NPO for urgent cardiac catheterization
+287-01||78||- Admit to the service of Dr.
+287-01||79||Salas - Prehydration
+287-01||80||- Preprocedural labs: Lytes, CBC, coags, LFTs, cardiac enzymes to be drawn in cath lab.
+287-01||81||- Continue current transfer medications for ACS.||DPN FFF transfer medications FFF 3 4||
+287-01||82||- Anxiolytic x 1 prn anxiety||DIN FFF anxiolytic FFF 1 1||FREQ FFF x 1 FFF 2 3||NEC FFF prn FFF 4 4||INDICATION FFF anxiety FFF 5 5||
+287-01||83||- Smoking cessation consult
+287-01||84||- Further plans per Dr.
+287-01||85||Salas
+287-01||86||Pablo Mendez, MPH, MS, PA-C
+287-01||87||Pager: 48125
+287-01||88||Phone: 03533

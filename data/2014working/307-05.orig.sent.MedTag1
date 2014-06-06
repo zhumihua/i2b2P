@@ -1,0 +1,20 @@
+307-05||1||Record date: 2060-01-20
+307-05||2||Highland Park Care Center
+307-05||3||8827 Alice Drive              KIMBROUGH, AMELIA
+307-05||4||Arvin, SC  42993                    43471375||DIN FFF arvin, FFF 0 0||RUT FFF sc FFF 1 1||
+307-05||5||(615) 305-3068                     01/20/2060
+307-05||6||HISTORY OF PRESENT ILLNESS:  The patient is a 47-year-old female who returns to the clinic for a followup visit.
+307-05||7||The patient has multiple medical problems including severe and extreme hypertension as well as high blood pressure and chronic renal failure for which she is currently attending dialysis sessions 3 times per week.||INDICATION FFF hypertension FFF 10 10||INDICATION FFF as FFF 11 11||INDICATION FFF as FFF 13 13||INDICATION FFF high blood pressure FFF 14 16||INDICATION FFF chronic renal failure FFF 18 20||FREQ FFF 3 times per week. FFF 29 32||
+307-05||8||The patient also is currently being treated for hot flashes with Prempro.||INDICATION FFF hot flashes FFF 8 9||DBN FFF prempro. FFF 11 11||
+307-05||9||The patient states that she ran out of her blood pressure medications including the patch 2 days ago.||INDICATION FFF her blood pressure FFF 8 10||DRT FFF 2 days FFF 15 16||
+307-05||10||She also complains of frequent popping and loss of hearing in her right ear.||RUT FFF ear. FFF 13 13||
+307-05||11||PHYSICAL EXAMINATION:  A middle-aged female in no acute distress.
+307-05||12||Blood pressure is 182/94, weight is 211 pounds, and pulse is 76.||INDICATION FFF blood pressure FFF 0 1||INDICATION FFF weight FFF 4 4||
+307-05||13||Chest is clear bilaterally.
+307-05||14||Heart, regular rate and rhythm, positive S1, S2.
+307-05||15||Negative S3, S4, no murmur.
+307-05||16||Abdomen is soft, nontender, positive bowel sounds.
+307-05||17||Lower extremities, no edema, nontender.||INDICATION FFF edema, FFF 3 3||
+307-05||18||IMPRESSION AND PLAN:
+307-05||19||1.  Chronic renal failure, on dialysis.||INDICATION FFF chronic renal failure, FFF 1 3||
+307-05||20||The patient appears to be doing much better and has stabilized on her regular dialysis sessions.

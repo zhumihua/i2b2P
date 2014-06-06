@@ -1,0 +1,77 @@
+334-03	1	Record date: 2132-11-25		 
+334-03	2	Vascular Surgery Admission Note		 
+334-03	3	Patient Name:  Jain, Oliver		 
+334-03	4	MRN:  9628518		 
+334-03	5	Date and Time: 11/25/32 2:40PM		 
+334-03	6	Attending: Dr.		 
+334-03	7	Uselton		 
+334-03	8	Fellow: Dr. Uselton		 
+334-03	9	Junior Resident: Dr. Gonzales		 
+334-03	10	cc: L popliteal aneursym		 
+334-03	11	HPI: Mr. Jain is a 66 year old male with a h/o DM, HTN, HL, Chronic Afib, PVD and bilateral popliteal aneurysm s/p atheroembolic event to RLE w/ resultant RLE ischemia and dry gangrene of heel, toes and forefoot.		 
+334-03	12	During his prior admission in September, he underwent diagnostic angio which showed occluded R SFA, thrombosed R popliteal aneurysm and occluded R posterior tibial artery.		 
+334-03	13	On 10/01, he underwent a R SFA to BK popliteal bpg w/ saphenous vein graft; revised intraoperatively w/ AK pop to BK pop BPG using 8mm PTFE and angioplasty to the R PTA.		 
+334-03	14	He has been doing well since discharge in October.		 
+334-03	15	His dry gangrene is stable and well demarcated.		 
+334-03	16	He uses a special shoe at home for walking on RLE to offset weight on his toes and heel.		 
+334-03	17	He denies recent h/o fevers/chills, N/V, abdominal pain, or neurological sx.		 
+334-03	18	PMH:		 
+334-03	19	B popliteal aneursyms		 
+334-03	20	DM		 
+334-03	21	PVD		 
+334-03	22	HTN		 
+334-03	23	HL		 
+334-03	24	Chronic Atrial fibrillation		 
+334-03	25	PSH:		 
+334-03	26	10/01/32-R fem-BK pop w/ saphenous vein graft and 8mm PTFE		 
+334-03	27	9/28/32- Diagnostic angiogram		 
+334-03	28	8/2132-exploratory lap and drainage of splenic abscess		 
+334-03	29	L inguinal hernia repair		 
+334-03	30	R elbow surgery		 
+334-03	31	Meds:		 
+334-03	32	1. Aspirin Enteric Coated  325 MG PO QD		DBN FFF aspirin enteric coated#3	DOSE FFF 325mg#5	RUT FFF po#6	FREQ FFF qd#7
+334-03	33	2. Calcium Carbonate 1250 Mg (500 Mg Elem Ca 1 TAB PO BID		DIN FFF calcium carbonate#2	DOSE FFF 1250mg#4	DOSE FFF 500mg#6	INDICATION FFF ca#8	DOSEAMT FFF 1 tab#10	RUT FFF po#11	FREQ FFF bid#12
+334-03	34	3. Clopidogrel (Plavix )  75 MG PO QD-last dose 11/19		DIN FFF clopidogrel#1	MDBN FFF plavix#3	DOSE FFF 75mg#5	RUT FFF po#6
+334-03	35	4. Digoxin  0.25 MG PO QD		DIN FFF digoxin#1	DOSE FFF 0.25mg#3	RUT FFF po#4	FREQ FFF qd#5
+334-03	36	5. Diltiazem  90 MG PO QID		DIN FFF diltiazem#1	DOSE FFF 90mg#3	RUT FFF po#4	FREQ FFF qid#5
+334-03	37	6. Docusate Sodium (Colace)  100 MG PO BID		DIN FFF docusate sodium#2	MDBN FFF colace#3	DOSE FFF 100mg#5	RUT FFF po#6	FREQ FFF bid#7
+334-03	38	7. Hydromorphone Hcl (Dilaudid )  2-4 MG PO Q3H prn Pain		DIN FFF hydromorphone hcl#2	MDBN FFF dilaudid#4	DOSE FFF 2-4mg#6	RUT FFF po#7	FREQ FFF q3h#8	NEC FFF prn#9	INDICATION FFF pain#10
+334-03	39	8. Insulin Nph Human  15 units SC QAM BEFORE BREAKFAST		DIN FFF insulin nph human#3	DOSEAMT FFF 15 units#5	RUT FFF sc#6	FREQ FFF qam#7
+334-03	40	9. Insulin Nph Human  4 UNITS SC QHS		DIN FFF insulin nph human#3	DOSEAMT FFF 4 units#5	RUT FFF sc#6	FREQ FFF qhs#7
+334-03	41	10. Insulin Regular Inj  5 UNIT SC QAM BEFORE BREAKFAST		DIN FFF insulin regular#2	DDF FFF inj#3	DDF FFF unit#5	RUT FFF sc#6	FREQ FFF qam#7
+334-03	42	11. Insulin Regular Inj  8 UNIT SC QPM BEFORE SUPPER		DIN FFF insulin regular#2	DDF FFF inj#3	DDF FFF unit#5	RUT FFF sc#6	FREQ FFF qpm#7
+334-03	43	12. Lansoprazole  30 MG PO QD		DIN FFF lansoprazole#1	DOSE FFF 30mg#3	RUT FFF po#4	FREQ FFF qd#5
+334-03	44	13. Metoprolol Succinate Extended Release (Toprol Xl )  100 MG PO QD		DIN FFF metoprolol succinate#2	DDF FFF extended release#4
+334-03	44	13. Metoprolol Succinate Extended Release (Toprol Xl )  100 MG PO QD		DPN FFF toprol xl#6	DOSE FFF 100mg#9	RUT FFF po#10	FREQ FFF qd#11
+334-03	45	14. Pravastatin  20 MG PO QD		DIN FFF pravastatin#1	DOSE FFF 20mg#3	RUT FFF po#4	FREQ FFF qd#5
+334-03	46	15. Sennosides (Senna Tablets)  2 TAB PO QHS		DIN FFF sennosides#1	MDBN FFF senna#3	DOSEAMT FFF 2 tab#5	RUT FFF po#6	FREQ FFF qhs#7
+334-03	47	16. Warfarin Sodium (Coumadin )  5 MG PO QPM-last dose 11/22		DIN FFF warfarin sodium#2	MDBN FFF coumadin#4	DOSE FFF 5mg#6	RUT FFF po#7
+334-03	48	ALL:  oxacillin&#224;rash		DIN FFF oxacillin#1	DISA FFF #224#1
+334-03	49	Family Hx: non-contributory		 
+334-03	50	Social: Lives in Hebbronville, MA with wife.		 
+334-03	51	Smoking: denies		 
+334-03	52	ETOH-denies		 
+334-03	53	ROS: as above, otherwise: denies CP, SOB, diarrhea, blood per rectum, bleeding or clotting disorders, urinary problems.		 
+334-03	54	PE:		 
+334-03	55	VS: T		 
+334-03	56	98  HR  64  BP 111/56   RR 18 97%  RA		 
+334-03	57	Well appearing male, NAD		 
+334-03	58	Carotid 2+ no bruits		 
+334-03	59	Irregularly irregular no m/r/g		DIN FFF m / r#3
+334-03	60	Lungs CTAB		 
+334-03	61	Abd: soft, non tender, non distended +BS.		 
+334-03	62	Well healed-LUQ transverse incision.		 
+334-03	63	Extremities: Skin is dry bilateral feet.		 
+334-03	64	RLE: Dry gangrene of entire 1st toe 2nd and 3rd toes, tips of 4th and 5th toes and forefoot.		 
+334-03	65	R heel w/ 5cm x 3cm eschar on posteriolateral surface.		 
+334-03	66	Pulses: R BK-pop BPG pulse is dopplerable		 
+334-03	67	Rad    Fem   Pop   DP          PT		 
+334-03	68	R     2+    2+    --    Non-dop     dop		 
+334-03	69	L     2+    2+    2+    2+          2+		 
+334-03	70	PVR: pulsatile at bilateral ankles		 
+334-03	71	ECG: atrial fibrillation		DIN FFF ecg#0	INDICATION FFF atrial fibrillation#2
+334-03	72	Imaging:		 
+334-03	73	CXR-pending		 
+334-03	74	A/P:  66M w/ a h/o HTN, HL, PVD and Bilateral popliteal aneursyms who presents for admission prior to L femoral to BK popliteal BPG tomorrow to exclude the L pop aneurysm.		 
+334-03	75	-Admit to Vascular Surgery		 
+334-03	76	-Admission Labs		 

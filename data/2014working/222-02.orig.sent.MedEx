@@ -1,0 +1,38 @@
+222-02	1	Record date: 2095-03-27		 
+222-02	2	Wt 198  146/84		 
+222-02	3	72 yo male with few months of cardiac problems, including need for ablation of arrhythmia focus, done 1/95.		 
+222-02	4	Has hx CAD with MI 2062 and 2086, with echo 1/95 showing 40-45% EF with posterior and apical hypokinesis.		 
+222-02	5	No CHF sx, tho has moderate fluid retention at times.		 
+222-02	6	Takes lasix 40mg PRN (about 1-2 times per wk, when edematous, tho even with periph edema, no signif SOB/CHF sx.).		DBN FFF lasix#1	DOSE FFF 40mg#2	NEC FFF prn#3	FREQ FFF per wk#8	INDICATION FFF edematous#10	INDICATION FFF edema#15	INDICATION FFF sob#18	INDICATION FFF chf#18
+222-02	7			 
+222-02	8	For past 6 wks has been on atenolol 25 qd (has not been able to tolerate amiodarone, lisinopril in past), but has felt very malaised, weak, lacking in energy, "weak" in the legs.		DIN FFF atenolol#7	DOSE FFF 25#8	FREQ FFF qd#9
+222-02	8	For past 6 wks has been on atenolol 25 qd (has not been able to tolerate amiodarone, lisinopril in past), but has felt very malaised, weak, lacking in energy, "weak" in the legs.		DIN FFF amiodarone#16
+222-02	8	For past 6 wks has been on atenolol 25 qd (has not been able to tolerate amiodarone, lisinopril in past), but has felt very malaised, weak, lacking in energy, "weak" in the legs.		DIN FFF lisinopril#17	INDICATION FFF lacking in energy#28
+222-02	9	Feels his appetite was also affected and he lost 8 pounds.		 
+222-02	10	He got fed up and 2 days ago on his own, he stopped the atenolol and since then has felt nearly back to usual self.		DRT FFF 2 days#6	DIN FFF atenolol#14
+222-02	11	HE says that he will not go back on atenolol.		DIN FFF atenolol#9
+222-02	12	At last visit, was encouraged by Dr Corona to try to continue with atenolol.		DIN FFF atenolol#13
+222-02	13			 
+222-02	14	DM on glucophage 1500mg qd (500 AM, 1000PM), without signif poly sx, with recent fingerstick of 180 in AM and 220 in PM.		DBN FFF glucophage#2	DOSE FFF 1500mg#3	FREQ FFF qd#4	TOD FFF 500 am#6	TOD FFF 1000 pm#7	TOD FFF am#18	TOD FFF pm#22
+222-02	15			 
+222-02	16	EXAM:   Lungs are clear.		 
+222-02	17	Extrem 3+ edema.		 
+222-02	18	IMP:    Side effects from atenolol.		DIN FFF atenolol#4
+222-02	19	AICD/ventricular arrhythmia, controlled recently.		 
+222-02	20	Fluid retention.  PRN lasix not ideal.		DBN FFF lasix#3
+222-02	21	DM not as well controlled as desirable.		 
+222-02	22	LDL 138, should be lower, tho he is so intolerant of meds.		 
+222-02	23			 
+222-02	24	PLAN:   Will discuss with Dr Corona about unwillingness to take beta blocker           and if any other agent indicated.		DIN FFF beta blocker#11
+222-02	24	PLAN:   Will discuss with Dr Corona about unwillingness to take beta blocker           and if any other agent indicated.		DIN FFF agent#16
+222-02	25	BP not ideally controlled.		 
+222-02	26	Encouraged regular lasix use of 20mg twice per wk, salt restriction		DBN FFF lasix#2	DOSE FFF 20mg#5	FREQ FFF per wk#8
+222-02	26	Encouraged regular lasix use of 20mg twice per wk, salt restriction		DIN FFF salt#9
+222-02	27	Consider lipitor for LDL 138, but next visit.		DBN FFF lipitor#1	INDICATION FFF ldl#3
+222-02	28	Increase metformin to 1000 BID.		DIN FFF metformin#1	FREQ FFF bid#4
+222-02	29	Pneumovax today.		DIN FFF pneumovax#0
+222-02	30	Patricia Islam MD		 
+222-02	31			 
+222-02	32			 
+222-02	33			 
+222-02	34			 

@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2077-02-01
+
+             				
+
+ Critical care					 
+
+
+
+
+
+TRANSPLANT FELLOW ADMIT NOTE
+
+
+
+
+
+HPI: 42 year old man s/p bilateral lung transplantation for bronchiectasis in 7/73 transferred from Burlington Obstetrics Gynecology Center for further evaluation of N/V/D, fever and hypoxia.  Over the past six weeks he had reported a slow decline in respiratory function  prompting a recent admission here 1/23 -25/77 for elective bronchoscopy to rule out rejection.  He noted a slight spontaneous improvement a few days before that admission.  Bronchoscopy showed no rejection but washings did grow M. catarrhalis -levaquin was begun on 1/25/77.  Pt reports continued slow improvement in dyspnea following discharge.  Yesterday morning he developed watery diarrhea (no blood or mucus) soon followed by nausea and vomiting (no blood or coffee grounds).  He went to BOGC and describes feeling increased dyspnea.  Found to be febrile to 101F and hypoxic (SpO2 94%, PaO2 53) and started on supplemental oxygen.  GI symptoms have since improved and pt is tolerating PO.  Denies chest pain, palpitations, cough, rash, HA, rhinorrhea, sore throat at any point during this illness.  Currently no dyspnea at rest.  
+
+
+
+PMH: OSA, obesity, osteoporosis, gout, HTN, CRI, avascular necrosis of R hip/knee, depression, psoriasis
+
+
+
+Current Meds: 
+
+Imm: neoral 125 mg po bid, cellcept 500 mg po bid, prednisone 30 mg po qd
+
+Abx: levaquin 500 mg po qd (1/25), bactrim ss 1 po tiw, acyclovir 200 mg po tid
+
+Other: atenolol 25 mg po qd, norvasc 5 mg po qd, nexium 20 mg po qd, MgGlu 500 mg po tid, Kdur 20 mEq po qd, lipitor 40 mg po qd, Ca citrate/vit D/MVI, lasix 40 mg po qd, cozaar 100 mg po qd
+
+
+
+SH: Lives in Florida with wife.  Works at ion media networks.
+
+
+
+FH: noncontributory
+
+
+
+Objective:
+
+Vitals:  Tm 96.5  HR 71  BP 145/91  RR 22  SpO2  97% on 2L NC
+
+Gen: NAD, obese
+
+HEENT/neck: OP clear, MMM
+
+Lungs/chest: CTA bilat, reduced breath sounds
+
+Heart: RRR w/o m/r/g
+
+Abd: SNTND +BS
+
+Extr: no c/c/e, 2+ pulses
+
+
+
+Lab: significant for
+
+BUN 36, Cr 2.1
+
+WBC 3.4, Hct 39, Plt 115
+
+
+
+Micro: 
+
+Nasal swab 1/31/77 - negative viral panel
+
+Lung washings 1/23/77 - moderate M. catarrhalis
+
+
+
+Path: Transbrochial biopsy 1/23 - negative for tissue rejection
+
+
+
+CXR 1/31: Unremarkable 
+
+
+
+Impression: 
+
+42 year old man s/p bilateral lung transplant 7/73 for bronchiectasis developed acute GI illness in setting of levaquin tx for recent respiratory infection.  Now afebrile and with resolution of GI symptoms.  Remains somewhat dyspneic with normal BP and HR.  Azotemia possibly attributable to dehydration though concern for other etiologies as per Dr. Reilly's note.  WBCs reduced from recent levels.
+
+
+
+Recommendations: 
+
+GI illness: Mostly asymptomatic now though some concerning abnormalities remain (O2 requirement, low plt, low WBC, high Cr).  Remains hemodynamically stable.  Await results of panculture including stool studies (including C diff, E coli, Camphylobacter) when available.  
+
+Transplant: Continue current immunosuppression and prophylactic abx.  Will consider holding cellcept, valcyte if leukopenia persists/worsens.  Follow daily cyclosporin troughs.  No evidence of rejection on recent biopsy.
+
+Dyspnea: Consider aspiration though CXR negative, will follow.  Hold abx for now.
+
+Renal: Azotemia of unclear etiology, follow up labs pending.  Renal consult per Dr. Reilly.
+
+
+
+
+
+
+
+
+
+ 
+
+___________________
+
+Oscar B. Stanley, M.D.
+
+Pulmonary Fellow
+
+Pager: 34348
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC1" time="after DCT" indicator="mention"/>
+    <OBESE id="DOC12" time="before DCT" indicator="mention"/>
+    <OBESE id="DOC14" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC5" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC10" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC11" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC15" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC18" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC19" time="during DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC20" time="before DCT" type1="ARB" type2=""/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC6" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC16" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC13" indicator="not present"/>
+    <SMOKER id="DOC8" status="unknown"/>
+  </TAGS>
+</root>

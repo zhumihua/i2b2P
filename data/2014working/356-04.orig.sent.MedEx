@@ -1,0 +1,142 @@
+356-04	1	Record date: 2154-05-15		 
+356-04	2	Team 3 Admission Note		 
+356-04	3			 
+356-04	4	PATIENT: Nathan Ishida		 
+356-04	5	MRN: 8792076		 
+356-04	6	ADMIT DATE: May 15, 2154		 
+356-04	7	PCP: Norman Jewett, MD		 
+356-04	8	ATTENDING PHYSICIAN:		 
+356-04	9	CONTACT: Alice Zacharias		 
+356-04	10	, (582)157-6993		 
+356-04	11	CODE STATUS: Full		 
+356-04	12	CHIEF COMPLAINT		 
+356-04	13	Dizziness and change in mental status		 
+356-04	14	HISTORY OF PRESENT ILLNESS		 
+356-04	15	Mr. Ishida is a 78 y/o, who p/w dizziness that began 2 to 3 weeks ago.		 
+356-04	16	The pt says the dizziness was worsened when he stood up to walk around; noting that it was particularly bad when he was standing and concentrating on a particular task such as shaving.		DIN FFF task#29	INDICATION FFF as#31
+356-04	17	The dizziness was alleviated by him lying down.		 
+356-04	18	He added that he began feeling dizzy during the storm last week when his drinking water was contaminated.		 
+356-04	19	He drank tap water until he was told it was undrinkable, then he stopped.		 
+356-04	20	He later developed diarrhea while not drinking any water and only having occasional Coca-cola beverages.		 
+356-04	21	During these 2 weeks of dizziness, Mr. Ishida notes he felt that he lost 3-4 days of his life, saying that he was either knocked out or unconscious. He came to this conclusion b/c his medication box was still full for the previous 3 days; supporting his reflection by saying he rarely ever misses his medication. Mr. Ishida states that the room was not spinning and said that his dizziness was more like &#8220;lightheadness.&#8221; He feels that his problems began when taking Tylenol- 2 weeks ago and cannot identify any other medication that is associated with his symptoms. Mr. Ishida says he&#8217;s never experienced any dizziness before, and hoped his symptoms would subside if he just stayed in bed. Mr. Ishida also described an increased pressure in his head, saying, &#8220;it felt as if my eyes and ears were going to explode.&#8221; Pt denies head trauma/falls, syncope, intoxication (from drugs or ETOH), or CP.		DBN FFF tylenol#82	DRT FFF 2 weeks#84	INDICATION FFF symptoms#97	DISA FFF #8217#101	INDICATION FFF dizziness#105	INDICATION FFF symptoms#110	INDICATION FFF pressure#125	DISA FFF #8220#130	INDICATION FFF as#132	DISA FFF #8221#141	INDICATION FFF head trauma#145
+356-04	21	During these 2 weeks of dizziness, Mr. Ishida notes he felt that he lost 3-4 days of his life, saying that he was either knocked out or unconscious. He came to this conclusion b/c his medication box was still full for the previous 3 days; supporting his reflection by saying he rarely ever misses his medication. Mr. Ishida states that the room was not spinning and said that his dizziness was more like &#8220;lightheadness.&#8221; He feels that his problems began when taking Tylenol- 2 weeks ago and cannot identify any other medication that is associated with his symptoms. Mr. Ishida says he&#8217;s never experienced any dizziness before, and hoped his symptoms would subside if he just stayed in bed. Mr. Ishida also described an increased pressure in his head, saying, &#8220;it felt as if my eyes and ears were going to explode.&#8221; Pt denies head trauma/falls, syncope, intoxication (from drugs or ETOH), or CP.		DIN FFF drugs#149	INDICATION FFF cp#153
+356-04	22	REVIEW OF SYSTEMS		 
+356-04	23	General- No fatigue, lack of sleep, change in appetite, or weight gain/loss		 
+356-04	24	Skin- No rashes, pruritus, bruising, or swelling		 
+356-04	25	Head- No trauma, headache or syncope		 
+356-04	26	Eyes- No change in vision, blurring, diplopia, irritation, photophobia, discharge, or spots/flashes		 
+356-04	27	Ears- No change in hearing, pain, itching, buzzing, or ringing		 
+356-04	28	Nose- No nasal congestion, runny nose, or epistaxis		 
+356-04	29	Mouth/Throat- No oral ulcers, pain, dry mouth, dysphagia, sore throat, or swollen glands		 
+356-04	30	Neck- No pain, discomfort		 
+356-04	31	Breast- No pain, masses, or discharge		 
+356-04	32	Lungs- No cough, SOB, DOE, orthopnea, PND, or pain		 
+356-04	33	Cardiac- No CP or pressure or palpitations		 
+356-04	34	Abdomen- Mild occasional constipation (resolved with laxative or stool softener).		DIN FFF laxative#6
+356-04	34	Abdomen- Mild occasional constipation (resolved with laxative or stool softener).		DBN FFF stool softener#9
+356-04	35	No pain, cramping, bloating, indigestion, or heartburn.		 
+356-04	36	GU- No dysuria, polyuria, or nocturia.		 
+356-04	37	No discharge or pain in penis or groin.		 
+356-04	38	MSK/Circulatory: No arthralgias, arthritis, cramps, stiffness, myalgias, tingling/numbness, or claudications		 
+356-04	39	Endo- No heat/cold intolerance		 
+356-04	40	Neuro- No shaking/tremors, memory changes, confusion, trouble reading, or speech changes.		 
+356-04	41	No paresthesias, numbness, or weakness.		 
+356-04	42	Psych- No depression or sad mood.		 
+356-04	43	PAST MEDICAL HISTORY		 
+356-04	44	Major Illness/Surgeries- DM, CKD, HTN, Psoriasis, BPH, GERD/Barrett&#8217;s Esophagitis (1/2151), Gout, Sleep Apnea,  s/p knee replacement surgery, cholecystectomy, appendectomy, tonsillectomy.		 
+356-04	45	Medications		 
+356-04	46	1. Acetylsalicylic Acid (Aspirin) 81 MG PO QD		DBN FFF acetylsalicylic acid#2	MDBN FFF aspirin#3	DOSE FFF 81mg#5	RUT FFF po#6	FREQ FFF qd#7
+356-04	47	2. Allopurinol 300 MG PO QD		DIN FFF allopurinol#1	DOSE FFF 300mg#3	RUT FFF po#4	FREQ FFF qd#5
+356-04	48	3. Ammonium Lactate 12% Cream (Amlactin 12%)  1 APPLICATION TOP BID		DIN FFF ammonium lactate#2	DOSE FFF 12%#3	DDF FFF cream#4	MDBN FFF amlactin#6	DOSEAMT FFF 1 application#8	RUT FFF top#9	FREQ FFF bid#10
+356-04	49	4. Atenolol 25 MG PO QD		DIN FFF atenolol#1	DOSE FFF 25mg#3	RUT FFF po#4	FREQ FFF qd#5
+356-04	50	5. Dovonex (Calcipotriene 0.005%)   TOP BID prn		DBN FFF dovonex#1	MDBN FFF calcipotriene#3	RUT FFF top#4	FREQ FFF bid#5	NEC FFF prn#6
+356-04	51	6. Darifenacin Extended Release (Enablex) 15 MG PO QD		DIN FFF darifenacin#1	DDF FFF extended release#3	MDBN FFF enablex#4	DOSE FFF 15mg#6	RUT FFF po#7	FREQ FFF qd#8
+356-04	52	7. Docusate Sodium (Colace) 100 MG PO TID		DIN FFF docusate sodium#2	MDBN FFF colace#3	DOSE FFF 100mg#5	RUT FFF po#6	FREQ FFF tid#7
+356-04	53	8. Finasteride (Alopecia) (Proscar) 5 MG PO QD		DIN FFF finasteride#1	INDICATION FFF alopecia#2
+356-04	54	9. Furosemide (Lasix) 40 MG PO QD		DIN FFF furosemide#1	MDBN FFF lasix#2	DOSE FFF 40mg#4	RUT FFF po#5	FREQ FFF qd#6
+356-04	55	10. Lactulose 30 ML PO qD		DIN FFF lactulose#1	DOSE FFF 30ml#3	RUT FFF po#4	FREQ FFF qd#5
+356-04	56	11. Lisinopril 40 MG PO QD		DIN FFF lisinopril#1	DOSE FFF 40mg#3	RUT FFF po#4	FREQ FFF qd#5
+356-04	57	12. Metformin 500 MG PO BID		DIN FFF metformin#1	DOSE FFF 500mg#3	RUT FFF po#4	FREQ FFF bid#5
+356-04	58	13. Naproxen 375 MG PO BID prn toe pain		DIN FFF naproxen#1	DOSE FFF 375mg#3	RUT FFF po#4	FREQ FFF bid#5	NEC FFF prn#6	INDICATION FFF pain#8
+356-04	59	14. Omeprazole 20 MG PO BID		DIN FFF omeprazole#1	DOSE FFF 20mg#3	RUT FFF po#4	FREQ FFF bid#5
+356-04	60	15. Sennosides (Senna Tablets) 2 TAB PO BID		DIN FFF sennosides#1	MDBN FFF senna#3	DOSEAMT FFF 2 tab#5	RUT FFF po#6	FREQ FFF bid#7
+356-04	61	16. Simvastatin 20 MG PO QHS		DIN FFF simvastatin#1	DOSE FFF 20mg#3	RUT FFF po#4	FREQ FFF qhs#5
+356-04	62	17. Valsartan (Diovan) 320 MG PO QD		DIN FFF valsartan#1	MDBN FFF diovan#2	DOSE FFF 320mg#4	RUT FFF po#5	FREQ FFF qd#6
+356-04	63	Allergies- NKDA		 
+356-04	64	Immunizations- Up-to-date		 
+356-04	65	FAMILY HISTORY		 
+356-04	66	Mr. Ishida&#8217;s mother died at 90 y/o and his father at 64 y/o due to a myocardial infarction.		 
+356-04	67	The Pt has 4 brothers, 3 daughters, and 2 sons; all in good health according to the pt.		 
+356-04	68	SOCIAL HISTORY		 
+356-04	69	Mr. Ishidas is an Visual Artist and former Exhibit Designer.		 
+356-04	70	He served in the government as a consultant, and denies any hazardous environmental exposures.		 
+356-04	71	His wife died 10 years ago of ovarian cancer and dearly misses her.		 
+356-04	72	Diet- Mr. Ishidas describes his diet as &#8220;not as good as it should be.&#8221; He said he generally eats what he wants, eats out a lot and says he can eat a lot of &#8220;junk food.&#8221; He also said the only time he eats &#8220;well&#8221; is when he eat at his son&#8217;s or daughter&#8217;s house.		DIN FFF junk#34	DISA FFF #8221#35	DISA FFF #8220#44	DISA FFF #8221#44	DISA FFF #8217#51	DISA FFF #8217#53
+356-04	73	Smoking- Non-smoker		 
+356-04	74	Alcohol- 2-3 bottles of beer per month.		 
+356-04	75	Pt doesn&#8217;t feel he needs to cut back.		 
+356-04	76	Drugs- According to the pt he has used cocaine and crack as recent 5-6 years ago.		DIN FFF drugs#0
+356-04	76	Drugs- According to the pt he has used cocaine and crack as recent 5-6 years ago.		DIN FFF cocaine#8	INDICATION FFF as#11	DRT FFF 5-6 years#14
+356-04	77	Sexual Hx- Mr. Ishidas is not currently sexually active.		 
+356-04	78	PHYSICAL EXAM		 
+356-04	79	Pt is an obese man with noticeable skin lesions (psoriasis) and alopecia.		 
+356-04	80	He looks well and jovial aside from his labored breathing.		 
+356-04	81	VS: T: 97.8 BP: 122/60 HR: 92 RR: 18 SpO2: 97 on Room Air		 
+356-04	82	General- No Acute Distress		 
+356-04	83	HEENT - normocephalic, atraumatic; PERR, EOMI, sclerae anicteric, no conjunctival injection; poor dentition, oropharynx pink and moist w/o erythema, exudates, or lesions		 
+356-04	84	Neck - no lymphadenopathy, normal thyroid without masses; JVP flat; carotid pulses 2+ bilaterally; no carotid bruits; the trachea is midline		 
+356-04	85	Pulmonary &#8211; Symmetrical expansion.		 
+356-04	86	Normal percussion w/ no change in fremitus.		 
+356-04	87	Ronchi and wheezes bilaterally.		 
+356-04	88	No egophony or pectoriloquy.		 
+356-04	89	Cardiac &#8211; irregularly irregular rhythm and rate; S1 and S2 normal; no murmurs, rubs or gallops; 2+ pulses in the extremities bilaterally		 
+356-04	90	Abdomen - soft, non-distended; slight tenderness upon palpation of posterior abdomen; normal bowel sounds; no masses or hepatosplenomegaly		 
+356-04	91	Extremity - warm and well-perfused; no clubbing, cyanosis, or edema		 
+356-04	92	Neurology - CN II-XII grossly intact, good strength bilaterally, normal sensation bilaterally.		 
+356-04	93	Normal gait.		 
+356-04	94	Skin &#8211; psoriatic lesions on elbows and thorax(anterior and posterior).		 
+356-04	95	Mental status - alert and oriented to self, time, and place		 
+356-04	96	LABORATORIES		 
+356-04	97	142  113   58		 
+356-04	98	-------------- 115		 
+356-04	99	5.3        20.6 3.03		 
+356-04	100	CA 9.2		 
+356-04	101	PHOS 3.1		 
+356-04	102	MG 2.3(H)		 
+356-04	103	TBILI 0.4		 
+356-04	104	DBILI 0.1		 
+356-04	105	TP 7.1		 
+356-04	106	ALB 4.1		DIN FFF alb#0
+356-04	107	GLOB 3.0(T)		 
+356-04	108	AMY 83		 
+356-04	109	LIPS 115(H)		 
+356-04	110	WBC 5.5		 
+356-04	111	RBC 4.11(L)		 
+356-04	112	HGB 12.2(L)		 
+356-04	113	HCT 38.3(L)		 
+356-04	114	PLT 149(L)		 
+356-04	115	MCV 93		 
+356-04	116	ALT/SGPT    7(L)		 
+356-04	117	AST/SGOT    9(L)		 
+356-04	118	ALKP        70		 
+356-04	119	CK-MB       Negative		 
+356-04	120			 
+356-04	121	TROP-I      Negative		 
+356-04	122	MICROBIOLOGY		 
+356-04	123	N/A		 
+356-04	124	RADIOLOGICAL STUDIES		 
+356-04	125	CXR: No pneumonia or other significant change from 11/26/52.		 
+356-04	126	Head CT: No acute intracranial hemorrhage, mass lesion or territorial infarction identified.		 
+356-04	127	Chronic infarctions of the pons and right frontal operculum, unchanged.		 
+356-04	128	EKG		 
+356-04	129	Irregularly irregular rhythm, RBBB, abnormal ECG. PR&lt; 200 ms, QRS&lt; 110 ms, QTc&gt;470		DIN FFF ecg#5
+356-04	130	ASSESSMENT		 
+356-04	131	Mr. Ishida is a 78 y/o M with h/o CKD, HTN, and NIDDM p/w sustained dizziness and altered mental status.		 
+356-04	132	Mr. Ishida is most likely currently in a volume depleted stated.		 
+356-04	133	He had diarrhea induced by the contaminated water from the storm and only maintained his hydration with a meager 2 or 3 bottles of Coca-cola over several days.		 
+356-04	134	This in combination with his output of fluid from diarrhea, his diuretic medication, and possible osmotic diuresis (increased serum glucose level from soda intake in a diabetic) could have shifted him into hypovolemia.		DIN FFF diuretic#11	INDICATION FFF diuresis#16	INDICATION FFF hypovolemia .#32
+356-04	135	Thus Mr. Ishida might have decrease effective arterial volume causing his BUN/Cr ratio to be elevated, indicating a prerenal process.		 
+356-04	136	Although BUN/Cr ratio is not &gt;20, we can still assume that he has prerenal ARF considering his use of diuretics and h/o CKD which can decrease the sensitivity of BUN/Cr rations and FENa for assessing etiologies of renal failure.		DIN FFF diuretics#19	INDICATION FFF renal failure#38
+356-04	137	Mr. Ishida additionally uses NSAIDs (e.g. Naproxen), an ARB and an ACEI, all of which are associated with decreased intraglomerular pressure and renal vasoconstriction which can lead to prerenal ARF.		DIN FFF nsaids#4
+356-04	137	Mr. Ishida additionally uses NSAIDs (e.g. Naproxen), an ARB and an ACEI, all of which are associated with decreased intraglomerular pressure and renal vasoconstriction which can lead to prerenal ARF.		DIN FFF naproxen#6
+356-04	137	Mr. Ishida additionally uses NSAIDs (e.g. Naproxen), an ARB and an ACEI, all of which are associated with decreased intraglomerular pressure and renal vasoconstriction which can lead to prerenal ARF.		DBN FFF arb#8	INDICATION FFF pressure#20	INDICATION FFF arf#29

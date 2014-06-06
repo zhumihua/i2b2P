@@ -1,0 +1,19 @@
+327-04	14	0	Elavil (AMITRIPTYLINE HCL) 10MG TABLET take 1 Tablet(s) PO QHS	Elavil (AMITRIPTYLINE HCL) FFF 0 2	10mg FFF 3 3	po FFF 8 8	qhs FFF 9 9	 FFF 	 FFF 	narrative
+327-04	15	0	Ecasa (ASPIRIN ENTERIC COATED) 325 MG (325MG TABLET take 1) PO QD	ecasa FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+327-04	16	0	Atenolol 50 MG PO BID	atenolol FFF 0 0	50 mg FFF 1 2	po FFF 3 3	bid FFF 4 4	 FFF 	 FFF 	narrative
+327-04	17	0	Lisinopril 40 MG (40MG TABLET take 1) PO QD	lisinopril FFF 0 0	40 mg FFF 1 2	po FFF 7 7	qd FFF 8 8	 FFF 	 FFF 	narrative
+327-04	18	0	Pravachol (PRAVASTATIN) 40MG TABLET take 1 Tablet(s) PO QHS	Pravachol (PRAVASTATIN) FFF 0 1	40mg FFF 2 2	po FFF 7 7	qhs FFF 8 8	 FFF 	 FFF 	narrative
+327-04	19	0	Lantus (INSULIN GLARGINE) 40 UNITS SC QHS	Lantus (INSULIN GLARGINE) FFF 0 2	40 units FFF 3 4	sc FFF 5 5	qhs FFF 6 6	 FFF 	 FFF 	narrative
+327-04	20	0	Golytely 4000 ML PO x1 , take as directed prior to colonoscopy	golytely FFF 0 0	4000 ml FFF 1 2	po FFF 3 3	x1 FFF 4 4	 FFF 	 FFF 	narrative
+327-04	21	0	Plavix (CLOPIDOGREL) 75 MG (75MG TABLET take 1) PO QD	plavix FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+327-04	22	0	Allopurinol 300 MG (300MG TABLET take 1) PO QD	allopurinol FFF 0 0	300 mg FFF 1 2	po FFF 7 7	qd FFF 8 8	 FFF 	 FFF 	narrative
+327-04	34	0	Influenza Vaccine 12/04/2093	influenza vaccine FFF 0 1	12/04/2093 FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+327-04	38	0	Pneumovax 06/10/2092 PER MD ORDER, WRITTEN INSTRUCTIONS GIVEN	pneumovax FFF 0 0	06/10/2092 FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+327-04	43	0	Hep B Vaccine 01/05/82	vaccine FFF 2 2	01/05/82 FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+327-04	53	0	Triglycerides 09/12/2093 267 TRIGLYCERIDES REFERENCE INTERVALS <150 mg/dL Normal 150-199 mg/dL Borderline High 200-499 mg/dL High >=500 mg/dL Very High	triglycerides FFF 3 3	<150 mg/dl FFF 6 7	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+327-04	53	0	Triglycerides 09/12/2093 267 TRIGLYCERIDES REFERENCE INTERVALS <150 mg/dL Normal 150-199 mg/dL Borderline High 200-499 mg/dL High >=500 mg/dL Very High	triglycerides FFF 3 3	150-199 mg/dl FFF 9 10	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+327-04	53	0	Triglycerides 09/12/2093 267 TRIGLYCERIDES REFERENCE INTERVALS <150 mg/dL Normal 150-199 mg/dL Borderline High 200-499 mg/dL High >=500 mg/dL Very High	triglycerides FFF 3 3	200-499 mg/dl FFF 13 14	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+327-04	53	0	Triglycerides 09/12/2093 267 TRIGLYCERIDES REFERENCE INTERVALS <150 mg/dL Normal 150-199 mg/dL Borderline High 200-499 mg/dL High >=500 mg/dL Very High	triglycerides FFF 3 3	>=500 mg/dl FFF 16 17	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+327-04	53	0	Triglycerides 09/12/2093 267 TRIGLYCERIDES REFERENCE INTERVALS <150 mg/dL Normal 150-199 mg/dL Borderline High 200-499 mg/dL High >=500 mg/dL Very High	triglycerides FFF 0 0	09/12/2093 FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+327-04	57	0	HBsAG 10/25/2093 NEGATIVE	hbsag FFF 0 0	10/25/2093 FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+327-04	59	0	Is proficient in use of his One Touch Ultra glucometer	one touch FFF 6 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

@@ -1,0 +1,35 @@
+278-03	15	0	S: Has history of DM2 for 20(+)years c/b peripheral neuropathy for which Mr. Jacobs takes amytriptyline with good effect. He has a hx of iritis and retinitis recently treated with steroids.  He follows-up with the Rusk State opthamologists. For foot care he sees a podiatrist at the RSH as well. There is no history of diabetic ulcer or cellulitis. He is maintained on glyburide 2.5mg for several years and he checks his BS qd with range of 100-150 and occasional episodes of hypoglycemia. His last AIC was 4.4% in 9/95. At this time his UA showed no proteinuria and his renal function is within normal limits. He is on an ACEi. His diabetic care is well managed at the Diabetic clinic by Whitney Bullock.	glyburide FFF 63 63	2.5mg FFF 64 64	 FFF 	qd FFF 73 73	 FFF 	 FFF 	narrative
+278-03	16	0	P: c/w glyburide and current endocrine/optho/podiatry care.	glyburide FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+278-03	26	0	Medical Regimen consists of  ASA, BB, ACEi, Statin.	medical regimen FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+278-03	26	0	Medical Regimen consists of  ASA, BB, ACEi, Statin.	asa, FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+278-03	26	0	Medical Regimen consists of  ASA, BB, ACEi, Statin.	bb, FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+278-03	26	0	Medical Regimen consists of  ASA, BB, ACEi, Statin.	statin. FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+278-03	34	0	Diet: eats fruits/vegetables; minimal salt, fatty foods	salt, FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+278-03	42	0	Vaccines: gets tetanus/pneumo at RSH (2095) and flu shot in the fall.	vaccines: FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+278-03	42	0	Vaccines: gets tetanus/pneumo at RSH (2095) and flu shot in the fall.	tetanus/pneumo FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+278-03	50	0	glipizide 2.5mg po qd QTY:90 Refills:4	glipizide FFF 0 0	2.5mg FFF 1 1	po FFF 2 2	qd FFF 3 3	 FFF 	 FFF 	narrative
+278-03	51	0	lisinopril 5 mg po qd QTY:90 Refills:4	lisinopril FFF 0 0	5 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+278-03	52	0	nitroglycerin 0.4 mg SL Q 5 minutes, x 3 prn chect pain QTY:100 Refills:12	nitroglycerin FFF 0 0	0.4 mg FFF 1 2	sl FFF 3 3	q 5 minutes, FFF 4 6	x 3 prn FFF 7 9	 FFF 	narrative
+278-03	53	0	metoprolol 50mg po bid QTY:180 Refills:4	metoprolol FFF 0 0	50mg FFF 1 1	po FFF 2 2	bid FFF 3 3	 FFF 	 FFF 	narrative
+278-03	54	0	atorvastatin 10 mg po qd QTY:90 Refills:4	atorvastatin FFF 0 0	10 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+278-03	55	0	psyllium powder 1 tsp po bid please give sugar free psyllium QTY:x15ounces Refills:12	psyllium powder FFF 0 1	1 tsp FFF 2 3	po FFF 4 4	bid FFF 5 5	 FFF 	 FFF 	narrative
+278-03	55	0	psyllium powder 1 tsp po bid please give sugar free psyllium QTY:x15ounces Refills:12	psyllium FFF 10 10	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+278-03	56	0	aspirin 81 mg po qd QTY:30 Refills:1 yr	aspirin FFF 0 0	81 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+278-03	57	0	Muro 128 1 drop each eye bedtime apply to both eyes at bedtime.	muro 128 FFF 0 1	1 drop FFF 2 3	eye FFF 5 5	bedtime FFF 6 6	 FFF 	 FFF 	narrative
+278-03	58	0	QTY:1 Refills:12 sodium chloride one drop each eye qid apply one drop to each eye four times a day.	sodium chloride FFF 2 3	one drop FFF 4 5	eye FFF 7 7	qid FFF 8 8	 FFF 	 FFF 	narrative
+278-03	58	0	QTY:1 Refills:12 sodium chloride one drop each eye qid apply one drop to each eye four times a day.	sodium chloride FFF 2 3	one drop FFF 10 11	eye FFF 14 14	four times a day. FFF 15 18	 FFF 	 FFF 	narrative
+278-03	59	0	QTY:1 Refills:12 amitriptyline 25 mg po qhs QTY:90 Refills:4	amitriptyline FFF 2 2	25 mg FFF 3 4	po FFF 5 5	qhs FFF 6 6	 FFF 	 FFF 	narrative
+278-03	61	0	glipizide 2.5mg po qd QTY:90 Refills:4 Start: 11/03/2092	glipizide FFF 0 0	2.5mg FFF 1 1	po FFF 2 2	qd FFF 3 3	 FFF 	 FFF 	narrative
+278-03	62	0	lisinopril 5 mg po qd QTY:90 Refills:4 Start: 11/03/2092	lisinopril FFF 0 0	5 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+278-03	63	0	nitroglycerin 0.4 mg SL Q 5 minutes, x 3 QTY:100 Refills:12 Start: 11/03/2092 prn chect pain	nitroglycerin FFF 0 0	0.4 mg FFF 1 2	sl FFF 3 3	q 5 minutes, FFF 4 6	x 3 QTY:100 FFF 7 9	 FFF 	narrative
+278-03	64	0	metoprolol 50mg po bid QTY:180 Refills:4 Start: 11/03/2092	metoprolol FFF 0 0	50mg FFF 1 1	po FFF 2 2	bid FFF 3 3	 FFF 	 FFF 	narrative
+278-03	65	0	atorvastatin 10 mg po qd QTY:90 Refills:4 Start: 11/03/2092	atorvastatin FFF 0 0	10 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+278-03	66	0	psyllium powder 1 tsp po bid QTY:x15ounces Refills:12 Start: 11/03/2092 please give sugar free psyllium	psyllium powder FFF 0 1	1 tsp FFF 2 3	po FFF 4 4	bid FFF 5 5	 FFF 	 FFF 	narrative
+278-03	66	0	psyllium powder 1 tsp po bid QTY:x15ounces Refills:12 Start: 11/03/2092 please give sugar free psyllium	psyllium FFF 14 14	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+278-03	67	0	aspirin 81 mg po qd QTY:30 Refills:1 yr Start: 11/03/2092	aspirin FFF 0 0	81 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+278-03	68	0	Muro 128 1 drop each eye bedtime QTY:1 Refills:12 Start: 5/05/2093 apply to both eyes at bedtime.	muro 128 FFF 0 1	1 drop FFF 2 3	eye FFF 5 5	bedtime FFF 6 6	 FFF 	 FFF 	narrative
+278-03	69	0	sodium chloride one drop each eye qid QTY:1 Refills:12 Start: 5/05/2093 apply one drop to each eye four times a day.	sodium chloride FFF 0 1	one drop FFF 2 3	eye FFF 5 5	qid FFF 6 6	 FFF 	 FFF 	narrative
+278-03	69	0	sodium chloride one drop each eye qid QTY:1 Refills:12 Start: 5/05/2093 apply one drop to each eye four times a day.	sodium chloride FFF 0 1	one drop FFF 12 13	eye FFF 16 16	four times a day. FFF 17 20	 FFF 	 FFF 	narrative
+278-03	70	0	amitriptyline 25 mg po qhs QTY:90 Refills:4 Start: 10/12/2094	amitriptyline FFF 0 0	25 mg FFF 1 2	po FFF 3 3	qhs FFF 4 4	 FFF 	 FFF 	narrative
+278-03	71	0	Iron sulfate 325mg  PO QD QTY:30 Refills:3 Start: 1/11/2096 End: 6/11/2096 take with food once daily. - Inactivated	iron sulfate FFF 0 1	325mg FFF 2 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+278-03	72	0	Colace 100 mg po bid QTY:180 Refills:3 Start: 1/11/2096 End: 6/11/2096 - Inactivated	colace FFF 0 0	100 mg FFF 1 2	po FFF 3 3	bid FFF 4 4	 FFF 	 FFF 	narrative

@@ -1,0 +1,17 @@
+368-03	10	0	HPI: Pt is a 56 yo woman with a PMH significant for multiple cardiac risk factors, including IDDM, with a HbA1C of 10.7 earlier this month, HTN, Hyperlipidemia, whose insulin dose was increased 3 weeks ago.	insulin FFF 29 29	 FFF 	 FFF 	 FFF 	3 weeks FFF 33 34	 FFF 	narrative
+368-03	13	0	The pt took her morning insulin as usual, ate her normal breakfast, and at 4:30pm was walking to the kitchen when she got dizzy and felt her legs    turn to jelly.	insulin FFF 5 5	 FFF 	 FFF 	at 4:30pm FFF 13 14	 FFF 	 FFF 	narrative
+368-03	22	0	DM- insulin dependent- adult onset- HbA1C 10.7 (7/96)- diabetic retinopathy	insulin FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+368-03	27	0	Hypercoag workup normal other than slightly elevated protein C.	protein c. FFF 7 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+368-03	31	0	Hyperparathyroidism- PTH max 104 (1/96)- s/p partial resection	pth FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+368-03	34	438	ASA 325MG QD	asa FFF 0 0	325mg FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+368-03	35	438	Prozac 20MG QD	prozac FFF 0 0	20mg FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+368-03	36	438	Prilosec 20MG BID PRN	prilosec FFF 0 0	20mg FFF 1 1	 FFF 	BID PRN FFF 2 3	 FFF 	 FFF 	narrative
+368-03	37	438	Losartan 100MG QD	losartan FFF 0 0	100mg FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+368-03	38	438	Clonazepam 0.5MG PO BID PRN anxiety	clonazepam FFF 0 0	0.5mg FFF 1 1	po FFF 2 2	BID PRN FFF 3 4	 FFF 	 FFF 	narrative
+368-03	39	438	Nystatin POWDER BID x 15 days	nystatin powder FFF 0 1	 FFF 	 FFF 	bid FFF 2 2	15 days FFF 4 5	 FFF 	narrative
+368-03	40	438	Nystatin CREAM BID x 15 days	nystatin cream FFF 0 1	 FFF 	 FFF 	bid FFF 2 2	15 days FFF 4 5	 FFF 	narrative
+368-03	41	438	Hctz 25 MG QD	hctz FFF 0 0	25 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+368-03	42	438	Neurontin 300MG TID	neurontin FFF 0 0	300mg FFF 1 1	 FFF 	tid FFF 2 2	 FFF 	 FFF 	narrative
+368-03	43	438	Insulin 70/30 80 qam 70 qpm (recently increased)	insulin 70/30 FFF 0 1	 FFF 	 FFF 	qam 70 qpm FFF 3 5	 FFF 	 FFF 	narrative
+368-03	44	438	SIMVASTATIN 20 MG QHS	simvastatin FFF 0 0	20 mg FFF 1 2	 FFF 	qhs FFF 3 3	 FFF 	 FFF 	narrative
+368-03	47	0	SHx:  Works as teller at First Hawaiian Bank, denies tobacco, occasional ETOH, denies drugs.	drugs. FFF 13 13	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

@@ -1,0 +1,9 @@
+392-03	15	438	Cilostazol (CILOSTAZOL) 100 MG (100MG TABLET take 1) PO BID	cilostazol FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+392-03	16	438	Glipizide Xl (GLIPIZIDE Xl) 10 MG (10MG TAB OSM 24 take 1) PO QD	glipizide xl FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+392-03	16	438	Glipizide Xl (GLIPIZIDE Xl) 10 MG (10MG TAB OSM 24 take 1) PO QD	osm FFF 8 8	24 FFF 9 9	po FFF 12 12	qd FFF 13 13	 FFF 	 FFF 	narrative
+392-03	17	438	LISINOPRIL 2.5 MG (2.5MG TABLET take 1) PO QD	lisinopril FFF 0 0	2.5 mg FFF 1 2	po FFF 7 7	qd FFF 8 8	 FFF 	 FFF 	narrative
+392-03	18	438	METFORMIN 500 MG (500MG TABLET take 1) PO BID x 30 days	metformin FFF 0 0	500 mg FFF 1 2	po FFF 7 7	bid FFF 8 8	30 days FFF 10 11	 FFF 	narrative
+392-03	19	438	Pravastatin (PRAVASTATIN) 10 MG (10MG TABLET take 1) PO QHS x 30 days	pravastatin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+392-03	20	438	Tramadol (TRAMADOL) 50 MG (50MG TABLET take 1) PO Q6H PRN x 30 days	tramadol FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+392-03	50	0	MRA: recently performed but not read.By my read, looks as though iliacs and CFAs are OK, but there is left and right SFA lesions.The popliteal artery reconstitutes bilaterally.Distally, one vessel run off (DP).Please	vessel FFF 29 29	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+392-03	52	0	*Agree with admit to medicine for IV antibiotics	antibiotics FFF 7 7	 FFF 	iv FFF 6 6	 FFF 	 FFF 	 FFF 	narrative

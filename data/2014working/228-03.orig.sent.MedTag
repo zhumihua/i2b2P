@@ -1,0 +1,37 @@
+228-03	1	Record date: 2084-08-23	
+228-03	2		
+228-03	3		
+228-03	4		
+228-03	5		
+228-03	6	Follow-up for labile hypertension.		INDICATION FFF hypertension .#3
+228-03	7	At the time of our last visit, she  began Procardia XL 30 mg daily and completed a series of 24 hour urine  tests.		DBN FFF procardia xl#10	DOSE FFF 30mg#12	FREQ FFF daily#13	DRT FFF 24 hour#20
+228-03	8	All of the urine tests returned normal.	
+228-03	9	After being on the dose  of Procardia, she noticed some continuation of her symptoms and Dr.		DBN FFF procardia#6	INDICATION FFF symptoms#13
+228-03	10	Iniguez  suggested that she increase the dose to two tablets daily.		DOSEAMT FFF two tablets#9	FREQ FFF daily#10
+228-03	11	She has been  on that dose for the last two weeks and has noticed dramatic change in  her symptoms.		DRT FFF two weeks#10	INDICATION FFF change#15	INDICATION FFF symptoms#18
+228-03	12	Shes having much fewer spells and her blood pressure,  likewise is much lower than it had been.		INDICATION FFF her blood pressure#8
+228-03	13	Overall, she is pleased with  these results.	
+228-03	14		
+228-03	15	Her other medications have remained the same although she has	
+228-03	16	discontinued using immediate release Nifedipine and Nitroglycerin both  sublingual and patches.		DIN FFF nifedipine#4	DIN FFF nitroglycerin#6	RUT FFF sublingual#8
+228-03	17		
+228-03	18	BP initially 142/52, later by me 170/68		INDICATION FFF bp#0	INDICATION FFF me#5
+228-03	19	Weight 155 lbs.		INDICATION FFF weight#0
+228-03	20	Pulse 68	
+228-03	21	Her examination remains unchanged except she has 2+ edema in her left  leg and 1+ in the right leg.		INDICATION FFF edema#8
+228-03	22		
+228-03	23	Assessment:  Labile hypertension-clinically improved.	
+228-03	24		
+228-03	25	Plan:	
+228-03	26		
+228-03	27	1.  Change Procardia XL to 60 mg once daily and continue other		INDICATION FFF change#1	DBN FFF procardia xl#3	DOSE FFF 60mg#6	FREQ FFF once daily#8
+228-03	28	medications as is.		INDICATION FFF as#1
+228-03	29	2.  I suggested that she return for her regular follow-up with Dr.	
+228-03	30	Gibbons  and Dr.	
+228-03	31	Iniguez.  I would be happy to see her in the future but do not  feel that additional visits here are necessary.	
+228-03	32		
+228-03	33		
+228-03	34	******** Not reviewed by Attending Physician ********	
+228-03	35		
+228-03	36		
+228-03	37		

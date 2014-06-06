@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2150-06-15
+
+Baycoast Medical Center
+
+Emergency Department Record
+
+
+
+Patient: ISHIDA, NATHAN             MRN: 8792076        DOB:  1/24/2076     Sex: M
+
+Registration Date/Time: 6/15/2150 11:25:00 PM            Provider: NICHOLAS  EDGE
+
+
+
+
+Time Patient Seen
+
+0245
+
+Chief Complaint
+
+constipation
+
+HPI
+
+74M p/w constipation. No BM in 5-6 days.  Prior to that went 3-4 days without a BM. No abd pain, but feels full and uncomfortable. No N/V, BRBPR, diarrhea, fevers/chills. Tried one dose of senna and one dose of enulose per a family member's recommendation without any effect.
+
+PMHx
+
+niddm, htn, high cholesterol, GERD, arthritis
+
+PSurHx
+
+s/p CCY
+
+Meds
+
+see RN notes
+
+Allergy
+
+oxybutin
+
+
+
+Physical Exam
+
+Constitutional
+
+obese pleasant man, no acute distress
+
+Vitals
+
+T: 96.8
+
+P: 54
+
+BP: 179/102
+
+RR: 18
+
+Chest/Respiratory
+
+cta b
+
+Cardiovascular
+
+rrr
+
+GI/Abdomen
+
+obese, soft, nt, nd
+
+Impression/Plan
+
+74M w/constipation and benign abd exam. Explained need for bowel regimen. Pt currently eats lots of cheese, does not drink much water or juice. 15 min of patient education on managing constipation. Will rx w/colace and lactulose in ED. Pt to f/u w/PCP.
+
+
+
+ED Attending Physician Note
+
+HPI
+
+74yo male - no bowel movement in almost one week. No abd pain, no nausea/vomiting, but he does feel uncomfortable. No BRBPR, diarrhea, fevers/chills. He has tried senna and enulose with no effect. Symptoms are constant, nonradiating, no modifying factors
+
+ROS
+
+All systems reviewed and negative except as above
+
+Vitals
+
+See Nursing Notes
+
+PE
+
+General: Awake, alert, comfortable.
+
+Head: Normocephalic, atraumatic
+
+Neck: Supple, full range of motion, nontender
+
+Chest: No respiratory distress
+
+Abdomen: soft, non-tender, non-distended, no organomegaly, normally active bowel sounds.
+
+Musculoskeletal: no muscle tenderness of the extremities.
+
+Neurologic: Sensation normal to light touch of the lower extremities. Strength normal.
+
+Skin: No rashes.
+
+Psychiatric: Mood/affect normal.
+
+
+
+Medical Decision Making ED Course
+
+Symptoms of constipation - no evidence of SBO or obstipation. He clinically appears well at this time. He will be given instructions for a better bowel regimen and followup with PCP.
+
+Condition on Discharge
+
+Stable
+
+Diagnoses
+
+Constipation
+
+Review Comments
+
+I have personally seen and examined the patient and confirmed the resident's examination, reviewed and agree with the resident's documentation of history, and discussed the evaluation, plan of care and disposition of the patient with the resident.
+
+
+
+This note has been electronically signed by NICHOLAS  EDGE, MD 6/16/2150 3:22:59 PM
+
+
+
+Clinical staff documenting in the ED note include:
+
+
+
+Attending/Nurse Practitioners(s)
+
+
+
+NICHOLAS  EDGE, MD
+
+Other Providers
+
+
+
+UNA  BIRD, MD
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC4" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC7" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC14" time="during DCT" indicator="mention"/>
+    <OBESE id="DOC2" time="after DCT" indicator="mention"/>
+    <OBESE id="DOC5" time="during DCT" indicator="mention"/>
+    <OBESE id="DOC10" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC11" indicator="not present"/>
+    <SMOKER id="DOC12" status="unknown"/>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC8" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC13" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

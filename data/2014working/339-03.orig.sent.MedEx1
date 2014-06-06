@@ -1,0 +1,158 @@
+339-03||1||Record date: 2085-02-28
+339-03||3||Team 1  Admission Note
+339-03||4||Admission Date:  February 4, 2085
+339-03||5||Patient Name:  Vanessa Asher
+339-03||6||MRN#:  0467550
+339-03||7||Attending:  Hunter, Nebrasska, MD
+339-03||8||Intern: Len Wayne-Gregory, MD
+339-03||9||Historian: patient, records
+339-03||10||Chief Complaint:
+339-03||11||Nausea and vomiting
+339-03||12||HPI:
+339-03||13||74 yo female with a past medical history of poorly controlled diabetes (Hem A1C 10.3 in 2/85), hypertension and  hyperlipidemia who presents with two days of left eye pain and a one day history of nausea and vomiting.
+339-03||14||The patient's eye pain began on 2 days prior to admission and has progressed to a severe stabbing pain that precipitated a visit to the MARY ED.
+339-03||15||The patient notes that her vision is more cloudy that usual although she does not see well out of that eye at baseline.
+339-03||16||No right eye symptoms.
+339-03||17||The patient also developed nausea and abdominal tenderness this AM.
+339-03||18||The pain was mild.
+339-03||19||She describes the pain as centered in her epigastrium.
+339-03||20||She does not report chest pain or pressure and reports no symptoms of radiation to her shoulder or jaw.
+339-03||21||She notes that the nausea is not associated with exercise or relieved by rest.
+339-03||22||The discomfort has been constant since it began this am.
+339-03||23||She denies hematemasis, fevers, chills, diarrhea.
+339-03||24||The patient denies ever having chest pain or shortness of breath with exertion.
+339-03||25||IN the ED the patient was found to have a markedly elevated Intraocular pressure of 54.
+339-03||26||She was treated with steroid, alpha blocker, Beta blocker drops and carbonic anhydrase inhibitors (both PO and drops) to lower her pressure.||DIN FFF steroid, FFF 4 4||
+339-03||26||She was treated with steroid, alpha blocker, Beta blocker drops and carbonic anhydrase inhibitors (both PO and drops) to lower her pressure.||DIN FFF alpha blocker, FFF 5 6||
+339-03||26||She was treated with steroid, alpha blocker, Beta blocker drops and carbonic anhydrase inhibitors (both PO and drops) to lower her pressure.||DIN FFF beta blocker FFF 7 8||DDF FFF drops FFF 9 9||
+339-03||26||She was treated with steroid, alpha blocker, Beta blocker drops and carbonic anhydrase inhibitors (both PO and drops) to lower her pressure.||DIN FFF carbonic anhydrase inhibitors FFF 11 13||RUT FFF po FFF 15 15||DDF FFF drops) FFF 17 17||INDICATION FFF pressure. FFF 21 21||
+339-03||27||The patient was thought to have acute closed angle glaucoma caused by proliferative diabetic retinopathy.
+339-03||28||Past Medical History:
+339-03||29||Diabetes:  HemA1C 10.3 in Feb 2085.
+339-03||30||She has been on insulin for 3 years and has been a diabetic for 7 years||DIN FFF insulin FFF 4 4||DRT FFF 3 years FFF 6 7||DRT FFF 7 years FFF 14 15||
+339-03||31||Eye
+339-03||32||-Cataract in OD
+339-03||33||-Laser ablation of diabetic retinopathy in OS
+339-03||34||-vitreous hemorrhage in OS
+339-03||35||Hypertension
+339-03||36||Diabetes mellitus
+339-03||37||History of Small Bowel Obstruction in 2080
+339-03||38||Anemia:  found to have sickle cell trait.
+339-03||39||Iron studies, B12, folate WNL.
+339-03||40||Hct stable ? history of pancreatitis
+339-03||41||Meds:
+339-03||42||Humalog 75/25 34u at bkfst||DBN FFF humalog FFF 0 0||DOSE FFF 75/25 FFF 1 1||
+339-03||42||Humalog 75/25 34u at bkfst||DBN FFF humalog FFF 0 0||DOSE FFF 34u FFF 2 2||
+339-03||43||Humalog 75/25 18u at dinner||DBN FFF humalog FFF 0 0||DOSE FFF 75/25 FFF 1 1||
+339-03||43||Humalog 75/25 18u at dinner||DBN FFF humalog FFF 0 0||DOSE FFF 18u FFF 2 2||
+339-03||44||Glucophage 1000mg BID||DBN FFF glucophage FFF 0 0||DOSE FFF 1000mg FFF 1 1||FREQ FFF bid FFF 2 2||
+339-03||45||Neurontin 300mg HS (sometimes skips)||DBN FFF neurontin FFF 0 0||DOSE FFF 300mg FFF 1 1||FREQ FFF hs FFF 2 2||
+339-03||46||Bayer ASA 81mg QD||DBN FFF bayer FFF 0 0||DIN FFF asa FFF 1 1||DOSE FFF 81mg FFF 2 2||FREQ FFF qd FFF 3 3||
+339-03||47||HCTZ 25mg QD||DPN FFF hctz FFF 0 0||DOSE FFF 25mg FFF 1 1||FREQ FFF qd FFF 2 2||
+339-03||48||Norvasc 10mg QD (started yesterday; prescribed by Dr.||DBN FFF norvasc FFF 0 0||DOSE FFF 10mg FFF 1 1||FREQ FFF qd FFF 2 2||
+339-03||49||Zajac)
+339-03||50||Metoprolol 50mg, 1/2 tablet BID||DIN FFF metoprolol FFF 0 0||DOSE FFF 50mg, FFF 1 1||DOSEAMT FFF 1/2 tablet FFF 2 3||FREQ FFF bid FFF 4 4||
+339-03||51||Lisinopril 40mg QD||DIN FFF lisinopril FFF 0 0||DOSE FFF 40mg FFF 1 1||FREQ FFF qd FFF 2 2||
+339-03||52||Lipitor 10mg QD||DBN FFF lipitor FFF 0 0||DOSE FFF 10mg FFF 1 1||FREQ FFF qd FFF 2 2||
+339-03||53||Ranitidine 150mg QD||DIN FFF ranitidine FFF 0 0||DOSE FFF 150mg FFF 1 1||FREQ FFF qd FFF 2 2||
+339-03||54||All:  NKDA
+339-03||55||FH:
+339-03||56||F deceased age 63 from "kidney problems", M deceased age 47 from fall and chest infection,  3 brothers A&W,  one brother died in his 70's with prostate Ca, 2 sisters deceased, one post op, the other had sudden death age 60's
+339-03||57||SH:
+339-03||58||Pt lives with one of her daughters.
+339-03||59||She does not smoke or drink ETOH
+339-03||60||PHYSICAL EXAMINATION
+339-03||61||Vital Signs: 98  132/70  57  20  100% on RA
+339-03||62||General Appearance:  well in NAD
+339-03||63||HEENT:  NC/AT, PERRLA, OP clear with MMM
+339-03||64||Skin:  No rashes, no petechia
+339-03||65||Neck:  Supple, trachea midline, JVD flat,
+339-03||66||Lymphatics: No palpable LAN
+339-03||67||Chest:  CTAB
+339-03||68||Heart: RRR, normal S1/S2 tones, soft SEM at USB
+339-03||69||Abdomen:  soft, minimal epigastric tenderness to deep palpation.
+339-03||70||No rebound or guarding.
+339-03||71||No masses,  no hepatosplenomegally.
+339-03||72||Positive bowel sounds.
+339-03||73||Extremities:  warm, no c/c/e
+339-03||74||Neuro: A&Ox3, non focal exam
+339-03||75||LABS
+339-03||76||NA         136||DIN FFF na FFF 0 0||
+339-03||77||K          3.9
+339-03||78||CL         108
+339-03||79||CO2        25.0
+339-03||80||BUN        26(H)
+339-03||81||CRE        1.5
+339-03||82||GLU        399(H)||DIN FFF glu FFF 0 0||DOSE FFF 399(h) FFF 1 1||
+339-03||84||CA         9.5
+339-03||85||PHOS       4.4
+339-03||86||MG         1.7
+339-03||87||TBILI      0.6
+339-03||88||DBILI      0.2
+339-03||89||TP         8.2
+339-03||90||ALB        3.8||DIN FFF alb FFF 0 0||
+339-03||91||GLOB       4.4(H)
+339-03||92||AMY        144(H)
+339-03||93||LIPS       7.0(H)
+339-03||94||ALT/SGPT   14
+339-03||95||AST/SGOT   16
+339-03||96||ALKP       80
+339-03||97||TBILI      0.6
+339-03||98||DBILI      0.2
+339-03||100||CK-MB      Negative
+339-03||101||TROP-I     Negative
+339-03||103||WBC        8.5
+339-03||104||RBC        3.58(L)
+339-03||105||HGB        10.8(L)
+339-03||106||HCT        31.9(L)
+339-03||107||MCV        89
+339-03||108||MCH        30.2
+339-03||109||MCHC       33.9
+339-03||110||PLT        200
+339-03||111||RDW        14.6(H)
+339-03||112||DIFFR      Received
+339-03||113||METHOD     Auto
+339-03||114||%NEUT      75(H)
+339-03||115||%LYMPH     22
+339-03||116||%MONO      2(L)
+339-03||117||%EOS       1
+339-03||118||%BASO      0
+339-03||119||ANEUT      6.37
+339-03||120||ALYMP      1.87
+339-03||121||AMONS      0.19(L)
+339-03||122||AEOSN      0.05(L)
+339-03||123||ABASOP     0.03
+339-03||124||ANISO      None
+339-03||125||HYPO       None
+339-03||126||MACRO      None
+339-03||127||MICRO      None
+339-03||129||PT         12.3(T)
+339-03||130||PT-INR     1.0(T)
+339-03||131||PTT        20.8(LT)
+339-03||132||DIAGNOSTIC STUDIES:
+339-03||133||CXR:
+339-03||134||No CHF.
+339-03||135||On the lateral view only there is some increased patchy  opacity in the posterior clear space which could represent  developing atelectasis or, in the proper clinical setting, could  represent a subtle focus focus of pneumonia.
+339-03||136||There is new  blunting of the posterior costophrenic angles consistent with a  small amount of pleural fluid.
+339-03||137||Abdominal Ultrasound:
+339-03||138||NEGATIVE STUDY.
+339-03||139||Exercise Stress Test:
+339-03||140||No ST segment changes were observed during this test.
+339-03||141||Arrhythmias:
+339-03||142||None.
+339-03||143||Comments:
+339-03||144||Fair exercise capacity. At peak exercise, patient complained of         indigestion feeling relieved by belching after several minutes.
+339-03||145||Negative for ischemia.
+339-03||146||EKG:
+339-03||147||NSR.  New TWI in V2, q in III, normal axis and intervals, no ST changes
+339-03||149||ASSESSMENT/PLAN:
+339-03||150||The patient is a 74 yo female with poorly diabetes mellitus, hypertension, and hyperlipidemia who presents with acute closed angle glaucoma and nausea and vomiting.
+339-03||151||1. Glaucoma.
+339-03||152||Likely secondary to proliferative diabetic retinopathy.
+339-03||153||As recommended by the ophthalmologic consultant, I will give the following meds
+339-03||154||-Xalatan qHS||DBN FFF -xalatan FFF 0 0||FREQ FFF qhs FFF 1 1||
+339-03||155||-Pred Forte QID||DBN FFF -pred forte FFF 0 1||FREQ FFF qid FFF 2 2||
+339-03||156||-Timolol BID||DIN FFF -timolol FFF 0 0||FREQ FFF bid FFF 1 1||
+339-03||157||-Trusopt BID||DBN FFF -trusopt FFF 0 0||FREQ FFF bid FFF 1 1||
+339-03||158||-Acetazolamide BID||DIN FFF -acetazolamide FFF 0 0||FREQ FFF bid FFF 1 1||
+339-03||159||-Alphagan||DBN FFF -alphagan FFF 0 0||

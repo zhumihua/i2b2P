@@ -1,0 +1,67 @@
+272-02||1||Record date: 2093-06-30
+272-02||2||NAME:     Oliver, Uriah
+272-02||3||MRN:       7916007
+272-02||4||Primary Care Provider:  Dr. Patterson
+272-02||5||Mr. Oliver returns for follow-up of several issues.
+272-02||6||Weight 175.
+272-02||7||Blood pressure 130/80.
+272-02||8||MEDICATIONS:   He finished Flagyl last night, and he took his last dose of levoflox today.||DBN FFF flagyl FFF 3 3||
+272-02||8||MEDICATIONS:   He finished Flagyl last night, and he took his last dose of levoflox today.||DPN FFF levoflox FFF 13 13||
+272-02||9||Glyburide is on hold.||DIN FFF glyburide FFF 0 0||
+272-02||10||He is taking hydrochlorothiazide 25 mg q.d., Lovastatin 20 mg q.d., fosinopril 40 mg q.d., verapamil SR 240 mg q.d., ASA 1 q.d., metoprolol 75 mg three times a day and Glucophage 1000 mg b.i.d.||DIN FFF hydrochlorothiazide FFF 3 3||DOSE FFF 25 mg FFF 4 5||FREQ FFF q.d., FFF 6 6||
+272-02||10||He is taking hydrochlorothiazide 25 mg q.d., Lovastatin 20 mg q.d., fosinopril 40 mg q.d., verapamil SR 240 mg q.d., ASA 1 q.d., metoprolol 75 mg three times a day and Glucophage 1000 mg b.i.d.||DIN FFF lovastatin FFF 7 7||DOSE FFF 20 mg FFF 8 9||FREQ FFF q.d., FFF 10 10||
+272-02||10||He is taking hydrochlorothiazide 25 mg q.d., Lovastatin 20 mg q.d., fosinopril 40 mg q.d., verapamil SR 240 mg q.d., ASA 1 q.d., metoprolol 75 mg three times a day and Glucophage 1000 mg b.i.d.||DIN FFF fosinopril FFF 11 11||DOSE FFF 40 mg FFF 12 13||FREQ FFF q.d., FFF 14 14||
+272-02||10||He is taking hydrochlorothiazide 25 mg q.d., Lovastatin 20 mg q.d., fosinopril 40 mg q.d., verapamil SR 240 mg q.d., ASA 1 q.d., metoprolol 75 mg three times a day and Glucophage 1000 mg b.i.d.||DIN FFF verapamil sr FFF 15 16||DOSE FFF 240 mg FFF 17 18||FREQ FFF q.d., FFF 19 19||
+272-02||10||He is taking hydrochlorothiazide 25 mg q.d., Lovastatin 20 mg q.d., fosinopril 40 mg q.d., verapamil SR 240 mg q.d., ASA 1 q.d., metoprolol 75 mg three times a day and Glucophage 1000 mg b.i.d.||DIN FFF asa FFF 20 20||FREQ FFF q.d., FFF 22 22||
+272-02||10||He is taking hydrochlorothiazide 25 mg q.d., Lovastatin 20 mg q.d., fosinopril 40 mg q.d., verapamil SR 240 mg q.d., ASA 1 q.d., metoprolol 75 mg three times a day and Glucophage 1000 mg b.i.d.||DIN FFF metoprolol FFF 23 23||DOSE FFF 75 mg FFF 24 25||FREQ FFF three times a day FFF 26 29||
+272-02||10||He is taking hydrochlorothiazide 25 mg q.d., Lovastatin 20 mg q.d., fosinopril 40 mg q.d., verapamil SR 240 mg q.d., ASA 1 q.d., metoprolol 75 mg three times a day and Glucophage 1000 mg b.i.d.||DBN FFF glucophage FFF 31 31||DOSE FFF 1000 mg FFF 32 33||FREQ FFF b.i.d. FFF 34 34||
+272-02||11||(1)  Diverticulitis and history of colon cancer.
+272-02||12||S:   His pain is gone although he continues to have a bad taste in his mouth           since he has been on antibiotics.||INDICATION FFF his pain FFF 1 2||RUT FFF mouth FFF 15 15||DIN FFF antibiotics. FFF 21 21||
+272-02||13||O:   His abdomen is soft with normal bowel sounds.
+272-02||14||There is no tenderness           today.
+272-02||15||P:   He will need colonoscopy at the Atlantic North in a month or so.
+272-02||16||(2)  Diarrhea.
+272-02||17||S:   He has continued to have several soft, dark bowel movements a day           while he has been taking the antibiotic.||DBN FFF antibiotic. FFF 19 19||
+272-02||18||He has not seen any bright red           blood per rectum.
+272-02||19||He has been using Equal and eating ice cream.
+272-02||20||O:   Stool for C. diff. and stool C&S were both negative.
+272-02||21||P:   I asked him to discontinue artificial sweeteners and milk products,           except for yogurt, for 3 days.
+272-02||22||He will call if the diarrhea persists off the           antibiotic.||INDICATION FFF diarrhea FFF 5 5||DBN FFF antibiotic. FFF 9 9||
+272-02||23||(3)  Guaiac-positive stool on examination last week.
+272-02||24||O:   His hematocrit had increased to 35.7 last week.
+272-02||25||P:   Recheck CBC.
+272-02||26||He will bring me the name of his GI physician at the
+272-02||27||Atlantic North so that I can communicate with him about the recent events           and arrange for follow-up colonoscopy.
+272-02||28||(4)  Dizziness.
+272-02||29||S:   This has resolved.
+272-02||30||(5)  Diabetes.
+272-02||31||S:   He stopped glyburide as directed last week when his 4 p.m. blood sugar           was 44.||DIN FFF glyburide FFF 3 3||INDICATION FFF as FFF 4 4||TOD FFF p.m. FFF 11 11||INDICATION FFF blood sugar FFF 12 13||
+272-02||32||His fingerstick blood sugar was 192 this morning.
+272-02||33||He reports           that he is eating much better.
+272-02||34||P:   He will restart glyburide 5 mg q.d. when his blood sugar is greater than           200.||DIN FFF glyburide FFF 4 4||DOSE FFF 5 mg FFF 5 6||FREQ FFF q.d. FFF 7 7||INDICATION FFF his blood sugar FFF 9 11||
+272-02||35||(6)  Systolic murmur and right bundle branch block.
+272-02||36||P:   His echocardiogram has been requested but he has not yet received the           appointment.
+272-02||37||(7)  Coronary artery disease.
+272-02||38||S:   He has had no chest pain.
+272-02||39||He apparently had an appointment last week           for an exercise tolerance test at the Atlantic North but the technician was           not there.
+272-02||40||He has another appointment later this week with the doctor           at the Atlantic North.
+272-02||41||P:   I gave him a copy of the final NYSH discharge summary from his recent           hospitalization as well as copies of the EKGs done during the           hospitalization and a copy of the abdominal CT report to take to his           doctor at the Atlantic North.
+272-02||42||(8)  Proteinuria during the hospitalization.
+272-02||43||O:   His serum creatinine was 1.5 (likely elevated given his age).
+272-02||44||Repeat           urinalysis showed 1+ albumin with no other significant abnormalities.||DIN FFF albumin FFF 4 4||
+272-02||45||P:   Check 24-hour urine for protein and creatinine.
+272-02||46||Check serum protein           electrophoresis and urine immunoelectrophoresis.
+272-02||47||(9)  Chronic anemia.
+272-02||48||O:   He had normal iron studies, B12 and folate several months ago.
+272-02||49||His           hematocrit was stable as of last week.
+272-02||50||P:   Check serum protein electrophoresis and urine immunoelectrophoresis.
+272-02||51||(10) Decreased HDL.
+272-02||52||A:   We could either add niacin or change his statin from Mevacor to Lipitor           to increase the HDL.||DIN FFF niacin FFF 5 5||INDICATION FFF change FFF 7 7||
+272-02||52||A:   We could either add niacin or change his statin from Mevacor to Lipitor           to increase the HDL.||DIN FFF statin FFF 9 9||
+272-02||52||A:   We could either add niacin or change his statin from Mevacor to Lipitor           to increase the HDL.||DBN FFF mevacor FFF 11 11||
+272-02||52||A:   We could either add niacin or change his statin from Mevacor to Lipitor           to increase the HDL.||DBN FFF lipitor FFF 13 13||
+272-02||53||P:   I have deferred this issue to his primary care physician.
+272-02||54||He will return for follow-up in 2 weeks so that we can make final arrangements for the colonoscopy and to check progress with his diabetes.
+272-02||55||Ciara J.
+272-02||56||Goldberg, M.D.
+272-02||57||CG/nation/olivo

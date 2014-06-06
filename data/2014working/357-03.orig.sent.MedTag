@@ -1,0 +1,95 @@
+357-03	1	Record date: 2077-01-31	
+357-03	2	LEPROSARIUM INPATIENT DIALYSIS ADMIT NOTE	
+357-03	3	Outpatient Nephrologist:   Dr. Mcgee	
+357-03	4	Outpatient Dialysis Unit:   BH	
+357-03	5	Estimated dry weight:  68.5 kg		INDICATION FFF weight#2
+357-03	6	Dialysis access:  RUE AVF	
+357-03	7	Reason for admission: hypoglycemia		INDICATION FFF hypoglycemia#3
+357-03	8	HPI:	
+357-03	9	76F ESRD on HD.		INDICATION FFF f#0	INDICATION FFF esrd#1	INDICATION FFF hd#3
+357-03	10	Felt "woozy" last night and found by daughter to be confused.	
+357-03	11	Daughter called 911 and FS glucose 30.	
+357-03	12	Pt has had recurrent episodes of hypoglycemia - says b/c she "doesn't want to eat".		INDICATION FFF hypoglycemia#6
+357-03	13	She says she has an endocrinologist, Dr.	
+357-03	14	Hayes, but does not remember where the office is located.	
+357-03	15	She takes insulin once a day (30u NPH and 10u R).		DIN FFF insulin#2	FREQ FFF once a day#5	DOSE FFF 30u#6	DBN FFF nph#7	DOSE FFF 10u#9
+357-03	16	ROS otherwise negative in detail.	
+357-03	17	Past Medical History:	
+357-03	18	ESRD presumed 2/2 type 2 DM		INDICATION FFF esrd#0	INDICATION FFF type 2 dm#5
+357-03	19	- on HD since 2075, TTS		INDICATION FFF hd#2
+357-03	20	Type 2 DM (Insulin-dependent)		INDICATION FFF type 2 dm#2
+357-03	21	- multiple episodes of hypoglycemia in the past		INDICATION FFF hypoglycemia#4
+357-03	22	asthma - no intubations d/t asthma exacerbation, has previously been on steroids stroke/TIA in past seizure 2069, unclear etiology multinodular goiter		INDICATION FFF asthma#0	INDICATION FFF t#4	INDICATION FFF asthma exacerbation#6	INDICATION FFF stroke#12	INDICATION FFF tia#12	INDICATION FFF seizure#15	INDICATION FFF goiter#20
+357-03	23	HTN		INDICATION FFF htn#0
+357-03	24	hyperlipidemia		INDICATION FFF hyperlipidemia#0
+357-03	25	Past Surgical History:	
+357-03	26	s/p TAH-BSO	
+357-03	27	Vascular access history:	
+357-03	28	R brachiocephalic fistula 11/75 after 3 prior failed attempts at access	
+357-03	29	- given high risk of further thrombosis, started on coumadin 11/75		INDICATION FFF risk#3	INDICATION FFF thrombosis#6	DBN FFF coumadin#9
+357-03	30	- negative hypercoaguable w/u as per LMR notes		INDICATION FFF as#4
+357-03	31	Allergies: NKDA		INDICATION FFF allergies#0
+357-03	32	Medications:	
+357-03	33	insulin		DIN FFF insulin#0
+357-03	34	methyldopa 250mg qd		DIN FFF methyldopa#0	DOSE FFF 250mg#1	FREQ FFF qd#2
+357-03	35	lisinopril 10mg qd		DIN FFF lisinopril#0	DOSE FFF 10mg#1	FREQ FFF qd#2
+357-03	36	diltiazem 300mg qd		DIN FFF diltiazem#0	DOSE FFF 300mg#1	FREQ FFF qd#2
+357-03	37	pravastatin 10mg qhs		DIN FFF pravastatin#0	DOSE FFF 10mg#1	FREQ FFF qhs#2
+357-03	38	Nephrocaps		DBN FFF nephrocaps#0
+357-03	39	heparin 5000u bid		DIN FFF heparin#0	DOSE FFF 5000u#1	FREQ FFF bid#2
+357-03	40	colace 100mg bid		DBN FFF colace#0	DOSE FFF 100mg#1	FREQ FFF bid#2
+357-03	41	Social History:   40 pack-years, 2-3 EtOH drink/week, lives alone.	
+357-03	42	Family History:	
+357-03	43	PHYSICAL EXAM	
+357-03	44	Weight: 72.8kg		INDICATION FFF weight#0
+357-03	45	Temp: 98.4	
+357-03	46	BP: 150/82		INDICATION FFF bp#0
+357-03	47	HR: 91	
+357-03	48	RR: 22	
+357-03	49	O2 sat 100%		DOSE FFF 100%#2
+357-03	50	Gen: Obese AA woman in NAD.		INDICATION FFF obese#1	INDICATION FFF aa#2
+357-03	51	HEENT: sclerae non-icteric, O&P clear and moist	
+357-03	52	Neck: supple, no LAD, JVP elevated	
+357-03	53	Lungs: CTA b/l	
+357-03	54	Cor: regular, s1s2, no m/c/r/g		DIN FFF cor#0
+357-03	55	Abd: soft, NTND, no HSM, no abdominal bruits	
+357-03	56	Ext: no edema in LE b/l, 2+ pulses distally		INDICATION FFF edema#2	INDICATION FFF le#4
+357-03	57	Skin: warm, smooth, no rashes	
+357-03	58	Back: no CVAT	
+357-03	59	Vascular access: site clean and without inflammation, systolic and diastolic bruit present		INDICATION FFF inflammation#6
+357-03	60	LABS:	
+357-03	61	Date/Time         WBC            HGB            HCT            MCV	
+357-03	62	01/31/2077       8.15           11.5 (#)       34.7 (*)       87.3	
+357-03	63	Date/Time         PLT	
+357-03	64	01/31/2077       231	
+357-03	65	Date/Time         UA-GLUC        UA-KET         UA-SPGR        UA-BLD	
+357-03	66	01/31/2077       TR             NEG            1.009          1+		INDICATION FFF tr#1
+357-03	67	Date/Time         UA-PH          UA-PROT        UA-NIT         UA-WBC	
+357-03	68	01/31/2077       8.0            2+             NEG            NEG	
+357-03	69	Date/Time         UAS-BACT	
+357-03	70	01/31/2077       TR		INDICATION FFF tr#1
+357-03	71	Date/Time         NA             K              CL             CO2		DIN FFF na#1	INDICATION FFF k#2	INDICATION FFF cl#3
+357-03	72	01/31/2077       137            5.1 (*)        95 (*)         27	
+357-03	73	01/31/2077       134 (*)        6.2 (*)        94 (*)         25	
+357-03	74	01/31/2077       136            5.8 (*)        97 (*)         20 (*)	
+357-03	75	Date/Time         BUN            CRE            EGFR           GLU		DIN FFF glu#4
+357-03	76	01/31/2077       49 (*)         8.0 (*)        5              68	
+357-03	77	01/31/2077       43 (*)         8.0 (*)        5              83	
+357-03	78	Date/Time         ANION	
+357-03	79	01/31/2077       15	
+357-03	80	Date/Time         CA             PHOS           MG		INDICATION FFF ca#1
+357-03	81	01/31/2077       10.2                          1.9	
+357-03	82	01/31/2077       10.6 (*)       5.8 (*)        2.0	
+357-03	83	Date/Time         CK             CK-MB          TROP-I	
+357-03	84	01/31/2077      insufficient blood	
+357-03	85	Date/Time         PT             PT-INR         PTT		INDICATION FFF ptt#3
+357-03	86	01/31/2077       15.8 (*)       1.3 (*)        28.6 (#)	
+357-03	87	Blood cultures negative to date (01/31/77)	
+357-03	88	ASSESSMENT AND PLAN:	
+357-03	89	76F ESRD presumed from Type 2 DM, now admitted for hypoglycemia.		INDICATION FFF f#0	INDICATION FFF esrd#1	INDICATION FFF type 2 dm#6	INDICATION FFF hypoglycemia#10
+357-03	90	1.  DM: Check HbA1c.		INDICATION FFF dm#1
+357-03	91	Endocrine to see, given recurrent hypoglycemia.		INDICATION FFF hypoglycemia#5
+357-03	92	Nutrition to see. 2.  HD today, as per usual schedule.  Will check iron studies, PTH, 25OH Vit D, URR.		INDICATION FFF hd#4	INDICATION FFF as#6	INDICATION FFF oh#15
+357-03	93	3.  Hyperkalemia: Recirculation studies with HD today.		INDICATION FFF hyperkalemia#1	INDICATION FFF hd#5
+357-03	94	4.  CAD risk: Check fasting lipids, start ECASA 81mg qd, wean diltiazem and methyldopa and increase lisinopril as tolerated by BP.		INDICATION FFF cad#1	INDICATION FFF risk#2	DPN FFF ecasa#7	DOSE FFF 81mg#8	FREQ FFF qd#9	DIN FFF diltiazem#11	DIN FFF methyldopa#13	DIN FFF lisinopril#16	INDICATION FFF as#17	INDICATION FFF bp .#20
+357-03	95	Would not start beta-blocker at present until hypoglycemic episodes resolved. 5.  INR: Aiming for INR 1.5-2 - adjust coumadin accordingly.		DIN FFF beta-blocker#3	DRT FFF until#6	DIN FFF hypoglycemic#7	INDICATION FFF inr#11	INDICATION FFF inr#14	DBN FFF coumadin#18

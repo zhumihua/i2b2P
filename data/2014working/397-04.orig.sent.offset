@@ -1,0 +1,14 @@
+397-04	14	0	On arrival to the ED his temp was 98.1, 112, 145/79, 20, 99%RA and was started on antibiotic treatment with Unasyn for cellulitis.	antibiotic FFF 17 17	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+397-04	14	0	On arrival to the ED his temp was 98.1, 112, 145/79, 20, 99%RA and was started on antibiotic treatment with Unasyn for cellulitis.	unasyn FFF 20 20	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+397-04	33	438	1. Glyburide 2.5mg BID	glyburide FFF 1 1	2.5mg FFF 2 2	 FFF 	bid FFF 3 3	 FFF 	 FFF 	narrative
+397-04	35	438	3. Zestril 2.5mg QD	zestril FFF 1 1	2.5mg FFF 2 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+397-04	36	438	4. Percocet PRN	percocet FFF 1 1	 FFF 	 FFF 	prn FFF 2 2	 FFF 	 FFF 	narrative
+397-04	37	0	ALL:  Codeine upsets his stomach	codeine FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+397-04	47	0	Cor: RRR S1, S2 nl.  No m/r/g.	cor: FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+397-04	109	0	Antibiotic                      Interpretation	antibiotic FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+397-04	111	0	Amikacin                        Susceptible	amikacin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+397-04	112	0	Ampicillin                      Resistant	ampicillin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+397-04	113	0	Aztreonam                       Susceptible	aztreonam FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+397-04	114	0	Cefazolin                       Resistant	cefazolin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+397-04	115	0	Cefepime                        Susceptible	cefepime FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+397-04	116	0	Cefpodoxime                     Susceptible	cefpodoxime FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

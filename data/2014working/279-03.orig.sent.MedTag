@@ -1,0 +1,179 @@
+279-03	1	Record date: 2093-01-13	
+279-03	2	Team X Intern Admission Note	
+279-03	3	Name: Hendrickson, Ora	
+279-03	4	MR#   7194334	
+279-03	5	Date:   01/13/93	
+279-03	6	PCP:  Oliveira, Keith MD		INDICATION FFF pcp#0	INDICATION FFF md#3
+279-03	7	CC/RFA:  SOB.		TOD FFF cc#0	INDICATION FFF sob#1
+279-03	8	HPI: Pt is a 76 yo F with a h/o CAD, HTN, hypercholesterolemia, COPD, CHF who developed acute SOB while at home PM of admission.		INDICATION FFF f#6	DRT FFF a h#9	INDICATION FFF cad#10	INDICATION FFF htn#11	INDICATION FFF hypercholesterolemia#12	INDICATION FFF copd#13	INDICATION FFF chf#14	INDICATION FFF sob#18	DRT FFF while#19	TOD FFF pm#22
+279-03	9	Pt reports no dietary discretions and excellent adherence to medications.	
+279-03	10	She was out evening of admission at a social gathering and noticed symptoms when she returned home and had difficulty climbing an internal staircase in her home She ascended the staircase and was unable to regain her breath.		TOD FFF evening#3	INDICATION FFF symptoms#12
+279-03	11	She reports she developed profound dyspnea and tachycardia.		INDICATION FFF dyspnea#5	INDICATION FFF tachycardia .#7
+279-03	12	She denies chest pain, diaphoresis, dizziness or LOC.		INDICATION FFF chest pain#3	INDICATION FFF dizziness#5	INDICATION FFF loc#7
+279-03	13	She has had a cough productive of clear sputum x 1 week with no fever, night sweats, rigors or chills during this time.		INDICATION FFF a cough#4	DRT FFF x 1 week#11	INDICATION FFF fever#14	INDICATION FFF sweats#16	DRT FFF during#20
+279-03	14	She has had no vomiting or diarrhea.		INDICATION FFF vomiting#4	INDICATION FFF diarrhea .#6
+279-03	15	She does not recall wheezing, and asserts the only symptoms during the episode consisted in SOB and tachypnea.		INDICATION FFF wheezing#4	INDICATION FFF symptoms#9	DRT FFF during#10	INDICATION FFF sob#15
+279-03	16	Of note, pt had 2 vessel CABG in 11/92.		DIN FFF vessel#5
+279-03	17	Catheterization on 11/18/92 revealed 100% obstruction of the left proximal circ, 70% proximal LAD obstruction, and 100% obstruction of the mid RCA.		DOSE FFF 100%#4	DOSE FFF 70%#11	DOSE FFF 100%#16
+279-03	18	Course in ED:		INDICATION FFF ed#2
+279-03	19	En route to BBH pt received Lasix 40 mg, TNG x 3.		INDICATION FFF en#0	DBN FFF lasix#6	DOSE FFF 40mg#8	DPN FFF tng#9	FREQ FFF x 3#11
+279-03	20	She was described as pale, cool, and diaphoretic.		INDICATION FFF as#3
+279-03	21	She was unable to complete full sentences.	
+279-03	22	She received Lasix 40 mg IV and 20 mg IV 2 hours later, ASA 325 x 1, Zofran 8 mg IV, and 0.5     nitropaste.		DBN FFF lasix#2	DOSE FFF 40mg#4	RUT FFF iv#5	DOSE FFF 20mg#8	RUT FFF iv#9	DRT FFF 2 hours#11	DIN FFF asa#13	DOSE FFF 325#14	FREQ FFF x 1#16	DBN FFF zofran#17	DOSE FFF 8mg#19	RUT FFF iv#20
+279-03	23	Initial vitals were T 98 P 93 BP 148/67  RR 24  93 % on 6 L and 100% on BiPap (brief).		DIN FFF t 98#4	INDICATION FFF bp#7	DOSE FFF 93%#12	DOSE FFF 6l#15	DOSE FFF 100%#17
+279-03	24	PMHx:	
+279-03	25	1. HTN		INDICATION FFF htn#1
+279-03	26	2. CAD [old MI by EKG/imaging]		INDICATION FFF cad#1	INDICATION FFF mi#3
+279-03	27	3. COPD		INDICATION FFF copd#1
+279-03	28	4. Hypercholesterolemia		INDICATION FFF hypercholesterolemia#1
+279-03	29	5. DM, type II		INDICATION FFF dm#1
+279-03	30	6. Recurrent UTIs [cystocele/recurrent UTI]		INDICATION FFF cystocele#3	INDICATION FFF recurrent uti#4
+279-03	31	7. Chronic LE edema [Doppler NEG]		INDICATION FFF le#2	INDICATION FFF edema#3
+279-03	32	8. Anxiety		INDICATION FFF anxiety#1
+279-03	33	9. GERD		INDICATION FFF gerd#1
+279-03	34		
+279-03	35	ALLERGIES:		INDICATION FFF allergies#0
+279-03	36	Penicillin/Cephalosporins - hives		DIN FFF penicillin#0	INDICATION FFF hives#2
+279-03	37	MEDS:	
+279-03	38	Atenolol 100 mg PO qd		DIN FFF atenolol#0	DOSE FFF 100mg#2	RUT FFF po#3	FREQ FFF qd#4
+279-03	39	Lipitor 10 mg po qd		DBN FFF lipitor#0	DOSE FFF 10mg#2	RUT FFF po#3	FREQ FFF qd#4
+279-03	40	Cozaar 50 mg po qd		DBN FFF cozaar#0	DOSE FFF 50mg#2	RUT FFF po#3	FREQ FFF qd#4
+279-03	41	Furosemide 20 mg po qde		DIN FFF furosemide#0	DOSE FFF 20mg#2	RUT FFF po#3
+279-03	42	Prilosec 20 mg po qd		DBN FFF prilosec#0	DOSE FFF 20mg#2	RUT FFF po#3	FREQ FFF qd#4
+279-03	43	ECASA 325 mg po qd		DPN FFF ecasa#0	DOSE FFF 325mg#2	RUT FFF po#3	FREQ FFF qd#4
+279-03	44	Nifedipine XL 60 mg po bid		DIN FFF nifedipine#0	DOSE FFF 60mg#3	RUT FFF po#4	FREQ FFF bid#5
+279-03	45	Klonazepam 0.5 mg po bid		DOSE FFF 0.5mg#2	RUT FFF po#3	FREQ FFF bid#4
+279-03	46		
+279-03	47	SHx: lives alone, independent with ADLs PTA	
+279-03	48	FHx: no CAD, DM, stroke		INDICATION FFF cad#2	INDICATION FFF dm#3	INDICATION FFF stroke#4
+279-03	49		
+279-03	50	PHYSICAL EXAM:	
+279-03	51	Gen: Supine, c/o nausea.		INDICATION FFF c / o#2	INDICATION FFF nausea .#3
+279-03	52	Vitals: T  96.8 P 87 BP 132/64 RR 20 SaO2 93% 6 L NC.		INDICATION FFF t#1	INDICATION FFF bp#5	DOSE FFF 93%#10	DOSE FFF 6l#12
+279-03	53	HEENT: PERRL.	
+279-03	54	Sclerae anicteric, conj pale.	
+279-03	55	MMM, no exudates.	
+279-03	56	JVP 7 cm.		INDICATION FFF cm#2
+279-03	57	Chest: Fine inspiratory crackles inf    of lung field; anterior end-expiratory wheeze.		INDICATION FFF inf#4	INDICATION FFF wheeze#10
+279-03	58	Heart: RRR.	
+279-03	59	Nl S1/S2, I/VI SM.	
+279-03	60	Carotid bruit on left, right clear.	
+279-03	61	Left pedal pulses 1 + uniformly; right not palpable.	
+279-03	62	Abd:  NABS, obese, NT, no organomegaly.		INDICATION FFF obese#2
+279-03	63	Extr: Trace pretib edema. DJD hands.		INDICATION FFF edema#3	INDICATION FFF djd#4
+279-03	64	Skin: No lesions.	
+279-03	65	Neuro: No gross deficits.	
+279-03	66	LABS:	
+279-03	67	Calcium                 9.0                      8.5-10.5       mg/dl		DIN FFF calcium#0	DOSE FFF 9.0#1	DOSE FFF 8.5 - 10.5mg / dl#3
+279-03	68	Phosphorus              3.7                      2.6-4.5        mg/dl		INDICATION FFF phosphorus#0	DOSE FFF 2.6 - 4.5mg / dl#3
+279-03	69	Magnesium               1.6                      1.4-2.0        meq/L		DIN FFF magnesium#0	DOSE FFF 1.6#1	DOSE FFF 1.4 - 2.0meq#3
+279-03	70	Total Protein           7.9                      6.0-8.0        g/dl		DOSE FFF 6.0 - 8.0g#4
+279-03	71	Albumin                 3.1                      3.1-4.3        g/dl		DIN FFF albumin#0	DOSE FFF 3.1#1	DOSE FFF 3.1 - 4.3g#3
+279-03	72	Globulin                4.8       H              2.6-4.1        g/dl		DRT FFF 4.8 h#2	DOSE FFF 2.6 - 4.1g#4
+279-03	73	Direct Bilirubin        0.1                      0-0.4          mg/dl		DOSE FFF 4mg / dl#4
+279-03	74	Total Bilirubin         0.4                      0-1.0          mg/dl		DOSE FFF 0mg / dl#4
+279-03	75	Alkaline Phosphatase    293       H              30-100         U/L		DRT FFF 293 h#3	DOSE FFF 30-100u#5
+279-03	76	Transaminase-SGPT       17                       7-30           U/L		DOSE FFF 7-30u#3
+279-03	77	Amylase                 29                       3-100          units/L		DIN FFF amylase#0	DOSE FFF 29#1	DOSEAMT FFF 3-100 units#3
+279-03	78	Lipase                  1.8                      1.3-6.0        U/dl		DIN FFF lipase#0	DOSE FFF 1.8#1	DOSE FFF 1.3 - 6.0u#3
+279-03	79	Creatine Kinase Isoenzy 2.4                      0.0-6.9        ng/ml		DOSE FFF 0.0 - 6.9ng / ml#5
+279-03	80	CPK Isoenzymes Index                             0.0-3.5        %		DOSE FFF 0.0 - 3.5%#4
+279-03	81	Result Text:	
+279-03	82	CPK and/or CKMB too low to calculate Relative Index.	
+279-03	83	Troponin-T              0.01                     0.00-0.09      ng/ml		DOSE FFF 0.00 - 0.09ng / ml#3
+279-03	84	Transaminase-SGOT       33        H              9-25           U/L		DRT FFF 33 h#2	DOSE FFF 9-25u#4
+279-03	85	Creatine Kinase         40                       40-150         U/L		DOSE FFF 40-150u#4
+279-03	86	Sodium (Stat Lab)       138                      135-145        mmol/L		TOD FFF stat#1	DOSE FFF 135-145mmol#5
+279-03	87	Potassium (Stat Lab)    3.8                      3.4-4.8        mmol/L		TOD FFF stat#1	DOSE FFF 3.4 - 4.8mmol#5
+279-03	88	Chloride (Stat Lab)     109       H              100-108        mmol/L		TOD FFF stat#1	DRT FFF 109 h#4	DOSE FFF 100-108mmol#6
+279-03	89	CO2 (Stat Lab)          25.0                     24.0-30.0      mmol/L		TOD FFF stat#1	DOSE FFF 24.0 - 30.0mmol#5
+279-03	90	BUN (Stat Lab)          14                       8-25           mg/dl		TOD FFF stat#1	DOSE FFF 8-25mg / dl#5
+279-03	91	Creatinine (Stat Lab)   0.8                      0.6-1.5        mg/dl		INDICATION FFF creatinine#0	TOD FFF stat#1	DOSE FFF 0.6 - 1.5mg / dl#5
+279-03	92	Glucose (Stat Lab)      222       H              70-110         mg/dl		TOD FFF stat#1	DOSE FFF 70-110mg / dl#6
+279-03	93	WBC                     11.1      H              4.5-11.0       th/cmm		DRT FFF 11.1 h#2
+279-03	94	HCT                     36.7                     36.0-46.0      %		DOSE FFF 36.0 - 46.0%#3
+279-03	95	HGB                     11.2      L              12.0-16.0      gm/dl		DOSE FFF 11.2l#2	DOSE FFF 12.0 - 16.0gm#4
+279-03	96	RBC                     4.68                     4.00-5.20      mil/cmm	
+279-03	97	PLT                     313                      150-350        th/cumm	
+279-03	98	MCV                     78        L              80-100         fl		DOSE FFF 78l#2
+279-03	99	MCH                     23.8      L              26.0-34.0      pg/rbc		DOSE FFF 23.8l#2
+279-03	100	MCHC                    30.4      L              31.0-37.0      g/dl		DOSE FFF 30.4l#2	DOSE FFF 31.0 - 37.0g#4
+279-03	101	RDW                     15.8      H              11.5-14.5      %		DRT FFF 15.8 h#2	DOSE FFF 11.5 - 14.5%#4
+279-03	102	Superstat PT            12.6                     11.1-13.1      sec		DIN FFF superstat#0	DIN FFF sec#4
+279-03	103	Superstat APTT          29.4                     22.1-35.1      sec		DIN FFF superstat#0	DIN FFF sec#4
+279-03	104	DIFFERENTIAL REQUEST    RECEIVED	
+279-03	105	Diff Method             Auto	
+279-03	106	Poly                    73        H              40-70          %		DRT FFF 73 h#2	DOSE FFF 40-70%#4
+279-03	107	Lymphs                  23                       22-44          %		DOSE FFF 22-44%#3
+279-03	108	Monos                   2         L              4-11           %		DOSE FFF 2l#2	DOSE FFF 4-11%#4
+279-03	109	EOS                     1                        0-8            %		DOSE FFF 0-8%#3
+279-03	110	Basos                   1                        0-3            %		DOSE FFF 0-3%#3
+279-03	111	Absolute Neuts          8.19      H              1.8-7.7        th/cmm		DRT FFF 8.19 h#3
+279-03	112	Absolute Lymphs         2.48                     1.0-4.8        th/cmm	
+279-03	113	Absolute Monos          0.26                     0.2-0.4        th/cmm	
+279-03	114	Absolute EOS            0.09      L              0.1-0.3        th/cmm		DOSE FFF 0.09l#3
+279-03	115	Absolute Basos          0.06                     0.0-0.3        th/cmm	
+279-03	116	Aniso                   None                     NORMAL	
+279-03	117	Hypo                    3+                       NORMAL	
+279-03	118	Macrocytes              None	
+279-03	119	Microcytes              1+	
+279-03	120	CXR:	
+279-03	121	Bilateral effusions, left > right.	
+279-03	122	Pulmonary edema.		INDICATION FFF pulmonary edema#1
+279-03	123	Cardiac US: 11/17/92	
+279-03	124	ANATOMIC REGION   STATUS ROUTINE DIMENSIONS       REGIONAL WALL MOTION	
+279-03	125	(normal)     (completed only if abn.)	
+279-03	126	MITRAL VALVE      ABN                            SEGMENT   BASE  MID  APEX	
+279-03	127	LEFT ATRIUM       ABN    LA    39  (25-38mm)		INDICATION FFF mm#5
+279-03	128	AV. A0. LVOT      ABN    AO    33  (24-39mm)     anterior		INDICATION FFF av#0	INDICATION FFF mm#6
+279-03	129	LEFT VENT.        ABN    LVIDd 50  (37-53mm)     ant.sep.		INDICATION FFF mm#5
+279-03	130	TV. RA. VC.       NORM   LVIDs 39                mid.sep.               H		INDICATION FFF tv#0	INDICATION FFF ra#1
+279-03	131	PV. INF.		INDICATION FFF pv#0	INDICATION FFF inf#1
+279-03	132	PA.      NORM   PWT   13  ( 7-11mm)     inf.sep.    H    H		INDICATION FFF pa#0	INDICATION FFF mm#5
+279-03	133	RIGHT VENT.       NORM   IVS   13  ( 7-11mm)     inferior    A    A     A		INDICATION FFF mm#6
+279-03	134	IAS. IVS.         ABN                            inf.pos.    A    A	
+279-03	135	COMPLEX CHD       NORM   EF    33 % ( >50 %)     pos.lat.         H		INDICATION FFF chd#1	INDICATION FFF ef#3	DOSE FFF 33%#5	DOSE FFF 50%#8
+279-03	136	CORONARIES        UV                             lateral	
+279-03	137	PERICARDIUM       ABN	
+279-03	138	Wall Motion Abbreviations: N=Normal H=Hypokinetic A=Akinetic D=Dyskinetic	
+279-03	139	MITRAL VALVE	
+279-03	140	There is calcification of the posterior mitral annulus.	
+279-03	141	There is no evidence of mitral valve prolapse.	
+279-03	142	There is mild mitral regurgitation by color and spectral Doppler.	
+279-03	143	LEFT ATRIUM	
+279-03	144	The left atrium is dilated.	
+279-03	145	AORTIC VALVE, AORTA, LVOT	
+279-03	146	There is thickening of the bases of multiple aortic leaflets.	
+279-03	147	The aortic valve is tricuspid.	
+279-03	148	There is no evidence of aortic insufficiency by color or spectral Doppler.	
+279-03	149	There are irregular echoes along the aortic wall c/w atheroma.	
+279-03	150	LEFT VENTRICLE	
+279-03	151	The left ventricular cavity size is normal.		INDICATION FFF cavity#3
+279-03	152	The left ventricular systolic function is impaired.	
+279-03	153	There is symmetric left ventricular hypertrophy.		INDICATION FFF left ventricular hypertrophy#5
+279-03	154	There is segmental left ventricular dysfunction (see wall motion plot).		INDICATION FFF left ventricular dysfunction#5
+279-03	155	This involves the lateral,inferior and apical territory.	
+279-03	156	There is a false tendon within the LV cavity which is a normal variant.		INDICATION FFF lv#7	INDICATION FFF cavity#8
+279-03	157	The estimated ejection fraction is 33 %.		DIN FFF is 33#5
+279-03	158	TRICUSPID VALVE - IVC, SVC	
+279-03	159	There is color and spectral Doppler evidence of trace tricuspid insufficiency.	
+279-03	160	PULMONARY VALVE, INFUND., P.A.	
+279-03	161	There is evidence of trace pulmonary insufficiency by color and spectral	
+279-03	162	Doppler.	
+279-03	163	RIGHT VENTRICLE	
+279-03	164	The right ventricle is not dilated.	
+279-03	165	The right ventricular systolic function is within normal limits.	
+279-03	166	PERICARDIAL DISEASE AND EXTRACARDIAC MASSES	
+279-03	167	There is a small circumferential pericardial effusion.	
+279-03	168	There is increased intrapericardial pressure without evidence of frank tamponade.		INDICATION FFF pressure#4	INDICATION FFF frank#8
+279-03	169	There is diffuse fibrin deposition on the visceral pericardium.		DIN FFF fibrin#3
+279-03	170	There is evidence of a pleural effusion.		INDICATION FFF pleural effusion#6
+279-03	171	CONCLUSIONS	
+279-03	172	Compared to the report of 6/5/2089,the left ventricular systolic function is impaired with new wall motion abnormalities.	
+279-03	173	Also a new pericardial effusion is visualized.	
+279-03	174	EKG:	
+279-03	175	NSR, 90 bpm. ST elevations V1-V6.		INDICATION FFF st#3
+279-03	176	_______________________________________	
+279-03	177	ASSESSMENT AND PLAN:	
+279-03	178	76 yo F with PVD, CAD, s/p CABG, CHF, with acute onset SOB, likely CHF exacerbation.		INDICATION FFF f#2	INDICATION FFF pvd#4	INDICATION FFF cad#5	INDICATION FFF chf#8	INDICATION FFF sob#12	INDICATION FFF chf#14
+279-03	179	CV:	

@@ -1,0 +1,25 @@
+354-04	7	0	Insulin- was having erratic dosing and hypoglycemia- changed to lantus last week, but had problems- mainly from understanding it, changed back to other, may have	insulin- FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+354-04	7	0	Insulin- was having erratic dosing and hypoglycemia- changed to lantus last week, but had problems- mainly from understanding it, changed back to other, may have	lantus FFF 9 9	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+354-04	9	0	adrenal- trying to lower prednisone. tolerating 3 mg, stopped completely on her own- feels better.	adrenal- FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+354-04	9	0	adrenal- trying to lower prednisone. tolerating 3 mg, stopped completely on her own- feels better.	prednisone. FFF 4 4	3 mg, FFF 6 7	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+354-04	16	0	ENT/Mouth: No rhinitis, epistaxis, sinus pain, change in hearing, tinnitus, discharge from ears, ear pain oral lesions, problems chewing, dental pain, sore throat	sinus pain, FFF 4 5	 FFF 	oral FFF 15 15	 FFF 	 FFF 	 FFF 	narrative
+354-04	24	0	Penicillins    - Rash, Itching	penicillins FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+354-04	37	0	Amitriptyline Hcl   10 MG (10MG TABLET take 1) PO QHS  #60 Tablet(s)	amitriptyline hcl FFF 0 1	10 mg FFF 2 3	po FFF 8 8	qhs FFF 9 9	 FFF 	 FFF 	narrative
+354-04	38	0	Asa (CHILDRENS) (ACETYLSALICYLIC Acid (CHILDRENS))   81 MG (81MG TABLET take 1) PO QD  #100 Tablet(s)	asa FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+354-04	39	0	ATENOLOL   50 MG (50MG TABLET take 1) PO QD  #30 Tablet(s)	atenolol FFF 0 0	50 mg FFF 1 2	po FFF 7 7	qd FFF 8 8	 FFF 	 FFF 	narrative
+354-04	40	0	Betamethasone/clotrimazole 0.05%/1%   1 APPLICATION (CREAM(GM) ) TOP BID  #45 gram(s)	betamethasone/clotrimazole 0.05%/1% FFF 0 1	1 application FFF 2 3	top FFF 6 6	bid FFF 7 7	 FFF 	 FFF 	narrative
+354-04	41	0	CHOLECALCIFEROL   800 UNITS (400 UNIT TABLET take 2) PO Q24H  #180 Tablet(s)	cholecalciferol FFF 0 0	800 units FFF 1 2	po FFF 8 8	q24h FFF 9 9	 FFF 	 FFF 	narrative
+354-04	42	0	Diclofenac Sodium    50   PO BID  #60 Tablet(s)	diclofenac sodium FFF 0 1	50 FFF 2 2	po FFF 3 3	bid FFF 4 4	 FFF 	 FFF 	narrative
+354-04	43	0	ERGOCALCIFEROL   50000 UNITS (50000 UNIT CAPSULE take 1) PO as directed , once per month  #1 Capsule(s)	ergocalciferol FFF 0 0	50000 units FFF 1 2	po FFF 8 8	once per month FFF 12 14	 FFF 	 FFF 	narrative
+354-04	44	0	Fosamax (ALENDRONATE)   70 MG (70MG TABLET take 1) PO QWEEK  #4 Tablet(s)	fosamax FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+354-04	45	0	Lantus (INSULIN Glargine)   15 UNITS (100 U/ML VIAL  ML) SC QHS , dc previous insulin #10 ML(s)	lantus FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+354-04	45	0	Lantus (INSULIN Glargine)   15 UNITS (100 U/ML VIAL  ML) SC QHS , dc previous insulin #10 ML(s)	insulin FFF 14 14	#10 ml(s) FFF 15 16	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+354-04	46	0	METFORMIN   1000 MG (1000MG TABLET take 1) PO BID x 30 days #60 Tablet(s)	metformin FFF 0 0	1000 mg FFF 1 2	po FFF 7 7	bid FFF 8 8	30 days FFF 10 11	 FFF 	narrative
+354-04	47	0	OMEPRAZOLE   40 MG (20MG CAPSULE DR take 2) PO QD  #60 Capsule(s)	omeprazole FFF 0 0	40 mg FFF 1 2	po FFF 8 8	qd FFF 9 9	 FFF 	 FFF 	narrative
+354-04	48	0	PREDNISONE   3 MG (1MG TABLET take 3) PO QD  #90 Tablet(s)	prednisone FFF 0 0	3 mg FFF 1 2	po FFF 7 7	qd FFF 8 8	 FFF 	 FFF 	narrative
+354-04	49	0	SIMVASTATIN   40 MG (40MG TABLET take 1) PO QHS  #100 Tablet(s)	simvastatin FFF 0 0	40 mg FFF 1 2	po FFF 7 7	qhs FFF 8 8	 FFF 	 FFF 	narrative
+354-04	50	0	TRAMADOL   50 MG (50MG TABLET take 1) PO Q6H  #90 Tablet(s)	tramadol FFF 0 0	50 mg FFF 1 2	po FFF 7 7	q6h FFF 8 8	 FFF 	 FFF 	narrative
+354-04	51	0	Zeasorb (TALC Powder)   1 APPLICATION TOP TID , to affected area #70 gram(s)	Zeasorb (TALC Powder) FFF 0 2	1 application FFF 3 4	top FFF 5 5	tid FFF 6 6	 FFF 	 FFF 	narrative
+354-04	61	0	adrenal insufficiency- now off prednisone after gradual taper.	prednisone FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+354-04	63	0	lipids- back on statin, will check when due.	statin, FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+354-04	65	0	htn- high again today.  will plan to taper atenolol, as recent data show limits as treatment of hypertension, and add hctz/lisinopril, both are first line agents for htn. see back in two weeks.	atenolol, FFF 8 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

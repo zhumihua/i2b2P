@@ -1,0 +1,43 @@
+351-04||1||Record date: 2080-04-15
+351-04||2||EDVISIT^10776605^GLENN, OLIVIA^04/15/80^URIBE, HAROLD
+351-04||3||Seen by me along with Dr.||INDICATION FFF me FFF 2 2||
+351-04||4||Oglesby on 04/15/2080.
+351-04||5||The history as documented by Dr.||INDICATION FFF as FFF 2 2||
+351-04||6||Oglesby was reviewed by me with the patient and found to be accurate and complete.||INDICATION FFF me FFF 4 4||
+351-04||7||The physical exam was confirmed by my examination.
+351-04||8||Evaluation and management was also concurred with.
+351-04||9||HISTORY OF PRESENT ILLNESS:  Briefly, this is a 66-year-old woman
+351-04||10||who enters with recent three-month history of admission for
+351-04||11||respiratory failure, pneumonia, and MSSA bacteriemia, discharged||INDICATION FFF pneumonia, FFF 2 2||
+351-04||12||from rehab two weeks ago, presents with two to three day history||DRT FFF two weeks FFF 2 3||DRT FFF two to three day FFF 7 10||
+351-04||13||of shortness of breath; dyspnea on exertion; PND; orthopnea; and||INDICATION FFF shortness of breath; FFF 1 3||INDICATION FFF dyspnea FFF 4 4||INDICATION FFF orthopnea; FFF 8 8||
+351-04||14||leg edema, improving, but complains of occasional chest tightness||INDICATION FFF edema, FFF 1 1||INDICATION FFF tightness FFF 8 8||
+351-04||15||lasting about an hour, worse with exertion.||DRT FFF an hour, FFF 2 3||
+351-04||16||No nausea and no vomiting.||INDICATION FFF nausea FFF 1 1||INDICATION FFF vomiting. FFF 4 4||
+351-04||17||Nonradiating.
+351-04||18||Seen by VNA today, blood pressure was 190/100 and sent her here for evaluation.||INDICATION FFF blood pressure FFF 4 5||
+351-04||19||SOCIAL HISTORY:  Does not smoke and does not drink.
+351-04||20||PAST MEDICAL HISTORY:  History of atrial fibrillation,||INDICATION FFF atrial fibrillation, FFF 5 6||
+351-04||21||hypertension, diabetes, CHF, asthma, and chronic renal||INDICATION FFF hypertension, FFF 0 0||INDICATION FFF diabetes, FFF 1 1||INDICATION FFF chf, FFF 2 2||INDICATION FFF asthma, FFF 3 3||
+351-04||22||insufficiency, the baseline creatinine is 2.5.||INDICATION FFF creatinine FFF 3 3||
+351-04||23||Review of systems, allergies, and medications are as documented||INDICATION FFF allergies, FFF 3 3||INDICATION FFF as FFF 7 7||
+351-04||24||in the chart.
+351-04||25||Please see the notes for details.
+351-04||26||PHYSICAL EXAMINATION:  Awake and alert, well-developed,
+351-04||27||well-nourished woman in mild respiratory distress.
+351-04||28||Pulse 93, respirations 18 to 20, blood pressure 158/83, and O2 saturation||INDICATION FFF blood pressure FFF 6 7||
+351-04||29||100% on 4 liters nasal cannula.||DOSE FFF 100% FFF 0 0||DOSE FFF 4 liters FFF 2 3||RUT FFF nasal FFF 4 4||
+351-04||30||JVP at 10 cm.||INDICATION FFF cm. FFF 3 3||
+351-04||31||Lung exam shows rales to one-third of the way up to the lung bases.
+351-04||32||Cardiovascularly, regular rate and rhythm.
+351-04||33||The rest of the exam is as documented in the chart other than pedal edema.||INDICATION FFF as FFF 6 6||INDICATION FFF edema. FFF 14 14||
+351-04||34||LABORATORY DATA:  EKG shows sinus rhythm and left anterior
+351-04||35||fascicular hemiblock with flattening at V2.
+351-04||36||Chest x-ray shows pulmonary vascular congestion.||INDICATION FFF congestion. FFF 5 5||
+351-04||37||EMERGENCY DEPARTMENT COURSE:  As such, she was admitted to||INDICATION FFF as FFF 3 3||
+351-04||38||Medicine with a diagnosis of decompensated CHF, likely secondary||INDICATION FFF chf, FFF 6 6||
+351-04||39||to hypertension.||INDICATION FFF hypertension. FFF 1 1||
+351-04||40||Her blood pressure initially when she came in  ******** Not reviewed by Attending Physician ********||INDICATION FFF her blood pressure FFF 0 2||
+351-04||41||DISPOSITION:  She was admitted on 04/15/2080.
+351-04||42||______________________________
+351-04||43||URIBE, HAROLD M.D.

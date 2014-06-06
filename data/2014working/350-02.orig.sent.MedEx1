@@ -1,0 +1,125 @@
+350-02||1||Record date: 2090-06-29
+350-02||2||Yasmine Florence-Gagnon, MD
+350-02||3||Resident in Neurology
+350-02||4||Brookwood Nursing Home
+350-02||5||54 Mason Street
+350-02||6||Williston, CO 36887
+350-02||7||Xenia Rivas, NP
+350-02||8||Saint Olaf Hospital
+350-02||9||274 Mechanic Street
+350-02||10||Charlotte, CO 22812
+350-02||11||June 29th, 2090
+350-02||12||Dear Nurse Rivas,
+350-02||13||We had the pleasure of seeing Ruath Doss (MRN 49535763) back in Neurology Clinic today for stroke and subsequent seizures.||DIN FFF doss FFF 7 7||INDICATION FFF stroke FFF 16 16||INDICATION FFF seizures. FFF 19 19||
+350-02||14||The patient was seen by myself and Dr.
+350-02||15||Franklin Feliciano.
+350-02||16||Ruath Doss is a 58yo RHF with a history of poorly controlled DM, htn, and hypercholesterolemia who is followed here in Neurology clinic for multiple small L frontoparietal strokes complicated by seizures.||DIN FFF doss FFF 1 1||INDICATION FFF rhf FFF 5 5||INDICATION FFF dm, FFF 12 12||INDICATION FFF htn, FFF 13 13||INDICATION FFF hypercholesterolemia FFF 15 15||INDICATION FFF strokes FFF 28 28||INDICATION FFF seizures. FFF 31 31||
+350-02||17||She was last seen here March 4th, at which time she was having difficulty tasting food.
+350-02||18||This finding was not replicated on clinical exam, and her exam was otherwise unremarkable; it was theorized that her symptoms may have been due to a drastic alteration in her diet.
+350-02||19||Less likely possibilities included a viral illness and side effect of hydrochlorthiazide.
+350-02||20||Otherwise, she had recovered well from her strokes, and had not had additional seizures.
+350-02||21||Mrs. Doss continues to do well.||DIN FFF doss FFF 1 1||
+350-02||22||She reports that her taste came back eventually; she did stop the hydrochlorthiazide under your direction, but is not sure if it was associated with the recovery of her taste.
+350-02||23||She continues to eat healthfully, and in fact has lost 30 lbs since her hospitalization.
+350-02||24||Via your office, she has completed a cardiac stress test as recommended after suffering a NSTEMI during her last hospitalization.
+350-02||25||She has had an abdominal ultrasound which may have shown a gallstone, although she is unsure of the exact results.
+350-02||26||Finally, she informs me that an appointment with Dr.
+350-02||27||Yuhas of Neurosurgery has been scheduled for August in order to follow up an incidental small L A2 aneurysm.
+350-02||28||Mrs. Doss continues to take Plavix for secondary stroke prevention (she has G6PD deficiency).||DIN FFF doss FFF 1 1||
+350-02||28||Mrs. Doss continues to take Plavix for secondary stroke prevention (she has G6PD deficiency).||DBN FFF plavix FFF 5 5||INDICATION FFF stroke prevention FFF 8 9||
+350-02||29||Her dentist would like to take her off this medication for a week before an extensive outpatient procedure which would include deep root cleaning.||DPN FFF this medication FFF 8 9||DRT FFF a week FFF 11 12||
+350-02||30||However, she is nervous about the risk of another stroke.
+350-02||31||She continues to tolerate her Dilantin well; there had been a question in April about a low level, but the test had been inadvertently performed in the setting of a held dose, and on repeat testing was within goal at 12.6.||DBN FFF dilantin FFF 5 5||
+350-02||32||She denies any seizure-like activity: no staring or shaking spells, or episodes of incontinence or tongue biting.
+350-02||33||She reminds me that her 6 month anniversary of seizure free activity is approaching, and thus is hoping that she might be able to resume driving.
+350-02||34||She denies changes in vision, focal weakness or numbness, difficulty with language comprehension or production.
+350-02||35||She does have occasional mild headaches exacerbated by the summer heat.
+350-02||36||She sometimes feels as though she has "creepy crawly things in my head," a sensation similar to when she had a Mohs procedure.
+350-02||37||Meds:
+350-02||38||atenolol 50mg po qday||DIN FFF atenolol FFF 0 0||DOSE FFF 50mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qday FFF 3 3||
+350-02||39||Lipitor 80mg po qday||DBN FFF lipitor FFF 0 0||DOSE FFF 80mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qday FFF 3 3||
+350-02||40||Clopidogrel 75mg po qday||DIN FFF clopidogrel FFF 0 0||DOSE FFF 75mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qday FFF 3 3||
+350-02||41||Glipizide 5mg po qday||DIN FFF glipizide FFF 0 0||DOSE FFF 5mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qday FFF 3 3||
+350-02||42||Cozaar 100mg po qday||DBN FFF cozaar FFF 0 0||DOSE FFF 100mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qday FFF 3 3||
+350-02||43||Metformin 500mg po bid||DIN FFF metformin FFF 0 0||DOSE FFF 500mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF bid FFF 3 3||
+350-02||44||Dilantin 200mg qam / 300mg qpm||DBN FFF dilantin FFF 0 0||DOSE FFF 200mg FFF 1 1||FREQ FFF qam FFF 2 2||
+350-02||44||Dilantin 200mg qam / 300mg qpm||DBN FFF dilantin FFF 0 0||DOSE FFF 300mg FFF 4 4||FREQ FFF qpm FFF 5 5||
+350-02||45||Valtrex prn||DBN FFF valtrex FFF 0 0||NEC FFF prn FFF 1 1||
+350-02||46||Acyclovir ointment||DIN FFF acyclovir FFF 0 0||DDF FFF ointment FFF 1 1||
+350-02||47||Physical Examination:
+350-02||48||MS:       Alert, appropriately interactive, normal affect.
+350-02||49||Speech fluent w/o paraphasic/dysarthric errors.
+350-02||50||Follows all commands.
+350-02||51||CN:
+350-02||52||I:                not assessed
+350-02||53||II:               VFF to confrontation.
+350-02||54||PERRL 4 mm &#224;  3 mm. No RAPD.
+350-02||55||III,IV,VI:      EOMI.
+350-02||56||No nystagmus / diplopia / ptosis.
+350-02||57||V:               Sensation intact to LT.
+350-02||58||Masseters strong bilaterally.
+350-02||59||VII:               Face symmetric without weakness.
+350-02||60||VIII:               Hears finger rub equally b/l.
+350-02||61||IX,X:         Voice nl.
+350-02||62||Soft palate elevates symmetrically.
+350-02||63||XI:               SCM and trapezii 5/5 b/l.
+350-02||64||XII:               Tongue protrudes midline.
+350-02||65||No atrophy / fasciculations.
+350-02||66||Motor:       Normal bulk and tone; no tremor, rigidity, or bradykinesia.
+350-02||67||No pronator drift.
+350-02||68||Delt
+350-02||69||Bi
+350-02||70||Tri
+350-02||71||FE||DIN FFF fe FFF 0 0||
+350-02||72||IP
+350-02||73||Quad
+350-02||74||Hamst
+350-02||75||TibAnt
+350-02||76||EHL
+350-02||77||Gastroc
+350-02||79||C5
+350-02||80||C6
+350-02||81||C7
+350-02||82||C8/T1
+350-02||83||L2
+350-02||84||L3
+350-02||85||L4-S1
+350-02||86||L4
+350-02||87||L5
+350-02||88||S1
+350-02||89||R
+350-02||90||5
+350-02||91||5
+350-02||92||5
+350-02||93||5
+350-02||94||5
+350-02||95||5
+350-02||96||5
+350-02||97||5
+350-02||98||5
+350-02||99||5
+350-02||100||L
+350-02||101||5
+350-02||102||5
+350-02||103||5
+350-02||104||5
+350-02||105||5
+350-02||106||5
+350-02||107||5
+350-02||108||5
+350-02||109||5
+350-02||110||5
+350-02||112||Reflex:
+350-02||114||Bi
+350-02||115||Tri
+350-02||116||Bra
+350-02||117||Pat
+350-02||118||Ank
+350-02||119||Toes
+350-02||121||C6
+350-02||122||C7
+350-02||123||C6
+350-02||124||L4
+350-02||125||S1
+350-02||127||R
+350-02||128||2

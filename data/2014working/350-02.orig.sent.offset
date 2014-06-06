@@ -1,0 +1,18 @@
+350-02	13	0	We had the pleasure of seeing Ruath Doss (MRN 49535763) back in Neurology Clinic today for stroke and subsequent seizures.	doss FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+350-02	16	0	Ruath Doss is a 58yo RHF with a history of poorly controlled DM, htn, and hypercholesterolemia who is followed here in Neurology clinic for multiple small L frontoparietal strokes complicated by seizures.	doss FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+350-02	21	0	Mrs. Doss continues to do well.	doss FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+350-02	28	0	Mrs. Doss continues to take Plavix for secondary stroke prevention (she has G6PD deficiency).	doss FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+350-02	28	0	Mrs. Doss continues to take Plavix for secondary stroke prevention (she has G6PD deficiency).	plavix FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+350-02	29	0	Her dentist would like to take her off this medication for a week before an extensive outpatient procedure which would include deep root cleaning.	this medication FFF 8 9	 FFF 	 FFF 	 FFF 	for a week FFF 10 12	 FFF 	narrative
+350-02	31	0	She continues to tolerate her Dilantin well; there had been a question in April about a low level, but the test had been inadvertently performed in the setting of a held dose, and on repeat testing was within goal at 12.6.	dilantin FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+350-02	38	438	atenolol 50mg po qday	atenolol FFF 0 0	50mg FFF 1 1	po FFF 2 2	qday FFF 3 3	 FFF 	 FFF 	narrative
+350-02	39	438	Lipitor 80mg po qday	lipitor FFF 0 0	80mg FFF 1 1	po FFF 2 2	qday FFF 3 3	 FFF 	 FFF 	narrative
+350-02	40	438	Clopidogrel 75mg po qday	clopidogrel FFF 0 0	75mg FFF 1 1	po FFF 2 2	qday FFF 3 3	 FFF 	 FFF 	narrative
+350-02	41	438	Glipizide 5mg po qday	glipizide FFF 0 0	5mg FFF 1 1	po FFF 2 2	qday FFF 3 3	 FFF 	 FFF 	narrative
+350-02	42	438	Cozaar 100mg po qday	cozaar FFF 0 0	100mg FFF 1 1	po FFF 2 2	qday FFF 3 3	 FFF 	 FFF 	narrative
+350-02	43	438	Metformin 500mg po bid	metformin FFF 0 0	500mg FFF 1 1	po FFF 2 2	bid FFF 3 3	 FFF 	 FFF 	narrative
+350-02	44	438	Dilantin 200mg qam / 300mg qpm	dilantin FFF 0 0	200mg FFF 1 1	 FFF 	qam FFF 2 2	 FFF 	 FFF 	narrative
+350-02	44	438	Dilantin 200mg qam / 300mg qpm	dilantin FFF 0 0	300mg FFF 4 4	 FFF 	qpm FFF 5 5	 FFF 	 FFF 	narrative
+350-02	45	438	Valtrex prn	valtrex FFF 0 0	 FFF 	 FFF 	prn FFF 1 1	 FFF 	 FFF 	narrative
+350-02	46	438	Acyclovir ointment	acyclovir ointment FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+350-02	71	0	FE	fe FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

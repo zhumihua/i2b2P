@@ -1,0 +1,17 @@
+362-03||1||Record date: 2074-10-17
+362-03||2||CARDIOLOGY ADMISSION NOTE
+362-03||3||Susie DIETZ         96O-776
+362-03||4||KCH 538-41-21-0
+362-03||5||Date of admission 10/17/74
+362-03||6||Ref:  Scott Fink, MD, 1480 Campanello Street, DARTMOUTH 76846||INDICATION FFF md, FFF 3 3||
+362-03||7||This 57-yr-old female w/CP syndrome, CRFs of DM, HTN, no documented vascular disease, w/several prior evals for CP syndrome.||INDICATION FFF w/cp FFF 3 3||INDICATION FFF dm, FFF 7 7||INDICATION FFF htn, FFF 8 8||INDICATION FFF cp FFF 17 17||
+362-03||8||ETT 11/11/73:  7'8    on SBP, typical CP, nondiagnostic ECG changes interpreted as c/w but not diagnostic of ischemia.||INDICATION FFF cp, FFF 6 6||DIN FFF ecg FFF 8 8||INDICATION FFF as FFF 11 11||INDICATION FFF ischemia. FFF 17 17||
+362-03||9||In USH, able to walk 1 flight w/o symptoms until this AM when she had L neck pain radiating to head and down L arm lasting 2 min; also intermittent palpitations, diaphoresis, symptom complex present for some time.||INDICATION FFF symptoms FFF 8 8||DRT FFF until FFF 9 9||TOD FFF am FFF 11 11||INDICATION FFF pain FFF 17 17||DRT FFF for some time. FFF 35 37||
+362-03||10||On arrival in ER w/o chest symptoms, BP 174/110, P 100, no ST abnormalities.||INDICATION FFF symptoms, FFF 6 6||INDICATION FFF bp FFF 7 7||INDICATION FFF st FFF 12 12||
+362-03||11||Admitted for eval.
+362-03||12||ROS:  Denies fevers, chills, N/V, diarrhea, presyncope, claudication.||INDICATION FFF fevers, FFF 2 2||INDICATION FFF diarrhea, FFF 5 5||
+362-03||13||All other pertinent systems neg.
+362-03||14||PMH:  DM, HTN, panic attacks, hx of hep B, fatty liver disease, pos PPD.||INDICATION FFF dm, FFF 1 1||INDICATION FFF htn, FFF 2 2||INDICATION FFF hep b, FFF 7 8||INDICATION FFF liver disease, FFF 10 11||
+362-03||15||Meds:  aspirin 81mg qd, metformin 850mg bid, nifedipine.||DIN FFF aspirin FFF 1 1||DOSE FFF 81mg FFF 2 2||FREQ FFF qd, FFF 3 3||DIN FFF metformin FFF 4 4||DOSE FFF 850mg FFF 5 5||FREQ FFF bid, FFF 6 6||DIN FFF nifedipine. FFF 7 7||
+362-03||16||Contrast allergy in record (details unknown), intolerant of lisinopril.||INDICATION FFF allergy FFF 1 1||DIN FFF lisinopril. FFF 8 8||
+362-03||17||No family hx of premature CAD.||INDICATION FFF cad. FFF 5 5||

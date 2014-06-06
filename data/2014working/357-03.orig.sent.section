@@ -1,0 +1,95 @@
+357-03	1	0	Record date: 2077-01-31
+357-03	2	0	LEPROSARIUM INPATIENT DIALYSIS ADMIT NOTE
+357-03	3	0	Outpatient Nephrologist:   Dr. Mcgee
+357-03	4	0	Outpatient Dialysis Unit:   BH
+357-03	5	0	Estimated dry weight:  68.5 kg
+357-03	6	0	Dialysis access:  RUE AVF
+357-03	7	0	Reason for admission: hypoglycemia
+357-03	8	0	HPI:
+357-03	9	0	76F ESRD on HD.
+357-03	10	0	Felt "woozy" last night and found by daughter to be confused.
+357-03	11	0	Daughter called 911 and FS glucose 30.
+357-03	12	0	Pt has had recurrent episodes of hypoglycemia - says b/c she "doesn't want to eat".
+357-03	13	0	She says she has an endocrinologist, Dr.
+357-03	14	0	Hayes, but does not remember where the office is located.
+357-03	15	0	She takes insulin once a day (30u NPH and 10u R).
+357-03	16	0	ROS otherwise negative in detail.
+357-03	17	0	Past Medical History:
+357-03	18	0	ESRD presumed 2/2 type 2 DM
+357-03	19	0	 - on HD since 2075, TTS
+357-03	20	0	Type 2 DM (Insulin-dependent)
+357-03	21	0	 - multiple episodes of hypoglycemia in the past
+357-03	22	0	asthma - no intubations d/t asthma exacerbation, has previously been on steroids stroke/TIA in past seizure 2069, unclear etiology multinodular goiter
+357-03	23	0	HTN
+357-03	24	0	hyperlipidemia
+357-03	25	0	Past Surgical History:
+357-03	26	0	s/p TAH-BSO
+357-03	27	0	Vascular access history:
+357-03	28	0	R brachiocephalic fistula 11/75 after 3 prior failed attempts at access
+357-03	29	0	   - given high risk of further thrombosis, started on coumadin 11/75
+357-03	30	0	   - negative hypercoaguable w/u as per LMR notes
+357-03	31	448	Allergies: NKDA
+357-03	32	438	Medications:
+357-03	33	438	insulin
+357-03	34	438	methyldopa 250mg qd
+357-03	35	438	lisinopril 10mg qd
+357-03	36	438	diltiazem 300mg qd
+357-03	37	438	pravastatin 10mg qhs
+357-03	38	438	Nephrocaps
+357-03	39	438	heparin 5000u bid
+357-03	40	438	colace 100mg bid
+357-03	41	0	Social History:   40 pack-years, 2-3 EtOH drink/week, lives alone.
+357-03	42	0	Family History:
+357-03	43	0	PHYSICAL EXAM
+357-03	44	0	Weight: 72.8kg
+357-03	45	0	Temp: 98.4
+357-03	46	0	BP: 150/82
+357-03	47	0	HR: 91
+357-03	48	0	RR: 22
+357-03	49	0	O2 sat 100%
+357-03	50	0	Gen: Obese AA woman in NAD.
+357-03	51	0	HEENT: sclerae non-icteric, O&P clear and moist
+357-03	52	0	Neck: supple, no LAD, JVP elevated
+357-03	53	0	Lungs: CTA b/l
+357-03	54	0	Cor: regular, s1s2, no m/c/r/g
+357-03	55	0	Abd: soft, NTND, no HSM, no abdominal bruits
+357-03	56	0	Ext: no edema in LE b/l, 2+ pulses distally
+357-03	57	0	Skin: warm, smooth, no rashes
+357-03	58	0	Back: no CVAT
+357-03	59	0	Vascular access: site clean and without inflammation, systolic and diastolic bruit present
+357-03	60	790	LABS:
+357-03	61	790	Date/Time         WBC            HGB            HCT            MCV
+357-03	62	790	01/31/2077       8.15           11.5 (#)       34.7 (*)       87.3
+357-03	63	790	Date/Time         PLT
+357-03	64	790	01/31/2077       231
+357-03	65	790	Date/Time         UA-GLUC        UA-KET         UA-SPGR        UA-BLD
+357-03	66	790	01/31/2077       TR             NEG            1.009          1+
+357-03	67	790	Date/Time         UA-PH          UA-PROT        UA-NIT         UA-WBC
+357-03	68	790	01/31/2077       8.0            2+             NEG            NEG
+357-03	69	790	Date/Time         UAS-BACT
+357-03	70	790	01/31/2077       TR
+357-03	71	790	Date/Time         NA             K              CL             CO2
+357-03	72	790	01/31/2077       137            5.1 (*)        95 (*)         27
+357-03	73	790	01/31/2077       134 (*)        6.2 (*)        94 (*)         25
+357-03	74	790	01/31/2077       136            5.8 (*)        97 (*)         20 (*)
+357-03	75	790	Date/Time         BUN            CRE            EGFR           GLU
+357-03	76	790	01/31/2077       49 (*)         8.0 (*)        5              68
+357-03	77	790	01/31/2077       43 (*)         8.0 (*)        5              83
+357-03	78	790	Date/Time         ANION
+357-03	79	790	01/31/2077       15
+357-03	80	790	Date/Time         CA             PHOS           MG
+357-03	81	790	01/31/2077       10.2                          1.9
+357-03	82	790	01/31/2077       10.6 (*)       5.8 (*)        2.0
+357-03	83	790	Date/Time         CK             CK-MB          TROP-I
+357-03	84	790	01/31/2077      insufficient blood
+357-03	85	790	Date/Time         PT             PT-INR         PTT
+357-03	86	790	01/31/2077       15.8 (*)       1.3 (*)        28.6 (#)
+357-03	87	790	Blood cultures negative to date (01/31/77)
+357-03	88	0	ASSESSMENT AND PLAN:
+357-03	89	0	76F ESRD presumed from Type 2 DM, now admitted for hypoglycemia.
+357-03	90	0	1.  DM: Check HbA1c.
+357-03	91	0	Endocrine to see, given recurrent hypoglycemia.
+357-03	92	0	Nutrition to see. 2.  HD today, as per usual schedule.  Will check iron studies, PTH, 25OH Vit D, URR.
+357-03	93	0	3.  Hyperkalemia: Recirculation studies with HD today.
+357-03	94	0	4.  CAD risk: Check fasting lipids, start ECASA 81mg qd, wean diltiazem and methyldopa and increase lisinopril as tolerated by BP.
+357-03	95	0	Would not start beta-blocker at present until hypoglycemic episodes resolved. 5.  INR: Aiming for INR 1.5-2 - adjust coumadin accordingly.

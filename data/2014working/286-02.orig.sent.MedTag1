@@ -1,0 +1,38 @@
+286-02||1||Record date: 2078-06-15
+286-02||2||DISTRICT FOUR EMERGENCY DEPT VISIT
+286-02||4||ESPOSITO,PERLA   146-55-23-5                     VISIT DATE: 06/15/78
+286-02||5||PRESENTING COMPLAINT:  The patient is a 77 year old female with||DRT FFF 77 year FFF 6 7||
+286-02||6||history of coronary artery disease who presents to District Four State Hospital emergency room department with chief complaint of numbness  in her left upper extremity and left lower extremity after  awakening today.||INDICATION FFF coronary artery disease FFF 2 4||
+286-02||7||She denies slurred speech, shortness of breath,  or headache.||INDICATION FFF shortness of breath, FFF 4 6||INDICATION FFF headache. FFF 8 8||
+286-02||8||HISTORY OF PRESENTING COMPLAINT:
+286-02||9||REVIEW OF SYSTEMS:
+286-02||10||PAST MEDICAL HISTORY:  Positive for coronary artery bypass graft.
+286-02||11||MEDICATIONS:  Lopressor, aspirin, Procardia.||DBN FFF lopressor, FFF 1 1||DIN FFF aspirin, FFF 2 2||DBN FFF procardia. FFF 3 3||
+286-02||12||ALLERGIES:  None.||INDICATION FFF allergies: FFF 0 0||
+286-02||13||SOCIAL HISTORY AND FAMILY HISTORY:
+286-02||14||PHYSICAL EXAMINATION:  Temperature 97, pulse 64, respiratory rate||INDICATION FFF temperature FFF 2 2||
+286-02||15||18, blood pressure 192/96.  HEENT:  Normocephalic, atraumatic.||INDICATION FFF blood pressure FFF 1 2||
+286-02||16||Pupils equal, round, and reactive to light and accommodation.
+286-02||17||Positive for AV nicking.||INDICATION FFF av FFF 2 2||
+286-02||18||Extraocular movements intact.
+286-02||19||Neck:
+286-02||20||Supple.
+286-02||21||No jugular venous distension.
+286-02||22||Chest clear to auscultation  and percussion.
+286-02||23||No rales, wheezes, or rhonchi.||INDICATION FFF wheezes, FFF 2 2||
+286-02||24||Heart:  Normal S1  and S2.
+286-02||25||No S3 or S4 or murmur.
+286-02||26||Abdomen:  Soft, nontender,  nondistended.
+286-02||27||No masses, rebound, or organomegaly.
+286-02||28||Extremities:
+286-02||29||Grossly within normal limits.
+286-02||30||Neurologic:  She was awake and alert  and oriented times three.||FREQ FFF times three. FFF 8 9||
+286-02||31||Normal cerebellar.
+286-02||32||Negative Babinski.
+286-02||33||Muscle strength 4/5.
+286-02||34||LABORATORY EVALUATION:  The patient had a head CT scan in the||INDICATION FFF ct FFF 7 7||
+286-02||35||emergency room department which was noted to be negative.
+286-02||36||THERAPY RENDERED/COURSE IN ED:||INDICATION FFF ed: FFF 3 3||
+286-02||37||PROCEDURES:||INDICATION FFF procedures: FFF 0 0||
+286-02||38||CONSULTATIONS (including PCP):||INDICATION FFF pcp): FFF 2 2||
+286-02||39||FINAL DIAGNOSIS:  Rule out cerebrovascular accident.||INDICATION FFF cerebrovascular accident. FFF 4 5||

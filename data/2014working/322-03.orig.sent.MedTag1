@@ -1,0 +1,92 @@
+322-03||1||Record date: 2077-02-28
+322-03||3||ENDOCRINE/DIABETES STAFF CONSULTATION||INDICATION FFF endocrine/diabetes FFF 0 0||
+322-03||4||Patient: VAUGHN, FRANK   MANAMANA MRN: 6767510||INDICATION FFF frank FFF 2 2||
+322-03||5||Requesting MD: Dr. Quale   Service: SICU||INDICATION FFF md: FFF 1 1||
+322-03||6||CC/ID: Asked to see this 33 y/o M admitted with Fourier's gangrene, s/p multiple surgical procedures, for DM management||TOD FFF cc/id: FFF 0 0||INDICATION FFF gangrene, FFF 11 11||INDICATION FFF procedures, FFF 15 15||INDICATION FFF dm FFF 17 17||
+322-03||7||HPI/ROS: Pt is a 33 y/o with DM-2 who was in his USH until about 2 weeks PTA, when he developed buttock pain.||DRT FFF until FFF 13 13||DRT FFF 2 weeks FFF 15 16||INDICATION FFF pain. FFF 22 22||
+322-03||8||He had some purulent D/C from rectum and worsening of glucose control.||INDICATION FFF glucose control. FFF 10 11||
+322-03||9||He was seen in EDUCARE-PULLMAN Urgent Care on 1/21/77 at which time a small erythematous and tender cyst was noted between his buttocks.
+322-03||10||He was prescribed sitz baths and Keflex for pilonidol cyst vs. ruptured boil.  He was seen again in EDUCARE-PULLMAN on 1/29/77 at which time he reported resolution of his buttock pain.  He denied fevers or neurologic symptoms.  Exam was notable for only a tiny pustule in the upper gluteal cleft, minimally erythematous, non-tender, without drainage.  On the morning of 2/01/77 he developed worsening of his shortness of breath, followed by the development of left jaw pain, and cold sweats, so he presented to the MANAMANA ED.  On presentation, he also admitted to three days of scrotal and perineal pain and swelling.  In the ED he was tachycardic to 113, normotensive, initially low-grade fever, but later spiked to 102.9.  On examination, there was severe bilateral testicular swelling and pain, with a fluctuant mass between the rectum and scrotum.  His WBC was 18,000 with 91% PMNs.  An abdominal CT revealed extensive subcutaneous edema in the perineum, with multiple foci of air consistent with a necrotizing infection; and extensive fluid in the scrotum, consistent with Fournier's gangrene.  The patient was treated with IV Abx and was taken urgently to the OR, where he underwent extensive debridement at which time substantial necrosis and pus were discovered.  He was admitted to the SICU and has since undergone multiple debridements, last on 2/20/77.||DBN FFF keflex FFF 6 6||INDICATION FFF pain. FFF 30 30||INDICATION FFF fevers FFF 33 33||INDICATION FFF symptoms. FFF 36 36||TOD FFF morning FFF 57 57||INDICATION FFF shortness of breath, FFF 65 67||INDICATION FFF pain, FFF 75 75||INDICATION FFF cold FFF 77 77||INDICATION FFF sweats, FFF 78 78||INDICATION FFF ed. FFF 85 85||DRT FFF three days FFF 92 93||INDICATION FFF pain FFF 98 98||INDICATION FFF swelling. FFF 100 100||INDICATION FFF ed FFF 103 103||INDICATION FFF fever, FFF 112 112||INDICATION FFF swelling FFF 125 125||INDICATION FFF pain, FFF 127 127||DOSE FFF 91% FFF 142 142||INDICATION FFF ct FFF 146 146||RUT FFF subcutaneous FFF 149 149||INDICATION FFF edema FFF 150 150||INDICATION FFF infection; FFF 163 163||INDICATION FFF gangrene. FFF 173 173||RUT FFF iv FFF 179 179||DPN FFF abx FFF 180 180||INDICATION FFF debridement FFF 192 192||INDICATION FFF necrosis FFF 197 197||
+322-03||11||In terms of his DM, he has type 2 diagnosed in October 2075.||INDICATION FFF dm, FFF 4 4||
+322-03||12||At the time he was feeling "lousy," tired, nauseated, and increased urinary frequency: went to Payson Hospital and FS was 376.||INDICATION FFF tired, FFF 7 7||INDICATION FFF nauseated, FFF 8 8||
+322-03||13||Pt was admitted overnight and given insulin; started on Metformin 500 bid, eventually insulin was added.||DRT FFF overnight FFF 3 3||DIN FFF insulin; FFF 6 6||DIN FFF metformin FFF 9 9||DOSE FFF 500 FFF 10 10||FREQ FFF bid, FFF 11 11||DIN FFF insulin FFF 13 13||
+322-03||14||He was being followed by Dr.
+322-03||15||Talley at the Promptcare but stopped going there.
+322-03||16||Most recently treated with Lantus 50 units at bedtime plus maximal doses of Glipizide 10 bid and Metformin 1000 bid, with uncontrolled HbA1c (see below).||DBN FFF lantus FFF 4 4||DOSEAMT FFF 50 units FFF 5 6||TOD FFF at bedtime FFF 7 8||DIN FFF glipizide FFF 13 13||DOSE FFF 10 FFF 14 14||FREQ FFF bid FFF 15 15||DIN FFF metformin FFF 17 17||DOSE FFF 1000 FFF 18 18||FREQ FFF bid, FFF 19 19||
+322-03||17||He has microalbuminuria.
+322-03||18||He is unable to give me a full history.||INDICATION FFF me FFF 5 5||
+322-03||19||In the SICU he has been treated with an insulin drip, which oscillates between 4-11 U/hr.||DIN FFF insulin FFF 9 9||RUT FFF drip, FFF 10 10||DOSE FFF 4-11 u/hr. FFF 14 15||
+322-03||20||He is being fed with Glucerna continuous TF at 120 cc/hr, and has been started on NPH 50 U q12h.||DIN FFF glucerna FFF 5 5||INDICATION FFF tf FFF 7 7||DOSE FFF 120 cc/hr, FFF 9 10||DBN FFF nph FFF 16 16||DOSE FFF 50 u FFF 17 18||FREQ FFF q12h. FFF 19 19||
+322-03||21||PMH:
+322-03||22||1. DM-2
+322-03||23||2. HTN||INDICATION FFF htn FFF 1 1||
+322-03||24||3. Mixed dyslipidemia
+322-03||25||4. Depression||INDICATION FFF depression FFF 1 1||
+322-03||26||5. Obesity||INDICATION FFF obesity FFF 1 1||
+322-03||27||6. Back pain||INDICATION FFF back pain FFF 1 2||
+322-03||28||7. Fourier's gangrene as above||INDICATION FFF gangrene FFF 2 2||INDICATION FFF as FFF 3 3||
+322-03||29||8. Hyponatremia on HCTZ||INDICATION FFF hyponatremia FFF 1 1||DPN FFF hctz FFF 3 3||
+322-03||30||ALL: NKDA
+322-03||31||MEDS PTA:
+322-03||32||1. ASA 81 daily||DIN FFF asa FFF 1 1||DOSE FFF 81 FFF 2 2||FREQ FFF daily FFF 3 3||
+322-03||33||2. Atenolol 100 qam, 50 qpm||DIN FFF atenolol FFF 1 1||DOSE FFF 100 FFF 2 2||FREQ FFF qam, FFF 3 3||FREQ FFF qpm FFF 5 5||
+322-03||34||3. Celexa 60 daily||DBN FFF celexa FFF 1 1||DOSE FFF 60 FFF 2 2||FREQ FFF daily FFF 3 3||
+322-03||35||4. Fenofibrate 145 daily||DIN FFF fenofibrate FFF 1 1||DOSE FFF 145 FFF 2 2||FREQ FFF daily FFF 3 3||
+322-03||36||5. Glipizide 10 bid||DIN FFF glipizide FFF 1 1||DOSE FFF 10 FFF 2 2||FREQ FFF bid FFF 3 3||
+322-03||37||6. Klonopin 1 prn||DBN FFF klonopin FFF 1 1||NEC FFF prn FFF 3 3||
+322-03||38||7. Lantus insulin 50 units bedtime||DBN FFF lantus FFF 1 1||DIN FFF insulin FFF 2 2||DOSEAMT FFF 50 units FFF 3 4||TOD FFF bedtime FFF 5 5||
+322-03||39||8. Lipitor 80 daily||DBN FFF lipitor FFF 1 1||DOSE FFF 80 FFF 2 2||FREQ FFF daily FFF 3 3||
+322-03||40||9. Lisinopril 40 daily||DIN FFF lisinopril FFF 1 1||DOSE FFF 40 FFF 2 2||FREQ FFF daily FFF 3 3||
+322-03||41||10. Losartan 25 daily||DIN FFF losartan FFF 1 1||DOSE FFF 25 FFF 2 2||FREQ FFF daily FFF 3 3||
+322-03||42||11. Metformin 1000 bid||DIN FFF metformin FFF 1 1||DOSE FFF 1000 FFF 2 2||FREQ FFF bid FFF 3 3||
+322-03||43||Current MEDS:
+322-03||44||1. Insulin gtt 4-11 U/hr||DIN FFF insulin FFF 1 1||DOSE FFF 4-11 u/hr FFF 3 4||
+322-03||45||2. Lopressor 75 qid||DBN FFF lopressor FFF 1 1||DOSE FFF 75 FFF 2 2||FREQ FFF qid FFF 3 3||
+322-03||46||3. Seroquel 25 bid||DBN FFF seroquel FFF 1 1||DOSE FFF 25 FFF 2 2||FREQ FFF bid FFF 3 3||
+322-03||47||4. Nexium 40 daily||DBN FFF nexium FFF 1 1||DOSE FFF 40 FFF 2 2||FREQ FFF daily FFF 3 3||
+322-03||48||5. Celexa 60 daily||DBN FFF celexa FFF 1 1||DOSE FFF 60 FFF 2 2||FREQ FFF daily FFF 3 3||
+322-03||49||6. Vancomycin 2g IV q12h||DIN FFF vancomycin FFF 1 1||DOSE FFF 2g FFF 2 2||RUT FFF iv FFF 3 3||FREQ FFF q12h FFF 4 4||
+322-03||50||7. Cefepime 2g IV q12h||DIN FFF cefepime FFF 1 1||DOSE FFF 2g FFF 2 2||RUT FFF iv FFF 3 3||FREQ FFF q12h FFF 4 4||
+322-03||51||8. Ativan 0.5 IV q12h||DBN FFF ativan FFF 1 1||DOSE FFF 0.5 FFF 2 2||RUT FFF iv FFF 3 3||FREQ FFF q12h FFF 4 4||
+322-03||52||9. Dilaudid 0.25 IV q4h||DBN FFF dilaudid FFF 1 1||DOSE FFF 0.25 FFF 2 2||RUT FFF iv FFF 3 3||FREQ FFF q4h FFF 4 4||
+322-03||53||10. Levofloxacin 750 mg IV daily||DIN FFF levofloxacin FFF 1 1||DOSE FFF 750 mg FFF 2 3||RUT FFF iv FFF 4 4||FREQ FFF daily FFF 5 5||
+322-03||54||11. Lovenox 30 mg bid||DBN FFF lovenox FFF 1 1||DOSE FFF 30 mg FFF 2 3||FREQ FFF bid FFF 4 4||
+322-03||55||12. NPH 50 units q12h||DBN FFF nph FFF 1 1||DOSEAMT FFF 50 units FFF 2 3||FREQ FFF q12h FFF 4 4||
+322-03||56||13. Iron sulfate 300 tid||DIN FFF iron sulfate FFF 1 2||DOSE FFF 300 FFF 3 3||FREQ FFF tid FFF 4 4||
+322-03||57||HAB: Tobacco: denies
+322-03||58||EtOH: occasional
+322-03||59||RD: denies
+322-03||60||SH: Works as a Teacher of Persons with Disabilities.||INDICATION FFF sh: FFF 0 0||INDICATION FFF as FFF 2 2||
+322-03||61||FH: Father had an MI in his 40's.||INDICATION FFF fh: FFF 0 0||INDICATION FFF mi FFF 4 4||
+322-03||62||PE:||INDICATION FFF pe: FFF 0 0||
+322-03||63||VS:  T 100.2   P 95  BP 127/75 RR 18  O2 99% 2L NC  Wt 341 lbs PTA||INDICATION FFF t FFF 1 1||INDICATION FFF bp FFF 5 5||DOSE FFF 99% FFF 10 10||DOSE FFF 2l FFF 11 11||
+322-03||64||Gen:  Alert, calm, comfortable, NAD; decreased phonation but understands and follows commands
+322-03||65||HEENT:  NC/AT, EOMI, PERRL, OP clear, dry MM, Anicteric||INDICATION FFF op FFF 4 4||INDICATION FFF mm, FFF 7 7||
+322-03||66||Neck:  Supple,    LAD, carotids 2+ w/o bruits||DRT FFF 2+ w/o FFF 4 5||
+322-03||67||Lungs:  CTA  B (anterior exam)
+322-03||68||CV:  RRR  Nl S1 S2     M/G/R
+322-03||69||Abdomen:  NABS  soft ND  Ostomy pink with light brown stool
+322-03||70||Ext:     c/c/e  DP 2+ B  Warm and well perfused||INDICATION FFF dp FFF 2 2||
+322-03||71||Neuro:  MS: A&Ox3   Moves all 4
+322-03||72||Data
+322-03||73||02/28/2077 NA 143,  K 4.0,  CL 110 (H),  CO2 23.0,  BUN 28 (H),  CRE 0.8,  GLU 101||DIN FFF na FFF 1 1||DOSE FFF 143, FFF 2 2||INDICATION FFF k FFF 3 3||INDICATION FFF cl FFF 5 5||DIN FFF glu FFF 15 15||
+322-03||74||02/28/2077 CA 9.3,  PHOS 3.3,  MG 1.6||INDICATION FFF ca FFF 1 1||
+322-03||75||02/27/2077 IC 1.21||INDICATION FFF ic FFF 1 1||
+322-03||76||02/28/2077 WBC 10.5,  RBC 3.11 (L),  HGB 8.8 (L),  HCT 26.1 (L),  MCV 84,  MCH 28.4,  MCHC 33.8,  PLT 351 (H), RDW 17.6 (H)
+322-03||77||02/26/2077 ALT/SGPT 26,  AST/SGOT 20,  ALKP 75,  TBILI 0.3,  DBILI 0.1
+322-03||78||02/13/2077 CHOL 124,  TRIG 346 (H)
+322-03||79||02/07/2077 CHOL 106,  TRIG 226 (H)
+322-03||80||02/04/2077 CHOL 141,  TRIG 478 (H),  HDL 13 (L),  LDL --,  CHOL/HDL 10.8||INDICATION FFF ldl FFF 9 9||
+322-03||81||02/10/2077 CORT 30.4||DIN FFF cort FFF 1 1||
+322-03||82||02/10/2077 CORT 13.6||DIN FFF cort FFF 1 1||
+322-03||83||12/20/2076 MALB 286 (*),  MALB/CRE 4132.9 (*)
+322-03||84||12/20/2076 HGBA1C 11.3 (*)
+322-03||85||08/30/2076 HGBA1C 10.0 (*)
+322-03||86||06/20/2076 HGBA1C 11.4 (*)
+322-03||87||03/26/2076 HGBA1C 8.4 (*)
+322-03||88||12/20/2075 HGBA1C 8.0 (*)
+322-03||89||11/14/2075 HGBA1C 10.6 (*)
+322-03||90||Impression:  33 y/o M with DM-2 requiring insulin, uncontrolled PTA, here recovering from Fournier's gangrene, still in ICU with multiple IV Abx and being fed with TF, requiring high doses of insulin both IV and SQ.||DIN FFF insulin, FFF 7 7||INDICATION FFF gangrene, FFF 14 14||RUT FFF iv FFF 20 20||DPN FFF abx FFF 21 21||INDICATION FFF tf, FFF 26 26||DIN FFF insulin FFF 31 31||RUT FFF iv FFF 33 33||RUT FFF sq. FFF 35 35||
+322-03||91||Pt's insulin requirement is very large due to 1) marked insulin resistance secondary to obesity, 2) ongoing infection and critical illness, and 3) enteral TF.||DIN FFF insulin FFF 1 1||DIN FFF insulin FFF 10 10||INDICATION FFF obesity, FFF 14 14||INDICATION FFF infection FFF 17 17||INDICATION FFF tf. FFF 24 24||
+322-03||92||Would maintain on insulin drip while titrating NPH doses upwards by 10 U q12h each dose as long as czi drip is needed.||DIN FFF insulin FFF 3 3||RUT FFF drip FFF 4 4||DRT FFF while FFF 5 5||DBN FFF nph FFF 7 7||DOSE FFF 10 u FFF 11 12||FREQ FFF q12h FFF 13 13||INDICATION FFF as FFF 16 16||INDICATION FFF as FFF 18 18||RUT FFF drip FFF 20 20||
+322-03||93||Considering his current requirement of at least 120 U IV/24h on top of his SQ doses, he will probably need close to 100 U q12h.||DOSE FFF 120 u FFF 7 8||RUT FFF iv/24h FFF 9 9||DRT FFF iv/24h FFF 9 9||RUT FFF top FFF 11 11||RUT FFF sq FFF 14 14||DOSE FFF 100 u FFF 22 23||FREQ FFF q12h. FFF 24 24||

@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2095-01-31
+
+EDVISIT^65219816^HALL, NICK^01/31/95^PENN, GINO
+
+The patient was seen and examined in the Emergency Department on
+
+01/31/2095.  The patient was seen by Dr. Ibarra.  I have discussed
+
+the management with her.  I have also seen the patient personally
+
+and reviewed the ED record.  This is an addendum to the record. 
+
+I have also reviewed the old medical record and discussed the
+
+management with Dr. Gil, who will be speaking with Dr. Gomez
+
+about accepting this patient to the Cardiology Service.
+
+HISTORY OF PRESENT ILLNESS:  This is a 54-year-old gentleman who
+
+has a history of stent placements as he had a cardiac arrest
+
+status post lobectomy for squamous cell carcinoma.  This occurred
+
+in 02/2094, where the patient was taken to the Cath Lab after His
+
+postoperative rest.  Stents were placed and the patient says he
+
+has been doing well.  In the meantime, he has had no chest pain
+
+or shortness of breath until one week prior, he was on a
+
+treadmill and felt unwell with shortness of breath and chest
+
+discomfort.  He stopped and felt better.  Last night, he was in
+
+bed watching TV, he felt some chest discomfort and took
+
+nitroglycerin with relief of pain, and this morning he was
+
+walking and walked about 100 yards, felt short of breath and
+
+chest pain at rest and took nitroglycerin with relieve and now
+
+has no chest pain or shortness of breath at this time.  His chest
+
+pain he describes it as pressure with exertion and he feels well
+
+now.  No fevers, chills, or cough.
+
+REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+
+PAST MEDICAL HISTORY:  As indicated and also includes
+
+hypertension and increased cholesterol.
+
+SOCIAL HISTORY:  He is a nonsmoker.
+
+PHYSICAL EXAMINATION:  The patient is pleasant, well appearing,
+
+and in no acute distress.  Normocephalic and atraumatic.  Chest
+
+is clear.  Heart is regular.  Abdomen is soft and nontender. 
+
+Extremities are nontender.  Rectal exam is heme-negative.
+
+ASSESSMENT AND PLAN:  This is a gentleman with a history of
+
+coronary artery disease and cardiac arrest, who has a very
+
+typical symptoms concerning for coronary artery disease and
+
+angina including components at rest.  We have started heparin on
+
+the patient medicated with cardiologist for the possibility of
+
+early catheterization.  Laboratory was pending at the time of
+
+this dictation.
+
+DISPOSITION:  The patient will be admitted to Cardiology in fair
+
+condition.
+
+______________________________
+
+PENN, GINO M.D.
+
+D: 01/31/95
+
+T: 01/31/95
+
+Dictated By: PENN, GINO
+
+eScription document:2-5902888 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC5" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC8" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC12" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC4" time="before DCT" type1="nitrate" type2=""/>
+    <HYPERTENSION id="DOC2" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention"/>
+    <CAD id="DOC0" time="before DCT" indicator="symptom"/>
+    <CAD id="DOC1" time="after DCT" indicator="mention"/>
+    <CAD id="DOC3" time="before DCT" indicator="event"/>
+    <CAD id="DOC9" time="during DCT" indicator="mention"/>
+    <CAD id="DOC11" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC7" indicator="not present"/>
+    <SMOKER id="DOC13" status="never"/>
+  </TAGS>
+</root>

@@ -1,0 +1,58 @@
+286-01	1	Record date: 2076-11-11	
+286-01	2	OFFICE NOTE	
+286-01	3		
+286-01	4		
+286-01	5	Esposito, Perla	
+286-01	6	#146-55-23-5                                 November 11, 2076	
+286-01	7		
+286-01	8	Has had no exertional chest pains.	
+286-01	9	Urinates two to three times a night but not very frequently during the day.		DRT FFF two to three times#4	DRT FFF during#11
+286-01	10	Ran out of her	
+286-01	11	Lopressor yesterday.		DBN FFF lopressor#0
+286-01	12	Continues to have some discomfort in her right buttock radiating down the side of her leg.	
+286-01	13	Not happy with the orthotics that were given her for her arch pain because she can only use them with bulkier shoes.		INDICATION FFF pain#12
+286-01	14	Has had some right shoulder discomfort.	
+286-01	15		
+286-01	16	Meds:  Procardia XL 120 mg. q.d.  Aspirin 325 mg. q.d.  Lopressor		DBN FFF procardia xl#2	DOSE FFF 120mg#4	FREQ FFF q.d .#5	DIN FFF aspirin#6	DOSE FFF 325mg#8	FREQ FFF q.d .#9	DBN FFF lopressor#10
+286-01	17	100 mg. b.i.d.  Micronase 5 mg. q.d.		DOSE FFF 100mg#1	FREQ FFF b.i.d#2	DBN FFF micronase#3	DOSE FFF 5mg#5	FREQ FFF q.d .#6
+286-01	18		
+286-01	19	W. 141.  176/90 in the left arm, 178/90 in the right.  80.  Good	
+286-01	20	range of motion of the right shoulder.	
+286-01	21	There is some crepitance over the AC joint.		TOD FFF ac#6
+286-01	22	No subdeltoid or bicipital tendon tenderness.	
+286-01	23	Full range of motion.	
+286-01	24	Lungs are clear.	
+286-01	25	Soft, positive S4.  No pedal edema.		INDICATION FFF edema#5
+286-01	26	1.  CAD.  Doing well without angina.		INDICATION FFF cad#1	INDICATION FFF angina#5
+286-01	27		
+286-01	28	2.  Hypertension.  I renewed her Lopressor.		INDICATION FFF hypertension .#1	DBN FFF lopressor#5
+286-01	29	Will recheck this after she has been taking both medications faithfully.	
+286-01	30		
+286-01	31	3.  Diabetes.		INDICATION FFF diabetes .#1
+286-01	32	Will check a glucose today and I renewed her	
+286-01	33	Micronase.		DBN FFF micronase#0
+286-01	34		
+286-01	35	4.  Question right sciatica.		INDICATION FFF sciatica#3
+286-01	36	She is not interested in any invasive therapy so we will not pursue imaging at this time.	
+286-01	37	She had a negative CT in 2073.  I put her on 400 mg. of Motrin three times a day.		INDICATION FFF ct#4	DOSE FFF 400mg#12	DBN FFF motrin#14	FREQ FFF three times a day#18
+286-01	38		
+286-01	39	5.  Arch pain.		INDICATION FFF pain .#2
+286-01	40	This is clearly not that bothersome that she feels that it is more important to wear lighter shoes.	
+286-01	41		
+286-01	42	6.  Right shoulder pain.		INDICATION FFF right shoulder pain#3
+286-01	43	She may have some mild rotator cuff tendinitis.	
+286-01	44	We discussed the importance of not overusing this shoulder and avoiding lifting anything heavier than a coffee cup.	
+286-01	45	Motrin 400 mg. t.i.d. on a full stomach.  I showed her some range		DBN FFF motrin#0	DOSE FFF 400mg#2	FREQ FFF t.i.d#3
+286-01	46	of motion exercises.	
+286-01	47		
+286-01	48		
+286-01	49		
+286-01	50	Ulises J. Kelley, M.D.	
+286-01	51		
+286-01	52	/dalton	
+286-01	53	Esposito, Perla	
+286-01	54	#146-55-23-5                  - 2 -          November 11, 2076	
+286-01	55		
+286-01	56	DD: 11/11/76		INDICATION FFF dd#0
+286-01	57	DT: 11/19/76		INDICATION FFF dt#0
+286-01	58	DV: 11/11/76	

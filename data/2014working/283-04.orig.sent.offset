@@ -1,0 +1,21 @@
+283-04	10	0	Diabetes mellitus type 2 : insulin requiring	insulin FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+283-04	21	0	low testosterone	testosterone FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+283-04	31	0	Atenolol 100 MG (100MG TABLET Take 1) PO QAM, to be taken in conjunction with 50 mg tab at qhs #90 Tablet(s)	atenolol FFF 0 0	100 mg FFF 1 2	po FFF 7 7	qam, FFF 8 8	 FFF 	 FFF 	narrative
+283-04	32	0	Atenolol 50 MG (50MG TABLET Take 1) PO QHS, to be taken in conjunction with 100 mg qam #90 Tablet(s)	atenolol FFF 0 0	50 mg FFF 1 2	po FFF 7 7	qhs, FFF 8 8	 FFF 	 FFF 	narrative
+283-04	33	0	Enteric Coated Aspirin (ASPIRIN Enteric Coated) 81MG TABLET DR Take 2 PO QD #Tablet(s)	enteric coated aspirin FFF 0 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+283-04	34	0	Folate (FOLIC Acid) 1 MG (1MG TABLET Take 1) PO QD #Tablet(s)	folate FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+283-04	35	0	Furosemide 40 MG (40MG TABLET Take 1) PO QD #90 Tablet(s)	furosemide FFF 0 0	40 mg FFF 1 2	po FFF 7 7	qd FFF 8 8	 FFF 	 FFF 	narrative
+283-04	36	0	Insulin Nph Human 40 UNITS SC QD #4 Bottle(s)	insulin nph human FFF 0 2	40 units FFF 3 4	sc FFF 5 5	qd FFF 6 6	 FFF 	 FFF 	narrative
+283-04	37	0	Insulin Regular Human Variable (100 U/ML VIAL ML) SC #2 Bottle(s)	insulin regular human FFF 0 2	(100 u/ml FFF 4 5	sc FFF 8 8	 FFF 	 FFF 	 FFF 	narrative
+283-04	38	0	Lisinopril 5 MG (5MG TABLET Take 1) PO QD #90 Tablet(s)	lisinopril FFF 0 0	5 mg FFF 1 2	po FFF 7 7	qd FFF 8 8	 FFF 	 FFF 	narrative
+283-04	39	0	Mvi (MULTIVITAMINS) 1 TAB PO QD	Mvi (MULTIVITAMINS) FFF 0 1	1 tab FFF 2 3	po FFF 4 4	qd FFF 5 5	 FFF 	 FFF 	narrative
+283-04	40	0	Simvastatin 20 MG (20MG TABLET Take 1) PO QHS #90 Tablet(s)	simvastatin FFF 0 0	20 mg FFF 1 2	po FFF 7 7	qhs FFF 8 8	 FFF 	 FFF 	narrative
+283-04	41	0	Ultram (TRAMADOL) 50 MG TABLET PO Q4-6H PRN pain, 1-2 tabs before bedtime and as needed, max of 300 mg per day #60 Tablet(s)	ultram FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+283-04	42	0	Vitamin B12 (CYANOCOBALAMIN) 250 MCG (250 MCG TABLET Take 1) PO QD #Tablet(s)	vitamin b12 FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+283-04	43	0	Vitamin E (TOCOPHEROL-DL-ALPHA) 1000 UNIT CAPSULE PO QD #Capsule(s)	vitamin e FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+283-04	51	0	Social history: Engaged, does not smoke, drink or use drugs, works as a architect at the Alaska Air Group in Juneau	drugs, FFF 9 9	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+283-04	56	0	He has a history of poorly controlled type 2 diabetes, he currently uses NPH insulin 42 units daily with sliding scale to 3 times a day at a maximal 8 units at a time.	nph insulin FFF 13 14	sliding scale FFF 19 20	 FFF 	daily FFF 17 17	 FFF 	 FFF 	narrative
+283-04	58	0	His only risk doctor for fracture includes a low testosterone diagnosed about 3 years ago.	testosterone FFF 9 9	 FFF 	 FFF 	 FFF 	3 years FFF 12 13	 FFF 	narrative
+283-04	59	0	He is currently on no replacement for testosterone, and only recently started calcium and vitamin D after his fracture.	testosterone, FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+283-04	59	0	He is currently on no replacement for testosterone, and only recently started calcium and vitamin D after his fracture.	calcium FFF 12 12	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+283-04	59	0	He is currently on no replacement for testosterone, and only recently started calcium and vitamin D after his fracture.	vitamin d FFF 14 15	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

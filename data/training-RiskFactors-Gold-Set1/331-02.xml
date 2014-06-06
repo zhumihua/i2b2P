@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2079-01-24
+
+Mr. Sparks is a 74 yr. M who was seen by me as a new patient in Nov. 10 and again in Dec. 10. He RTC.
+
+
+
+HPI: This visit was supposed to be a preoperative visit prior to his scheduled Feb. 02 right inguinal hernia repair with Dr. Yamaguchi. However, when I saw him in Dec he had inadequate BP control despite Dr. Arias doubling his Lisinopril. I DCed Atenolol and switched him to Labetalol 100 mg BID. Despite some confusion I believe he has done this. He had also been switched from Crestor to Lipitor due to safety concerns. Labs done pre-operatively are notable for:
+
+Creatinine     3.4
+
+LDL          184
+
+nct.           35%
+
+
+
+Problems
+
+Adenomatous polyp : May 2078
+
+Gastritis : H. pylori positive
+
+Chronic renal dysfunction 
+
+Diabetes mellitus type 2 
+
+Hypertension 
+
+Hyperlipidemia 
+
+Anemia 
+
+hyperparathyroidism 
+
+Transient ischemic attack 
+
+
+
+Medications
+
+Amlodipine 10 MG (10MG TABLET take 1) PO QD 
+
+Glipizide 10 MG (10MG TABLET take 1) PO BID 
+
+Pioglitazone 15 MG (15MG TABLET take 1) PO QD 
+
+Clopidogrel 75 MG (75MG TABLET take 1) PO QD 
+
+Furosemide 20 MG (20MG TABLET take 1) PO BID 
+
+Ferrous GLUCONATE 300 MG PO BID 
+
+Lisinopril 80 MG (40MG TABLET ) PO QD , by Dr. Arias.
+
+Atorvastatin 40 MG (40MG TABLET take 1) PO QD 
+
+Labetalol HCL 100 MG (100MG TABLET take 1) PO BID 
+
+
+
+Allergies
+
+Aspirin - ulcer, : Allergy entered as ASA 
+
+Habits: no cigarettes, drugs or alcohol;
+
+
+
+ROS: denies weight change, fever, chills, fatigue, blurry vision, chest pains, palpitations, dyspnea, cough, abdominal pain, nausea, vomiting, change in bowel/bladder habits, joint pain, dizziness, exanthem, edema. 
+
+
+
+PE notable for:
+
+Well nourished well appearing M;
+
+Vital Signs
+
+BP 184/90, P 72, Wt 236 lb
+
+O2 SAT 99 %
+
+HEENT: sclera clear white OU, EOMI, ear canals and TMs wnl AU; oropharynx without lesions.
+
+LN: No palpable neck or SC LN;
+
+Cardiac: RRR, rate 72, no extra sounds
+
+Resp.: good air movement, no accessory muscle use, no adventitious sounds
+
+
+
+Plan:
+
+1. Hypertension: continues to be inadequate in a diabetic.We have limited options; increasing Lisinopril did not add much. Switch to Labetalol did not help, but he is also not beta-blocked (HR 72) so I am increasing Labetalol to 200 mg BID.
+
+2. Diabetes: control has been good.
+
+3. Renal insufficiency
+
+4. Hyperlipidemia: we may need to increase Lipitor and/or add Zetia.
+
+5. Right inguinal hernia: RTC one week for hopefully better pre-op. BP
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC21" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC25" time="before DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC5" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC8" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC11" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC12" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC13" time="after DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC14" time="before DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC15" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC18" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC24" time="during DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC26" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC27" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC28" time="before DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC29" time="after DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC30" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC31" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC9" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC19" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC32" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC20" indicator="not present"/>
+    <SMOKER id="DOC22" status="never"/>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC16" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC23" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

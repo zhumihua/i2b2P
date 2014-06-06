@@ -1,0 +1,74 @@
+302-02	1	Record date: 2083-04-03		 
+302-02	2	Beaumont Hospital Physician Group		 
+302-02	3	090 Crowley Avenue                                    Rhodes, Yajaira		 
+302-02	4	Rutland, FL 94265                            97627182		 
+302-02	5	(153) 636-7011                                           04/03/83		 
+302-02	6	(584) 728-8734		 
+302-02	7	SUBJECTIVE:  The patient returns having been in Maine for		 
+302-02	8	the winter in the past five months.		 
+302-02	9	Her husband visited ever three weeks or so.		 
+302-02	10	She is walking somewhat better with less pain but moves very slowly.		 
+302-02	11	She says that for the past two weeks she first had some substernal pressure which moved down into her abdomen and now instead of having one bowel movement every one or two weeks she is having a bowel movement three times a week which is formed and not bloody.		 
+302-02	12	She put herself on Pepto-Bismol and is gradually getting		DBN FFF pepto-bismol#4
+302-02	13	better.		 
+302-02	14	She has not had any chest pain, tachycardia, palpitations,		 
+302-02	15	cough or hemoptysis.		 
+302-02	16	She has no visual signs.		 
+302-02	17	She has not been seen by the ophthalmologist recently.		 
+302-02	18	Her hearing is good.		 
+302-02	19	She has mammograms yearly.		 
+302-02	20	She sees her gynecologist on a yearly basis, Dr.		 
+302-02	21	Giles, having changed from Dr.		 
+302-02	22	Godfrey.		 
+302-02	23	She is not sexually active.		 
+302-02	24	She is not dieting and has not lost any weight.		 
+302-02	25	Her back pain is somewhat better.		 
+302-02	26	MEDICATIONS:  She is on the following medications:		DBN FFF the following medications#6
+302-02	27	1.  Lipitor 20 mg q.d.		DBN FFF lipitor#1	DOSE FFF 20mg#3	FREQ FFF q.d .#4
+302-02	28	2.  Glynase 1.5 mg b.i.d.		 
+302-02	29	3.  Avandia 4 mg q.a.m.		DBN FFF avandia#1	DOSE FFF 4mg#3	FREQ FFF q.a.m#4
+302-02	30	4.  Trandate 100 mg q.d.		DBN FFF trandate#1	DOSE FFF 100mg#3	FREQ FFF q.d .#4
+302-02	31	5.  Tegretol 300 mg in the a.m. and 200 the evening (changed		DBN FFF tegretol#1	DOSE FFF 300mg#3	TOD FFF a.m#6	TOD FFF evening#10
+302-02	32	to 200 mg b.i.d.).		 
+302-02	33	6.  Neurontin 200 mg b.i.d.		DBN FFF neurontin#1	DOSE FFF 200mg#3	FREQ FFF b.i.d#4
+302-02	34	7.  Premarin 0.625 mg 30 days a month.		DBN FFF premarin#1	DOSE FFF 0.625mg#3	DRT FFF 30 days#5	DRT FFF a month#7
+302-02	35	8.  Provera 5 mg 12 days a month.		DBN FFF provera#1	DOSE FFF 5mg#3	DRT FFF 12 days#5	DRT FFF a month#7
+302-02	36	9.  Enteric coated aspirin 81 mg q.d.		DBN FFF enteric coated aspirin#3	DOSE FFF 81mg#5	FREQ FFF q.d .#6
+302-02	37	10. Calcium 1200 mg q.d.		DIN FFF calcium#1	DOSE FFF 1200mg#3	FREQ FFF q.d .#4
+302-02	38	REVIEW OF SYSTEMS:  Her diabetes has been poorly regulated		 
+302-02	39	and hopefully the Avandia will make her feel better.		DBN FFF avandia#3
+302-02	40	She states that she takes the Avandia in the morning and she		DBN FFF avandia#6	TOD FFF in the morning#9
+302-02	41	feels very weak at lunchtime such that she has to get an		 
+302-02	42	orange juice.		DIN FFF orange juice#1
+302-02	43	She says that her blood sugar has dropped but when she checks it, it has been around 100 mg%  and I explained to her that it is a normal blood sugar but it may be that the drop causes her to have symptoms.		 
+302-02	44	PHYSICAL EXAMINATION: She weighs 192 lbs stripped which is a		 
+302-02	45	weight gain for her.		 
+302-02	46	Her blood pressure is 122/76 in the right arm sitting with a wide cuff.		 
+302-02	47	She appears as a well developed, pleasant white female, grossly overweight, moving slowly and can only get up on the examining table with help because of her back pain.		 
+302-02	48	There is no icterus, cyanosis or edema.		 
+302-02	49	The pupils are round, reactive and equal and react equally to light and accommodation.		 
+302-02	50	Nose and throat examination is unremarkable.		 
+302-02	51	Neck veins are flat.		 
+302-02	52	Carotids are 2+ and equal and without bruit.		 
+302-02	53	Lungs are clear to P&A.		 
+302-02	54	Breasts reveal no masses or discharge.		 
+302-02	55	The heart is not enlarged.		 
+302-02	56	There is a regular sinus rhythm and no significant murmurs.  S1 and S2 are of normal intensity.		 
+302-02	57	Liver and spleen are not felt.		 
+302-02	58	Bowel sounds are normal.		 
+302-02	59	There are no abdominal masses or tenderness.		 
+302-02	60	This is a female escutcheon.		 
+302-02	61	Rectal was deferred.		 
+302-02	62	She has fair peripheral pulses and decreased vibration sense in her feet.		 
+302-02	63	IMPRESSION:		 
+302-02	64	1.  Diabetes mellitus, poorly regulated.		 
+302-02	65	Will check glycohemoglobin today.		 
+302-02	66	2.  Diabetic neuropathy.		 
+302-02	67	3.  L2-L3 disk with fusion.		 
+302-02	68	4.  Hypercholesterolemia on Lipitor.		INDICATION FFF hypercholesterolemia#1	DBN FFF lipitor#3
+302-02	69	5.  Weight management problem.		 
+302-02	70	______________________________		 
+302-02	71	Brett F.		 
+302-02	72	Rutherford, M.D. eScription document:6-015285 DOeScription		 
+302-02	73	DD: 04/03/83		 
+302-02	74	DT: 04/03/83		 

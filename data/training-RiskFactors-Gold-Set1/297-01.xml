@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2092-12-27
+
+MARTHA JEFFERSON HOSPITAL
+Stephen A.N. Xayachack, M.D.
+039 Will St                           Vicente, Kadeem
+Sandpoint, MI 58543                             CK759182
+(033) 250-1408                                12-27-92
+ 
+ 
+HPI: Kadeem Vicente comes in today for a follow-up office visit.  The 
+patient was seen by me approximately one month ago as a new patient and 
+whose primary medical concerns a history of coronary artery disease, for 
+which he suffered a "silent heart attack" many years ago, a history of 
+benign prostatic hypertrophy, as well as hypertension and GERD.  As it 
+turns out, the patient had been on Zantac for many, many years, the 
+beneficial effects of which were unknown.  We had decided as of our last 
+meeting to stop this drug and find out if he became symptomatic.  The 
+patient reports today that he is not symptomatic, and thus we will 
+continue to discontinue this medicine.  At this point, the patient does 
+not need the addition of a proton pump inhibitor, such as Prilosec.  
+With regard to the patient's symptoms of benign prostatic hypertrophy, 
+the patient said that he only has taken one dose of the Hytrin, since he 
+wanted to use up all his Minipress, which he tool up until 2 nights ago.  
+Thus it is too early to assess the efficacy of this medication.  It is 
+noted that his blood pressure was 152/74, which is better than it was 
+the last time he was here, which the systolic range was 160-170 and 
+diastolic was 80-90.  The patient reports no new symptomatology other 
+than occasional fatigue, from which he will have to rest.  The patient 
+has no symptoms of congestive heart failure, no shortness of breath, no 
+ankle edema, no JVD by observation, and his laboratory results are 
+remarkably normal, given his medical complaints.  The patient's 
+cholesterol is 190 with a slightly above average triglycerides.  Review 
+of systems otherwise negative.
+ 
+Physical exam is not performed at this time.  Blood pressure was 152/76 
+on the right, 152/76 on the left, temperature was 96.8, respirations 20 
+and unlabored, and pulse was 70.
+ 
+ASSESSMENT/PLAN: This is a 75 year old man with multiple medical 
+problems coming in for follow-up.
+1.   Hypertension - the patient will stay on his Zestril and will use 
+     Hytrin now, both for his hypertension, as well as benign prostatic 
+     hypertrophy.  The patient does speak of some nocturnal dribbling, 
+     and he said he also has urge incontinence, particularly while 
+     standing.  The patient was told that after a trial of Hytrin, which 
+     hopefully can help with his symptoms of benign prostatic 
+     hypertrophy, that this urge incontinency will also be helped.  If 
+     the patient's symptoms continue beyond this, he will be referred to 
+     Urology for possible TUNA procedure.
+ 
+2.   BPH - please see above.  The patient will stay on Hytrin for now.
+ 
+3.   ? coronary artery disease - the patient's cholesterol is 190 with a 
+     slightly above average triglycerides, which is more than acceptable 
+     for this gentleman.  I do not have an HDL in which to judge his 
+     ratio, but I was by the patient before that it runs in the high 40s 
+     MARTHA JEFFERSON HOSPITAL
+Stephen A.N. Xayachack, M.D.
+476 Will St                           Vicente, Kadeem
+Sandpoint, MI 58543                             CK759182
+(033) 250-1408                                12-27-92
+PAGE 2
+ 
+     or low 50s.  Therefore this will be an acceptable ratio without 
+     therapy.  I will get a fasting lipid on the patient probably in 
+     about 6 months, and if there is any derangement in his profile, he 
+     will be put on an antilipid drug.
+ 
+4.   GI - at this point his GERD symptoms have not returned, and what I 
+     will attempt to do is to keep him off his H2 blockers at this 
+     point.  Should his symptoms return, the patient most likely will be 
+     placed on Prilosec.
+ 
+I will seen him in one month for follow-up, primarily for evaluation of 
+his use of Hytrin.
+ 
+ 
+______________________________
+Stephen A.N. Xayachack, M.D.
+ 
+KT:TR:9254
+DD:12-27-92  
+DT:01-01-93
+DV:12-27-92
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC5" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <HYPERTENSION id="DOC2" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC9" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC12" time="before DCT" indicator="high bp"/>
+    <CAD id="DOC1" time="before DCT" indicator="mention"/>
+    <CAD id="DOC3" time="before DCT" indicator="event"/>
+    <CAD id="DOC8" time="during DCT" indicator="mention"/>
+    <CAD id="DOC13" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC10" indicator="not present"/>
+    <SMOKER id="DOC11" status="unknown"/>
+  </TAGS>
+</root>

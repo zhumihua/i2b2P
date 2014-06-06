@@ -1,0 +1,51 @@
+221-02||1||Record date: 2089-10-07
+221-02||2||Medications:
+221-02||3||Prilosec 20 - 2||DBN FFF prilosec FFF 0 0||
+221-02||4||Atenolol 50||DIN FFF atenolol FFF 0 0||
+221-02||5||Cozaar 50||DBN FFF cozaar FFF 0 0||
+221-02||6||Lipitor 10||DBN FFF lipitor FFF 0 0||
+221-02||7||Valium 2 -||DBN FFF valium FFF 0 0||
+221-02||8||Advair 2i puff bid||DBN FFF advair FFF 0 0||FREQ FFF bid FFF 3 3||
+221-02||9||Alupent prn||NEC FFF prn FFF 1 1||
+221-02||10||Problem #1: GERD||INDICATION FFF gerd FFF 2 2||
+221-02||11||No heart burn on Prilosec.||INDICATION FFF heart burn FFF 1 2||DBN FFF prilosec. FFF 4 4||
+221-02||12||He does note attacks of ss chest pain radiating to L arm relieved by valium and Gaviscon and attributed by Y.||INDICATION FFF chest pain FFF 6 7||DBN FFF valium FFF 14 14||DBN FFF gaviscon FFF 16 16||
+221-02||13||Ullrich to reflux (Ted says).
+221-02||14||No exertional trigger to these.
+221-02||15||Problem #2: CAD||INDICATION FFF cad FFF 2 2||
+221-02||16||No exertional chest pain, dizzy spells or episodes of dizziness.||INDICATION FFF chest pain, FFF 2 3||INDICATION FFF dizziness. FFF 9 9||
+221-02||17||Thallium stress last year to METS 13 showed normal ECG but a small anteroseptal zone of ischemia with reperfusion.||INDICATION FFF mets FFF 5 5||DIN FFF ecg FFF 9 9||INDICATION FFF ischemia FFF 16 16||
+221-02||18||Has not really engaged in fitness program as recommended by Y Ullrich||INDICATION FFF as FFF 7 7||
+221-02||19||Problem # 3 .HT||INDICATION FFF .ht FFF 3 3||
+221-02||20||BP's 150/80 range at home
+221-02||21||Problem #4 Hyperlipidemia||INDICATION FFF hyperlipidemia FFF 2 2||
+221-02||22||Last chol169  TG 270  HDL 35  LDL 79  (9/88)||INDICATION FFF ldl FFF 6 6||
+221-02||23||Problem # 5 Asthma||INDICATION FFF asthma FFF 3 3||
+221-02||24||Intensifies seasonally  (now) controlled with inhalants
+221-02||25||Problem # 6  Recurrent sinusitis||INDICATION FFF sinusitis FFF 4 4||
+221-02||26||He describes stuffiness of sinuses, at times has been treated by his ENT physician with cipro.||DBN FFF cipro. FFF 15 15||
+221-02||27||May need drainage surgery||INDICATION FFF surgery FFF 3 3||
+221-02||28||Social History  Unchanged
+221-02||29||ROS
+221-02||30||HEENT: No hearing or visual problems.||INDICATION FFF visual problems. FFF 4 5||
+221-02||31||Resp:    See above
+221-02||32||CV:       See above
+221-02||33||Abd:      No nausea, vomiting, pain, bowel disturbance, hematochezia, melena||INDICATION FFF nausea, FFF 2 2||INDICATION FFF vomiting, FFF 3 3||INDICATION FFF pain, FFF 4 4||
+221-02||34||GU:        No dysuria, hematuria, flank pain.||INDICATION FFF gu: FFF 0 0||INDICATION FFF flank pain. FFF 4 5||
+221-02||35||NM:      No sensory, gait, strength deficits.
+221-02||36||No syncope, seizures.||INDICATION FFF seizures. FFF 2 2||
+221-02||37||Endoc:  No polyuria, polydipsia, heat or cold intolerance.||INDICATION FFF polyuria, FFF 2 2||INDICATION FFF cold FFF 6 6||
+221-02||38||BMJ:     No myalgias, arthralgias.||INDICATION FFF arthralgias. FFF 3 3||
+221-02||39||Other:    No wt loss, fever, fatigue, sleep difficulty.||INDICATION FFF fever, FFF 4 4||INDICATION FFF fatigue, FFF 5 5||INDICATION FFF sleep FFF 6 6||
+221-02||41||Physical Examination
+221-02||42||BP 170/70 (!)  P 56 RSR||INDICATION FFF bp FFF 0 0||
+221-02||43||HEENT  PERLA.
+221-02||44||Pharynx benign
+221-02||45||Neck:  Supple.
+221-02||46||Thyroid not enlarged.
+221-02||47||No carotid bruit
+221-02||48||LN'S:   No lymphadenopathy
+221-02||49||Lungs:   Clear to percussion and auscultation
+221-02||50||Heart:  Not enlarged.
+221-02||51||No murmurs
+221-02||52||Abdomen:   Soft.  No organomegaly, masses. tenderness.

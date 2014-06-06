@@ -1,0 +1,10 @@
+330-01	2	0	VIGIL, ANTHONY	vigil, FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+330-01	20	0	He was treated with diuretics and other medications at that time.	diuretics FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+330-01	31	0	His current medical regimen is Bumex 3, recently decreased from 12 due to worsening renal function.	medical regimen FFF 2 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+330-01	31	0	His current medical regimen is Bumex 3, recently decreased from 12 due to worsening renal function.	bumex FFF 5 5	3, FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+330-01	32	0	He is on spironolactone described as 6.25 daily, digoxin 0.125, Toprol-XL 12.5.	spironolactone FFF 3 3	 FFF 	 FFF 	daily, FFF 7 7	 FFF 	 FFF 	narrative
+330-01	32	0	He is on spironolactone described as 6.25 daily, digoxin 0.125, Toprol-XL 12.5.	digoxin FFF 8 8	0.125, FFF 9 9	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+330-01	32	0	He is on spironolactone described as 6.25 daily, digoxin 0.125, Toprol-XL 12.5.	toprol-xl FFF 10 10	12.5. FFF 11 11	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+330-01	33	0	He has been on carvedilol, which was changed due to dizziness.	carvedilol, FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+330-01	34	0	He is on lisinopril 1.25 mg and has had great difficulty tolerating any higher dose due to dizziness.	lisinopril FFF 3 3	1.25 mg FFF 4 5	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+330-01	35	0	He is on metolazone 2.5 weekly.	metolazone FFF 3 3	2.5 FFF 4 4	 FFF 	weekly. FFF 5 5	 FFF 	 FFF 	narrative

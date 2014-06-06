@@ -1,0 +1,8 @@
+221-01	33	438	Atenolol 25/50mg qAM/qPM	atenolol FFF 0 0	25/50mg FFF 1 1	 FFF 	qAM/qPM FFF 2 2	 FFF 	 FFF 	narrative
+221-01	34	438	ASA 325mg qD	asa FFF 0 0	325mg FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+221-01	35	438	Prilosec 20mg qD	prilosec FFF 0 0	20mg FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+221-01	36	438	Lipitor 10mg qD	lipitor FFF 0 0	10mg FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+221-01	37	0	NTG sl prn: last used several months ago as a "test"	ntg sl FFF 0 1	 FFF 	 FFF 	prn: FFF 2 2	several months FFF 5 6	 FFF 	narrative
+221-01	38	0	ALL: NKDA, Intolerance to Inderal	inderal FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+221-01	134	0	PT                    12.7   11.1-13.1 sec      07/02/88 11:21	sec FFF 3 3	07/02/88 FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+221-01	136	0	PTT                   24.4   22.1-35.1 sec      07/02/88 11:21	sec FFF 3 3	07/02/88 FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	narrative

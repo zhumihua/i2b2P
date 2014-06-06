@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2068-12-01
+
+                     MEDIQUIK EMERGENCY DEPT VISIT
+
+ 
+
+RUTLEDGE,XAVIER W.   539-54-14-3
+
+I was the patient's doctor during this emergency department stay.
+
+PRESENTING COMPLAINT:  Infection in the left foot. 
+
+HISTORY OF PRESENTING COMPLAINT:  The patient is a 59-year-old man 
+
+with multiple medical problems including insulin-requiring diabetes 
+
+who has a chronic, nonhealing ulcer on the plantar surface of his 
+
+left foot.  He now complains of two days of increasing pain and 
+
+redness and systemic malaise.  He denies chest pain, abdominal 
+
+pain, streaking redness up to the thigh, nausea, vomiting, 
+
+diarrhea, and dysuria.  
+
+REVIEW OF SYSTEMS:  Negative except as given above. 
+
+PAST MEDICAL HISTORY:  Hypercholesterolemia, gout, hypertension, 
+
+insulin-requiring diabetes mellitus, chronic renal insufficiency, 
+
+nephrotic syndrome, status post kidney transplant in 2059, on 
+
+cyclosporine, thrombocytopenia, CMV, and hypomagnesemia 
+
+intermittently.  Kidney transplant as noted above.
+
+MEDICATIONS:  Levaquin, cyclosporine, magnesium, Lipitor, Coumadin, 
+
+prednisone, Allopurinol, lisinopril, metoprolol, Lasix, and others 
+
+as noted on the nurses' notes.  
+
+ALLERGIES:  Codeine which caused a rash. 
+
+SOCIAL HISTORY AND FAMILY HISTORY:  Social history noncontributory. 
+
+Family history noncontributory.  
+
+PHYSICAL EXAMINATION:  GENERAL:  Awake, alert, spontaneous and 
+
+appropriate, in no distress.  VITAL SIGNS:  Normal.  HEENT:  There 
+
+was no evidence of head trauma, conjunctivae clear.  NECK:  Supple 
+
+with no lymphadenopathy and no jugulovenous distention.  CHEST:  
+
+Notable for babasilar rales with normal respiratory excursion.  
+
+HEART:  Regular with no murmurs, rubs, or gallops.  ABDOMEN:  Soft, 
+
+nontender, no masses, no organomegaly.  SKIN/EXTREMITIES:  Other 
+
+than the left foot and ankle, the skin and extremities were normal 
+
+with no clubbing, cyanosis, lesions or rashes, although there was 
+
+bilateral 1+ pitting edema in the lower extremities.  The left foot 
+
+had an approximately 1 cm ulcer on the plantar surface and the 
+
+entire left foot and ankle were quite erythematous with increased 
+
+edema relative to the remainder of the lower extremities.  He also 
+
+had tenderness on palpation of the ankle though there was no 
+
+tenderness on passive motion of the toes.  
+
+LABORATORY EVALUATION:  Pending at this time.  The patient is being 
+
+seen by the Surgery Department.  
+
+FINAL DIAGNOSIS:  Infected diabetic foot ulcer.  
+
+DISPOSITION (including condition upon discharge):  The patient will 
+
+be admitted to the Surgery Department for surgical management 
+
+and inpatient medical management.  Condition fair.  
+
+___________________________________                    OO280/953 
+
+QUINTON OSWALD, M.D.   QO05                              D:12/01/68 
+
+                                                       T:12/01/68 
+
+Dictated by:  QUINTON OSWALD, M.D.   QO05 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC6" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC10" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC18" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC9" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC11" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC14" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC16" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC3" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC13" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC19" indicator="not present"/>
+    <SMOKER id="DOC15" status="unknown"/>
+    <DIABETES id="DOC7" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC12" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC17" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

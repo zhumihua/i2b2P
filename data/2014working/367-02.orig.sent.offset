@@ -1,0 +1,28 @@
+367-02	8	0	HPI:    Has h/o HTN, saw her PCP in September, BP 168/78, supposed to be on cozaar 50 mg BID, added HCTZ 25 mg QD.	cozaar FFF 15 15	50 mg FFF 16 17	 FFF 	bid, FFF 18 18	 FFF 	 FFF 	narrative
+367-02	8	0	HPI:    Has h/o HTN, saw her PCP in September, BP 168/78, supposed to be on cozaar 50 mg BID, added HCTZ 25 mg QD.	hctz FFF 20 20	25 mg FFF 21 22	 FFF 	qd. FFF 23 23	 FFF 	 FFF 	narrative
+367-02	9	0	However, patient has only been taking cozaar 50 mg QD.	cozaar FFF 6 6	50 mg FFF 7 8	 FFF 	qd. FFF 9 9	 FFF 	 FFF 	narrative
+367-02	18	0	Given hydralazine 10 mg IV x 2, ativan 1 mg IV x1, and lopressor 25 mg PO x1, BP improved to 160's/80's.	hydralazine FFF 1 1	10 mg FFF 2 3	iv FFF 4 4	x 2, FFF 5 6	 FFF 	 FFF 	narrative
+367-02	18	0	Given hydralazine 10 mg IV x 2, ativan 1 mg IV x1, and lopressor 25 mg PO x1, BP improved to 160's/80's.	ativan FFF 7 7	1 mg FFF 8 9	iv FFF 10 10	x1, FFF 11 11	 FFF 	 FFF 	narrative
+367-02	18	0	Given hydralazine 10 mg IV x 2, ativan 1 mg IV x1, and lopressor 25 mg PO x1, BP improved to 160's/80's.	lopressor FFF 13 13	25 mg FFF 14 15	po FFF 16 16	x1, FFF 17 17	 FFF 	 FFF 	narrative
+367-02	36	438	Cozaar 50 mg PO BID (only taking 50 QD)	cozaar FFF 0 0	50 mg FFF 1 2	po FFF 3 3	bid FFF 4 4	 FFF 	 FFF 	narrative
+367-02	37	438	HCTZ 25 mg PO QD (added 9/82, not taking)	hctz FFF 0 0	25 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+367-02	38	438	Glyburide 5 mg PO QD	glyburide FFF 0 0	5 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+367-02	39	438	Premarin  PO QHS (not taking)	premarin FFF 0 0	 FFF 	po FFF 1 1	qhs FFF 2 2	 FFF 	 FFF 	narrative
+367-02	40	438	Fosamax 70 mg PO QWK (not taking)	fosamax FFF 0 0	70 mg FFF 1 2	po FFF 3 3	qwk FFF 4 4	 FFF 	 FFF 	narrative
+367-02	41	438	Ativan 0.5 mg PO QD PRN	ativan FFF 0 0	0.5 mg FFF 1 2	po FFF 3 3	QD PRN FFF 4 5	 FFF 	 FFF 	narrative
+367-02	42	438	Tums	tums FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+367-02	43	438	MVI	mvi FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+367-02	67	0	Plasma Sodium           133       L              135-145        mmol/L	sodium FFF 1 1	133 l FFF 2 3	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+367-02	67	0	Plasma Sodium           133       L              135-145        mmol/L	sodium FFF 1 1	135-145 mmol/l FFF 4 5	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+367-02	68	0	Plasma Potassium        5.4       H              3.4-4.8        mmol/L	potassium FFF 1 1	3.4-4.8 mmol/l FFF 4 5	 FFF 	 FFF 	5.4 h FFF 2 3	 FFF 	narrative
+367-02	70	0	Plasma Carbon Dioxide   26.6                     24.0-30.0      mmol/L	carbon dioxide FFF 1 2	26.6 FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+367-02	70	0	Plasma Carbon Dioxide   26.6                     24.0-30.0      mmol/L	carbon dioxide FFF 1 2	24.0-30.0 mmol/l FFF 4 5	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+367-02	71	0	Calcium                 10.4                     8.5-10.5       mg/dl	calcium FFF 0 0	10.4 FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+367-02	71	0	Calcium                 10.4                     8.5-10.5       mg/dl	calcium FFF 0 0	8.5-10.5 mg/dl FFF 2 3	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+367-02	73	0	Magnesium               1.6                      1.4-2.0        meq/L	magnesium FFF 0 0	1.6 FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+367-02	73	0	Magnesium               1.6                      1.4-2.0        meq/L	magnesium FFF 0 0	1.4-2.0 meq/l FFF 2 3	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+367-02	74	0	Plasma Urea Nitrogen    18                       8-25           mg/dl	nitrogen FFF 2 2	18 FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+367-02	74	0	Plasma Urea Nitrogen    18                       8-25           mg/dl	nitrogen FFF 2 2	8-25 mg/dl FFF 4 5	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+367-02	74	0	Plasma Urea Nitrogen    18                       8-25           mg/dl	urea FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+367-02	78	0	Albumin                 4.0                      3.1-4.3        g/dl	albumin FFF 0 0	4.0 FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+367-02	78	0	Albumin                 4.0                      3.1-4.3        g/dl	albumin FFF 0 0	3.1-4.3 g/dl FFF 2 3	 FFF 	 FFF 	 FFF 	 FFF 	narrative

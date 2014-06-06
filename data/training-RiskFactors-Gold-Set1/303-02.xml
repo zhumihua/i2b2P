@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2113-03-08
+
+ 
+March 08, 2113 
+ 
+Thomas Ho, M.D.  
+Saint Davids Pavilion 
+Internal Medicine 
+Walton, IL 14418 
+ 
+RE: LINDSAY, Anastasha 
+SDP#: 5563788 
+ 
+Dear Dr. Ho:  
+ 
+I had the pleasure of seeing Mrs. Lindsay today in follow up at the Saint Davids Pavilion Neurology. I last saw her on 07/27/2112. She is a 72-year-old woman who is status post a right MCA distribution cortical infarct in April of 2112 with residual left hand weakness. Since I last saw her Mrs. Lindsay has not done very well. She has had multiple recent falls and her gait has become even more unsteady. She tends to veer to either side and does have a frequent feeling of lightheadedness. She has hit her head on a couple of occasions with these falls. 
+
+  
+Of note her blood pressure medication has been essentially doubled since I last saw her. She is now taking 10 mg of Zestril every day instead of five and taking Atenolol 50 mg q.d. instead of 25 mg p.o. q.d. She does have intermittent weakness of the left hand which is likely recrudescent of her prior stroke symptoms and not new strokes. She does not have discoordination, vertigo or diplopia. She does have intermittent chest pains as well which she loath to bring to the attention of her physician.  She is reluctant to use a cane because her family states that "her husband does not use a cane and he is older, why should she have to use a cane". She has been switched to Plavix 75 mg p.o.  q.d. from aspirin. This was done without my knowledge as well.  She continues to have difficulty "feeling my feet" and this has been a chronic problem for her as well.  
+ 
+On examination she is alert. She is a garrulous and tangential historian and needs to be frequently refocussed. Her speech is fluent in English. English is her second language and she is less fluent in that language. Her visual fields are full to confrontation. Her extraocular movements are full with no nystagmus. Her face is symmetric other than a mild left nasolabial fold flattening. She has a mild left pronator drift and slowed finger tapping on the left side. She has no ataxia on finger-to-nose-to-finger testing. Her gait is slightly wide-based and unsteady. She can veer to either side and frequently has to hold on to someone next to her for stability.  
+ 
+IMPRESSION: I do not feel that Mrs. Lindsay has had a new embolic event, however I am quite concerned about her continued falling and difficulty with both her continued peripheral neuropathy and likely hypoperfusion. This appears to be pressure dependent and I would suggest that we back off on her antihypertensive medications at this time. In looking at her recent CBCs she has also been consistently anemic and with her complaints of chronic fatigue I think this could certainly be a factor. Atenolol could certainly be a factor in this as well and perhaps a different antihypertensive medication could be considered or it could be discontinued altogether. Furthermore with her recurrent chest pains she should seek an opinion from her primary care physician regarding this and I have counseled her to do so.  
+ 
+I will see Mrs. Lindsay in follow up in 6 months time but I am available to discuss her care at any time in the interim.   
+Sincerely, 
+ 
+ 
+Hudsen Parsons, M.D.  
+ 
+DD:03/08/2113 
+DT:03/11/2113 
+TL:7407      :3768 
+ 
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC2" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC3" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC5" time="before DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC8" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="thienopyridine" type2=""/>
+    <FAMILY_HIST id="DOC9" indicator="not present"/>
+    <SMOKER id="DOC7" status="unknown"/>
+  </TAGS>
+</root>

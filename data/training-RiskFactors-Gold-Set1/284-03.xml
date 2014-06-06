@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2071-02-19
+
+79 yo female  
+
+post  RSH hospitalization for failure to thrive,  nursing home stay for three months. 
+
+home for one week.  ruled out for MI,  ct scan negative,  diagnosed with depression.  
+
+home  finger sticks   in the 191 per vna. 
+
+in today wiht niece from Maine.  no complaints except for knee pain at times. she uses walker. 
+
+she feels in good spirits and denies depression.
+
+Problems
+
+Hypertension 
+
+Osteoarthritis 
+
+Dizziness 
+
+amputation : 3rd left toe
+
+Depression : with psychotic features
+
+Lumbar disc disease : s/p discectomy
+
+Cholecystectomy : s/p open procedure
+
+H/O Atrial fibrillation : vs. atrial tachycardia -- s/p cardioversion 2/68
+
+Diabetes mellitus : type 2
+
+Pulmonary embolism : bilateral; tx'd at Buzan County Clinic
+
+Myocardial infarction : NQWMI with inferolateral/apical depressions 5/31/69 - 6/04/69 at Buzan County Clinic; no cath or f/u ETT done there as pt requested conservative management 
+
+pulmonary htn
+
+
+
+
+
+Medications
+
+Asa (CHILDRENS) (ACETYLSALICYLIC Acid (C... 81MG, 1 Tablet(s) PO QD
+
+Tylenol (ACETAMINOPHEN) 500MG, 2 Tablet(s) PO TID PRN arthritis pain
+
+Glucophage (METFORMIN) 500MG, 2 Tablet(s) PO BID : PLEASE MAIL TO PT
+
+Nexium 40 Mg 40 MG PO QD : PLEASE MAIL TO PT
+
+Colace (DOCUSATE Sodium) 100MG, 1 Tablet(s) PO TID PRN constip : please mail to pt
+
+Hydrocortisone 1% -topical CREAM TOP BID
+
+IBUPROFEN 600MG, 1 Tablet(s) PO Q8H PRN pain : to be taken with food
+
+Lasix (FUROSEMIDE) 40MG, 1.5 Tablet(s) PO QD PRN AND prn
+
+Zestril (LISINOPRIL) 10MG, 1 Tablet(s) PO QD : PLEASE MAIL TO PT
+
+Celexa (CITALOPRAM) 40MG, 1.5 Tablet(s) PO QD
+
+Mvi (MULTIVITAMINS) 1 CAPSULE PO QD
+
+ATENOLOL 25MG, 1 Tablet(s) PO QD : PLEASE MAIL TO PT
+
+Ritalin (METHYLPHENIDATE Hcl) 5MG, 1 Tablet(s) PO QD 
+
+
+
+
+
+Allergies
+
+* Haldol - Unknown 
+
+
+
+
+
+
+
+bp:120/70
+
+pulse76
+
+appears well
+
+obese adult
+
+cor:RRRs1s2
+
+lungs: clear
+
+abd: soft and nontender
+
+ext:  no edema
+
+knees:  thickened joints but no  erythema or effusion
+
+
+
+a/p:
+
+diabetes:  currently on 12 units of NPH.  previously on glucophage only.  will d/c insulin. have vna see her twice a week as before for finger sticks. restart glucophage at two per day for a few days and if tolerating resume previous dose of 2 tabs po bid. check hga1c.
+
+f/u wiht me next month in dr. Carrie's  absence
+
+
+
+depression:  appears to be doing well. cont with celexa and  ritalin
+
+
+
+pulm htn:  cont with  lasix.  
+
+
+
+cad:  stable with no angina or failure.
+
+  
+
+
+
+f/u one month with me  until dr. carrie's return
+
+
+
+
+
+_____________________________________________
+
+Trevor H. Vaughan, M.D.
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC3" time="after DCT" indicator="mention"/>
+    <OBESE id="DOC14" time="before DCT" indicator="mention"/>
+    <OBESE id="DOC19" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC21" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC22" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC23" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC20" time="before DCT" indicator="mention"/>
+    <CAD id="DOC18" time="before DCT" indicator="event"/>
+    <FAMILY_HIST id="DOC15" indicator="not present"/>
+    <SMOKER id="DOC11" status="unknown"/>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC12" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC24" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

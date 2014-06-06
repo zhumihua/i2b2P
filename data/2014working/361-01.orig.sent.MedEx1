@@ -1,0 +1,83 @@
+361-01||1||Record date: 2064-06-16
+361-01||2||EDUCARE-FARGO INPATIENT DIALYSIS FELLOW NOTE
+361-01||3||Outpatient Nephrologist:   unknown
+361-01||4||Outpatient Dialysis Unit:   CMH
+361-01||5||Dialysis access:  L AVG
+361-01||6||Reason for admission: N/V, abdo pain
+361-01||7||HPI: Pt is Spanish-speaking only - Hx from patient and chart.
+361-01||8||44M ESRD on HD presumed 2/2 Type 1 DM with nausea/vomiting since Wednesday (2d ago).
+361-01||9||No CP/SOB, no sick contacts (lives with mother).
+361-01||10||Has felt "warm", but did not take temperature at home.
+361-01||11||Last ate at breakfast Thursday morning (yesterday).
+361-01||12||No abdo pain, no diarrhea.
+361-01||13||Came to ED last night, afebrile - given morphine 2mg IV x 1 for 2/10 abdo pain and now says pain ++improved.||DIN FFF morphine FFF 8 8||DOSE FFF 2mg FFF 9 9||RUT FFF iv FFF 10 10||FREQ FFF x 1 FFF 11 12||INDICATION FFF abdo pain FFF 15 16||INDICATION FFF pain FFF 20 20||
+361-01||14||Also noted to be hypertensive (190/100) and Rx with his usual po meds in addition to hydralazine 10mg IV x 1.||INDICATION FFF hypertensive FFF 4 4||RUT FFF po FFF 11 11||DIN FFF hydralazine FFF 16 16||DOSE FFF 10mg FFF 17 17||RUT FFF iv FFF 18 18||FREQ FFF x 1. FFF 19 20||
+361-01||15||He was also received Kayexalate 30g x 1 in the ED for K 6.0.||DBN FFF kayexalate FFF 4 4||DOSE FFF 30g FFF 5 5||FREQ FFF x 1 FFF 6 7||INDICATION FFF ed FFF 10 10||INDICATION FFF k FFF 12 12||
+361-01||16||Chronic dysuria - still makes significant urine.
+361-01||17||Has been compliant with dialysis sessions, last dialysis Tuesday.
+361-01||18||ROS otherwise negative.
+361-01||19||Past Medical History:
+361-01||20||ESRD on HD x 2yrs
+361-01||21||- L AVG placed 2 yrs ago, previously dialyzed via tunneled catheter
+361-01||22||Type 1 DM since age 25 - +legally blind, PVD, nephropathy
+361-01||23||bilateral TMA - healing ulcer on R||DIN FFF tma FFF 1 1||INDICATION FFF ulcer FFF 4 4||
+361-01||24||Allergies: NKDA
+361-01||25||Medications (as per his clinic visit 06/11/64 - needs to be clarified):
+361-01||26||PhosLo 667 mg b.i.d., omeprazole 20 mg daily, Zelnorm 6 mg b.i.d., metoclopramide 10 mg t.i.d., Lopid 600 mg daily, lisinopril 20 mg MWFS, lactulose two teaspoonfuls b.i.d., Humulin 70/35 units daily, and enalapril 10 mg on Thursdays and Sundays, losartan 50 mg, citalopram 40 mg and atropine eye drops in the left eye t.i.d.  He also uses prednisolone eyedrops daily.||DBN FFF phoslo FFF 0 0||DOSE FFF 667 mg FFF 1 2||FREQ FFF b.i.d., FFF 3 3||
+361-01||26||PhosLo 667 mg b.i.d., omeprazole 20 mg daily, Zelnorm 6 mg b.i.d., metoclopramide 10 mg t.i.d., Lopid 600 mg daily, lisinopril 20 mg MWFS, lactulose two teaspoonfuls b.i.d., Humulin 70/35 units daily, and enalapril 10 mg on Thursdays and Sundays, losartan 50 mg, citalopram 40 mg and atropine eye drops in the left eye t.i.d.  He also uses prednisolone eyedrops daily.||DIN FFF omeprazole FFF 4 4||DOSE FFF 20 mg FFF 5 6||FREQ FFF daily, FFF 7 7||
+361-01||26||PhosLo 667 mg b.i.d., omeprazole 20 mg daily, Zelnorm 6 mg b.i.d., metoclopramide 10 mg t.i.d., Lopid 600 mg daily, lisinopril 20 mg MWFS, lactulose two teaspoonfuls b.i.d., Humulin 70/35 units daily, and enalapril 10 mg on Thursdays and Sundays, losartan 50 mg, citalopram 40 mg and atropine eye drops in the left eye t.i.d.  He also uses prednisolone eyedrops daily.||DBN FFF zelnorm FFF 8 8||DOSE FFF 6 mg FFF 9 10||FREQ FFF b.i.d., FFF 11 11||
+361-01||26||PhosLo 667 mg b.i.d., omeprazole 20 mg daily, Zelnorm 6 mg b.i.d., metoclopramide 10 mg t.i.d., Lopid 600 mg daily, lisinopril 20 mg MWFS, lactulose two teaspoonfuls b.i.d., Humulin 70/35 units daily, and enalapril 10 mg on Thursdays and Sundays, losartan 50 mg, citalopram 40 mg and atropine eye drops in the left eye t.i.d.  He also uses prednisolone eyedrops daily.||DIN FFF metoclopramide FFF 12 12||DOSE FFF 10 mg FFF 13 14||FREQ FFF t.i.d., FFF 15 15||
+361-01||26||PhosLo 667 mg b.i.d., omeprazole 20 mg daily, Zelnorm 6 mg b.i.d., metoclopramide 10 mg t.i.d., Lopid 600 mg daily, lisinopril 20 mg MWFS, lactulose two teaspoonfuls b.i.d., Humulin 70/35 units daily, and enalapril 10 mg on Thursdays and Sundays, losartan 50 mg, citalopram 40 mg and atropine eye drops in the left eye t.i.d.  He also uses prednisolone eyedrops daily.||DBN FFF lopid FFF 16 16||DOSE FFF 600 mg FFF 17 18||FREQ FFF daily, FFF 19 19||
+361-01||26||PhosLo 667 mg b.i.d., omeprazole 20 mg daily, Zelnorm 6 mg b.i.d., metoclopramide 10 mg t.i.d., Lopid 600 mg daily, lisinopril 20 mg MWFS, lactulose two teaspoonfuls b.i.d., Humulin 70/35 units daily, and enalapril 10 mg on Thursdays and Sundays, losartan 50 mg, citalopram 40 mg and atropine eye drops in the left eye t.i.d.  He also uses prednisolone eyedrops daily.||DIN FFF lisinopril FFF 20 20||DOSE FFF 20 mg FFF 21 22||
+361-01||26||PhosLo 667 mg b.i.d., omeprazole 20 mg daily, Zelnorm 6 mg b.i.d., metoclopramide 10 mg t.i.d., Lopid 600 mg daily, lisinopril 20 mg MWFS, lactulose two teaspoonfuls b.i.d., Humulin 70/35 units daily, and enalapril 10 mg on Thursdays and Sundays, losartan 50 mg, citalopram 40 mg and atropine eye drops in the left eye t.i.d.  He also uses prednisolone eyedrops daily.||DIN FFF lactulose FFF 24 24||FREQ FFF b.i.d., FFF 27 27||
+361-01||26||PhosLo 667 mg b.i.d., omeprazole 20 mg daily, Zelnorm 6 mg b.i.d., metoclopramide 10 mg t.i.d., Lopid 600 mg daily, lisinopril 20 mg MWFS, lactulose two teaspoonfuls b.i.d., Humulin 70/35 units daily, and enalapril 10 mg on Thursdays and Sundays, losartan 50 mg, citalopram 40 mg and atropine eye drops in the left eye t.i.d.  He also uses prednisolone eyedrops daily.||DIN FFF humulin FFF 28 28||DOSEAMT FFF 70/35 units FFF 29 30||FREQ FFF daily, FFF 31 31||
+361-01||26||PhosLo 667 mg b.i.d., omeprazole 20 mg daily, Zelnorm 6 mg b.i.d., metoclopramide 10 mg t.i.d., Lopid 600 mg daily, lisinopril 20 mg MWFS, lactulose two teaspoonfuls b.i.d., Humulin 70/35 units daily, and enalapril 10 mg on Thursdays and Sundays, losartan 50 mg, citalopram 40 mg and atropine eye drops in the left eye t.i.d.  He also uses prednisolone eyedrops daily.||DIN FFF enalapril FFF 33 33||DOSE FFF 10 mg FFF 34 35||
+361-01||26||PhosLo 667 mg b.i.d., omeprazole 20 mg daily, Zelnorm 6 mg b.i.d., metoclopramide 10 mg t.i.d., Lopid 600 mg daily, lisinopril 20 mg MWFS, lactulose two teaspoonfuls b.i.d., Humulin 70/35 units daily, and enalapril 10 mg on Thursdays and Sundays, losartan 50 mg, citalopram 40 mg and atropine eye drops in the left eye t.i.d.  He also uses prednisolone eyedrops daily.||DIN FFF losartan FFF 40 40||DOSE FFF 50 mg, FFF 41 42||
+361-01||26||PhosLo 667 mg b.i.d., omeprazole 20 mg daily, Zelnorm 6 mg b.i.d., metoclopramide 10 mg t.i.d., Lopid 600 mg daily, lisinopril 20 mg MWFS, lactulose two teaspoonfuls b.i.d., Humulin 70/35 units daily, and enalapril 10 mg on Thursdays and Sundays, losartan 50 mg, citalopram 40 mg and atropine eye drops in the left eye t.i.d.  He also uses prednisolone eyedrops daily.||DIN FFF citalopram FFF 43 43||DOSE FFF 40 mg FFF 44 45||
+361-01||26||PhosLo 667 mg b.i.d., omeprazole 20 mg daily, Zelnorm 6 mg b.i.d., metoclopramide 10 mg t.i.d., Lopid 600 mg daily, lisinopril 20 mg MWFS, lactulose two teaspoonfuls b.i.d., Humulin 70/35 units daily, and enalapril 10 mg on Thursdays and Sundays, losartan 50 mg, citalopram 40 mg and atropine eye drops in the left eye t.i.d.  He also uses prednisolone eyedrops daily.||DIN FFF atropine FFF 47 47||
+361-01||26||PhosLo 667 mg b.i.d., omeprazole 20 mg daily, Zelnorm 6 mg b.i.d., metoclopramide 10 mg t.i.d., Lopid 600 mg daily, lisinopril 20 mg MWFS, lactulose two teaspoonfuls b.i.d., Humulin 70/35 units daily, and enalapril 10 mg on Thursdays and Sundays, losartan 50 mg, citalopram 40 mg and atropine eye drops in the left eye t.i.d.  He also uses prednisolone eyedrops daily.||DBN FFF eye drops FFF 48 49||RUT FFF eye FFF 53 53||FREQ FFF t.i.d. FFF 54 54||
+361-01||26||PhosLo 667 mg b.i.d., omeprazole 20 mg daily, Zelnorm 6 mg b.i.d., metoclopramide 10 mg t.i.d., Lopid 600 mg daily, lisinopril 20 mg MWFS, lactulose two teaspoonfuls b.i.d., Humulin 70/35 units daily, and enalapril 10 mg on Thursdays and Sundays, losartan 50 mg, citalopram 40 mg and atropine eye drops in the left eye t.i.d.  He also uses prednisolone eyedrops daily.||DIN FFF prednisolone FFF 58 58||FREQ FFF daily. FFF 60 60||
+361-01||27||Social History:   No cigarette or illicit drug use.||DIN FFF illicit drug FFF 5 6||
+361-01||28||Previous heavy EtOH use, though none now.
+361-01||29||Lives with his mother who is also diabetic and also blind.
+361-01||30||Visiting nurses are coming to the home according to the patient twice per week and there is also a health care worker who comes to help with bathing three times per week.
+361-01||31||Originally from Panama, grew up in Peru, and came to the US at age 11.
+361-01||32||Former Editor.
+361-01||33||PHYSICAL EXAM
+361-01||34||Temp: 96
+361-01||35||BP: 130/71
+361-01||36||HR: 92
+361-01||37||97%RA
+361-01||38||Gen: Chronically-unwell appearing man, but in NAD.
+361-01||39||HEENT: sclerae non-icteric, O&P clear and moist, missing teeth
+361-01||40||Neck: supple, no LAD, no JVD, no thyromegaly, no carotid bruits
+361-01||41||Lungs: CTA b/l
+361-01||42||Cor: regular, s1s2, no m/c/r/g||DIN FFF cor: FFF 0 0||
+361-01||43||Abd: soft, NTND, no HSM, no abdominal bruits
+361-01||44||Ext: no edema in LE b/l, bilateral TMA||DIN FFF tma FFF 7 7||
+361-01||45||Skin: warm, smooth, no rashes
+361-01||46||Back: no CVAT
+361-01||47||Vascular access: site clean and without inflammation, systolic and diastolic bruit present
+361-01||48||LABS:
+361-01||49||Date/Time         NA             K              CL             CO2||DIN FFF na FFF 1 1||INDICATION FFF k FFF 2 2||INDICATION FFF cl FFF 3 3||
+361-01||50||06/16/2064        137            6.0 (*)        104            23
+361-01||51||Date/Time         BUN            CRE            EGFR           GLU||DIN FFF glu FFF 4 4||
+361-01||52||06/16/2064        58 (*#)        7.1 (*)        9 [1]          108
+361-01||53||Date/Time         ANION
+361-01||54||06/16/2064        10
+361-01||55||Date/Time         CA             TBILI          TP             ALB||DIN FFF alb FFF 4 4||
+361-01||56||06/16/2064        10.5           0.5            8.3 (*)        4.4
+361-01||57||Date/Time         GLOB
+361-01||58||06/16/2064        3.9
+361-01||59||Date/Time         ALT/SGPT       AST/SGOT       ALKP           TBILI
+361-01||60||06/16/2064        32             21             155 (*)        0.5
+361-01||61||Date/Time         CK             CK-MB          TROP-I
+361-01||62||06/16/2064        137            2.9            <assay
+361-01||63||Date/Time         WBC            HGB            HCT            MCV
+361-01||64||06/16/2064        6.21           14.7           43.3           93.3 (#)
+361-01||65||Date/Time         PLT
+361-01||66||06/16/2064        226
+361-01||67||Date/Time         PT             PT-INR         PTT
+361-01||68||06/16/2064        13.9           1.1            32.2
+361-01||69||Date/Time         UA-GLUC        UA-KET         UA-SPGR        UA-BLD
+361-01||70||06/16/2064        TR             NEG            1.016          1+

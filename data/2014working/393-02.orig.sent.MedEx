@@ -1,0 +1,51 @@
+393-02	1	Record date: 2081-06-10		 
+393-02	2	Attending Admission Note		 
+393-02	3	HPI		 
+393-02	4	52 year old woman with DM and h/o gastroparesis who presented with nausea and vomiting.		 
+393-02	5	She was last admitted one week ago with N/V and treated for gastroparesis.		 
+393-02	6	Her diabetes has been poorly controlled with her last hemoglobin A1c over 12 in April of 2081.		 
+393-02	7	She has had recurrent episodes of nausea and vomiting.		 
+393-02	8	During this past year in January, she was admitted to Missouri Baptist Hospital.		 
+393-02	9	She had a negative EGD, and HIDA scan showed low ejection fraction to cholecystokinase.		 
+393-02	10	She underwent a laparoscopic cholecystectomy.		 
+393-02	11	She was admitted again a few weeks later to Missouri Baptist and had a gastric emptying study, which was consistent with gastroparesis.		 
+393-02	12	In February, she was seen in the Philadelphia State Hospital Emergency Room with nausea and vomiting and had a KUB, which showed significant stool.		 
+393-02	13	She presented again on 02/11/2081 and had an abdominal CT that showed thickening of the terminal ileum and possible thickening of the gastric and possible duodenal wall.		 
+393-02	14	GI was consulted and the colonoscopy done on 02/14/2081 was normal, but did not visualize the terminal ileum.		 
+393-02	15	A small-bowel follow-through on 02/16/2081 was normal.		 
+393-02	16	She was discharged on a regimen of Reglan and erythromycin.		DBN FFF reglan#7
+393-02	16	She was discharged on a regimen of Reglan and erythromycin.		DIN FFF erythromycin#9
+393-02	17	Since February, she has been seen multiple times in the outpatient clinic as well as medical walk-in.		 
+393-02	18	She reports being complaint with her regimen of erythromycin 250 mg four times a day and Reglan 10 mg twice a day.		DIN FFF erythromycin#8	DOSE FFF 250mg#10	FREQ FFF four times a day#14	DBN FFF reglan#16	DOSE FFF 10mg#18	FREQ FFF twice a day#21
+393-02	19	She was also recently started on Glucophage titrating up to 1000 mg b.i.d. as she had difficulty with multiple short per day regimen of insulin administration.		DBN FFF glucophage#6	DOSE FFF 1000mg#11	FREQ FFF b.i.d#12	INDICATION FFF as#13	FREQ FFF per day#21
+393-02	19	She was also recently started on Glucophage titrating up to 1000 mg b.i.d. as she had difficulty with multiple short per day regimen of insulin administration.		DIN FFF insulin#24
+393-02	20	She was admitted from 5/31-6/2 and treated with IV Zofran and enemas.		DRT FFF 5/31 - 6/2#4	RUT FFF iv#8	DBN FFF zofran#9
+393-02	21	GI saw the pt and recommended increasing reglan to TID and adding colace and miralax.		DBN FFF reglan#7	FREQ FFF tid#9
+393-02	21	GI saw the pt and recommended increasing reglan to TID and adding colace and miralax.		DBN FFF colace#12
+393-02	21	GI saw the pt and recommended increasing reglan to TID and adding colace and miralax.		DBN FFF miralax#14
+393-02	22	She also had a head CT to r/o mass lesion causing the nausea, and this was negative.		 
+393-02	23	At the time of d/c, her nausea had decreased.		 
+393-02	24	She states that the N/V did not improve much since that admission, and she has not been able to eat much.		 
+393-02	25	She has pain throughout her abdomen.		 
+393-02	26	She denies f/c, diarrhea, constipation, dysuria, hematemesis, or melena.		 
+393-02	27	Problems		 
+393-02	28	Diabetes mellitus : since 2060's, poorly controlled		 
+393-02	29	Hypertension		 
+393-02	30	Gastroparesis : N/V due to diabetes		 
+393-02	31	Retinopathy : due to AODM, s/p first laser treatment 3/81, sees Ophtho in Stanwood		 
+393-02	32	S/P cholecystectomy		 
+393-02	33	S/P TAH/BSO : menopause at age 86, had some hot flashes which are slowing improving.		DIN FFF bso#1	INDICATION FFF menopause#3	INDICATION FFF hot flashes#10
+393-02	34	Medications		 
+393-02	35	Metformin 1000 MG (500MG TABLET take 2) PO BID		DIN FFF metformin#0	DOSE FFF 1000mg#2	DOSE FFF 500mg#3	DDF FFF tablet#4	RUT FFF po#7	FREQ FFF bid#8
+393-02	36	Erythrocin ETHYL SUCCINATE SUSP (ERYTHROMYCIN) 250MG TABLET PO QID		DBN FFF erythrocin#0
+393-02	36	Erythrocin ETHYL SUCCINATE SUSP (ERYTHROMYCIN) 250MG TABLET PO QID		DIN FFF succinate#2	DDF FFF susp#3	MDBN FFF erythromycin#4	DOSE FFF 250mg#5	DDF FFF tablet#6	RUT FFF po#7	FREQ FFF qid#8
+393-02	37	Asa (ACETYLSALICYLIC ACID) 325 MG (325MG TABLET take 1) PO QD		DIN FFF asa#0
+393-02	38	Lisinopril 40MG TABLET PO QAM		DIN FFF lisinopril#0	DOSE FFF 40mg#1	DDF FFF tablet#2	RUT FFF po#3	FREQ FFF qam#4
+393-02	39	Reglan (METOCLOPRAMIDE HCL) 10 MG (10MG TABLET take 1) PO TID		DBN FFF reglan#0
+393-02	40	Lantus (INSULIN GLARGINE) 40 U SC QHS		DBN FFF lantus#0	MDBN FFF insulin glargine#2	DOSE FFF 40u#4	RUT FFF sc#5	FREQ FFF qhs#6
+393-02	41	Atenolol 50 mg po QD		DIN FFF atenolol#0	DOSE FFF 50mg#2	RUT FFF po#3	FREQ FFF qd#4
+393-02	42	Colace 2 tablets QHS		DBN FFF colace#0	DOSEAMT FFF 2 tablets#2	FREQ FFF qhs#3
+393-02	43	Miralax 17 gm QOD		DBN FFF miralax#0	DOSE FFF 17gm#2	FREQ FFF qod#3
+393-02	44	Zofran 8 mg po BID prn nausea		DBN FFF zofran#0	DOSE FFF 8mg#2	RUT FFF po#3	FREQ FFF bid#4	NEC FFF prn#5	INDICATION FFF nausea#6
+393-02	45	Allergies		 
+393-02	46	PERCOCET - GI upset,		DBN FFF percocet#0

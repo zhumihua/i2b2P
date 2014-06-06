@@ -1,0 +1,41 @@
+307-02	1	Record date: 2059-04-08	
+307-02	2	EDVISIT^43471375^KIMBROUGH, AMELIA^04/08/59^PHILLIPS, URHO	
+307-02	3	I have reviewed the resident's note on the record and seen and	
+307-02	4	examined the patient personally.  I concur with the resident's	
+307-02	5	findings.	
+307-02	6	HISTORY OF PRESENT ILLNESS:  Briefly, this is an extraordinarily	
+307-02	7	complex 47-year-old patient with renal insufficiency, nephrotic		INDICATION FFF renal insufficiency#5
+307-02	8	syndrome, and severe anemia who was scheduled to receive some		INDICATION FFF anemia#3
+307-02	9	intravenous iron today but the presence of multiple abnormalities		RUT FFF intravenous#0	DIN FFF iron#1
+307-02	10	in her blood prompted her to be referred here instead for	
+307-02	11	admission.	
+307-02	12	She herself complains of generalized weakness but does not have any localizing or acute new symptoms.		INDICATION FFF symptoms#15
+307-02	13	Remainder of history and physical examination were reviewed and verified and are as noted.		INDICATION FFF as#12
+307-02	14	PHYSICAL EXAMINATION:  The patient is awake and alert.	
+307-02	15	Speech is normal in rate, rhythm, and quality.	
+307-02	16	Skin is warm and dry.	
+307-02	17	She is in no distress.	
+307-02	18	She has some bibasilar moist rales but heart sounds are completely normal.	
+307-02	19	LABORATORY DATA:  As noted and have multiple abnormalities.		INDICATION FFF as#2
+307-02	20	It was reflected on the record.	
+307-02	21	Calcium is 5.5, albumin is 1.7, creatinine is 7.0, and the remainder as noted.		DIN FFF calcium#0	DIN FFF albumin#3	INDICATION FFF creatinine#6	INDICATION FFF as#12
+307-02	22	Electrocardiogram does not show any acute changes.	
+307-02	23	IMPRESSION:  This patient has anemia, hypocalcemia, and		INDICATION FFF anemia#4	INDICATION FFF hypocalcemia#5
+307-02	24	hypomagnesemia.	
+307-02	25	We discussed this with the Internal Medicine who will be admitting her to see if they can get her in better metabolic balance.		DIN FFF balance#22
+307-02	26	FINAL DIAGNOSES:	
+307-02	27	1.  Anemia.		INDICATION FFF anemia#1
+307-02	28	2.  Hypocalcemia.		INDICATION FFF hypocalcemia#1
+307-02	29	3.  Hypomagnesemia.	
+307-02	30	4.  Nephrotic syndrome.		INDICATION FFF nephrotic syndrome#2
+307-02	31	5.  Renal failure.		INDICATION FFF renal failure#2
+307-02	32	DISPOSITION:  The patient will be admitted to hospital.	
+307-02	33	******** Not reviewed by Attending Physician ********	
+307-02	34	CONDITION:  Satisfactory.	
+307-02	35	______________________________	
+307-02	36	PHILLIPS, URHO M.D.	
+307-02	37	D: 04/08/59	
+307-02	38	T: 04/08/59		INDICATION FFF t#0
+307-02	39	Dictated By: PHILLIPS, URHO	
+307-02	40	eScription document:7-0764263 BF	
+307-02	41		

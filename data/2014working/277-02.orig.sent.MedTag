@@ -1,0 +1,30 @@
+277-02	1	Record date: 2079-01-06	
+277-02	2	EDVISIT^52402461^Ervin, Quindarrius^01/06/79^MEDINA, LUTHER	
+277-02	3	Seen on 01/06/2079 with Dr.	
+277-02	4	Delaney.  I confirmed that I have interviewed and examined the patient, reviewed the resident's documentation on the patient's chart, and discussed the evaluation, plan of care, and disposition with the patient.	
+277-02	5	Please see the resident's note for details.	
+277-02	6	HISTORY OF PRESENT ILLNESS:  Briefly, this is a 68-year-old	
+277-02	7	gentleman who presents from rehab with 1 week of diaphoresis and		DRT FFF 1 week#7
+277-02	8	2 days of shortness of breath and nonproductive cough.		DRT FFF 2 days#1	INDICATION FFF shortness of breath#5	INDICATION FFF cough .#8
+277-02	9	He has a history of diabetes, hypertension, spinal stenosis, atrial fibrillation, CHF, CABG, and aortic valve replacement.		INDICATION FFF diabetes#5	INDICATION FFF hypertension#6	INDICATION FFF stenosis#8	INDICATION FFF atrial fibrillation#10	INDICATION FFF chf#11
+277-02	10	PHYSICAL EXAMINATION:  He is profoundly diaphoretic and is in	
+277-02	11	mild respiratory distress.	
+277-02	12	Pulse 82, respirations 20, blood pressure 145/95, pulse oximetry 98% on room air, and his temperature is 95.9.		INDICATION FFF blood pressure#5	DOSE FFF 98%#9	INDICATION FFF temperature#15
+277-02	13	He has crackles and bronchial breath sounds in his right middle and upper lung fields.	
+277-02	14	He has a regular rate and rhythm with a 2/6 systolic murmur.	
+277-02	15	LABORATORY DATA:  His chest x-ray shows right upper lobe	
+277-02	16	infiltrate.	
+277-02	17	Sodium is 135.		DIN FFF sodium#0
+277-02	18	His white count is 9.8 with left shift.	
+277-02	19	CLINICAL IMPRESSION:  Pneumonia.		INDICATION FFF pneumonia .#2
+277-02	20	******** Not reviewed by Attending Physician ********	
+277-02	21	PLAN:  Admission for IV antibiotics.		RUT FFF iv#3	DIN FFF antibiotics#4
+277-02	22	______________________________	
+277-02	23	MEDINA, LUTHER M.D.	
+277-02	24	D: 01/07/79	
+277-02	25	T: 01/07/79		INDICATION FFF t#0
+277-02	26	Dictated By: MEDINA, LUTHER	
+277-02	27	eScription document:9-5046707 BFFocus	
+277-02	28		
+277-02	29		
+277-02	30		

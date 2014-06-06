@@ -1,0 +1,26 @@
+248-03	1	Record date: 2097-11-10	
+248-03	2	MAH CANCER CENTER		INDICATION FFF cancer#1
+248-03	3	NAME:  Danny Nielson	
+248-03	4	MAH#:  915-65-93	
+248-03	5	DATE OF VISIT:  November 10, 2097	
+248-03	6	REASON FOR VISIT:	
+248-03	7	Mr. Nielson is a 77-year-old gentleman with Stage IIIB diffuse large B cell non-Hodgkin s lymphoma who is status post four cycles of CHOP-R chemotherapy with persistent disease (documented by PET and biopsy).		INDICATION FFF lymphoma#15	INDICATION FFF pet#30
+248-03	8	He underwent salvage with two cycles of R-ICE and unfortunately continued to have PET avidity in the area.		INDICATION FFF pet#13
+248-03	9	As a result, we scheduled him to begin therapy with Zevalin next Monday.		INDICATION FFF as#0	DIN FFF zevalin#10	FREQ FFF monday#12
+248-03	10	He is here for a follow up physical and count check to make sure he has adequate platelets for this immunotherapy.	
+248-03	11	INTERVAL HISTORY:	
+248-03	12	He describes an episode approximately one week ago of sudden onset of shortness of breath and tightness in his chest.		DRT FFF one week#6	INDICATION FFF shortness of breath#14	INDICATION FFF tightness#16
+248-03	13	He sat down for approximately 10 minutes, it resolved, and has not recurred since then.	
+248-03	14	However, we also have the reports of a follow up PET/CT scan which was performed yesterday which show a new accumulation of bilateral pleural effusions which the radiologist feels are most consistent with heart failure.		INDICATION FFF pet#10	INDICATION FFF ct#10	INDICATION FFF pleural effusions#24	INDICATION FFF heart failure#34
+248-03	15	In addition, the scans also showe the prior area of PET avidity in the leg continues, although less avid.		INDICATION FFF pet#10
+248-03	16	This area is in the medial compartment of the left thigh within the adductor muscles.	
+248-03	17	Mr. Nielson is not excited about this.	
+248-03	18	In addition, we also have results from laboratories today which show his platelets at 88,000, so  he is not eligible to begin Zevalin next week.		DIN FFF zevalin#22
+248-03	19	MEDICATIONS:	
+248-03	20	glyburide 10 mg		DIN FFF glyburide#0	DOSE FFF 10mg#2
+248-03	21	atorvastatin 10 mg daily		DIN FFF atorvastatin#0	DOSE FFF 10mg#2	FREQ FFF daily#3
+248-03	22	furosemide 40 mg daily		DIN FFF furosemide#0	DOSE FFF 40mg#2	FREQ FFF daily#3
+248-03	23	multiple vitamin daily		DIN FFF vitamin#1	FREQ FFF daily#2
+248-03	24	prednisone 5 mg daily		DIN FFF prednisone#0	DOSE FFF 5mg#2	FREQ FFF daily#3
+248-03	25	Tylenol p.r.n.		DBN FFF tylenol#0	NEC FFF p.r.n#1
+248-03	26	Bactrim DS q. Sunday, Tuesday, Thursday		DIN FFF bactrim ds#1	FREQ FFF sunday#3	FREQ FFF tuesday#4	FREQ FFF thursday#5

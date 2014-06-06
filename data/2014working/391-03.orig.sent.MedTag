@@ -1,0 +1,18 @@
+391-03	1	Record date: 2087-03-21	
+391-03	2	STANTON NURSING HOME PRIMARY CARE	
+391-03	3	093 Balcom Street, Eigth Floor	
+391-03	4	Oil City, VA  14172		DIN FFF va#2
+391-03	5	RE:  Ordonez, Mrs.	
+391-03	6	SNH#:  008-37-16	
+391-03	7	March 21, 2087	
+391-03	8	Reason for visit:  Patient is a 59 year old woman seen today together with Dr.		DRT FFF 59 year#7
+391-03	9	Barajas.	
+391-03	10	MEDICATIONS:  She is currently on atenolol 50 mg b.i.d., HCTZ 50 mg q.d., Zestril 20 mg q.d.		DIN FFF atenolol#5	DOSE FFF 50mg#7	FREQ FFF b.i.d#8	DPN FFF hctz#9	DOSE FFF 50mg#11	FREQ FFF q.d .#12	DBN FFF zestril#13	DOSE FFF 20mg#15	FREQ FFF q.d .#16
+391-03	11	PHYSICAL EXAMINATION:  Her blood pressure is 150/80 with a pulse of 76.		INDICATION FFF her blood pressure#4
+391-03	12	PLAN:	
+391-03	13	1. I would increase her atenolol to 100 mg in the morning and 50 mg in the late afternoon.		DIN FFF atenolol#5	DOSE FFF 100mg#8	TOD FFF in the morning#11	DOSE FFF 50mg#14	TOD FFF afternoon#18
+391-03	14	2. Diabetes is in suboptimal control, despite maximum dose Micronase.		INDICATION FFF diabetes#1	DBN FFF micronase#9
+391-03	15	Creatinine of 1.4 would argue against using Glucophage.		INDICATION FFF creatinine#0	DBN FFF glucophage#7
+391-03	16	Check hemoglobin A1C and then we will decide on her medication.	
+391-03	17	Samuel Vinson, M.D.	
+391-03	18	PC:RP: 1660	

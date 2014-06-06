@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2093-09-18
+
+CC: f/u DM, HTN
+
+
+
+HPI: Mr. Hooper comes in for f/u on DM.  Recent bloodwork mistakenly did not include A1C.  BS have been good at home on Lantus 40 qpm.  Seeing Christine Newberry at Manamana.  
+
+
+
+His UA had trace heme with 2-4 RBCs and 15-20 hyaline casts.  He reports h.o microscopic hematuria going back to the 2070s.  Previously saw nephrologist for this.  He reports having CT scans or u/s in the 2070s.  He reports significant FH of glomerulonephritis, and a brother with IgA nephropathy.  
+
+
+
+He has HTN, takes lisinopril and Atenolol.
+
+
+
+
+
+Problems
+
+HTN 
+
+HYPERCHOL 
+
+WEIGHT 
+
+H/O GOUT 
+
+DM 
+
+? CVA
+
+
+
+Medications
+
+ALLOPURINOL 300 MG PO QD
+
+Insulin Nph Human 22 UNITS SC QAM : 17 units qpm
+
+Elavil (AMITRIPTYLINE Hcl) 10MG, 1 Tablet(s) PO QHS
+
+ATENOLOL 50 MG PO BID
+
+LISINOPRIL 20MG, 1 Tablet(s) PO QD
+
+METFORMIN 500MG, 1 Tablet(s) PO QD
+
+Lantus (INSULIN Glargine) 40 UNITS SC QHS
+
+Pravachol (PRAVASTATIN) 40MG, 1 Tablet(s) PO QHS 
+
+
+
+
+
+Allergies
+
+NONE - NONE 
+
+
+
+ROS:
+
+CV: no chest pain, orthopnea, PND, LE edema, palps
+
+GI: no abd pain, nausea, vomiting, d/c, heartburn
+
+Endo: no polyuria or polydipsia
+
+
+
+PE: 
+
+160/80 Recheck 142/90 P 66 RR 14  Wgt 267
+
+General: obese, NAD
+
+Extr: 2+ pedal pulses, no clubbing, cyanosis, or edema
+
+
+
+A/P:
+
+1. DM: HbA1C good in March.  Recheck today.  Reviewed MAlb ratio which is mildly high.  Continue lantus.    Increase Lisinopril to 30 mg qd. 
+
+2. Hyperlipidemia: reviewed LDL which is better.  Still low HDL, consider adding Tricor or niacin.  Will discuss at next visit.
+
+3. HTN: elevated.  Increase Lisinopril. 
+
+4. Microscopic hematuria: he reports h/o of this since the 2070's.  Mild elevation in Cr likely rel. to HTN and DM.  However, I think he needs nephrology consult, esp. with his FH.  I have referred him to Dr. Dewitt at EDUCARE-PULLMAN.  Consider w/u for tumor causing microhematuria, though this is much less likely given the very long h/o this.  
+
+5. f/u visit 1 month and prn.
+
+
+
+
+
+_____________________________________________
+
+Daniel C. Quillen, M.D.
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC9" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC21" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC23" time="before DCT" indicator="mention"/>
+    <OBESE id="DOC3" time="after DCT" indicator="mention"/>
+    <OBESE id="DOC19" time="before DCT" indicator="mention"/>
+    <OBESE id="DOC24" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC7" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC17" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC22" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC26" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC27" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC28" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC11" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC25" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC20" indicator="not present"/>
+    <SMOKER id="DOC14" status="unknown"/>
+    <DIABETES id="DOC8" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC15" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC29" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

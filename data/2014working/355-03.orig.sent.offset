@@ -1,0 +1,28 @@
+355-03	20	0	He was given a liter of normal saline, and treated with Vancomycin 1 gm IV, Cefepime 1 gm IV, and Atrovent nebulizer treatment.	normal saline, FFF 6 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+355-03	20	0	He was given a liter of normal saline, and treated with Vancomycin 1 gm IV, Cefepime 1 gm IV, and Atrovent nebulizer treatment.	vancomycin FFF 11 11	1 gm FFF 12 13	iv, FFF 14 14	 FFF 	 FFF 	 FFF 	narrative
+355-03	20	0	He was given a liter of normal saline, and treated with Vancomycin 1 gm IV, Cefepime 1 gm IV, and Atrovent nebulizer treatment.	cefepime FFF 15 15	1 gm FFF 16 17	iv, FFF 18 18	 FFF 	 FFF 	 FFF 	narrative
+355-03	20	0	He was given a liter of normal saline, and treated with Vancomycin 1 gm IV, Cefepime 1 gm IV, and Atrovent nebulizer treatment.	atrovent nebulizer FFF 20 21	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+355-03	26	0	-Pulmonary Emboli 3/93, unprovoked, diagnosed when Pt desaturated perioperatively after an excision of a right neck mass, on coumadin since then, hypercoag panel neg, limited by coumadin	coumadin FFF 18 18	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+355-03	26	0	-Pulmonary Emboli 3/93, unprovoked, diagnosed when Pt desaturated perioperatively after an excision of a right neck mass, on coumadin since then, hypercoag panel neg, limited by coumadin	coumadin FFF 26 26	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+355-03	28	0	-Diabetes Mellitus, HgA1c 6.6, on glucophage	glucophage FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+355-03	29	0	-Hypertension, on Lisinopril, no ACS episodes, no h/o ETT, Echo in 7/90 EF 70%	lisinopril, FFF 2 2	70% FFF 13 13	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+355-03	31	0	-Tardive Dyskinesia secondary to perphenazine, 2 years	perphenazine, FFF 4 4	 FFF 	 FFF 	 FFF 	2 years FFF 5 6	 FFF 	narrative
+355-03	35	438	Metaxalone 800 mg PO tid	metaxalone FFF 0 0	800 mg FFF 1 2	po FFF 3 3	tid FFF 4 4	 FFF 	 FFF 	narrative
+355-03	36	438	Advair Diskus 100/50 1 puff INH bid	advair diskus 100/50 FFF 0 2	1 puff FFF 3 4	inh FFF 5 5	bid FFF 6 6	 FFF 	 FFF 	narrative
+355-03	37	438	Lisinopril 20 mg PO Qdaily	lisinopril FFF 0 0	20 mg FFF 1 2	po FFF 3 3	 FFF 	 FFF 	 FFF 	narrative
+355-03	38	438	Glucophage 850 mg PO tid	glucophage FFF 0 0	850 mg FFF 1 2	po FFF 3 3	tid FFF 4 4	 FFF 	 FFF 	narrative
+355-03	39	438	Prilosec 20 mg PO Qdaily	prilosec FFF 0 0	20 mg FFF 1 2	po FFF 3 3	 FFF 	 FFF 	 FFF 	narrative
+355-03	40	438	Atorvastatin 10 mg PO Qhs	atorvastatin FFF 0 0	10 mg FFF 1 2	po FFF 3 3	qhs FFF 4 4	 FFF 	 FFF 	narrative
+355-03	41	438	ASA 81 mg PO Qdaily	asa FFF 0 0	81 mg FFF 1 2	po FFF 3 3	 FFF 	 FFF 	 FFF 	narrative
+355-03	42	438	MVI, 1 tablet PO Qdaily	mvi, FFF 0 0	1 tablet FFF 1 2	po FFF 3 3	 FFF 	 FFF 	 FFF 	narrative
+355-03	43	438	Albuterol Inhaler 2 puff Q4 prn	albuterol inhaler FFF 0 1	2 puff FFF 2 3	 FFF 	Q4 prn FFF 4 5	 FFF 	 FFF 	narrative
+355-03	44	438	Risperidone 2 mg PO Qdaily	risperidone FFF 0 0	2 mg FFF 1 2	po FFF 3 3	 FFF 	 FFF 	 FFF 	narrative
+355-03	45	438	Clozapine 150 mg PO Qhs	clozapine FFF 0 0	150 mg FFF 1 2	po FFF 3 3	qhs FFF 4 4	 FFF 	 FFF 	narrative
+355-03	46	438	Reserpine 1.50 mg PO Qdaily	reserpine FFF 0 0	1.50 mg FFF 1 2	po FFF 3 3	 FFF 	 FFF 	 FFF 	narrative
+355-03	47	438	Provigil 200 mg PO Bid	provigil FFF 0 0	200 mg FFF 1 2	po FFF 3 3	bid FFF 4 4	 FFF 	 FFF 	narrative
+355-03	48	438	Atrovent 0.06% 2 sprays nasal BID	atrovent FFF 0 0	0.06% FFF 1 1	nasal FFF 4 4	bid FFF 5 5	 FFF 	 FFF 	narrative
+355-03	49	438	Coumadin 5 mg PO Sun/M/W/F, 2.5 mg PO Tu/Th/Sat	coumadin FFF 0 0	5 mg FFF 1 2	po FFF 3 3	 FFF 	 FFF 	 FFF 	narrative
+355-03	50	438	Synthroid 125 mcg PO Qdaily	synthroid FFF 0 0	125 mcg FFF 1 2	po FFF 3 3	 FFF 	 FFF 	 FFF 	narrative
+355-03	51	438	Effexor XR 75 mg PO Qam	effexor xr FFF 0 1	75 mg FFF 2 3	po FFF 4 4	qam FFF 5 5	 FFF 	 FFF 	narrative
+355-03	87	0	PT                               20.8             H        (11.3-13.3)    sec	sec FFF 4 4	 FFF 	 FFF 	 FFF 	20.8 h FFF 1 2	 FFF 	narrative
+355-03	126	0	Less likely that Pt had a Pulmonary embolus since he is therapeutic on coumadin with an INR of 3.0 today, no evidence of RVH on EKG, no chest pain on presentation.	coumadin FFF 13 13	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2083-08-28
+
+
+Beaumont Hospital Physician Group
+131 Crowley Avenue                                    Rhodes, Yajaira
+Rutland, FL 94265                            97627182
+(153) 636-7011                                           
+(584) 728-8734
+
+SUBJECTIVE:  The patient comes in stating that she has had 5
+days of substernal pain like a "ball pressing in on her
+chest."  She has also had abdominal pain and has felt quite
+poorly.  She did call this service this past weekend she
+states and never received a call back.  She called me this
+morning, and I saw her immediately.  The pain has not gone
+down her arms and it is mostly located in her chest.  She
+feels occasionally like she is going to throw up, and she
+says that her blood sugars have been quite high.  She does
+have diabetes.
+
+PHYSICAL EXAMINATION:  Her lungs are clear to P&A.  Her
+blood pressure is 130/80 in the right arm sitting with a
+pulse of 64.  Her neck veins are flat, carotids 2+ and equal
+without bruit.  Heart is not enlarged.  There is a regular
+sinus rhythm, and no significant murmurs.  Liver and spleen
+are not felt.  EKG taken shows a possible old anterior
+myocardial infarction, which is a distinct change from her
+last EKG with poor progression of the R waves across the
+precordium.
+
+IMPRESSION AND PLAN:  Question myocardial infarction. 
+Because of her prolonged pain and changes in the EKG, I
+think that she should be observed in the BH emergency
+ward and attend her there.
+
+
+______________________________
+Brett F. Rutherford, M.D.
+
+
+eScription document:7-351769 RFFocus
+
+DD: 08/28/83
+DT: 08/28/83
+DV: 08/28/83
+
+
+
+]]></TEXT>
+  <TAGS>
+    <CAD id="DOC1" time="during DCT" indicator="symptom"/>
+    <CAD id="DOC2" time="before DCT" indicator="symptom"/>
+    <FAMILY_HIST id="DOC4" indicator="not present"/>
+    <SMOKER id="DOC5" status="unknown"/>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC6" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

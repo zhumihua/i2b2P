@@ -1,0 +1,12 @@
+247-03	12	0	He recently underwent a two vessel CABG in April 2064.	vessel FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+247-03	19	0	His biomarkers continue to rise and on transfer were CK 745 and CK-MB of 80.3 with a fraction of 10.7%.	rise FFF 4 4	10.7%. FFF 19 19	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+247-03	23	0	CAD     S/p  2-V CABG off pump in 4/64	s/p 2-v FFF 1 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+247-03	31	438	Plavix 75 mg qd	plavix FFF 0 0	75 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+247-03	32	438	Aspirin 325 mg qd	aspirin FFF 0 0	325 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+247-03	33	438	Lipitor 80 mg qd	lipitor FFF 0 0	80 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+247-03	34	438	Lisinopril 2.5 mg qd	lisinopril FFF 0 0	2.5 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+247-03	35	438	Atenolol 25 mg qd	atenolol FFF 0 0	25 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+247-03	36	438	Fluoxetine 10 mg qd	fluoxetine FFF 0 0	10 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+247-03	124	0	Catheterization s/p transfer to HCC demonstrated diffuse native disease as well as complete occlusion of SVG and touchdown lesion of LIMA.	touchdown FFF 17 17	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+247-03	128	0	Continue ASA and once PTT normalizes initiate Argatroban as some concern for HIT exists, will  aim for goal of PTT 40-50.	asa FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+247-03	128	0	Continue ASA and once PTT normalizes initiate Argatroban as some concern for HIT exists, will  aim for goal of PTT 40-50.	argatroban FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

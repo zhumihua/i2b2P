@@ -1,0 +1,52 @@
+338-01	1	Record date: 2088-12-21		 
+338-01	2	POLK GENERAL HOSPITAL		 
+338-01	3	Internal Medicine		 
+338-01	4	42 Lisbon Lane                             Holden, Matias		 
+338-01	5	Palacios, NE  73819                             97198841		 
+338-01	6	12-21-88		 
+338-01	7			 
+338-01	8			 
+338-01	9			 
+338-01	10	Patient is a 34-year-old man who comes in for follow up on his newly  diagnosed type II diabetes.		 
+338-01	11	He has been very compliant with his  medication regimen which consists of metformin 850mg PO t.i.d. and NPH  insulin subQ q.AM.  He has had 2 episodes of sweating, but he did not  check his blood sugar at the time.		DPN FFF medication regimen#8
+338-01	11	He has been very compliant with his  medication regimen which consists of metformin 850mg PO t.i.d. and NPH  insulin subQ q.AM.  He has had 2 episodes of sweating, but he did not  check his blood sugar at the time.		DIN FFF metformin#12	DOSE FFF 850mg#13	RUT FFF po#14	FREQ FFF t.i.d#15
+338-01	11	He has been very compliant with his  medication regimen which consists of metformin 850mg PO t.i.d. and NPH  insulin subQ q.AM.  He has had 2 episodes of sweating, but he did not  check his blood sugar at the time.		DIN FFF nph insulin#18	RUT FFF subq#19	INDICATION FFF his blood sugar#35
+338-01	12	He has not had any frank  palpitations or lightheadedness.		 
+338-01	13	He did have 1 episode where he had the  sensation of several extra heart beats.		 
+338-01	14	This was not accompanied by  other symptoms including no chest pain.		 
+338-01	15	He has never had a fingerstick  blood glucose below the mid 150's.  I am looking through his log and see  that his AM prebreakfast glucoses have been between 178-306 and before  dinner they have been between 157-296.		 
+338-01	16	He has already met several times  with Makenzie Kim for diabetes education and for tailoring of his  therapy and has met with a nutritionist to review the concepts of a  diabetic diet.		DIN FFF met#3	INDICATION FFF diabetes#10
+338-01	16	He has already met several times  with Makenzie Kim for diabetes education and for tailoring of his  therapy and has met with a nutritionist to review the concepts of a  diabetic diet.		DIN FFF met#20
+338-01	17			 
+338-01	18	On physical exam, he is in no distress, his weight is 231, his blood  pressure is 132/78 in the right arm sitting.		 
+338-01	19			 
+338-01	20	IMPRESSION AND PLAN: He still has high sugars. I will increase his  insulin regimen.		DIN FFF insulin#12
+338-01	21	He is amenable to adding a second injection and so his  new regimen will be NPH insulin 15 units before breakfast and 15 units  before bedtime.		DDF FFF injection#7	DIN FFF nph insulin#16	DOSEAMT FFF 15 units#18	DOSEAMT FFF 15 units#23	TOD FFF bedtime#25
+338-01	22	And he continues to take metformin 850mg PO t.i.d. and		DIN FFF metformin#5	DOSE FFF 850mg#6	RUT FFF po#7	FREQ FFF t.i.d#8
+338-01	23	I have given him a prescription for this, #90, refills 3, as well as  syringes and needles, #60, refills 3.		 
+338-01	24	He is to follow up with me in  several months and sooner if he has new problems or concerns.  I have  advised him about increasing his level of activity and about maintaining  his diet and I have also asked him to contact me if he should have any  symptoms of hypoglycemia and to obtain his fingerstick glucose reading  at that time as well.		 
+338-01	25			 
+338-01	26			 
+338-01	27			 
+338-01	28	_________________________		 
+338-01	29	Xaiden Roberson, M.D.		 
+338-01	30			 
+338-01	31	PZ:WX:4138		 
+338-01	32	DD:12-21-88		 
+338-01	33	DT:12-23-88		 
+338-01	34	DV:12-21-88		 
+338-01	35	******** Approved but not reviewed by Provider ********		 
+338-01	36			 
+338-01	37			 
+338-01	38			 
+338-01	39			 
+338-01	40			 
+338-01	41			 
+338-01	42			 
+338-01	43			 
+338-01	44			 
+338-01	45			 
+338-01	46			 
+338-01	47			 
+338-01	48			 
+338-01	49			 

@@ -1,0 +1,43 @@
+249-02	1	Record date: 2073-04-02		 
+249-02	2	INTERNAL MEDICINE ASSOCIATES		 
+249-02	3	FOLSOM CONVALESCENT HOSPITAL		 
+249-02	4	Reason for visit   Annual examination.		 
+249-02	5	History of present illness   The patient has done very well over the last year.		 
+249-02	6	He has maintained his weight, which has been quite difficult given the social commitments that he has.		 
+249-02	7	He is requiring to eat out quite a bit.		 
+249-02	8	He has also done a large amount of traveling over the last three to four months.		 
+249-02	9	This caused him to be more exhausted than usual.		 
+249-02	10	His incarcerated hernia repair has stood up.		 
+249-02	11	He has some discomfort occasionally in that area, but for the most part feels that this is back to normal.		 
+249-02	12	He is careful with his diet as much as he can be.		 
+249-02	13	He had a cold over the last month or so.		 
+249-02	14	It slowly resolved.		 
+249-02	15	He is asymptomatic presently.		 
+249-02	16	Major Problems		 
+249-02	17	Hypertension		 
+249-02	18	Hyperlipidemia		 
+249-02	19	Glucose intolerance		 
+249-02	20	Change in therapies and Renewals		 
+249-02	21	Nexium 20 mg PO QD Refills:2 total of 90		DBN FFF nexium#0	DOSE FFF 20mg#2	RUT FFF po#3	FREQ FFF qd#4
+249-02	22	Toprol XL 50 mg PO QD Refills:2 total of 90		DPN FFF toprol xl#1	DOSE FFF 50mg#3	RUT FFF po#4	FREQ FFF qd#5
+249-02	23	Effexor 75 mg PO QD Refills:2 total of 90		DBN FFF effexor#0	DOSE FFF 75mg#2	RUT FFF po#3	FREQ FFF qd#4
+249-02	24	Ecotrin 325 mg PO QD Refills:3		DBN FFF ecotrin#0	DOSE FFF 325mg#2	RUT FFF po#3	FREQ FFF qd#4
+249-02	25	Zocor 10 mg PO QD Refills:3 90		DBN FFF zocor#0	DOSE FFF 10mg#2	RUT FFF po#3	FREQ FFF qd#4
+249-02	26	vitamin e		DIN FFF vitamin e#1
+249-02	27	vitamin c		DIN FFF vitamin c#1
+249-02	28	calcium supplement		DIN FFF calcium#0
+249-02	29	flaxseed oil		DIN FFF flaxseed oil#1
+249-02	30	metformin hydrochloride 500 mg po qd QTY:90 Refills:3 Start: 4/2/2073 take with meals		DIN FFF metformin hydrochloride#1	DOSE FFF 500mg#3	RUT FFF po#4	FREQ FFF qd#5	TOD FFF with meals#12
+249-02	31	Procedures		 
+249-02	32	Coronary artery bypass  STATUS POST.		 
+249-02	33	Hernia repair  Incarcerated Hernia repair.. STATUS POST.		 
+249-02	34	Social history   Still active in business.		 
+249-02	35	He is Treasurer for the Masons.		 
+249-02	36	Does not smoke.		 
+249-02	37	Drinks a few glasses of wine or Martini at night.		 
+249-02	38	He has 10 grandchildren.		 
+249-02	39	Review of systems   Recent night sweats, chronic tinnitus, leg cramps on walking, no GI or urinary problems, and notes some easy bruising.		 
+249-02	40	Physical examination		 
+249-02	41	Pulse   72 and regular		 
+249-02	42	Blood pressure 120/70		 
+249-02	43	General appearance   Well appearing		 

@@ -1,0 +1,44 @@
+227-01	1	Record date: 2161-08-09	
+227-01	2	Patient Name: LE, WILLIAM;  MRN: 0540099		INDICATION FFF le#2
+227-01	3	Dictated on: 08/09/2161 by WILSON RUCKER, M.D.	
+227-01	4		
+227-01	5	CHIEF COMPLAINT:  The patient presents for evaluation of chronic neck and left arm pain.		INDICATION FFF pain .#13
+227-01	6		
+227-01	7	HPI:  This is a 71-year-old right-handed gentleman with past medical history significant for insulin-dependent diabetes, coronary artery disease, status post bypass surgery, hypertension, and bladder cancer, who presents with worsening neck and left arm pain, which is now interfering with his daily life.		INDICATION FFF insulin-dependent diabetes#14	INDICATION FFF coronary artery disease#17	INDICATION FFF surgery#21	INDICATION FFF hypertension#22	INDICATION FFF bladder cancer#25	INDICATION FFF pain#34	FREQ FFF daily#41
+227-01	8	The patient has had a chronic arthritic pain throughout his body, which he has been complaining of for approximately 10 years involving his  neck, shoulder, arms, knees, and back.		INDICATION FFF pain#7	DRT FFF 10 years#20
+227-01	9	More recently in the past months to couple of years, his neck, left arm, and shoulder pain have been his predominant pain symptoms.		INDICATION FFF shoulder pain#16	INDICATION FFF pain#21	INDICATION FFF symptoms#22
+227-01	10	It has been a gradual onset.	
+227-01	11	He has had similar problems in the past.	
+227-01	12	He reports that his pain is intermittent and occurs daily.		INDICATION FFF his pain#4	FREQ FFF daily#9
+227-01	13	He states the pain is burning, cramping, pins and needle, sharp, numb, shooting pain, dull achy, electric- like, throbbing, and pressure-like.		INDICATION FFF the pain#3	INDICATION FFF pain#13
+227-01	14	The pain involves numbness to his hands and fingers on his left arm.		INDICATION FFF the pain#1
+227-01	15	His pain ranges from 10/10 at worst to 0/10 at best.		INDICATION FFF his pain#1
+227-01	16	It is worse in almost all active positions including lying down, standing, sitting, walking, and driving.	
+227-01	17	Medications do not seem to help.	
+227-01	18	Relaxation and rest decreases the pain.		INDICATION FFF the pain#5
+227-01	19	It is also worsened by lifting or bending his neck.	
+227-01	20	He tried physical therapy approximately 10 days ago at Manamana with minimal to no relief.		DRT FFF 10 days#6
+227-01	21	The patient has had injections to his cervical spine in the past, he has had shoulder injections, which helped in the past.	
+227-01	22	He had MRI performed of his  cervical spine on March 21, 2161, which documented moderate- to-severe degenerative changes throughout his cervical spine with significant right neuroforaminal narrowing at multiple levels.	
+227-01	23	There is narrowing of the left neural foramen at	
+227-01	24	C5-6.	
+227-01	25		
+227-01	26	PAST MEDICATIONS:  The patient is not clear what pain medicines he has taken in the past.		DIN FFF pain medicines#9
+227-01	27		
+227-01	28	Current medications include Nexium, Colace, atenolol, aspirin, Neurontin 200 mg two times a day, insulin, Pravachol, glucosamine chondroitin, vitamin E, Lasix, and potassium chloride.		DBN FFF nexium#3	DBN FFF colace#4	DIN FFF atenolol#5	DIN FFF aspirin#6	DBN FFF neurontin#7	DOSE FFF 200mg#9	FREQ FFF two times a day#13	DIN FFF insulin#14	DBN FFF pravachol#15	DIN FFF glucosamine#16	DIN FFF chondroitin#17	DIN FFF vitamin e#19	DBN FFF lasix#20	DIN FFF potassium chloride#23
+227-01	29		
+227-01	30	He has allergies to penicillin, Vioxx, and Lipitor.		INDICATION FFF allergies#2
+227-01	31	Past medical history is significant for high blood pressure, heart disease, insulin-dependent diabetes,  hypercholesterolemia, congestive heart failure, and bladder cancer.		INDICATION FFF high blood pressure#8	INDICATION FFF heart disease#10	INDICATION FFF insulin-dependent diabetes#12	INDICATION FFF hypercholesterolemia#13	INDICATION FFF congestive heart failure#16	INDICATION FFF bladder cancer#19
+227-01	32		
+227-01	33	SURGICAL HISTORY:  He denies any spine surgery.		INDICATION FFF surgery#6
+227-01	34	He has had two prior arthroscopic knee surgeries.	
+227-01	35	He had twice left shoulder surgery; he is not clear what this was.		INDICATION FFF surgery#5
+227-01	36	He has had a TURP.	
+227-01	37	PSYCHOSOCIAL HISTORY:  He has high school eduction.	
+227-01	38	He is not currently engaged in regular exercise program.	
+227-01	39	His pain does limit his daily activities, especially bending over and also affects his recreational activities including regular yard work and lifting.		INDICATION FFF his pain#1	FREQ FFF daily#5
+227-01	40	He also has lifting restrictions from orthopedic physician as well as yard work restrictions from his cardiac physician.		INDICATION FFF as#8	INDICATION FFF as#10
+227-01	41	He is a retired wholesale specialist.	
+227-01	42	He worked for over 30 years in sales  business.		DRT FFF 30 years#5
+227-01	43	He is not currently working.	
+227-01	44	He is married and lives in Dickinson, Maryland.	

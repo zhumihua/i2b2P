@@ -1,0 +1,34 @@
+296-02||1||Record date: 2099-08-10
+296-02||2||Follow-up Visit - Diabetes||INDICATION FFF diabetes FFF 3 3||
+296-02||3||Medications:
+296-02||4||Humalog 0-2/4-8/6-8 111-64-17||DBN FFF humalog FFF 0 0||DOSE FFF 0-2/4-8/6-8 FFF 1 1||
+296-02||5||Lantus 15 U hs Xayarath, Nancy||DBN FFF lantus FFF 0 0||DOSE FFF 15 u FFF 1 2||FREQ FFF hs FFF 3 3||
+296-02||6||Prograf 3/2 mg bid||DBN FFF prograf FFF 0 0||DOSE FFF 3/2 mg FFF 1 2||FREQ FFF bid FFF 3 3||
+296-02||7||CellCept 500 mg bid||DBN FFF cellcept FFF 0 0||DOSE FFF 500 mg FFF 1 2||FREQ FFF bid FFF 3 3||
+296-02||8||Prednisone 2.5 mg qd starting last week||DIN FFF prednisone FFF 0 0||DOSE FFF 2.5 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+296-02||9||Nexium 20 mg qd||DBN FFF nexium FFF 0 0||DOSE FFF 20 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+296-02||10||Lipitor 20 mg qd||DBN FFF lipitor FFF 0 0||DOSE FFF 20 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+296-02||11||Toprol XL 25 mg qPM||DPN FFF toprol xl FFF 0 1||DOSE FFF 25 mg FFF 2 3||FREQ FFF qpm FFF 4 4||
+296-02||12||Coumadin 4 mg qd (for SVC stent)||DBN FFF coumadin FFF 0 0||DOSE FFF 4 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+296-02||13||ASA 325 mg qd||DIN FFF asa FFF 0 0||DOSE FFF 325 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+296-02||14||Caltrate with D 1200-1500 mg per day in divided doses||DBN FFF caltrate FFF 0 0||DOSE FFF 1200-1500 mg FFF 3 4||FREQ FFF per day FFF 5 6||
+296-02||15||Fosamax 70 mg qw||DBN FFF fosamax FFF 0 0||DOSE FFF 70 mg FFF 1 2||
+296-02||16||Calcium with D 500 mg qd   should be bid-tid||DIN FFF calcium FFF 0 0||DOSE FFF 500 mg FFF 3 4||FREQ FFF qd FFF 5 5||
+296-02||17||Centrum QD||DBN FFF centrum FFF 0 0||FREQ FFF qd FFF 1 1||
+296-02||18||Reason for Visit: Diabetes f/u.||INDICATION FFF diabetes FFF 3 3||INDICATION FFF f/u. FFF 4 4||
+296-02||19||Still not hooked up with Anti_Coag.
+296-02||20||Had stress test recently:"blockages".
+296-02||21||Having another done at Brighton.
+296-02||22||BG's everywhere.
+296-02||23||Had 2 reactions one in am and one in pm.||TOD FFF am FFF 5 5||TOD FFF pm. FFF 9 9||
+296-02||24||Diet:     B: toast, cheese, fruit
+296-02||25||L: soup and sandwich
+296-02||26||S: "regular meal"
+296-02||27||Activity/Exercise:
+296-02||28||Monitoring:
+296-02||29||Breakfast Lunch Supper hs||FREQ FFF hs FFF 3 3||
+296-02||33||Pertinent Labs:
+296-02||34||07/28/2099 BUN 18,  CRE 1.1
+296-02||35||07/28/2099 HGBA1C 10.00 (H)
+296-02||36||05/11/2099 HGBA1C 9.30 (H)
+296-02||37||Physical Exam: --

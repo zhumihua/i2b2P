@@ -1,0 +1,8 @@
+283-01	15	438	MEDICATIONS:  Insulin.	insulin. FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+283-01	36	0	The patient, therefore, initially  received amiodarone.	amiodarone. FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+283-01	37	0	The amiodarone affected no change in the  patient's heart rate.	amiodarone FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+283-01	40	0	The patient received morphine and	morphine FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+283-01	41	0	Ativan and had a synchronized cardioversion once at 52 volts with  immediate change to sinus tachycardia in the 1 teens.	ativan FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+283-01	43	0	The patient received aspirin, beta-blockers, oxygen  and heparin while in the emergency department.	aspirin, FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+283-01	43	0	The patient received aspirin, beta-blockers, oxygen  and heparin while in the emergency department.	heparin FFF 7 7	 FFF 	 FFF 	 FFF 	while in the emergency department. FFF 8 12	 FFF 	narrative
+283-01	44	0	He is on amiodarone  drip.	amiodarone FFF 3 3	 FFF 	drip. FFF 4 4	 FFF 	 FFF 	 FFF 	narrative

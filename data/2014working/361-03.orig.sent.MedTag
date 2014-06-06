@@ -1,0 +1,61 @@
+361-03	1	Record date: 2066-05-09	
+361-03	2	EDUCARE-FARGO INPATIENT DIALYSIS ADMIT NOTE	
+361-03	3	Admitting Service: Renal	
+361-03	4	Admitting/Referring MD: Oliver Napier		INDICATION FFF md#1
+361-03	5	Outpatient Dialysis Unit: CMHuck FAT	
+361-03	6	Estimated dry weight: 110 kg ?		INDICATION FFF weight#2
+361-03	7	Dialysis access:  LAVG	
+361-03	8		
+361-03	9	Reason for admission:N/V/D	
+361-03	10		
+361-03	11	HPI: 45 yo M with ESRD on HD, diabetes, bilateral TMA, legally blind, admitted for N/V/D x 1 day prior to admission.		INDICATION FFF esrd#5	INDICATION FFF hd#7	INDICATION FFF diabetes#8	DIN FFF tma#10	FREQ FFF x 1#17
+361-03	12	The patient reports having beef burgers that may have been the cause of his GI upset.	
+361-03	13	All sx resolved after being NPO w/ so IVF overnight, no more diarrhea.		RUT FFF npo#5	DRT FFF overnight#9	INDICATION FFF diarrhea .#12
+361-03	14	Denies F/C/SOB/CP, had occ abd pain which resolved.		INDICATION FFF f#1	INDICATION FFF sob#1	INDICATION FFF cp#1	INDICATION FFF pain#5
+361-03	15	Starting to advance his diet slowly this am.		TOD FFF am#7
+361-03	16	Last dialysis was on Friday.		FREQ FFF friday#4
+361-03	17	Past Medical History:	
+361-03	18	ESRD on HD x 2yrs		INDICATION FFF esrd#0	INDICATION FFF hd#2	FREQ FFF x 2#4
+361-03	19	Type 1 DM since age 25 - +legally blind, PVD, nephropathy		INDICATION FFF type 1 dm#2	INDICATION FFF pvd#9	INDICATION FFF nephropathy#10
+361-03	20	bilateral TMA		DIN FFF tma#1
+361-03	21	Vascular access history: L AVG, tunneled catheter before that	
+361-03	22		
+361-03	23	Allergies: NKDA		INDICATION FFF allergies#0
+361-03	24	Medications: (per report, can not confirm w/ pt as he does not know them) Celexa 40mg daily, Zelnorm 6mg bid, ASA 81mg daily, Lipitor 20mg qhs, Phoslo 1334mg qac, Gemfibrozil 300mg bid, Insulin, Lisinopril 40mg daily, Reglan, Toprol XL 50mg daily, Nephrocaps, Omeprazole 20mg daily, Senna, Renagel 1600mg qac, Sensipar 30mg daily		INDICATION FFF as#8	DBN FFF celexa#14	DOSE FFF 40mg#15	FREQ FFF daily#16	DBN FFF zelnorm#17	DOSE FFF 6mg#18	FREQ FFF bid#19	DIN FFF asa#20	DOSE FFF 81mg#21	FREQ FFF daily#22	DBN FFF lipitor#23	DOSE FFF 20mg#24	FREQ FFF qhs#25	DBN FFF phoslo#26	DOSE FFF 1334mg#27	DIN FFF gemfibrozil#29	DOSE FFF 300mg#30	FREQ FFF bid#31	DIN FFF insulin#32	DIN FFF lisinopril#33	DOSE FFF 40mg#34	FREQ FFF daily#35	DBN FFF reglan#36	DPN FFF toprol xl#38	DOSE FFF 50mg#39	FREQ FFF daily#40	DBN FFF nephrocaps#41	DIN FFF omeprazole#42	DOSE FFF 20mg#43	FREQ FFF daily#44	DIN FFF senna#45	DBN FFF renagel#46	DOSE FFF 1600mg#47	DBN FFF sensipar#49	DOSE FFF 30mg#50	FREQ FFF daily#51
+361-03	25	Social History:  neg tob, neg EtOH, lives w/ elderly diabetic mother, poor social supports	
+361-03	26		
+361-03	27	Family History: Mother also with diabetes/debilitated		INDICATION FFF diabetes#5
+361-03	28	PHYSICAL EXAM	
+361-03	29	Weight: 113 kg		INDICATION FFF weight#0
+361-03	30	Temp: 96.8	
+361-03	31	BP: 200/90		INDICATION FFF bp#0
+361-03	32	HR: 95	
+361-03	33		
+361-03	34	Gen: Pleasant male in NAD	
+361-03	35	HEENT: O&amp;P clear and moist	
+361-03	36	Neck: supple, no LAD, JVP 10cm		INDICATION FFF cm#5
+361-03	37	Lungs: CTA b/l	
+361-03	38	Cor: regular, s1s2, no m/r/g		DIN FFF cor#0	DIN FFF m / r#4
+361-03	39	Abd: soft, NTND, no HSM	
+361-03	40	Ext: no edema in LE b/l, bilateral TMAs.		INDICATION FFF edema#2	INDICATION FFF le#4
+361-03	41	Vascular access: site clean and without inflammation, systolic and diastolic bruit present		INDICATION FFF inflammation#6
+361-03	42		
+361-03	43	LABS:	
+361-03	44	pending this am		TOD FFF am#2
+361-03	45	ASSESSMENT AND PLAN:	
+361-03	46	45 yo M with ESRD from DM, now admitted for GI upset, resolved.		INDICATION FFF esrd#4	INDICATION FFF dm#6
+361-03	47	1. Reason for admission: N/V/D, resolved, the pt is now hungry and wants to advance his diet, so this illness truly seems to be self-limited, would advance diet slowly, diabetic renal diet please.	
+361-03	48	2. Dialysis Adequacy: tbd	
+361-03	49	3. BP: Suspect that this is a combination of held medication this am (and poor complainace? he does not know his meds) and volume overload.		INDICATION FFF bp#1	TOD FFF am#12	INDICATION FFF volume overload .#24
+361-03	50	UF 3-4L at HD today. 4. Anemia management: Hgb below goal, on epogen.		DOSE FFF 3-4l#1	INDICATION FFF hd#3	INDICATION FFF anemia#6	DBN FFF epogen#12
+361-03	51	5. Mineral metabolism (Ca/Phos/PTH): continuing zemplar, phos binders, check phos today.		INDICATION FFF ca#3	DIN FFF pth#3	DBN FFF zemplar#5
+361-03	52	6. Nutrition: On nephrocaps, needs low K/phos diabetic diet.		DBN FFF nephrocaps#3	INDICATION FFF k#6
+361-03	53	7. Vascular access: AVG functioning well.	
+361-03	54		
+361-03	55	8. Dialysis prescription: 4.5 h, F200, 400/800, 2K, 2.5Ca, 5L UF, 5000Units heparin.		DRT FFF 4.5 h#4	INDICATION FFF k#7	INDICATION FFF ca#8	DOSE FFF 5l#9	DOSEAMT FFF 5000 units#11	DIN FFF heparin#12
+361-03	56		
+361-03	57		
+361-03	58	Dr. Napier to staff shortly.	
+361-03	59		
+361-03	60		
+361-03	61		

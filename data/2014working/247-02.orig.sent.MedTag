@@ -1,0 +1,20 @@
+247-02	1	Record date: 2064-05-25	
+247-02	2	CARDIAC SURGERY		INDICATION FFF surgery#1
+247-02	3	HEARTLAND COUNTY CLINIC	
+247-02	4	Narrative Note:	
+247-02	5		
+247-02	6	June 25, 2064	
+247-02	7	Dr. Charles Uher	
+247-02	8	Danville State Hospital	
+247-02	9	9362 Massachusetts Drive	
+247-02	10	Clyde, NV  14436	
+247-02	11	RE:  Michael Isenberg	
+247-02	12	HCC# - 367-41-93		INDICATION FFF hcc#0
+247-02	13	Dear Dr. Uher:	
+247-02	14	I saw our mutual patient, Mr. Isenberg, today in my office for a routine followup wound check.  As you know, this is an 81 year-old man with a history of chronic renal insufficiency and diabetes.  He underwent an off-pump double bypass on 3/31/64.  He had an excellent post-operative recovery being discharged on day five.  Since home, he reports having no further symptoms of shortness of breath or chest pain.  He has been gradually increasing his daily activity and is now walking about five to ten minutes a day and two flights of steps.  I have suggested that he gradually increase his daily exercise.		INDICATION FFF wound#15	INDICATION FFF as#17	INDICATION FFF chronic renal insufficiency#32	INDICATION FFF diabetes .#34	INDICATION FFF symptoms#61	INDICATION FFF shortness of breath#65	INDICATION FFF chest pain .#68	FREQ FFF daily#75	DRT FFF a day#87	FREQ FFF daily#101
+247-02	15	On examination today his heart rate was 80 and regular.		INDICATION FFF heart rate#5
+247-02	16	His chest incision was well healed and his sternum stable.	
+247-02	17	His lungs were clear bilaterally.	
+247-02	18	He had mild edema at his right ankle and a well-healed endoscopic vein harvest site.		INDICATION FFF edema#3
+247-02	19	His current medications are aspirin 325 a day, Nexium 20 a day, Lisinopril 2.5 a day, Atenolol 25 a day, Plavix 75 a day, Glimepiride 1 mg.		DIN FFF aspirin#4	DOSE FFF 325#5	DRT FFF a day#7	DBN FFF nexium#8	DOSE FFF 20#9	DRT FFF a day#11	DIN FFF lisinopril#12	DOSE FFF 2.5#13	DRT FFF a day#15	DIN FFF atenolol#16	DOSE FFF 25#17	DRT FFF a day#19	DBN FFF plavix#20	DOSE FFF 75#21	DRT FFF a day#23	DIN FFF glimepiride#24	DOSE FFF 1mg#26
+247-02	20	PO b.i.d., and Lipitor 80 mg. a day.		RUT FFF po#0	FREQ FFF b.i.d#1	DBN FFF lipitor#3	DOSE FFF 80mg#5	DRT FFF a day#7

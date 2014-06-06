@@ -1,0 +1,16 @@
+353-03	9	0	He was admitted to the hospital for BG's of 400's and discharged on NPH insulin 30 units q am and 15 units q pm.	nph insulin FFF 13 14	30 units FFF 15 16	 FFF 	q am FFF 17 18	 FFF 	 FFF 	narrative
+353-03	9	0	He was admitted to the hospital for BG's of 400's and discharged on NPH insulin 30 units q am and 15 units q pm.	nph insulin FFF 13 14	15 units FFF 20 21	 FFF 	q pm. FFF 22 23	 FFF 	 FFF 	narrative
+353-03	13	0	His home DM regimen consists of NPH insulin 25 units q am and 10 units q hs.	DM regimen consists of NPH FFF 2 7	 FFF 	 FFF 	q am FFF 10 11	 FFF 	 FFF 	narrative
+353-03	25	438	NPH insulin 25 units q am and 10 units q hs	nph insulin FFF 0 1	25 units FFF 2 3	 FFF 	q am FFF 4 5	 FFF 	 FFF 	narrative
+353-03	25	438	NPH insulin 25 units q am and 10 units q hs	nph insulin FFF 0 1	10 units FFF 7 8	 FFF 	q hs FFF 9 10	 FFF 	 FFF 	narrative
+353-03	26	438	regular insulin SS if BG > 125	regular insulin FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+353-03	27	438	simvastatin	simvastatin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+353-03	28	438	lasix	lasix FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+353-03	29	438	lisinopril	lisinopril FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+353-03	30	438	ECASA	ecasa FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+353-03	31	438	esomeprazole	esomeprazole FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+353-03	32	438	atenolol	atenolol FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+353-03	33	438	SC heparin	heparin FFF 1 1	 FFF 	sc FFF 0 0	 FFF 	 FFF 	 FFF 	narrative
+353-03	34	438	Folate	folate FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+353-03	35	438	Ancef 1 gm Q8H	ancef FFF 0 0	1 gm FFF 1 2	 FFF 	q8h FFF 3 3	 FFF 	 FFF 	narrative
+353-03	49	438	Cor/Cardiac	cor/cardiac FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

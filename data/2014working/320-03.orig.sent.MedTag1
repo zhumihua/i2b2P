@@ -1,0 +1,46 @@
+320-03||1||Record date: 2080-06-13
+320-03||2||INFECTIOUS DISEASE ASSOCIATES
+320-03||3||CURTIS MEDICAL CENTER
+320-03||4||Reason for visit   Brucellosis.||INDICATION FFF brucellosis. FFF 3 3||
+320-03||5||History of present illness   Ms. Iles is seen here two weeks after her discharge from the hospital.  She has been treated for systemic brucellosis with suspicion of osteoarticular disease given her low back pain.  She is taking rifampin, doxycycline and has been treated with streptomycin.  She feels quite a bit better and has had resolution of her fevers and chills.  She has diminished pain and is able to ambulate somewhat and goes to the bathroom more comfortably.  She still has weakness and a poor appetite.  There have been no change in her bowel habits and no fevers, chills or rash.||DRT FFF two weeks FFF 9 10||INDICATION FFF brucellosis FFF 23 23||INDICATION FFF low back pain. FFF 31 33||DIN FFF rifampin, FFF 37 37||DIN FFF doxycycline FFF 38 38||DIN FFF streptomycin. FFF 44 44||INDICATION FFF fevers FFF 57 57||INDICATION FFF pain FFF 63 63||INDICATION FFF change FFF 89 89||INDICATION FFF fevers, FFF 96 96||
+320-03||6||Past medical history   -DMII (dx late 60s, last A1c = 5.6 in 2/80)||INDICATION FFF -dmii FFF 3 3||
+320-03||7||-HTN||INDICATION FFF -htn FFF 0 0||
+320-03||8||-Hyperlipidemia||INDICATION FFF -hyperlipidemia FFF 0 0||
+320-03||9||-Hep B sAb+, sAg+, and core Ab+ in 2067; now sAg-, sAb+, and core Ab (+) in 2/2080 ( recovery )||INDICATION FFF -hep b FFF 0 1||INDICATION FFF ab+ FFF 6 6||INDICATION FFF ab FFF 14 14||
+320-03||10||-H/o H. pylori (+) 2068 and 2080 s/p triple therapy
+320-03||11||-GERD||INDICATION FFF -gerd FFF 0 0||
+320-03||12||-OA||INDICATION FFF -oa FFF 0 0||
+320-03||13||-H/o vitamin D deficiency||INDICATION FFF vitamin d deficiency FFF 1 3||
+320-03||14||-H/o chronic HAs (migraines vs. tension HAs)
+320-03||15||-+ PPD (in Mississippi in 2067)
+320-03||16||-H/o malaria||INDICATION FFF malaria FFF 1 1||
+320-03||17||Active Medications
+320-03||18||multivitamins liquid; Dir: One teaspoon daily||DIN FFF multivitamins FFF 0 0||DOSEAMT FFF one teaspoon FFF 3 4||FREQ FFF daily FFF 5 5||
+320-03||19||metformin hydrochloride 500 MG PO BID||DIN FFF metformin hydrochloride FFF 0 1||DOSE FFF 500 mg FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF bid FFF 5 5||
+320-03||20||lisinopril 20 MG PO daily||DIN FFF lisinopril FFF 0 0||DOSE FFF 20 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF daily FFF 4 4||
+320-03||21||atenolol 50 MG PO daily||DIN FFF atenolol FFF 0 0||DOSE FFF 50 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF daily FFF 4 4||
+320-03||22||Zofran 4 MG PO Q8H||DBN FFF zofran FFF 0 0||DOSE FFF 4 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF q8h FFF 4 4||
+320-03||23||aspirin 81 MG PO daily||DIN FFF aspirin FFF 0 0||DOSE FFF 81 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF daily FFF 4 4||
+320-03||24||morphine sulfate immediate release PO Q4H PRN||DIN FFF morphine sulfate FFF 0 1||RUT FFF po FFF 4 4||FREQ FFF q4h FFF 5 5||NEC FFF prn FFF 6 6||
+320-03||25||Ms contin PO Q12H||DBN FFF ms contin FFF 0 1||RUT FFF po FFF 2 2||FREQ FFF q12h FFF 3 3||
+320-03||26||simvastatin 40 MG PO QPM||DIN FFF simvastatin FFF 0 0||DOSE FFF 40 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qpm FFF 4 4||
+320-03||27||Review of systems   Denies fever, rigor, night sweats, headache, SOB, cough, anorexia, nausea, vomiting, diarrhea, abdominal pain, paresthesias, or rash.||INDICATION FFF fever, FFF 4 4||INDICATION FFF rigor, FFF 5 5||INDICATION FFF sweats, FFF 7 7||INDICATION FFF headache, FFF 8 8||INDICATION FFF sob, FFF 9 9||INDICATION FFF cough, FFF 10 10||INDICATION FFF anorexia, FFF 11 11||INDICATION FFF nausea, FFF 12 12||INDICATION FFF vomiting, FFF 13 13||INDICATION FFF diarrhea, FFF 14 14||INDICATION FFF abdominal pain, FFF 15 16||
+320-03||28||Physical Exam
+320-03||29||Pulse   120
+320-03||30||Blood pressure 160/70||INDICATION FFF blood pressure FFF 0 1||
+320-03||31||respiratory rate   16
+320-03||32||weight   181 lbs., temperature 98.6.||INDICATION FFF weight FFF 0 0||INDICATION FFF temperature FFF 3 3||
+320-03||33||General appearance   Well appearing.
+320-03||34||Skin   No rash or jaundice.
+320-03||35||HEENT   No thrush.||INDICATION FFF thrush. FFF 2 2||
+320-03||36||Nodes   None.
+320-03||37||Chest   Clear.
+320-03||38||Cor   Normal PMI.||DIN FFF cor FFF 0 0||
+320-03||39||Regular rate and rhythm, 1/6 systolic ejection murmur is unchanged.
+320-03||40||No rub, gallop or click.
+320-03||41||Abdomen   Soft without hepatosplenomegaly, mass or ascites.||INDICATION FFF ascites. FFF 6 6||
+320-03||42||Musc skel   There is some persistent tenderness in the left sacroiliac region in her lower back.
+320-03||43||Selected recent labs   Include, sodium 134, creatinine 0.6, glucose 147, calcium 9.0.||DOSE FFF 134, FFF 5 5||INDICATION FFF creatinine FFF 6 6||DIN FFF calcium FFF 10 10||DOSE FFF 9.0. FFF 11 11||
+320-03||44||SGOT 86, SGPT 75 and these are both lower than in the hospital.
+320-03||45||Iron 31, TIBC 164.||DIN FFF iron FFF 0 0||DOSE FFF 31, FFF 1 1||
+320-03||46||Hematocrit 37, white blood cell count 4, platelets 411,000.||INDICATION FFF hematocrit FFF 0 0||

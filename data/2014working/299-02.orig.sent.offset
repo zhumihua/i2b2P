@@ -1,0 +1,28 @@
+299-02	6	0	She is now on Lipitor per Dr.	lipitor FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+299-02	23	0	Continues on Synthroid.	synthroid. FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+299-02	28	0	Remains on Paxil and also takes Ativan nightly.	paxil FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+299-02	28	0	Remains on Paxil and also takes Ativan nightly.	ativan FFF 6 6	 FFF 	 FFF 	nightly. FFF 7 7	 FFF 	 FFF 	narrative
+299-02	40	0	Cor/Cardiac	cor/cardiac FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+299-02	51	0	LORAZEPAM  0.5MG  1 qd	lorazepam FFF 0 0	0.5mg FFF 1 1	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+299-02	52	0	Synthroid  0.05MG  QD	synthroid FFF 0 0	0.05mg FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+299-02	53	0	AVANDIA (ROSIGLITAZONE)  4MG 1 Tablet(s) PO BID	AVANDIA (ROSIGLITAZONE) FFF 0 1	4mg FFF 2 2	po FFF 5 5	bid FFF 6 6	 FFF 	 FFF 	narrative
+299-02	54	0	LASIX (FUROSEMIDE)  80MG 1 Tablet(s) PO 2 tabs BID	lasix FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+299-02	55	0	PRILOSEC (OMEPRAZOLE)  20MG 1 Capsule(s) PO BID	PRILOSEC (OMEPRAZOLE) FFF 0 1	20mg FFF 2 2	po FFF 5 5	bid FFF 6 6	 FFF 	 FFF 	narrative
+299-02	56	0	LOPRESSOR (METOPROLOL TARTRATE)  50MG 0.5 Tablet(s) PO BID	LOPRESSOR (METOPROLOL TARTRATE) FFF 0 2	50mg FFF 3 3	po FFF 6 6	bid FFF 7 7	 FFF 	 FFF 	narrative
+299-02	57	0	Paxil  20.0MG PO QD	paxil FFF 0 0	20.0mg FFF 1 1	po FFF 2 2	qd FFF 3 3	 FFF 	 FFF 	narrative
+299-02	58	0	GLUCOPHAGE (METFORMIN)  500MG 2 Tablet(s) PO BID	GLUCOPHAGE (METFORMIN) FFF 0 1	500mg FFF 2 2	po FFF 5 5	bid FFF 6 6	 FFF 	 FFF 	narrative
+299-02	59	0	CALTRATE 600  1TAB PO BID	caltrate FFF 0 0	600 FFF 1 1	po FFF 3 3	bid FFF 4 4	 FFF 	 FFF 	narrative
+299-02	60	0	FE GLUCONATE (FERROUS GLUCONATE)  325MG 1 Tablet(s) PO TID	fe FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+299-02	60	0	FE GLUCONATE (FERROUS GLUCONATE)  325MG 1 Tablet(s) PO TID	GLUCONATE (FERROUS GLUCONATE) FFF 1 3	325mg FFF 4 4	po FFF 7 7	tid FFF 8 8	 FFF 	 FFF 	narrative
+299-02	61	0	ECASA (ASPIRIN ENTERIC COATED)  81MG 1 Tablet(s) PO QD	ECASA (ASPIRIN ENTERIC COATED) FFF 0 3	81mg FFF 4 4	po FFF 7 7	qd FFF 8 8	 FFF 	 FFF 	narrative
+299-02	62	0	ATROVENT INHALER (IPRATROPIUM INHALER)  2PUFF NAS BID	ATROVENT INHALER (IPRATROPIUM INHALER) FFF 0 3	2puff FFF 4 4	 FFF 	bid FFF 6 6	 FFF 	 FFF 	narrative
+299-02	63	0	SEREVENT (SALMETEROL)  2PUFF NAS BID	SEREVENT (SALMETEROL) FFF 0 1	2puff FFF 2 2	 FFF 	bid FFF 4 4	 FFF 	 FFF 	narrative
+299-02	64	0	CALCIUM GLUCONATE  500MG 2 Tablet(s) PO BID	calcium gluconate FFF 0 1	500mg FFF 2 2	po FFF 5 5	bid FFF 6 6	 FFF 	 FFF 	narrative
+299-02	65	0	ACCUPRIL (QUINAPRIL)  10MG PO QD	ACCUPRIL (QUINAPRIL) FFF 0 1	10mg FFF 2 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+299-02	66	0	ONE TOUCH TEST STRIPS  BLANK	one touch FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+299-02	67	0	Multivitamins  1TAB  QD	multivitamins FFF 0 0	1tab FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+299-02	68	0	OCUVITE (MULTIVITAMINS)  1TAB PO QD	OCUVITE (MULTIVITAMINS) FFF 0 1	1tab FFF 2 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+299-02	69	0	Lipitor  20MG PO 1 QD	lipitor FFF 0 0	20mg FFF 1 1	po FFF 2 2	qd FFF 4 4	 FFF 	 FFF 	narrative
+299-02	70	0	Lopid  600MG PO BID	lopid FFF 0 0	600mg FFF 1 1	po FFF 2 2	bid FFF 3 3	 FFF 	 FFF 	narrative
+299-02	72	0	Influenza Vaccine  09/29/63   given today	influenza vaccine FFF 0 1	09/29/63 FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+299-02	77	0	Pneumococcal Vaccine  08/02/2060   Given today.	pneumococcal vaccine FFF 0 1	08/02/2060 FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative

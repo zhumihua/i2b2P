@@ -1,0 +1,15 @@
+323-03	1	Record date: 2065-04-22	
+323-03	2	April 22, 2065	
+323-03	3	Xian, Brooklyn	
+323-03	4	602-44-98-6	
+323-03	5	She was last in the clinic on October 24, 2063.	
+323-03	6	She comes in today with her husband and daughter.  (Her daughter is her legal healthcare proxy.)  They come in to follow up on a recent hospitalization at Mid Coast Hospital.	
+323-03	7	In January, she was noted by her family to be agitated and confused.		INDICATION FFF agitated#10
+323-03	8	She was missing her medication or taking too much medication at times, including her insulin.		DIN FFF insulin#14
+323-03	9	She also became paranoid when efforts were made to intervene to assist her.	
+323-03	10	Her family notes that this seemed to begin after her gabapentin dose was increased to 600 mg bid.		DIN FFF gabapentin#10	DOSE FFF 600mg#16	FREQ FFF bid#17
+323-03	11	She was also taking some other drugs at the time that affect the central nervous system, including trazodone, benzodiazepines, and narcotics for back pain.		DIN FFF drugs#6	DIN FFF trazodone#17	DIN FFF benzodiazepines#18	DIN FFF narcotics#20	INDICATION FFF back pain#23
+323-03	12	She was admitted to the geriatric psychiatry unit at Mid Coast in January 2065.	
+323-03	13	She stayed there for almost a week.		DRT FFF a week#6
+323-03	14	According to the family, some medications were discontinued and donepazil was started.	
+323-03	15	Also, they think she had a brain MRI.	

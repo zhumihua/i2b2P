@@ -1,0 +1,52 @@
+363-03||1||Record date: 2094-03-20
+363-03||2||Nancy is a 75 y/o woman who c/o epigastric discomofrt x 1 day.
+363-03||3||With nasal congestion.
+363-03||4||Pulm- productive cough.
+363-03||5||No wheeze.
+363-03||6||No SOB.
+363-03||7||Cor- No chest pain.||DIN FFF cor- FFF 0 0||INDICATION FFF chest pain. FFF 2 3||
+363-03||8||No SOB.
+363-03||9||No  palpitations.
+363-03||10||No lighthead.
+363-03||11||No PND.
+363-03||12||No orthopnea.
+363-03||13||No claudication.   edema- wax and wane but generally improved.
+363-03||14||GI- No nausea.
+363-03||15||No  vomitting.
+363-03||16||No  dyspepsia.
+363-03||17||No  reflux.
+363-03||18||No abdo pain.
+363-03||19||No diarrhea.
+363-03||20||No constipation.
+363-03||21||No melena.
+363-03||22||No BRBPR.
+363-03||23||Decreased appetite.
+363-03||24||GU- no hematuria; no dysuria;  no frequency; no urgency; no incontinence.No abnormal bleeding.
+363-03||25||Problems
+363-03||26||Diabetes mellitus type 2
+363-03||27||Hypertension
+363-03||28||Osteoarthritis
+363-03||29||Polyarteritis : 20 years ago.
+363-03||30||Glaucoma
+363-03||31||Total knee replacement : right
+363-03||32||Medications
+363-03||33||Lisinopril 10MG TABLET take 1 Tablet(s) PO QD||DIN FFF lisinopril FFF 0 0||DOSE FFF 10mg FFF 1 1||DDF FFF tablet FFF 2 2||DOSEAMT FFF 1 tablet(s) FFF 4 5||RUT FFF po FFF 6 6||FREQ FFF qd FFF 7 7||
+363-03||34||Alphagan (BRIMONIDINE TARTRATE) 1 DROP OU BID||DBN FFF alphagan FFF 0 0||MDBN FFF (brimonidine tartrate) FFF 1 2||DOSEAMT FFF 1 drop FFF 3 4||RUT FFF ou FFF 5 5||FREQ FFF bid FFF 6 6||
+363-03||35||Lumigan (BIMATOPROST 0.03%) OU QPM||DBN FFF lumigan FFF 0 0||MDBN FFF (bimatoprost FFF 1 1||RUT FFF ou FFF 3 3||FREQ FFF qpm FFF 4 4||
+363-03||36||Flonase (FLUTICASONE NASAL SPRAY) 1 SPRAY NAS QD||DBN FFF flonase FFF 0 0||MDBN FFF (fluticasone FFF 1 1||DOSEAMT FFF 1 spray FFF 4 5||FREQ FFF qd FFF 7 7||
+363-03||37||Glyburide 15 MG (5MG TABLET take 3) PO QD||DIN FFF glyburide FFF 0 0||DOSE FFF 15 mg FFF 1 2||DOSE FFF (5mg FFF 3 3||DDF FFF tablet FFF 4 4||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||
+363-03||38||Metformin 850 MG (850MG TABLET take 1) PO TID||DIN FFF metformin FFF 0 0||DOSE FFF 850 mg FFF 1 2||DOSE FFF (850mg FFF 3 3||DDF FFF tablet FFF 4 4||RUT FFF po FFF 7 7||FREQ FFF tid FFF 8 8||
+363-03||39||Lipitor (ATORVASTATIN) 10MG TABLET take 1 Tablet(s) PO QD||DBN FFF lipitor FFF 0 0||MDBN FFF (atorvastatin) FFF 1 1||DOSE FFF 10mg FFF 2 2||DDF FFF tablet FFF 3 3||DOSEAMT FFF 1 tablet(s) FFF 5 6||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||
+363-03||40||Dyazide (TRIAMTERENE 37.5 MG/HYDROCHLORTHIAZIDE 25 MG) 1 CAPSULE PO QD||DBN FFF dyazide FFF 0 0||MDBN FFF (triamterene FFF 1 1||DOSE FFF 25 mg) FFF 4 5||DOSEAMT FFF 1 capsule FFF 6 7||RUT FFF po FFF 8 8||FREQ FFF qd FFF 9 9||
+363-03||41||Phenobarbital 64.8 MG (32.4MG TABLET take 2) PO QD||DIN FFF phenobarbital FFF 0 0||DOSE FFF 64.8 mg FFF 1 2||DOSE FFF (32.4mg FFF 3 3||DDF FFF tablet FFF 4 4||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||
+363-03||42||Omeprazole 20 MG (20MG CAPSULE DR take 1) PO QD||DIN FFF omeprazole FFF 0 0||DOSE FFF 20 mg FFF 1 2||DOSE FFF (20mg FFF 3 3||DDF FFF capsule FFF 4 4||RUT FFF po FFF 8 8||FREQ FFF qd FFF 9 9||
+363-03||43||Atenolol 25MG TABLET take 1 Tablet(s) PO QD||DIN FFF atenolol FFF 0 0||DOSE FFF 25mg FFF 1 1||DDF FFF tablet FFF 2 2||DOSEAMT FFF 1 tablet(s) FFF 4 5||RUT FFF po FFF 6 6||FREQ FFF qd FFF 7 7||
+363-03||44||Allergies
+363-03||45||Penicillins - Unknown||DBN FFF penicillins FFF 0 0||
+363-03||46||Vital Signs
+363-03||47||BP 160/64, P 100, RR 16
+363-03||48||WD,WN,NAD
+363-03||49||M&T- lips and gums unremarkable.. Moist; no erythema; no exudate; no lesions
+363-03||50||Neck- supple.  No JVD.
+363-03||51||No bruit.
+363-03||52||No LAN.

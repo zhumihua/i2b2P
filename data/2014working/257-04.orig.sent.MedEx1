@@ -1,0 +1,57 @@
+257-04||1||Record date: 2098-01-26
+257-04||2||Rheumatology Visit
+257-04||3||CANTU, VERNA L
+257-04||4||MRN:  0261948
+257-04||5||Date of Visit:  01/26/2098
+257-04||6||Background:
+257-04||7||Ms. Cantu is a 61-year-old diabetic woman with long-standing hypertension and peripheral vascular disease.
+257-04||8||She is followed in rheumatology for mixed connective tissue disease.
+257-04||9||She was initially seen in March 2094, when she was admitted with fever, nausea and chest pain.
+257-04||10||Her chest CT showed an interstitial pattern and a patulous esophagus; the interstitial lung disease was thought to be in part due to the mixed connective tissue disease and in part due to aspiration.
+257-04||11||She was also noted at that time to have an ANA 1:2560 speckled with positive RNP, negative Scl-70.
+257-04||12||Clinically, she had Sjogren's with sclerodermatous changes to her hands and telangiectasias across her face.
+257-04||13||The Raynaud's was exacerbated by the extensive peripheral vascular disease and she had to undergo stenting of the right common femoral artery 11/2095.
+257-04||14||Slowly these lesions healed.
+257-04||15||Interim Issues:
+257-04||16||The diabetes and hypertension slowly became well controlled.
+257-04||17||But on exercise tolerance test, she presented with significant coronary artery disease and was noted to have significant aortic stenosis.
+257-04||18||In April 2097 she underwent stenting and she had a prosthetic aortic valve placed.
+257-04||19||Recovering from surgery has been slow.
+257-04||20||But it has been steady and uncomplicated.
+257-04||21||She can now go up 2 flights of stairs, then rest to go the third flight to her home.
+257-04||22||She has had no recurrent chest pain.
+257-04||23||She keeps her hands and feet warm and has had no tissue damage.
+257-04||24||She feels a little tightness in the chest wall in taking a deep breath (points anteriorly), but no dyspnea per se.
+257-04||25||She healed well postoperatively.
+257-04||26||She has recently been seen by cardiology and Dr.
+257-04||27||Nichols and seems to be in good shape.
+257-04||28||Her medications were reviewed and updated in the LMR.
+257-04||29||In terms of the MCTD, she continues to have some Raynaud's.
+257-04||30||She tries to keep her hands warm and she has had little breakdown of the tissue but rather thickening of her hands.
+257-04||31||What troubles her most is the intermittent synovitis.
+257-04||32||She felt much better on 5 mg of prednisone daily.||DOSE FFF 5 mg FFF 5 6||DIN FFF prednisone FFF 8 8||FREQ FFF daily. FFF 9 9||
+257-04||33||She remains on Plaquenil 200 mg daily.||DBN FFF plaquenil FFF 3 3||DOSE FFF 200 mg FFF 4 5||FREQ FFF daily. FFF 6 6||
+257-04||34||She has had no worsening swallowing.
+257-04||35||She has had no fever, pneumonia or progressive dyspnea on exertion.
+257-04||36||She sleeps on two pillows.
+257-04||37||She denies waking up with any bitterness in her mouth.
+257-04||38||She continues on omeprazole.||DIN FFF omeprazole. FFF 3 3||
+257-04||39||Complete ROS in detail is otherwise negative.
+257-04||40||MEDS:
+257-04||41||Amlodipine 5 MG QD||DIN FFF amlodipine FFF 0 0||DOSE FFF 5 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+257-04||42||Aspirin  325 MG QD||DIN FFF aspirin FFF 0 0||DOSE FFF 325 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+257-04||43||Hydrochlorothiazide 12.5 MG QD||DIN FFF hydrochlorothiazide FFF 0 0||DOSE FFF 12.5 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+257-04||44||Lisinopril 2.5 MG QD||DIN FFF lisinopril FFF 0 0||DOSE FFF 2.5 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+257-04||45||Metformin 500 MG BID||DIN FFF metformin FFF 0 0||DOSE FFF 500 mg FFF 1 2||FREQ FFF bid FFF 3 3||
+257-04||46||Metoprolol Succinate Extended Release 25 MG QD||DIN FFF metoprolol succinate FFF 0 1||DDF FFF extended release FFF 2 3||DOSE FFF 25 mg FFF 4 5||FREQ FFF qd FFF 6 6||
+257-04||47||Plaquenil  200 MG  QD||DBN FFF plaquenil FFF 0 0||DOSE FFF 200 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+257-04||48||Simvastatin 20 MG  QHS||DIN FFF simvastatin FFF 0 0||DOSE FFF 20 mg FFF 1 2||FREQ FFF qhs FFF 3 3||
+257-04||49||FH/SH: She comes in with her husband, who feels she is doing very well and is delighted to see her better.
+257-04||50||Ms. Cantu went back to work 3 months after surgery.
+257-04||51||PMH:
+257-04||52||DM.
+257-04||53||Hypertension.
+257-04||54||Peripheral artery disease.
+257-04||55||ASCVD with mild bilateral carotid stenosis (2096).
+257-04||56||Melanoma (surgical resection right thigh in 2077).
+257-04||57||T&amp;A.

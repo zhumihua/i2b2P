@@ -1,0 +1,98 @@
+224-01||1||Record date: 2083-01-12
+224-01||3||CCU Admission Note
+224-01||4||Patient is transferred from Florida Hospital Orland
+224-01||5||Otto Qazi
+224-01||6||MR# 527-62-21
+224-01||7||Date of Admission: January 12, 2083
+224-01||8||Admitting JAR: Hunter Hayden, MD||INDICATION FFF md FFF 4 4||
+224-01||9||Attending:  Quinten Prado, MD||INDICATION FFF md FFF 3 3||
+224-01||10||Reason for Transfer: STEMI
+224-01||11||HPI:
+224-01||12||58yoM with h/o CAD, HTN, smoking; presents to FHO with chest pain and found to have lateral STEMI.||INDICATION FFF cad, FFF 3 3||INDICATION FFF htn, FFF 4 4||INDICATION FFF chest pain FFF 10 11||
+224-01||13||He experienced mild central chest pain on the night prior to admission while working outdoors, pain resolved after about an hour and he attributed it to GERD.||INDICATION FFF chest pain FFF 4 5||DRT FFF while FFF 12 12||INDICATION FFF pain FFF 15 15||DRT FFF an hour FFF 19 20||INDICATION FFF gerd. FFF 26 26||
+224-01||14||However, he awoke at 5:30 AM on the morning of presentation with recurrence of chest pain, 6/10 severity, lasted for about 15-30 minutes and then resolved with Maalox.||TOD FFF am FFF 5 5||TOD FFF morning FFF 8 8||INDICATION FFF chest pain, FFF 14 15||DBN FFF maalox. FFF 27 27||
+224-01||15||Pain recurred about 9:30, of similar severity, associated with dyspnea, diaphoresis, non radiating, non-pleuritic.||INDICATION FFF pain FFF 0 0||INDICATION FFF dyspnea, FFF 9 9||
+224-01||16||He again took zantac and Maalox without improvement.||DBN FFF zantac FFF 3 3||DBN FFF maalox FFF 5 5||
+224-01||17||After 15 minutes he walked to the local hospital ER and during walk the pain increased in severity to 8/10.||DRT FFF during FFF 11 11||INDICATION FFF the pain FFF 13 14||
+224-01||18||He describes the pain as similar to his previous MI.||INDICATION FFF the pain FFF 2 3||INDICATION FFF as FFF 4 4||INDICATION FFF mi. FFF 9 9||
+224-01||19||Upon arrival to FHO found to have ST elevations antero-lateral.||INDICATION FFF st FFF 7 7||
+224-01||20||Given lopressor, heparin, integrillin, morphine, ASA, and medivac to WCH arranged for cath.||DBN FFF lopressor, FFF 1 1||DIN FFF heparin, FFF 2 2||DIN FFF morphine, FFF 4 4||DIN FFF asa, FFF 5 5||
+224-01||21||He states that by the time he was in transit, his chest pain had resolved.||INDICATION FFF chest pain FFF 11 12||
+224-01||22||He arrived at WCH, was taken directly to cath lab, found to have a proximal LAD lesion with cypher stent placed.||INDICATION FFF cypher stent FFF 18 19||
+224-01||23||He remained chest pain free following the procedure and was sent to the CCU in stable condition.||INDICATION FFF chest pain FFF 2 3||
+224-01||24||At baseline he states he can walk    a couple    of miles without rest, he rarely takes stairs on a daily basis.||FREQ FFF daily FFF 19 19||
+224-01||25||He smokes profusely and has little interest in quitting.
+224-01||26||He feels he has had no occurrence of chest pain since last one.||INDICATION FFF chest pain FFF 8 9||
+224-01||27||However, he does report that his plavix was stopped recently, and he has difficulty affording all his medications.||DBN FFF plavix FFF 6 6||
+224-01||28||ROS:
+224-01||29||Gen: denies f/c/ns||INDICATION FFF f/c/ns FFF 2 2||INDICATION FFF f/c/ns FFF 2 2||
+224-01||30||HEENT: no dysphagia, throat pain||INDICATION FFF throat pain FFF 3 4||
+224-01||31||Chest: no cough, dyspnea||INDICATION FFF cough, FFF 2 2||INDICATION FFF dyspnea FFF 3 3||
+224-01||32||CV: denies orthopnea, pnd||INDICATION FFF orthopnea, FFF 2 2||
+224-01||33||GI: no hematochezia, melena
+224-01||34||Skin: no rash
+224-01||35||PMHx:
+224-01||36||CAD:||INDICATION FFF cad: FFF 0 0||
+224-01||37||Cath 1/73: 80% prox RCA stenosis w/ thrombus, mod D1 stenosis, clear Lcx.  LV gram EF 69%, normal motion.||DOSE FFF 80% FFF 2 2||INDICATION FFF stenosis FFF 5 5||INDICATION FFF thrombus, FFF 7 7||INDICATION FFF mod FFF 8 8||INDICATION FFF stenosis, FFF 10 10||INDICATION FFF lv FFF 13 13||INDICATION FFF ef FFF 15 15||DOSE FFF 69%, FFF 16 16||
+224-01||38||Cath 9/81: Critical proximal ramus lesion.  RCA with proximal 40% lesion, patent RCA stent.||DOSE FFF 40% FFF 9 9||INDICATION FFF stent. FFF 13 13||
+224-01||39||Patent left main, apical LAD with 99% lesion with L-L collaterals.||DOSE FFF 99% FFF 6 6||
+224-01||40||Cfx 35% mid lesion.||DOSE FFF 35% FFF 1 1||
+224-01||41||Normal LVEDP, no AS.||INDICATION FFF as. FFF 3 3||
+224-01||42||LVf 50-55%.||DOSE FFF 50-55%. FFF 1 1||
+224-01||43||Also with h/o RCA stent, unclear where procedure was done and patient unable to recall details.
+224-01||44||HTN||INDICATION FFF htn FFF 0 0||
+224-01||45||Hyperlipidemia||INDICATION FFF hyperlipidemia FFF 0 0||
+224-01||46||Medications on Admission:
+224-01||47||Toprol XL 75mg daily||DPN FFF toprol xl FFF 0 1||DOSE FFF 75mg FFF 2 2||FREQ FFF daily FFF 3 3||
+224-01||48||ASA 81mg daily||DIN FFF asa FFF 0 0||DOSE FFF 81mg FFF 1 1||FREQ FFF daily FFF 2 2||
+224-01||49||Plavix 75mg daily||DBN FFF plavix FFF 0 0||DOSE FFF 75mg FFF 1 1||FREQ FFF daily FFF 2 2||
+224-01||50||Lipitor (unknown dose)||DBN FFF lipitor FFF 0 0||DOSE FFF (unknown dose) FFF 1 2||
+224-01||51||MVI||DPN FFF mvi FFF 0 0||
+224-01||52||Allergies:||INDICATION FFF allergies: FFF 0 0||
+224-01||53||NKDA
+224-01||54||SH:||INDICATION FFF sh: FFF 0 0||
+224-01||55||Works as an IS consultant in East Liverpool.||INDICATION FFF as FFF 1 1||
+224-01||56||Also a counsellor.
+224-01||57||He has h/o drug/ETOH abuse but denies x 25 years.||DRT FFF 25 years. FFF 8 9||
+224-01||58||He is not married, no children.
+224-01||59||Tobacco: + for 40 years 2-4ppd.||DRT FFF 40 years FFF 3 4||
+224-01||60||FH:||INDICATION FFF fh: FFF 0 0||
+224-01||61||Mother: deceased in 60   s with leukemia||INDICATION FFF deceased FFF 1 1||INDICATION FFF leukemia FFF 6 6||
+224-01||62||Father: extensive CAD, with first MI in 50   s.||INDICATION FFF cad, FFF 2 2||INDICATION FFF mi FFF 5 5||
+224-01||63||Had MI x7, died in 70s.||INDICATION FFF mi FFF 1 1||FREQ FFF x7, FFF 2 2||
+224-01||64||Exam:   VS: T 97.2  HR 57  BP  102/62  RR 18  O2 96%||INDICATION FFF t FFF 2 2||DRT FFF 97.2 hr FFF 3 4||INDICATION FFF bp FFF 6 6||DOSE FFF 96% FFF 11 11||
+224-01||65||General:  obese, non-toxic appearing WM, NAD||INDICATION FFF obese, FFF 1 1||
+224-01||66||HEENT:   NC/AT, MM dry, OP clear without lesion to oral mucosa||INDICATION FFF mm FFF 2 2||INDICATION FFF op FFF 4 4||RUT FFF oral FFF 9 9||
+224-01||67||Skin: no evidence of rash, wound.||INDICATION FFF wound. FFF 5 5||
+224-01||68||Neck:   Supple, full ROM, 2+ carotids w/o bruits, no thyromegaly or nodules, no nodes||INDICATION FFF thyromegaly FFF 9 9||
+224-01||69||Chest:  CTA B, no crackles, rhonchi, wheeze.||INDICATION FFF wheeze. FFF 6 6||
+224-01||70||CVS:   PMI nondisplaced, RRR nl S1 S2, no m/r/g||DIN FFF m/r/g FFF 8 8||
+224-01||71||Abd:   Soft/nontender/non-distended
+224-01||72||Extr:   no c/c/e 2+ DP's bilaterally, no hematoma or bruit femoral B.
+224-01||73||Oozing from R femoral stick.
+224-01||74||Neuro: AAOX3, MS nl, non-focal/non-lateralizing.
+224-01||75||DATA:
+224-01||76||NA         133(L)||DIN FFF na FFF 0 0||DOSE FFF 133(l) FFF 1 1||
+224-01||77||K          3.9||INDICATION FFF k FFF 0 0||
+224-01||78||CL         107||INDICATION FFF cl FFF 0 0||
+224-01||79||CO2        22.4(L)
+224-01||80||BUN        11
+224-01||81||CRE        0.9
+224-01||82||GLU        230(H)||DIN FFF glu FFF 0 0||DOSE FFF 230(h) FFF 1 1||
+224-01||83||CK-MB      11.3(H)
+224-01||84||TROP-T     0.18(H)
+224-01||85||WBC        9.7
+224-01||86||RBC        4.14(L)
+224-01||87||HGB        13.5
+224-01||88||HCT        36.6(L)
+224-01||89||MCV        88
+224-01||90||MCH        32.7
+224-01||91||MCHC       37.0
+224-01||92||PLT        159
+224-01||93||RDW        13.1
+224-01||94||CXR:
+224-01||95||EKG:
+224-01||96||FHO presentation:
+224-01||97||Sinus at 80bpm, Left axis, normal intervals, 1-2mm ST elevations/hyperacute TW V2-V3, 1mm STelevation I/aVL, 1mm ST depression/TWI II/III/aVF.||INDICATION FFF 1-2mm FFF 7 7||INDICATION FFF st FFF 8 8||INDICATION FFF 1mm FFF 12 12||INDICATION FFF 1mm FFF 15 15||INDICATION FFF st depression/twi FFF 16 17||
+224-01||98||Admission to CCU s/p cath:
+224-01||99||Resolution of ST elevations I/aVL, persistent TWI aVL, Qwaves V2-V3, 1mm STE V2-V3, TW height has improved; ST depressions inferior leads have resolved.||INDICATION FFF st FFF 2 2||INDICATION FFF 1mm FFF 10 10||INDICATION FFF st FFF 17 17||

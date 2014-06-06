@@ -1,0 +1,84 @@
+256-02	1	Record date: 2150-04-20		 
+256-02	2	April 20, 2150		 
+256-02	3	Whitney Keller, MD		 
+256-02	4	980 Penny Lane		 
+256-02	5	Punta Gorda, OK  98634		 
+256-02	6	Re:  KLEIN, Michelle		 
+256-02	7	MRN: 2474410		 
+256-02	8	DOB: 8/6/2075		DIN FFF dob#0
+256-02	9	Dear Dr. Keller,		 
+256-02	10	Ms. Klein was seen in general neurology clinic today following her recent admission for complex migraine.		 
+256-02	11	Dr. Remigio Allison was present for or performed all salient aspects of the history and physical exam and together we discussed with the patient the work-up and treatment plan.		 
+256-02	12	We spent greater than 50% of the visit in education and counseling of the patient and family.		 
+256-02	13	HPI: As you know, Ms. Klein is a 74 yo RH woman with history of HTN, hyperlipidemia, CAD s/p LAD stent (2144), migraine, who was in her USOH until the afternoon of 2/6/50 when she experienced sudden onset of garbled speech and difficulty "expressing myself" while cooking lunch for she and her husband.  This episode was accompanied shortly thereafter by a dull, L fronto-temporal headache that persisted for several hours.  She states she did not have word-finding difficulties but simply had trouble articulating herself.   In particular she related several examples of semantic paraphasic errors.  The episode came on suddenly and lasted 1-2 hours before she resolved back to baseline.  In addition to headache, associated symptoms included generalized weakness, feeling cold and mildly nauseated.  She denied visual changes, chest pain, sob, palpitations, lightheadedness, vertigo, difficulty with swallowing, coordination or gait.  She describes having a glass of orange juice with the thought that her sugar might be low, without apparent effect.  She recalled one similar episode ~ 2 years ago at which time she had her husband drive her home and she went to bed.  The speech difficulty had resolved by morning, and she apparently never told her physician or had any further work-up.  She has no known history of seizures but migraines occur 1-2x/year, last 30 minutes to several hours and are typically preceeded by scintillating scotoma (   jagged horizontal lines   ), associated with nausea/photophobia, and relieved by sleep.		DIN FFF orange juice#146	DRT FFF 2 years#166	TOD FFF morning#189	INDICATION FFF seizures#208	DRT FFF several hours#218	INDICATION FFF nausea#233	INDICATION FFF photophobia#233	INDICATION FFF sleep#237
+256-02	14	Given her multiple vascular risk factors, she was admitted for TIA work-up which was unremarkable with the exception of mildly elevated HbA1c (7.0) including lipids, ESR, homocysteine, lipoprotein (a), TTE and holter.		 
+256-02	15	CT/CT-a and MRI did not show any evidence of acute stroke or significant cervical or intracranial arterial stenosis.		 
+256-02	16	She was discharged on her home medications, which included ASA 325mg po qd, with a diagnosis of complex migraine.		DIN FFF asa#9	DOSE FFF 325mg#10	RUT FFF po#11	FREQ FFF qd#12
+256-02	17	Since return home, she has had additional typical episodes of migraine, (about every 2 weeks) without the aphasia which brought her into the hospital.		 
+256-02	18	She has tried Excedrin migraine a few times recently, with good results.		DBN FFF excedrin migraine#4	DOSE FFF a#5
+256-02	19	ROS:  Sometimes    sees stars    when she stands up too quickly after bending over.		 
+256-02	20	Similarly feels that her balance is transiently affected when getting out of bed in the morning (   I rock   ).		DIN FFF balance#4	DRT FFF transiently#6	TOD FFF in the morning#15
+256-02	21	She is awaiting thyroid biopsy of the nodules incidentally discovered on CT-CT-a.		 
+256-02	22	Negative in detail including change in weight, energy, appetite, CP, palpitations, SOB, DOE, N/V/D/cough, fever, chills, rash, BRBPR, melena, abdominal pain, change in bowel or bladder habits.		 
+256-02	23	In addition, patient denies change in vision, hearing, tinnitus, vertigo, numbness, weakness, slurred speech, difficulty with language, swallowing, eating, or gait.		 
+256-02	24	Past Medical History:		 
+256-02	25	CAD s/p LAD stent 2144		 
+256-02	26	HTN		 
+256-02	27	Hyperlipidemia		 
+256-02	28	Migraine HA: +scintillating scotoma, +photophobia, +nauea, relieved with sleep.		 
+256-02	29	Familial tremor		 
+256-02	30	Nephrolithiasis		 
+256-02	31	S/p appendectomy		 
+256-02	32	S/p mastoid surgery as ahild		 
+256-02	33	S/p borderline DM		 
+256-02	34	Medications:		 
+256-02	35	ASA 325		DIN FFF asa#0
+256-02	36	Lipitor 10		DBN FFF lipitor#0
+256-02	37	Isordil		DBN FFF isordil#0
+256-02	38	Verapamil 240		DIN FFF verapamil#0
+256-02	39	Atenolol 25		DIN FFF atenolol#0
+256-02	40	Protonix 40		DBN FFF protonix#0
+256-02	41	HCTZ 12.5		DPN FFF hctz#0
+256-02	42	MVI		DPN FFF mvi#0
+256-02	43	B6/B12		 
+256-02	44	Allergies: Sulfa drugs cause hives, laryngeal edema		 
+256-02	45			 
+256-02	46	Social History: Lives at home with husband, mother of 4 children, works as performer.		 
+256-02	47	Denies tobacco, ETOH, or illicit drug use.		DIN FFF illicit drug#5
+256-02	48	Family History:  Father with history of asbestosis, construction.		 
+256-02	49	No known history of stroke or migraine.		 
+256-02	50	Physical Examination:		 
+256-02	51	VS:  AVSS		 
+256-02	52	GEN: WDWN, NAD		 
+256-02	53	HEENT: NC/AT, o/p clear, mmm, sclera anicteric		 
+256-02	54	Neck:  supple, no LAD, no JVD, no carotid or vertebral bruits		 
+256-02	55	Lungs:  cta b/l, no w/r/r		 
+256-02	56	Cor:  rr, nl s1s2, no m/r/g		DIN FFF cor#0
+256-02	56	Cor:  rr, nl s1s2, no m/r/g		DIN FFF m / r#5
+256-02	57	Ext:  wwp, no c/c/e		 
+256-02	58			 
+256-02	59	Neurologic Examination:		 
+256-02	60	MS:  Alert & oriented x3, following all commands.		 
+256-02	61	Speech fluent w/o paraphasic errors; comprehension, repetition, naming, reading, and writing intact.		 
+256-02	62	Memory: 3/3 w/o prompting at 5 min.		 
+256-02	63	WORLD, DOW backward without errors, serial 7's intact; No L/R confusion; able to salute and brush teeth with either hand.		 
+256-02	64	CN II-XII:   Fundi normal.		 
+256-02	65	Visual fields full to confrontation; pupils equal and reactive 3  2; no ptosis; Extraocular movements full without nystagmus; facial sensation normal; hearing intact to finger rub bilaterally; face, tongue and palate are symmetric; SCM and traps 5/5.		 
+256-02	66	Motor:   Normal bulk and tone.		 
+256-02	67	Strength 5/5 throughout including: biceps, triceps, brachioradialis, finger flexors and extensors, hip, knee and ankle flexors and extensors.  .  No pronator drift, cogwheeling or abnormal orbital movement.		 
+256-02	68	No fasciculations, no myoclonus.		 
+256-02	69	Sensation: Intact to light touch, pin prick, temperature, vibration and proprioception.		 
+256-02	70	No extinction.		 
+256-02	71	Reflexes:   Normal and symmetric with deep tendon reflexes 2+ at biceps, triceps, brachioradialis, patella and ankles.		 
+256-02	72	Plantar response downgoing bilaterally.		 
+256-02	73	No Hoffman.		 
+256-02	74	Cerebellar:   Finger-nose-finger, rapid alternating movements, heel  shin normal and symmetric b/l.		 
+256-02	75	Gait: Normal gait and stance.		 
+256-02	76	Posture, stride, arm-swing normal.		 
+256-02	77	Able to walk on heels and toes.		 
+256-02	78	Tandem gait intact.		 
+256-02	79	Romberg negative.		 
+256-02	80	Data:		 
+256-02	81	Chol 128		 
+256-02	82	HDL 55		 
+256-02	83	LDL 47		 

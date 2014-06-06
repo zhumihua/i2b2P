@@ -1,0 +1,125 @@
+364-01	1	Record date: 2118-07-04		 
+364-01	2	INTERN ADMIT NOTE		 
+364-01	3	DATE: 7/03/18		 
+364-01	4	TEAM: Internal Medicine		 
+364-01	5	CATHY TURK 24555		 
+364-01	6	PT NAME: Uribe, Walter		 
+364-01	7	RECORD NUMBER: 4067033		 
+364-01	8	PCP: none		 
+364-01	9	CODE STATUS: unknown		 
+364-01	10	CC/ID:  50yo man with DM and a 7-8 y h/o leg ulcers a/w venous stasis, p/w exacerbation of R calf ulcer.		 
+364-01	11	HPI: This 50 yo man with DM and venous stasis has had chronic leg ulcers for 7-8 yrs.		 
+364-01	12	The shallow ulcer on his right calf has been present for 5 months.		 
+364-01	13	In the past 2 weeks, the patient has noticed increased pain and malodorous drainage from the site.		 
+364-01	14	In the past he has been treated with antibiotics nad unaboots, but he cannot remember which antibiotics have been used in the past.		DIN FFF antibiotics#8
+364-01	14	In the past he has been treated with antibiotics nad unaboots, but he cannot remember which antibiotics have been used in the past.		DIN FFF antibiotics#16
+364-01	15	He denies fevers, chills, n/v/d/c, sweats, dysuria, weightloss or abd pain.		 
+364-01	16	He also mentions that he has a red rash on his right forearm, across his abdomen, on the anterior chest, and in the groin.		 
+364-01	17	Antifungal cream has been helpful for this in the past.		 
+364-01	18	Upon questioning, he reveals that he has had some mild left sided chest pain for 2 hours, which feels like a "pressure," non-radiating, and associated with shortness of breath.		 
+364-01	19	He sleeps on 4 pillows (but that has been stable for 10 yrs), has occasional palpitations, no diaphoresis, no n/v.		 
+364-01	20	PMH/PSH:		 
+364-01	21	Obstructive sleep apnea		 
+364-01	22	Copd		 
+364-01	23	Pulmonary hypertension		 
+364-01	24	02 at 2L NC at night at home		 
+364-01	25	htn		 
+364-01	26	NIDDM		 
+364-01	27	Venous stasis		 
+364-01	28	Chronic leg ulcers		 
+364-01	29	Morbid obesity		 
+364-01	30	Peripheral neuropathy		 
+364-01	31	Pneumonia x2		 
+364-01	32	MEDS:		 
+364-01	33	Verapamil 40 tid		DIN FFF verapamil#0	DOSE FFF 40#1	FREQ FFF tid#2
+364-01	34	Glyburide 5 qd		DIN FFF glyburide#0	DOSE FFF 5#1	FREQ FFF qd#2
+364-01	35	Asa 325 qd		DIN FFF asa#0	DOSE FFF 325#1	FREQ FFF qd#2
+364-01	36	Lasix 40 bid		DBN FFF lasix#0	DOSE FFF 40#1	FREQ FFF bid#2
+364-01	37	ALLERGIES: nkda		 
+364-01	38	FAMILY HX: noncontrib		 
+364-01	39	SOCIAL HX:  Tobacco: 44 pack years, quit 1 y ago		 
+364-01	40	EtOH: denies		 
+364-01	41	IVDA: denies		 
+364-01	42	Living situation: with wife in a single-level apt.		DIN FFF apt#7
+364-01	43	Work: disabled by sleep apnea x2 yrs.		 
+364-01	44	Used to drive a lot for work.		 
+364-01	45	REVIEW OF SYSTEMS: As per HPI.		 
+364-01	46	All other systems negative in detail.		 
+364-01	47	PHYSICAL EXAM:		 
+364-01	48	Vital Signs:  T 98.5 BP 110/70 P 88 RR 22 SaO2 91%RA		 
+364-01	49	Wt. 431.7 lbs.		 
+364-01	50	General: alert and oriented obese white male, NAD, grunts with minimal exertion.		 
+364-01	51	HEENT: MMM.		 
+364-01	52	PERRL.  EOMI.		 
+364-01	53	Neck: obese, no JVD appreciated.		 
+364-01	54	Lymphatics: no LAD appreciated		 
+364-01	55	Chest: CTAB		 
+364-01	56	CVS: overall regular rate and rhythm with ectopy, II/VI syst murmur.		 
+364-01	57	Abd: obese, pos bowel sounds, soft, nontender.		 
+364-01	58	Extremities: lower extremities with skin discoloration c/w venous stasis dermatitis.		 
+364-01	59	On the right calf there is a 5cm diameter surface erosion, which appears macerated and is weepy and foul-smelling.		 
+364-01	60	Neuro: nonfocal.		 
+364-01	61	Skin:  Light pink rash on right forearm, bilat pectoral patches, and a band across abdomen.		 
+364-01	62	Groin skin folds moist and mildly erythematous.		 
+364-01	63	LAB DATA: Chemistry Detail for URIBE, WALTER F		 
+364-01	64	HBH  BLOOD          04-Jul-2118 04:42  Accession# 1977U39928		 
+364-01	65	Test Description        Result   Flags           Ref. Range     Ref.		 
+364-01	66	Units		 
+364-01	67	Plasma Sodium          136                       135-145        mmol/L		DIN FFF sodium#1	DOSE FFF 136#2
+364-01	67	Plasma Sodium          136                       135-145        mmol/L		DIN FFF sodium#1	DOSE FFF 135-145mmol#4
+364-01	68	Plasma Potassium       3.9                       3.4-4.8        mmol/L		DIN FFF potassium#1	DOSE FFF 3.9#2
+364-01	68	Plasma Potassium       3.9                       3.4-4.8        mmol/L		DIN FFF potassium#1	DOSE FFF 3.4 - 4.8mmol#4
+364-01	69	Plasma Chloride        98         L              100-108        mmol/L		 
+364-01	70	Plasma Carbon Dioxide  31.5                      23.0-31.9      mmol/L		DIN FFF carbon dioxide#2	DOSE FFF 31.5#3
+364-01	70	Plasma Carbon Dioxide  31.5                      23.0-31.9      mmol/L		DIN FFF carbon dioxide#2	DOSE FFF 23.0 - 31.9mmol#5
+364-01	71	Calcium                8.8                       8.5-10.5       mg/dl		DIN FFF calcium#0	DOSE FFF 8.8#1
+364-01	71	Calcium                8.8                       8.5-10.5       mg/dl		DIN FFF calcium#0	DOSE FFF 8.5 - 10.5mg / dl#3
+364-01	72	Phosphorus             3.0                       2.6-4.5        mg/dl		 
+364-01	73	Magnesium              1.5                       1.4-2.0        meq/L		DIN FFF magnesium#0	DOSE FFF 1.5#1
+364-01	73	Magnesium              1.5                       1.4-2.0        meq/L		DIN FFF magnesium#0	DOSE FFF 1.4 - 2.0meq#3
+364-01	74	Plasma Urea Nitrogen   10                        8-25           mg/dl		DIN FFF nitrogen#2	DOSE FFF 10#3
+364-01	74	Plasma Urea Nitrogen   10                        8-25           mg/dl		DIN FFF nitrogen#2	DOSE FFF 8-25mg / dl#5
+364-01	74	Plasma Urea Nitrogen   10                        8-25           mg/dl		DIN FFF urea#1
+364-01	75	Plasma Creatinine      0.8                       0.6-1.5        mg/dl		 
+364-01	76	Plasma Glucose         110                       70-110         mg/dl		 
+364-01	77	Total Protein          8.8        H              6.0-8.3        g/dl		 
+364-01	78	Albumin                3.6                       3.3-5.0        g/dl		DIN FFF albumin#0	DOSE FFF 3.6#1
+364-01	78	Albumin                3.6                       3.3-5.0        g/dl		DIN FFF albumin#0	DOSE FFF 3.3 - 5.0g#3
+364-01	79	Globulin               5.2        H              2.6-4.1        g/dl		 
+364-01	80	Creatine Kinase Isoenz 1.8                       0.0-6.9        ng/ml		 
+364-01	81	CPK Isoenzymes Index                             0.0-3.5        %		 
+364-01	82	Result Text:		 
+364-01	83	CPK and/or CKMB too low to calculate Relative Index.		 
+364-01	84	Troponin-T             <0.01                     0.00-0.09      ng/ml		 
+364-01	85	Creatine Kinase        160                       60-400         U/L		 
+364-01	86	Hematology Detail for URIBE, WALTER F		 
+364-01	87	HBH  BLOOD          04-Jul-2118 04:08  Accession# 8187Y34368		 
+364-01	88	Test Description        Result   Flags           Ref. Range     Ref.		 
+364-01	89	Units		 
+364-01	90	WBC                    9.2                       4.5-11.0       th/cmm		 
+364-01	91	HCT                    40.7       L              41.0-53.0      %		 
+364-01	92	HGB                    13.7                      13.5-17.5      gm/dl		 
+364-01	93	RBC                    4.75                      4.50-5.90      mil/cmm		 
+364-01	94	PLT                    235                       150-350        th/cumm		 
+364-01	95	MCV                    86                        80-100         fl		 
+364-01	96	MCH                    28.8                      26.0-34.0      pg/rbc		 
+364-01	97	MCHC                   33.6                      31.0-37.0      g/dl		 
+364-01	98	RDW                    14.6       H              11.5-14.5      %		 
+364-01	99	DIFFERENTIAL REQUEST   RECEIVED		 
+364-01	100	Diff Method            Auto		 
+364-01	101	Poly                   70         H              40-70          %		 
+364-01	102	Lymphs                 19         L              22-44          %		 
+364-01	103	Monos                  7                         4-11           %		 
+364-01	104	EOS                    3                         0-8            %		 
+364-01	105	Basos                  1                         0-3            %		 
+364-01	106	Absolute Neuts         6.46                      1.8-7.7        th/cmm		 
+364-01	107	Absolute Lymphs        1.74                      1.0-4.8        th/cmm		 
+364-01	108	Absolute Monos         0.66       H              0.2-0.4        th/cmm		 
+364-01	109	Absolute EOS           0.26                      0.1-0.3        th/cmm		 
+364-01	110	Absolute Basos         0.05                      0.0-0.3        th/cmm		 
+364-01	111	Aniso                  None                      NORMAL		 
+364-01	112	Hypo                   None                      NORMAL		 
+364-01	113	Macrocytes             None		 
+364-01	114	Microcytes             None		 
+364-01	115	Confidential Material Please Handle Appropriately.		 
+364-01	116	U/A neg.		 

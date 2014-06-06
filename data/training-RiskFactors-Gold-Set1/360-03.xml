@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2077-06-16
+
+
+
+
+HALE MEMORIAL HOSPITAL
+Internal Medicine
+600 Dearborn Street
+Rayne, MI  82978
+
+							Geiger, Xander 
+							01729440
+							06/16/77 
+
+
+Mr. Geiger is a 75 year old man with a history of hypertension, 
+hyperlipidemia and panhypopituitarism who comes in today for 
+follow up of his blood pressure.  We have been titrating up his 
+blood pressure meds over the past week.  He is gone from 50mg of 
+atenolol to 75 to 100mg with steady improvement in his blood 
+pressure.  His current regimen is atenolol 100q.d., HCTZ 25 q.d., 
+lisinopril 20mg q.d.  The patient has had no dizziness or other 
+symptoms with increasing doses of atenolol.
+
+PHYSICAL EXAMINATION:  His blood pressure is 160/94.  Heart rate 
+is 64.  Carotids 2+ without bruits.  Lungs clear to auscultation 
+bilaterally.  Cardiac exam: regular rate and rhythm, normal S1, 
+S2 with no murmurs.  Abdomen is benign.  Extremities: no edema.  
+
+Laboratories:  Cholesterol from June 11, 2077: total 171, HDL 57, 
+LDL 86. 
+
+ASSESSMENT AND PLAN:  Mr. Geiger is a very pleasant 75 year old 
+man with hypertension, hyperlipidemia.
+1. 	Hypertension.  Blood pressure still elevated.  I will increase 
+lisinopril to 30mg q.d.  Will also check a set of electrolytes 
+at his next visit in 2 weeks when his blood pressure will be 
+followed up.
+2. 	Cholesterol.  Well controlled at this time.
+3. 	Health maintenance.  The patient denies any colonoscopy in the 
+past.  I do not see one on record or in his history.  We will 
+arrange a screening colonoscopy.  The patient has had recent 
+PSA of 2.8 and a normal prostate exam by me last year.  He is 
+due for annual physical next month and will schedule this. 
+
+
+
+Nathan Whaley, M.D.
+
+NW:burns:06-74086442.doc; DD: 6/16/77; DT: 6/17/77; DV: 6/16/77 
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC5" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC8" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC16" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC2" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC3" time="before DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC7" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC9" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC12" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC14" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC10" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC15" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC17" indicator="not present"/>
+    <SMOKER id="DOC13" status="unknown"/>
+  </TAGS>
+</root>

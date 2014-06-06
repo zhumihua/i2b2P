@@ -1,0 +1,57 @@
+337-03||1||Record date: 2085-08-31
+337-03||2||EDVISIT^78865189^GILLIS, BETTY^08/31/85^GUEVARA, ELIZABETH
+337-03||3||The patient was seen with Dr.
+337-03||4||Izaguirre.
+337-03||5||Resident's note was reviewed.
+337-03||6||The patient was seen and examined by me.||INDICATION FFF me. FFF 7 7||
+337-03||7||Please see the resident's note for details of the patient's past medical, social, family history, review of systems, and physical exam.
+337-03||8||CHIEF COMPLAINT:  EKG changes.
+337-03||9||HISTORY OF PRESENT ILLNESS:  This is a 73-year-old woman with a
+337-03||10||history of 2 ischemic strokes in the past, hypertension and high||INDICATION FFF strokes FFF 4 4||INDICATION FFF hypertension FFF 8 8||
+337-03||11||cholesterol who presents with 1-2 weeks of feeling tired after||INDICATION FFF cholesterol FFF 0 0||DRT FFF 1-2 weeks FFF 4 5||INDICATION FFF tired FFF 8 8||
+337-03||12||breakfast.
+337-03||13||She went into Copley Hospital with this complaint today, is a somewhat difficult historian but denies any chest pain, shortness of breath, diaphoresis, nausea, vomiting, arm pain, diarrhea, constipation, dyspnea on exertion, recent change in her medications or any other complaints.||INDICATION FFF chest pain, FFF 17 18||INDICATION FFF shortness of breath, FFF 19 21||INDICATION FFF nausea, FFF 23 23||INDICATION FFF vomiting, FFF 24 24||INDICATION FFF pain, FFF 26 26||INDICATION FFF diarrhea, FFF 27 27||INDICATION FFF constipation, FFF 28 28||INDICATION FFF dyspnea FFF 29 29||INDICATION FFF change FFF 33 33||
+337-03||14||Today, she had the symptoms and was seen at the outside office.||INDICATION FFF symptoms FFF 4 4||
+337-03||15||An EKG was performed there for which she was sent here with a reading of a T-wave inversion in V2 and V3.
+337-03||16||There seems to be lead placement problem V1 and
+337-03||17||V3.  Leads appeared ____, but there is a slight T-wave inversion
+337-03||18||in what would be V1 and V2, which seems to be new from prior EKG.
+337-03||19||Placement of leads could not be confirmed at CH.||INDICATION FFF ch. FFF 8 8||
+337-03||20||The patient was sent in here and arrived chest pain free and otherwise asymptomatic.||INDICATION FFF chest pain FFF 8 9||
+337-03||21||PAST MEDICAL HISTORY:  Hypertension, high cholesterol, COPD,||INDICATION FFF hypertension, FFF 3 3||INDICATION FFF cholesterol, FFF 5 5||INDICATION FFF copd, FFF 6 6||
+337-03||22||arthritis, ischemic strokes x2, GI bleed in the past,||INDICATION FFF arthritis, FFF 0 0||INDICATION FFF strokes FFF 2 2||FREQ FFF x2, FFF 3 3||INDICATION FFF gi bleed FFF 4 5||
+337-03||23||osteoporosis, and colon polyps.||INDICATION FFF osteoporosis, FFF 0 0||INDICATION FFF colon FFF 2 2||
+337-03||24||PAST SURGICAL HISTORY:  Bilateral total knee replacements.
+337-03||25||SOCIAL HISTORY:  She is a past smoker, never used drugs.||DIN FFF drugs. FFF 9 9||
+337-03||26||Lives alone.
+337-03||27||FAMILY HISTORY:  Unclear as the patient is adopted.||INDICATION FFF as FFF 3 3||
+337-03||28||REVIEW OF SYSTEMS:  Otherwise, negative except for some ____.
+337-03||29||MEDICATIONS:  The patient takes PPIs, Prilosec, calcium,||DBN FFF prilosec, FFF 5 5||DIN FFF calcium, FFF 6 6||
+337-03||30||atenolol, Aggrenox, iron, doxepin, Detrol, and simvastatin.||DIN FFF atenolol, FFF 0 0||DBN FFF aggrenox, FFF 1 1||DIN FFF iron, FFF 2 2||DIN FFF doxepin, FFF 3 3||DBN FFF detrol, FFF 4 4||DIN FFF simvastatin. FFF 6 6||
+337-03||31||ALLERGIES:  None.||INDICATION FFF allergies: FFF 0 0||
+337-03||32||PHYSICAL EXAMINATION:  She is afebrile, normal and stable vital
+337-03||33||signs.  Pulse 73 and blood pressure 129/80.||INDICATION FFF blood pressure FFF 4 5||
+337-03||34||Awake, alert, in no distress.
+337-03||35||Her exam is essentially unremarkable including clear and equal breath sounds, normal JVD and regular rate and rhythm.
+337-03||36||No murmurs on cardiac examination.
+337-03||37||Abdomen is soft and nontender.
+337-03||38||Skin is warm, dry, and intact except for some psoriatic lesions that are old.
+337-03||39||She has no pedal edema and the rest of her examination is essentially unremarkable.||INDICATION FFF edema FFF 4 4||
+337-03||40||EKG in the
+337-03||41||Emergency Department shows sinus rhythm at 65 with an upgoing
+337-03||42||T-waves in all the precordial leads.
+337-03||43||Laboratory examination reveals negative cardiac enzymes and is otherwise unremarkable.
+337-03||44||PTT 21 and INR 1.||INDICATION FFF ptt FFF 0 0||INDICATION FFF inr FFF 3 3||
+337-03||45||Chest x-ray shows no acute changes.
+337-03||46||EMERGENCY DEPARTMENT COURSE:  She was seen by the CH||INDICATION FFF ch FFF 8 8||
+337-03||47||cardiologist, Dr. Brock.
+337-03||48||In the Emergency Department, given the patient's vascular disease, the plan is to admit for 2 sets of enzymes and a stress in the morning.||DOSEAMT FFF 2 sets FFF 15 16||TOD FFF in the morning. FFF 22 24||
+337-03||49||She is well appearing at the time of admission.
+337-03||50||PRIMARY DIAGNOSIS:  EKG changes.
+337-03||51||______________________________
+337-03||52||GUEVARA, ELIZABETH M.D.
+337-03||53||D: 08/31/85
+337-03||54||T: 08/31/85||INDICATION FFF t: FFF 0 0||
+337-03||55||Dictated By: GUEVARA, ELIZABETH
+337-03||56||eScription document:9-9287507 BFFocus
+337-03||57||******** Not reviewed by Attending Physician ********

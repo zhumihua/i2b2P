@@ -1,0 +1,20 @@
+309-01||1||Record date: 2092-04-21
+309-01||2||NAME:     Wilson, Gabriel
+309-01||3||MRN:      8514931
+309-01||4||FOLLOW-UP VISIT
+309-01||5||CHIEF COMPLAINT:  Follow-up hypertension and diabetes.||INDICATION FFF hypertension FFF 3 3||INDICATION FFF diabetes. FFF 5 5||
+309-01||6||Currently on Cozaar 50 mg 2 tablets in the morning and atenolol 25 mg in the morning.||DBN FFF cozaar FFF 2 2||DOSE FFF 50 mg FFF 3 4||DOSEAMT FFF 2 tablets FFF 5 6||TOD FFF in the morning FFF 7 9||DIN FFF atenolol FFF 11 11||DOSE FFF 25 mg FFF 12 13||TOD FFF in the morning. FFF 14 16||
+309-01||7||She is taking her medication regularly.
+309-01||8||Over the past 2 weeks has had URI symptoms with nasal congestion, low grade fevers, and cough.||DRT FFF 2 weeks FFF 3 4||INDICATION FFF symptoms FFF 8 8||INDICATION FFF nasal congestion, FFF 10 11||INDICATION FFF low grade fevers, FFF 12 14||INDICATION FFF cough. FFF 16 16||
+309-01||9||The cough is minimally productive.||INDICATION FFF cough FFF 1 1||
+309-01||10||She does have mild myalgias but no nausea, vomiting, diarrhea.||INDICATION FFF nausea, FFF 7 7||INDICATION FFF vomiting, FFF 8 8||INDICATION FFF diarrhea. FFF 9 9||
+309-01||11||Symptoms are resolving spontaneously.||INDICATION FFF symptoms FFF 0 0||
+309-01||12||ON EXAM:  Blood pressure 150/98.||INDICATION FFF blood pressure FFF 2 3||
+309-01||13||Pharynx without lesions.
+309-01||14||No cervical adenopathy.
+309-01||15||Lungs:  Clear without wheezes, rhonchi or rales.||INDICATION FFF wheezes, FFF 3 3||
+309-01||16||Cardiac exam:
+309-01||17||Regular rate and rhythm; normal S1 and S2.
+309-01||18||Heart rate 60.||INDICATION FFF heart rate FFF 0 1||
+309-01||19||No diastolic murmur or gallop.
+309-01||20||No peripheral edema.||INDICATION FFF edema. FFF 2 2||

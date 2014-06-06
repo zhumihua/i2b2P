@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2115-12-14
+
+Physical exam:
+
+
+
+CC:
+
+
+
+
+
+HPI: Accompanied by sister in law Amelia Travis 220-523-4413 (h); 199-683-8353 (cell).
+
+54 y/o female with uncontrolled DM, HTN, hyperlipidemia, left breast suspicious masses, CVD, and recent hospitalization for CVA, here for follow up and adjustment of her meds.  She does not bring in her glucometer or log book.  She does bring in some of her meds.
+
+
+
+Denies change in appetite, problems sleeping, night sweats, fevers, headaches, visual changes, dysphagia, shortness of breath, orthopnea, PND, cough, chest pain, lower extremity edema, abdominal pain, nausea, vomiting, diarrhea, constipation, blood in stool, black stool, dysuria, nocturia, urinary or fecal incontinence, rashes, joint pain, or depressed mood. no vaginal discharge, no pelvic pain. 
+
+
+
+
+
+Problems
+
+s/p left leg surgery 2097 
+
+Diabetes mellitus type 2 
+
+Cerebrovascular disease : Multiple strokes on MRI
+
+Cerebrovascular accident : 11/15
+
+Hypertension 
+
+Hyperlipidemia 
+
+knowlege deficits 
+
+multiinfarct dementia? 
+
+sedentary lifestyle 
+
+poor dentition : multiple cavities 
+
+
+
+
+
+Medications
+
+Fragmin (DALTEPARIN SODIUM) 8500 UNITS SC Q12H , Anticoagulation as per Neurology- Thomas Javier MD. Stop on 12/17, 12/18,12/19, 12/20 for breast biopsy on 12/20.
+
+Metformin 500 mg po BID
+
+Lopressor 50 mg po BID
+
+
+
+Allergies
+
+NKA 
+
+
+
+
+
+SOCIAL HX:
+
+No tobacco, alcohol, or drug use.  Denies domestic violence.  Uses seat belts. Living with sister in law Amelia Travis and mother.
+
+
+
+PE:
+
+
+
+ 
+
+BP: 142/84    P-72
+
+
+
+GEN: Pleasant female in NAD.
+
+HEENT:  PERRL, no icterus or scleral injection
+
+OP: clear, no erythema or exudate
+
+Neck: supple, no lymph nodes, no thyromegaly, no thyroid nodules, no masses
+
+Lungs: CTA bilaterally
+
+LNs: no cervical lymphadenopathy.
+
+Heart: RRR, no MRG.  
+
+Abdomen: soft, non-tender, non-distended, BS present, no HSM, no Masses
+
+Extremities: No C/C/E
+
+Skin: no rashes, no irregular moles
+
+Neuro: EOMI, visual fields intact, CN II-XII intact, UE and LE reflexes 2+ and symmetrical.  Nonfocal.
+
+
+
+Labs:
+
+None.   
+
+
+
+Impression and Plan:
+
+
+
+1) Uncontrolled DM: Add Glipizide 5 mg po BID. Cont. Metformin 500 mg po BID. Check microalbumin. Re-emphasized importance of bringing in glucometer and BG log book along with all meds to each and every visit.  Check on referrals to ophthalmologist, podiatry, diabetic teaching nurse, nutrition.
+
+
+
+2) HTN: Add Lisinopril 5 mg po qd. 
+
+
+
+3) CVD s/p CVA: Stable. Cont. Fragmin 8500 units SQ BID as per neurology.  Follow up with neurology.
+
+
+
+4) Hyperlipidemia: Add lipitor 20 mg po qhs.
+
+
+
+5) Left breast masses: Biopsy on 12/20/15.  She is to stop Fragmin on 12/17/15 for this. 
+
+
+
+6)Poor dentition: Referral to dentistry.
+
+
+
+7) HM:
+
+
+
+Health Maintenance
+
+Cholesterol 11/25/2115 207 DESIRABLE: <200
+
+M-alb/creat ratio 12/14/2115 47.8 
+
+Mammogram 11/27/2115 BilDigDxMamoAll 
+
+Pap Smear 10/05/2115 2000
+
+Smoking status 10/05/2115 as teen-once
+
+UA-Protein 11/25/2115 NEGATIVE 
+
+HBA1C 12/14/2115 11.80 
+
+Urine Culture 11/25/2115 see report in Results 
+
+Triglycerides 11/25/2115 131 
+
+Cholesterol-LDL 11/25/2115 121 DESIRABLE: <130
+
+Microalbumin 12/14/2115 6.5 
+
+Bone Density 11/30/2115 BMD-Hip 
+
+Hct (Hematocrit) 11/27/2115 37.3 
+
+Domestic Violence Screening 10/05/2115 denies
+
+Complete Physical Exam 10/05/2115 Unremarkable
+
+Cholesterol-HDL 11/25/2115 60 
+
+Hgb (Hemoglobin) 11/27/2115 12.9 
+
+
+
+ 
+
+RTC 6 weeks
+
+
+
+
+
+_____________________________________________
+
+Richard A. Verlin-Urbina, M.D.
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC8" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC15" time="before DCT" indicator="high LDL"/>
+    <HYPERLIPIDEMIA id="DOC17" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC18" time="before DCT" indicator="mention"/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC12" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC14" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC20" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC21" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC9" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC19" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC16" indicator="not present"/>
+    <SMOKER id="DOC4" status="past"/>
+    <DIABETES id="DOC0" time="during DCT" indicator="A1C"/>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC13" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC22" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

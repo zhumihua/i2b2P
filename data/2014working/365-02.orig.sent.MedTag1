@@ -1,0 +1,62 @@
+365-02||1||Record date: 2071-04-11
+365-02||2||Burn Surgery Admission H&P   Date/Time: 4/11/71, 9am||INDICATION FFF burn FFF 0 0||INDICATION FFF surgery FFF 1 1||TOD FFF 9am FFF 6 6||
+365-02||3||****************************************************
+365-02||4||Name: Rivers, Karsten
+365-02||5||MRN# 95718084
+365-02||6||Resident: Gillis
+365-02||7||Attending: Michael
+365-02||8||****************************************************
+365-02||9||CC: burn to R foot||TOD FFF cc: FFF 0 0||INDICATION FFF burn FFF 1 1||
+365-02||10||HPI:
+365-02||11||44yo diabetic M with peripheral neuropathy, fell asleep in front of space heater approximately 3 weeks ago and noted swelling/blisters at tips of R 1st-3rd toes upon waking.||INDICATION FFF neuropathy, FFF 5 5||DRT FFF 3 weeks FFF 14 15||INDICATION FFF swelling/blisters FFF 19 19||
+365-02||12||His wounds have been managed until this time by his podiatrist and his mother (a former doctor) has been doing dressing changes at home- initially with silvadene but over the past several days with ?betadine as directed by his podiatrist.||DRT FFF until FFF 5 5||INDICATION FFF dressing changes FFF 20 21||DBN FFF silvadene FFF 26 26||DRT FFF several days FFF 31 32||DBN FFF ?betadine FFF 34 34||INDICATION FFF as FFF 35 35||
+365-02||13||The pt is a floor covering installer, and has been bearing weight on the R foot since his injury and admits that he has not been compliant wearing a heel boot.||INDICATION FFF weight FFF 11 11||
+365-02||14||He has not had fever/chills, nausea/emesis and in general feels well.||INDICATION FFF fever/chills, FFF 4 4||INDICATION FFF nausea/emesis FFF 5 5||INDICATION FFF nausea/emesis FFF 5 5||
+365-02||15||He has not had pain in the foot, but does have a significant neuropathy.||INDICATION FFF pain FFF 4 4||INDICATION FFF neuropathy. FFF 13 13||
+365-02||16||His podiatrist recommended that he be evaluated by plastic/burn surgery and he presents to burn clinic for further evaluation. --||INDICATION FFF plastic/burn FFF 8 8||INDICATION FFF surgery FFF 9 9||INDICATION FFF burn FFF 14 14||
+365-02||17||PMHx:
+365-02||18||NIDDM||INDICATION FFF niddm FFF 0 0||
+365-02||19||HTN||INDICATION FFF htn FFF 0 0||
+365-02||20||dyslipidemia
+365-02||21||PSHx:
+365-02||22||R shoulder
+365-02||23||L hip
+365-02||24||umbilical hernia
+365-02||25||Meds:
+365-02||26||toprol xl 100 qd||DPN FFF toprol xl FFF 0 1||FREQ FFF qd FFF 3 3||
+365-02||27||glucophage 1000 bid||DBN FFF glucophage FFF 0 0||DOSE FFF 1000 FFF 1 1||FREQ FFF bid FFF 2 2||
+365-02||28||neurontin 400 bid||DBN FFF neurontin FFF 0 0||DOSE FFF 400 FFF 1 1||FREQ FFF bid FFF 2 2||
+365-02||29||minoxidil 10 qd||DIN FFF minoxidil FFF 0 0||DOSE FFF 10 FFF 1 1||FREQ FFF qd FFF 2 2||
+365-02||30||lipitor 20 qd||DBN FFF lipitor FFF 0 0||DOSE FFF 20 FFF 1 1||FREQ FFF qd FFF 2 2||
+365-02||31||lasix 20 qd||DBN FFF lasix FFF 0 0||DOSE FFF 20 FFF 1 1||FREQ FFF qd FFF 2 2||
+365-02||32||avalide 300/12.5 qd||DIN FFF avalide 300/12.5 FFF 0 1||FREQ FFF qd FFF 2 2||
+365-02||33||ASA 81 qd||DIN FFF asa FFF 0 0||DOSE FFF 81 FFF 1 1||FREQ FFF qd FFF 2 2||
+365-02||34||cipro 500 bid||DBN FFF cipro FFF 0 0||DOSE FFF 500 FFF 1 1||FREQ FFF bid FFF 2 2||
+365-02||35||All: Augmentin- rash||DBN FFF augmentin- FFF 1 1||
+365-02||36||SHx:
+365-02||37||smoker
+365-02||38||--
+365-02||39||PE:||INDICATION FFF pe: FFF 0 0||
+365-02||40||General: AOx3, NAD
+365-02||41||Chest: CTA B
+365-02||42||Heart: RRR
+365-02||43||Abdomen: obese, NT/ND||INDICATION FFF obese, FFF 1 1||
+365-02||44||Extremities: wwp, +3rd degree burns with areas of grey eschar at tips of 1st-3rd toes on R extending to plantar surfaces; some areas of pink granulating tissue.  + surrounding erythema- does not extend beyond toes onto foot, most significant on 3rd toe.  +wound on lat surface of 4th toe (site of recent corn removal per pt)- clean with no erythema/drainage||INDICATION FFF burns FFF 4 4||INDICATION FFF erythema- FFF 29 29||INDICATION FFF +wound FFF 42 42||INDICATION FFF erythema/drainage FFF 59 59||
+365-02||45||Pulses: dp/pt 2+ bilaterally||INDICATION FFF dp/pt FFF 1 1||
+365-02||46||--
+365-02||47||Labs:
+365-02||48||pending
+365-02||49||EKG: pending
+365-02||50||--
+365-02||51||Imaging:
+365-02||52||CXR: pending
+365-02||53||--
+365-02||54||Assessment:
+365-02||55||44yo M with 3rd degree burn to R 1st/2nd/3rd toes and superimposed cellulitis.||INDICATION FFF burn FFF 5 5||INDICATION FFF 1st/2nd/3rd FFF 8 8||INDICATION FFF cellulitis. FFF 12 12||
+365-02||56||--
+365-02||57||Plan:
+365-02||58||Admit to Michael/burn service||INDICATION FFF michael/burn FFF 2 2||
+365-02||59||triple abx, leg elevation at all times, NWB RLE||DPN FFF abx, FFF 1 1||
+365-02||60||dressing changes with silvadine/gauze bid||INDICATION FFF dressing changes FFF 0 1||FREQ FFF bid FFF 4 4||
+365-02||61||OR for debridement/possible grafting when celluliltis improves; f/u labs, UA, CXR, EKG||INDICATION FFF debridement/possible FFF 2 2||INDICATION FFF f/u FFF 7 7||INDICATION FFF ua, FFF 9 9||
+365-02||62||--

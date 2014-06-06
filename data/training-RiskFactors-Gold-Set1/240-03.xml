@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2096-08-09
+
+
+
+	CARDIOLOGY
+
+	
+
+	YORK CONVALESCENT HOSPITAL
+
+	
+
+
+
+	Reason for visit:
+
+   chest pain
+
+
+
+	Interval History:
+
+   Cardiologist:  Hall
+
+
+
+Mr. Innis is a 77 y/o man with h/o CAD s/p LAD stenting (Taxus Express 3.0x16mm) in 3/95.  All other vessels had only minimal irregularities.  Since that time, he has had only mild chest discomfort which is always relieved with nitroglycerin.  
+
+
+
+This morning, he had a more severe episode of chest pain accompanied by SOB and diaphoresis that started when walking to the dock after starting his boat.  The pain was primarily in his back, similar to his angina prior to stenting.  The pain lasted for approximately 30 min despite SL NTG, although did go away eventually.  He had diaphoresis, SOB, and blurred vision associated with the pain.  He was brought to the ED by his family.  On arrival, he was pain free. P 60 BP 110/70.  He was treated with ASA and Lopressor.  EKG was unremarkable.  Two sets of markers were negative.  He is admitted to complete rule out MI and further diagnostic testing.
+
+
+
+He currently denies pain and feels back to his baseline.  He denies orthopnea, PND, LE swelling, + occasional palpitations, no syncope/near syncope.
+
+
+
+
+
+
+
+	Past medical history:
+
+   CAD as detailed above
+
+COPD - followed by Dr. Yamashita, recently treated for H influenzae PNA
+
+HTN
+
+Hyperlipidemia
+
+BPH
+
+
+
+
+
+	Medications (Confirmed):
+
+	
+
+Combivent  120/21mcg/spray inh qid
+
+doxycycline  100mg po bid x 14 days
+
+Ecotrin  325mg po daily
+
+furosemide  20mg po daily
+
+isosorbide mononitrate  30 mg sr po bid
+
+K dur  20meq po daily
+
+lisinopril  20mg po daily
+
+nitroglycerin  0.4 mg sl every 5 minutes PRN chest pain
+
+Plavix  75mg po daily
+
+Proscar  5mg po daily
+
+simvastatin  80mg po qpm
+
+Singulair  10mg po daily
+
+terazosin  10 mg po bid
+
+Toprol xl  25 mg po daily
+
+	
+
+	Allergies:
+
+	
+
+No known drug allergy
+
+
+
+	Family history:
+
+   noncontributing
+
+
+
+	Social history:
+
+   married, 5 children, former smoker - quit in 2060s, occasional EtOH
+
+
+
+	Review of systems:
+
+   + chronic cough, + BPH sx, otherwise negative in detail unless mentioned in HPI
+
+
+
+Physical examination:
+
+	
+
+-BMI: 33.4  Obese, high risk
+
+-Pulse: 60  
+
+-resp. rate: 18  93% on RA
+
+-height: 64  in.
+
+-weight: 200  lbs.
+
+-General:   No acute distress.
+
+-HEENT:   Unremarkable
+
+-Neck:   Carotids 2+ without bruits. JVP no jugular venous distention.
+
+-Chest:   Few end expiratory wheezes.  Otherwise, CTA bilaterally
+
+-Cardiac:   S4 with a  normal S1 and S2, but no S3 or murmurs.  No JVD.  Carotid upstroke is brisk bilaterally.
+
+-Abdomen:   NABS, obese, soft, NT.
+
+-Extremities:   No edema, 2  dp and pt pulses, 2+ femoral pulses without bruits.
+
+-BP: 162/55  
+
+-temp: 97.5  
+
+
+
+	EKG:
+
+   NSR, TWNL.  Unchanged compared to prior.
+
+
+
+Selected recent labs:
+
+	 Metabolic
+
+Date     NA       K        CL       CO2      BUN      CRE      GLU      CA       PHOS     MG       
+
+08/09/96 141      4.3      109      28.7     24       1.1      129      8.8      3.0      1.5      
+
+
+
+Cardiac enzymes
+
+Date     CK-MB    TROP-I   
+
+08/09/96 NEGATIVE NEGATIVE 
+
+
+
+Hematology
+
+Date     HCT      WBC      PLT      
+
+08/09/96 33.4     7.3      172      
+
+
+
+Coagulation
+
+Date     PT       PT-INR   PTT      
+
+08/09/96 11.2     0.9      27.0     
+
+
+
+
+
+	
+
+
+
+	Other Data:
+
+   CXR:  Clear lungs.
+
+
+
+	Assessment and plan:
+
+   Mr. Innis presents with a single episode of chest pain, similar to but more severe than his usual angina.  His EKG is unchanged, and his cardiac markers are negative.
+
+
+
+Plan:
+
+1.  CP/CAD - continue to rule out with third set of markers; continue ASA, Plavix, Bblocker, statin.  Telemetry.  NPO after midnight for possible stress test in am.
+
+
+
+2.  Anemia - guaiac stools, anemia labs, send blood bank sample.
+
+
+
+3.  HTN - due for pm Lisinopril dose.  Continue home meds
+
+
+
+4.  COPD - appears at baseline.  Continue home meds
+
+
+
+Further plans in AM per Dr. Hall.
+
+
+
+	
+
+Fatema B. Wilkins, MD pager #80121
+
+	
+
+Signed electronically by  Fatema B. Wilkins, MD
+
+Document Status: Final
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC12" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC23" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC28" time="before DCT" indicator="mention"/>
+    <OBESE id="DOC4" time="after DCT" indicator="mention"/>
+    <OBESE id="DOC21" time="before DCT" indicator="mention"/>
+    <OBESE id="DOC29" time="during DCT" indicator="mention"/>
+    <OBESE id="DOC33" time="during DCT" indicator="BMI"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC8" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC11" time="during DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC14" time="after DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC16" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC20" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC25" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC26" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC30" time="before DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC32" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC34" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC13" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC15" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC31" time="before DCT" indicator="mention"/>
+    <CAD id="DOC17" time="after DCT" indicator="mention"/>
+    <CAD id="DOC19" time="before DCT" indicator="symptom"/>
+    <CAD id="DOC24" time="during DCT" indicator="mention"/>
+    <CAD id="DOC27" time="before DCT" indicator="event"/>
+    <CAD id="DOC35" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC22" indicator="not present"/>
+    <SMOKER id="DOC5" status="past"/>
+  </TAGS>
+</root>

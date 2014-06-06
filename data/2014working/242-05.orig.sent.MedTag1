@@ -1,0 +1,46 @@
+242-05||1||Record date: 2074-11-12
+242-05||2||EDVISIT^85588852^Louis, Robert^11/12/74^HANEY, ULYSSES
+242-05||3||I have interviewed and examined the patient, reviewed the
+242-05||4||resident's, Dr. Burton', documentation, and concur except as||INDICATION FFF as FFF 7 7||
+242-05||5||noted.
+242-05||6||HISTORY OF PRESENT ILLNESS:  This is a 71-year-old male who
+242-05||7||presents complaining of acute onset of chest pain and shortness||INDICATION FFF chest pain FFF 6 7||
+242-05||8||of breath.
+242-05||9||The patient has a history of hypertension, diabetes, and a prior MRI who was brought in by Emergency Medical Services for waking at 6:00 a.m. with chest pain radiating to the left arm associated with shortness of breath.||INDICATION FFF hypertension, FFF 6 6||INDICATION FFF diabetes, FFF 7 7||TOD FFF a.m. FFF 24 24||INDICATION FFF chest pain FFF 26 27||INDICATION FFF shortness of breath. FFF 35 37||
+242-05||10||Denied nausea or vomiting, had no fevers or chills.||INDICATION FFF nausea FFF 1 1||INDICATION FFF vomiting, FFF 3 3||INDICATION FFF fevers FFF 6 6||
+242-05||11||He received by EMS 2 baby aspirin as well as 40 of Lasix for bibasilar crackles noted by them in the Emergency Department.||INDICATION FFF ems FFF 3 3||DIN FFF baby aspirin FFF 5 6||INDICATION FFF as FFF 7 7||INDICATION FFF as FFF 9 9||DBN FFF lasix FFF 12 12||
+242-05||12||The patient's old chart was evaluated which revealed an echo on 11/06/2074 with an EF of 25%, cardiac catheterization in October 2072 with 30% RCA lesion, and Holter in January 2072 which showed atrial tachycardia runs.||INDICATION FFF ef FFF 14 14||DOSE FFF 25%, FFF 16 16||INDICATION FFF cardiac catheterization FFF 17 18||DOSE FFF 30% FFF 23 23||
+242-05||13||SOCIAL HISTORY, FAMILY HISTORY, REVIEW OF SYSTEMS, MEDICATIONS,
+242-05||14||AND ALLERGIES:  As noted.||INDICATION FFF allergies: FFF 1 1||INDICATION FFF as FFF 2 2||
+242-05||15||Of note, the patient is an active smoker.
+242-05||16||PHYSICAL EXAMINATION:  In the Emergency Department, the patient
+242-05||17||was awake and alert, moderately ill appearing in mild-to-moderate
+242-05||18||discomfort.
+242-05||19||Pulse 90, respirations 20, blood pressure 157/90, and saturating 97%.||INDICATION FFF blood pressure FFF 4 5||DOSE FFF 97%. FFF 9 9||
+242-05||20||HEENT:  Atraumatic, normocephalic.
+242-05||21||Oropharynx clear, moist mucous membranes.
+242-05||22||Neck:  Supple with no meningismus.
+242-05||23||Flat neck veins.
+242-05||24||Respirations showed crackles third of the way up bilaterally with no rhonchi, rales, or wheezes.||INDICATION FFF wheezes. FFF 14 14||
+242-05||25||Cardiovascularly, regular rate and rhythm without murmurs, rubs, or gallops, 2+ pulses in all extremities.
+242-05||26||Rectal:
+242-05||27||Heme-negative brown stool.
+242-05||28||Abdomen:  Soft and nontender without rebound or guarding.
+242-05||29||Skin:  Warm, well perfused without petechiae or lesions.
+242-05||30||No edema, no calf or thigh tenderness, and no CVA tenderness.||INDICATION FFF edema, FFF 1 1||INDICATION FFF cva FFF 9 9||
+242-05||31||Neurologically, alert and oriented x3, normal mood and affect, and no sensory or motor deficits.||FREQ FFF x3, FFF 4 4||
+242-05||32||LABORATORY DATA:  In the Emergency Department, the patient had an
+242-05||33||EKG, which was sinus with ST elevations in leads II, III, and||INDICATION FFF st FFF 5 5||
+242-05||34||aVF; when compared with prior, these were new.
+242-05||35||Additionally, he had T wave inversions in leads I and aVL.||INDICATION FFF t FFF 3 3||
+242-05||36||The Cardiac Catheterization fellow was notified at 7:55.||INDICATION FFF cardiac catheterization FFF 1 2||
+242-05||37||Dr.
+242-05||38||Brock was at the bedside at 8:03.||RUT FFF bedside FFF 4 4||
+242-05||39||The patient received aspirin, no beta-blockers given, he has apparent heart failure, and  ******** Not reviewed by Attending Physician ********||DIN FFF aspirin, FFF 3 3||INDICATION FFF heart failure, FFF 10 11||
+242-05||40||ST elevation MI.||INDICATION FFF st elevation FFF 0 1||INDICATION FFF mi. FFF 2 2||
+242-05||41||______________________________
+242-05||42||HANEY, ULYSSES
+242-05||43||D: 11/12/74
+242-05||44||T: 11/12/74||INDICATION FFF t: FFF 0 0||
+242-05||45||Dictated By: HANEY, ULYSSES
+242-05||46||eScription document:7-9722432 BFFocus

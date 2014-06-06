@@ -1,0 +1,40 @@
+285-02||1||Record date: 2095-12-24
+285-02||2||Grafton State Physician Group
+285-02||3||567 Derby Circle                                    OGRADY, MICHAEL
+285-02||4||Tbilisi, OR 91623                            28297534
+285-02||5||575-433-3737, 128-526-1384                                           12/24/95
+285-02||6||HISTORY OF PRESENT ILLNESS:  Mr. Ogrady is a 66-year-old gentleman who is coming in to Grafton Clinic to establish care and to discuss several medical issues.
+285-02||7||1.  Pain.
+285-02||8||He has whole body pain, mostly in his abdomen and his leg, and this has been longstanding for 2 years' time.
+285-02||9||Has been treating with Percocet initially at about 3-4 per day but most recently, as high as 6 per day and in fact, 6 per day is the average.||DBN FFF percocet FFF 4 4||FREQ FFF per day FFF 9 10||INDICATION FFF as FFF 14 14||
+285-02||9||Has been treating with Percocet initially at about 3-4 per day but most recently, as high as 6 per day and in fact, 6 per day is the average.||DIN FFF as 6 FFF 16 17||FREQ FFF per day FFF 18 19||FREQ FFF per day FFF 24 25||
+285-02||10||He was seen in the pain clinic and was started on Neurontin.||INDICATION FFF the pain FFF 4 5||DBN FFF neurontin. FFF 11 11||
+285-02||11||It is unclear how compliant he has been with that regimen.
+285-02||12||Dr. Hoover has been renewing his Percocet prescriptions.||DBN FFF percocet FFF 6 6||
+285-02||13||He has had a CAT scan done in the past because of a history of esophageal cancer, which showed no evidence of cancer or no other etiology for his pain. 2.  Esophageal cancer status post resection by Dr. Patton.  He has been doing okay from that standpoint, is followed up with Dr. Yan.  The last CT scan was in June 2095 that showed some pulmonary nodules and a renal cyst that needed followup.  He has not yet had a repeat CT scan that was scheduled for yesterday, and he did not go to the appointment because he wants to do it at the Cancer Center where he feels more relaxed. 3.  Coronary artery disease.  He is status post an MI in 2084.  He has had several angiograms but no angioplasties by his report.  He is followed by Dr. Mckee at the Trimont Health Care Center. 4.  Status post fem-pop bypass of the left side.  He says he has been having increasing pain over the last several years on that side, which is why he takes the Percocet.||DBN FFF percocet. FFF 176 176||
+285-02||14||PAST MEDICAL HISTORY:  Significant for coronary artery disease and diabetes mellitus with unclear control.
+285-02||15||His last hemoglobin A1c was 6.5 and that was in 10/94.
+285-02||16||Status post cholecystectomy, status post appendectomy, esophageal cancer status post resection, and history of idiopathic thrombocytopenia.
+285-02||17||MEDICATIONS:  Diovan 80 mg p.o. b.i.d., metformin 1000 mg p.o. b.i.d. diltiazem 240 mg p.o. q.d., Lipitor 20 mg p.o. q.d., Prilosec 20 mg p.o. b.i.d.  Percocet 5/325 six times per day, Dyazide 37.5/25 one time p.o. q.d., isosorbide 60 mg p.o. q.d., and Lopressor 125 mg  p.o. q.d.||DBN FFF diovan FFF 1 1||DOSE FFF 80 mg FFF 2 3||RUT FFF p.o. FFF 4 4||FREQ FFF b.i.d., FFF 5 5||
+285-02||17||MEDICATIONS:  Diovan 80 mg p.o. b.i.d., metformin 1000 mg p.o. b.i.d. diltiazem 240 mg p.o. q.d., Lipitor 20 mg p.o. q.d., Prilosec 20 mg p.o. b.i.d.  Percocet 5/325 six times per day, Dyazide 37.5/25 one time p.o. q.d., isosorbide 60 mg p.o. q.d., and Lopressor 125 mg  p.o. q.d.||DIN FFF metformin FFF 6 6||DOSE FFF 1000 mg FFF 7 8||RUT FFF p.o. FFF 9 9||FREQ FFF b.i.d. FFF 10 10||
+285-02||17||MEDICATIONS:  Diovan 80 mg p.o. b.i.d., metformin 1000 mg p.o. b.i.d. diltiazem 240 mg p.o. q.d., Lipitor 20 mg p.o. q.d., Prilosec 20 mg p.o. b.i.d.  Percocet 5/325 six times per day, Dyazide 37.5/25 one time p.o. q.d., isosorbide 60 mg p.o. q.d., and Lopressor 125 mg  p.o. q.d.||DIN FFF diltiazem FFF 11 11||DOSE FFF 240 mg FFF 12 13||RUT FFF p.o. FFF 14 14||FREQ FFF q.d., FFF 15 15||
+285-02||17||MEDICATIONS:  Diovan 80 mg p.o. b.i.d., metformin 1000 mg p.o. b.i.d. diltiazem 240 mg p.o. q.d., Lipitor 20 mg p.o. q.d., Prilosec 20 mg p.o. b.i.d.  Percocet 5/325 six times per day, Dyazide 37.5/25 one time p.o. q.d., isosorbide 60 mg p.o. q.d., and Lopressor 125 mg  p.o. q.d.||DBN FFF lipitor FFF 16 16||DOSE FFF 20 mg FFF 17 18||RUT FFF p.o. FFF 19 19||FREQ FFF q.d., FFF 20 20||
+285-02||17||MEDICATIONS:  Diovan 80 mg p.o. b.i.d., metformin 1000 mg p.o. b.i.d. diltiazem 240 mg p.o. q.d., Lipitor 20 mg p.o. q.d., Prilosec 20 mg p.o. b.i.d.  Percocet 5/325 six times per day, Dyazide 37.5/25 one time p.o. q.d., isosorbide 60 mg p.o. q.d., and Lopressor 125 mg  p.o. q.d.||DBN FFF prilosec FFF 21 21||DOSE FFF 20 mg FFF 22 23||RUT FFF p.o. FFF 24 24||FREQ FFF b.i.d. FFF 25 25||
+285-02||17||MEDICATIONS:  Diovan 80 mg p.o. b.i.d., metformin 1000 mg p.o. b.i.d. diltiazem 240 mg p.o. q.d., Lipitor 20 mg p.o. q.d., Prilosec 20 mg p.o. b.i.d.  Percocet 5/325 six times per day, Dyazide 37.5/25 one time p.o. q.d., isosorbide 60 mg p.o. q.d., and Lopressor 125 mg  p.o. q.d.||DBN FFF percocet 5/325 FFF 26 27||FREQ FFF six times per day, FFF 28 31||
+285-02||17||MEDICATIONS:  Diovan 80 mg p.o. b.i.d., metformin 1000 mg p.o. b.i.d. diltiazem 240 mg p.o. q.d., Lipitor 20 mg p.o. q.d., Prilosec 20 mg p.o. b.i.d.  Percocet 5/325 six times per day, Dyazide 37.5/25 one time p.o. q.d., isosorbide 60 mg p.o. q.d., and Lopressor 125 mg  p.o. q.d.||DBN FFF dyazide FFF 32 32||DOSE FFF 37.5/25 FFF 33 33||RUT FFF p.o. FFF 36 36||FREQ FFF q.d., FFF 37 37||
+285-02||17||MEDICATIONS:  Diovan 80 mg p.o. b.i.d., metformin 1000 mg p.o. b.i.d. diltiazem 240 mg p.o. q.d., Lipitor 20 mg p.o. q.d., Prilosec 20 mg p.o. b.i.d.  Percocet 5/325 six times per day, Dyazide 37.5/25 one time p.o. q.d., isosorbide 60 mg p.o. q.d., and Lopressor 125 mg  p.o. q.d.||DIN FFF isosorbide FFF 38 38||DOSE FFF 60 mg FFF 39 40||RUT FFF p.o. FFF 41 41||FREQ FFF q.d., FFF 42 42||
+285-02||17||MEDICATIONS:  Diovan 80 mg p.o. b.i.d., metformin 1000 mg p.o. b.i.d. diltiazem 240 mg p.o. q.d., Lipitor 20 mg p.o. q.d., Prilosec 20 mg p.o. b.i.d.  Percocet 5/325 six times per day, Dyazide 37.5/25 one time p.o. q.d., isosorbide 60 mg p.o. q.d., and Lopressor 125 mg  p.o. q.d.||DBN FFF lopressor FFF 44 44||DOSE FFF 125 mg FFF 45 46||RUT FFF p.o. FFF 47 47||FREQ FFF q.d. FFF 48 48||
+285-02||18||SOCIAL HISTORY:  Lives with his wife.
+285-02||19||He is retired.
+285-02||20||He used to smoke, quit in 2084.
+285-02||21||Smoked for 20 years 2 packs per day.
+285-02||22||No alcohol, no drugs.||DIN FFF drugs. FFF 3 3||
+285-02||23||FAMILY HISTORY:  Mother died of cancer, unclear what type.
+285-02||24||Father died of an MI and had diabetes mellitus.
+285-02||25||REVIEW OF SYSTEMS:  Comprehensive review of systems was done and reveals that that he has chronic abdominal pain that is unchanged, occasional chest pain, and chest palpitations that has been evaluated by his cardiologist.
+285-02||26||No fevers or chills.
+285-02||27||No burning or pain with urination.
+285-02||28||The rest of the review of systems was negative.
+285-02||29||PHYSICAL EXAMINATION:  Today, his blood pressure is 122/80 and his pulse is 80.
+285-02||30||His height is 6 feet and his weight is 230 pounds.
+285-02||31||In general, he is in no acute distress.

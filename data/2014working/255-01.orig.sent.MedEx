@@ -1,0 +1,94 @@
+255-01	1	Record date: 2063-11-28		 
+255-01	2	HPI		 
+255-01	3	51 yo F with MMP comes to establish primary care as she is unhappy with the cre she is geting at CityMemorial.		 
+255-01	4	She was 40 mislate to her appt and time was limited.		 
+255-01	5	She has multiple medical problems for which she is on a variety of medications, none o which she has taken x1 month as she ran out of refills. 1. CVA-She reports 3-4 mos ago she had a stroke (she was told there was a clot in her brain) which left the L side of her face paralyzed and some residual weakness in her LUE. She also notes her handwriting has completely changed since. Since the stroke she has had multiple episodes during which her tongue becomes very heavy and she has difficulty speaking (distinctly different from her now mildly imapired baseline) At these times she feel somewhat confused and her L vison seems blurry. This has happened 4-5 times and lasts all day. er family has encouraged her to seek medical care but she has refused bc she did not think they would do antyhing for her. Of note, pt has not been on ASA as it was d/cd when she changed to celebrex. Pt also c/o memory loss that started even before the CVA. 2. CAD-She reports a h/o multiple MIs, incl cardiac cath x2, unknown if she had intevention, she thinks the last was about 1 yr ago. She has stable 3 pillow orthopnea. She becomes SOB when she climbs 5 steps and gets SOB sometimes when she walks, which resolves ith rest, but she is able to walk a fair amt still (cannot pin down how much).  She denies CP with exertion, did have CP with her MIs. She says smx she has lower and upper extremity edema. She has not had a recent ETT.		DIN FFF asa#154	INDICATION FFF as#155	INDICATION FFF cd#158
+255-01	5	She has multiple medical problems for which she is on a variety of medications, none o which she has taken x1 month as she ran out of refills. 1. CVA-She reports 3-4 mos ago she had a stroke (she was told there was a clot in her brain) which left the L side of her face paralyzed and some residual weakness in her LUE. She also notes her handwriting has completely changed since. Since the stroke she has had multiple episodes during which her tongue becomes very heavy and she has difficulty speaking (distinctly different from her now mildly imapired baseline) At these times she feel somewhat confused and her L vison seems blurry. This has happened 4-5 times and lasts all day. er family has encouraged her to seek medical care but she has refused bc she did not think they would do antyhing for her. Of note, pt has not been on ASA as it was d/cd when she changed to celebrex. Pt also c/o memory loss that started even before the CVA. 2. CAD-She reports a h/o multiple MIs, incl cardiac cath x2, unknown if she had intevention, she thinks the last was about 1 yr ago. She has stable 3 pillow orthopnea. She becomes SOB when she climbs 5 steps and gets SOB sometimes when she walks, which resolves ith rest, but she is able to walk a fair amt still (cannot pin down how much).  She denies CP with exertion, did have CP with her MIs. She says smx she has lower and upper extremity edema. She has not had a recent ETT.		DBN FFF celebrex#163	INDICATION FFF c / o#166	INDICATION FFF cva#174	DRT FFF a h#179	FREQ FFF x2#185	DRT FFF 1 yr#198	INDICATION FFF orthopnea#205	INDICATION FFF sob#208	INDICATION FFF sob#216	INDICATION FFF cp#242	INDICATION FFF cp#247
+255-01	5	She has multiple medical problems for which she is on a variety of medications, none o which she has taken x1 month as she ran out of refills. 1. CVA-She reports 3-4 mos ago she had a stroke (she was told there was a clot in her brain) which left the L side of her face paralyzed and some residual weakness in her LUE. She also notes her handwriting has completely changed since. Since the stroke she has had multiple episodes during which her tongue becomes very heavy and she has difficulty speaking (distinctly different from her now mildly imapired baseline) At these times she feel somewhat confused and her L vison seems blurry. This has happened 4-5 times and lasts all day. er family has encouraged her to seek medical care but she has refused bc she did not think they would do antyhing for her. Of note, pt has not been on ASA as it was d/cd when she changed to celebrex. Pt also c/o memory loss that started even before the CVA. 2. CAD-She reports a h/o multiple MIs, incl cardiac cath x2, unknown if she had intevention, she thinks the last was about 1 yr ago. She has stable 3 pillow orthopnea. She becomes SOB when she climbs 5 steps and gets SOB sometimes when she walks, which resolves ith rest, but she is able to walk a fair amt still (cannot pin down how much).  She denies CP with exertion, did have CP with her MIs. She says smx she has lower and upper extremity edema. She has not had a recent ETT.		DIN FFF smx#253	INDICATION FFF edema#260
+255-01	6	3. DM-Pt has been on glucophage and Humulin 70/30 100U in am and 60 in pm, but has not been monitoring her BS or taking insulin for the past month.		DBN FFF glucophage#5
+255-01	6	3. DM-Pt has been on glucophage and Humulin 70/30 100U in am and 60 in pm, but has not been monitoring her BS or taking insulin for the past month.		DBN FFF humulin 70/30#8	DOSE FFF 100u#9	TOD FFF am#11	TOD FFF pm#15	INDICATION FFF bs#22
+255-01	6	3. DM-Pt has been on glucophage and Humulin 70/30 100U in am and 60 in pm, but has not been monitoring her BS or taking insulin for the past month.		DIN FFF insulin#25
+255-01	7	She has all the necessary equipment.		 
+255-01	8	She says she tries o monior her carb intake.		 
+255-01	9	She has been gaining weight, bout 5 lbs in the past 2 mos, and notes polydypsia and polyuria fo the past 2 weeks. 4. HTN-has not been taking Zestoretic or Atenolol x1 mo 5. Depression-Pt has h/o depression for which she has been medicated in the past. She currently feels she has very depressed mood, apathy, trouble sleeping and with memory tasks. She denies SI/HI/AH. 6. In terms of health maintenance, her last PAP was 2 yrs ago as was her last Mammo. Her last HgA1C is fr 199 as are her lipids.		DBN FFF zestoretic#28
+255-01	9	She has been gaining weight, bout 5 lbs in the past 2 mos, and notes polydypsia and polyuria fo the past 2 weeks. 4. HTN-has not been taking Zestoretic or Atenolol x1 mo 5. Depression-Pt has h/o depression for which she has been medicated in the past. She currently feels she has very depressed mood, apathy, trouble sleeping and with memory tasks. She denies SI/HI/AH. 6. In terms of health maintenance, her last PAP was 2 yrs ago as was her last Mammo. Her last HgA1C is fr 199 as are her lipids.		DIN FFF atenolol#30	FREQ FFF x1#31	INDICATION FFF depression#37	INDICATION FFF hi#64	INDICATION FFF pap#73	DRT FFF 2 yrs#76	INDICATION FFF as#78	INDICATION FFF as#89
+255-01	10	PMH		 
+255-01	11	HTN		 
+255-01	12	IRDM		 
+255-01	13	CAD		 
+255-01	14	HX OF GASTRITIS BY UGIS H PYLORI +		 
+255-01	15	S/P TAH 2/2 FIBROIDS		 
+255-01	16	Depression		 
+255-01	17	CVA		 
+255-01	18	MEDS		 
+255-01	19	ATENOLOL 50 MG PO QD x 30 day(s)		DIN FFF atenolol#0	DOSE FFF 50mg#2
+255-01	19	ATENOLOL 50 MG PO QD x 30 day(s)		DIN FFF atenolol#0	RUT FFF po#3	FREQ FFF qd#4	DRT FFF 30 day#7
+255-01	20	Azmacort Inh 5 PUFF AER BID x 30 day(s)		DBN FFF azmacort#0	RUT FFF inh#1	DOSEAMT FFF 5 puff#3	FREQ FFF bid#5	DRT FFF 30 day#8
+255-01	21	Insulin 70/30 (HUMAN) 50 U SC QAM x 30 day(s)		DPN FFF insulin 70/30#1	DOSE FFF 50u#4
+255-01	21	Insulin 70/30 (HUMAN) 50 U SC QAM x 30 day(s)		DPN FFF insulin 70/30#1	RUT FFF sc#5	FREQ FFF qam#6	DRT FFF 30 day#9
+255-01	22	GLUCOPHAGE 500 MG PO BID x 30 day(s)		DBN FFF glucophage#0	DOSE FFF 500mg#2
+255-01	22	GLUCOPHAGE 500 MG PO BID x 30 day(s)		DBN FFF glucophage#0	RUT FFF po#3	FREQ FFF bid#4	DRT FFF 30 day#7
+255-01	23	Claritin D 10 MG PO QD x 30 day(s)		DIN FFF claritin d#1	DOSE FFF 10mg#3
+255-01	23	Claritin D 10 MG PO QD x 30 day(s)		DIN FFF claritin d#1	RUT FFF po#4	FREQ FFF qd#5	DRT FFF 30 day#8
+255-01	24	LIPITOR 40 MG PO QD x 30 day(s)		DBN FFF lipitor#0	DOSE FFF 40mg#2
+255-01	24	LIPITOR 40 MG PO QD x 30 day(s)		DBN FFF lipitor#0	RUT FFF po#3	FREQ FFF qd#4	DRT FFF 30 day#7
+255-01	25	CELEBREX 100 MG PO QD x 30 day(s)		DBN FFF celebrex#0	DOSE FFF 100mg#2
+255-01	25	CELEBREX 100 MG PO QD x 30 day(s)		DBN FFF celebrex#0	RUT FFF po#3	FREQ FFF qd#4	DRT FFF 30 day#7
+255-01	26	Humulin 70/30 30 UNITS qpm x 30 day(s)		DBN FFF humulin 70/30#1	DOSEAMT FFF 30 units#3	FREQ FFF qpm#4	DRT FFF 30 day#7
+255-01	27	Zestoretic (LISINOPRIL/HYDROCHLOROTHIAZIDE) 20-12.5, 1 Tablet(s) PO QD x 30 day(s)		DBN FFF zestoretic#0	MDBN FFF lisinopril / hydrochlorothiazide#1	DOSEAMT FFF 1 tablet#4	RUT FFF po#5	FREQ FFF qd#6	DRT FFF 30 day#9
+255-01	28	Ranitidine Hcl 150MG, 1 Tablet(s) PO BID x 30 day(s)		DIN FFF ranitidine hcl#1	DOSE FFF 150mg#2
+255-01	28	Ranitidine Hcl 150MG, 1 Tablet(s) PO BID x 30 day(s)		DIN FFF ranitidine hcl#1	DOSEAMT FFF 1 tablet#4	RUT FFF po#5	FREQ FFF bid#6	DRT FFF 30 day#9
+255-01	29	Ecasa (ASPIRIN Enteric Coated) 325MG, 1 Tablet(s) PO QD x 30 day		DPN FFF ecasa#0	MDBN FFF aspirin enteric coated#3	DOSE FFF 325mg#4	DOSEAMT FFF 1 tablet#6	RUT FFF po#7	FREQ FFF qd#8	DRT FFF 30 day#11
+255-01	30	ALLERGIES   NKDA		 
+255-01	31	FAMILY HISTORY		 
+255-01	32	Defered		 
+255-01	33	SOCIAL HISTORY		 
+255-01	34	Currrently unemployed		 
+255-01	35	Sexual History: defered		 
+255-01	36	ETOH/Drugs/Tab:denies.		DIN FFF drugs#0
+255-01	37	Quit tab 20 yrs ago		 
+255-01	38	Nutrition: tries to eat low carb diet		 
+255-01	39	Exercise: walking		 
+255-01	40	PHYSICAL EXAM		 
+255-01	41	VS: BP 172/100  HR 84  Wt 166 lbs  FS 347		 
+255-01	42	General: Pleasant in NAD, facial asymmetry		 
+255-01	43	HEENT: PERRL.		 
+255-01	44	EOMI. Oropharynx clear.		 
+255-01	45	TMs intact.		 
+255-01	46	Fundi could not be visualized.		 
+255-01	47	Neck: No JVD.		 
+255-01	48	No thyromegaly.		 
+255-01	49	No LAD.		 
+255-01	50	No carotid bruits.		 
+255-01	51	Cor: RRR, nl S1S2, 2/6 sys M at LUSB		DIN FFF cor#0
+255-01	52	Lungs: CTA b/l, no rales, rhonchi or wheezes		 
+255-01	53	Abd: Soft, NTND. Normal active bowel sounds.		 
+255-01	54	No hepatosplenomegaly.		 
+255-01	55	Breast/GYN: defered.		 
+255-01	56	Ext: No clubbing, cyanosis or edema.		 
+255-01	57	Distal pulses present and symmetric.		 
+255-01	58	Neuro: A + O x3. Cranial nerve exam sig for L sided facial hemiparesis, unable to smile or raise eyebrow. o/w cn II, III, IV, VI intact, VII/VIII intact, IX, X,XI intact.		 
+255-01	59	Tongue deviates to R.		 
+255-01	60	Strength 5/5 throughout except LUE extensors 4/5.		 
+255-01	61	Sensation: intact to light touch and temp throughout.		 
+255-01	62	DTR's 1+ throughout, Babinski difficult to interpret 2/2 very strong withdrawal response (ticklish).		 
+255-01	63	No nystagmus.		 
+255-01	64	Normal gait.		 
+255-01	65	A/P 51 yo F with MMP incl recent CVA, CAD, HTN, DM, Depression p/t transfer her primary care.		 
+255-01	66	1. Neuro-h/o recent CVA per pt report with residual L facial hemiparesis and LUE weakness, no records available.		 
+255-01	67	Concern that she continues to have TIAs, is high risk for another CVA. --head MRI		 
+255-01	68	--ECASA 325 mg qd		DPN FFF ecasa#0	DOSE FFF 325mg#2	FREQ FFF qd#3
+255-01	69	--referal to Neurology		 
+255-01	70	--instructed pt to present to ER if she notes neurologic sx.		 
+255-01	71	2. CV-CAD:h/o MI and 2 cardiac caths per pt, stable othopnea, exertional dyspnea wich may be aginal equivalent.		 
+255-01	72	HTN: poorly conrolled but has not been taking meds. --Will try to obtain records fr OSH of caths		 
+255-01	73	--check EKG		 
+255-01	74	--check lipid profile and LFTs		 
+255-01	75	--Add ECASA, cont Lipitor, Atenolol, Lisinopril/HCTZ		DPN FFF ecasa#1
+255-01	75	--Add ECASA, cont Lipitor, Atenolol, Lisinopril/HCTZ		DBN FFF lipitor#3
+255-01	75	--Add ECASA, cont Lipitor, Atenolol, Lisinopril/HCTZ		DIN FFF atenolol#4
+255-01	76	--Monitor BP closely		 
+255-01	77	--Will need ETT in the future		 
+255-01	78	3. Endocrine--DM, FS today 347, very lrge insulin requirement but pt has been extremely noncompliant with insulin regimen.		DIN FFF insulin#7
+255-01	78	3. Endocrine--DM, FS today 347, very lrge insulin requirement but pt has been extremely noncompliant with insulin regimen.		DIN FFF insulin#16
+255-01	79	--Cont glucophage		DBN FFF glucophage#1

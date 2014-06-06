@@ -1,0 +1,14 @@
+243-04	10	0	It was our pleasure to care for Mr. Osborne to help with his decompensated heart failure.  He was admitted on 07/23/2082, one month after previous admission for abdominal pain.  In retrospect, that admission may have been related in part to GI symptoms of heart failure.  He came in complaining of continued GI discomfort, orthopnea, lower extremity edema, and 9 pounds of weight gain with increasing abdominal girth.  His medications at the time of admission included beta-blockers and ACE inhibitors for hypertension, with no diuretics.	ace inhibitors FFF 77 78	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+243-04	14	0	He underwent a trial with IV nitroglycerin, then with sildenafil.	nitroglycerin, FFF 6 6	 FFF 	iv FFF 5 5	 FFF 	 FFF 	 FFF 	narrative
+243-04	14	0	He underwent a trial with IV nitroglycerin, then with sildenafil.	sildenafil. FFF 9 9	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+243-04	15	0	The IV nitroglycerin decreased his BLANK pressures only by approximately 8-10 mm but he noted a further improvement in his dyspnea.	nitroglycerin FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+243-04	16	0	There was no clear improvement with the sildenafil in either his symptoms or hemodynamics.	sildenafil FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+243-04	18	0	The decision was just to put him on oral nitroglycerin in addition to the other standard heart failure medications.	nitroglycerin FFF 9 9	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+243-04	21	0	His medications are Isordil 10 t.i.d., Lasix 40 mg p.o. b.i.d.  He is on Toprol-XL 12.5 daily.	isordil FFF 3 3	10 FFF 4 4	 FFF 	t.i.d., FFF 5 5	 FFF 	 FFF 	narrative
+243-04	21	0	His medications are Isordil 10 t.i.d., Lasix 40 mg p.o. b.i.d.  He is on Toprol-XL 12.5 daily.	lasix FFF 6 6	40 mg FFF 7 8	p.o. FFF 9 9	b.i.d. FFF 10 10	 FFF 	 FFF 	narrative
+243-04	21	0	His medications are Isordil 10 t.i.d., Lasix 40 mg p.o. b.i.d.  He is on Toprol-XL 12.5 daily.	toprol-xl FFF 14 14	12.5 FFF 15 15	 FFF 	daily. FFF 16 16	 FFF 	 FFF 	narrative
+243-04	22	0	His lisinopril was decreased from 40 mg to 20 mg, but should he have any problems with hypotension, this could certainly be decreased further to 10 or even 5 mg if necessary to allow him comfortable ambulation.	lisinopril FFF 1 1	40 mg FFF 5 6	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+243-04	23	0	He is on Plavix 75 mg daily as well and simvastatin 40.	plavix FFF 3 3	75 mg FFF 4 5	 FFF 	daily FFF 6 6	 FFF 	 FFF 	narrative
+243-04	23	0	He is on Plavix 75 mg daily as well and simvastatin 40.	simvastatin FFF 10 10	40. FFF 11 11	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+243-04	25	0	His creatinine is 1.3 with a BUN of 44, hematocrit 40, white blood count 5000, potassium 3.9, sodium 139.	potassium FFF 15 15	3.9, FFF 16 16	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+243-04	25	0	His creatinine is 1.3 with a BUN of 44, hematocrit 40, white blood count 5000, potassium 3.9, sodium 139.	sodium FFF 17 17	139. FFF 18 18	 FFF 	 FFF 	 FFF 	 FFF 	narrative

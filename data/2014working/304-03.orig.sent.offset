@@ -1,0 +1,21 @@
+304-03	6	0	Diagnosis:  Mr. Goins is a 27 yoM with thrombocytosis here for interval follow-up on hydrea.	hydrea. FFF 14 14	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-03	11	0	The patient was intubated, treated for HTN with labetolol and placed on IV insulin and dilantin  and transferred to BMH for further care.	labetolol FFF 8 8	 FFF 	iv FFF 12 12	 FFF 	 FFF 	 FFF 	narrative
+304-03	11	0	The patient was intubated, treated for HTN with labetolol and placed on IV insulin and dilantin  and transferred to BMH for further care.	insulin FFF 13 13	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-03	11	0	The patient was intubated, treated for HTN with labetolol and placed on IV insulin and dilantin  and transferred to BMH for further care.	dilantin FFF 15 15	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-03	17	0	He was continued on abx for his  aspiration PNA.	abx FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-03	20	0	HTN was controlled with labetolol drip with additional oral agents being added.	labetolol FFF 4 4	 FFF 	drip FFF 5 5	 FFF 	 FFF 	 FFF 	narrative
+304-03	21	0	He continued to have intermittent fevers and was on broad antibiotics which were originally weaned off.	antibiotics FFF 10 10	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-03	24	0	Retics were depressed at presentation and iron studies were c/w ACD and he was started on epogen.	epogen. FFF 16 16	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-03	32	0	As well, hydrea was started at this time, initially at 500mg bid and then escalated to 1000mg bid when his counts were up to 800-900 despite the medication.	hydrea FFF 2 2	500mg FFF 10 10	 FFF 	bid FFF 11 11	 FFF 	 FFF 	narrative
+304-03	32	0	As well, hydrea was started at this time, initially at 500mg bid and then escalated to 1000mg bid when his counts were up to 800-900 despite the medication.	the medication. FFF 26 27	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-03	34	0	For this reason he was not anticoagulated but placed upon daily ASA.	asa. FFF 11 11	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-03	37	0	Initially, his platelets were still in the hi 500's despite hydrea at 1000 bid.	hydrea FFF 10 10	 FFF 	 FFF 	bid. FFF 13 13	 FFF 	 FFF 	narrative
+304-03	41	0	An epo level was drawn and his hydrea was increased to 1500/1000mg.	epo FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-03	41	0	An epo level was drawn and his hydrea was increased to 1500/1000mg.	hydrea FFF 7 7	1500/1000mg. FFF 11 11	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-03	43	0	His hydrea was decreased to 500mg bid.	hydrea FFF 1 1	500mg FFF 5 5	 FFF 	bid. FFF 6 6	 FFF 	 FFF 	narrative
+304-03	53	0	He has no oral ulcers or skin lesions from his Hydrea.	hydrea. FFF 10 10	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-03	64	0	Hydrea (HYDROXYUREA) 500 MG (500MG CAPSULE take 1) PO bid	hydrea FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-03	65	0	Asa (ACETYLSALICYLIC ACID) 81 MG (81MG TABLET take 1) PO QD	asa FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-03	66	0	Nexium (ESOMEPRAZOLE) 40 MG (40MG CAPSULE DR take 1) PO BID	nexium FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-03	67	0	Nifedipine (SUSTAINED RELEASE) 90 MG (90MG TABLET take 1) PO QD	nifedipine (sustained release) FFF 0 2	90 mg FFF 3 4	po FFF 9 9	qd FFF 10 10	 FFF 	 FFF 	narrative
+304-03	68	0	Humulin N (INSULIN NPH HUMAN) 40 UNITS SC QAM	Humulin N (INSULIN NPH HUMAN) FFF 0 4	40 units FFF 5 6	sc FFF 7 7	qam FFF 8 8	 FFF 	 FFF 	narrative

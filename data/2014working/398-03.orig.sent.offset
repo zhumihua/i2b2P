@@ -1,0 +1,23 @@
+398-03	29	438	Aspirin (ACETYLSALICYLIC ACID) 81MG TABLET CHEWABLE take 1 Tablet(s) PO QD ,	Aspirin (ACETYLSALICYLIC ACID) FFF 0 2	81mg FFF 3 3	po FFF 9 9	qd FFF 10 10	 FFF 	 FFF 	narrative
+398-03	30	438	Mvi (MULTIVITAMINS) 1 CAPSULE PO QD	Mvi (MULTIVITAMINS) FFF 0 1	1 capsule FFF 2 3	po FFF 4 4	qd FFF 5 5	 FFF 	 FFF 	narrative
+398-03	31	438	Atenolol 100MG TABLET take 1 Tablet(s) PO QD	atenolol FFF 0 0	100mg FFF 1 1	po FFF 6 6	qd FFF 7 7	 FFF 	 FFF 	narrative
+398-03	32	438	Captopril 50MG TABLET take 1 Tablet(s) PO BID	captopril FFF 0 0	50mg FFF 1 1	po FFF 6 6	bid FFF 7 7	 FFF 	 FFF 	narrative
+398-03	33	438	Hctz (HYDROCHLOROTHIAZIDE) 25MG TABLET take 0.5 Tablet(s) PO QD	Hctz (HYDROCHLOROTHIAZIDE) FFF 0 1	25mg FFF 2 2	po FFF 7 7	qd FFF 8 8	 FFF 	 FFF 	narrative
+398-03	34	438	Metformin 850MG TABLET take 1 Tablet(s) PO BID	metformin FFF 0 0	850mg FFF 1 1	po FFF 6 6	bid FFF 7 7	 FFF 	 FFF 	narrative
+398-03	35	438	Lipitor (ATORVASTATIN) 5MG (10MG TABLET ) PO QD x 90 days	lipitor FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+398-03	45	0	1 L NS, lopressor 2.5 + 5 + 5 iv, lopressor 25 mg po, 1 L NaHCO, flagyl 500 iv, levo 500 iv	lopressor FFF 3 3	2.5 FFF 4 4	iv, FFF 9 9	 FFF 	 FFF 	 FFF 	narrative
+398-03	45	0	1 L NS, lopressor 2.5 + 5 + 5 iv, lopressor 25 mg po, 1 L NaHCO, flagyl 500 iv, levo 500 iv	lopressor FFF 10 10	25 mg FFF 11 12	po, FFF 13 13	 FFF 	 FFF 	 FFF 	narrative
+398-03	45	0	1 L NS, lopressor 2.5 + 5 + 5 iv, lopressor 25 mg po, 1 L NaHCO, flagyl 500 iv, levo 500 iv	flagyl FFF 17 17	500 FFF 18 18	iv, FFF 19 19	 FFF 	 FFF 	 FFF 	narrative
+398-03	45	0	1 L NS, lopressor 2.5 + 5 + 5 iv, lopressor 25 mg po, 1 L NaHCO, flagyl 500 iv, levo 500 iv	levo FFF 20 20	 FFF 	iv FFF 22 22	 FFF 	 FFF 	 FFF 	narrative
+398-03	67	0	NA         139	na FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+398-03	73	0	GLU        315(H)	glu FFF 0 0	315(h) FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+398-03	80	0	ALB        3.1(L)	alb FFF 0 0	3.1(l) FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+398-03	144	0	centrum semi ovale and coronal radiata.	centrum FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+398-03	158	0	a. Did not respond to metoprolol or verapamil, will load digoxin, con't metoprolol po	metoprolol FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+398-03	158	0	a. Did not respond to metoprolol or verapamil, will load digoxin, con't metoprolol po	verapamil, FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+398-03	158	0	a. Did not respond to metoprolol or verapamil, will load digoxin, con't metoprolol po	digoxin, FFF 10 10	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+398-03	158	0	a. Did not respond to metoprolol or verapamil, will load digoxin, con't metoprolol po	metoprolol FFF 12 12	 FFF 	po FFF 13 13	 FFF 	 FFF 	 FFF 	narrative
+398-03	159	0	3. PNA - likely aspiration, treat with levo, flagyl, atrovent inhaler	levo, FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+398-03	159	0	3. PNA - likely aspiration, treat with levo, flagyl, atrovent inhaler	flagyl, FFF 8 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+398-03	159	0	3. PNA - likely aspiration, treat with levo, flagyl, atrovent inhaler	atrovent inhaler FFF 9 10	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+398-03	161	0	Rhabdomyolysis possible, though CK's only 1000. a. Treat with fluids NaHCO3 200 cc / hr, see response in Cr b. U lytes, U myoglobin c.	nahco3 FFF 10 10	200 cc / hr, FFF 11 14	 FFF 	 FFF 	 FFF 	 FFF 	narrative

@@ -1,0 +1,34 @@
+352-03||1||Record date: 2069-12-24
+352-03||2||CC: Shortness of breath, neck pain.||TOD FFF cc: FFF 0 0||INDICATION FFF shortness of breath, FFF 1 3||INDICATION FFF pain. FFF 5 5||
+352-03||3||HPI:  Ms. Riley was recently hospitalized in 11/69 for neck pain, chest pain, and SOB.||INDICATION FFF pain, FFF 10 10||INDICATION FFF chest pain, FFF 11 12||INDICATION FFF sob. FFF 14 14||
+352-03||4||She had an extensive cardiovascular work-up that showed no signs of cardiac ischemia.||INDICATION FFF cardiac ischemia. FFF 11 12||
+352-03||5||Her MIBI showed no evidence of scar or ischemia and an ejection fraction of 57%.||INDICATION FFF ischemia FFF 8 8||DOSE FFF 57%. FFF 14 14||
+352-03||6||On the other hand, her blood sugars were found to be in the 300-400s.||INDICATION FFF her blood sugars FFF 4 6||
+352-03||7||Since then, she has been followed by the IM dept.||RUT FFF im FFF 8 8||
+352-03||8||She comes in today complaining of 2 main symptoms that have been occuring for several months now, and which in large part led to her recent hospitalization: 1) dyspnea that occurs on average twice a week, allevaited after 30 min of SL NTG, no precipitating factors identified.||INDICATION FFF symptoms FFF 8 8||DRT FFF several months FFF 14 15||INDICATION FFF led FFF 22 22||INDICATION FFF dyspnea FFF 28 28||FREQ FFF twice a week, FFF 33 35||RUT FFF sl FFF 41 41||DPN FFF ntg, FFF 42 42||
+352-03||9||SOB not significantly imporved by albuterol.  2) neck pain, localized to the lateral aspects of her neck.  She feels "her veins exploding".  Of note, she suffered left ankle pain, for which she self-medicated cephalexin (without knowing its an Abx), which she had at home.  She says most of her symptoms resolved.  Per her husband, she has always been a fairly anxious person.||INDICATION FFF sob FFF 0 0||DIN FFF albuterol. FFF 5 5||INDICATION FFF pain, FFF 8 8||INDICATION FFF pain, FFF 28 28||DIN FFF cephalexin FFF 33 33||DPN FFF abx), FFF 38 38||INDICATION FFF symptoms FFF 49 49||
+352-03||10||ROS: No DOE, no PND, no fever.||INDICATION FFF fever. FFF 6 6||
+352-03||11||Good apetite, polydypsia.
+352-03||12||Blurry vision.
+352-03||13||PAST MEDICAL HISTORY:  A total thyroidectomy, on levothyroxine 200 mcg daily, COPD, obesity, diabetes mellitus, hypertension, hyperlipidemia, GERD, sleep apnea, cholecystectomy and a meniscal tear.||DIN FFF levothyroxine FFF 7 7||DOSE FFF 200 mcg FFF 8 9||FREQ FFF daily, FFF 10 10||INDICATION FFF copd, FFF 11 11||INDICATION FFF obesity, FFF 12 12||INDICATION FFF diabetes mellitus, FFF 13 14||INDICATION FFF hypertension, FFF 15 15||INDICATION FFF hyperlipidemia, FFF 16 16||INDICATION FFF gerd, FFF 17 17||INDICATION FFF sleep FFF 18 18||INDICATION FFF apnea, FFF 19 19||INDICATION FFF tear. FFF 24 24||
+352-03||14||CURRENT MEDICATIONS (updated)
+352-03||15||1) Albuterol inhaler||DBN FFF albuterol inhaler FFF 1 2||
+352-03||16||2) Atenolol 50 mg p.o. daily||DIN FFF atenolol FFF 1 1||DOSE FFF 50 mg FFF 2 3||RUT FFF p.o. FFF 4 4||FREQ FFF daily FFF 5 5||
+352-03||17||3) Clonidine HCL 0.2 mg p.o. b.i.d.||DIN FFF clonidine hcl FFF 1 2||DOSE FFF 0.2 mg FFF 3 4||RUT FFF p.o. FFF 5 5||FREQ FFF b.i.d. FFF 6 6||
+352-03||18||4) Aspirin 81 mg p.o. daily||DIN FFF aspirin FFF 1 1||DOSE FFF 81 mg FFF 2 3||RUT FFF p.o. FFF 4 4||FREQ FFF daily FFF 5 5||
+352-03||19||5) Flovent 220 mcg b.i.d.||DBN FFF flovent FFF 1 1||DOSE FFF 220 mcg FFF 2 3||FREQ FFF b.i.d. FFF 4 4||
+352-03||20||6) Levothyroxine 200 mcg p.o. daily||DIN FFF levothyroxine FFF 1 1||DOSE FFF 200 mcg FFF 2 3||RUT FFF p.o. FFF 4 4||FREQ FFF daily FFF 5 5||
+352-03||21||7) Lisinopril 20 mg p.o. daily||DIN FFF lisinopril FFF 1 1||DOSE FFF 20 mg FFF 2 3||RUT FFF p.o. FFF 4 4||FREQ FFF daily FFF 5 5||
+352-03||22||8) Singulair 10 mg p.o. daily,||DBN FFF singulair FFF 1 1||DOSE FFF 10 mg FFF 2 3||RUT FFF p.o. FFF 4 4||FREQ FFF daily, FFF 5 5||
+352-03||23||9) Lipitor 10 mg p.o. q.h.s.||DBN FFF lipitor FFF 1 1||DOSE FFF 10 mg FFF 2 3||RUT FFF p.o. FFF 4 4||FREQ FFF q.h.s. FFF 5 5||
+352-03||24||10) Humulin 70/30  90 U sc qAM, 70 U sc QPM||DBN FFF humulin 70/30 FFF 1 2||DOSE FFF 90 u FFF 3 4||RUT FFF sc FFF 5 5||FREQ FFF qam, FFF 6 6||DOSE FFF 70 u FFF 7 8||RUT FFF sc FFF 9 9||FREQ FFF qpm FFF 10 10||
+352-03||25||11) Metformin 1000 mg PO BID||DIN FFF metformin FFF 1 1||DOSE FFF 1000 mg FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF bid FFF 5 5||
+352-03||26||12) SL NTG 0.3||RUT FFF sl FFF 1 1||DPN FFF ntg FFF 2 2||
+352-03||27||SOCIAL HISTORY:  Ms. Riley is from Mexico.  She has lived here for the last 15 years. Lives with her husband. Denies any tobacco or alcohol.||DRT FFF 15 years. FFF 14 15||
+352-03||28||PHYSICAL EXAMINATION:
+352-03||29||Weight: 215 lbs.  P 73, BP 122/74, SO2 97% RA||INDICATION FFF weight: FFF 0 0||INDICATION FFF bp FFF 5 5||DOSE FFF 97% FFF 8 8||INDICATION FFF ra FFF 9 9||
+352-03||30||Gen: Well nourished.
+352-03||31||Apperas well.
+352-03||32||Not pale.
+352-03||33||Obese||INDICATION FFF obese FFF 0 0||
+352-03||34||HEENT: PERRL.

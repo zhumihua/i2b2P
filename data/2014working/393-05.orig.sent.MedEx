@@ -1,0 +1,208 @@
+393-05	1	Record date: 2083-02-26		 
+393-05	2			 
+393-05	3	Attending Admission Note		 
+393-05	4	HPI:  54 year old woman with h/o DM, HTN, and depression who is transferred to PSH from Missouri Baptist Hospital after being admitted from 2/15-2/20/83 and then readmitted on 2/22 with abdominal pain, nausea, and vomiting.		 
+393-05	5	She has a h/o several admisions to the hospital for abdominal pain attributed to diabetic gastroparesis.		 
+393-05	6	She has had an extensive GI work-up in the past including multiple abdominal CT scans, gastric emptying study, colonoscopy, upper endoscopy, and small bowel follow through.		 
+393-05	7	All studies were negative except for the gastric emptying study.		 
+393-05	8	She has been treated with multiple medications, including Reglan, Ativan, Compazine, and Zelnorm without much effect.		DPN FFF multiple medications#6
+393-05	8	She has been treated with multiple medications, including Reglan, Ativan, Compazine, and Zelnorm without much effect.		DBN FFF reglan#8
+393-05	8	She has been treated with multiple medications, including Reglan, Ativan, Compazine, and Zelnorm without much effect.		DBN FFF ativan#9
+393-05	8	She has been treated with multiple medications, including Reglan, Ativan, Compazine, and Zelnorm without much effect.		DBN FFF compazine#10
+393-05	8	She has been treated with multiple medications, including Reglan, Ativan, Compazine, and Zelnorm without much effect.		DBN FFF zelnorm#12
+393-05	9	She is currently taking Neurontin and Cymbalta to treat neuropathic pain, and her PCP started her on MS Contin in December since nothing else seemed to be helping.		DBN FFF neurontin#4
+393-05	9	She is currently taking Neurontin and Cymbalta to treat neuropathic pain, and her PCP started her on MS Contin in December since nothing else seemed to be helping.		DBN FFF cymbalta#6	INDICATION FFF pain#10	INDICATION FFF pcp#13
+393-05	9	She is currently taking Neurontin and Cymbalta to treat neuropathic pain, and her PCP started her on MS Contin in December since nothing else seemed to be helping.		DBN FFF ms contin#18
+393-05	10	The pt states that the MS Contin helped during the month of December, but then it did not seem to be working as well.		DBN FFF ms contin#6	DRT FFF during#8	INDICATION FFF as#22
+393-05	11	The pt is distraught over her symptoms because the pain is severe and frequent.		 
+393-05	12	She has been unable to return to work for 2 years because of the pain, and she would like to be able to do so.		 
+393-05	13	The pain is not necessarily related to eating.		 
+393-05	14	Yesterday, she felt well and was able to eat.		 
+393-05	15	Today, she was doing fine until she had to drink the gastrografin, and then it escalated to an 8/10.		DRT FFF until#5	DBN FFF gastrografin#11
+393-05	16	She received some IV morphine, and now it is down to 4/10.		RUT FFF iv#3	DIN FFF morphine#4
+393-05	17	At Missouri Baptist Hospital, her MS Contin was held, but when her BP went up, she was restarted on it.		DBN FFF ms contin#6	INDICATION FFF her bp#12
+393-05	18	They also started clonidine BID for her uncontrolled HTN.		DIN FFF clonidine#3	FREQ FFF bid#4	INDICATION FFF htn#8
+393-05	19	It appears that a AFP level was drawn and was elevated at 11.1.		 
+393-05	20	However, it is written multiple times in the transfer materials that she had an elevated CEA level of 11.1.		 
+393-05	21	Problems		 
+393-05	22	Diabetes mellitus : since 2060's, poorly controlled		 
+393-05	23	Hypertension		 
+393-05	24	Gastroparesis : N/V due to diabetes		 
+393-05	25	Retinopathy : due to AODM, s/p first laser treatment 3/81, found to have swelling of the optic discs in 8/82 and evaluated at PCH		 
+393-05	26	S/P cholecystectomy		 
+393-05	27	S/P TAH/BSO : menopause at age 46		DIN FFF bso#1	INDICATION FFF menopause#3
+393-05	28	Medications (on transfer)		 
+393-05	29	Heparin 5000 u SQ BID		DIN FFF heparin#0	DOSE FFF 5000u#2	RUT FFF sq#3	FREQ FFF bid#4
+393-05	30	Reglan 10 mg IV Q 6 hours		DBN FFF reglan#0	DOSE FFF 10mg#2	RUT FFF iv#3	FREQ FFF q 6 hours#6
+393-05	31	Hydrochlorothiazide 25 MG (25MG TABLET take 1) PO QAM , for high blood pressure		DIN FFF hydrochlorothiazide#0	DOSE FFF 25mg#2	DOSE FFF 25mg#3	DDF FFF tablet#4	RUT FFF po#7	FREQ FFF qam#8	INDICATION FFF high blood pressure#13
+393-05	32	Insulin 70/30 HUMAN 70-30 U/ML VIAL SC as directed , 25u SQ before breakfast and 15u before dinner.		DIN FFF insulin 70/30 human#2	DOSE FFF 70-30u / ml#4	RUT FFF sc#6	INDICATION FFF as#7	DOSE FFF 25u#10	RUT FFF sq#11	DOSE FFF 15u#15	TOD FFF before dinner#17
+393-05	33	Nexium 40 mg po QD		DBN FFF nexium#0	DOSE FFF 40mg#2	RUT FFF po#3	FREQ FFF qd#4
+393-05	34	Lisinopril 20MG TABLET PO QAM		DIN FFF lisinopril#0	DOSE FFF 20mg#1	DDF FFF tablet#2	RUT FFF po#3	FREQ FFF qam#4
+393-05	35	Medications (as an outpatient)		 
+393-05	36	Asa (ACETYLSALICYLIC ACID) 325 MG (325MG TABLET take 1) PO QD		DIN FFF asa#0
+393-05	37	Cymbalta (DULOXETINE) 60MG CAPSULE DR PO QAM x 30 days		DBN FFF cymbalta#0	MDBN FFF duloxetine#1	DOSE FFF 60mg#2	DDF FFF capsule#3	RUT FFF po#5	FREQ FFF qam#6	DRT FFF 30 days#9
+393-05	38	Hydrochlorothiazide 25 MG (25MG TABLET take 1) PO QAM , for high blood pressure		DIN FFF hydrochlorothiazide#0	DOSE FFF 25mg#2	DOSE FFF 25mg#3	DDF FFF tablet#4	RUT FFF po#7	FREQ FFF qam#8	INDICATION FFF high blood pressure#13
+393-05	39	Insulin 70/30 HUMAN 70-30 U/ML VIAL SC as directed , 60u SQ before breakfast and 40u before dinner.		DIN FFF insulin 70/30 human#2	DOSE FFF 70-30u / ml#4	RUT FFF sc#6	INDICATION FFF as#7	DOSE FFF 60u#10	RUT FFF sq#11	DOSE FFF 40u#15	TOD FFF before dinner#17
+393-05	40	Lipitor (ATORVASTATIN) 10MG TABLET PO QHS		DBN FFF lipitor#0	MDBN FFF atorvastatin#1	DOSE FFF 10mg#2	DDF FFF tablet#3	RUT FFF po#4	FREQ FFF qhs#5
+393-05	41	Lisinopril 40MG TABLET PO QAM		DIN FFF lisinopril#0	DOSE FFF 40mg#1	DDF FFF tablet#2	RUT FFF po#3	FREQ FFF qam#4
+393-05	42	Ms CONTIN (MORPHINE CONTROLLED RELEASE) 15MG TABLET SA PO Q12H		DBN FFF ms contin#1	MDBN FFF morphine#3	DOSE FFF 15mg#5	DDF FFF tablet#6	RUT FFF po#8	FREQ FFF q12h#9
+393-05	43	Neurontin (GABAPENTIN) 300 MG (300MG CAPSULE take 1) PO TID		DBN FFF neurontin#0
+393-05	44	Potassium CHLORIDE SLOW REL. (KCL SLOW RELEASE) 40 MEQ (10MEQ CAPSULE SA take 4) PO QD		DPN FFF potassium chloride slow rel . ( kcl slow release )#6	DOSE FFF 40meq#8	DOSE FFF 10meq#9	DDF FFF capsule#10	RUT FFF po#14	FREQ FFF qd#15
+393-05	45	Allergies		 
+393-05	46	PERCOCET - GI upset,		DBN FFF percocet#0
+393-05	47	Social History		 
+393-05	48	Works as bio technician at Yale but has not worked x 2 years due to abdominal pain; Born in Herzegovina, but in Canada x yrs.		 
+393-05	49	Sister in area is local support; no smoking or Etoh.		 
+393-05	50	Family History		 
+393-05	51	Mother-died in car accident.		 
+393-05	52	Father-alive in Herzegovina, in good health.		 
+393-05	53	Review of Systems		 
+393-05	54	Negative unless noted in HPI.		 
+393-05	55	Physical Exam		 
+393-05	56	BP: 229/103--> 195/95          Tmax: 99.5         P: 72        RR: 18      Pulse ox=98% RA		 
+393-05	57	GENERAL:  Tearful when talking about her pain; appears comfortable.		 
+393-05	58	SKIN:  NL turgor, no abnormal lesions		 
+393-05	59	NECK:             No thyromegally, no nodes		 
+393-05	60	CHEST:             Clear lungs, NL frame		 
+393-05	61	COR:  NL S1S2, no murmur, rubs, or gallops.		DIN FFF cor#0
+393-05	62	BACK:             No spinal tenderness.		 
+393-05	63	ABD:  NL BS; soft, tender over umbilical region and LLQ; no guarding or rebound; NO HSM		 
+393-05	64	RECTAL:             Guaiac neg., no masses.		 
+393-05	65	EXT:  No edema, clubbing, or cyanosis		 
+393-05	66	NEURO:             NL MS, NL gait		 
+393-05	67	Results		 
+393-05	68	Date/Time         NA             K              CL             CO2		DIN FFF na#1	INDICATION FFF k#2	INDICATION FFF cl#3
+393-05	69	02/25/2083        138            3.4            102            28.4		 
+393-05	70	Date/Time         BUN            CRE            GLU		DIN FFF glu#3
+393-05	71	02/25/2083        10             1.1            169 (H)		 
+393-05	72	Date/Time         CA             MG             TBILI          DBILI		 
+393-05	73	02/25/2083        8.3 (L)        1.1 (L)        0.2            0.1		 
+393-05	74	Date/Time         TP             ALB            GLOB           LACT		INDICATION FFF tp#1	DIN FFF alb#2
+393-05	75	03/04/2007                                                     0.9		 
+393-05	76	02/25/2083        5.8 (L)        2.7 (L)        3.1		 
+393-05	77	Date/Time         AMY            LIPS		 
+393-05	78	02/25/2083        98             2.3		 
+393-05	79	Date/Time         ALT/SGPT       AST/SGOT       ALKP           TBILI		 
+393-05	80	02/25/2083        9              11             67             0.2		 
+393-05	81	Date/Time         DBILI		 
+393-05	82	02/25/2083        0.1		 
+393-05	83	Date/Time         WBC            RBC            HGB            HCT		 
+393-05	84	02/25/2083        5.3            3.73 (L)       11.0 (L)       30.3 (L)		 
+393-05	85	Date/Time         MCV            MCH            MCHC           PLT		 
+393-05	86	02/25/2083        81             29.5           36.3           235		 
+393-05	87	Date/Time         RDW		 
+393-05	88	02/25/2083        13.0		 
+393-05	89	Date/Time         DIFFR          METHOD         %NEUT          %LYMPH		 
+393-05	90	02/25/2083        RECEIVED       Auto           57             36		 
+393-05	91	Date/Time         %MONO          %EOS           %BASO		 
+393-05	92	02/25/2083        5              2              0		 
+393-05	93	Results		 
+393-05	94	Endoscopy		 
+393-05	95	Report Number:  28618552                              Report Status: Final		 
+393-05	96	Type:  Upper Endoscopy		 
+393-05	97	Date:  06/16/2081		 
+393-05	98	Gastrointestinal Endoscopy Unit		 
+393-05	99	Patient Name: Nicole Frantz		 
+393-05	100	Gender: F		 
+393-05	101	Patient ID:   2360719		 
+393-05	102	Exam Date:    6/16/2081 02:50 PM		 
+393-05	103	Procedure:       Upper GI endoscopy		 
+393-05	104	Indications:     Epigastric abdominal distress/pain		 
+393-05	105	Findings:        The esophagus was normal.		 
+393-05	106	The stomach was                  normal.		 
+393-05	107	The examined duodenum was normal.		 
+393-05	108	Impression:      - Normal esophagus.		 
+393-05	109	- Normal stomach.		 
+393-05	110	- Normal examined duodenum.		 
+393-05	111	Recommendation:  medical management of gastroparesis		 
+393-05	112	Report Number:  67659198                              Report Status: Final		 
+393-05	113	Type:  Colonoscopy		 
+393-05	114	Date:  02/14/2081		 
+393-05	115	Gastrointestinal Endoscopy Unit		 
+393-05	116	Patient Name: Nicole Frantz		 
+393-05	117	Gender: F		 
+393-05	118	Patient ID:   2360719		 
+393-05	119	Exam Date:    2/14/2081 10:00 AM		 
+393-05	120	Procedure:       Colonoscopy		 
+393-05	121	Findings:        The colon (entire examined portion) was normal.		 
+393-05	122	Unabel to successfully enter into the terminal		 
+393-05	123	ileum.		 
+393-05	124	Impression:      - The colon is normal.		 
+393-05	125	Recommendation:  SBFT to visualize TI.		 
+393-05	126	Radiology		 
+393-05	127	Exam Number:  2873517                        Report Status:  Final		 
+393-05	128	Type:  AbdCT + PelCT +		 
+393-05	129	Date/Time:  08/09/2082 22:38		 
+393-05	130	Exam Code:  GMKUN+		 
+393-05	131	Ordering Provider:  UGALDE, JAZZLYNN		 
+393-05	132	HISTORY:		 
+393-05	133	S/S ABD PAIN, NAUSEA/VOM, PLS ASSESS FOR OBSTRUCTION		 
+393-05	134	REPORT:		 
+393-05	135	This study was reviewed by Dr.		 
+393-05	136	Yee and Dr.		 
+393-05	137	Janssen.		 
+393-05	138	HISTORY: As provided in the header.		 
+393-05	139	COMPARISON: 10/31/2081		 
+393-05	140	TECHNIQUE:		 
+393-05	141	Contiguous axial CT scans of both the abdomen and pelvis were      performed from the lung bases to the proximal femora to assess for      obstruction.		 
+393-05	142	Imaging was continued into the pelvis because a charge can affect      both cavities.		 
+393-05	143	Abdominal and pelvic images were obtained following administration      of both oral and intravenous contrast.		 
+393-05	144	FINDINGS:		 
+393-05	145	LUNG BASES.		 
+393-05	146	Linear densities in the lung bases likely represents      atelectasis.		 
+393-05	147	HEPATOBILIARY.		 
+393-05	148	Liver.		 
+393-05	149	The liver is normal in appearance without evidence of      biliary ductal dilatation or focal lesion.		 
+393-05	150	Gallbladder and Bile Ducts.		 
+393-05	151	Patient status post cholecystectomy.		 
+393-05	152	Pancreas.		 
+393-05	153	Normal in appearance.		 
+393-05	154	BOWEL.		 
+393-05	155	There is no evidence of the obstruction or bowel wall      thickening.		 
+393-05	156	A moderate amount of stool seen in the colon and      rectum.		 
+393-05	157	GENITOURINARY:		 
+393-05	158	Kidneys.		 
+393-05	159	Normal in appearance without evidence of renal calculus      or hydronephrosis.		 
+393-05	160	Ureters and bladder.		 
+393-05	161	Normal in appearance.		 
+393-05	162	Adrenal glands.		DIN FFF adrenal#0
+393-05	163	Normal in appearance.		 
+393-05	164	Pelvic organs.		 
+393-05	165	Vascular calcifications are noted the pelvis.		 
+393-05	166	PERITONEUM:No evidence of fluid collection, free air or peritoneal      mass lesions.		 
+393-05	167	RETROPERITONEUM:		 
+393-05	168	Lymph nodes.		 
+393-05	169	There are a few small bilateral inguinal lymph nodes      present without bulk.		 
+393-05	170	Vessels.  Unremarkable.		 
+393-05	171	BONES AND SOFT TISSUES.		 
+393-05	172	Partial sacralization of L5.		 
+393-05	173	IMPRESSION.		 
+393-05	174	No evidence of obstruction.		 
+393-05	175			 
+393-05	176			 
+393-05	177	Exam Number:  3436658                        Report Status:  Final		 
+393-05	178	Type:  Gastric Emptyng		 
+393-05	179	Date/Time:  06/22/2081 12:42		 
+393-05	180	Exam Code:  224		 
+393-05	181	Ordering Provider:  FARLEY, ERIC		 
+393-05	182	HISTORY:		 
+393-05	183	GASTROPERISIS, NAUSEA AND VOMITING		 
+393-05	184	REPORT:		 
+393-05	185	A gastric emptying study was performed using eggs labeled with 17		 
+393-05	186	MBq technetium 99m sulfur colloid.		DIN FFF technetium 99 m#2
+393-05	187	There was no evidence of      gastroesophageal reflux over 60 minutes of observation.		 
+393-05	188	Gastric      emptying was reduced, showing only 9% emptying at 60 minutes and      29% emptying at 90 minutes.		 
+393-05	189	Impression		 
+393-05	190	Reduced gastric emptying with 29% emptying of a solid meal at 90      minutes after ingestion.		 
+393-05	191			 
+393-05	192			 
+393-05	193	Exam Number:  2048395                        Report Status:  Final		 
+393-05	194	Type:  SmallBowel only		 
+393-05	195	Date/Time:  02/16/2081 13:40		 
+393-05	196	Exam Code:  204QY		 
+393-05	197	Ordering Provider:  SHEEHAN, XIMENA		 
+393-05	198	HISTORY:		 
+393-05	199	iddm, htn, n/v and abdominal pain x 6 weeks, negative coloscopy, but could not enter terminal ileum assess for mass, TI thickening		 
+393-05	200	REPORT:		 
+393-05	201	Image interpretation reviewed by Dr.		 
+393-05	202	Narvaez.		 

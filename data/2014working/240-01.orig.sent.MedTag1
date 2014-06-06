@@ -1,0 +1,22 @@
+240-01||1||Record date: 2095-03-31
+240-01||2||INTERNAL MEDICINE ASSOCIATES
+240-01||3||YORK CONVALESCENT HOSPITAL
+240-01||4||History of present illness
+240-01||6||Oneill was hospitalized at the Muscatine Health Center shortly after leaving the YCH following his catheterization and placement of the stent by Dr.
+240-01||7||Hall.  Because of the recurrent chest pain at Muscatine Health he was catheterized again from the left groin and the stent seemed to be functioning normally.||INDICATION FFF chest pain FFF 5 6||
+240-01||8||He was given the usual supportive therapy and discharged.
+240-01||9||He is now taking Isordil 30 mg SR daily as isosorbide mononitrate.||DBN FFF isordil FFF 4 4||DOSE FFF 30 mg FFF 5 6||FREQ FFF daily FFF 8 8||INDICATION FFF as FFF 9 9||DIN FFF isosorbide mononitrate. FFF 10 11||
+240-01||10||He takes metoprolol 25 mg one-half BID, Procardia XL 30 mg daily, furosemide 20 mg per day, K-Dur 20 mEq daily, Flomax 0.4 mg daily, Singulair 10 mg daily, Advair 25/50 mg daily, Prilosec 20 mg per day, terazosin 10 mg per day, and atorvastatin 10 mg HS.||DIN FFF metoprolol FFF 2 2||DOSE FFF 25 mg FFF 3 4||DOSEAMT FFF one-half FFF 5 5||FREQ FFF bid, FFF 6 6||DBN FFF procardia xl FFF 7 8||DOSE FFF 30 mg FFF 9 10||FREQ FFF daily, FFF 11 11||DIN FFF furosemide FFF 12 12||DOSE FFF 20 mg FFF 13 14||FREQ FFF per day, FFF 15 16||DBN FFF k-dur 20 FFF 17 18||FREQ FFF daily, FFF 20 20||DBN FFF flomax FFF 21 21||DOSE FFF 0.4 mg FFF 22 23||FREQ FFF daily, FFF 24 24||DBN FFF singulair FFF 25 25||DOSE FFF 10 mg FFF 26 27||FREQ FFF daily, FFF 28 28||DBN FFF advair FFF 29 29||DOSE FFF 25/50 mg FFF 30 31||FREQ FFF daily, FFF 32 32||DBN FFF prilosec FFF 33 33||DOSE FFF 20 mg FFF 34 35||FREQ FFF per day, FFF 36 37||DIN FFF terazosin FFF 38 38||DOSE FFF 10 mg FFF 39 40||FREQ FFF per day, FFF 41 42||DIN FFF atorvastatin FFF 44 44||DOSE FFF 10 mg FFF 45 46||FREQ FFF hs. FFF 47 47||
+240-01||11||He states that he feels completely well.
+240-01||12||He has noted good healing in the left groin.
+240-01||13||No new issues.
+240-01||14||Change in therapies and Renewals||INDICATION FFF change FFF 0 0||
+240-01||15||isosorbide mononitrate 30 mg SR po qd QTY:90 Refills:3 Start: 03/31/2095||DIN FFF isosorbide mononitrate FFF 0 1||DOSE FFF 30 mg FFF 2 3||RUT FFF po FFF 5 5||FREQ FFF qd FFF 6 6||
+240-01||16||metoprolol 25mg po 1/2 bid QTY:90 Refills:3 Start: 03/31/2095||DIN FFF metoprolol FFF 0 0||DOSE FFF 25mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF bid FFF 4 4||
+240-01||17||Physical examination
+240-01||18||Blood pressure 140/70    by the nurse, 135/75 by my exam 10 minutes later.||INDICATION FFF blood pressure FFF 0 1||
+240-01||19||Weight   194 pounds.||INDICATION FFF weight FFF 0 0||
+240-01||20||Neck   Neck veins are flat in the sitting positing.
+240-01||21||No neck bruits.
+240-01||22||Cor   Heart sounds are fine.||DIN FFF cor FFF 0 0||
+240-01||23||No clicks or murmurs.

@@ -1,0 +1,125 @@
+355-03||1||Record date: 2093-10-31
+355-03||2||Date October 31, 2093
+355-03||3||Time 1200
+355-03||4||Team 1 Admission Note
+355-03||5||Patient: Wade Daley
+355-03||6||Medical Record Number: 5694653
+355-03||7||Room: 3762N
+355-03||8||Date of Admission: October 31, 2093
+355-03||9||Primary Care Physician: Alan xavier, md||INDICATION FFF md FFF 5 5||
+355-03||10||Attending Physician: Alan Xavier, MD||INDICATION FFF md FFF 4 4||
+355-03||11||Admitting Intern Physician: Patricia Najera, MD||INDICATION FFF md FFF 5 5||
+355-03||12||Code Status: full
+355-03||13||Source: Patient, Medical Record
+355-03||14||Chief Complaint: wheezing and uncontrollable shivering||INDICATION FFF wheezing FFF 2 2||
+355-03||15||History of Present Illness:
+355-03||16||Pt was in his USOH until one week PTA when he developed a nonproductive cough.||DRT FFF until FFF 5 5||DRT FFF one week FFF 6 7||INDICATION FFF cough. FFF 14 14||
+355-03||17||Two to three days PTA he developed anorexia, malaise, and felt nauseated but did not vomit.||DRT FFF two to three days FFF 0 3||INDICATION FFF anorexia, FFF 7 7||INDICATION FFF nauseated FFF 11 11||INDICATION FFF vomit. FFF 15 15||
+355-03||18||Subsequently, in the early morning on the day of admission he woke up with difficulty breathing secondary to wheezing and was shivering uncontrollably.||TOD FFF morning FFF 4 4||INDICATION FFF difficulty breathing FFF 14 15||INDICATION FFF wheezing FFF 18 18||
+355-03||19||He presented to the Emergency Department where his O2 sat on RA was 90%, afebrile, HR 123, BP 118/57.||INDICATION FFF ra FFF 11 11||DOSE FFF 90%, FFF 13 13||INDICATION FFF bp FFF 17 17||
+355-03||20||He was given a liter of normal saline, and treated with Vancomycin 1 gm IV, Cefepime 1 gm IV, and Atrovent nebulizer treatment.||DOSE FFF a liter FFF 3 4||DIN FFF normal saline, FFF 6 7||DIN FFF vancomycin FFF 11 11||DOSE FFF 1 gm FFF 12 13||RUT FFF iv, FFF 14 14||DIN FFF cefepime FFF 15 15||DOSE FFF 1 gm FFF 16 17||RUT FFF iv, FFF 18 18||DBN FFF atrovent FFF 20 20||
+355-03||21||He had no fevers or chills, no sick contacts, no palpitations, no chest pain, no change in bowel habits, no dysuria, no rhinnorhea, no sore throat.||INDICATION FFF fevers FFF 3 3||INDICATION FFF sick FFF 7 7||INDICATION FFF chest pain, FFF 12 13||INDICATION FFF change FFF 15 15||INDICATION FFF sore throat. FFF 24 25||
+355-03||22||Review of Systems:
+355-03||23||As stated above in the history of present illness.||INDICATION FFF as FFF 0 0||
+355-03||24||No weakness, no abdominal pain, no melena, no BRBPR.||INDICATION FFF abdominal pain, FFF 3 4||
+355-03||25||Past Medical/Surgical History:
+355-03||26||-Pulmonary Emboli 3/93, unprovoked, diagnosed when Pt desaturated perioperatively after an excision of a right neck mass, on coumadin since then, hypercoag panel neg, limited by coumadin||INDICATION FFF -pulmonary emboli FFF 0 1||DBN FFF coumadin FFF 18 18||DBN FFF coumadin FFF 26 26||
+355-03||27||-Episode of Dysarthria and Left sided weakness 4/93, resolved, negative MRA/MRI, negative bubble study, therapeutic on coumadin at the time||INDICATION FFF dysarthria FFF 2 2||
+355-03||28||-Diabetes Mellitus, HgA1c 6.6, on glucophage||INDICATION FFF -diabetes mellitus, FFF 0 1||DBN FFF glucophage FFF 5 5||
+355-03||29||-Hypertension, on Lisinopril, no ACS episodes, no h/o ETT, Echo in 7/90 EF 70%||INDICATION FFF -hypertension, FFF 0 0||DIN FFF lisinopril, FFF 2 2||INDICATION FFF ef FFF 12 12||DOSE FFF 70% FFF 13 13||
+355-03||30||-Promyelocytic Leukemia, dx 2090, tx ended 2091||INDICATION FFF -promyelocytic leukemia, FFF 0 1||INDICATION FFF tx FFF 4 4||
+355-03||31||-Tardive Dyskinesia secondary to perphenazine, 2 years||INDICATION FFF dyskinesia FFF 1 1||DIN FFF perphenazine, FFF 4 4||DRT FFF 2 years FFF 5 6||
+355-03||32||-Reactive Airway Disease, recently diagnosed in Jan 2093
+355-03||33||Allergies: Perphenazine-Tardive Dyskinesia||INDICATION FFF allergies: FFF 0 0||INDICATION FFF dyskinesia FFF 2 2||
+355-03||34||Medications:
+355-03||35||Metaxalone 800 mg PO tid||DIN FFF metaxalone FFF 0 0||DOSE FFF 800 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF tid FFF 4 4||
+355-03||36||Advair Diskus 100/50 1 puff INH bid||DBN FFF advair diskus 100/50 FFF 0 2||DOSEAMT FFF 1 puff FFF 3 4||RUT FFF inh FFF 5 5||FREQ FFF bid FFF 6 6||
+355-03||37||Lisinopril 20 mg PO Qdaily||DIN FFF lisinopril FFF 0 0||DOSE FFF 20 mg FFF 1 2||RUT FFF po FFF 3 3||
+355-03||38||Glucophage 850 mg PO tid||DBN FFF glucophage FFF 0 0||DOSE FFF 850 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF tid FFF 4 4||
+355-03||39||Prilosec 20 mg PO Qdaily||DBN FFF prilosec FFF 0 0||DOSE FFF 20 mg FFF 1 2||RUT FFF po FFF 3 3||
+355-03||40||Atorvastatin 10 mg PO Qhs||DIN FFF atorvastatin FFF 0 0||DOSE FFF 10 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qhs FFF 4 4||
+355-03||41||ASA 81 mg PO Qdaily||DIN FFF asa FFF 0 0||DOSE FFF 81 mg FFF 1 2||RUT FFF po FFF 3 3||
+355-03||42||MVI, 1 tablet PO Qdaily||DPN FFF mvi, FFF 0 0||DOSEAMT FFF 1 tablet FFF 1 2||RUT FFF po FFF 3 3||
+355-03||43||Albuterol Inhaler 2 puff Q4 prn||DBN FFF albuterol inhaler FFF 0 1||DOSEAMT FFF 2 puff FFF 2 3||FREQ FFF q4 FFF 4 4||NEC FFF prn FFF 5 5||
+355-03||44||Risperidone 2 mg PO Qdaily||DIN FFF risperidone FFF 0 0||DOSE FFF 2 mg FFF 1 2||RUT FFF po FFF 3 3||
+355-03||45||Clozapine 150 mg PO Qhs||DIN FFF clozapine FFF 0 0||DOSE FFF 150 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qhs FFF 4 4||
+355-03||46||Reserpine 1.50 mg PO Qdaily||DIN FFF reserpine FFF 0 0||DOSE FFF 1.50 mg FFF 1 2||RUT FFF po FFF 3 3||
+355-03||47||Provigil 200 mg PO Bid||DBN FFF provigil FFF 0 0||DOSE FFF 200 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF bid FFF 4 4||
+355-03||48||Atrovent 0.06% 2 sprays nasal BID||DBN FFF atrovent FFF 0 0||DOSE FFF 0.06% FFF 1 1||DOSEAMT FFF 2 sprays FFF 2 3||RUT FFF nasal FFF 4 4||FREQ FFF bid FFF 5 5||
+355-03||49||Coumadin 5 mg PO Sun/M/W/F, 2.5 mg PO Tu/Th/Sat||DBN FFF coumadin FFF 0 0||DOSE FFF 5 mg FFF 1 2||RUT FFF po FFF 3 3||INDICATION FFF sun/m/w/f, FFF 4 4||DOSE FFF 2.5 mg FFF 5 6||RUT FFF po FFF 7 7||
+355-03||50||Synthroid 125 mcg PO Qdaily||DBN FFF synthroid FFF 0 0||DOSE FFF 125 mcg FFF 1 2||RUT FFF po FFF 3 3||
+355-03||51||Effexor XR 75 mg PO Qam||DBN FFF effexor xr FFF 0 1||DOSE FFF 75 mg FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF qam FFF 5 5||
+355-03||52||Social History:
+355-03||53||Lifestyle -on disability secondary to tarditive dyskinesia, used to be a manaager, is married with three children ages 3, 6, 9 yrs||INDICATION FFF dyskinesia, FFF 6 6||DRT FFF 9 yrs FFF 20 21||
+355-03||54||Tobacco -none
+355-03||55||Alcohol -occasionally, last drink in May
+355-03||56||Illicits -none
+355-03||57||Family History: noncontributory
+355-03||58||Physical Examination:
+355-03||59||GEN:  thin, slightly labored breathing
+355-03||60||VS:
+355-03||61||T 99.8 P 106 BP 110/60 RR 20 O2SAT 95% on 2L NC||INDICATION FFF t FFF 0 0||INDICATION FFF bp FFF 4 4||DOSE FFF 95% FFF 9 9||DOSE FFF 2l FFF 11 11||
+355-03||63||HEENT:  NC/AT, EOMI, PERRLA, mucous mucous membranes
+355-03||64||PULM:  crackles over lower lobes
+355-03||65||CV:  regular rate and rhythm, S1 and S2 normal, no murmurs
+355-03||66||ABD:  ND, normoactive BS, soft, NT to palpation||INDICATION FFF bs, FFF 3 3||
+355-03||67||EXT:  no c/c/e, DPs 2+
+355-03||68||NEURO:      Alert and oriented, CN II to XII grossly intact, strength 5/5 in UE and LE||INDICATION FFF cn FFF 4 4||INDICATION FFF le FFF 15 15||
+355-03||69||SKIN:  no worrisome rashes or lesions, good skin turgor
+355-03||70||Data:
+355-03||71||Sodium (Stat Lab)                142                       (135-145)      mmol/L||TOD FFF (stat FFF 1 1||
+355-03||72||Potassium (Stat Lab)             3.9                       (3.4-4.8)      mmol/L||TOD FFF (stat FFF 1 1||
+355-03||73||Chloride (Stat Lab)              111              H        (100-108)      mmol/L||TOD FFF (stat FFF 1 1||DRT FFF 111 h FFF 3 4||
+355-03||74||CO2 (Stat Lab)                   26.0                      (23.0-31.9)    mmol/L||TOD FFF (stat FFF 1 1||
+355-03||75||BUN (Stat Lab)                   32               H        (8-25)         mg/dl||TOD FFF (stat FFF 1 1||DRT FFF 32 h FFF 3 4||
+355-03||76||Creatinine (Stat Lab)            1.5                       (0.6-1.5)      mg/dl||INDICATION FFF creatinine FFF 0 0||TOD FFF (stat FFF 1 1||
+355-03||77||Glucose (Stat Lab)               173              H        (70-110)       mg/dl||TOD FFF (stat FFF 1 1||DRT FFF 173 h FFF 3 4||
+355-03||78||WBC                              5.5                       (4.5-11.0)     th/cmm
+355-03||79||HCT                              40.2             L        (41.0-53.0)    %||DOSE FFF 40.2 l FFF 1 2||
+355-03||80||HGB                              14.0                      (13.5-17.5)    gm/dl
+355-03||81||RBC                              4.48             L        (4.50-5.90)    mil/cmm||DOSE FFF 4.48 l FFF 1 2||
+355-03||82||PLT                              147              L        (150-350)      th/cumm||DOSE FFF 147 l FFF 1 2||
+355-03||83||MCV                              90                        (80-100)       fl
+355-03||84||MCH                              31.1                      (26.0-34.0)    pg/rbc
+355-03||85||MCHC                             34.7                      (31.0-37.0)    g/dl
+355-03||86||RDW                              13.8                      (11.5-14.5)    %
+355-03||87||PT                               20.8             H        (11.3-13.3)    sec||DRT FFF 20.8 h FFF 1 2||DIN FFF sec FFF 4 4||
+355-03||88||PT-INR                           3.0
+355-03||89||Diff Method                      Manual
+355-03||90||Poly                             63                        (40-70)        %
+355-03||91||Bands                            21               H        (0-10)         %||DRT FFF 21 h FFF 1 2||
+355-03||92||Lymphs                           14               L        (22-44)        %||DOSE FFF 14 l FFF 1 2||
+355-03||93||Monos                            2                L        (4-11)         %||DOSE FFF 2 l FFF 1 2||
+355-03||94||EOS                              0                         (0-8)          %
+355-03||95||Basos                            0                         (0-3)          %
+355-03||96||Absolute Neuts                   3.46                      (1.8-7.7)      th/cmm
+355-03||97||Absolute Bands                   1.16                                     th/cmm
+355-03||98||Absolute Lymphs                  0.77             L        (1.0-4.8)      th/cmm||DOSE FFF 0.77 l FFF 2 3||
+355-03||99||Absolute Monos                   0.11             L        (0.2-0.4)      th/cmm||DOSE FFF 0.11 l FFF 2 3||
+355-03||100||Absolute EOS                     0.00             L        (0.1-0.3)      th/cmm||DOSE FFF 0.00 l FFF 2 3||
+355-03||101||Absolute Basos                   0.00                      (0.0-0.3)      th/cmm
+355-03||102||Aniso                            None                      (None)
+355-03||103||Hypo                             None                      (None)
+355-03||104||Macrocytes                       None                      (None)
+355-03||105||Microcytes                       None                      (None)
+355-03||106||UA-Color                         Yellow                    (YELLOW)
+355-03||107||UA-Turbidity                     Clear                     (CLEAR)
+355-03||108||UA-Glucose                       NEGATIVE                  (NEG)
+355-03||109||UA-Bili                          NEGATIVE                  (NEG)
+355-03||110||UA-Ketones                       NEGATIVE                  (NEG)
+355-03||111||UA-Specific Gravity              1.027                     (1.001-1.035)
+355-03||112||UA-Occult Blood                  NEGATIVE                  (NEG)
+355-03||113||UA-pH                            5.0                       (5.0-9.0)
+355-03||114||UA-Albumin                       Trace                     (NEG)
+355-03||115||UA-Urobilinogen                  NEGATIVE                  (NEG)
+355-03||116||UA-Nitrite                       NEGATIVE                  (NEG)
+355-03||117||UA-WBC Screen                    NEGATIVE                  (NEG)
+355-03||118||Urine Cx, Blood Cx, Sputum Cx pending
+355-03||119||EKG, 10/31: sinus tachycardia, inferior Q waves in II and III, poor R wave progression, Right axis deviation
+355-03||120||CXR, 10/31: There is patchy density at the left base projecting posteriorly on the lateral image consistent with pneumonia.||INDICATION FFF pneumonia. FFF 18 18||
+355-03||121||There is no evidence of pneumothorax or pleural effusion.||INDICATION FFF pneumothorax FFF 5 5||INDICATION FFF pleural effusion. FFF 7 8||
+355-03||122||Left lower lobe pneumonia||INDICATION FFF pneumonia FFF 3 3||
+355-03||123||Impression/Plan:
+355-03||124||58 yo male w/ tardive dyskinesia, reactive airway disease, h/o PML, h/o Pulmonary embolus who p/w wheezing and hypoxia||INDICATION FFF dyskinesia, FFF 5 5||INDICATION FFF pulmonary embolus FFF 12 13||INDICATION FFF wheezing FFF 16 16||
+355-03||125||1. Presentation of wheezing and hypoxia consistent w/ community acquired PNA especially given evidence of left lower lobe infiltrate on Chest X Ray and bandemia.||INDICATION FFF wheezing FFF 3 3||
+355-03||126||Less likely that Pt had a Pulmonary embolus since he is therapeutic on coumadin with an INR of 3.0 today, no evidence of RVH on EKG, no chest pain on presentation.||INDICATION FFF pulmonary embolus FFF 6 7||DBN FFF coumadin FFF 13 13||INDICATION FFF inr FFF 16 16||INDICATION FFF chest pain FFF 27 28||

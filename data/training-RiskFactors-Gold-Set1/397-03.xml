@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2076-09-21
+
+                                                       Patient Name: GOLDBERG,JOEL [ MRN: 0370149RSC ]
+
+                                                         Date of Visit: 09/21/2076
+
+
+Chief Complaint:  46yr man with diabetes and peripheral vascular disease with recurrent cellulitis of R foot
+
+
+
+History of Present Illness:  Pt known to General surgery service from recent R 4th digit amp for non-resolving wet gangrene.  history of critical distal right superficial femoral artery stenosis treated with a stent in July. He initially presented with ischemia of the fourth and fifth toes on his right foot. Post stenting, the fifth toe eventually recovered; however, the fourth toe became gangrenous.  Now presents with new 5th digit ulcer
+
+
+
+Past Medical History: 
+
+Diabetes, HTN, peripheral neuropathy, nephropathy
+
+
+
+Past Surgical History: 
+
+Right superficial femoral artery angioplasty and stent placement on 7/20/76.
+
+R 5th digit amp, 9/3/76
+
+
+
+Medications: 
+
+Lipitor 10qd
+
+Glyburide 5bid
+
+Neurontin 300tid
+
+Plavix 75qd
+
+Zestril 2.5qd
+
+MS Contin 30bid
+
+Atenolol 12.5bid
+
+Nicotine patch 21mg
+
+
+
+Allergies: Codeine->GI
+
+
+
+Social History: Homeless
+
+Habits: Tob: 1/2 ppd
+
+
+
+Review of Systems:  
+
+No fevers, chills, night sweats
+
+No chest pain, diaphoresis
+
+No DOE, orthopnea
+
+
+
+Vital Signs: 
+
+Temp: 98.7    BP: 138/83    HR: 110    RR: 18    SpO2: 99
+
+
+
+Physical Exam:  
+
+General Appearance 
+
+Thin, chronically ill-appearing, NAD
+
+Neck 
+
+Supple, no nodes, no JVD
+
+Chest 
+
+CTA bilaterally
+
+Cardiac 
+
+RR S1 S2, no murmurs
+
+Abdomen 
+
+soft, ND, NT, no rebound, no guarding
+
+Extremity 
+
+2+ radials, 2+ carotids
+
+RLE: 1+ DP, PT, 2+ fem, sensation intact to tips of all remaining toes. 4th toe stump closure intact with sutures in place, no d/c no erythema. 4th toe with erythema and swelling to the MTP, no crepitance, mildly tender, no lymphangitis, 1cm ulcer with serous discharge
+
+LLE: tr DP, dopplerable PT, 2+ fem, sensation decreased to just above knee
+
+Neurological 
+
+AAOx3, speech fluent, CN's 2-12 intact
+
+Full strength all 4 ext
+
+Sensation as above
+
+
+
+Laboratory Data: WBC 6.9, Hct 34
+
+
+
+Assessment and Plan:  46yr man with severe diabetic vascular disease, recurrent RLE cellulitis
+
+--Admit to Surgery
+
+--Unasyn, blood cultures sent and pending
+
+--Wound care nurse consult
+
+--Wet to dry to R toe ulcer
+
+--No need for amp at this time, consider repeat arterial LENIs if no improvement
+
+
+
+
+
+______________________________                              
+
+Vu C. Mccarty, M.D.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC7" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC12" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC13" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC15" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC20" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC21" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC19" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC14" indicator="not present"/>
+    <SMOKER id="DOC16" status="current"/>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC11" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC22" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

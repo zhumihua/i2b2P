@@ -1,0 +1,41 @@
+324-03||1||Record date: 2068-12-01
+324-03||2||MEDIQUIK EMERGENCY DEPT VISIT
+324-03||4||RUTLEDGE,XAVIER W.   539-54-14-3
+324-03||5||I was the patient's doctor during this emergency department stay.||DRT FFF during FFF 5 5||
+324-03||6||PRESENTING COMPLAINT:  Infection in the left foot.||INDICATION FFF infection FFF 2 2||
+324-03||7||HISTORY OF PRESENTING COMPLAINT:  The patient is a 59-year-old man  with multiple medical problems including insulin-requiring diabetes  who has a chronic, nonhealing ulcer on the plantar surface of his  left foot.||INDICATION FFF diabetes FFF 16 16||INDICATION FFF ulcer FFF 22 22||
+324-03||8||He now complains of two days of increasing pain and  redness and systemic malaise.||DRT FFF two days FFF 4 5||INDICATION FFF pain FFF 8 8||INDICATION FFF redness FFF 10 10||
+324-03||9||He denies chest pain, abdominal  pain, streaking redness up to the thigh, nausea, vomiting,  diarrhea, and dysuria.||INDICATION FFF chest pain, FFF 2 3||INDICATION FFF abdominal pain, FFF 4 5||INDICATION FFF redness FFF 7 7||INDICATION FFF nausea, FFF 12 12||INDICATION FFF vomiting, FFF 13 13||INDICATION FFF diarrhea, FFF 14 14||
+324-03||10||REVIEW OF SYSTEMS:  Negative except as given above.||INDICATION FFF as FFF 5 5||
+324-03||11||PAST MEDICAL HISTORY:  Hypercholesterolemia, gout, hypertension,||INDICATION FFF hypercholesterolemia, FFF 3 3||INDICATION FFF gout, FFF 4 4||INDICATION FFF hypertension, FFF 5 5||
+324-03||12||insulin-requiring diabetes mellitus, chronic renal insufficiency,||INDICATION FFF diabetes mellitus, FFF 1 2||INDICATION FFF chronic renal insufficiency, FFF 3 5||
+324-03||13||nephrotic syndrome, status post kidney transplant in 2059, on||INDICATION FFF nephrotic syndrome, FFF 0 1||
+324-03||14||cyclosporine, thrombocytopenia, CMV, and hypomagnesemia||DIN FFF cyclosporine, FFF 0 0||INDICATION FFF thrombocytopenia, FFF 1 1||INDICATION FFF cmv, FFF 2 2||
+324-03||15||intermittently.
+324-03||16||Kidney transplant as noted above.||INDICATION FFF as FFF 2 2||
+324-03||17||MEDICATIONS:  Levaquin, cyclosporine, magnesium, Lipitor, Coumadin,||DBN FFF levaquin, FFF 1 1||DIN FFF cyclosporine, FFF 2 2||DIN FFF magnesium, FFF 3 3||DBN FFF lipitor, FFF 4 4||DBN FFF coumadin, FFF 5 5||
+324-03||18||prednisone, Allopurinol, lisinopril, metoprolol, Lasix, and others  as noted on the nurses' notes.||DIN FFF prednisone, FFF 0 0||DIN FFF allopurinol, FFF 1 1||DIN FFF lisinopril, FFF 2 2||DIN FFF metoprolol, FFF 3 3||DBN FFF lasix, FFF 4 4||INDICATION FFF as FFF 7 7||
+324-03||19||ALLERGIES:  Codeine which caused a rash.||INDICATION FFF allergies: FFF 0 0||
+324-03||20||SOCIAL HISTORY AND FAMILY HISTORY:  Social history noncontributory.
+324-03||21||Family history noncontributory.
+324-03||22||PHYSICAL EXAMINATION:  GENERAL:  Awake, alert, spontaneous and
+324-03||23||appropriate, in no distress.
+324-03||24||VITAL SIGNS:  Normal.
+324-03||25||HEENT:  There  was no evidence of head trauma, conjunctivae clear.||INDICATION FFF head trauma, FFF 6 7||
+324-03||26||NECK:  Supple  with no lymphadenopathy and no jugulovenous distention.
+324-03||27||CHEST:
+324-03||28||Notable for babasilar rales with normal respiratory excursion.
+324-03||29||HEART:  Regular with no murmurs, rubs, or gallops.
+324-03||30||ABDOMEN:  Soft,  nontender, no masses, no organomegaly.
+324-03||31||SKIN/EXTREMITIES:  Other  than the left foot and ankle, the skin and extremities were normal  with no clubbing, cyanosis, lesions or rashes, although there was  bilateral 1+ pitting edema in the lower extremities.||INDICATION FFF cyanosis, FFF 17 17||INDICATION FFF edema FFF 27 27||
+324-03||32||The left foot  had an approximately 1 cm ulcer on the plantar surface and the  entire left foot and ankle were quite erythematous with increased  edema relative to the remainder of the lower extremities.||INDICATION FFF cm FFF 7 7||INDICATION FFF ulcer FFF 8 8||INDICATION FFF edema FFF 25 25||
+324-03||33||He also  had tenderness on palpation of the ankle though there was no  tenderness on passive motion of the toes.
+324-03||34||LABORATORY EVALUATION:  Pending at this time.
+324-03||35||The patient is being  seen by the Surgery Department.||INDICATION FFF surgery FFF 7 7||
+324-03||36||FINAL DIAGNOSIS:  Infected diabetic foot ulcer.||INDICATION FFF diabetic foot ulcer. FFF 3 5||
+324-03||37||DISPOSITION (including condition upon discharge):  The patient will  be admitted to the Surgery Department for surgical management  and inpatient medical management.||INDICATION FFF surgery FFF 12 12||
+324-03||38||Condition fair.   ___________________________________                    OO280/953
+324-03||39||QUINTON OSWALD, M.D.   QO05                              D:12/01/68
+324-03||40||T:12/01/68
+324-03||41||Dictated by:  QUINTON OSWALD, M.D.   QO05
+324-03||42||******** Not reviewed by Attending Physician ********

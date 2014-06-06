@@ -1,0 +1,29 @@
+289-05	6	0	Metformin 1000 mg BID, glyburide 1.25 mg QD.	Metformin 1000 mg BID, glyburide 1.25 mg QD. FFF 0 7	 FFF 	 FFF 	bid, FFF 3 3	 FFF 	 FFF 	narrative
+289-05	7	0	He is trying to be much more disciplined with his diet and as a result, according to his wife, he is experiencing fairly frequent minor hypoglycemic episodes.	hypoglycemic FFF 25 25	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-05	9	0	Recheck today.  I suspect we will be able to discontinue the glyburide.	glyburide. FFF 11 11	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-05	10	0	Urine albumin/creatinine ratio within normal limits six months ago.	albumin/creatinine FFF 1 1	 FFF 	 FFF 	 FFF 	six months FFF 6 7	 FFF 	narrative
+289-05	17	0	Remains on Mestinon.	mestinon. FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-05	20	0	Remains on pravastatin.	pravastatin. FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-05	21	0	Total cholesterol 151, HDL 70, LDL 72, triglycerides 46 February 2077.	triglycerides FFF 7 7	46 FFF 8 8	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-05	32	0	Compliant with PPI.	ppi. FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-05	37	0	Check EPO level, follow CBC.     11/21/2077:   EPO level inappropriately low.	epo FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-05	37	0	Check EPO level, follow CBC.     11/21/2077:   EPO level inappropriately low.	epo FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-05	40	0	On low-dose ACE inhibitor and beta blocker.	ace inhibitor FFF 2 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-05	40	0	On low-dose ACE inhibitor and beta blocker.	beta blocker. FFF 5 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-05	48	0	Advair 500/50mcg spray inh bid	advair 500/50mcg spray FFF 0 2	 FFF 	inh FFF 3 3	bid FFF 4 4	 FFF 	 FFF 	narrative
+289-05	49	0	albuterol inhaler  inh 2 puffs qid prn	albuterol inhaler FFF 0 1	2 puffs FFF 3 4	inh FFF 2 2	qid prn FFF 5 6	 FFF 	 FFF 	narrative
+289-05	50	0	aspirin 81mg	aspirin FFF 0 0	81mg FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-05	51	0	atenolol 25mg po qd	atenolol FFF 0 0	25mg FFF 1 1	po FFF 2 2	qd FFF 3 3	 FFF 	 FFF 	narrative
+289-05	52	0	Ativan 1mg po prn air travel	ativan FFF 0 0	1mg FFF 1 1	po FFF 2 2	prn FFF 3 3	 FFF 	 FFF 	narrative
+289-05	53	0	Dalmane 30 mg take 1 at hs prn	dalmane FFF 0 0	30 mg FFF 1 2	 FFF 	at hs prn FFF 5 7	 FFF 	 FFF 	narrative
+289-05	54	0	Fish oil 1 gm DAILY	fish oil FFF 0 1	1 gm FFF 2 3	 FFF 	daily FFF 4 4	 FFF 	 FFF 	narrative
+289-05	55	0	free text medication #1  QHS quinine	quinine FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-05	56	0	lisinopril 5 mg po qd	lisinopril FFF 0 0	5 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+289-05	57	0	Mestinon 60mg/180mg 60mg @6am,11am,4pm: then180mg @time spansule at night daily metformin hydrochloride 500 mg 2 tabs po bid multivitamins	mestinon FFF 0 0	60mg/180mg FFF 1 1	 FFF 	@6am,11am,4pm: FFF 3 3	 FFF 	 FFF 	narrative
+289-05	57	0	Mestinon 60mg/180mg 60mg @6am,11am,4pm: then180mg @time spansule at night daily metformin hydrochloride 500 mg 2 tabs po bid multivitamins	spansule FFF 6 6	 FFF 	 FFF 	daily FFF 9 9	 FFF 	 FFF 	narrative
+289-05	57	0	Mestinon 60mg/180mg 60mg @6am,11am,4pm: then180mg @time spansule at night daily metformin hydrochloride 500 mg 2 tabs po bid multivitamins	metformin hydrochloride FFF 10 11	500 mg FFF 12 13	po FFF 16 16	bid FFF 17 17	 FFF 	 FFF 	narrative
+289-05	57	0	Mestinon 60mg/180mg 60mg @6am,11am,4pm: then180mg @time spansule at night daily metformin hydrochloride 500 mg 2 tabs po bid multivitamins	multivitamins FFF 18 18	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-05	58	0	Protonix 40 mg po qd do not cut/crush/chew	protonix FFF 0 0	40 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+289-05	60	0	atenolol 25mg po qd Start: 9/18/2074	atenolol FFF 0 0	25mg FFF 1 1	po FFF 2 2	qd FFF 3 3	 FFF 	 FFF 	narrative
+289-05	61	0	pravastatin 20mg po qd QTY:90 Refills:3 Start: 2/27/2077 End: 11/21/2077 - Inactivated	pravastatin FFF 0 0	20mg FFF 1 1	po FFF 2 2	qd FFF 3 3	 FFF 	 FFF 	narrative
+289-05	81	0	Influenza vaccine	influenza vaccine FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

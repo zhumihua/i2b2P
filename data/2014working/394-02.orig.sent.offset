@@ -1,0 +1,24 @@
+394-02	16	0	Is diabetic on glyburide	glyburide FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+394-02	17	0	Has been on prednisone for PMR, tpaering dose.	prednisone FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+394-02	18	0	Current dose per RN sheet is total 8 mg per day prednisone.	prednisone. FFF 11 11	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+394-02	42	0	Folic Acid 1MG, 1 Tablet(s) PO QD	folic acid FFF 0 1	1mg, FFF 2 2	po FFF 5 5	qd FFF 6 6	 FFF 	 FFF 	narrative
+394-02	43	0	Ecotrin (ASPIRIN Enteric Coated) 325MG, 1 Tablet(s) PO QD	Ecotrin (ASPIRIN Enteric Coated) FFF 0 3	325mg, FFF 4 4	po FFF 7 7	qd FFF 8 8	 FFF 	 FFF 	narrative
+394-02	44	0	Metoprolol Tartrate 50MG, 1 Tablet(s) PO TID	metoprolol tartrate FFF 0 1	50mg, FFF 2 2	po FFF 5 5	tid FFF 6 6	 FFF 	 FFF 	narrative
+394-02	45	0	SOTALOL 80MG, 1 Tablet(s) PO BID	sotalol FFF 0 0	80mg, FFF 1 1	po FFF 4 4	bid FFF 5 5	 FFF 	 FFF 	narrative
+394-02	46	0	Thiamine Hcl 100MG, 1 Tablet(s) PO QD	thiamine hcl FFF 0 1	100mg, FFF 2 2	po FFF 5 5	qd FFF 6 6	 FFF 	 FFF 	narrative
+394-02	47	0	DIGOXIN 0.125MG, 1 Tablet(s) PO QD	digoxin FFF 0 0	0.125mg, FFF 1 1	po FFF 4 4	qd FFF 5 5	 FFF 	 FFF 	narrative
+394-02	48	0	Ferrous Sulfate 325MG, 1 Tablet(s) PO QD	ferrous sulfate FFF 0 1	325mg, FFF 2 2	po FFF 5 5	qd FFF 6 6	 FFF 	 FFF 	narrative
+394-02	49	0	Mvi (MULTIVITAMINS) 1 CAPSULE PO QD	Mvi (MULTIVITAMINS) FFF 0 1	1 capsule FFF 2 3	po FFF 4 4	qd FFF 5 5	 FFF 	 FFF 	narrative
+394-02	50	0	Calcium Carbonate Vit D(1TABLET=250MG E... 500 MG PO TID	calcium carbonate FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+394-02	50	0	Calcium Carbonate Vit D(1TABLET=250MG E... 500 MG PO TID	vit d(1tablet=250mg FFF 2 3	d(1tablet=250mg FFF 3 3	po FFF 7 7	tid FFF 8 8	 FFF 	 FFF 	narrative
+394-02	51	0	NITROFURANTOIN 100MG, 1 Capsule(s) PO QD	nitrofurantoin FFF 0 0	100mg, FFF 1 1	po FFF 4 4	qd FFF 5 5	 FFF 	 FFF 	narrative
+394-02	52	0	Aricept (DONEPEZIL Hcl) 5 MG PO QHS x 30 day(s)	Aricept (DONEPEZIL Hcl) FFF 0 2	5 mg FFF 3 4	po FFF 5 5	qhs FFF 6 6	30 day(s) FFF 8 9	 FFF 	narrative
+394-02	53	0	Zocor (SIMVASTATIN) 20MG, 1 Tablet(s) PO QHS x 30 day(s)	Zocor (SIMVASTATIN) FFF 0 1	20mg, FFF 2 2	po FFF 5 5	qhs FFF 6 6	30 day(s) FFF 8 9	 FFF 	narrative
+394-02	54	0	GLYBURIDE 2.5MG, 1 Tablet(s) PO QD	glyburide FFF 0 0	2.5mg, FFF 1 1	po FFF 4 4	qd FFF 5 5	 FFF 	 FFF 	narrative
+394-02	55	0	PREDNISONE 5MG, 1 Tablet(s) PO QAM	prednisone FFF 0 0	5mg, FFF 1 1	po FFF 4 4	qam FFF 5 5	 FFF 	 FFF 	narrative
+394-02	56	0	PREDNISONE 1MG, 3 Tablet(s) PO QAM : total 8 mg/	prednisone FFF 0 0	1mg, FFF 1 1	po FFF 4 4	qam FFF 5 5	 FFF 	 FFF 	narrative
+394-02	57	0	Paxil (PAROXETINE) 20MG, 1 Tablet(s) PO QD	Paxil (PAROXETINE) FFF 0 1	20mg, FFF 2 2	po FFF 5 5	qd FFF 6 6	 FFF 	 FFF 	narrative
+394-02	58	0	Vitamin B 1 100 mg qd	vitamin b 1 FFF 0 2	100 mg FFF 3 4	 FFF 	qd FFF 5 5	 FFF 	 FFF 	narrative
+394-02	66	0	Cor: RR 72	cor: FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+394-02	80	0	Impression: Pateint appears well and has minimal physical findings (minimal pain on palp LLQ) but given                        that she is on prednisone which may mask symptoms, as well as diabetic and dementia                        could also obscure exam as well as history, I am concerned about acute diverticulitis.	prednisone FFF 20 20	 FFF 	 FFF 	am FFF 40 40	 FFF 	 FFF 	narrative
+394-02	83	0	Will get CBC with diff, chemistries including LFT's, amylase	amylase FFF 8 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

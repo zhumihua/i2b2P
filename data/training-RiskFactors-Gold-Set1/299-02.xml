@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2063-09-29
+
+Reason for Visit	
+
+Comprehensive physical.
+
+
+
+Problems	  
+
+Hyperlipidemia	      
+
+She is now on Lipitor per Dr. Qu.
+
+diabetes mellitus	      
+
+Blood sugars nl on Glucophage and Avandia.  I will check labs today.
+
+S/P Herpetic Neuralgia	      
+
+Still has itchiness on her chin but no pain.  
+
+Colon cancer	      
+
+Still sees Dr. Aragon Q3mos, doing well. 
+
+Coronary artery disease	      
+
+s/p right coronary stent 1/2061 after non-Q wave MI.  She had an arrest in the field on 9/05/2062 and was taken to SLH, after intubation in the field.  Emergency catheterization showed 30% LAD. 40% diagonal and a ejection fraction of 25% with antero-septal akinesis.  CPKs were neg.  Of note, a recent stress test at DCGH had shown LBBB but nl LV function, so she was diagnosed with new cardiomyopathy.  She was disch on 9/10 to Dr. Qu's care.  It is not clear that she has followed-up recently, though a echo from 09/24/62 shows an ejection fraction of 58% with no definite segmental wall motion abnormality.  She has been pain free and is able to walk a few blocks without difficulty since then.  
+
+hypothyroidism	      
+
+Continues on Synthroid.
+
+Lung cancer	      
+
+Now 5 yrs out from left lobectomy and is followed by Dr. Aragon.
+
+depression	      
+
+Seems to be doing extremely well despite her multiple med problems in recent yrs.  Remains on Paxil and also takes Ativan nightly.  
+
+
+
+Vital Signs	  
+
+Blood Pressure:	 100/50   Left Arm
+
+Pulse:	 64   Regular
+
+Weight:	 143   Pounds
+
+
+
+Physical Exam	  
+
+General Appearance	
+
+Well appearing.
+
+HEENT	
+
+No thyromegaly, no adenopathy.
+
+Breast	
+
+Without masses, good carotid upstrokes.
+
+Cor/Cardiac	
+
+Nl S1-S2.
+
+Abdomen	
+
+Benign.
+
+Rectal Exam	
+
+Heme neg brown stool, no masses.
+
+Extremity	
+
+Full pulses, no edema.
+
+Pelvis	
+
+Nl.
+
+
+
+Medications	  
+
+LORAZEPAM	 0.5MG  1 qd
+
+Synthroid	 0.05MG  QD
+
+AVANDIA (ROSIGLITAZONE)	 4MG 1 Tablet(s) PO BID
+
+LASIX (FUROSEMIDE)	 80MG 1 Tablet(s) PO 2 tabs BID
+
+PRILOSEC (OMEPRAZOLE)	 20MG 1 Capsule(s) PO BID
+
+LOPRESSOR (METOPROLOL TARTRATE)	 50MG 0.5 Tablet(s) PO BID
+
+Paxil	 20.0MG PO QD
+
+GLUCOPHAGE (METFORMIN)	 500MG 2 Tablet(s) PO BID
+
+CALTRATE 600	 1TAB PO BID
+
+FE GLUCONATE (FERROUS GLUCONATE)	 325MG 1 Tablet(s) PO TID
+
+ECASA (ASPIRIN ENTERIC COATED)	 81MG 1 Tablet(s) PO QD
+
+ATROVENT INHALER (IPRATROPIUM INHALER)	 2PUFF NAS BID
+
+SEREVENT (SALMETEROL)	 2PUFF NAS BID
+
+CALCIUM GLUCONATE	 500MG 2 Tablet(s) PO BID
+
+ACCUPRIL (QUINAPRIL)	 10MG PO QD
+
+ONE TOUCH TEST STRIPS	 BLANK  
+
+Multivitamins	 1TAB  QD
+
+OCUVITE (MULTIVITAMINS)	 1TAB PO QD
+
+Lipitor	 20MG PO 1 QD
+
+Lopid	 600MG PO BID
+
+
+
+Health Maintenance	  
+
+Influenza Vaccine	 09/29/63   given today
+
+Cholesterol	 09/29/2063 185  
+
+Mammogram	 04/12/2063 BilScrMammo  
+
+Pap Smear	 09/29/2063 See report in Results  
+
+Stool Guaiac	 07/30/2062  Done - negative 
+
+Pneumococcal Vaccine	 08/02/2060   Given today.
+
+UA-Protein	 09/06/2062 2+  
+
+HBA1C	 09/30/2063 5.40  
+
+Bone Density	 09/29/63   ordered
+
+
+
+Disposition and Plans	
+
+Return 1 yr physical.
+
+Breast Exam	 07/30/2062    Without masses. 
+
+Rectal exam	 07/30/2062    Heme negative brown stool, no masses. 
+
+Pneumovax	 08/02/2060   
+
+BSE instruction	 07/31/2061 BSE instruction reviewed today  
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC10" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC20" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC27" time="before DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC7" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="fibrate" type2=""/>
+    <MEDICATION id="DOC12" time="before DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC17" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC22" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC23" time="during DCT" type1="fibrate" type2=""/>
+    <MEDICATION id="DOC25" time="during DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC28" time="before DCT" type1="fibrate" type2=""/>
+    <MEDICATION id="DOC29" time="after DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC30" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC31" time="during DCT" type1="beta blocker" type2=""/>
+    <CAD id="DOC15" time="after DCT" indicator="mention"/>
+    <CAD id="DOC21" time="during DCT" indicator="mention"/>
+    <CAD id="DOC26" time="before DCT" indicator="event"/>
+    <CAD id="DOC32" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC19" indicator="not present"/>
+    <SMOKER id="DOC14" status="unknown"/>
+    <DIABETES id="DOC5" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC8" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC24" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

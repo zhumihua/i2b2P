@@ -1,0 +1,80 @@
+246-03||1||Record date: 2103-01-04
+246-03||2||**The source of this note is the JCH Emergency Dept.
+246-03||3||Information System.
+246-03||4||All updates should originate in EDIS.**
+246-03||5||Johnson County HomeEmergency Department Record - Observation UnitED Obs NoteEDIS Note Status: SignedPatient: Yeo, Austin &nbsp       &nbsp   MRN: 8652895        DOB:  5/17/2060     Sex: MRegistration Date/Time: 1/4/2103 03:51||DIN FFF dob: FFF 19 19||
+246-03||6||ED OBS Note||INDICATION FFF ed FFF 0 0||
+246-03||7||Obs Admission Note
+246-03||8||Note Status: Signed
+246-03||9||ED Dismissal Date Time:       01/04/03 07:45||INDICATION FFF ed FFF 0 0||
+246-03||10||This note has been electronically signed by Frances Jester, NP 01/04/03 05:05||INDICATION FFF np FFF 9 9||
+246-03||11||Clinical staff documenting in the ED note include:||INDICATION FFF ed FFF 5 5||
+246-03||12||Frances Jester, NP [fj365]||INDICATION FFF np FFF 2 2||
+246-03||13||Date/Time of Encounter:1/4/03  410am [fj365]||TOD FFF 410am FFF 3 3||
+246-03||14||Chief Complaint:CHEST PAIN [fj365]||INDICATION FFF pain FFF 2 2||
+246-03||15||HPI:42yo male presents to the ED with co cp x 2 days that worsened after using cocaine.||INDICATION FFF ed FFF 5 5||INDICATION FFF cp FFF 8 8||DRT FFF x 2 days FFF 9 11||DIN FFF cocaine. FFF 16 16||
+246-03||16||Onset at rest.
+246-03||17||Unfortunately, he wasn't very cooperative during hx on arrival to EDOU.||DRT FFF during FFF 5 5||
+246-03||18||Per ED hx, co diffuse anter cp with radiation to his L arm.  + sob and progressive doe.     [fj365]||INDICATION FFF ed FFF 1 1||INDICATION FFF cp FFF 6 6||INDICATION FFF sob FFF 14 14||
+246-03||19||PMHx/PSHx:diabetes, hypertension, high cholesterol, chronic back pain, and possible history of substance abuse, schizoaffective disorder||INDICATION FFF hypertension, FFF 1 1||INDICATION FFF cholesterol, FFF 3 3||INDICATION FFF back pain, FFF 5 6||
+246-03||20||[fj365]
+246-03||21||Meds:Methodone 60mg - could not confirm at the time of this note [fj365]||DOSE FFF 60mg FFF 1 1||
+246-03||22||Allergy:NKA ( ) [fj365]
+246-03||23||Family Hx:Unable to obtain [fj365]
+246-03||24||Social Hx:Pt is from Oregon but has lived in the Ruleville area for the past 10 years.||DRT FFF 10 years. FFF 15 16||
+246-03||25||Single, never married, no children.
+246-03||26||Parents are deceased.||INDICATION FFF deceased. FFF 2 2||
+246-03||27||Pt has cousins in the area for support.
+246-03||28||Pt states he has lived with cousin for past 3 years.||DRT FFF 3 years. FFF 9 10||
+246-03||29||Pt states he has just started receiving SSI/food stamps since 1 year.||DRT FFF 1 year. FFF 10 11||
+246-03||30||Pt has history of living in shelters.
+246-03||31||Patient uses alcohol - adm to a 12pk of beer per day, last drink just prior to arrival. [fj365]||FREQ FFF per day, FFF 10 11||
+246-03||32||ROS:Chest/Respiratory: See HPI.
+246-03||33||Cardiovascular: See HPI. [fj365]
+246-03||34||ROS and PFSHx as noted above and in the ED record for this encounter.||INDICATION FFF as FFF 3 3||INDICATION FFF ed FFF 9 9||
+246-03||35||All other systems otherwise negative.
+246-03||36||Physical Exam:
+246-03||37||General:Vitals as per nursing notes.||INDICATION FFF as FFF 1 1||
+246-03||38||Lying supine with eyes closed, would not open and hold direct eye contact during interview.||RUT FFF eye FFF 11 11||DRT FFF during FFF 13 13||
+246-03||39||Morbidly obese [fj365]||INDICATION FFF obese FFF 1 1||
+246-03||40||ENT:Patient's airway is intact. [fj365]
+246-03||41||Neck:Carotid bruits are absent. [fj365]
+246-03||42||Chest/Respiratory:Breath sounds are decreased. [fj365]
+246-03||43||Cardiovascular:The heart sounds have a normal S1/S2.
+246-03||44||The heart is regular rate and rhythm.
+246-03||45||Hrt sounds are distant [fj365]
+246-03||46||Lab Results:01/04/2103 NA 141,  K 4.1,  CL 104,  CO2 26.1,  BUN 16,  CRE 1.11,  EGFR &gt;60 [1],  GLU 133 (H)||DOSE FFF 141, FFF 3 3||INDICATION FFF k FFF 4 4||INDICATION FFF cl FFF 6 6||RUT FFF &gt;60 FFF 15 15||DIN FFF glu FFF 17 17||DOSE FFF 133 FFF 18 18||
+246-03||47||[1] RESULT COMMENT:
+246-03||48||Abnormal if &lt;60 mL/min/1.73m2. If patient is African-American, multiply the result by 1.21.||DOSE FFF &lt;60 ml/min/1.73m2. FFF 2 3||
+246-03||49||01/04/2103 ANION 11
+246-03||50||01/04/2103 PHOS 3.4,  MG 1.8,  TBILI 0.2,  DBILI 0.0,  TP 6.3,  ALB 3.4,  GLOB 2.9||INDICATION FFF tp FFF 9 9||DIN FFF alb FFF 11 11||DOSE FFF 3.4, FFF 12 12||
+246-03||51||01/04/2103 CA 8.7,  PHOS 3.6,  MG 1.8||INDICATION FFF ca FFF 1 1||
+246-03||52||01/04/2103 AMY 67,  LIPS 18||TOD FFF 01/04/2103 amy FFF 0 1||
+246-03||53||01/04/2103 ALT/SGPT 16,  AST/SGOT 15,  ALKP 42 (L),  TBILI 0.2,  DBILI 0.0
+246-03||54||01/04/2103 CK-MB NEGATIVE,  TROP-I NEGATIVE
+246-03||55||01/04/2103 CK 462 (H)
+246-03||56||01/04/2103 WBC 11.8 (H),  RBC 4.95,  HGB 11.5 (L),  HCT 35.5 (L),  MCV 72 (L),  MCH 23.1 (L),  MCHC 32.3,  PLT 306
+246-03||57||01/04/2103 RDW 17.2 (H)
+246-03||58||01/04/2103 DIFFR RECEIVED,  METHOD Auto,  %NEUT 66,  %LYMPH 25,  %MONO 5,  %EOS 4,  %BASO 0
+246-03||59||01/04/2103 ANEUT 7.73 (H),  ALYMP 2.96,  AMONS 0.60,  AEOSN 0.51 (H),  ABASOP 0.03
+246-03||60||01/04/2103 ANISO 1+ (H),  HYPO 2+ (H),  MACRO None,  MICRO 3+ (H)
+246-03||61||01/04/2103 PT 13.5 (H),  PT-INR 1.2,  PTT 26.7||INDICATION FFF ptt FFF 6 6||
+246-03||62||01/04/2103 TOX1  [1],  TOX2  [2]
+246-03||63||[1] RESULT COMMENT:
+246-03||64||COMPLETED: PANEL NEGATIVE
+246-03||65||(NOTE)Drugs included in PANEL 1 (Detection limit in mg/L): Ethanol (100).||DIN FFF (note)drugs FFF 0 0||
+246-03||66||Isopropanol (100).||DIN FFF isopropanol FFF 0 0||
+246-03||67||Methanol (100). [2] RESULT COMMENT:||DIN FFF methanol FFF 0 0||
+246-03||68||COMPLETED: PANEL NEGATIVE
+246-03||69||(NOTE)Drugs included in PANEL 2 (Detection limit in mg/L):||DIN FFF (note)drugs FFF 0 0||
+246-03||70||Acetaminophen (25). Lamotrigine||DIN FFF acetaminophen FFF 0 0||DIN FFF lamotrigine FFF 2 2||
+246-03||71||(4). Salicylate (100). [fj365]||DIN FFF salicylate FFF 1 1||
+246-03||72||EKG:SR  No acute ischemia. [fj365]||INDICATION FFF ischemia. FFF 3 3||
+246-03||73||Radiology:CXR -  IMPRESSION:
+246-03||74||No evidence of pneumonia. [fj365]||INDICATION FFF pneumonia. FFF 3 3||
+246-03||75||Medical Decision Making/Plan:42 YO morbidly obese male with several cardiac risk factors presents with cp, doubtful acs but ? cad/angina||INDICATION FFF obese FFF 5 5||INDICATION FFF risk FFF 10 10||INDICATION FFF cp, FFF 14 14||INDICATION FFF cad/angina FFF 19 19||INDICATION FFF cad/angina FFF 19 19||
+246-03||76||Plan - Serial enzy, ecgs and exams
+246-03||77||Cardiac monitoring
+246-03||78||If romi neg, Adeno MIBI 2/2 to size and poor functional capacity [fj365]
+246-03||79||Obs Attending Note
+246-03||80||Note Status: Signed

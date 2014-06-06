@@ -1,0 +1,46 @@
+393-02||1||Record date: 2081-06-10
+393-02||2||Attending Admission Note
+393-02||3||HPI
+393-02||4||52 year old woman with DM and h/o gastroparesis who presented with nausea and vomiting.||DRT FFF 52 year FFF 0 1||INDICATION FFF dm FFF 5 5||INDICATION FFF gastroparesis FFF 8 8||INDICATION FFF nausea FFF 12 12||INDICATION FFF vomiting. FFF 14 14||
+393-02||5||She was last admitted one week ago with N/V and treated for gastroparesis.||DRT FFF one week FFF 4 5||INDICATION FFF gastroparesis. FFF 12 12||
+393-02||6||Her diabetes has been poorly controlled with her last hemoglobin A1c over 12 in April of 2081.||INDICATION FFF her diabetes FFF 0 1||
+393-02||7||She has had recurrent episodes of nausea and vomiting.||INDICATION FFF nausea FFF 6 6||INDICATION FFF vomiting. FFF 8 8||
+393-02||8||During this past year in January, she was admitted to Missouri Baptist Hospital.||DRT FFF during FFF 0 0||
+393-02||9||She had a negative EGD, and HIDA scan showed low ejection fraction to cholecystokinase.
+393-02||10||She underwent a laparoscopic cholecystectomy.
+393-02||11||She was admitted again a few weeks later to Missouri Baptist and had a gastric emptying study, which was consistent with gastroparesis.||INDICATION FFF gastroparesis. FFF 21 21||
+393-02||12||In February, she was seen in the Philadelphia State Hospital Emergency Room with nausea and vomiting and had a KUB, which showed significant stool.||INDICATION FFF nausea FFF 13 13||INDICATION FFF vomiting FFF 15 15||
+393-02||13||She presented again on 02/11/2081 and had an abdominal CT that showed thickening of the terminal ileum and possible thickening of the gastric and possible duodenal wall.||INDICATION FFF ct FFF 9 9||
+393-02||14||GI was consulted and the colonoscopy done on 02/14/2081 was normal, but did not visualize the terminal ileum.
+393-02||15||A small-bowel follow-through on 02/16/2081 was normal.
+393-02||16||She was discharged on a regimen of Reglan and erythromycin.||DBN FFF reglan FFF 7 7||DIN FFF erythromycin. FFF 9 9||
+393-02||17||Since February, she has been seen multiple times in the outpatient clinic as well as medical walk-in.||INDICATION FFF as FFF 12 12||INDICATION FFF as FFF 14 14||
+393-02||18||She reports being complaint with her regimen of erythromycin 250 mg four times a day and Reglan 10 mg twice a day.||DIN FFF erythromycin FFF 8 8||DOSE FFF 250 mg FFF 9 10||FREQ FFF four times a day FFF 11 14||DBN FFF reglan FFF 16 16||DOSE FFF 10 mg FFF 17 18||FREQ FFF twice a day. FFF 19 21||
+393-02||19||She was also recently started on Glucophage titrating up to 1000 mg b.i.d. as she had difficulty with multiple short per day regimen of insulin administration.||DBN FFF glucophage FFF 6 6||DOSE FFF 1000 mg FFF 10 11||FREQ FFF b.i.d. FFF 12 12||INDICATION FFF as FFF 13 13||FREQ FFF per day FFF 20 21||DIN FFF insulin FFF 24 24||
+393-02||20||She was admitted from 5/31-6/2 and treated with IV Zofran and enemas.||DRT FFF 5/31-6/2 FFF 4 4||RUT FFF iv FFF 8 8||DBN FFF zofran FFF 9 9||
+393-02||21||GI saw the pt and recommended increasing reglan to TID and adding colace and miralax.||DBN FFF reglan FFF 7 7||FREQ FFF tid FFF 9 9||DBN FFF colace FFF 12 12||DBN FFF miralax. FFF 14 14||
+393-02||22||She also had a head CT to r/o mass lesion causing the nausea, and this was negative.||INDICATION FFF ct FFF 5 5||INDICATION FFF nausea, FFF 12 12||
+393-02||23||At the time of d/c, her nausea had decreased.||INDICATION FFF nausea FFF 6 6||
+393-02||24||She states that the N/V did not improve much since that admission, and she has not been able to eat much.
+393-02||25||She has pain throughout her abdomen.||INDICATION FFF pain FFF 2 2||
+393-02||26||She denies f/c, diarrhea, constipation, dysuria, hematemesis, or melena.||INDICATION FFF f/c, FFF 2 2||INDICATION FFF diarrhea, FFF 3 3||INDICATION FFF constipation, FFF 4 4||
+393-02||27||Problems
+393-02||28||Diabetes mellitus : since 2060's, poorly controlled||INDICATION FFF diabetes mellitus : FFF 0 2||
+393-02||29||Hypertension||INDICATION FFF hypertension FFF 0 0||
+393-02||30||Gastroparesis : N/V due to diabetes||INDICATION FFF gastroparesis FFF 0 0||INDICATION FFF diabetes FFF 5 5||
+393-02||31||Retinopathy : due to AODM, s/p first laser treatment 3/81, sees Ophtho in Stanwood||INDICATION FFF aodm, FFF 4 4||
+393-02||32||S/P cholecystectomy
+393-02||33||S/P TAH/BSO : menopause at age 86, had some hot flashes which are slowing improving.||DIN FFF tah/bso FFF 1 1||INDICATION FFF menopause FFF 3 3||INDICATION FFF hot flashes FFF 9 10||
+393-02||34||Medications
+393-02||35||Metformin 1000 MG (500MG TABLET take 2) PO BID||DIN FFF metformin FFF 0 0||DOSE FFF 1000 mg FFF 1 2||DOSE FFF (500mg FFF 3 3||RUT FFF po FFF 7 7||FREQ FFF bid FFF 8 8||
+393-02||36||Erythrocin ETHYL SUCCINATE SUSP (ERYTHROMYCIN) 250MG TABLET PO QID||DBN FFF erythrocin FFF 0 0||DIN FFF succinate FFF 2 2||DOSE FFF 250mg FFF 5 5||RUT FFF po FFF 7 7||FREQ FFF qid FFF 8 8||
+393-02||37||Asa (ACETYLSALICYLIC ACID) 325 MG (325MG TABLET take 1) PO QD||DIN FFF asa FFF 0 0||DOSE FFF 325 mg FFF 3 4||DOSE FFF (325mg FFF 5 5||RUT FFF po FFF 9 9||FREQ FFF qd FFF 10 10||
+393-02||38||Lisinopril 40MG TABLET PO QAM||DIN FFF lisinopril FFF 0 0||DOSE FFF 40mg FFF 1 1||RUT FFF po FFF 3 3||FREQ FFF qam FFF 4 4||
+393-02||39||Reglan (METOCLOPRAMIDE HCL) 10 MG (10MG TABLET take 1) PO TID||DBN FFF reglan FFF 0 0||DOSE FFF 10 mg FFF 3 4||DOSE FFF (10mg FFF 5 5||RUT FFF po FFF 9 9||FREQ FFF tid FFF 10 10||
+393-02||40||Lantus (INSULIN GLARGINE) 40 U SC QHS||DBN FFF lantus FFF 0 0||DOSE FFF 40 u FFF 3 4||RUT FFF sc FFF 5 5||FREQ FFF qhs FFF 6 6||
+393-02||41||Atenolol 50 mg po QD||DIN FFF atenolol FFF 0 0||DOSE FFF 50 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+393-02||42||Colace 2 tablets QHS||DBN FFF colace FFF 0 0||DOSEAMT FFF 2 tablets FFF 1 2||FREQ FFF qhs FFF 3 3||
+393-02||43||Miralax 17 gm QOD||DBN FFF miralax FFF 0 0||DOSE FFF 17 gm FFF 1 2||FREQ FFF qod FFF 3 3||
+393-02||44||Zofran 8 mg po BID prn nausea||DBN FFF zofran FFF 0 0||DOSE FFF 8 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF bid FFF 4 4||NEC FFF prn FFF 5 5||INDICATION FFF nausea FFF 6 6||
+393-02||45||Allergies||INDICATION FFF allergies FFF 0 0||
+393-02||46||PERCOCET - GI upset,||DBN FFF percocet FFF 0 0||

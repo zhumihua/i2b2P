@@ -1,0 +1,60 @@
+306-03||1||Record date: 2116-08-26
+306-03||2||Physical exam:
+306-03||3||CC:
+306-03||4||HPI: 55 y/o caucasian female with hx as bellow here for follow up.
+306-03||5||Denies weight loss or gain, change in appetite, problems sleeping, night sweats, fevers, headaches, visual changes, dysphagia, shortness of breath, orthopnea, PND, cough, chest pain, lower extremity edema, abdominal pain, nausea, vomiting, diarrhea, constipation, blood in stool, black stool, dysuria, nocturia, urinary or fecal incontinence, rashes, change in moles, joint pain, or depressed mood.   no vaginal discharge, no pelvic pain, no dyspareunia.
+306-03||6||Problems
+306-03||7||Proteinuria
+306-03||8||Depression
+306-03||9||Osteoarthritis
+306-03||10||Noncompliance
+306-03||11||s/p left leg surgery 2097
+306-03||12||Diabetes mellitus type 2
+306-03||13||Cerebrovascular disease : Multiple strokes on MRI
+306-03||14||Cerebrovascular accident : 11/15
+306-03||15||Hypertension
+306-03||16||Hyperlipidemia
+306-03||17||knowlege deficits
+306-03||18||multiinfarct dementia?
+306-03||19||sedentary lifestyle
+306-03||20||poor dentition : multiple cavities
+306-03||21||Medications
+306-03||22||Fragmin (DALTEPARIN SODIUM) 8500 UNITS SC Q12H , Anticoagulation as per Neurology- Thomas Javier MD.||DBN FFF fragmin FFF 0 0||
+306-03||23||Stop on 12/17, 12/18,12/19, 12/20 for breast biopsy on 12/20.
+306-03||24||Lipitor (ATORVASTATIN) 20 MG (20MG TABLET take 1) PO QHS , For high cholesterol.||DBN FFF lipitor FFF 0 0||
+306-03||25||One pill every night.
+306-03||26||Glucotrol (GLIPIZIDE) 5 MG (5MG TABLET take 1) PO BID , For diabetes.||DBN FFF glucotrol FFF 0 0||
+306-03||27||One pill twice per day.
+306-03||28||Fluoxetine HCL 20 MG (20MG TABLET take 1) PO QD , Take one pill per day.||DIN FFF fluoxetine hcl FFF 0 1||DOSE FFF 20 mg FFF 2 3||DOSE FFF (20mg FFF 4 4||DDF FFF tablet FFF 5 5||RUT FFF po FFF 8 8||FREQ FFF qd FFF 9 9||DOSEAMT FFF one pill FFF 12 13||FREQ FFF per day. FFF 14 15||
+306-03||29||Metformin 500 MG (500MG TABLET take 1) PO BID||DIN FFF metformin FFF 0 0||DOSE FFF 500 mg FFF 1 2||DOSE FFF (500mg FFF 3 3||DDF FFF tablet FFF 4 4||RUT FFF po FFF 7 7||FREQ FFF bid FFF 8 8||
+306-03||30||Ciprofloxacin 500 MG (500MG TABLET take 1) PO Q12H||DIN FFF ciprofloxacin FFF 0 0||DOSE FFF 500 mg FFF 1 2||DOSE FFF (500mg FFF 3 3||DDF FFF tablet FFF 4 4||RUT FFF po FFF 7 7||FREQ FFF q12h FFF 8 8||
+306-03||31||Lisinopril 20 MG (20MG TABLET take 1) PO QD , For blood pressure.||DIN FFF lisinopril FFF 0 0||DOSE FFF 20 mg FFF 1 2||DOSE FFF (20mg FFF 3 3||DDF FFF tablet FFF 4 4||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||INDICATION FFF blood pressure. FFF 11 12||
+306-03||32||Allergies
+306-03||33||NKA
+306-03||34||FAMILY HX:
+306-03||35||No changes.
+306-03||36||SOCIAL HX:
+306-03||37||No tobacco, alcohol, or drug use.
+306-03||38||Denies domestic violence.
+306-03||39||Uses seat belts.
+306-03||40||PE:
+306-03||41||Vital Signs
+306-03||42||BP: 118/74    P-72
+306-03||44||GEN: NAD
+306-03||45||HEENT:  PERRL, no icterus or scleral injection
+306-03||46||OP: clear, no erythema or exudate. poor dentition but no abscess noted.
+306-03||47||Lungs: CTA bilaterally
+306-03||48||LNs: no  cervical lymphadenopathy.
+306-03||49||Heart: RRR, no MRG.   radial,, DP pulses 2+.  No carotid, abdominal bruits.
+306-03||50||Abdomen: soft, non-tender, non-distended, BS present
+306-03||51||Extremities: No C/C/E
+306-03||52||Skin: no rashes, no irregular moles
+306-03||53||Neuro:  EOMI, CN II-XII intact, nonfocal.
+306-03||54||Labs:
+306-03||55||None.
+306-03||56||Impression and Plan:
+306-03||57||1) Uncontrolled DM:  Control improved over last 1 month.
+306-03||58||However BG still markedly elevated.
+306-03||59||Given her h/o noncompliance I think this is a big step.
+306-03||60||Check HBA1c. 2) Proteinuria: recheck this.
+306-03||61||3) Depression: Improved. Cont. fluoxetine for now. referral to MH again today.||DIN FFF fluoxetine FFF 4 4||INDICATION FFF mh FFF 9 9||

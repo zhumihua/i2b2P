@@ -1,0 +1,33 @@
+247-04	1	Record date: 2064-09-10		 
+247-04	2	Patient Name: ISENBERG,MICHAEL [ MRN: 3674193HCC ]		 
+247-04	3	Date of Visit: 9/10/2064		 
+247-04	4	Vascular Surgery Consult Note:		 
+247-04	5	I am asked to examine Mr. Isenberg and comment on recent CT findings of a intraluminal defect in the right subclavian artery.		 
+247-04	6	PMH / PSH:		 
+247-04	7	1. CAD - S/p  2-V CABG off pump in 4/64		INDICATION FFF cad#1	DIN FFF p 2#4
+247-04	8	2. CHF- EF 38%, mild MR, diffusely hypokinetic LV w/ apical aneurysm, RVSP 46mmHg, upper		 
+247-04	9	segment septal hypertrophy w/o evidence of obstruction on TTE on 3/24/64		 
+247-04	10	3. HTN		 
+247-04	11	4. Hyperlipidemia		 
+247-04	12	5. DMII		 
+247-04	13	6. CRI- Baseline Pcr is between 1.6-1.8		 
+247-04	14	Medications:		 
+247-04	15	Plavix 75 mg qd		DBN FFF plavix#0	DOSE FFF 75mg#2	FREQ FFF qd#3
+247-04	16	Aspirin 325 mg qd		DIN FFF aspirin#0	DOSE FFF 325mg#2	FREQ FFF qd#3
+247-04	17	Lipitor 80 mg qd		DBN FFF lipitor#0	DOSE FFF 80mg#2	FREQ FFF qd#3
+247-04	18	Lisinopril 2.5 mg qd		DIN FFF lisinopril#0	DOSE FFF 2.5mg#2	FREQ FFF qd#3
+247-04	19	Atenolol 25 mg qd		DIN FFF atenolol#0	DOSE FFF 25mg#2	FREQ FFF qd#3
+247-04	20	Fluoxetine 10 mg qd		DIN FFF fluoxetine#0	DOSE FFF 10mg#2	FREQ FFF qd#3
+247-04	21			 
+247-04	22	Allergies: NKDA		 
+247-04	23	Mr Isenberg is a 82 yo gentleman one week out from attempted placement of right subclavian pacemaker- complicated by brief arterial puncture, prompt removal of the arterial catheter and successful compression.		 
+247-04	24	Duplex ultrasonography after compression showed no evidence of a pseudoaneurysm.		 
+247-04	25	A CTA done yesterday to evaluate his thyroid was  read as:  " Hematoma around right subclavian artery.		 
+247-04	26	Narrowing of the artery.		 
+247-04	27	Apparent filling defect, most likely artifactual.		 
+247-04	28	If thrombus is of clinical concern, upper extremity ultrasound may be obtained."		 
+247-04	29	On physical examination, he has mild non expansile hematoma of the right chest wall.		 
+247-04	30	His right hand is warm and well perfused, with 1+ radial and brachial pulses.		 
+247-04	31	There are no thrills or bruits.		 
+247-04	32	My review of arterial components of the CT show the following:		 
+247-04	33	1). Hematoma- to be expected		 

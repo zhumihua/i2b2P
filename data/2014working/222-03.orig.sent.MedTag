@@ -1,0 +1,42 @@
+222-03	1	Record date: 2095-10-23	
+222-03	2	RAH EMERGENCY DEPT VISIT	
+222-03	3		
+222-03	4	DUVALL,BRADY C   425-03-15-1                 VISIT DATE: 10/23/95	
+222-03	5	HISTORY OF PRESENTING COMPLAINT:  The patient is an unfortunate 73  year old man who has had two myocardial infarctions in the past,  including an IMI, and ventricular tachycardia and ventricular  fibrillation who has an AICD in who presents today with his AICD  firing multiple times.		DRT FFF 73 year#10	INDICATION FFF myocardial infarctions#18	INDICATION FFF ventricular tachycardia#27	INDICATION FFF ventricular fibrillation#30
+222-03	6	The patient's AICD actually fired multiple  times while he was in the Emergency Department.		DRT FFF while#7
+222-03	7	REVIEW OF SYSTEMS:  The patient has no chest pain, syncope, or		INDICATION FFF chest pain#8
+222-03	8	shortness of breath.		INDICATION FFF shortness of breath .#2
+222-03	9	He presents in ventricular tachycardia with  his AICD firing.		INDICATION FFF ventricular tachycardia#4
+222-03	10	PAST MEDICAL HISTORY:  The patient has a significant coronary	
+222-03	11	artery disease history and recently had his pacer placed,	
+222-03	12	approximately a month ago.		DRT FFF a month#2
+222-03	13	He has had two myocardial infarctions.		INDICATION FFF myocardial infarctions#5
+222-03	14	He has diabetes.		INDICATION FFF diabetes .#2
+222-03	15	MEDICATIONS:  Glyburide and metformin.		DIN FFF glyburide#1	DIN FFF metformin#3
+222-03	16	ALLERGIES:  Atenolol.		INDICATION FFF allergies#0
+222-03	17	PHYSICAL EXAMINATION:  VITAL SIGNS:  Vital signs remained stable,	
+222-03	18	including blood pressure.		INDICATION FFF blood pressure#2
+222-03	19	HEENT:  Normal.	
+222-03	20	LUNGS:  Clear.	
+222-03	21	CARDIOVASCULAR:  Tachycardic with a paced rhythm.	
+222-03	22	ABDOMEN:  Soft,  non-tender.	
+222-03	23	LUNGS:  Clear bilaterally.	
+222-03	24	LABORATORY EVALUATION:  The patient's EKG shows ventricular	
+222-03	25	tachycardia and some ST elevations in the inferior leads.		INDICATION FFF st#3
+222-03	26	Chest	
+222-03	27	x-ray was clear.	
+222-03	28	Electrolytes were sent to check his potassium.		INDICATION FFF his potassium#6
+222-03	29	THERAPY RENDERED/COURSE IN ED:  The patient was loaded on lidocaine  and paced on a lidocaine drip.		INDICATION FFF ed#3	DIN FFF lidocaine#9	DIN FFF lidocaine#14	RUT FFF drip#15
+222-03	30	He also received Lasix and  metoprolol.		DBN FFF lasix#3	DIN FFF metoprolol#5
+222-03	31	He also received 2 mg of Ativan for sedation.		DOSE FFF 2mg#4	DBN FFF ativan#6
+222-03	32	He had  no chest pain while he was in the Emergency Department;  his only  pain was from the pacer firing.		INDICATION FFF chest pain#4	DRT FFF while#5	INDICATION FFF pain#14
+222-03	33	CONSULTATIONS (including PCP):  The patient was seen by Internal Medicine and also by the Internal Medicine fellow.		INDICATION FFF pcp#2
+222-03	34	FINAL DIAGNOSIS:  History of coronary artery disease, now with		INDICATION FFF coronary artery disease#6
+222-03	35	ventricular tachycardia and ST elevations on EKG with pacer firing.		INDICATION FFF ventricular tachycardia#1	INDICATION FFF st#3
+222-03	36	DISPOSITION (including condition upon discharge):  The patient was  urgently rushed to the Cath Lab.	
+222-03	37	He is currently in stable  condition.	
+222-03	38	___________________________________                    OT109/6637	
+222-03	39	FRANK EMMONS, M.D.       FE01                           D:10/23/95		INDICATION FFF frank#0
+222-03	40	T:10/23/95	
+222-03	41	Dictated by:  FRANK EMMONS, M.D.       FE01		INDICATION FFF frank#2
+222-03	42	******** Not reviewed by Attending Physician ********	

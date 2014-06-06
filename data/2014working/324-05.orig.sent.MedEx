@@ -1,0 +1,160 @@
+324-05	1	Record date: 2072-06-12		 
+324-05	2	Internal Medicine Admit Note   06/12/72		 
+324-05	3	Patient Name: Xavier Rutledge (KEKELA 53954143)		 
+324-05	4	Renal TPx Details:  Cadaveric RTX 2060 w/ CAN and baseline Cr 2.5		DIN FFF rtx#4	DRT FFF 2060 w#6
+324-05	5	Renal Dx:  ESRD of unclear cause		 
+324-05	6	Current Immsp:  CsA and Prednisone		DIN FFF csa#2
+324-05	6	Current Immsp:  CsA and Prednisone		DIN FFF prednisone#4
+324-05	7	Reason for Admit: Fever, diarrhea and probable UTI		 
+324-05	8	Background:  63M with known CRRTx since 2060 with known CKD and baseline Cr 2.5 with urethral stricture and in-dwelling Foley catheter who presented to ED with h/o multiple episodes of diarrhea last night, cloudy urine and severe weakness.		 
+324-05	9	He was on Ampicillin for a recent UTI.		DIN FFF ampicillin#3	INDICATION FFF uti .#7
+324-05	10	He denies any fevers this past weekend, however he was febrile today at 102 F.		 
+324-05	11	He has chronic lower extremity edema for which he is on  high dose lasix with minimal response.		INDICATION FFF lower extremity edema#5	DBN FFF lasix#13
+324-05	12	In ED patient was hypoglycemic with FSBS 46.		INDICATION FFF ed#1	DIN FFF hypoglycemic#4
+324-05	13	He was givin 1amp D50 and a liter of NS IV.		DBN FFF d50#4	DOSE FFF aliter#7	INDICATION FFF ns#9	RUT FFF iv#10
+324-05	14	Medical Hx:		 
+324-05	15	1. ESRD s/p CRRTx 2060		 
+324-05	16	- Prior to TPx was on HD via RUE AVF, presumed ESRD d/t HTN		 
+324-05	17	- CRRTx 2060 requiring re-implantation of the ureter two times		 
+324-05	18	- Renal Bx (2065): cyclosporine toxicity, nephrolithiasis, TIF		DIN FFF cyclosporine#4
+324-05	19	- Baseline Cr 2.4 - 2.8, Renal Bx 2065:		 
+324-05	20	2. Urethral stricture requiring repeated catherisation and c/b UTI's, foley in place.		 
+324-05	21	Plan for suprapubic catheter placement by Dr.		 
+324-05	22	Acevedo.		 
+324-05	23	- Multiple UTI's w/ h/o Candida (Apr 2072), Klebsiella (September 2071), Proteus		 
+324-05	24	3. Type 2 DM		 
+324-05	25	- Diagnosed following TPx and steroids		 
+324-05	26	- On insulin		DIN FFF insulin#2
+324-05	27	4. CMV retinitis post-transplant		 
+324-05	28	5. Aortic stenosis		 
+324-05	29	- Echo 2071: AVA 1.3 cm and peak gradient 28 mmHg		 
+324-05	30	6. Recurrent LE DVT's - on Coumadin		INDICATION FFF le#2	DBN FFF coumadin#6
+324-05	31	7. HTN		 
+324-05	32	8. Torn right rotator cuff		 
+324-05	33	9. Gout		 
+324-05	34	10. BPH		 
+324-05	35	11. Hypercholesterolemia		 
+324-05	36	12. s/p left 5th toe amputation		 
+324-05	37	13. h/o  C. dif colitis		 
+324-05	38	14. s/p ccy and appy		 
+324-05	39	15. G6PD deficiency		 
+324-05	40	Medications:		 
+324-05	41	Neoral 100mg bid po		DBN FFF neoral#0	DOSE FFF 100mg#1	FREQ FFF bid#2	RUT FFF po#3
+324-05	42	Prednisone 5/10mg qd po		DIN FFF prednisone#0	DOSE FFF 5/10mg#1	FREQ FFF qd#2	RUT FFF po#3
+324-05	43	Lopressor 50mg bid po		DBN FFF lopressor#0	DOSE FFF 50mg#1	FREQ FFF bid#2	RUT FFF po#3
+324-05	44	Lasix 80 mg bid po		DBN FFF lasix#0	DOSE FFF 80mg#2	FREQ FFF bid#3	RUT FFF po#4
+324-05	45	Iron Sulfate 325mg bid po		DIN FFF iron sulfate#1	DOSE FFF 325mg#2	FREQ FFF bid#3	RUT FFF po#4
+324-05	46	Calcium Carbonate 500 mg tid po		DIN FFF calcium carbonate#1	DOSE FFF 500mg#3	FREQ FFF tid#4	RUT FFF po#5
+324-05	47	Flomax 0.8mg qhs po		DBN FFF flomax#0	DOSE FFF 0.8mg#1	FREQ FFF qhs#2	RUT FFF po#3
+324-05	48	Proscar 5 mg qd po		DBN FFF proscar#0	DOSE FFF 5mg#2	FREQ FFF qd#3	RUT FFF po#4
+324-05	49	Coumadin 1 mg qd po		DBN FFF coumadin#0	DOSE FFF 1mg#2	FREQ FFF qd#3	RUT FFF po#4
+324-05	50	Procrit 10,000 U q week (Wed)		DBN FFF procrit#0	FREQ FFF q week#4
+324-05	51	NPH 22 units qam and 10 U qpm, Insulin sliding scale qAC+HS		DBN FFF nph#0	DOSEAMT FFF 22 units#2	FREQ FFF qam#3
+324-05	51	NPH 22 units qam and 10 U qpm, Insulin sliding scale qAC+HS		DBN FFF nph#0	DOSE FFF 10u#6	FREQ FFF qpm#7
+324-05	51	NPH 22 units qam and 10 U qpm, Insulin sliding scale qAC+HS		DIN FFF insulin#8	DOSE FFF sliding scale#10	FREQ FFF hs#11
+324-05	52	Immodium q4-6hrs prn loose stools		 
+324-05	53	Ampicillin 500mg qid		DIN FFF ampicillin#0	DOSE FFF 500mg#1	FREQ FFF qid#2
+324-05	54	Allergies: Codeine -> Nausea, Potassium -> Nausea and Rash, Quinine		DIN FFF quinine#9
+324-05	55	Social History: Lives with wife, retired.		 
+324-05	56	Denies tobacoo (quit 30 yrs ago), ETOH9(quit 30 yrs ago), and ilicit drug use		 
+324-05	57	Family History: unremarkable		 
+324-05	58	On examination:		 
+324-05	59	General:  Lying on bed in no distress		 
+324-05	60	Vitals:  T99.8 F;  BP 97/44 mmHg;  HR 77/min;  R 20		 
+324-05	61	HEENT:  (+) orbital edema b/l,   (+) facial flushing		 
+324-05	62	CVS:  S1 and S2, no S3/Rub, clinical ESM loudes over aortic areaResp:  slight expiratory wheeze RLLB, no rhonchi or rales.		 
+324-05	63	Abd:  Soft, non tender, no masses, NABS.		 
+324-05	64	Left sided palpable graft with no tenderness.		 
+324-05	65	Cloudy urine in Foley		 
+324-05	66	Legs:  3+ edema bilaterally		 
+324-05	67	RUE:  AVF with thrill and bruit		 
+324-05	68	Neuro: A &O x 3		 
+324-05	69	Results		 
+324-05	70	Date/Time         PT             PT-INR         PTT		 
+324-05	71	06/12/2072        28.3 (*#)      2.7 (*)        46.6 (*#)		 
+324-05	72	Date/Time         NA             K              CL             CO2		DIN FFF na#1	INDICATION FFF k#2	INDICATION FFF cl#3
+324-05	73	06/12/2072        138            3.6            110 (*)        20		 
+324-05	74	Date/Time         BUN            CRE            EGFR           GLU   06/12/2072        89 (*)         3.1 (*)        22 [11]        48		DIN FFF glu#4	DOSE FFF 06/12#5
+324-05	75	Date/Time         ANION		 
+324-05	76	06/12/2072        8		 
+324-05	77	Date/Time         CA             PHOS           MG             TBILI		 
+324-05	78	06/12/2072        8.5 (*)        4.1            1.7 (*)        0.7		 
+324-05	79	Date/Time         TP             ALB            GLOB           LDH		INDICATION FFF tp#1	DIN FFF alb#2
+324-05	80	06/12/2072        5.3 (*)        2.7 (*)        2.6            284		 
+324-05	81	Date/Time         AMY            LIPS		 
+324-05	82	06/12/2072        25             4 [21]		 
+324-05	83	Date/Time         bPO2           bPCO2          bPH          UBASEX  06/12/2072 [22]   39 (*)         38 (#)         7.32 (*#)      -6		 
+324-05	84	Date/Time         O2 Sat         K-PL           CO2-PL         HGBBG 06/12/2072 [23]   74.2 (*)       3.5            20 (*)         10.3		 
+324-05	85	Date/Time         HCT-BG		 
+324-05	86	06/12/2072 [24]   30 (*)		 
+324-05	87	Date/Time         ALT/SGPT       AST/SGOT       ALKP         TBILI		 
+324-05	88	06/12/2072        96 (*#)        157 (*#)       178 (*#)       0.7		 
+324-05	89	Date/Time         LDH		 
+324-05	90	06/12/2072        284 (*)		 
+324-05	91	Date/Time         UK		 
+324-05	92	06/12/2072        13		 
+324-05	93	Date/Time         UTIME		 
+324-05	94	06/12/2072        RANDOM		 
+324-05	95	Date/Time         UTIME          U/UNA          U/UCL        U/UOSM  06/12/2072        RANDOM         70             77             PEND		 
+324-05	96	Date/Time         MHGB           COHGB		 
+324-05	97	06/12/2072 [30]   0.3            0.5		 
+324-05	98	Date/Time         UA-COLOR       UA-GLUC        UA-BILI      UA-KET  06/12/2072        YELLOW [31]    NEG            NEG            NEG		 
+324-05	99	Date/Time         UA-SPGR        UA-BLD         UA-PH        UA-PROT 06/12/2072        1.014          3+             5.0            2+		 
+324-05	100	Date/Time         UA-UROBI       UA-NIT         UA-WBC       MIC-SED		 
+324-05	101	06/12/2072        NEG            NEG            3+             NEG		 
+324-05	102	Date/Time         OCAST          HCAST          UAS-RBC      UAS-WBC 06/12/2072        NEG            0              233 (*)        316		 
+324-05	103	Date/Time         UAS-BACT       UAS-SQHI       UAS-CRYS		 
+324-05	104	06/12/2072        TR             3+             NEG		 
+324-05	105	Date/Time         UA-EPIS		 
+324-05	106	06/12/2072        NEG		 
+324-05	107	Date/Time         WBC            RBC            HGB            HCT   06/12/2072        13.61 (*)      3.86 (*)       10.7 (*)       32.3  06/12/2072        13.65 (*#)     3.76 (*)       10.4 (*)       32.2		 
+324-05	108	Date/Time         MCV            MCH            MCHC           PLT   06/12/2072        83.7           27.8           33.2           157   06/12/2072        85.7           27.5           32.1           151		 
+324-05	109	Date/Time         RDW		 
+324-05	110	06/12/2072        17.5 (*)		 
+324-05	111	06/12/2072        17.3 (*)		 
+324-05	112	Date/Time         %POLY-A        %LYMPH-A       %MONO-A       %EOS-A 06/12/2072        88.8 (*)       4.4 (*)        6.0            0.5		 
+324-05	113	Date/Time         %BASO-A        %POLY-M        %BAND-M    %LYMPH-M 06/12/2072        0.3            89 (*)         2              1 (*) 06/12/2072                       92 (*)         1              1 (*)		 
+324-05	114	Date/Time         %ATYPS         %MONO-M        %EOS-M      %BASO-M  06/12/2072        0              8              0              0     06/12/2072        0              6              0              0		 
+324-05	115	Date/Time         ANEUT-A        ALYMP-A        AMONO-A       AEOS-A 06/12/2072        12.09 (*)      .6 (*)         0.82 (*)       0.06		 
+324-05	116	Date/Time         ABASO-A		 
+324-05	117	06/12/2072        0.04		 
+324-05	118	Date/Time         ANISO          POIK           POLYCH         HYPO  06/12/2072        +              1+             1+             +     06/12/2072                       1+		 
+324-05	119	Date/Time         MACRO          MICRO          OVALS        TEARDR  06/12/2072        1+             +              1+                   06/12/2072                                      1+             1+		 
+324-05	120	Date/Time         PLT-EST		 
+324-05	121	06/12/2072        NL		 
+324-05	122	06/12/2072        NL		 
+324-05	123	Date/Time         ESR		 
+324-05	124	06/12/2072        PEND		 
+324-05	125	06/12/2072        20 (*)[32]		 
+324-05	126	Radiology:		 
+324-05	127	06/12/2072 12:16 KEKELA Radiology                 Report Status:  Final		 
+324-05	128	Type:  Chest PA & Lateral		 
+324-05	129	HISTORY: Fever.		 
+324-05	130			 
+324-05	131	Chest: Frontal and lateral views of the chest are compared to prior exam dated 5/31/2072 and show mild enlargement of the cardiac silhouette and an atherosclerotic aorta.		 
+324-05	132	There are small bilateral posterior pleural effusions.		 
+324-05	133	Adjacent parenchymal opacity may reflect atelectasis or early pneumonia in theappropriate clinical setting.		 
+324-05	134	Mild diffuse elevation of        the interstitium appears chronic.		 
+324-05	135	Right upper lobe granuloma.		 
+324-05	136	IMPRESSION: Mild cardiomegaly with small bilateral posterior		 
+324-05	137	pleural effusions. Adjacent parenchymal opacity could reflect		 
+324-05	138	subsegmental atelectasis or early pneumonia in the appropriate      clinical setting.		 
+324-05	139	These findings were communicated by me to Dr.		 
+324-05	140	Ximena Webber at 2:25 p.m		 
+324-05	141			 
+324-05	142	A/P:  63M with known CRRTx since 2060 with known CKD and baseline Cr 2.5 with urethral stricture and in-dwelling Foley.		 
+324-05	143	Pt. now with fevers, UTI, and diarrhea.		 
+324-05	144	He will be admitted to George Rutledge, M.D. on the Internal Medicine. 1. Renal- CRRTx with creatinine elevated 3.1 (2.5), ? pyelonephritis		 
+324-05	145	- Urine cultures sent in the ED.		 
+324-05	146	- Would hold further iv fluids.		DPN FFF iv fluids#5
+324-05	147	- Continue current Lasix dose		DBN FFF lasix#3
+324-05	148	- Strict I/O		 
+324-05	149	- Check Urine Protein/Creat Ratio		 
+324-05	150	2. Urologic- urethral stricture and in-dwelling foley cath with fever and high urinary WBC.		 
+324-05	151	- Given iv Levofloxacin/Ceftaz in the ED.		 
+324-05	152	- Need to change Foley cathether.		 
+324-05	153	- Dr Acevedo to review for suprapubic catheter placement.		 
+324-05	154	3. Immunosuppresion		 
+324-05	155	- Continue CsA and Prednisone		DIN FFF csa#2
+324-05	155	- Continue CsA and Prednisone		DIN FFF prednisone#4
+324-05	156	- Check CsA level in the am.		DIN FFF csa#2	TOD FFF am#6

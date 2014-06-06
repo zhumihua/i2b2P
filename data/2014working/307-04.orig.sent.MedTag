@@ -1,0 +1,45 @@
+307-04	1	Record date: 2059-08-09	
+307-04	2	EDVISIT^43471375^KIMBROUGH, AMELIA^08/09/59^STEELE, SHAYLYN	
+307-04	3	This patient was seen with resident, Dr.	
+307-04	4	Penn, whose note was reviewed and confirmed by me.		INDICATION FFF me#8
+307-04	5	HISTORY OF PRESENT ILLNESS:  This is a 46-year-old woman with	
+307-04	6	end-stage renal disease secondary to minimal chain disease, on		INDICATION FFF end-stage renal disease#2
+307-04	7	hemodialysis, presenting with severe hypertension, headache,		INDICATION FFF hypertension#4	INDICATION FFF headache#5
+307-04	8	nausea, and vomiting in the setting of blood pressures in the		INDICATION FFF nausea#0	INDICATION FFF vomiting#2	INDICATION FFF blood pressures#8
+307-04	9	200s/100s today.	
+307-04	10	Please review resident's note for full details of past medical	
+307-04	11	history, social history, review of systems, medications, and	
+307-04	12	allergies.		INDICATION FFF allergies#0
+307-04	13	PHYSICAL EXAMINATION:  I confirm the physical exam is as		INDICATION FFF as#8
+307-04	14	documented.	
+307-04	15	The patient is awake, alert, and appears to be in mild to moderate discomfort.	
+307-04	16	Vital signs reveal pulse of 108, respirations 22, blood pressure 226/129, and oximetry is 96% on room air.		INDICATION FFF blood pressure#9	DOSE FFF 96%#14
+307-04	17	The patient is afebrile.	
+307-04	18	HEENT exam reveals well visualized disks bilaterally on funduscopic exam.	
+307-04	19	There is no papilledema noted.	
+307-04	20	Posterior pharynx is clear.	
+307-04	21	Lungs are clear to auscultation with good air movement throughout.	
+307-04	22	Heart is regular.	
+307-04	23	Abdomen is soft.	
+307-04	24	Extremity exam reveals no cyanosis, clubbing, or edema.		INDICATION FFF cyanosis#4	INDICATION FFF edema#7
+307-04	25	Neurologic:  The patient is intact.	
+307-04	26	There is a left brachiocephalic shunt noted with a good thrill easily palpable.	
+307-04	27	LABORATORY DATA:  White count is 5.4, hematocrit 45, BUN and		INDICATION FFF hematocrit#6
+307-04	28	creatinine 31 and 6.0, potassium is noted at 5.3%, cardiac		INDICATION FFF creatinine#0	DIN FFF potassium#4	DOSE FFF 5.3%#8
+307-04	29	enzymes flat, and coags are unremarkable.	
+307-04	30	IMAGING STUDIES:  EKG is sinus rhythm without any ST or T-wave		INDICATION FFF st#8
+307-04	31	changes concerning for ischemia.		INDICATION FFF ischemia .#3
+307-04	32	Head CT shows no acute processes.		INDICATION FFF ct#1
+307-04	33	EMERGENCY DEPARTMENT COURSE:  The patient was given IV fluids and		DPN FFF iv fluids#8
+307-04	34	treated with Zofran for her nausea, labetalol 200 mg p.o.		DBN FFF zofran#2	INDICATION FFF nausea#5	DIN FFF labetalol#6	DOSE FFF 200mg#8	RUT FFF p.o#9
+307-04	35	followed by 10 mg intravenously, which brought her pressure down		DOSE FFF 10mg#3	RUT FFF intravenously#4	INDICATION FFF pressure#8
+307-04	36	very nicely to 168/86.	
+307-04	37	After fluids, Zofran, and blood pressure control, her symptoms improved dramatically.		DBN FFF zofran#2	INDICATION FFF blood pressure control#6	INDICATION FFF symptoms#8
+307-04	38	She was admitted to the Observation Unit to monitor her blood pressure overnight with anticipated discharge in the morning.		INDICATION FFF her blood pressure#11	DRT FFF overnight#12	TOD FFF in the morning#18
+307-04	39	******** Not reviewed by Attending Physician ********	
+307-04	40	DIAGNOSIS:  Hypertensive urgency.		INDICATION FFF hypertensive#1
+307-04	41	______________________________	
+307-04	42	STEELE, SHAYLYN	
+307-04	43	D: 08/12/59	
+307-04	44	T: 08/12/59		INDICATION FFF t#0
+307-04	45	Dictated By: STEELE, SHAYLYN	

@@ -1,0 +1,52 @@
+331-01||1||Record date: 2078-12-06
+331-01||2||Mr. Sparks is a 74 yr. M who is a new patient, 20 minutes late for his 30 minute appt. with multiple concerns and complaints.
+331-01||3||HPI: He says he's been seen at Mediquik for > 10 years, but his physician was fired and he has not seen anyone regularly for > 1 year; MANAMANA Internal Medicine has been taking care of him.
+331-01||4||He has multiple concerns: 1.
+331-01||5||Diabetes. Needs to see an eye doctor. 2. Hernia.
+331-01||6||3. Hypertension
+331-01||7||4. He needs to have his medications refilled - 9 of them.
+331-01||8||5. He had colonoscopy and EGD in May for hemoccult positive stools.
+331-01||9||Problems
+331-01||10||Adenomatous polyp : May 2078
+331-01||11||Gastritis : H. pylori positive
+331-01||12||Chronic renal dysfunction
+331-01||13||Diabetes mellitus type 2
+331-01||14||Hypertension
+331-01||15||Hyperlipidemia
+331-01||16||Anemia
+331-01||17||hyperparathyroidism
+331-01||18||Transient ischemic attack
+331-01||19||Medications
+331-01||20||Amlodipine 10 MG (10MG TABLET take 1) PO QD||DIN FFF amlodipine FFF 0 0||DOSE FFF 10 mg FFF 1 2||DOSE FFF (10mg FFF 3 3||DDF FFF tablet FFF 4 4||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||
+331-01||21||Lisinopril 40 MG (40MG TABLET take 1) PO QD||DIN FFF lisinopril FFF 0 0||DOSE FFF 40 mg FFF 1 2||DOSE FFF (40mg FFF 3 3||DDF FFF tablet FFF 4 4||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||
+331-01||22||Rosuvastatin 40 MG (40MG TABLET take 1) PO QHS||DIN FFF rosuvastatin FFF 0 0||DOSE FFF 40 mg FFF 1 2||DOSE FFF (40mg FFF 3 3||DDF FFF tablet FFF 4 4||RUT FFF po FFF 7 7||FREQ FFF qhs FFF 8 8||
+331-01||23||Glipizide 10 MG (10MG TABLET take 1) PO BID||DIN FFF glipizide FFF 0 0||DOSE FFF 10 mg FFF 1 2||DOSE FFF (10mg FFF 3 3||DDF FFF tablet FFF 4 4||RUT FFF po FFF 7 7||FREQ FFF bid FFF 8 8||
+331-01||24||Pioglitazone 15 MG (15MG TABLET take 1) PO QD||DIN FFF pioglitazone FFF 0 0||DOSE FFF 15 mg FFF 1 2||DOSE FFF (15mg FFF 3 3||DDF FFF tablet FFF 4 4||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||
+331-01||25||Clopidogrel 75 MG (75MG TABLET take 1) PO QD||DIN FFF clopidogrel FFF 0 0||DOSE FFF 75 mg FFF 1 2||DOSE FFF (75mg FFF 3 3||DDF FFF tablet FFF 4 4||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||
+331-01||26||Furosemide 20 MG (20MG TABLET take 1) PO BID||DIN FFF furosemide FFF 0 0||DOSE FFF 20 mg FFF 1 2||DOSE FFF (20mg FFF 3 3||DDF FFF tablet FFF 4 4||RUT FFF po FFF 7 7||FREQ FFF bid FFF 8 8||
+331-01||27||Atenolol 25 MG (25MG TABLET take 1) PO QD||DIN FFF atenolol FFF 0 0||DOSE FFF 25 mg FFF 1 2||DOSE FFF (25mg FFF 3 3||DDF FFF tablet FFF 4 4||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||
+331-01||28||Ferrous GLUCONATE 300 MG PO BID||DIN FFF ferrous gluconate FFF 0 1||DOSE FFF 300 mg FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF bid FFF 5 5||
+331-01||29||Allergies
+331-01||30||Aspirin - ulcer, : Allergy entered as ASA
+331-01||31||Habits: no cigarettes, drugs or alcohol;||DIN FFF drugs FFF 3 3||
+331-01||32||ROS: denies weight change, fever, chills, fatigue, blurry vision, chest pains, palpitations, dyspnea, cough, abdominal pain, nausea, vomiting, change in bowel/bladder habits, joint pain, dizziness, exanthem, edema.
+331-01||33||PE notable for:
+331-01||34||Well nourished well appearing M;
+331-01||35||Vital Signs
+331-01||36||BP 152/78, P 64, Wt 236 lb
+331-01||37||HEENT: sclera clear white OU, EOMI, ear canals and TMs wnl AU; oropharynx without lesions.
+331-01||38||LN: No palpable neck or SC LN;
+331-01||39||Cardiac: RRR, rate 64, no extra sounds
+331-01||40||Resp.: good air movement, no accessory muscle use, no adventitious sounds
+331-01||41||Abd.: no scars, BS+, nontender, no palpable masses;
+331-01||42||GU: right inguinal bulge.
+331-01||43||Ext.: good DP and PT bilat., no exanthem or edema;
+331-01||44||Neuro: CN II-XII intact bilat., reflexes 2/4 Brachioradialis, Biceps, Knee, Ankle bilat.
+331-01||45||Plan:
+331-01||46||1. Diabetes: good A1c in Nov. 10. Referring for ophtho.
+331-01||47||2. Right inguinal hernia, referring to surgery.
+331-01||48||3. Hypertension: inadequate in a diabetic.
+331-01||49||Will address on RTC, with limited options at this point. 4. After risk/benefit discussion, given influenza and pneumovax vaccines;||DIN FFF pneumovax FFF 17 17||
+331-01||49||Will address on RTC, with limited options at this point. 4. After risk/benefit discussion, given influenza and pneumovax vaccines;||DIN FFF vaccines; FFF 18 18||
+331-01||50||5. Renewed all 9 medications;
+331-01||51||6. RTC one month.

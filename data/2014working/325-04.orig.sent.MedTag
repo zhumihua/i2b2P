@@ -1,0 +1,168 @@
+325-04	1	Record date: 2081-05-01	
+325-04	2	Educare-Pullman B Admission Note	
+325-04	3	PATIENT:    Ivory, Lori	
+325-04	4	MR: 2097545	
+325-04	5	ADMIT DATE:    April 30, 2081	
+325-04	6	CODE STATUS:  Full	
+325-04	7	ATTENDING:   Aviles/Meyers	
+325-04	8	PCP:   Kathryn Oakley/Gricelda Ovalle		INDICATION FFF pcp#0
+325-04	9	CC:   chest pain		TOD FFF cc#0	INDICATION FFF chest pain#2
+325-04	10	HPI:	
+325-04	11	53 y/o female with PMHx significant for CHF/diastolic dysfunction, HTN who presents with 2 day history of chest pain.		INDICATION FFF chf#7	INDICATION FFF htn#9	DRT FFF 2 day#14	INDICATION FFF chest pain .#18
+325-04	12	Pain started yesterday AM while she was getting into her car and lasted a few minutes.		INDICATION FFF pain#0	TOD FFF am#3	DRT FFF while#4
+325-04	13	She had another episode later that day while trying to climb a step ladder in her kitchen and another episode in the ER today.		DRT FFF while#7
+325-04	14	Each episode went away after few minute (during 3rd episode she got some NTG with relief of pain).		DRT FFF during#7	DPN FFF ntg#13	INDICATION FFF pain#17
+325-04	15	The pain feels like a pressure.		INDICATION FFF the pain#1	INDICATION FFF pressure#5
+325-04	16	She did have some diaphoresis with each episode and on the last episode also developed some nausea.		INDICATION FFF nausea .#16
+325-04	17	Inspiration makes the pain worse as well as sitting upright.		INDICATION FFF the pain#3	INDICATION FFF as#5	INDICATION FFF as#7
+325-04	18	Denies palpitations.	
+325-04	19	Does have SOB with pain.		INDICATION FFF sob#2	INDICATION FFF pain .#4
+325-04	20	No recent illness.	
+325-04	21	Did have URI few weeks ago.	
+325-04	22	Her activity is limited by arthritis in her knee, but she denies any CP with activity.		INDICATION FFF arthritis#5	INDICATION FFF cp#13
+325-04	23	ER: Got ASA, Metoprolol 5mg IV x3, PE protocol CT neg.		DIN FFF asa#2	DIN FFF metoprolol#3	DOSE FFF 5mg#4	RUT FFF iv#5	FREQ FFF x3#6	INDICATION FFF pe#7	INDICATION FFF ct#9
+325-04	24	Problems	
+325-04	25	Peptic ulcer disease : positive h pylori		INDICATION FFF peptic ulcer disease#2
+325-04	26	Hypertension		INDICATION FFF hypertension#0
+325-04	27	Menopause		INDICATION FFF menopause#0
+325-04	28	Obesity		INDICATION FFF obesity#0
+325-04	29	Depression		INDICATION FFF depression#0
+325-04	30	Knee pain		INDICATION FFF pain#1
+325-04	31	Palpitations	
+325-04	32	Heart murmur	
+325-04	33	Hyperlipidemia		INDICATION FFF hyperlipidemia#0
+325-04	34	Anemia		INDICATION FFF anemia#0
+325-04	35	Congestive heart failure, diastolic dysfunction, EF 67% in 78		INDICATION FFF congestive heart failure#2	INDICATION FFF ef#5	DOSE FFF 67%#6
+325-04	36	Bright red blood per rectum		RUT FFF per rectum#4
+325-04	37	Medications	
+325-04	38	Mvi (MULTIVITAMINS) 1 TAB PO QD		DPN FFF mvi#0	DOSEAMT FFF 1 tab#3	RUT FFF po#4	FREQ FFF qd#5
+325-04	39	Enteric COATED ASA   81 MG PO QD		DIN FFF enteric coated asa#2	DOSE FFF 81mg#4	RUT FFF po#5	FREQ FFF qd#6
+325-04	40	Percocet  1 TAB PO Q4H PRN pain		DBN FFF percocet#0	DOSEAMT FFF 1 tab#2	RUT FFF po#3	FREQ FFF q4h#4	NEC FFF prn#5	INDICATION FFF pain#6
+325-04	41	Ibuprofen 600 MG PO Q6H PRN pain		DIN FFF ibuprofen#0	DOSE FFF 600mg#2	RUT FFF po#3	FREQ FFF q6h#4	NEC FFF prn#5	INDICATION FFF pain#6
+325-04	42	Zestril  40MG TABLET take 1 Tablet(s) PO QD x 30 days		DBN FFF zestril#0	DOSE FFF 40mg#1	DOSEAMT FFF 1 tablet#5	RUT FFF po#6	FREQ FFF qd#7	DRT FFF 30 days#10
+325-04	43	Prozac  20 MG PO QD     stopped taking this due to insurance issues		DBN FFF prozac#0	DOSE FFF 20mg#2	RUT FFF po#3	FREQ FFF qd#4
+325-04	44	Atenolol 50 MG PO QD		DIN FFF atenolol#0	DOSE FFF 50mg#2	RUT FFF po#3	FREQ FFF qd#4
+325-04	45	Lasix  40MG TABLET take 1 Tablet(s) PO QD		DBN FFF lasix#0	DOSE FFF 40mg#1	DOSEAMT FFF 1 tablet#5	RUT FFF po#6	FREQ FFF qd#7
+325-04	46	Allergies		INDICATION FFF allergies#0
+325-04	47	NKA	
+325-04	48	SOCIAL HISTORY	
+325-04	49	The patient used to work as Railway Transport Operations Supervisor with Blyth Inc.		INDICATION FFF as#5
+325-04	50	Currently lives by herself.	
+325-04	51	She quit smoking about ten years ago, eight to ten pack year smoking history prior to quitting.		DRT FFF ten years#5	DOSEAMT FFF eight to ten pack#10
+325-04	52	She drinks but has no history of alcohol withdrawal or seizures, says she drinks about five or six beers per.		INDICATION FFF seizures#10
+325-04	53	There is a previous use of cocaine in high school but no drug use currently.		DIN FFF cocaine#6
+325-04	54	FAMILY HISTORY:	
+325-04	55	Aunt- MI,  Positive for diabetes mellitus in her father.		INDICATION FFF mi#1	INDICATION FFF diabetes mellitus#5
+325-04	56	ROS:	
+325-04	57	General: no recent weight loss/gain, no fatigue, no fevers, chills, no change in appetite		INDICATION FFF weight#3	INDICATION FFF fatigue#6	INDICATION FFF fevers#8	INDICATION FFF change#11
+325-04	58	- Respiratory: no cough, no SOB,  no hemoptysis, no wheezing		INDICATION FFF cough#3	INDICATION FFF sob#5	INDICATION FFF wheezing#9
+325-04	59	- Cardiac: no chest pain/pressure, no palpitations		INDICATION FFF chest pain#4	INDICATION FFF pressure#4
+325-04	60	- Gastrointestinal: no nausea, no vomiting, no diarrhea, no constipation, no bleeding		INDICATION FFF nausea#3	INDICATION FFF vomiting#5	INDICATION FFF diarrhea#7	INDICATION FFF constipation#9	INDICATION FFF bleeding#11
+325-04	61	- Neurologic: no seizures, headache, no weakness, no numbness/tingling		INDICATION FFF seizures#3	INDICATION FFF headache#4
+325-04	62	- Musculoskeletal: B Knee pain		INDICATION FFF pain#4
+325-04	63	- Urologic: No hematuria, no dysuria	
+325-04	64	- Hematologic: No bruising, no bleeding		INDICATION FFF bleeding#5
+325-04	65	PHYSICAL EXAM	
+325-04	66	VITALS:  159/93, 98.9, 78, 20, 98%		DOSE FFF 98%#5
+325-04	67	Gen: awake, alert, NAD	
+325-04	68	HEENT: PERRL, EOMI	
+325-04	69	Neck: 1cm cervical LN on left, no thryomegally, no LAD, no bruits		INDICATION FFF cm#1
+325-04	70	Oropharynx: clear, no lesions	
+325-04	71	CV: RRR no murmers	
+325-04	72	Pulm: CTA Bilaterally	
+325-04	73	Abd: + b.s, ND, no masses, does have some tenderness over RUQ area	
+325-04	74	Ext: 1 + dp pulses, no cyanosis, clubbing, or edema		INDICATION FFF dp#3	INDICATION FFF cyanosis#6	INDICATION FFF edema#9
+325-04	75	Neuro: moving all four extremities,	
+325-04	76	MS: B knees tender on palpation	
+325-04	77	Chemistry	
+325-04	78	Sodium (Stat Lab)                137                       (135-145)      mmol/L		TOD FFF stat#1
+325-04	79	Potassium (Stat Lab)             3.7                       (3.4-4.8)      mmol/L		TOD FFF stat#1
+325-04	80	Chloride (Stat Lab)              102                       (100-108)      mmol/L		TOD FFF stat#1
+325-04	81	CO2 (Stat Lab)                   28.6                      (23.0-31.9)    mmol/L		TOD FFF stat#1
+325-04	82	BUN (Stat Lab)                   12                        (8-25)         mg/dl		TOD FFF stat#1
+325-04	83	Creatinine (Stat Lab)            0.7                       (0.6-1.5)      mg/dl		INDICATION FFF creatinine#0	TOD FFF stat#1
+325-04	84	Glucose (Stat Lab)               164              H        (70-110)       mg/dl		TOD FFF stat#1	DRT FFF 164 h#4
+325-04	85	Calcium                          9.2                       (8.5-10.5)     mg/dl		DIN FFF calcium#0	DOSE FFF 9.2#1
+325-04	86	Phosphorus                       3.5                       (2.6-4.5)      mg/dl		INDICATION FFF phosphorus#0
+325-04	87	Magnesium                        1.3              L        (1.4-2.0)      meq/L		DIN FFF magnesium#0	DOSE FFF 1.3l#2
+325-04	88	Total Protein                    7.8                       (6.0-8.3)      g/dl	
+325-04	89	Albumin                          4.1                       (3.3-5.0)      g/dl		DIN FFF albumin#0	DOSE FFF 4.1#1
+325-04	90	Globulin                         3.7                       (2.6-4.1)      g/dl	
+325-04	91	Direct Bilirubin                 0.1                       (0-0.4)        mg/dl	
+325-04	92	Total Bilirubin                  0.5                       (0.0-1.0)      mg/dl	
+325-04	93	Alkaline Phosphatase             129              H        (30-100)       U/L		DRT FFF 129 h#3
+325-04	94	Transaminase-SGPT                32               H        (7-30)         U/L		DRT FFF 32 h#2
+325-04	95	Amylase                          24                        (3-100)        units/L		DIN FFF amylase#0	DOSE FFF 24#1
+325-04	96	Lipase                           1.7                       (1.3-6.0)      U/dl		DIN FFF lipase#0	DOSE FFF 1.7#1
+325-04	97	Transaminase-SGOT                34               H        (9-32)         U/L		DRT FFF 34 h#2
+325-04	98	D-Dimer (ELISA)                  818              H        (<500)         ng/ml		DRT FFF 818 h#3
+325-04	99	Creatine Kinase Isoenzymes       NEGATIVE                  (NEG)	
+325-04	100	Troponin-I                       NEGATIVE                  (NEG)	
+325-04	101	Hematology:	
+325-04	102	WBC                              5.2                       (4.5-11.0)     th/cmm	
+325-04	103	HCT                              34.8             L        (36.0-46.0)    %		DOSE FFF 34.8l#2
+325-04	104	HGB                              12.7                      (12.0-16.0)    gm/dl	
+325-04	105	RBC                              4.20                      (4.00-5.20)    mil/cmm	
+325-04	106	PLT                              213                       (150-350)      th/cumm	
+325-04	107	MCV                              83                        (80-100)       fl	
+325-04	108	MCH                              30.2                      (26.0-34.0)    pg/rbc	
+325-04	109	MCHC                             36.5                      (31.0-37.0)    g/dl	
+325-04	110	RDW                              13.0                      (11.5-14.5)    %	
+325-04	111	Poly                             44                        (40-70)        %	
+325-04	112	Bands                            26               H        (0-10)         %		DRT FFF 26 h#2
+325-04	113	Lymphs                           20               L        (22-44)        %		DOSE FFF 20l#2
+325-04	114	Monos                            10                        (4-11)         %	
+325-04	115	EOS                              0                         (0-8)          %	
+325-04	116	Basos                            0                         (0-3)          %	
+325-04	117	Absolute Neuts                   2.29                      (1.8-7.7)      th/cmm	
+325-04	118	Absolute Bands                   1.35                                     th/cmm	
+325-04	119	Absolute Lymphs                  1.04                      (1.0-4.8)      th/cmm	
+325-04	120	Absolute Monos                   0.52             H        (0.2-0.4)      th/cmm		DRT FFF 0.52 h#3
+325-04	121	Absolute EOS                     0.00             L        (0.1-0.3)      th/cmm		DOSE FFF 0.00l#3
+325-04	122	Absolute Basos                   0.00                      (0.0-0.3)      th/cmm	
+325-04	123	Aniso                            None                      (None)	
+325-04	124	Hypo                             None                      (None)	
+325-04	125	Macrocytes                       None                      (None)	
+325-04	126	Microcytes                       None                      (None)	
+325-04	127	U/A	
+325-04	128	UA-Specific Gravity              1.015                     (1.001-1.035)	
+325-04	129	UA-pH                            5.0                       (5.0-9.0)	
+325-04	130	UA-WBC Screen                    NEGATIVE                  (NEG)	
+325-04	131	UA-Nitrite                       NEGATIVE                  (NEG)	
+325-04	132	UA-Albumin                       NEGATIVE                  (NEG)	
+325-04	133	UA-Glucose                       NEGATIVE                  (NEG)	
+325-04	134	UA-Ketones                       NEGATIVE                  (NEG)	
+325-04	135	UA-Occult Blood                  2+                        (NEG)	
+325-04	136	UA-SED-RBC                       3-5                       (0-2)          /hpf	
+325-04	137	UA-SED-WBC                       0-2                       (0-2)          /hpf	
+325-04	138	UA-SED-Bacteria                  NEGATIVE                  (NEG)          /hpf	
+325-04	139	Hyaline Cast                     0-2                       (0-5)          /lpf	
+325-04	140	Squamous Cells                   NEGATIVE                  (NEG)          /hpf	
+325-04	141	Radiology:	
+325-04	142	CXR: neg	
+325-04	143	Adenosine Stress Test 11/78		DIN FFF adenosine#0
+325-04	144	The ECG response to pharmacological stress was  nondiagnostic for		DIN FFF ecg#1
+325-04	145	ischemia.		INDICATION FFF ischemia .#0
+325-04	146	The myocardial scans are within normal limits and do not  demonstrate evidence of myocardial ischemia or infarction.		INDICATION FFF myocardial ischemia#14	INDICATION FFF infarction#16
+325-04	147	Echo 11/78:	
+325-04	148	MITRAL VALVE	
+325-04	149	There is systolic anterior	
+325-04	150	motion (SAM) of the chordal apparatus which is a normal variant.  mild MR.	
+325-04	151	mild AI. EF is 67 %. mild TI. RVSP is 43 mmHg.		INDICATION FFF ef#2	DOSE FFF 67%#5
+325-04	152	EKG:	
+325-04	153	sinus at 81 bpm, no ST changes, biphasic Ts in V1/V2?, qs in III, AV2		INDICATION FFF st#5	INDICATION FFF ts#8
+325-04	154	ASSESSMENT & PLAN	
+325-04	155	53 y/o female with CHF/diastolic dysfunction, HTN who presents with 2 day history of chest pain concerning for ACS.		INDICATION FFF chf#4	INDICATION FFF htn#6	DRT FFF 2 day#11	INDICATION FFF chest pain#15
+325-04	156	Chest pain-concerning for ACS given symptoms.		INDICATION FFF symptoms#5
+325-04	157	Does have HTN, HL, past smoking hx.		INDICATION FFF htn#2	INDICATION FFF hl#3
+325-04	158	R/o MI with CE		INDICATION FFF mi#1
+325-04	159	Cont on telemetry	
+325-04	160	Cont metoprolol and titrate as BP/HR permits		DIN FFF metoprolol#1	INDICATION FFF as#4	INDICATION FFF bp#5
+325-04	161	Stress test given history	
+325-04	162	On ASA, BB, lipitor		DIN FFF asa#1	DBN FFF bb#2	DBN FFF lipitor#3
+325-04	163	PE CT poor study but negative		INDICATION FFF pe#0	INDICATION FFF ct#1
+325-04	164	EtOH use-interested in quitting	
+325-04	165	Cont folate, thiamine, vitamins		DIN FFF folate#1	DIN FFF thiamine#2	DBN FFF vitamins#3
+325-04	166	Watch for signs of withdrawal	
+325-04	167	Ativan PRN, switch to standing if needs to take it		DBN FFF ativan#0	NEC FFF prn#1
+325-04	168	Mild transaminitis	

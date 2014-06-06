@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2111-01-05
+
+ 
+UROLOGY Consult 
+Patient:  Bryan, Archie
+MRN: 7246074
+Date: 1/5/11
+
+CC:  hematuria
+
+HPI:  81yo M with chronic incontinence who last night noted small amount of blood in diaper.  This AM caregiver changed diaper and noted large amount of clots and brought patient to hospital.  Patient complains of    crotch pain    and waking up with suprapubic pain during night.  Denies fever, chills, nausea, vomiting, diarrhea.  Does not believe he has blood in stool or melena.  Has never had bloody urine before, though it is not clear that patient   s given history is accurate.
+
+PMH/PSH:  type 2 diabetes, sacral decub ulcer, R hip arthroplasty, htn, OA, afib
+
+MEDS:  coumadin, novolin sliding scale, aspirin 325mg daily, digoxin 0.125mg daily, folic acid 1mg daily, NPH 6Units SC QPM, lipitor 40mg daily, prilosec 20mg daily, miralax 17g BID, Toprol XL 150mg BID, Tylenol, Senna, Dulcolax supp prn, MOM prn, Reglan 5mg QID prn N/V, Scot-tussin s/f original 10ml Q6H prn cough, NPH 34 Units SC QAM
+
+ALLERGIES:  NKDA
+
+FMH/SH: quit smoking 2059, no etoh.  Lives in nursing home.
+
+PE: T= 101.6    BP= 207/94       P= 114      RR= 20    SaO2= 99% RA
+Gen=NAD.  
+CV=RRR
+Lungs=CTAB
+Abd=soft, mildly distended, mildly tender in suprapubic area.
+GU= large clots from foley catheter with grossly bloody urine
+
+RELEVANT LAB/IMAGING STUDIES: 
+CBC: 17.9>33.8<462 differential 92/4/4/0
+Coags:  INR 4.9, PTT 44.1
+UA: nitrite +, 3+ alb, packed RBC, 3-5 WBC, few bacteria, squamous cell neg
+Chemistry: Na 140, K 5.2, Cl 108, CO2 18.2, BUN 41, Cr 2.1, Glu 97, Ca 9.1, Mg 1.5, Phos 2.8
+LFTs: total protein 8.6, alb 3.6, DB 0, TB 0.2, AP 157, SGPT 16, SGOT 22, amylase 99, lipase 4.3
+
+CXR ordered
+EKG: pending
+
+Renal US: Bilateral moderate pelvicaliectasis, new from prior CT from 2109.  Echogenic materials in bladder, presumably blood.  No mass or stones seen.
+
+PROCEDURES:  Whistle tip foley placed and bladder was hand irrigated with 3L NS with large amount of clot removed.  Placed on Murphy drip with lightening of urine over 1 hour. 
+
+ASSESSMENT/RECOMMENDATIONS:
+81yo M with gross hematuria with clot, fever, and elevated WBC. Renal US obtained rather than CT scan b/c of elevated creatinine in diabetic patient.
+-Admit to Urology service.  Patient needs to be on cardiac monitor.
+-IV fluids: D5    NS at 100cc/hr.
+-Please obtain CXR and EKG.
+-NPO after midnight
+-hold coumadin.  Patient receiving FFP to reverse anticoagulation.
+-Will continue Levaquin (renal dosing)
+-Please send blood cultures and urine culture.
+-Will recheck chem. 7, CBC, coags in morning.
+
+
+_____________________________________________
+Evelyn Xuan, MD
+HRC Urology 59931
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC4" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC5" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC10" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC14" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC15" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC16" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC17" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC20" time="before DCT" type1="insulin" type2=""/>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC9" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC13" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC18" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC19" indicator="not present"/>
+    <SMOKER id="DOC7" status="past"/>
+    <DIABETES id="DOC8" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC11" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC12" time="during DCT" indicator="mention"/>
+  </TAGS>
+</root>

@@ -1,0 +1,19 @@
+272-04	25	0	The Pt received Lasix 40mg IV and O2 @ 3L/min.	lasix FFF 3 3	40mg FFF 4 4	iv FFF 5 5	 FFF 	 FFF 	 FFF 	narrative
+272-04	27	0	The Pt received ASA 325mg PO.	asa FFF 3 3	325mg FFF 4 4	po. FFF 5 5	 FFF 	 FFF 	 FFF 	narrative
+272-04	28	0	Since receiving the Lasix, the Pt's LE edema has drastically diminished, and the Pt states that he feels a lot better.	lasix, FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+272-04	29	0	The Pt has not experienced any recent weight loss and is on a regular diet without salt restriction (he uses salt 2-3x/wk).	salt FFF 16 16	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+272-04	29	0	The Pt has not experienced any recent weight loss and is on a regular diet without salt restriction (he uses salt 2-3x/wk).	salt FFF 20 20	2-3x/wk). FFF 21 21	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+272-04	42	438	Amlodipine 7.5mg QD	amlodipine FFF 0 0	7.5mg FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+272-04	43	438	ASA	asa FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+272-04	44	438	Fosinopril 40mg BID	fosinopril FFF 0 0	40mg FFF 1 1	 FFF 	bid FFF 2 2	 FFF 	 FFF 	narrative
+272-04	45	438	HCTZ 25mg QD	hctz FFF 0 0	25mg FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+272-04	46	438	Metoprolol 100mg BID	metoprolol FFF 0 0	100mg FFF 1 1	 FFF 	bid FFF 2 2	 FFF 	 FFF 	narrative
+272-04	47	438	Lipitor 10mg QHS	lipitor FFF 0 0	10mg FFF 1 1	 FFF 	qhs FFF 2 2	 FFF 	 FFF 	narrative
+272-04	48	438	Glucophage 1g BID	glucophage FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+272-04	48	438	Glucophage 1g BID	1g bid FFF 1 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+272-04	49	438	Glyburide 10mg BID	glyburide FFF 0 0	10mg FFF 1 1	 FFF 	bid FFF 2 2	 FFF 	 FFF 	narrative
+272-04	50	438	Omeprazole 20mg QD	omeprazole FFF 0 0	20mg FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+272-04	51	438	Viagra 100mg PRN	viagra FFF 0 0	100mg FFF 1 1	 FFF 	prn FFF 2 2	 FFF 	 FFF 	narrative
+272-04	55	0	He denies using illicit drugs.	illicit drugs. FFF 3 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+272-04	68	0	Neuro/Psych: No numbness, tingling, pain, loss of coordination or balance, weakness, or loss of memory.	balance, FFF 9 9	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+272-04	83	0	Paradoxical rise during inspiration.	rise FFF 1 1	 FFF 	 FFF 	 FFF 	during inspiration. FFF 2 3	 FFF 	narrative

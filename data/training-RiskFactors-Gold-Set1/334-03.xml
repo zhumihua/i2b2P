@@ -1,0 +1,249 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2132-11-25
+
+Vascular Surgery Admission Note
+
+
+
+Patient Name:  Jain, Oliver
+
+MRN:  9628518 
+
+Date and Time: 11/25/32 2:40PM
+
+Attending: Dr. Uselton
+
+Fellow: Dr. Uselton
+
+Junior Resident: Dr. Gonzales
+
+
+
+cc: L popliteal aneursym
+
+
+
+HPI: Mr. Jain is a 66 year old male with a h/o DM, HTN, HL, Chronic Afib, PVD and bilateral popliteal aneurysm s/p atheroembolic event to RLE w/ resultant RLE ischemia and dry gangrene of heel, toes and forefoot.  During his prior admission in September, he underwent diagnostic angio which showed occluded R SFA, thrombosed R popliteal aneurysm and occluded R posterior tibial artery.  On 10/01, he underwent a R SFA to BK popliteal bpg w/ saphenous vein graft; revised intraoperatively w/ AK pop to BK pop BPG using 8mm PTFE and angioplasty to the R PTA.  He has been doing well since discharge in October. His dry gangrene is stable and well demarcated.  He uses a special shoe at home for walking on RLE to offset weight on his toes and heel. 
+
+
+
+He denies recent h/o fevers/chills, N/V, abdominal pain, or neurological sx.
+
+
+
+
+PMH: 
+
+B popliteal aneursyms
+
+DM
+
+PVD
+
+HTN
+
+HL
+
+Chronic Atrial fibrillation
+
+PSH: 
+
+10/01/32-R fem-BK pop w/ saphenous vein graft and 8mm PTFE
+
+9/28/32- Diagnostic angiogram
+
+8/2132-exploratory lap and drainage of splenic abscess
+
+L inguinal hernia repair
+
+R elbow surgery
+
+
+
+
+
+Meds: 
+
+  1. Aspirin Enteric Coated  325 MG PO QD
+
+  2. Calcium Carbonate 1250 Mg (500 Mg Elem Ca 1 TAB PO BID 
+
+
+
+3. Clopidogrel (Plavix )  75 MG PO QD-last dose 11/19
+
+  4. Digoxin  0.25 MG PO QD
+
+  5. Diltiazem  90 MG PO QID
+
+  6. Docusate Sodium (Colace)  100 MG PO BID
+
+  7. Hydromorphone Hcl (Dilaudid )  2-4 MG PO Q3H prn Pain  
+
+  8. Insulin Nph Human  15 units SC QAM BEFORE BREAKFAST
+
+  9. Insulin Nph Human  4 UNITS SC QHS
+
+
+10. Insulin Regular Inj  5 UNIT SC QAM BEFORE BREAKFAST
+
+
+11. Insulin Regular Inj  8 UNIT SC QPM BEFORE SUPPER
+
+
+12. Lansoprazole  30 MG PO QD
+
+
+13. Metoprolol Succinate Extended Release (Toprol Xl )  100 MG PO QD
+
+
+14. Pravastatin  20 MG PO QD
+
+
+15. Sennosides (Senna Tablets)  2 TAB PO QHS
+
+
+16. Warfarin Sodium (Coumadin )  5 MG PO QPM-last dose 11/22
+
+
+ALL:  oxacillin&#224;rash
+
+Family Hx: non-contributory
+
+
+Social: Lives in Hebbronville, MA with wife.
+
+Smoking: denies
+
+ETOH-denies
+
+
+
+
+
+ROS: as above, otherwise: denies CP, SOB, diarrhea, blood per rectum, bleeding or clotting disorders, urinary problems.
+
+
+
+
+
+PE: 
+
+VS: T 
+98  HR  64  BP 111/56   RR 18 97%  RA
+
+Well appearing male, NAD
+
+Carotid 2+ no bruits
+
+Irregularly irregular no m/r/g 
+
+Lungs CTAB
+
+Abd: soft, non tender, non distended +BS. Well healed-LUQ transverse incision.
+
+Extremities: Skin is dry bilateral feet. 
+
+RLE: Dry gangrene of entire 1st toe 2nd and 3rd toes, tips of 4th and 5th toes and forefoot.
+
+R heel w/ 5cm x 3cm eschar on posteriolateral surface.
+
+
+
+Pulses: R BK-pop BPG pulse is dopplerable
+
+
+
+     Rad    Fem   Pop   DP          PT
+
+R     2+    2+    --    Non-dop     dop
+
+L     2+    2+    2+    2+          2+
+
+
+
+
+
+PVR: pulsatile at bilateral ankles
+
+
+
+ECG: atrial fibrillation
+
+
+
+Imaging:
+
+
+
+CXR-pending
+
+
+A/P:  66M w/ a h/o HTN, HL, PVD and Bilateral popliteal aneursyms who presents for admission prior to L femoral to BK popliteal BPG tomorrow to exclude the L pop aneurysm.  
+
+-Admit to Vascular Surgery
+
+-Admission Labs
+
+-CXR/ECG
+
+-NPO after midnight
+
+-IVF/ &#189; dose NPH while NPO
+
+
+
+Case discussed with Dr. Nicholas Uselton, Vascular Fellow
+
+
+
+
+
+
+
+________________________________
+
+Brandi Xayasane PA-C 75197
+
+Vascular Surgery 
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC4" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC18" time="after DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC8" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC10" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC15" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC16" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC19" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC21" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC22" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC23" time="before DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC25" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC26" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC27" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC24" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC17" indicator="not present"/>
+    <SMOKER id="DOC20" status="never"/>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC14" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC28" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

@@ -1,0 +1,11 @@
+287-01	12	0	The ECG began to evolve reciprical changes, but the RV leads were negative for infarction.	ecg FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+287-01	25	438	Prilosec 10 mg bid	prilosec FFF 0 0	10 mg FFF 1 2	 FFF 	bid FFF 3 3	 FFF 	 FFF 	narrative
+287-01	26	438	estrogen patch TOP qweek	estrogen patch FFF 0 1	 FFF 	top FFF 2 2	qweek FFF 3 3	 FFF 	 FFF 	narrative
+287-01	27	438	TRANSFER MEDICATIONS:	transfer medications: FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+287-01	28	438	ASA 325 mg x 1	asa FFF 0 0	325 mg FFF 1 2	 FFF 	x 1 FFF 3 4	 FFF 	 FFF 	narrative
+287-01	29	438	Morphine	morphine FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+287-01	30	438	Integrilin gtt	integrilin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+287-01	31	438	Nitroglycerine gtt	nitroglycerine FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+287-01	32	438	Heparin gtt	heparin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+287-01	81	0	- Continue current transfer medications for ACS.	transfer medications FFF 3 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+287-01	82	0	- Anxiolytic x 1 prn anxiety	anxiolytic FFF 1 1	 FFF 	 FFF 	x 1 prn FFF 2 4	 FFF 	 FFF 	narrative

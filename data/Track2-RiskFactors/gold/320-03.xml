@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CardiacRiskTask>
+  <TEXT><![CDATA[
+
+
+Record date: 2080-06-13
+
+
+
+INFECTIOUS DISEASE ASSOCIATES
+CURTIS MEDICAL CENTER
+
+Reason for visit   Brucellosis.
+
+History of present illness   Ms. Iles is seen here two weeks after her discharge from the hospital.  She has been treated for systemic brucellosis with suspicion of osteoarticular disease given her low back pain.  She is taking rifampin, doxycycline and has been treated with streptomycin.  She feels quite a bit better and has had resolution of her fevers and chills.  She has diminished pain and is able to ambulate somewhat and goes to the bathroom more comfortably.  She still has weakness and a poor appetite.  There have been no change in her bowel habits and no fevers, chills or rash.
+
+Past medical history   -DMII (dx late 60s, last A1c = 5.6 in 2/80) 
+-HTN 
+-Hyperlipidemia 
+-Hep B sAb+, sAg+, and core Ab+ in 2067; now sAg-, sAb+, and core Ab (+) in 2/2080 ( recovery ) 
+-H/o H. pylori (+) 2068 and 2080 s/p triple therapy 
+-GERD 
+-OA 
+-H/o vitamin D deficiency 
+-H/o chronic HAs (migraines vs. tension HAs) 
+-+ PPD (in Mississippi in 2067) 
+-H/o malaria
+
+Active Medications
+ multivitamins liquid; Dir: One teaspoon daily
+ metformin hydrochloride 500 MG PO BID
+ lisinopril 20 MG PO daily
+ atenolol 50 MG PO daily
+ Zofran 4 MG PO Q8H
+ aspirin 81 MG PO daily
+ morphine sulfate immediate release PO Q4H PRN
+ Ms contin PO Q12H
+ simvastatin 40 MG PO QPM
+
+Review of systems   Denies fever, rigor, night sweats, headache, SOB, cough, anorexia, nausea, vomiting, diarrhea, abdominal pain, paresthesias, or rash.
+
+Physical Exam
+Pulse   120
+Blood pressure 160/70  
+respiratory rate   16
+weight   181 lbs., temperature 98.6.
+General appearance   Well appearing.
+Skin   No rash or jaundice.
+HEENT   No thrush.
+Nodes   None.
+Chest   Clear.
+Cor   Normal PMI.  Regular rate and rhythm, 1/6 systolic ejection murmur is unchanged.  No rub, gallop or click.
+Abdomen   Soft without hepatosplenomegaly, mass or ascites.
+Musc skel   There is some persistent tenderness in the left sacroiliac region in her lower back.
+
+Selected recent labs   Include, sodium 134, creatinine 0.6, glucose 147, calcium 9.0. SGOT 86, SGPT 75 and these are both lower than in the hospital. Iron 31, TIBC 164. Hematocrit 37, white blood cell count 4, platelets 411,000. Followup blood cultures drawn in the hospital, sterilized on therapy.
+
+Assessment and plan   .  Continue with doxycycline and rifampin for brucellosis.  Follow up with Dr. Tillman skin in one month.  Liver function test and CBC drawn today.  Low suspicion of endocarditis.  We anticipate therapy to be six months.
+
+FOLLOWUP:  One month.
+
+Todd Riley, MD
+
+Signed electronically by  Todd Riley, MD
+Document Status: Final
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC10" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC20" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC22" time="before DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC7" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC17" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC21" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC24" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC25" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC11" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC23" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC19" indicator="not present"/>
+    <SMOKER id="DOC14" status="unknown"/>
+    <DIABETES id="DOC8" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC15" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC26" time="after DCT" indicator="mention"/>
+  </TAGS>
+</CardiacRiskTask>

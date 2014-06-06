@@ -1,0 +1,28 @@
+391-01	1	Record date: 2085-09-28	
+391-01	2	DR: Goldberg,M (25515)	
+391-01	3	CLINIC: STANTON NURSING	
+391-01	4	STANTON NURSING HOME PRIMARY CARE	
+391-01	5	339 Balcom Street, Eighth Floor	
+391-01	6	Oil City, VA  14172		DIN FFF va#2
+391-01	7	Michael Goldberg, M.D.	
+391-01	8	RE:  Ordonez, Yamilex	
+391-01	9	SNH#: 008-37-16	
+391-01	10	September 28, 2085	
+391-01	11	Reason for visit:  This is an initial visit on September 28th, 2085.	
+391-01	12	Yamilex is a 68-year-old woman who I know quite well status post a stroke in 2083.		INDICATION FFF stroke#13
+391-01	13	In 2083 Mrs. Ordonez presented with ataxia and dizziness.  She was found to have a left vertebral stenosis and a left posterior inferior cerebellar artery distribution stroke.  She was found to be hypertensive at that time and was started on atenolol.		INDICATION FFF dizziness#8	INDICATION FFF stenosis#17	INDICATION FFF stroke#26	INDICATION FFF hypertensive#32	DIN FFF atenolol#40
+391-01	14	Mrs. Ordonez blood pressure was not well controlled on atenolol and hydrochlorothiazide.		INDICATION FFF blood pressure#3	DIN FFF atenolol#9	DIN FFF hydrochlorothiazide#11
+391-01	15	Triamterene was added.		DIN FFF triamterene#0
+391-01	16	Unfortunately she represented with recurrent ataxia and dizziness possibly due to overtreatment of her blood pressure.		INDICATION FFF dizziness#7	INDICATION FFF her blood pressure#15
+391-01	17	Of note, she was only mildly orthostatic at that time.	
+391-01	18	She also had an E. coli urinary tract infection which may have been complicating matters.		INDICATION FFF e . coli#5	INDICATION FFF urinary tract infection#8
+391-01	19	Mrs. Ordonez has had borderline glucose intolerance as well as an elevated alkaline/phosphatase.		INDICATION FFF glucose intolerance#6	INDICATION FFF as#7	INDICATION FFF as#9
+391-01	20	She had had a hemoglobin A1C of 6% tested in 2083.		DOSE FFF 6%#7
+391-01	21	Yamilex is generally doing well.	
+391-01	22	She has no particular complaints.	
+391-01	23	She has had an active summer getting out to the beach and walks the shopping mall with her daughter with good energy.	
+391-01	24	She has had no chest pains, shortness of breath, alterations in her bowel or bladder habits.		INDICATION FFF shortness of breath#8
+391-01	25	Medications:  Coumadin 2.5 alternating with 3.75 q.d. for her history of vertebral artery stenosis and atenolol 75 q.d.		DBN FFF coumadin#1	DOSE FFF 2.5#2	FREQ FFF q.d .#6	INDICATION FFF stenosis#13	DIN FFF atenolol#15	DOSE FFF 75#16	FREQ FFF q.d .#17
+391-01	26	Physical examination:  Blood pressure was 170/90.		INDICATION FFF blood pressure#3
+391-01	27	Heart rate was 82 and regular.		INDICATION FFF heart rate#1
+391-01	28	The HEENT examination was unremarkable.	

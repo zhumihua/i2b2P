@@ -1,0 +1,43 @@
+392-02||1||Record date: 2112-01-17
+392-02||2||CC:  Follow-up labs/MRI
+392-02||3||HPI:  49 y.o. female with h/o diabetes who had meds resumed on last visit.
+392-02||4||She is unable to check her blood sugar due to unable to afford strips and insurance will not pay for them.
+392-02||5||She was started on pravachol for hyperlipidemia and lisinopril for microalbuminuira on last visit without side effect to meds.||DBN FFF pravachol FFF 4 4||INDICATION FFF hyperlipidemia FFF 6 6||
+392-02||5||She was started on pravachol for hyperlipidemia and lisinopril for microalbuminuira on last visit without side effect to meds.||DIN FFF lisinopril FFF 8 8||
+392-02||6||She had an MRI of hips which shows mild DJD and arterial noninvasives showing mild disease on the right and moderate on the left.
+392-02||7||Mammogram was negative.
+392-02||8||She continues to smoke but is done to one pack/day from two pack/day.
+392-02||9||She denies any chest pain, shortness of breath or palpitations.
+392-02||10||She has difficulty walking long distances due to claudication.
+392-02||11||Problems
+392-02||12||Peripheral vascular disease
+392-02||13||Diabetes mellitus type 2
+392-02||14||Hyperlipidemia
+392-02||15||Claudication
+392-02||16||Medications
+392-02||17||Claritin (LORATADINE) 10 MG (10MG TABLET take 1) PO QD x 30 days||DBN FFF claritin FFF 0 0||
+392-02||18||Glipizide Xl (GLIPIZIDE Xl) 10 MG (10MG TAB OSM 24 take 1) PO QD x 30 days||DBN FFF glipizide xl FFF 0 1||
+392-02||18||Glipizide Xl (GLIPIZIDE Xl) 10 MG (10MG TAB OSM 24 take 1) PO QD x 30 days||DIN FFF osm FFF 8 8||DOSE FFF 24 FFF 9 9||RUT FFF po FFF 12 12||FREQ FFF qd FFF 13 13||DRT FFF 30 days FFF 15 16||
+392-02||19||IBUPROFEN 800 MG (800MG TABLET take 1) PO TID PRN pain x 30 days, Take with food or milk.||DIN FFF ibuprofen FFF 0 0||DOSE FFF 800 mg FFF 1 2||DOSE FFF (800mg FFF 3 3||DDF FFF tablet FFF 4 4||RUT FFF po FFF 7 7||FREQ FFF tid FFF 8 8||NEC FFF prn FFF 9 9||INDICATION FFF pain FFF 10 10||DRT FFF 30 days, FFF 12 13||
+392-02||20||LISINOPRIL 2.5 MG (2.5MG TABLET take 1) PO QD x 30 days||DIN FFF lisinopril FFF 0 0||DOSE FFF 2.5 mg FFF 1 2||DOSE FFF (2.5mg FFF 3 3||DDF FFF tablet FFF 4 4||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||DRT FFF 30 days FFF 10 11||
+392-02||21||METFORMIN 500 MG (500MG TABLET take 1) PO BID x 30 days||DIN FFF metformin FFF 0 0||DOSE FFF 500 mg FFF 1 2||DOSE FFF (500mg FFF 3 3||DDF FFF tablet FFF 4 4||RUT FFF po FFF 7 7||FREQ FFF bid FFF 8 8||DRT FFF 30 days FFF 10 11||
+392-02||22||Pravastatin (PRAVASTATIN) 10 MG (10MG TABLET take 1) PO QHS x 30 days||DIN FFF pravastatin FFF 0 0||
+392-02||23||Tylenol #3 (ACETAMINOPHEN W/codeine 30mg) 1 TAB PO Q6H x 21 days, Do not drive, drink alcohol with this medication.||DBN FFF tylenol FFF 0 0||MDBN FFF (acetaminophen w/codeine FFF 2 3||DOSE FFF 30mg) FFF 4 4||DOSEAMT FFF 1 tab FFF 5 6||RUT FFF po FFF 7 7||FREQ FFF q6h FFF 8 8||DRT FFF 21 days, FFF 10 11||
+392-02||23||Tylenol #3 (ACETAMINOPHEN W/codeine 30mg) 1 TAB PO Q6H x 21 days, Do not drive, drink alcohol with this medication.||DPN FFF this medication. FFF 18 19||
+392-02||24||Allergies
+392-02||25||NKA
+392-02||26||Family/social History
+392-02||27||Coronary Artery Disease  Relative: Brother; Comments: H/o 4V CABG
+392-02||28||Bone Cancer Relative: Father; Age of Onset: 53; Living: No
+392-02||29||Uterine Cancer Relative: Mother; Age of Onset: 46; Living: No
+392-02||30||Diabetes Mellitus Type 2 Relative: Brother;Relative: Sister;Relative: Grandfather, maternal;
+392-02||31||Health Maint
+392-02||32||Smoking status 01/17/2112  Current smoker  Last Counsel date: 01/17/2112, No Of Cigarettes Smoked per Day: 10-19 CIG/DAY (1/2-1 ppd), Readiness to Change: Ready to quit now
+392-02||33||Mammogram 01/11/2112 see report in Results
+392-02||34||Pap Smear 09/28/99 see report in Results
+392-02||35||Pneumovax 12/26/2111||DIN FFF pneumovax FFF 0 0||DOSE FFF 12/26/2111 FFF 1 1||
+392-02||36||Flowsheets
+392-02||37||BLOOD PRESSURE 110/72
+392-02||38||PULSE 78
+392-02||39||WEIGHT 207 lb
+392-02||40||AGE 49y7.7m

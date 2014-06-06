@@ -1,0 +1,23 @@
+225-04	12	0	He had symptomatic relief until 11/94 when he began to experience exertional discomfort and dyspnea which has now progressed to symptoms at rest despite an aggressive medical regimen.	medical regimen. FFF 26 27	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+225-04	18	0	He has been compliant with all medications, including ASA and Plavix.	asa FFF 8 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+225-04	18	0	He has been compliant with all medications, including ASA and Plavix.	plavix. FFF 10 10	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+225-04	25	0	Cardiac cath 12/94: Diffuse 3 vessel CAD.	vessel FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+225-04	33	438	Albuterol Inhaler Hfa INH as directed	albuterol inhaler FFF 0 1	 FFF 	inh FFF 3 3	 FFF 	 FFF 	 FFF 	narrative
+225-04	34	438	Buffered Aspirin (ASPIRIN Buffered) 325 MG (325 MG TABLET Take 1) PO QD #Tablet(s)	buffered aspirin FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+225-04	35	438	Citalopram 40 MG (40 MG TABLET Take 1) PO QD #Tablet(s)	citalopram FFF 0 0	40 mg FFF 1 2	po FFF 8 8	qd FFF 9 9	 FFF 	 FFF 	narrative
+225-04	36	438	Fenofibrate, Micronized (LOFIBRA Caps) 200 MG (200 MG CAPSULE Take 1) PO QD, Take with food. #Capsule(s)	fenofibrate, micronized FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+225-04	37	438	Furosemide 20 MG (20 MG TABLET Take 1) PO QD #Tablet(s)	furosemide FFF 0 0	20 mg FFF 1 2	po FFF 8 8	qd FFF 9 9	 FFF 	 FFF 	narrative
+225-04	38	438	Isosorbide Mononitrate (SR) 60 MG (60 MG TAB.SR 24H Take 1) PO QD #TAB.SR	isosorbide mononitrate (sr) FFF 0 2	60 mg FFF 3 4	po FFF 11 11	qd FFF 12 12	24h FFF 8 8	 FFF 	narrative
+225-04	39	438	Klor-con (KCL Slow Release Tab) PO #Tablet(s)	klor-con FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+225-04	40	438	Lipitor (ATORVASTATIN) 40 MG (40 MG TABLET Take 1) PO QHS #Tablet(s)	lipitor FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+225-04	41	438	Metoprolol Tartrate 37.5 MG (25 MG TABLET Take 1.5) PO BID #Tablet(s)	metoprolol tartrate FFF 0 1	37.5 mg FFF 2 3	po FFF 9 9	bid FFF 10 10	 FFF 	 FFF 	narrative
+225-04	42	438	Norvasc (AMLODIPINE) 10 MG (10 MG TABLET Take 1) PO QD #Tablet(s)	norvasc FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+225-04	43	438	Pantoprazole 40 MG (40 MG TABLET DR Take 1) PO QD #Tablet(s)	pantoprazole FFF 0 0	40 mg FFF 1 2	po FFF 9 9	qd FFF 10 10	 FFF 	 FFF 	narrative
+225-04	44	438	Plavix (CLOPIDOGREL) 75 MG (75 MG TABLET Take 1) PO QD #Tablet(s)	plavix FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+225-04	45	438	Ranexa (RANOLAZINE Er) PO BID #TAB.SR	Ranexa (RANOLAZINE Er) FFF 0 2	 FFF 	po FFF 3 3	bid FFF 4 4	 FFF 	 FFF 	narrative
+225-04	46	438	Symbicort 80/4.5 (BUDESONIDE/FORMOTEROL 80/4.5) 2 PUFF INH BID	Symbicort 80/4.5 (BUDESONIDE/FORMOTEROL 80/4.5) FFF 0 3	2 puff FFF 4 5	inh FFF 6 6	bid FFF 7 7	 FFF 	 FFF 	narrative
+225-04	50	0	ACE Inhibitor - reaction: cough [reviewed]	ace inhibitor FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+225-04	51	0	METFORMIN - reaction: GI Intolerance [reviewed]	metformin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+225-04	52	0	ROSUVASTATIN - reaction: myalgia [reviewed]	rosuvastatin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+225-04	53	0	SIMVASTATIN - reaction: myalgias [reviewed]	simvastatin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+225-04	54	0	VALSARTAN - reaction: fatigue [reviewed]	valsartan FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

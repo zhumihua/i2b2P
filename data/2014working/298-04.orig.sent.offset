@@ -1,0 +1,24 @@
+298-04	16	0	Coronary artery disease : ett exam: 2080The ECG response to pharmacological stress was uninterpretable for ischemia.	ecg FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+298-04	20	0	Calcium Carbonate (500 Mg Elemental Ca ) 500MG, 1 Tablet(s) PO QD : Take as directed	calcium carbonate (500 mg elemental ca ) FFF 0 6	500mg, FFF 7 7	po FFF 10 10	qd FFF 11 11	 FFF 	 FFF 	narrative
+298-04	21	0	Prilosec (OMEPRAZOLE) 20MG, 1 Capsule(s) PO QD	Prilosec (OMEPRAZOLE) FFF 0 1	20mg, FFF 2 2	po FFF 5 5	qd FFF 6 6	 FFF 	 FFF 	narrative
+298-04	22	0	Lasix (FUROSEMIDE) 40MG, 1 Tablet(s) PO BID : Take as directed	Lasix (FUROSEMIDE) FFF 0 1	40mg, FFF 2 2	po FFF 5 5	bid FFF 6 6	 FFF 	 FFF 	narrative
+298-04	23	0	Celebrex (CELECOXIB) 200MG, 1 Capsule(s) PO QD : Take as directed	Celebrex (CELECOXIB) FFF 0 1	200mg, FFF 2 2	po FFF 5 5	qd FFF 6 6	 FFF 	 FFF 	narrative
+298-04	24	0	PREDNISONE 5MG, 1 Tablet(s) PO QD	prednisone FFF 0 0	5mg, FFF 1 1	po FFF 4 4	qd FFF 5 5	 FFF 	 FFF 	narrative
+298-04	25	0	Hydralazine Hcl 10MG, 1 Tablet(s) PO QID x 60 day(s) : Take as directed	hydralazine hcl FFF 0 1	10mg, FFF 2 2	po FFF 5 5	qid FFF 6 6	60 day(s) FFF 8 9	 FFF 	narrative
+298-04	26	0	Isordil (ISOSORBIDE Dinitrate) 20MG, 1 Tablet(s) PO TID : Take as directed	Isordil (ISOSORBIDE Dinitrate) FFF 0 2	20mg, FFF 3 3	po FFF 6 6	tid FFF 7 7	 FFF 	 FFF 	narrative
+298-04	27	0	Coumadin (WARFARIN Sodium) 3MG, 1 Tablet(s) PO QPM : Take as directed per anticoag	Coumadin (WARFARIN Sodium) FFF 0 2	3mg, FFF 3 3	po FFF 6 6	qpm FFF 7 7	 FFF 	 FFF 	narrative
+298-04	27	0	Coumadin (WARFARIN Sodium) 3MG, 1 Tablet(s) PO QPM : Take as directed per anticoag	anticoag FFF 13 13	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+298-04	28	0	COLCHICINE 0.6MG, 1 Tablet(s) PO QOD : Take as directed	colchicine FFF 0 0	0.6mg, FFF 1 1	po FFF 4 4	qod FFF 5 5	 FFF 	 FFF 	narrative
+298-04	29	0	Metoprolol Tartrate 50MG, 1 Tablet(s) PO BID : Take as directed	metoprolol tartrate FFF 0 1	50mg, FFF 2 2	po FFF 5 5	bid FFF 6 6	 FFF 	 FFF 	narrative
+298-04	30	0	ALLOPURINOL 100MG, 1 Tablet(s) PO QD : Take as directed	allopurinol FFF 0 0	100mg, FFF 1 1	po FFF 4 4	qd FFF 5 5	 FFF 	 FFF 	narrative
+298-04	31	0	DIGOXIN 0.125MG, 1 Tablet(s) PO QOD : Take as directed	digoxin FFF 0 0	0.125mg, FFF 1 1	po FFF 4 4	qod FFF 5 5	 FFF 	 FFF 	narrative
+298-04	33	0	Penicillins - Unknown	penicillins FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+298-04	41	0	cor;RRRs1s2	cor;rrrs1s2 FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+298-04	45	0	gerd:  no dysphagia but i notice he has lost six lbs since last visit.  will send him for ugi series to investigate further.   continue with prilosec left shoulder tendinitis:  continue with celebrex.  he is followed by rheumatology.	prilosec FFF 25 25	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+298-04	45	0	gerd:  no dysphagia but i notice he has lost six lbs since last visit.  will send him for ugi series to investigate further.   continue with prilosec left shoulder tendinitis:  continue with celebrex.  he is followed by rheumatology.	celebrex. FFF 31 31	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+298-04	46	0	b12 deficiency:  lvl 222.  b12 1000mcg im to left deltoid.  follow up in six weeks.	b12 FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+298-04	46	0	b12 deficiency:  lvl 222.  b12 1000mcg im to left deltoid.  follow up in six weeks.	222. FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+298-04	46	0	b12 deficiency:  lvl 222.  b12 1000mcg im to left deltoid.  follow up in six weeks.	b12 FFF 4 4	1000mcg FFF 5 5	im FFF 6 6	 FFF 	six weeks. FFF 13 14	 FFF 	narrative
+298-04	47	0	hypertriglyceridemia:   chol 210 but trig of 497 and hdl 32: begin lopid  600 mg po bid.	lopid FFF 11 11	600 mg FFF 12 13	po FFF 14 14	bid. FFF 15 15	 FFF 	 FFF 	narrative
+298-04	51	0	Influenza Vaccine 10/06/2082	influenza vaccine FFF 0 1	10/06/2082 FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+298-04	55	0	Pneumovax 11/07/75	pneumovax FFF 0 0	11/07/75 FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative

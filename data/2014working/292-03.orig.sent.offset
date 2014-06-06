@@ -1,0 +1,12 @@
+292-03	14	0	He had a relatively unremarkable course post-catheterization; plavix initiation was delayed until his chest tube was removed, after which it was started without incident.	plavix FFF 7 7	 FFF 	tube FFF 14 14	 FFF 	until his chest tube was removed, FFF 11 16	 FFF 	narrative
+292-03	17	0	At that time the decision was made to increase his plavix from 75 to 150 as an attempt to maximize his medical management, given his history and disease burden.	plavix FFF 10 10	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+292-03	25	0	He has had no GI symptoms on the aggressive antiplatelet regimen, despite not being on a PPI.	ppi. FFF 16 16	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+292-03	26	0	Regarding his squamous cell lung cancer, it is my understanding that he had no evidence of metastatic disease and that margins were negative; he is not currently planned for any adjuvant therapy, but will be closely followed.	adjuvant FFF 30 30	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+292-03	34	0	hyperlipidemia (low HDL and high LDL - tried niaspan in the past without much benefit)   hypothyroid   basal cell skin CA   nephrolithiasis	niaspan FFF 8 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+292-03	36	438	Lipitor 80 mg	lipitor FFF 0 0	80 mg FFF 1 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+292-03	37	438	Plavix 150 mg	plavix FFF 0 0	150 mg FFF 1 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+292-03	38	438	ASA 325 mg po QD	asa FFF 0 0	325 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+292-03	39	438	Toprol 200 mg po BID	toprol FFF 0 0	200 mg FFF 1 2	po FFF 3 3	bid FFF 4 4	 FFF 	 FFF 	narrative
+292-03	40	438	Levoxyl	levoxyl FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+292-03	41	438	Omega-3-fatty acids	omega-3-fatty acids FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+292-03	42	438	Multivitamin	multivitamin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

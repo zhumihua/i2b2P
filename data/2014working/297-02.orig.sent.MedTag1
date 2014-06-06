@@ -1,0 +1,56 @@
+297-02||1||Record date: 2093-03-07
+297-02||2||MARTHA JEFFERSON HOSPITAL
+297-02||3||Stephen A.N. Xayachack, M.D.
+297-02||4||593 Will St                           Vicente, Kadeem||INDICATION FFF st FFF 2 2||
+297-02||5||Sandpoint, MI 58543                             CK759182||INDICATION FFF mi FFF 1 1||
+297-02||6||(033) 250-1408                                3-6-93
+297-02||10||HPI:  Kadeem Vicente comes in today for follow up office visit.
+297-02||11||The patient  is seen primarily for follow up regarding his history of hypertension,  coronary artery disease (the patient is status post inferior wall MI),  benign prostatic hypertrophy and to a much lesser extent osteoarthritis.||INDICATION FFF hypertension, FFF 12 12||INDICATION FFF coronary artery disease FFF 13 15||INDICATION FFF mi), FFF 23 23||INDICATION FFF benign prostatic hypertrophy FFF 24 26||INDICATION FFF osteoarthritis. FFF 33 33||
+297-02||12||The patient is also followed GERD-like symptoms.||INDICATION FFF gerd-like symptoms. FFF 5 6||
+297-02||13||With regard to the  latter, the patient notes that since he has been off the Zantac, he  initially saw no change in his ability to handle foods; however, he now  notes that he is starting to get some reflux and feels slightly  uncomfortable with this.||DBN FFF zantac, FFF 15 15||INDICATION FFF change FFF 20 20||
+297-02||14||He denies chest pain per se and any symptoms  pertinent to cardiovascular disease, such as chest heaviness, shortness  of breath, diaphoresis, nausea.||INDICATION FFF chest pain FFF 2 3||INDICATION FFF symptoms FFF 8 8||INDICATION FFF cardiovascular disease, FFF 11 12||INDICATION FFF as FFF 14 14||INDICATION FFF chest heaviness, FFF 15 16||INDICATION FFF shortness of breath, FFF 17 19||INDICATION FFF nausea. FFF 21 21||
+297-02||15||The patient knows the foods that give  him this type of reaction, such as tomato based sauces and tries to  avoid them as much as possible.||INDICATION FFF as FFF 13 13||INDICATION FFF as FFF 22 22||INDICATION FFF as FFF 24 24||
+297-02||16||The patient is asking me about Prilosec  which he recently read in the Journal and was wandering whether this  would be a suitable alternative to H2 blockers (Patient had been on H2  blockers for many years without a trial off of them, which a reason that  we stopped his H2 blocker therapy recently).||INDICATION FFF me FFF 4 4||DBN FFF prilosec FFF 6 6||DIN FFF h2 blockers FFF 25 26||DIN FFF h2 blockers FFF 31 32||
+297-02||18||With regard to the patient's symptoms of benign prostatic hypertrophy,  the patient says that these have almost completely resolved on the 4 mg  of Hytrin and which he will continue taking.||INDICATION FFF symptoms FFF 5 5||INDICATION FFF benign prostatic hypertrophy, FFF 7 9||DOSE FFF 4 mg FFF 21 22||DBN FFF hytrin FFF 24 24||
+297-02||19||The patient does remain on
+297-02||20||Zestril for his hypertension as well as the Hytrin and the blood||DBN FFF zestril FFF 0 0||INDICATION FFF his hypertension FFF 2 3||INDICATION FFF as FFF 4 4||INDICATION FFF as FFF 6 6||DBN FFF hytrin FFF 8 8||
+297-02||21||pressure gotten by the nurse today was 150/80 and repeated by me 20  minutes later was 130/74.||INDICATION FFF pressure FFF 0 0||INDICATION FFF me FFF 11 11||
+297-02||23||The patient reports being otherwise well, no new symptoms.||INDICATION FFF symptoms. FFF 8 8||
+297-02||24||No positive  review of systems.
+297-02||26||PHYSICAL EXAM:  Was not performed.
+297-02||27||Vitals:  Blood pressure taken by me  was 130/74 in the right, 130/74 in the left, temperature was 98.8,  respirations 20, unlabored and pulse was 80.||INDICATION FFF blood pressure FFF 1 2||INDICATION FFF me FFF 5 5||INDICATION FFF temperature FFF 15 15||
+297-02||29||ASSESSMENT AND PLAN:  75 year old man with multiple medical concerns  comes in for follow up.||DRT FFF 75 year FFF 3 4||
+297-02||30||1.   Hypertension.||INDICATION FFF hypertension. FFF 1 1||
+297-02||31||The patient will stay on his Zestril, once a day as       well as his Hytrin, which he uses also for BPH.||DBN FFF zestril, FFF 6 6||FREQ FFF once a day FFF 7 9||INDICATION FFF as FFF 10 10||INDICATION FFF as FFF 12 12||DBN FFF hytrin, FFF 14 14||INDICATION FFF bph. FFF 20 20||
+297-02||32||His blood pressure       appears to be well controlled on this regimen.||INDICATION FFF blood pressure FFF 1 2||
+297-02||33||One of the issues       would be whether or not the patient should be on a beta-blocker.||DIN FFF beta-blocker. FFF 15 15||
+297-02||34||The patient verbally has a history of "a silent heart attack"  and       there is evidence of an inferior wall MI and this is certainly an       option we will consider in the future, although I would not add a       third anti-hypertensive regimen and would most likely replace his||INDICATION FFF heart attack" FFF 9 10||INDICATION FFF mi FFF 19 19||INDICATION FFF add FFF 36 36||
+297-02||35||Zestril with a beta-blocker.||DBN FFF zestril FFF 0 0||DIN FFF beta-blocker. FFF 3 3||
+297-02||36||2.   GERD.||INDICATION FFF gerd. FFF 1 1||
+297-02||37||The patient will be given a prescription for Prilosec 20 mg       to be taken at bedtime.||DBN FFF prilosec FFF 8 8||DOSE FFF 20 mg FFF 9 10||TOD FFF at bedtime. FFF 14 15||
+297-02||38||The patient was told that this would not
+297-02||39||MARTHA JEFFERSON HOSPITAL
+297-02||40||Stephen A.N. Xayachack, M.D.
+297-02||41||004 Will St                           Vicente, Kadeem||INDICATION FFF st FFF 2 2||
+297-02||42||Sandpoint, MI 58543                             CK759182||INDICATION FFF mi FFF 1 1||
+297-02||43||(033) 250-1408                                3-6-93
+297-02||44||Page 2
+297-02||47||be long term therapy but that we can do this for the next 2-3       months, although he should be able to experience relief almost       immediately.||DRT FFF 2-3 months, FFF 13 14||
+297-02||48||The patient does have a known hiatal hernia, which       may also contribute to his symptoms of chronic reflux.||INDICATION FFF hiatal hernia, FFF 6 7||INDICATION FFF symptoms FFF 14 14||
+297-02||49||3.   BPH - The patient will stay on his 4 mg of Hytrin, which appears to       be working quite well.||INDICATION FFF bph FFF 1 1||DOSE FFF 4 mg FFF 9 10||DBN FFF hytrin, FFF 12 12||
+297-02||50||The patient notes that there is less       dribbling, less nocturnal urination.
+297-02||51||The patient does take Lasix       20 mg once a day for congestive heart failure and did not have any       difficulty with urination after he takes the diuretic.||DBN FFF lasix FFF 4 4||DOSE FFF 20 mg FFF 5 6||FREQ FFF once a day FFF 7 9||INDICATION FFF congestive heart failure FFF 11 13||DIN FFF diuretic. FFF 26 26||
+297-02||52||4.   Insomnia.||INDICATION FFF insomnia. FFF 1 1||
+297-02||53||The patient will stay on his Ambien 10 mg which he takes       on a q.h.s. basis.||DBN FFF ambien FFF 6 6||DOSE FFF 10 mg FFF 7 8||FREQ FFF q.h.s. FFF 14 14||
+297-02||54||The patient was formerly on Amitriptyline but       was told that the secondary side effects which can include EKG       changes and at this point tells me that the Ambien works and he       would like to stay on this.||DIN FFF amitriptyline FFF 5 5||INDICATION FFF me FFF 24 24||DBN FFF ambien FFF 27 27||
+297-02||55||Patient has enough to last until I see       him next time.||DRT FFF until FFF 5 5||
+297-02||57||I will thus see the patient in 3 months for a fasting lipid (The||DRT FFF 3 months FFF 7 8||
+297-02||58||patient's lipid profile thus far has been acceptable.
+297-02||59||The cholesterol  is 190 and an acceptable triglyceride; however, I do want to assess the  patient's LDL and HDL before making any decisions with regard to  treatment.||INDICATION FFF cholesterol FFF 1 1||INDICATION FFF ldl FFF 16 16||
+297-02||63||______________________________
+297-02||64||Stephen A.N. Xayachack, M.D.
+297-02||66||JG:WQ:6672
+297-02||67||DD:3-7-93
+297-02||68||DT:3-7-93
+297-02||69||DV:3-6-93
+297-02||70||******** Not reviewed by Attending Physician ********

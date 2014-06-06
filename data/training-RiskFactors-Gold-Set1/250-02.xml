@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2079-11-15
+
+
+
+
+
+
+
+
+
+November 15, 2079
+
+
+
+Xan Dillon, M.D.
+75 East Dunstable Road
+Nouakchott, GA 95269
+
+RE:  Urania Yerger
+     MR #583-48-90-0
+
+Dear Dr. Dillon:
+
+I had the pleasure of seeing Urania Yerger today in Titonka Care Center in
+follow-up of her coronary artery disease (CABG 10/78) and heart failure.  At her last visit her
+heart failure had improved, but she still was hypertensive.  We increased both her Losartan and
+her Toprol dosing.  Today her blood pressure is substantially improved.  She has generally been
+feeling well.  She has continued to walk outside the home with her daughters, going shopping. 
+She denies orthopnea or PND.  She has had stable ankle edema.  
+
+Her current medications are aspirin 325 mg PO q. day, Lasix 40 mg PO q. day, Glipizide 10 mg
+PO q. day, Losartan 100 mg PO q. day, Toprol XL 100 mg PO q. day, Simvastatin 10 mg PO q.
+day, Avandia, and multivitamins.
+
+On physical examination, her blood pressure today is 130/60.  Her heart rate is in the high 60s. 
+She is comfortable seated on the examination table.  Her jugular venous pressure is less than 8. 
+Her chest examination has a few coarse crackles at the bases.  Cardiac examination reveals a
+non-displaced PMI with normal intensity S1 and S2.  She has a grade II/VI holosystolic murmur
+at the apex and a grade II crescendo/decrescendo systolic murmur at the right upper sternal
+border.  She has 1 - 2+ edema of both lower extremities and they are warm to touch.
+
+Her ECG reveals sinus rhythm at 68 beats per minute, normal axis and intervals.  There are
+nonspecific ST abnormalities.
+
+Overall, Ms. Yerger has improved significantly with better control of her blood pressure.  She
+has signs of very mild volume overload on examination, with preserved perfusion.  We elected
+to maintain her present dosing, but discussed increasing her dose to 40 mg PO q. a.m. and 20 mg
+PO q. p.m. should her lower extremity edema increase or her weight rise.  
+
+
+Urania Yerger
+MR #583-48-90-0
+Page 2
+November 15, 2079
+
+I look forward to seeing her again in approximately six months.  It was a pleasure being involved
+in her care.  Please do not hesitate to contact me with any questions.
+
+Sincerely yours,
+
+
+
+Vaughn A. Xander, M.D.
+/uhl                                 
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC6" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC7" time="before DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC12" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC13" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC18" time="during DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC20" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC21" time="after DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC22" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC23" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC25" time="during DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC26" time="before DCT" type1="ARB" type2=""/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC4" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC14" time="after DCT" indicator="mention"/>
+    <CAD id="DOC10" time="after DCT" indicator="mention"/>
+    <CAD id="DOC16" time="during DCT" indicator="mention"/>
+    <CAD id="DOC19" time="before DCT" indicator="event"/>
+    <CAD id="DOC24" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC15" indicator="not present"/>
+    <SMOKER id="DOC9" status="unknown"/>
+  </TAGS>
+</root>

@@ -1,0 +1,49 @@
+<!ENTITY name "CardiacRiskTask">
+
+<!ELEMENT DIABETES ( #PCDATA ) >
+<!ATTLIST DIABETES start #IMPLIED >
+<!ATTLIST DIABETES indicator ( mention | A1C | glucose ) >
+<!ATTLIST DIABETES time ( before DCT | during DCT | after DCT | continuing ) >
+<!ATTLIST DIABETES comment CDATA >
+
+<!ELEMENT CAD ( #PCDATA )  >
+<!ATTLIST CAD start #IMPLIED >	
+<!ATTLIST CAD indicator ( mention | event | test | symptom ) >
+<!ATTLIST CAD time ( before DCT | during DCT | after DCT | continuing ) >
+<!ATTLIST CAD comment CDATA >
+
+<!ELEMENT HYPERTENSION ( #PCDATA ) >
+<!ATTLIST HYPERTENSION start #IMPLIED >	
+<!ATTLIST HYPERTENSION indicator ( mention | high bp ) >
+<!ATTLIST HYPERTENSION time ( before DCT | during DCT | after DCT | continuing ) >
+<!ATTLIST HYPERTENSION comment CDATA >
+
+<!ELEMENT HYPERLIPIDEMIA ( #PCDATA ) >
+<!ATTLIST HYPERLIPIDEMIA start #IMPLIED >	
+<!ATTLIST HYPERLIPIDEMIA indicator ( mention|  high chol. | high LDL ) >
+<!ATTLIST HYPERLIPIDEMIA time ( before DCT | during DCT | after DCT | continuing ) >
+<!ATTLIST HYPERLIPIDEMIA comment CDATA >
+
+<!ELEMENT SMOKER ( #PCDATA ) >
+<!ATTLIST SMOKER start #IMPLIED >
+<!ATTLIST SMOKER status ( current | past | ever | never | unknown ) >
+<!ATTLIST SMOKER comment CDATA >
+
+<!ELEMENT OBESE ( #PCDATA ) >
+<!ATTLIST OBESE start #IMPLIED >	
+<!ATTLIST OBESE indicator ( mention | BMI | waist circum. ) >
+<!ATTLIST OBESE time ( before DCT | during DCT | after DCT | continuing ) >
+<!ATTLIST OBESE comment CDATA >
+
+<!ELEMENT FAMILY_HIST ( #PCDATA ) >
+<!ATTLIST FAMILY_HIST start #IMPLIED >
+<!ATTLIST FAMILY_HIST indicator ( present | not present ) >
+<!ATTLIST FAMILY_HIST comment CDATA >
+
+<!ELEMENT MEDICATION (#PCDATA) >
+<!ATTLIST MEDICATION start #IMPLIED >
+<!ATTLIST MEDICATION type1 ( ACE inhibitor | amylin | anti diabetes | ARB | aspirin | beta blocker | calcium channel blocker | diuretic | DPP4 inhibitors | ezetimibe | fibrate | GLP1 agonists | insulin | Meglitinides | metformin | niacin | nitrate | obesity | statin | sulfonylureas | thiazolidinedione | thienopyridine  ) >
+<!ATTLIST MEDICATION type2 ( ACE inhibitor | amylin | anti diabetes | ARB | aspirin | beta blocker | calcium channel blocker | diuretic | DPP4 inhibitors | ezetimibe | fibrate | GLP1 agonists | insulin | Meglitinides | metformin | niacin | nitrate | obesity | statin | sulfonylureas | thiazolidinedione | thienopyridine  ) >
+<!ATTLIST MEDICATION time ( before DCT | during DCT | after DCT | continuing ) >
+<!ATTLIST MEDICATION comment CDATA >
+

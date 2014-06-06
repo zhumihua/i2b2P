@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2077-10-11
+
+                     PINELLAS EMERGENCY DEPT VISIT
+
+ 
+
+ICKES,WILLIAM JR   810-71-62-8
+
+PRESENTING COMPLAINT: This is a 70-year-old man who presented by 
+
+ambulance with epigastric pain. 
+
+HISTORY OF PRESENTING COMPLAINT: This is a 70-year-old man who 
+
+presented with some chest pain and chest pressure after breakfast 
+
+this morning.  He took a walk at about 11:30.  The pain got 
+
+intense, he went back home, called and ambulance and presented 
+
+here.  The patient presents here now and, after being put in the 
+
+room emergently, became pale and diaphoretic and clammy with mild 
+
+hypertension and an EKG showing an acute MI.  There is ST elevation 
+
+in inferior leads and lateral leads and ST depression in anterior 
+
+leads.  The patient was immediately given aspirin, beta blocker and 
+
+heparinized as well as a nitro drip.  The second EKG showed some 
+
+resolving of his ST elevation and ST depression.  His pain has 
+
+subsided now to about a 1/10.  Blood pressure 102/56, pulse rate of 
+
+58.  Chest x-ray, portable, was done and is also pending. 
+
+Cardiology is aware.  The cath lab team has been called and has 
+
+been mobilized immediately.  Medications that he has gotten so far 
+
+are aspirin, morphine sulfate, nitro paste, sublingual 
+
+nitroglycerine.  He is currently on an IV nitroglycerine drip. 
+
+Three IV lines have been placed.  Portable chest x-ray done.  Cards 
+
+fellow is here and the cath team is aware. 
+
+PAST MEDICAL HISTORY: Only significant for hypertension. 
+
+MEDICATIONS: Atenolol for his blood pressure medicine and recently 
+
+put on quinine sulfate for pain in his legs. 
+
+REVIEW OF SYSTEMS: Otherwise negative.  Never had any angina, never 
+
+had an acute MI and never had any pain like this before.  He denies 
+
+any interscapular pain and denies any other problems or 
+
+complications at this point. 
+
+PHYSICAL EXAMINATION: Lungs are clear.  Cardiac exam: No murmurs 
+
+heard, no rubs or gallops.  No JVD, no bruits heard.  Abdomen is 
+
+soft and nontender.  Rectal exam: Guaiac-negative with normal tone. 
+
+THERAPY RENDERED/COURSE IN ED: Currently in stable condition. 
+
+Blood pressure normal.  Oxygen saturation 95% and a pulse rate of 
+
+58.  He received 2.5 of Lopressor and is almost pain free at this 
+
+point and doing well.  Seen by the cards fellow.  Cath lab team 
+
+mobilized.  The patient is going to the cath lab. 
+
+FINAL DIAGNOSIS: Acute MI. 
+
+DISPOSITION (including condition upon discharge): Family member has 
+
+been called and message was left for his wife on her machine.  She 
+
+is probably on the way to the hospital and we will inform her. 
+
+Condition stable. 
+
+DIAGNOSIS: Acute MI in a 70-year-old male, going to the cath lab. 
+
+___________________________________                    EC508/03905 
+
+PAUL VALENTINE, M.D.   PV46                               D:10/11/77 
+
+                                                       T:10/11/77 
+
+Dictated by:  PAUL VALENTINE, M.D.   PV46 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC4" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC8" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC11" time="during DCT" type1="nitrate" type2=""/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC5" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention"/>
+    <CAD id="DOC1" time="during DCT" indicator="test"/>
+    <CAD id="DOC2" time="during DCT" indicator="event"/>
+    <FAMILY_HIST id="DOC10" indicator="not present"/>
+    <SMOKER id="DOC7" status="unknown"/>
+  </TAGS>
+</root>

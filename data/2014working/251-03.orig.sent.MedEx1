@@ -1,0 +1,212 @@
+251-03||1||Record date: 2084-03-17
+251-03||3||Mediquik Team 3 Medical Student Admission Note
+251-03||4||Pt:  Vollmer, Ulyses
+251-03||5||MR#:  8740465
+251-03||6||Date of Admission: 03/17/84
+251-03||7||Attending Oncologist: Dr.
+251-03||8||Xavier Otero
+251-03||9||PCP:  Dr. Geno Guidry
+251-03||10||Code Status: Full Code
+251-03||11||ID/CC:  73-year-old man with stage IV-B metastatic esophageal adenocarcinoma presents complaining of three days of constant dizziness.
+251-03||12||Source:  Patient, who is a good historian.
+251-03||13||Past medical records.
+251-03||14||History of Present Illness
+251-03||15||Mr. Vollmer is a pleasant 73-year-old man with a past medical history significant for metastatic esophageal adenocarcinoma s/p XRT and chemotherapy, CAD s/p LAD stent placement, and borderline DM who presents to the Health Care Center complaining of 48-hour history of dizziness and subjective fevers.
+251-03||16||He was in his usual state of health until three days prior to admission, when he awoke in the morning with a severe headache.
+251-03||17||As he got out of bed, he felt extremely lightheaded.
+251-03||18||He describes the dizziness as internal, and    not like the room was spinning.
+251-03||19||He laid down, with some resolution of the symptoms.
+251-03||20||Of note, he reports that the dizziness is less severe when he lies down and comes on with standing or sitting up.
+251-03||21||Throughout the day, he developed a cough productive of green sputum, a subjective fever, continued headache, and nausea without vomiting.
+251-03||22||He denied any chills, shortness of breath, chest pain, palpitations, or pain upon deep breathing.
+251-03||23||That evening, two nights prior to admission, he developed night sweats but had no rigors.
+251-03||24||He continued to feel similarly throughout the day prior to admission, and presented to the emergency room for further evaluation.
+251-03||25||The current presentation is in the context of increasingly poor PO intake secondary to chemotherapy and treatment for esophageal cancer.
+251-03||26||He reports a four-to-five month history of poor appetite, eating chicken soup.
+251-03||27||He denies any trouble swallowing solids or liquids.
+251-03||28||Of note, the day prior to the onset of symptoms, he was NPO for a restaging CT scan.
+251-03||29||He reports eating two scrambled eggs after the scan, and a chicken potpie for dinner the night prior to symptoms starting.
+251-03||30||In the emergency room, vitals were temperature of 95.6, pulse 52, blood pressure 132/68, RR=20, 95% on room air.
+251-03||31||He received Zofran 4 mg IV once, levofloxacin 500 mg PO once, and a NS 500 cc bolus.||DBN FFF zofran FFF 2 2||DOSE FFF 4 mg FFF 3 4||RUT FFF iv FFF 5 5||
+251-03||31||He received Zofran 4 mg IV once, levofloxacin 500 mg PO once, and a NS 500 cc bolus.||DIN FFF levofloxacin FFF 7 7||DOSE FFF 500 mg FFF 8 9||RUT FFF po FFF 10 10||INDICATION FFF ns FFF 14 14||TOD FFF cc FFF 16 16||
+251-03||31||He received Zofran 4 mg IV once, levofloxacin 500 mg PO once, and a NS 500 cc bolus.||DIN FFF bolus. FFF 17 17||
+251-03||32||CXR showed bibasilar infiltrate and bilateral pleural effusions.
+251-03||33||Oncology History (per attending notes)
+251-03||34||Patient is a 72 year old man who began having dysphagia 6/83.
+251-03||35||On 8/01/83 he was scheduled for a Colonoscopy, so his PCP suggested he have an UGI Endoscopy at the same time.
+251-03||36||The Colonoscopy demonstrated Diverticulosis and the UGI Endoscopy demonstrated a partially obstructing esophageal/gastric cardia tumor which was biopsied.
+251-03||37||Pathology revealed moderately to poorly differentiated adenocarcinoma.
+251-03||38||On 8/10/83 an Abd and Pelvic CT were done showing:  marked thickening of the wall of the distal esophagus (35-40cm by endoscopy - partial obstruction and circumferential) extending into the gastric cardia, consistent with biopsy proven adenocarcinoma.||DIN FFF proven FFF 35 35||INDICATION FFF adenocarcinoma. FFF 36 36||
+251-03||39||Also felt to be bleeding silently so placed on Fe replacement.||INDICATION FFF bleeding FFF 4 4||DIN FFF fe FFF 9 9||
+251-03||40||Also, enlarged gastroepiploic, celiac and aortocaval lymph nodes consistent with metastatic disease.
+251-03||41||On 8/10/83 a Chest CT revealed thickening of the lower esophagus extending into the chest esophageal junction.
+251-03||42||This is associated with lymphadenopathy in the (L) axilla, gastrohepatic ligament, celiac axis and retrocrural space.
+251-03||43||The appearance is highly suspicious for esophageal cancer and nodal spread.
+251-03||44||There is a 3mm nodule adjacent to the (R) major fissure in the lung.
+251-03||45||PET scan confirmed axillary and abdominal involvement with cancer.
+251-03||46||The lung nodule was too small for PET to evaluate. 3/14/84 Restaging work-up revealed progressive disease (see imaging below).
+251-03||47||His last Taxotere treatment was February 17; further treatment was stopped secondary to a chemotherapy burn on the right arm.||DBN FFF taxotere FFF 2 2||INDICATION FFF burn FFF 15 15||
+251-03||48||Past Medical History:
+251-03||49||1. Metastatic esophageal adenocarcinoma:  Stage IV-B s/p Taxotere therapy.||DBN FFF taxotere FFF 7 7||
+251-03||50||2. Diabetes mellitus:  Not taking any medications for sugar control.
+251-03||51||Last HgBA1c (06/19/83) was 5.30. 3. HTN:  On multiple medications for blood pressure control.  No evidence of end-stage renal damage.||DPN FFF multiple medications FFF 8 9||INDICATION FFF blood pressure control. FFF 11 13||
+251-03||52||4. Hypercholesterolemia:  Being treated with Lipitor 10 mg daily.||INDICATION FFF hypercholesterolemia: FFF 1 1||DBN FFF lipitor FFF 5 5||DOSE FFF 10 mg FFF 6 7||FREQ FFF daily. FFF 8 8||
+251-03||53||Last total cholesterol (06/18/83) was 139; HDL=38, LDL=72. 5. CAD s/p LAD stent placement 04/12/83
+251-03||54||6. Renal vein thrombosis, on coumadin.||INDICATION FFF vein thrombosis, FFF 2 3||DBN FFF coumadin. FFF 5 5||
+251-03||55||7. s/p Zenker diverticulum repair in 2080
+251-03||56||8. Chronic renal insufficiency:  Baseline creatinine of 1.2-1.5.
+251-03||57||Medications:
+251-03||58||Atenolol 25 mg QD||DIN FFF atenolol FFF 0 0||DOSE FFF 25 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+251-03||59||Triamterene/HCTZ 50/25 QD Three times a week
+251-03||60||Vitamin B Complex 100 u QD||DIN FFF vitamin b complex FFF 0 2||DOSE FFF 100 u FFF 3 4||FREQ FFF qd FFF 5 5||
+251-03||61||Folic Acid 1 mg QD||DIN FFF folic acid FFF 0 1||DOSE FFF 1 mg FFF 2 3||FREQ FFF qd FFF 4 4||
+251-03||62||Iron Sulfate 1 tab BID||DIN FFF iron sulfate FFF 0 1||DOSEAMT FFF 1 tab FFF 2 3||FREQ FFF bid FFF 4 4||
+251-03||63||Lipitor 10 mg QHS||DBN FFF lipitor FFF 0 0||DOSE FFF 10 mg FFF 1 2||FREQ FFF qhs FFF 3 3||
+251-03||64||Terazosin 5 mg QD||DIN FFF terazosin FFF 0 0||DOSE FFF 5 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+251-03||65||Ducolax 2 tabs QD||DPN FFF ducolax FFF 0 0||DOSEAMT FFF 2 tabs FFF 1 2||FREQ FFF qd FFF 3 3||
+251-03||66||Warfarin 5 mg QD||DIN FFF warfarin FFF 0 0||DOSE FFF 5 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+251-03||67||Zantac 75 mg QD PRN heartburn.||DBN FFF zantac 75 FFF 0 1||FREQ FFF qd FFF 3 3||NEC FFF prn FFF 4 4||INDICATION FFF heartburn. FFF 5 5||
+251-03||68||Allergies:
+251-03||69||Codeine.||DIN FFF codeine. FFF 0 0||
+251-03||70||Reaction-dizziness
+251-03||71||Family History:
+251-03||72||Mother and maternal grandmother died from heart disease.
+251-03||73||Father died from renal failure.
+251-03||74||No family history of cancer.
+251-03||75||Social History:
+251-03||76||Smoking:  Denies history of smoking.
+251-03||77||Alcohol use:  Drinks rarely, approximately six beers each year.
+251-03||78||Substance Abuse: Not assessed.
+251-03||79||Occupation:  Retired.
+251-03||80||Former aerospace engineer of forty years.
+251-03||81||Marital Status: Never married
+251-03||82||Living Situation:  Lives alone at home.
+251-03||83||Independent ADLs.
+251-03||84||ROS:
+251-03||85||General:   Reports anorexia, 20-pound weight loss over the last year.
+251-03||86||Head:  As per HPI.
+251-03||87||Reports dizziness, headache, h/o head injury, and lightheadedness.
+251-03||88||Eyes: Denies vision changes.
+251-03||89||Ears: Denies hearing loss, tinnitus, vertigo, or earaches/discharge.
+251-03||90||Nose and Sinuses: Reports nosebleeds secondary to Coumadin.||DBN FFF coumadin. FFF 7 7||
+251-03||91||Denies frequent colds, stuffiness, itching, hayfever, or other sinus troubles.
+251-03||92||Mouth and Throat: Denies dry mouth.
+251-03||93||Neck:   Denies lumps, pain, swollen glands, or stiffness in the neck.
+251-03||94||Respiratory:  Denies SOB, , wheezing, and asthma.
+251-03||95||Cardiovascular: Denies palpitations, tachycardia.
+251-03||96||GI:  Mild heartburn.
+251-03||97||Denies dysphagia, hematemasis, BRBPR, diarrhea, constipation.
+251-03||98||Urinary Tract: Denies pain/burning upon urination, discharge.
+251-03||99||Peripheral Vascular: Denies claudication, varicose veins, cold limbs.
+251-03||100||Endocrine:  Reports some cold intolerance.
+251-03||101||Denies excessive sweating, thirst, and hunger.
+251-03||102||Neurological:  One episode of syncope one year ago because of hypotension secondary to too many blood pressure medications.
+251-03||103||Denies generalized weakness, numbness/sensation loss, or memory loss.
+251-03||104||Psychiatric: Denies depression, suicidal ideation.
+251-03||105||Exam:   Pt is a pleasant, well-appearing man who is in no acute distress.
+251-03||106||Patient is cooperative to interview.
+251-03||107||VS:   Temperature=97.5; BP=140/70; HR=74; RR=18.
+251-03||108||HEENT:  NC/AT, PERRL, nonicteric.
+251-03||109||EOMI. No temporal tenderness.
+251-03||110||MMM, w/o exudates or evidence of mucocitis or thrush.
+251-03||111||Neck:   Supple, NT, full ROM, 2+ carotids w/o bruits, no LAD.
+251-03||112||JVP <5cm
+251-03||113||Lungs:   Decreased bibasilar breath sounds, R>L. Fine crackles at the right base.
+251-03||114||Without wheezes.
+251-03||115||Cor:   RRR; normal S1S2, 3/6 systolic ejection murmur heard best at the right sternal base, radiating to the axilla, consistent with AS.||DIN FFF cor: FFF 0 0||INDICATION FFF as. FFF 21 21||
+251-03||116||Abd:   BS active.  Abdomen mildly distended.
+251-03||117||Tympanic to percussion over all quadrants.
+251-03||118||Soft, nontender to palpation in all areas.
+251-03||119||Liver spanned 10 cm at the midclavicular line.
+251-03||120||NO hepatosplenomegaly, liver edge not felt.
+251-03||121||G/R:  Brown stool.
+251-03||122||Non-tender prostate.
+251-03||123||Extr:   1+ edema bilateral lower extremities.   2+ DP, radial pulses bilaterally.
+251-03||124||Skin: Large, sharply demarcated erythematous patch over right wrist.
+251-03||125||Neuro:  AOx3, MS nl, CN II through XII intact, some nystagmus on lateral and vertical gaze, motor and sensory nonfocal-5/5 plantarflexion, dorsiflexion, grip strength, hip flexors and extensors; DTR's 2+ and symmetric throughout in biceps and patellar tendons.
+251-03||126||Babinski down.
+251-03||127||Labs:
+251-03||128||Chemistry:
+251-03||129||03/17/84
+251-03||130||08:51
+251-03||131||NA         139||DIN FFF na FFF 0 0||
+251-03||132||K          3.8
+251-03||133||CL         112(H)
+251-03||134||CO2        24.4
+251-03||135||BUN        14
+251-03||136||CRE        1.3
+251-03||137||GLU        145(H)||DIN FFF glu FFF 0 0||DOSE FFF 145(h) FFF 1 1||
+251-03||138||CA         8.8
+251-03||139||PHOS       2.5(L)
+251-03||140||MG         1.8
+251-03||141||TP         6.4
+251-03||142||ALB        3.3||DIN FFF alb FFF 0 0||
+251-03||143||GLOB       3.1
+251-03||144||ALT/SGPT   19
+251-03||145||AST/SGOT   29
+251-03||146||ALKP       47
+251-03||147||TBILI      0.8
+251-03||148||DBILI      0.3
+251-03||149||Cardiac markers
+251-03||150||03/17/84
+251-03||151||09:51
+251-03||152||CK-MB     Negative
+251-03||153||TROP-I     Negative
+251-03||155||Hematology:
+251-03||156||03/17/84
+251-03||157||08:47
+251-03||158||WBC        4.5
+251-03||159||RBC        5.27
+251-03||160||HGB        11.9(L)
+251-03||161||HCT        38.4(L)
+251-03||162||MCV        73(L)
+251-03||163||MCH        22.6(L)
+251-03||164||MCHC       31.0
+251-03||165||PLT        168
+251-03||166||RDW        17.1(H)
+251-03||167||DIFFR      Received
+251-03||168||METHOD     Auto
+251-03||169||%NEUT      84(H)
+251-03||170||%LYMPH     11(L)
+251-03||171||%MONO      4
+251-03||172||%EOS       1
+251-03||173||%BASO      0
+251-03||174||ANEUT      3.81
+251-03||175||ALYMP      0.51(L)
+251-03||176||AMONS      0.18(L)
+251-03||177||AEOSN      0.02(L)
+251-03||178||ABASOP     0.01
+251-03||179||ANISO      1+
+251-03||180||HYPO       2+
+251-03||181||MACRO      None
+251-03||182||MICRO      3+
+251-03||183||Coagulation:
+251-03||185||03/17/84
+251-03||186||08:47
+251-03||187||PT         22.9(H)
+251-03||188||PTT        29.2
+251-03||189||Miscellaneous Labs:
+251-03||191||03/17/84
+251-03||192||08:47
+251-03||193||ESR        24(H)
+251-03||195||UA:  Pending.
+251-03||197||EKG:  NSR with ventricular rate of 83.
+251-03||198||PR interval=180 ms; QRS interval=92 ms; QT=383 ms.
+251-03||199||Axis normal.
+251-03||200||Good R-wave progression V3-V4.  No evidence of atrial enlargement or ventricular hypertrophy.
+251-03||201||No evidence of bundle branch blocks.
+251-03||202||No  ST segment changes or Q waves.
+251-03||203||Mild T wave flattening in III, aVF.
+251-03||204||IMAGING:
+251-03||205||CXR 03/17/84.
+251-03||206||IMPRESSION:
+251-03||207||Bibasilar pneumonia with bilateral pleural effusions, greater on
+251-03||208||the left.
+251-03||209||In patient of this age group, follow up chest films are  recommended to clearing.
+251-03||210||Chest CT 03/14/84.
+251-03||211||IMPRESSION:
+251-03||212||1.  Increasing mediastinal lymphadenopathy suspicious for
+251-03||213||metastatic disease.
+251-03||214||Stable left axillary lymphadenopathy.  2.  New small pericardial effusion and left pleural effusion.
+251-03||215||There is partial loculation of the left effusion.
+251-03||216||There is  significant increase in size in the right pleural effusion.

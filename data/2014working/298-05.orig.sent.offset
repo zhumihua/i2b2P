@@ -1,0 +1,23 @@
+298-05	14	0	Coronary artery disease : ett exam: 2080The ECG response to pharmacological stress was uninterpretable for ischemia.	ecg FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+298-05	19	0	Calcium Carbonate (500 Mg Elemental Ca ) 500MG, 1 Tablet(s) PO QD : Take as directed	calcium carbonate (500 mg elemental ca ) FFF 0 6	500mg, FFF 7 7	po FFF 10 10	qd FFF 11 11	 FFF 	 FFF 	narrative
+298-05	20	0	Prilosec (OMEPRAZOLE) 20MG, 1 Capsule(s) PO QD	Prilosec (OMEPRAZOLE) FFF 0 1	20mg, FFF 2 2	po FFF 5 5	qd FFF 6 6	 FFF 	 FFF 	narrative
+298-05	21	0	Celebrex (CELECOXIB) 200MG, 1 Capsule(s) PO QD : Take as directed	Celebrex (CELECOXIB) FFF 0 1	200mg, FFF 2 2	po FFF 5 5	qd FFF 6 6	 FFF 	 FFF 	narrative
+298-05	22	0	COLCHICINE 0.6MG, 1 Tablet(s) PO QOD : Take as directed	colchicine FFF 0 0	0.6mg, FFF 1 1	po FFF 4 4	qod FFF 5 5	 FFF 	 FFF 	narrative
+298-05	23	0	Lopid (GEMFIBROZIL) 600MG, 1 Tablet(s) PO BID	Lopid (GEMFIBROZIL) FFF 0 1	600mg, FFF 2 2	po FFF 5 5	bid FFF 6 6	 FFF 	 FFF 	narrative
+298-05	24	0	DIGOXIN 0.125MG, 1 Tablet(s) PO QOD : Take as directed	digoxin FFF 0 0	0.125mg, FFF 1 1	po FFF 4 4	qod FFF 5 5	 FFF 	 FFF 	narrative
+298-05	25	0	PREDNISONE 5MG, 1 Tablet(s) PO QD	prednisone FFF 0 0	5mg, FFF 1 1	po FFF 4 4	qd FFF 5 5	 FFF 	 FFF 	narrative
+298-05	26	0	Coumadin (WARFARIN Sodium) 3MG, 1 Tablet(s) PO QPM : Take as directed per anticoag	Coumadin (WARFARIN Sodium) FFF 0 2	3mg, FFF 3 3	po FFF 6 6	qpm FFF 7 7	 FFF 	 FFF 	narrative
+298-05	26	0	Coumadin (WARFARIN Sodium) 3MG, 1 Tablet(s) PO QPM : Take as directed per anticoag	anticoag FFF 13 13	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+298-05	27	0	Isordil (ISOSORBIDE Dinitrate) 20MG, 1 Tablet(s) PO TID : Take as directed	Isordil (ISOSORBIDE Dinitrate) FFF 0 2	20mg, FFF 3 3	po FFF 6 6	tid FFF 7 7	 FFF 	 FFF 	narrative
+298-05	28	0	Kenalog 0.1% (TRIAMCINOLONE Acetonide 0.1%) 0.1%, 1 application TOP BID	kenalog FFF 0 0	0.1% FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+298-05	29	0	ALLOPURINOL 100MG, 1 Tablet(s) PO QD : Take as directed	allopurinol FFF 0 0	100mg, FFF 1 1	po FFF 4 4	qd FFF 5 5	 FFF 	 FFF 	narrative
+298-05	30	0	Hydralazine Hcl 10MG, 1 Tablet(s) PO QID x 60 day(s) : Take as directed	hydralazine hcl FFF 0 1	10mg, FFF 2 2	po FFF 5 5	qid FFF 6 6	60 day(s) FFF 8 9	 FFF 	narrative
+298-05	31	0	Lasix (FUROSEMIDE) 40MG, 1 Tablet(s) PO QD	Lasix (FUROSEMIDE) FFF 0 1	40mg, FFF 2 2	po FFF 5 5	qd FFF 6 6	 FFF 	 FFF 	narrative
+298-05	32	0	Metoprolol Tartrate 50MG, 1 Tablet(s) PO BID	metoprolol tartrate FFF 0 1	50mg, FFF 2 2	po FFF 5 5	bid FFF 6 6	 FFF 	 FFF 	narrative
+298-05	33	0	GLYBURIDE 1.25MG, 1 Tablet(s) PO QD	glyburide FFF 0 0	1.25mg, FFF 1 1	po FFF 4 4	qd FFF 5 5	 FFF 	 FFF 	narrative
+298-05	34	0	CAD/ HTN no cp, sob or palpitations no doe  or nocturnal sx knows not to shovel snow     overdue  for bp med which he will take when he gets home	snow FFF 16 16	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+298-05	35	0	DM  brings in home record  fbs range: 116,115,107, 117, 98, 99, 136  4PM bs  151, 146, 155, 144, 145, 114, 211(ate candy)  per son  pt still on half tab glucotrol until bottle finished then will change to glyburide pt feels he is eating less now  no hypo sx prostate nodule  no gu sx pvd  denies leg pains   had nodules  L arm excised concerned re lump around navel  occ tender  denies pain  no increase in size	glucotrol FFF 29 29	 FFF 	 FFF 	 FFF 	until bottle finished then FFF 30 33	 FFF 	narrative
+298-05	35	0	DM  brings in home record  fbs range: 116,115,107, 117, 98, 99, 136  4PM bs  151, 146, 155, 144, 145, 114, 211(ate candy)  per son  pt still on half tab glucotrol until bottle finished then will change to glyburide pt feels he is eating less now  no hypo sx prostate nodule  no gu sx pvd  denies leg pains   had nodules  L arm excised concerned re lump around navel  occ tender  denies pain  no increase in size	glyburide FFF 37 37	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+298-05	39	0	chest clear  decreased sounds at base cor rr at 72 no m/g	cor FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+298-05	47	0	dM  at goal  to change to glyburide soon  monitor bs  on new meds	glyburide FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+298-05	49	0	sm abdo hernia  pt ed re prob  monitor	prob FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

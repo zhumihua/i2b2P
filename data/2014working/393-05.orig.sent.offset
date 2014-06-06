@@ -1,0 +1,36 @@
+393-05	8	0	She has been treated with multiple medications, including Reglan, Ativan, Compazine, and Zelnorm without much effect.	multiple medications, FFF 5 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-05	8	0	She has been treated with multiple medications, including Reglan, Ativan, Compazine, and Zelnorm without much effect.	reglan, FFF 8 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-05	8	0	She has been treated with multiple medications, including Reglan, Ativan, Compazine, and Zelnorm without much effect.	ativan, FFF 9 9	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-05	8	0	She has been treated with multiple medications, including Reglan, Ativan, Compazine, and Zelnorm without much effect.	compazine, FFF 10 10	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-05	8	0	She has been treated with multiple medications, including Reglan, Ativan, Compazine, and Zelnorm without much effect.	zelnorm FFF 12 12	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-05	9	0	She is currently taking Neurontin and Cymbalta to treat neuropathic pain, and her PCP started her on MS Contin in December since nothing else seemed to be helping.	neurontin FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-05	9	0	She is currently taking Neurontin and Cymbalta to treat neuropathic pain, and her PCP started her on MS Contin in December since nothing else seemed to be helping.	cymbalta FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-05	9	0	She is currently taking Neurontin and Cymbalta to treat neuropathic pain, and her PCP started her on MS Contin in December since nothing else seemed to be helping.	ms contin FFF 17 18	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-05	10	0	The pt states that the MS Contin helped during the month of December, but then it did not seem to be working as well.	ms contin FFF 5 6	 FFF 	 FFF 	 FFF 	during the month of december, FFF 8 12	 FFF 	narrative
+393-05	15	0	Today, she was doing fine until she had to drink the gastrografin, and then it escalated to an 8/10.	gastrografin, FFF 11 11	 FFF 	 FFF 	 FFF 	until she had FFF 5 7	 FFF 	narrative
+393-05	16	0	She received some IV morphine, and now it is down to 4/10.	morphine, FFF 4 4	 FFF 	iv FFF 3 3	 FFF 	 FFF 	 FFF 	narrative
+393-05	17	0	At Missouri Baptist Hospital, her MS Contin was held, but when her BP went up, she was restarted on it.	ms contin FFF 5 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-05	18	0	They also started clonidine BID for her uncontrolled HTN.	clonidine FFF 3 3	 FFF 	 FFF 	bid FFF 4 4	 FFF 	 FFF 	narrative
+393-05	27	0	S/P TAH/BSO : menopause at age 46	tah/bso FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-05	29	0	Heparin 5000 u SQ BID	heparin FFF 0 0	5000 u FFF 1 2	sq FFF 3 3	bid FFF 4 4	 FFF 	 FFF 	narrative
+393-05	30	0	Reglan 10 mg IV Q 6 hours	reglan FFF 0 0	10 mg FFF 1 2	iv FFF 3 3	q 6 hours FFF 4 6	 FFF 	 FFF 	narrative
+393-05	31	0	Hydrochlorothiazide 25 MG (25MG TABLET take 1) PO QAM , for high blood pressure	hydrochlorothiazide FFF 0 0	25 mg FFF 1 2	po FFF 7 7	qam FFF 8 8	 FFF 	 FFF 	narrative
+393-05	32	0	Insulin 70/30 HUMAN 70-30 U/ML VIAL SC as directed , 25u SQ before breakfast and 15u before dinner.	insulin 70/30 human FFF 0 2	70-30 u/ml FFF 3 4	sc FFF 6 6	before dinner. FFF 16 17	 FFF 	 FFF 	narrative
+393-05	33	0	Nexium 40 mg po QD	nexium FFF 0 0	40 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+393-05	34	0	Lisinopril 20MG TABLET PO QAM	lisinopril FFF 0 0	20mg FFF 1 1	po FFF 3 3	qam FFF 4 4	 FFF 	 FFF 	narrative
+393-05	36	0	Asa (ACETYLSALICYLIC ACID) 325 MG (325MG TABLET take 1) PO QD	asa FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-05	37	0	Cymbalta (DULOXETINE) 60MG CAPSULE DR PO QAM x 30 days	Cymbalta (DULOXETINE) FFF 0 1	60mg FFF 2 2	po FFF 5 5	qam FFF 6 6	30 days FFF 8 9	 FFF 	narrative
+393-05	38	0	Hydrochlorothiazide 25 MG (25MG TABLET take 1) PO QAM , for high blood pressure	hydrochlorothiazide FFF 0 0	25 mg FFF 1 2	po FFF 7 7	qam FFF 8 8	 FFF 	 FFF 	narrative
+393-05	39	0	Insulin 70/30 HUMAN 70-30 U/ML VIAL SC as directed , 60u SQ before breakfast and 40u before dinner.	insulin 70/30 human FFF 0 2	70-30 u/ml FFF 3 4	sc FFF 6 6	before dinner. FFF 16 17	 FFF 	 FFF 	narrative
+393-05	40	0	Lipitor (ATORVASTATIN) 10MG TABLET PO QHS	Lipitor (ATORVASTATIN) FFF 0 1	10mg FFF 2 2	po FFF 4 4	qhs FFF 5 5	 FFF 	 FFF 	narrative
+393-05	41	0	Lisinopril 40MG TABLET PO QAM	lisinopril FFF 0 0	40mg FFF 1 1	po FFF 3 3	qam FFF 4 4	 FFF 	 FFF 	narrative
+393-05	42	0	Ms CONTIN (MORPHINE CONTROLLED RELEASE) 15MG TABLET SA PO Q12H	Ms CONTIN (MORPHINE CONTROLLED RELEASE) FFF 0 4	15mg FFF 5 5	po FFF 8 8	q12h FFF 9 9	 FFF 	 FFF 	narrative
+393-05	43	0	Neurontin (GABAPENTIN) 300 MG (300MG CAPSULE take 1) PO TID	neurontin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-05	44	0	Potassium CHLORIDE SLOW REL. (KCL SLOW RELEASE) 40 MEQ (10MEQ CAPSULE SA take 4) PO QD	potassium chloride slow rel. (kcl slow release) FFF 0 6	40 meq FFF 7 8	po FFF 14 14	qd FFF 15 15	 FFF 	 FFF 	narrative
+393-05	46	0	PERCOCET - GI upset,	percocet FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-05	61	0	COR:  NL S1S2, no murmur, rubs, or gallops.	cor: FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-05	68	0	Date/Time         NA             K              CL             CO2	na FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-05	70	0	Date/Time         BUN            CRE            GLU	glu FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-05	74	0	Date/Time         TP             ALB            GLOB           LACT	alb FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-05	162	0	Adrenal glands.	adrenal FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+393-05	186	0	MBq technetium 99m sulfur colloid.	technetium 99m FFF 1 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

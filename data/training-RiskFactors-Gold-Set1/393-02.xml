@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2081-06-10
+
+
+
+Attending Admission Note
+
+
+
+HPI
+
+52 year old woman with DM and h/o gastroparesis who presented with nausea and vomiting.  She was last admitted one week ago with N/V and treated for gastroparesis.  Her diabetes has been poorly controlled with her last hemoglobin A1c over 12 in April of 2081.  She has had recurrent episodes of nausea and vomiting.  During this past year in January, she was admitted to Missouri Baptist Hospital.  She had a negative EGD, and HIDA scan showed low ejection fraction to cholecystokinase.  She underwent a laparoscopic cholecystectomy.  She was admitted again a few weeks later to Missouri Baptist and had a gastric emptying study, which was consistent with gastroparesis.  In February, she was seen in the Philadelphia State Hospital Emergency Room with nausea and vomiting and had a KUB, which showed significant stool.  She presented again on 02/11/2081 and had an abdominal CT that showed thickening of the terminal ileum and possible thickening of the gastric and possible duodenal wall.  GI was consulted and the colonoscopy done on 02/14/2081 was normal, but did not visualize the terminal ileum.  A small-bowel follow-through on 02/16/2081 was normal.  She was discharged on a regimen of Reglan and erythromycin.  Since February, she has been seen multiple times in the outpatient clinic as well as medical walk-in.  She reports being complaint with her regimen of erythromycin 250 mg four times a day and Reglan 10 mg twice a day.  She was also recently started on Glucophage titrating up to 1000 mg b.i.d. as she had difficulty with multiple short per day regimen of insulin administration.  
+
+
+
+She was admitted from 5/31-6/2 and treated with IV Zofran and enemas.  GI saw the pt and recommended increasing reglan to TID and adding colace and miralax.  She also had a head CT to r/o mass lesion causing the nausea, and this was negative.  At the time of d/c, her nausea had decreased.  She states that the N/V did not improve much since that admission, and she has not been able to eat much.  She has pain throughout her abdomen.  She denies f/c, diarrhea, constipation, dysuria, hematemesis, or melena.
+
+
+
+Problems
+
+Diabetes mellitus : since 2060's, poorly controlled
+
+Hypertension 
+
+Gastroparesis : N/V due to diabetes
+
+Retinopathy : due to AODM, s/p first laser treatment 3/81, sees Ophtho in Stanwood
+
+S/P cholecystectomy 
+
+S/P TAH/BSO : menopause at age 86, had some hot flashes which are slowing improving. 
+
+
+
+Medications
+
+Metformin 1000 MG (500MG TABLET take 2) PO BID 
+
+Erythrocin ETHYL SUCCINATE SUSP (ERYTHROMYCIN) 250MG TABLET PO QID 
+
+Asa (ACETYLSALICYLIC ACID) 325 MG (325MG TABLET take 1) PO QD 
+
+Lisinopril 40MG TABLET PO QAM 
+
+Reglan (METOCLOPRAMIDE HCL) 10 MG (10MG TABLET take 1) PO TID 
+
+Lantus (INSULIN GLARGINE) 40 U SC QHS
+
+Atenolol 50 mg po QD
+
+Colace 2 tablets QHS 
+
+Miralax 17 gm QOD
+
+Zofran 8 mg po BID prn nausea
+
+
+
+Allergies
+
+PERCOCET - GI upset, 
+
+
+
+Social History	
+
+Lives alone; work- biological technician; no smoking; Etoh- none.
+
+
+
+Family History	
+
+Brother with DM.
+
+
+
+Review of Systems	
+
+No dizziness, F/C, cough, SOB, CP, dysuria, joint pain.
+
+
+
+Physical Exam	
+
+BP: 162/78     T: 98.6   P: 84    RR: 18
+
+GENERAL: 	Appears sleepy in her bed.
+
+SKIN:		NL turgor, no abnormal lesions
+
+CHEST:	            Clear lungs, NL frame
+
+COR:		NL S1S2, no murmur, rubs, or gallops.
+
+ABD:		Hypoactive BS; diffuse tenderness but no guarding or rebound; no HSM.
+
+EXT:		No edema, clubbing, or cyanosis
+
+NEURO:	            NL MS
+
+
+
+Assessment and Plan	
+
+1.  Nausea/vomiting:  Most likely secondary to her gastroparesis.  Her amylase and lipase are also elevated, raising the question of pancreatitis as well.  Will check abd-pelvic CT.  NPO with IVF.  Continue Reglan and erythromycin.  GI has been consulted for further recommendations.  Morphine prn abdominal pain.
+
+2.  DM: Continue glucophage.  Adjust insulin depending on BS. 
+
+3.  HTN:  Continue lisinopril and atenolol. 
+
+
+
+
+
+_____________________________________________
+
+Mildred D. Yunker, M.D.
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC14" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC19" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC21" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC22" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC23" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC9" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC20" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC15" indicator="not present"/>
+    <SMOKER id="DOC18" status="never"/>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC12" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC13" time="before DCT" indicator="A1C"/>
+    <DIABETES id="DOC24" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

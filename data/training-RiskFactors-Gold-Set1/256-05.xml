@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2154-07-21
+
+
+	CARDIOLOGY
+	
+
+	VALLEY COUNTY HOSPITAL
+	
+
+Eva  Newby M.D. 
+Valley County Hospital
+____
+,  
+
+Dear Dr. Newby:
+
+  I was happy to see Michelle Klein (2474410: DOB August 6, 2075) who comes along with her husband, Nathaniel, for follow up cardiac evaluation. Michelle has been stable from a cardiac point of view. She has coronary artery disease and underwent LAD stent placement in 2148. She had negative stress sestamibi study in November 2151. She has been free of angina or cardiac-related symptoms. She notes occasional orthostatic dizziness. Her prior stamina symptoms have improved greatly. She has well-controlled hypertension on stable medical regimen. Her recent diagnosis of myelofibrosis has been followed through closely by her hematology group here at Valley County and we have discussed this at length. Michelle feels far better than at her last several visits and I am very happy to see this.
+
+On clinical exam, blood pressure right arm is 130/80 mmHg, pulses are equal, normal and all well felt. First heart sound is normal to soft. Second is normal. There is a 1+/6 systolic apical murmur. No diastolic murmurs are present. No cyanosis, clubbing or edema. Thyroid is postoperative and stable. Neck veins are flat. Carotid upstrokes are normal. Lungs are clear. Abdominal exam is normal. I do not feel enlargement of the abdominal aorta.
+
+The electrocardiogram is unchanged. It continues to show minimal nonspecific ST flattening and left atrial prominence.
+
+Medications: Michelle no longer takes the verapamil, atenolol 50 mg per day, Lipitor 10 mg per day, Diovan 40 mg daily, Protonix 40 mg b.i.d., Synthroid 1.12 mg per day, vitamin B12 500 mg, B6 100 mg, magnesium 400 mg per day, and D3 2000 IU per day.
+
+If there are any questions at anytime, please call me. I am happy to see Michelle 's spirits are good and that she is feeling better and actually, her clinical exam seems excellent as well. She does not manifest tachycardia. I note that her hematocrit is 31%.  Visit duration 40 min.-half in discussion re he cardiac and hematologic issues.
+
+Best regards.
+
+Sincerely yours,
+
+	
+Tony Wilkinson, MD
+
+	
+Signed electronically by  Tony Wilkinson, MD
+Document Status: Final
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC6" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC7" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC9" time="before DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC13" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC15" time="during DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC17" time="after DCT" type1="ARB" type2=""/>
+    <HYPERTENSION id="DOC2" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention"/>
+    <CAD id="DOC4" time="before DCT" indicator="event"/>
+    <CAD id="DOC8" time="before DCT" indicator="mention"/>
+    <CAD id="DOC14" time="after DCT" indicator="mention"/>
+    <CAD id="DOC18" time="during DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC16" indicator="not present"/>
+    <SMOKER id="DOC12" status="unknown"/>
+  </TAGS>
+</root>

@@ -1,0 +1,91 @@
+391-04||1||Record date: 2090-03-03
+391-04||2||Patient Name: ORDONEZ,YAMILEX [ MRN: 0083716SNH ]
+391-04||3||Date of Visit: 3/03/2090
+391-04||4||Chief Complaint
+391-04||5||Here for follow up of her DM, HTN, CVA.
+391-04||6||History of Present Illness
+391-04||7||Reports her DM well controlled, FS usually 100-150, rare lows.
+391-04||8||Last saw ophtamology less than 1 yr ago, will go again soon.
+391-04||9||Has not seen a foot doctor, says nails need trimming, denies numbness, tingling, ulcers.
+391-04||10||Says HTN well controlled.
+391-04||11||Denies CP, SOB, PND, orthopnea.
+391-04||12||She does report some increased LE edema to ankles bilaterally.
+391-04||13||She is followed at the anticoagulation clinic for her coumadin dosing.||INDICATION FFF anticoagulation FFF 5 5||DBN FFF coumadin FFF 9 9||
+391-04||14||Past Medical History
+391-04||15||DM
+391-04||16||HTN
+391-04||17||s/p CVA
+391-04||18||CRI
+391-04||19||Medications
+391-04||20||COUMADIN (WARFARIN SODIUM)  2.5MG PO QD as directed||DBN FFF coumadin FFF 0 0||MDBN FFF (warfarin sodium) FFF 1 2||DOSE FFF 2.5mg FFF 3 3||RUT FFF po FFF 4 4||FREQ FFF qd FFF 5 5||INDICATION FFF as FFF 6 6||
+391-04||21||CALCIUM CARBONATE + VIT D  250MG PO TID
+391-04||22||MULTIVITAMIN (THERAPEUTIC MULTIVITAMINS)  1TAB PO QD||DBN FFF multivitamin FFF 0 0||MDBN FFF (therapeutic multivitamins) FFF 1 2||DOSEAMT FFF 1tab FFF 3 3||RUT FFF po FFF 4 4||FREQ FFF qd FFF 5 5||
+391-04||23||HYDROCHLOROTHIAZIDE  25MG PO QD||DIN FFF hydrochlorothiazide FFF 0 0||DOSE FFF 25mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qd FFF 3 3||
+391-04||24||AMLODIPINE  10MG PO QD||DIN FFF amlodipine FFF 0 0||DOSE FFF 10mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qd FFF 3 3||
+391-04||25||NPH HUMULIN INSULIN (INSULIN NPH HUMAN)  15 SC QAM||DIN FFF nph humulin insulin FFF 0 2||MDBN FFF (insulin nph human) FFF 3 5||RUT FFF sc FFF 7 7||FREQ FFF qam FFF 8 8||
+391-04||26||ZESTRIL (LISINOPRIL)  2.5MG 1 Tablet(s) PO QD||DBN FFF zestril FFF 0 0||MDBN FFF (lisinopril) FFF 1 1||DOSE FFF 2.5mg FFF 2 2||DOSEAMT FFF 1 tablet(s) FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF qd FFF 6 6||
+391-04||27||*   ACUCHECK ADVANTAGE STRIPS  1STRIP Topical As directed||DIN FFF advantage FFF 2 2||DOSEAMT FFF 1strip FFF 4 4||RUT FFF topical FFF 5 5||INDICATION FFF as FFF 6 6||
+391-04||28||Family History
+391-04||29||Father:    good health
+391-04||30||Mother:   good health
+391-04||31||Siblings:   good health
+391-04||32||Cancer - none
+391-04||33||Heart Disease - none
+391-04||34||DM - none
+391-04||35||HTN - none
+391-04||36||Habits
+391-04||37||Non-smoker.
+391-04||38||Alcohol   drinks/week.
+391-04||39||Caffeine   drinks/day.||DIN FFF caffeine FFF 0 0||
+391-04||40||No drugs.||DIN FFF drugs. FFF 1 1||
+391-04||41||Diet:
+391-04||42||Exercise:
+391-04||43||Social History
+391-04||44||Lives
+391-04||45||Works
+391-04||46||Review of Systems
+391-04||47||General - Neg
+391-04||48||Eyes - Neg
+391-04||49||Ears - Neg
+391-04||50||Mouth - Neg
+391-04||51||Heart and Lungs - Neg
+391-04||52||GI - Neg
+391-04||53||GU - Neg
+391-04||54||Musc-skel - Neg
+391-04||55||Skin - Neg
+391-04||56||Neuro - Neg
+391-04||57||Emotional - Neg
+391-04||58||Endocrine - Neg
+391-04||59||Hematologic - Neg
+391-04||60||Vital Signs
+391-04||61||Temperature:  98.8   Fahrenheit
+391-04||62||Pulse:  80   Regular
+391-04||63||Weight:  181   Pounds
+391-04||64||Blood Pressure:  150/50   Left Arm
+391-04||65||Physical Exam
+391-04||66||General Appearance
+391-04||67||NAD
+391-04||68||Skin
+391-04||69||No suspicious lesions.
+391-04||70||HEENT
+391-04||71||NCAT. EOMI. PERRL. fundi normal.
+391-04||72||No pharyngeal erythema.
+391-04||73||Good dentition.
+391-04||74||Neck
+391-04||75||No adenopathy.
+391-04||76||No thyromegaly.
+391-04||77||Chest
+391-04||78||Clear bilat.
+391-04||79||Cor/Cardiac||DIN FFF cor/cardiac FFF 0 0||
+391-04||80||S1S2 RR.
+391-04||81||No murmurs, rubs, or gallops.
+391-04||82||Abdomen
+391-04||83||+BS, soft, NTND. No masses.
+391-04||84||Extremity
+391-04||85||No edema. 2+ pedal pulses.
+391-04||86||Problems
+391-04||87||Diabetes mellitus
+391-04||88||Hypertension
+391-04||89||S/P cerebrovascular accident
+391-04||90||Chronic renal dysfunction
+391-04||91||Plan

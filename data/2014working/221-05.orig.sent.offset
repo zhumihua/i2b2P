@@ -1,0 +1,27 @@
+221-05	25	0	Advair  500/50mcg spray inh bid	advair 500/50mcg spray FFF 0 2	 FFF 	inh FFF 3 3	bid FFF 4 4	 FFF 	 FFF 	narrative
+221-05	26	0	atenolol  50mg po daily	atenolol FFF 0 0	50mg FFF 1 1	po FFF 2 2	daily FFF 3 3	 FFF 	 FFF 	narrative
+221-05	27	0	Cozaar  50 mg qd	cozaar FFF 0 0	50 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+221-05	28	0	enteric coated aspirin  325 mg qd	enteric coated aspirin FFF 0 2	325 mg FFF 3 4	 FFF 	qd FFF 5 5	 FFF 	 FFF 	narrative
+221-05	29	0	Lipitor  10 mg qd	lipitor FFF 0 0	10 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+221-05	30	0	Nexium  40 mg qhs	nexium FFF 0 0	40 mg FFF 1 2	 FFF 	qhs FFF 3 3	 FFF 	 FFF 	narrative
+221-05	31	0	Norvasc  2.5 mg qd	norvasc FFF 0 0	2.5 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+221-05	32	0	Plavix  75mg po daily	plavix FFF 0 0	75mg FFF 1 1	po FFF 2 2	daily FFF 3 3	 FFF 	 FFF 	narrative
+221-05	33	0	terazosin  2 mg qd	terazosin FFF 0 0	2 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+221-05	34	0	Valium  2mg po bid PRN	valium FFF 0 0	2mg FFF 1 1	po FFF 2 2	bid PRN FFF 3 4	 FFF 	 FFF 	narrative
+221-05	35	0	Zantac  150 mg qam	zantac 150 FFF 0 1	 FFF 	 FFF 	qam FFF 3 3	 FFF 	 FFF 	narrative
+221-05	46	0	chronic anxiety well controlled w/ Valium, occ headache, + BPH symptoms w/ 2-3 x nocturia otherwise negative in detail.	valium, FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+221-05	81	0	CV:Continue current medical regimen, monitoring for bradycardai/hypotension.	medical regimen, FFF 2 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+221-05	82	0	HLD:Continue current regimen, triglycerides elevated ? r/t DM as HgbA1c was elevated in january, will recheck, consider adding niaspan	triglycerides FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+221-05	82	0	HLD:Continue current regimen, triglycerides elevated ? r/t DM as HgbA1c was elevated in january, will recheck, consider adding niaspan	niaspan FFF 18 18	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+221-05	83	0	?DM:Recheck HgbA1c, cover w/ RISS as needed, nutrition consult for diet education, concider adding gliburide.	gliburide. FFF 14 14	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+221-05	87	0	atenolol 50mg  po daily	atenolol FFF 0 0	50mg FFF 1 1	po FFF 2 2	daily FFF 3 3	 FFF 	 FFF 	narrative
+221-05	88	0	terazosin 2 mg   qd	terazosin FFF 0 0	2 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+221-05	89	0	Norvasc 2.5 mg   qd	norvasc FFF 0 0	2.5 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+221-05	90	0	Cozaar 50 mg   qd	cozaar FFF 0 0	50 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+221-05	91	0	Lipitor 10 mg   qd	lipitor FFF 0 0	10 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+221-05	92	0	Zantac 150 mg   qam	zantac 150 FFF 0 1	 FFF 	 FFF 	qam FFF 3 3	 FFF 	 FFF 	narrative
+221-05	93	0	Nexium 40 mg   qhs	nexium FFF 0 0	40 mg FFF 1 2	 FFF 	qhs FFF 3 3	 FFF 	 FFF 	narrative
+221-05	94	0	enteric coated aspirin 325 mg   qd	enteric coated aspirin FFF 0 2	325 mg FFF 3 4	 FFF 	qd FFF 5 5	 FFF 	 FFF 	narrative
+221-05	95	0	Valium 2mg  po bid PRN	valium FFF 0 0	2mg FFF 1 1	po FFF 2 2	bid PRN FFF 3 4	 FFF 	 FFF 	narrative
+221-05	96	0	Advair 500/50mcg spray  inh bid Start: 07/04/2093	advair 500/50mcg spray FFF 0 2	 FFF 	inh FFF 3 3	bid FFF 4 4	 FFF 	 FFF 	narrative
+221-05	97	0	Plavix 75mg  po daily Start: 07/04/2093	plavix FFF 0 0	75mg FFF 1 1	po FFF 2 2	daily FFF 3 3	 FFF 	 FFF 	narrative

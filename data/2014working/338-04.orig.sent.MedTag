@@ -1,0 +1,52 @@
+338-04	1	Record date: 2095-04-24	
+338-04	2	EDVISIT^97198841^HOLDEN, MATIAS^04/24/95^XIE, LORI	
+338-04	3	The patient was seen primarily by the PA.  I confirm that I have		INDICATION FFF pa#7
+338-04	4	interviewed and examined the patient, reviewed the resident's	
+338-04	5	documentation on the patient's chart, and discussed evaluation,	
+338-04	6	plan of care, and disposition with the patient.	
+338-04	7	HISTORY OF PRESENT ILLNESS:  The patient is a 41-year-old male	
+338-04	8	with diabetes and high blood pressure who presents to the		INDICATION FFF diabetes#1	INDICATION FFF high blood pressure#5
+338-04	9	Emergency Room complaining of some sore throat symptoms for 3		INDICATION FFF sore throat#6	INDICATION FFF symptoms#7
+338-04	10	days also reporting some chest discomfort that has been on and	
+338-04	11	off since Friday.		FREQ FFF friday#2
+338-04	12	Denies any association with cough or movement.  I guess it is at rest and also with activity and noticing also increasing shortness of breath with activity.		INDICATION FFF cough#4	INDICATION FFF shortness of breath#23
+338-04	13	No lower extremity swelling and no PND.		INDICATION FFF swelling#3	INDICATION FFF pnd .#6
+338-04	14	Has been having off and on chest discomfort.	
+338-04	15	However, in the past four months, had negative		DRT FFF four months#5
+338-04	16	ETT at Smithers Albany Center per his report.	
+338-04	17	Denies any headache, fevers or chills or recent travel.		INDICATION FFF headache#2	INDICATION FFF fevers#3
+338-04	18	Did have a negative	
+338-04	19	ETT by his report at an outside hospital four months ago.		DRT FFF four months#9
+338-04	20	PAST MEDICAL HISTORY:  Significant for hypertension, diabetes		INDICATION FFF hypertension#5	INDICATION FFF diabetes#6
+338-04	21	insulin requiring, and hypercholesterolemia.		DIN FFF insulin#0	INDICATION FFF hypercholesterolemia#3
+338-04	22	ALLERGIES:  He has no known allergies.		INDICATION FFF allergies#0	INDICATION FFF allergies#5
+338-04	23	CURRENT MEDICATIONS:  Insulin, lisinopril, metformin, and		DIN FFF insulin#2	DIN FFF lisinopril#3	DIN FFF metformin#4
+338-04	24	anticholesterol medications.	
+338-04	25	SOCIAL HISTORY:  The patient is a current smoker, denies any	
+338-04	26	alcohol or IV drug use.		RUT FFF iv#2
+338-04	27	PAST SURGICAL HISTORY:  Hernia repair in the past.	
+338-04	28	REVIEW OF SYSTEMS:  Sore throat, cough, shortness of breath, and		INDICATION FFF sore throat#4	INDICATION FFF cough#5	INDICATION FFF shortness of breath#8
+338-04	29	chest discomfort.	
+338-04	30	PHYSICAL EXAMINATION:  Afebrile, normal vital signs.	
+338-04	31	He is otherwise an overweight male in no acute distress.	
+338-04	32	Sclerae nonicteric.	
+338-04	33	Lungs are clear to auscultation.	
+338-04	34	Cardiac exam S1,	
+338-04	35	S2, regular rhythm with no gallops, rubs, or murmurs.	
+338-04	36	Abdomen is very soft and nontender.	
+338-04	37	No JVD on exam.	
+338-04	38	Back on head and neck exam, TMs are clear bilaterally.	
+338-04	39	Oropharynx is clear.	
+338-04	40	Neck is supple.	
+338-04	41	LABORATORY DATA:  Currently, still pending.	
+338-04	42	EKG normal sinus rhythm with no ST-T segment changes or evidence	
+338-04	43	of ischemia or infarct.		INDICATION FFF ischemia#1	INDICATION FFF infarct#3
+338-04	44	IMPRESSION AND PLAN:  A 41-year-old male, diabetic, hypertensive,		INDICATION FFF hypertensive#7
+338-04	45	presents with URI symptoms.		INDICATION FFF symptoms#3
+338-04	46	No evidence of exam or indication  ******** Not reviewed by Attending Physician ******** chest discomfort at any time as he has had for a few months, worsening recently.		INDICATION FFF as#18
+338-04	47	Does not appear to be exertional related, however, given his significant risk factors and no documented stress studies in our system we will place in Observation for a rule out an ETT in the morning.		INDICATION FFF risk#11	TOD FFF in the morning#34
+338-04	48	______________________________	
+338-04	49	XIE, LORI M.D.	
+338-04	50	D: 04/25/95	
+338-04	51	T: 04/25/95		INDICATION FFF t#0
+338-04	52	Dictated By: XIE, LORI	

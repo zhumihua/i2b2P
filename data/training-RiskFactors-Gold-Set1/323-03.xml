@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2065-04-22
+
+April 22, 2065
+
+
+Xian, Brooklyn 
+602-44-98-6
+
+
+She was last in the clinic on October 24, 2063.  She comes in today with her husband and daughter.  (Her daughter is her legal healthcare proxy.)  They come in to follow up on a recent hospitalization at Mid Coast Hospital.  In January, she was noted by her family to be agitated and confused.  She was missing her medication or taking too much medication at times, including her insulin.  She also became paranoid when efforts were made to intervene to assist her.  Her family notes that this seemed to begin after her gabapentin dose was increased to 600 mg bid.  She was also taking some other drugs at the time that affect the central nervous system, including trazodone, benzodiazepines, and narcotics for back pain.  She was admitted to the geriatric psychiatry unit at Mid Coast in January 2065.  She stayed there for almost a week.  According to the family, some medications were discontinued and donepazil was started.  Also, they think she had a brain MRI.  She improved and was ultimately discharged.  She has done much better since discharge.  She went with family to Michigan.  They report that there she was much better, playing water volleyball last week.  Her husband is now supervising her medications.  He still notices some memory loss, but this has improved since her discharge.  She has had frequent headaches.  She has noted no urinary incontinence and no worsening of her gait.
+
+
+According to available notes, drugs stopped during her hospitalization include gabapentin, trazodone, metformin, HCTZ, Hunulin, and Lispro.  She is back no the metformin and HCTZ.
+
+
+Her current medications are: aspirin 81 mg daily, Celebrex, donepazil 5 mg daily, HCTZ, linsinopril, labetalol, Crestor, insulin, pramipexole 0.125 mg qhs, Protonix, Roxicet, L-thyroxine, temazepam qhs, and metformin.  She is allergic to erythromycin.
+
+
+On examination today pulse is 60 and regular.  BP is 104/60.  She is alert and oriented to time, except the precise date.  She is aware that yesterday was Tuesday.  She is oriented to place.  Her mental and motor responses are slightly slow.  She displays an appropriate sense of humor.  She attends well.  She recites the months of the year promptly forwards and backwards. She registers 4 of 4 words.  She recalls 3/4 at one minutes and the 4th with a semantic clue with a slight error "14 Massachusetts Drive" rather than 24 Massachusetts Drive.  At 5 minutes, she recalls all 4 with only the error, "14 Massachusetts Drive" but with no need for a clue.  At 10 minutes, she recalls 2/4 without any clue, the 3rd with a semantic hint, and the 4th with a semantic hint again as "14 Massachusetts Drive."  She readily adds a simple sum in her head.  She follows multiple step commands.  She copies interlocking pentagons and a 3D cube well with only slight 3D perspective distortion.  She constructs a clock well with good planning and no neglect.  
+
+
+Visual fields are full.  Pupils are 2.5 mm and reactive.  Fundi are not well visualized.  There rest of the cranial nerves are intact.  Muscle bulk, tone, and power are normal.  There are not extrapyramidal features, and there is no paratonia.  Reflexes are damp in the arms and absent at the ankles (UE 1/4, knees 2/4, ankles 0/4) and symmetric.  Plantar responses are flexor.  Romberg is negative.  She walks without hesitation in gait initiation.  Her stride is reasonably good,  Her base is only slightly widened.  She tandem walks with moderate unsteadiness.  
+
+
+The examination has not changed much from her visit in October 2063.  She has some problems with memory by examination, but this seems to have improved greatly since her hospitalization.  Her confusion and reported paranoia seem to have gone away. Except or mild psychomotor slowing, she does not have features to suggest NPH as the cause, such as urinary incontinence or magnetic gait.  I suspect that her recent deterioration was due to adverse reaction to psychoactive medication that has now been discontinued of limited.
+
+
+We will make no change in medication today.  We will request the recent MRI from Mid Coast.  She will return in several weeks after we have gotten the MRI.
+
+
+
+
+
+
+
+
+Uriah Yousif, M.D.
+
+
+cc: Roger York, M.D.
+      454 Prospect Street
+      Sleepy Eye, NC 77659
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC5" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC7" time="before DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC11" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC12" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC13" time="during DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC14" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC17" time="after DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC19" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC20" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC21" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC22" time="during DCT" type1="beta blocker" type2=""/>
+    <FAMILY_HIST id="DOC15" indicator="not present"/>
+    <SMOKER id="DOC10" status="unknown"/>
+  </TAGS>
+</root>

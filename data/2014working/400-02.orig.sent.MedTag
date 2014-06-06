@@ -1,0 +1,93 @@
+400-02	1	Record date: 2062-07-21	
+400-02	2	Halcyon House Intern Admission Note	
+400-02	3	PATIENT:  Ostrander, Pamela.	
+400-02	4	MR: 1612187	
+400-02	5	ADMIT DATE:  07/21/2062	
+400-02	6	PCP:  Jameson		INDICATION FFF pcp#0
+400-02	7	CODE STATUS:  Full Code	
+400-02	8	PATIENT CONTACT:	
+400-02	9	CC:  Fatigue		TOD FFF cc#0	INDICATION FFF fatigue#1
+400-02	10	HPI:	
+400-02	11	This is a 59 female with PMH significant for HTN, DM, Mood disorder NOS, Breast lump.		INDICATION FFF htn#9	INDICATION FFF dm#10
+400-02	12	Who present to the EW with fatigue and BP in the 200s.		INDICATION FFF fatigue#6	INDICATION FFF bp#8
+400-02	13	According to the patient, she had high blood pressure for years that was well controlled according to her up till Jan, when she lost her insurance and could not fill in her prescriptions.		INDICATION FFF high blood pressure#8
+400-02	14	In Jan of this year, the patient stopped taking any BP meds up till she had a visit with her Psych nurse which found her BP to be in the 200s sent her to EW, they controlled her BP and sent her out on Metoprolol 50 BID, and Lisinopril 10 mg QD.		DBN FFF bp meds#11	INDICATION FFF her bp#25	INDICATION FFF her bp#38	DIN FFF metoprolol#44	DOSE FFF 50#45	FREQ FFF bid#46	DIN FFF lisinopril#48	DOSE FFF 10mg#50	FREQ FFF qd#51
+400-02	15	After which, the patient had a trip to Peru and ran out of her medication 2 days priory to her return.		DRT FFF 2 days#16
+400-02	16	When she returned about a wk ago the patient presented to EW because of another episode of hypertensive  emergency, for which, she was D/C with a follow up with one of the HGH PCPs.		DRT FFF a wk#5	INDICATION FFF hypertensive#17	DIN FFF hgh#32
+400-02	17	Patient could not get an appointment until later this month, and she was having a feeling of fatigue today, so she called her APS nurse which one more time found her to be in the 200s and sent her to the EW.		DRT FFF until#6	INDICATION FFF fatigue#17
+400-02	18	On ROS:  Patient denies any HA, changes in vision, nausia, vomiting, chest pain, palpitation, SOB, Abd pain, syncope, palpitation, recent wt changes, change in her bowel or urinary habits.		INDICATION FFF ha#5	INDICATION FFF vomiting#10	INDICATION FFF chest pain#12	INDICATION FFF sob#14	INDICATION FFF pain#16	INDICATION FFF change#22
+400-02	19	However she does describe feeling fatigued, episodes of flushing, history of hearing double messages when she communicate with other people.		INDICATION FFF fatigued#5
+400-02	20	No feeling of hot or cold.		INDICATION FFF cold#5
+400-02	21	Emergency room course:	
+400-02	22	In the EW, the BP was 210/109, P: 90, RR:18, SAO2 100%.		INDICATION FFF bp#4	DOSE FFF 100%#11
+400-02	23	The patient received 5mg of lopressor IV and and 50mg PO for which her BP had minimal response.		DOSE FFF 5mg#3	DBN FFF lopressor#5	RUT FFF iv#6	DOSE FFF 50mg#9	RUT FFF po#10	INDICATION FFF her bp#14
+400-02	24	She also received 20 mg of IV Labetalol then 200mg PO' after which her blood pressure was down to the 180s, then it started climbing back up to the 200s for which she received another 10 mg IV, the highest reading the patient got was 257/188.		DOSE FFF 20mg#4	RUT FFF iv#6	DIN FFF labetalol#7	DOSE FFF 200mg#9	RUT FFF po#10	INDICATION FFF her blood pressure#15	DOSE FFF 10mg#36	RUT FFF iv#37
+400-02	25	The patient was also given a 325 mg ASA, and the first 2 cardiac enzymes were negative.		DOSE FFF 325mg#7	DIN FFF asa#8
+400-02	26	Relative to a previous EKG, the EW EKG showed t-wave inversion in V5 and V6.	
+400-02	27	PMH:	
+400-02	28	DM no insulin requirement.		INDICATION FFF dm#0	DIN FFF insulin#2
+400-02	29	HTN		INDICATION FFF htn#0
+400-02	30	mood disorder	
+400-02	31	Breast lump	
+400-02	32	MEDICATIONS ON ADMISSION	
+400-02	33	Metforman 1000mg BID		DOSE FFF 1000mg#1	FREQ FFF bid#2
+400-02	34	Seroquel  100 mg QHS		DBN FFF seroquel#0	DOSE FFF 100mg#2	FREQ FFF qhs#3
+400-02	35	Metoprolol 50 mg BID		DIN FFF metoprolol#0	DOSE FFF 50mg#2	FREQ FFF bid#3
+400-02	36	Lisinopril 10mg QD		DIN FFF lisinopril#0	DOSE FFF 10mg#1	FREQ FFF qd#2
+400-02	37	Neurontin 500 QHS		DBN FFF neurontin#0	DOSE FFF 500#1	FREQ FFF qhs#2
+400-02	38	ALLERGIES:		INDICATION FFF allergies#0
+400-02	39	NKDA	
+400-02	40	FAMILY HISTORY:	
+400-02	41	HTN, DM, CAD		INDICATION FFF htn#0	INDICATION FFF dm#1	INDICATION FFF cad#2
+400-02	42	SOCIAL HISTORY:	
+400-02	43	PHYSICAL EXAM:	
+400-02	44	Floor:	
+400-02	45	HR: 72             BP: 203/109       Temp: 98.3RR:  18           I&amp;O: in out Gen:  NAD Coop A&amp;OX		INDICATION FFF bp#2
+400-02	46	HEENT:  PERRL EOMI. oral dry. No thyromegally.		RUT FFF oral#3
+400-02	47	Neck:  supp NT,  no bruit,  JVD flat, no  nodes	
+400-02	48	Chest:  CTA-B	
+400-02	49	Cardiac:  RRR.  Nl  S1/S2 no S3/S4, normal S1.	
+400-02	50	No  rubs/ murmurs/thrill.	
+400-02	51	Abd:   S/NT/ND, no palpable masses, no hepatosplenomegaly, no bruits, no palpable AAA.	
+400-02	52	Ext:  Pulses +2 symmetrical, palp PT/DT, No  Edema,  + color capr, Nails normal, without clubbing, cyanosis, or deformities.		INDICATION FFF dt#5	INDICATION FFF edema#7	INDICATION FFF cyanosis#15
+400-02	53	Skin:  Nl texture, no lesions or rashes.	
+400-02	54	Neuro:	
+400-02	55	-       Alert, oriented X3.		FREQ FFF x3#3
+400-02	56	Clear speech.   -       Cranial nerves II-XII intact by gross confrontation.	
+400-02	57	-       No abnormal movements seen.		INDICATION FFF abnormal movements#3
+400-02	58	-       Patellar, Achillies, symmetrical.	
+400-02	59	Babinski neg. -      Intact touch and vibratory sens.	
+400-02	60	Nl Motor strength. ROM intact.	
+400-02	61	LABS:	
+400-02	62	137              107              16	
+400-02	63	122	
+400-02	64	3.3                28.6              .8	
+400-02	65		
+400-02	66	Ca:9.3         Mg:1.7         Ph:3.6	
+400-02	67		
+400-02	68	13.3	
+400-02	69	9.7   286	
+400-02	70	40	
+400-02	71	UA:		INDICATION FFF ua#0
+400-02	72	UA-COLOR                                                                             YELLOW	
+400-02	73	UA-APP                                                                               SLIGHT	
+400-02	74	UA-GLUC                           Negative                          Negative         NEG	
+400-02	75	UA-BILI                                                                              NEG	
+400-02	76	UA-KET                            Negative                          Negative         NEG	
+400-02	77	UA-SPGR                           1.020                             1.015            1.010	
+400-02	78	UA-BLD                            Negative                          Negative         NEG	
+400-02	79	UA-PH                             5.5                               6.5              7	
+400-02	80	UA-ALB                            Negative                          Negative         NEG	
+400-02	81	UA-UROBI                                                                             NEG	
+400-02	82	UA-NIT                            Negative                          Negative         NEG	
+400-02	83	UA-WBC                            see detail                        see detail       TRACE	
+400-02	84	HCAST            Negative                          0-2	
+400-02	85	UAS-RBC          0-2                               0-2                               0-2	
+400-02	86	UAS-WBC          20-50                             5-10                              0-2	
+400-02	87	UAS-BACT         Few                               Negative	
+400-02	88	UAS-MUC                                                                              PRESENT	
+400-02	89	UAS-SQHI         Few                               Negative                          FEW	
+400-02	90	UAS-AMOR                                                                             FEW	
+400-02	91	Cardiac:  Neg X 2		FREQ FFF x 2#3
+400-02	92	-       Trop T :		INDICATION FFF t#2
+400-02	93	-       CK-MB:	

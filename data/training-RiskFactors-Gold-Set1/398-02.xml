@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2108-06-26
+
+Mr. Bryan returns - he saw Dr. Shoemaker who feels he does need a revision.  Mr. Bryan is thinking about it , but hasn't yet called for an OR date.   He has had a couple of falls, one right on  Sheffield Road - thankfully nothing serious.   He still has right hip pain that radiates to the thigh.  Weight is back up 3 lbs.   Labs were all fine and HBa1C was <7.   
+
+
+
+ROS: occas. constipation, no CP, no sob, no palps, no dizziness.  denies Urinary problems . No skin problems.
+
+
+
+Habits: no smoking or current EtOH.
+
+
+
+SHx: Retired.  No kids.  Lives in 90 Yvonne St  Very independent.
+
+
+
+
+
+Medications
+
+Aspirin (ACETYLSALICYLIC ACID) 81MG TABLET CHEWABLE take 1 Tablet(s) PO QD , Take as directed 
+
+Mvi (MULTIVITAMINS) 1 CAPSULE PO QD 
+
+Atenolol 100MG TABLET take 1 Tablet(s) PO QD 
+
+Captopril 50MG TABLET take 1 Tablet(s) PO BID , Take as directed 
+
+Hctz (HYDROCHLOROTHIAZIDE) 25MG TABLET take 0.5 Tablet(s) PO QD , Take as directed 
+
+Metformin 850MG TABLET take 1 Tablet(s) PO BID 
+
+
+
+
+
+Allergies
+
+NKA 
+
+
+
+PE:   Hobbling with a cane - 124/70 p. 78 reg rr 16  
+
+      clear lungs.  RRR -m/r/g no bruits.  blind in left eye
+
+      decreased ROM in right hip to flexion/ext rotation.  tr. edema.
+
+ groin rash has resolved.
+
+
+
+a/p 1) Hip OA - he needs a revision of his R THR.  He will call Dr. Shoemaker to set an OR date.
+
+      2) htn -well controlled.
+
+       3) DM - fairly well controlled. Continue with metformin.  On ACEI, ASA. Not on statin - lipids have been quite good.   Followed by Dr. Xanders for optho.
+
+   
+
+Health maintenance
+
+Influenza Vaccine 11/01/2107 FLUZONE O9824QB
+
+Cholesterol 12/15/2105 168 DESIRABLE: <200
+
+Rectal exam 06/07/2107 
+
+Stool Guaiac 06/29/2107 /NEGATIVE/NEGATIVE Done - negative x's 3
+
+Pneumovax 12/05/2107 
+
+Smoking status 12/15/2105 Never a smoker 
+
+Sigmoidoscopy 12/15/2105 refused 
+
+UA-Protein 12/07/99 TRACE 
+
+Colonoscopy 06/26/2108 offered, patient refused. 
+
+Ophthal Exam 01/30/2107 No diabetic ret. + mac. deg, blind on left (s/p bleed) Done elsewhere Followed by Dr. Xanders of the retinal service for Mac. deg.
+
+HbA1c 05/13/2108 6.70 
+
+Podiatry exam 11/18/2106 slight neuropathy 
+
+Triglycerides 12/15/2105 94 
+
+Cholesterol-LDL 12/15/2105 110 DESIRABLE: <130
+
+Hct (Hematocrit) 05/10/2108 37.2 
+
+Complete Physical Exam 06/07/2107 
+
+Cholesterol-HDL 12/15/2105 39 
+
+MHCT (micro-Hematocrit) 12/03/99 33 
+
+Hgb (Hemoglobin) 05/10/2108 12.9 
+
+
+
+
+
+
+
+
+
+_____________________________________________
+
+Brandon Nix, M.D.
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC15" time="before DCT" indicator="high LDL"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC8" time="before DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC13" time="during DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC14" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC18" time="after DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC20" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC22" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC23" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC21" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC16" indicator="not present"/>
+    <SMOKER id="DOC19" status="never"/>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC11" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC12" time="before DCT" indicator="A1C"/>
+    <DIABETES id="DOC24" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

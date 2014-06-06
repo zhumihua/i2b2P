@@ -1,0 +1,15 @@
+328-02	38	0	Hx of post-op DVT &gt;40 years ago after hysterectomy (unclear if ever on coumadin)	coumadin) FFF 13 13	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+328-02	46	0	No EtOH, smoking or recreational drugs.	drugs. FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+328-02	48	0	HCTZ &#224; facial swelling/rash	hctz FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+328-02	50	0	ACETAMINOPHEN (TYLENOL)  325-650 MG PO  Q4H  &lt;DI&gt;  PRN: Pa	ACETAMINOPHEN (TYLENOL) FFF 0 1	325-650 mg FFF 2 3	po FFF 4 4	Q4H &lt;DI&gt; PRN: FFF 5 7	 FFF 	 FFF 	narrative
+328-02	51	0	DOCUSATE SODIUM (COLACE)  100 MG PO  TID	DOCUSATE SODIUM (COLACE) FFF 0 2	100 mg FFF 3 4	po FFF 5 5	tid FFF 6 6	 FFF 	 FFF 	narrative
+328-02	52	0	ACETYLSALICYLIC ACID (ASPIRIN)   81 MG PO  Daily	ACETYLSALICYLIC ACID (ASPIRIN) FFF 0 2	81 mg FFF 3 4	po FFF 5 5	daily FFF 6 6	 FFF 	 FFF 	narrative
+328-02	53	0	CALCIUM CARBONATE/VITD (250MG CA++/125U VITD)  1 TAB PO  Daily  &lt;DI&gt;	calcium carbonate/vitd FFF 0 1	(250mg FFF 2 2	po FFF 7 7	daily FFF 8 8	 FFF 	 FFF 	narrative
+328-02	54	0	ENOXAPARIN  30 MG SC  BID  &lt;DI&gt;	enoxaparin FFF 0 0	30 mg FFF 1 2	sc FFF 3 3	bid FFF 4 4	 FFF 	 FFF 	narrative
+328-02	55	0	FUROSEMIDE (LASIX )  40 MG PO  Daily	FUROSEMIDE (LASIX ) FFF 0 2	40 mg FFF 3 4	po FFF 5 5	daily FFF 6 6	 FFF 	 FFF 	narrative
+328-02	56	0	LEVOTHYROXINE SODIUM (LEVOTHROID)   25 MCG PO  Daily  &lt;DI&gt;  &lt;DDI&gt;	LEVOTHYROXINE SODIUM (LEVOTHROID) FFF 0 2	25 mcg FFF 3 4	po FFF 5 5	daily FFF 6 6	 FFF 	 FFF 	narrative
+328-02	57	0	METOPROLOL TARTRATE (LOPRESSOR )  25 MG PO  Q8H	METOPROLOL TARTRATE (LOPRESSOR ) FFF 0 3	25 mg FFF 4 5	po FFF 6 6	q8h FFF 7 7	 FFF 	 FFF 	narrative
+328-02	58	0	ATORVASTATIN (LIPITOR )  20 MG PO  Daily	ATORVASTATIN (LIPITOR ) FFF 0 2	20 mg FFF 3 4	po FFF 5 5	daily FFF 6 6	 FFF 	 FFF 	narrative
+328-02	102	0	NA            140           136           137           139	na FFF 0 0	140 FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+328-02	109	0	GLU           143(H)        190(H)	glu FFF 0 0	143(h) FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+328-02	120	0	ALB                         3.1(L)        2.3(L)        2.6(L)	alb FFF 0 0	3.1(l) FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative

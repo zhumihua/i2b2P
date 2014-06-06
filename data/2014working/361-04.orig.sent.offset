@@ -1,0 +1,29 @@
+361-04	7	0	Foy	foy FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+361-04	13	0	Mr. Jay is a 48yo with type II DM c/b diabetic retinopathy, ESRD on HD, bilateral TMA, and HTN who presents with LLQ pain x2 days.	tma, FFF 16 16	 FFF 	 FFF 	 FFF 	x2 days. FFF 24 25	 FFF 	narrative
+361-04	18	0	He was discharged to home at that time with oral pain medication.	pain medication. FFF 10 11	 FFF 	oral FFF 9 9	 FFF 	 FFF 	 FFF 	narrative
+361-04	23	0	He was given IV morphine for his pain, and IV benedryl for nausea (he has had a cyclic vomiting/nausea syndrome on prior admission which has been effectively treated this way).	morphine FFF 4 4	 FFF 	iv FFF 9 9	 FFF 	 FFF 	 FFF 	narrative
+361-04	23	0	He was given IV morphine for his pain, and IV benedryl for nausea (he has had a cyclic vomiting/nausea syndrome on prior admission which has been effectively treated this way).	benedryl FFF 10 10	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+361-04	26	0	However, patient was given dulcolax PR.	dulcolax FFF 4 4	 FFF 	pr. FFF 5 5	 FFF 	 FFF 	 FFF 	narrative
+361-04	29	0	IDDM, diagnosed 20 years ago, complicated by retinopathy 5 years ago, nephropathy 5 years ago, and bilateral TMA 8 years ago	tma FFF 17 17	 FFF 	 FFF 	 FFF 	8 years FFF 18 19	 FFF 	narrative
+361-04	36	0	S/p bilateral TMA 8 years ago, complicated by osteomyelitis of right foot in 2065 and 2068	tma FFF 2 2	 FFF 	 FFF 	 FFF 	8 years FFF 3 4	 FFF 	narrative
+361-04	41	438	Acetylsalicylic Acid 81 MG (81 MG TABLET Take 1) PO QD #100 Tablet(s)	acetylsalicylic acid FFF 0 1	81 mg FFF 2 3	po FFF 9 9	qd FFF 10 10	 FFF 	 FFF 	narrative
+361-04	42	438	Amlodipine 10 MG (10 MG TABLET Take 1) PO QD x 30 days #30 Tablet(s)	amlodipine FFF 0 0	10 mg FFF 1 2	po FFF 8 8	qd FFF 9 9	30 days FFF 11 12	 FFF 	narrative
+361-04	43	438	Cinacalcet 30 MG PO QHS #30 Tablet(s)	cinacalcet FFF 0 0	30 mg FFF 1 2	po FFF 3 3	qhs FFF 4 4	 FFF 	 FFF 	narrative
+361-04	44	438	Clonidine 0.2 MG PO BID	clonidine FFF 0 0	0.2 mg FFF 1 2	po FFF 3 3	bid FFF 4 4	 FFF 	 FFF 	narrative
+361-04	45	438	Cymbalta (DULOXETINE) 20 MG (20MG CAPSULE DR Take 1) PO BID #60 Capsule(s)	cymbalta FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+361-04	46	438	Diphenhydramine Oral 25 MG PO 3x/Week M-W-F PRN Itching, originally prescribed MWF with dialysis, has been taking TID with meals	diphenhydramine FFF 0 0	25 mg FFF 2 3	oral FFF 1 1	3x/week m-w-f FFF 5 6	 FFF 	 FFF 	narrative
+361-04	47	438	Docusate Sodium 100 MG PO BID #100 Capsule(s)	docusate sodium FFF 0 1	100 mg FFF 2 3	po FFF 4 4	bid FFF 5 5	 FFF 	 FFF 	narrative
+361-04	48	438	Epoetin Alfa (NON-ONCOLOGY) 6000 UNITS IVPUSH x1	epoetin alfa FFF 0 1	6000 units FFF 3 4	 FFF 	x1 FFF 6 6	 FFF 	 FFF 	narrative
+361-04	51	438	Insulin Lispro Mix 75/25 12 UNITS SC QPM #1 Month(s) Supply	insulin lispro FFF 0 1	12 units FFF 4 5	sc FFF 6 6	qpm FFF 7 7	 FFF 	 FFF 	narrative
+361-04	52	438	Insulin Lispro Mix 75/25 25 UNITS SC QAM #1 Month(s) Supply	insulin lispro FFF 0 1	25 units FFF 4 5	sc FFF 6 6	qam FFF 7 7	 FFF 	 FFF 	narrative
+361-04	53	438	Insulin Syringes ONE PO bid #1 Month(s) Supply	insulin FFF 0 0	 FFF 	po FFF 3 3	bid FFF 4 4	 FFF 	 FFF 	narrative
+361-04	55	438	Lisinopril 40 MG PO QD, on non-dialysis days only	lisinopril FFF 0 0	40 mg FFF 1 2	po FFF 3 3	qd, FFF 4 4	 FFF 	 FFF 	narrative
+361-04	56	438	Miralax (POLYETHYLENE Glycol ) 17 GM (17G POWD PACK ) PO QD PRN constipation, Each 17 GM dose to be dissolved in 8 oz of water x 15 days #15 doses	miralax FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+361-04	57	438	Nephro-vit Rx 1 TAB PO QD #90 Tablet(s)	nephro-vit rx FFF 0 1	1 tab FFF 2 3	po FFF 4 4	qd FFF 5 5	 FFF 	 FFF 	narrative
+361-04	58	438	Omeprazole 20 MG (20 MG CAPSULE DR Take 1) PO QD #90 Capsule(s)	omeprazole FFF 0 0	20 mg FFF 1 2	po FFF 9 9	qd FFF 10 10	 FFF 	 FFF 	narrative
+361-04	59	438	Reglan (METOCLOPRAMIDE Hcl) 5 MG (5 MG TABLET Take 1) PO AC PRN nausea, constipation x 30 days #90 Tablet(s)	reglan FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+361-04	60	438	Sennosides 17.2 MG PO BID PRN Constipation	sennosides FFF 0 0	17.2 mg FFF 1 2	po FFF 3 3	BID PRN FFF 4 5	 FFF 	 FFF 	narrative
+361-04	61	438	Sevelamer 2400 MG (800MG TABLET Take 3) PO TID	sevelamer FFF 0 0	2400 mg FFF 1 2	po FFF 7 7	tid FFF 8 8	 FFF 	 FFF 	narrative
+361-04	62	438	Simvastatin 20 MG (20MG TABLET Take 1) PO QHS #90 Tablet(s)	simvastatin FFF 0 0	20 mg FFF 1 2	po FFF 7 7	qhs FFF 8 8	 FFF 	 FFF 	narrative
+361-04	63	438	Toprol Xl (METOPROLOL Succinate Extended Release) 150 MG (100 MG TAB.SR 24H Take 1) PO QD, Take 1 pill of 100 mg and 1 pill 50 mg for total of 150 mg #60 TAB.SR	toprol xl FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+361-04	89	0	ABDOMEN: The unopacified liver, spleen, pancreas, adrenal glands     are normal.	adrenal FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

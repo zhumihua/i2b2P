@@ -1,0 +1,128 @@
+367-02||1||Record date: 2082-10-31
+367-02||2||Team B Internal Medicine Intern Admission Note
+367-02||3||Louise Urquhart
+367-02||4||MR# 2072665
+367-02||5||Date of Admission: 10/30/82
+367-02||6||PCP: Dr. Tatyana Butler (Solemar Hospital)
+367-02||7||ID/CC: 75 yo F with HTN, DM2, RCC s/p right radical nephrectomy 2079 presents with hypertensive urgency
+367-02||8||HPI:    Has h/o HTN, saw her PCP in September, BP 168/78, supposed to be on cozaar 50 mg BID, added HCTZ 25 mg QD.||DBN FFF cozaar FFF 15 15||DOSE FFF 50 mg FFF 16 17||FREQ FFF bid, FFF 18 18||
+367-02||8||HPI:    Has h/o HTN, saw her PCP in September, BP 168/78, supposed to be on cozaar 50 mg BID, added HCTZ 25 mg QD.||DPN FFF hctz FFF 20 20||DOSE FFF 25 mg FFF 21 22||FREQ FFF qd. FFF 23 23||
+367-02||9||However, patient has only been taking cozaar 50 mg QD.||DBN FFF cozaar FFF 6 6||DOSE FFF 50 mg FFF 7 8||FREQ FFF qd. FFF 9 9||
+367-02||10||Needed renewal of her prescription, was sent to medical walk in clinic prior to filling it, found BP to be 230/110.
+367-02||11||Had HA 2 nights ago lasting couple hours, posterior neck across top of head.
+367-02||12||While in waiting room also had HA, 4/10 from back of neck across top of head.
+367-02||13||No other sx - no CP, SOB, visual changes, abdominal pain, unilateral weakness, numbness, hematuria.
+367-02||14||Was stressed out over argument with granddaughter yesterday.
+367-02||15||In ED afebrile T 96.5, BP 235/92, HR 91, RR 18.
+367-02||16||No evidence papilledema, no focal neurologic signs.
+367-02||17||EKG with new TWI V1-V4, head CT and CXR unremarkable.
+367-02||18||Given hydralazine 10 mg IV x 2, ativan 1 mg IV x1, and lopressor 25 mg PO x1, BP improved to 160's/80's.||DIN FFF hydralazine FFF 1 1||DOSE FFF 10 mg FFF 2 3||RUT FFF iv FFF 4 4||FREQ FFF x 2, FFF 5 6||
+367-02||18||Given hydralazine 10 mg IV x 2, ativan 1 mg IV x1, and lopressor 25 mg PO x1, BP improved to 160's/80's.||DBN FFF ativan FFF 7 7||DOSE FFF 1 mg FFF 8 9||RUT FFF iv FFF 10 10||FREQ FFF x1, FFF 11 11||
+367-02||18||Given hydralazine 10 mg IV x 2, ativan 1 mg IV x1, and lopressor 25 mg PO x1, BP improved to 160's/80's.||DBN FFF lopressor FFF 13 13||DOSE FFF 25 mg FFF 14 15||RUT FFF po FFF 16 16||FREQ FFF x1, FFF 17 17||INDICATION FFF bp FFF 18 18||
+367-02||19||ROS:   No F/C/NS.
+367-02||20||No change in weight/appetite.
+367-02||21||No CP/Palpitations/Orthopnea/PND/LE edema/Claudication.
+367-02||22||No SOB/cough/hemoptysis/wheezing/sore throat/rash.
+367-02||23||No N/V/D/hematochezia/melena.
+367-02||24||No delta MS/LOC.
+367-02||25||No slurring of speech, unilateral weakness.
+367-02||26||No dysuria.  + Right heel pain since jumping to grab her dog 2 weeks ago.
+367-02||27||Otherwise negative in detail.
+367-02||28||PMH:
+367-02||29||HTN
+367-02||30||DM2 - x 5 yrs, no retinopathy, nephropathy, neuropathy, HBA1C 7.2 7/26
+367-02||31||RCC s/p right radical nephrectomy 2079, 4 cm, grade II/IV, confined in capsule
+367-02||32||S/p colonoscopic polypectomy tubular adenoma 2079
+367-02||33||Diverticulosis
+367-02||34||Osteoporosis
+367-02||35||Medications:
+367-02||36||Cozaar 50 mg PO BID (only taking 50 QD)||DBN FFF cozaar FFF 0 0||DOSE FFF 50 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF bid FFF 4 4||FREQ FFF qd) FFF 8 8||
+367-02||37||HCTZ 25 mg PO QD (added 9/82, not taking)||DPN FFF hctz FFF 0 0||DOSE FFF 25 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+367-02||38||Glyburide 5 mg PO QD||DIN FFF glyburide FFF 0 0||DOSE FFF 5 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+367-02||39||Premarin  PO QHS (not taking)||DBN FFF premarin FFF 0 0||RUT FFF po FFF 1 1||FREQ FFF qhs FFF 2 2||
+367-02||40||Fosamax 70 mg PO QWK (not taking)||DBN FFF fosamax FFF 0 0||DOSE FFF 70 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qwk FFF 4 4||
+367-02||41||Ativan 0.5 mg PO QD PRN||DBN FFF ativan FFF 0 0||DOSE FFF 0.5 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||NEC FFF prn FFF 5 5||
+367-02||42||Tums||DBN FFF tums FFF 0 0||
+367-02||43||MVI||DPN FFF mvi FFF 0 0||
+367-02||44||Allergies:   PCN, sulfa    rash, ACE-I    cough, codeine    GI upset||DIN FFF codeine FFF 6 6||
+367-02||45||SH:   Patient lives in Marianna with husband of 54 yrs.
+367-02||46||Used to work at Filenesas a salesperson.
+367-02||47||Son handicapped after hit by drunk driver 9 yrs ago, this remains a significant stressor for her.
+367-02||48||Tob:  Very rare, quit 30 yrs ago
+367-02||49||EtOH:    Used to drink occasional glass wine, none recently
+367-02||50||Illicits:  Negative
+367-02||51||FH: No MI, cancer.
+367-02||52||Brother with    poor circulation   .
+367-02||53||Exam:   VS: T= 98.2 HR= 68 BP= 152/81 RR= 18
+367-02||54||General:  NAD, well appearing
+367-02||55||HEENT: NC/AT,  PERRL, anicteric.
+367-02||56||EOMI.  Fundi poorly visualized.  OP w/ MMM, no erythema or injection.
+367-02||57||Skin: No rashes
+367-02||58||Neck:   Supple, full ROM, no JVD , 2+ carotids w/o bruits, no thyromegaly or nodules, no nodes
+367-02||59||Chest:  CTA&P bilaterally
+367-02||60||CVS:   RRR nl S1 S2, no m/r/g||DIN FFF m/r/g FFF 6 6||
+367-02||61||Abd:   nl BS, soft, non-tender, no HSM, no abdominal bruits
+367-02||62||Extr:   no c/c/e 2+ DP's bilaterally
+367-02||63||Neuro: AAOX3, MS nl, CN II through XII intact, Motor 5/5 UE and LE, Sensory intact to LT, vibration sense distally. F to N nl, RAM nl.
+367-02||64||DATA:
+367-02||65||Chemistry:
+367-02||66||SH  BLOOD          30-Oct-2082 19:57
+367-02||67||Plasma Sodium           133       L              135-145        mmol/L||DIN FFF sodium FFF 1 1||DOSE FFF 133 l FFF 2 3||
+367-02||67||Plasma Sodium           133       L              135-145        mmol/L||DIN FFF sodium FFF 1 1||DOSE FFF 135-145 mmol/l FFF 4 5||
+367-02||68||Plasma Potassium        5.4       H              3.4-4.8        mmol/L||DIN FFF potassium FFF 1 1||DRT FFF 5.4 h FFF 2 3||DOSE FFF 3.4-4.8 mmol/l FFF 4 5||
+367-02||69||Plasma Chloride         98        L              100-108        mmol/L
+367-02||70||Plasma Carbon Dioxide   26.6                     24.0-30.0      mmol/L||DIN FFF carbon dioxide FFF 1 2||DOSE FFF 26.6 FFF 3 3||
+367-02||70||Plasma Carbon Dioxide   26.6                     24.0-30.0      mmol/L||DIN FFF carbon dioxide FFF 1 2||DOSE FFF 24.0-30.0 mmol/l FFF 4 5||
+367-02||71||Calcium                 10.4                     8.5-10.5       mg/dl||DIN FFF calcium FFF 0 0||DOSE FFF 10.4 FFF 1 1||
+367-02||71||Calcium                 10.4                     8.5-10.5       mg/dl||DIN FFF calcium FFF 0 0||DOSE FFF 8.5-10.5 mg/dl FFF 2 3||
+367-02||72||Phosphorus              2.4       L              2.6-4.5        mg/dl
+367-02||73||Magnesium               1.6                      1.4-2.0        meq/L||DIN FFF magnesium FFF 0 0||DOSE FFF 1.6 FFF 1 1||
+367-02||73||Magnesium               1.6                      1.4-2.0        meq/L||DIN FFF magnesium FFF 0 0||DOSE FFF 1.4-2.0 meq/l FFF 2 3||
+367-02||74||Plasma Urea Nitrogen    18                       8-25           mg/dl||DIN FFF nitrogen FFF 2 2||DOSE FFF 18 FFF 3 3||
+367-02||74||Plasma Urea Nitrogen    18                       8-25           mg/dl||DIN FFF nitrogen FFF 2 2||DOSE FFF 8-25 mg/dl FFF 4 5||
+367-02||74||Plasma Urea Nitrogen    18                       8-25           mg/dl||DIN FFF urea FFF 1 1||
+367-02||75||Plasma Creatinine       1.1                      0.6-1.5        mg/dl
+367-02||76||Plasma Glucose          230       H              70-110         mg/dl
+367-02||77||Total Protein           8.2       H              6.0-8.0        g/dl
+367-02||78||Albumin                 4.0                      3.1-4.3        g/dl||DIN FFF albumin FFF 0 0||DOSE FFF 4.0 FFF 1 1||
+367-02||78||Albumin                 4.0                      3.1-4.3        g/dl||DIN FFF albumin FFF 0 0||DOSE FFF 3.1-4.3 g/dl FFF 2 3||
+367-02||79||Globulin                4.2       H              2.6-4.1        g/dl
+367-02||80||Direct Bilirubin        0.2                      0-0.4          mg/dl
+367-02||81||Total Bilirubin         0.4                      0-1.0          mg/dl
+367-02||82||Alkaline Phosphatase    94                       30-100         U/L
+367-02||83||Transaminase-SGPT       27                       7-30           U/L
+367-02||84||Transaminase-SGOT       53        H              9-25           U/L
+367-02||85||Creatine Kinase         108                      40-150         U/L
+367-02||86||SH  BLOOD          30-Oct-2082 23:10
+367-02||87||Creatine Kinase Isoenzy 1.9                      0.0-6.9        ng/ml
+367-02||88||Troponin-T              <0.01                    0.00-0.09      ng/ml
+367-02||89||Creatine Kinase         203       H              40-150         U/L
+367-02||90||Heme:
+367-02||91||SH  BLOOD          30-Oct-2082 19:52
+367-02||92||WBC                     14.2      H              4.5-11.0       th/cmm
+367-02||93||HCT                     42.0                     36.0-46.0      %
+367-02||94||HGB                     14.2                     12.0-16.0      gm/dl
+367-02||95||RBC                     4.78                     4.00-5.20      mil/cmm
+367-02||96||PLT                     220                      150-350        th/cumm
+367-02||97||MCV                     88                       80-100         fl
+367-02||98||MCH                     29.7                     26.0-34.0      pg/rbc
+367-02||99||MCHC                    33.8                     31.0-37.0      g/dl
+367-02||100||RDW                     12.8                     11.5-14.5      %
+367-02||101||DIFFERENTIAL REQUEST    RECEIVED
+367-02||102||Diff Method             Auto
+367-02||103||Poly                    71        H              40-70          %
+367-02||104||Lymphs                  23                       22-44          %
+367-02||105||Monos                   3         L              4-11           %
+367-02||106||EOS                     2                        0-8            %
+367-02||107||Basos                   1                        0-3            %
+367-02||108||Absolute Neuts          10.27     H              1.8-7.7        th/cmm
+367-02||109||Absolute Lymphs         3.20                     1.0-4.8        th/cmm
+367-02||110||Absolute Monos          0.46      H              0.2-0.4        th/cmm
+367-02||111||Absolute EOS            0.22                     0.1-0.3        th/cmm
+367-02||112||Absolute Basos          0.07                     0.0-0.3        th/cmm
+367-02||113||Urinalysis:
+367-02||114||Pending
+367-02||115||Microbiology:
+367-02||116||None
+367-02||117||CXR:
+367-02||118||Official read pending, no infiltrates, CHF

@@ -1,0 +1,63 @@
+283-04	1	Record date: 2129-02-19		 
+283-04	2	Lee County Community Hospital0021 New Hampshire AvenueKigali, NJ  47798497-045-1949		 
+283-04	3	Dennis Holcomb		 
+283-04	4	Medical record #83312060		 
+283-04	5	Date of visit-February 19, 2129		 
+283-04	6			 
+283-04	7	Date of birth: December 14, 2067		 
+283-04	8	Chief complaint: The patient presents today in follow up for his diabetes and coronary disease, as well as a reevaluation of his recent left proximal humeral fracture		 
+283-04	9	Problems		 
+283-04	10	Diabetes mellitus type 2 : insulin requiring		INDICATION FFF diabetes mellitus type 2#3	DIN FFF insulin#5
+283-04	11	H/O left foot infection		 
+283-04	12	Erectile dysfunction		 
+283-04	13	Onychomycosis		 
+283-04	14	Hyperlipidemia		 
+283-04	15	Coronary artery disease		 
+283-04	16	inferior myocardial infarction		 
+283-04	17	H/O Ventricular tachycardia		 
+283-04	18	Obesity		 
+283-04	19	diabetic retinopathy		 
+283-04	20	ischemic cardiomyopathy		 
+283-04	21	low testosterone		DIN FFF testosterone#1
+283-04	22	Polyp of colon		 
+283-04	23	Fracture of humerus		 
+283-04	24	Procedures		 
+283-04	25	Cardiac catheterization		 
+283-04	26	Coronary stent : rca stent, ptca of diagonal		 
+283-04	27	Implanted cardiac defibrillator		 
+283-04	28	Allergies		 
+283-04	29	NKA		 
+283-04	30	Medications		 
+283-04	31	Atenolol 100 MG (100MG TABLET Take 1) PO QAM, to be taken in conjunction with 50 mg tab at qhs #90 Tablet(s)		DIN FFF atenolol#0	DOSE FFF 100mg#2	DOSE FFF 100mg#3	DDF FFF tablet#4	RUT FFF po#7	FREQ FFF qam#8	DOSE FFF 50mg#16	DDF FFF tab#17	FREQ FFF qhs#19	DISA FFF #90#20
+283-04	32	Atenolol 50 MG (50MG TABLET Take 1) PO QHS, to be taken in conjunction with 100 mg qam #90 Tablet(s)		DIN FFF atenolol#0	DOSE FFF 50mg#2	DOSE FFF 50mg#3	DDF FFF tablet#4	RUT FFF po#7	FREQ FFF qhs#8	DOSE FFF 100mg#16	FREQ FFF qam#17	DISA FFF #90#18
+283-04	33	Enteric Coated Aspirin (ASPIRIN Enteric Coated) 81MG TABLET DR Take 2 PO QD #Tablet(s)		DBN FFF enteric coated aspirin#2
+283-04	34	Folate (FOLIC Acid) 1 MG (1MG TABLET Take 1) PO QD #Tablet(s)		DIN FFF folate#0
+283-04	35	Furosemide 40 MG (40MG TABLET Take 1) PO QD #90 Tablet(s)		DIN FFF furosemide#0	DOSE FFF 40mg#2	DOSE FFF 40mg#3	DDF FFF tablet#4	RUT FFF po#7	FREQ FFF qd#8	DISA FFF #90#9
+283-04	36	Insulin Nph Human 40 UNITS SC QD #4 Bottle(s)		DIN FFF insulin nph human#2	DOSEAMT FFF 40 units#4	RUT FFF sc#5	FREQ FFF qd#6	DISA FFF #4#7
+283-04	37	Insulin Regular Human Variable (100 U/ML VIAL ML) SC #2 Bottle(s)		DPN FFF insulin regular human#2	DOSE FFF 100u / ml#5	RUT FFF sc#8	DISA FFF #2#9
+283-04	38	Lisinopril 5 MG (5MG TABLET Take 1) PO QD #90 Tablet(s)		DIN FFF lisinopril#0	DOSE FFF 5mg#2	DOSE FFF 5mg#3	DDF FFF tablet#4	RUT FFF po#7	FREQ FFF qd#8	DISA FFF #90#9
+283-04	39	Mvi (MULTIVITAMINS) 1 TAB PO QD		DPN FFF mvi#0	MDBN FFF multivitamins#1	DOSEAMT FFF 1 tab#3	RUT FFF po#4	FREQ FFF qd#5
+283-04	40	Simvastatin 20 MG (20MG TABLET Take 1) PO QHS #90 Tablet(s)		DIN FFF simvastatin#0	DOSE FFF 20mg#2	DOSE FFF 20mg#3	DDF FFF tablet#4	RUT FFF po#7	FREQ FFF qhs#8	DISA FFF #90#9
+283-04	41	Ultram (TRAMADOL) 50 MG TABLET PO Q4-6H PRN pain, 1-2 tabs before bedtime and as needed, max of 300 mg per day #60 Tablet(s)		DBN FFF ultram#0
+283-04	42	Vitamin B12 (CYANOCOBALAMIN) 250 MCG (250 MCG TABLET Take 1) PO QD #Tablet(s)		DIN FFF vitamin b12#1
+283-04	43	Vitamin E (TOCOPHEROL-DL-ALPHA) 1000 UNIT CAPSULE PO QD #Capsule(s)		DIN FFF vitamin e#1
+283-04	44	Family / Social History		 
+283-04	45	Cerebral Aneurysm:		 
+283-04	46	Relative: Father;		 
+283-04	47	Hypertension:		 
+283-04	48	Cardiac:		 
+283-04	49	Relative: Grandmother, maternal;		 
+283-04	50	Relative: Grandfather, maternal;		 
+283-04	51	Social history: Engaged, does not smoke, drink or use drugs, works as a architect at the Alaska Air Group in Juneau		DIN FFF drugs#9	INDICATION FFF as#11
+283-04	52	History of Present Illness: The patient presents today for follow up of his diabetes and heart disease, and to follow up as well as recent proximal humeral fracture that will not require surgery per his orthopedic specialist.		 
+283-04	53	The patient fell down a couple weeks ago on ice and landed on his left shoulder, sustaining a proximal humeral fracture that is currently well aligned.		 
+283-04	54	The patient was seen by orthopedics at the Boulder County Hospital, he was told to have no work for the next 3 months.		 
+283-04	55	He also received reports no chest pain, PND or orthopnea, he also denies any AICD firing, and reports only occasional low blood sugar reactions.		 
+283-04	56	He has a history of poorly controlled type 2 diabetes, he currently uses NPH insulin 42 units daily with sliding scale to 3 times a day at a maximal 8 units at a time.		DIN FFF nph insulin#14	DOSEAMT FFF 42 units#16	FREQ FFF daily#17	DOSE FFF sliding scale#20	FREQ FFF 3 times a day#25	DOSEAMT FFF 8 units#30
+283-04	57	He reports no polyuria or polydipsia.		 
+283-04	58	His only risk doctor for fracture includes a low testosterone diagnosed about 3 years ago.		INDICATION FFF risk#2	DIN FFF testosterone#9	DRT FFF 3 years#13
+283-04	59	He is currently on no replacement for testosterone, and only recently started calcium and vitamin D after his fracture.		DIN FFF testosterone#7
+283-04	59	He is currently on no replacement for testosterone, and only recently started calcium and vitamin D after his fracture.		DIN FFF calcium#12
+283-04	59	He is currently on no replacement for testosterone, and only recently started calcium and vitamin D after his fracture.		DIN FFF vitamin d#15
+283-04	60	He has not had an eye examination in over a year.		 
+283-04	61	Physical Examination:		 

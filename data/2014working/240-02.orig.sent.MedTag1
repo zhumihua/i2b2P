@@ -1,0 +1,77 @@
+240-02||1||Record date: 2095-12-03
+240-02||2||INTERNAL MEDICINE ASSOCIATES
+240-02||3||YORK CONVALESCENT HOSPITAL
+240-02||4||Reason for visit
+240-02||6||F/U multiple issues||INDICATION FFF f/u FFF 0 0||
+240-02||7||Major Problems
+240-02||8||Benign prostatic hypertrophy||INDICATION FFF benign prostatic hypertrophy FFF 0 2||
+240-02||9||Followed by Urology.
+240-02||10||Remains with suprapubic.
+240-02||11||To have surgery in Jan 96||INDICATION FFF surgery FFF 2 2||
+240-02||12||Emphysema||INDICATION FFF emphysema FFF 0 0||
+240-02||13||Prior tobacco.
+240-02||14||Does get COPD exacerbation from time to time.||INDICATION FFF copd FFF 2 2||
+240-02||15||Element of asthma followed by pulm||INDICATION FFF asthma FFF 2 2||
+240-02||16||Hypertension||INDICATION FFF hypertension FFF 0 0||
+240-02||17||On multiple meds.
+240-02||18||Will increase Lisinopril||DIN FFF lisinopril FFF 2 2||
+240-02||19||Hyperlipidemia||INDICATION FFF hyperlipidemia FFF 0 0||
+240-02||20||On Lipitor||DBN FFF lipitor FFF 1 1||
+240-02||21||Peripheral edema||INDICATION FFF edema FFF 1 1||
+240-02||22||Takes lasix PRN||DBN FFF lasix FFF 1 1||NEC FFF prn FFF 2 2||
+240-02||23||Gastritis||INDICATION FFF gastritis FFF 0 0||
+240-02||24||Not currently an issue
+240-02||25||Coronary artery disease||INDICATION FFF coronary artery disease FFF 0 2||
+240-02||26||Stent placed 3/11/95.
+240-02||27||Followed by Dr.
+240-02||28||Hall (Cardiology). Reports increasing frequency exertional pain||INDICATION FFF pain FFF 6 6||
+240-02||29||Other Problems
+240-02||30||Smoking status: former smoker
+240-02||31||D/C 2060's
+240-02||32||Allergies||INDICATION FFF allergies FFF 0 0||
+240-02||33||No known allergies   He has no known allergies.||INDICATION FFF allergies FFF 2 2||INDICATION FFF allergies. FFF 7 7||
+240-02||34||No known drug allergy||INDICATION FFF drug allergy FFF 2 3||
+240-02||35||Active Medications
+240-02||36||atorvastatin 10 mg po qhs||DIN FFF atorvastatin FFF 0 0||DOSE FFF 10 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qhs FFF 4 4||
+240-02||37||furosemide 20mg po qd||DIN FFF furosemide FFF 0 0||DOSE FFF 20mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qd FFF 3 3||
+240-02||38||isosorbide mononitrate 30 mg sr po qd||DIN FFF isosorbide mononitrate FFF 0 1||DOSE FFF 30 mg FFF 2 3||RUT FFF po FFF 5 5||FREQ FFF qd FFF 6 6||
+240-02||39||K dur 20meq po qd||INDICATION FFF k FFF 0 0||DOSE FFF 20meq FFF 2 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+240-02||40||Levaquin 500 mg PO QD||DBN FFF levaquin FFF 0 0||DOSE FFF 500 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+240-02||41||lisinopril 20 mg po qd||DIN FFF lisinopril FFF 0 0||DOSE FFF 20 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+240-02||42||Plavix 75mg po qd||DBN FFF plavix FFF 0 0||DOSE FFF 75mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qd FFF 3 3||
+240-02||43||Singulair 10 mg qd||DBN FFF singulair FFF 0 0||DOSE FFF 10 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+240-02||44||terazosin 10 mg bid prostate||DIN FFF terazosin FFF 0 0||DOSE FFF 10 mg FFF 1 2||FREQ FFF bid FFF 3 3||INDICATION FFF prostate FFF 4 4||
+240-02||45||Toprol xl 25 mg po qd||DPN FFF toprol xl FFF 0 1||DOSE FFF 25 mg FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF qd FFF 5 5||
+240-02||46||triamcinolone 0.1 % Top BID||DIN FFF triamcinolone FFF 0 0||DOSE FFF 0.1 % FFF 1 2||RUT FFF top FFF 3 3||FREQ FFF bid FFF 4 4||
+240-02||47||Change in therapies and Renewals||INDICATION FFF change FFF 0 0||
+240-02||48||lisinopril 20 mg po qd QTY:90 Refills:3 Start: 9/3/2095||DIN FFF lisinopril FFF 0 0||DOSE FFF 20 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+240-02||49||Past medical history
+240-02||51||See Problem list
+240-02||52||Family history
+240-02||54||4 brothers/4 sisters
+240-02||55||Social history
+240-02||57||Married; retired; 5 kids
+240-02||58||Habits/Risk Screening||INDICATION FFF habits/risk FFF 0 0||
+240-02||59||Smoking status: former smoker  D/C 2060's
+240-02||60||Alcohol use status: none/minimal
+240-02||61||Review of systems
+240-02||63||Otherwise neg in detail
+240-02||64||Physical examination
+240-02||65||Blood pressure 160/58||INDICATION FFF blood pressure FFF 0 1||
+240-02||66||Weight 193.4  lbs||INDICATION FFF weight FFF 0 0||
+240-02||67||Temperature Afebrile||INDICATION FFF temperature FFF 0 0||
+240-02||68||General appearance   Well developed, well nourished, no acute distress.
+240-02||69||Heent   NC/AT, PERRL, EOMI, O/P clear without erythema or exudates.||INDICATION FFF erythema FFF 7 7||
+240-02||70||Nodes   No cervical appreciated.
+240-02||71||Chest   Decreased A/E, scattered wheeze||INDICATION FFF wheeze FFF 4 4||
+240-02||72||Cor   RRR nl s1, s2 without m/r/g.||DIN FFF cor FFF 0 0||DIN FFF m/r/g. FFF 6 6||
+240-02||73||Abdomen   NT/ND, no HSM.
+240-02||74||Normal active bowel sounds.
+240-02||75||Extrem   Trace of peripheral edema bilaterally.||INDICATION FFF edema FFF 4 4||
+240-02||76||Neuro   A&O x3, CN 2-12 grossly intact||FREQ FFF x3, FFF 2 2||INDICATION FFF cn FFF 3 3||
+240-02||77||Selected recent labs
+240-02||79||11/08/95 MCV 84, 11/08/95 PLT 289, 11/08/95 RBC 3.87 L, 11/08/95 HGB 11.7 L, 11/08/95 HCT 32.5 L, 11/08/95 WBC 10.7, 11/08/95 Glucose (Stat Lab) 194 H, 11/08/95 Creatinine (Stat Lab) 1.0, 11/08/95 BUN (Stat Lab) 22, 11/08/95 Chloride (Stat Lab) 107, 09/04/95 Ferritin 76, 09/04/95 Folic Acid 11.1, 09/04/95 Iron Binding Capacity 332, 09/04/95 Iron 31 L, 06/02/95 PSA, Monitor 11.3, 04/21/95 Low Density Lipoprotein 53, 04/21/95 High Density Lipoprotein 41, 04/21/95 Triglycerides 55, 04/21/95 Cholesterol 105, 03/12/95 Thyroid Stimulating Hormone 1.94  06/02/95 PSA, Monitor 11.3||DOSE FFF 3.87 l, FFF 8 9||DOSE FFF 11.7 l, FFF 12 13||DOSE FFF 32.5 l, FFF 16 17||TOD FFF (stat FFF 23 23||DRT FFF 194 h, FFF 25 26||INDICATION FFF creatinine FFF 28 28||TOD FFF (stat FFF 29 29||TOD FFF (stat FFF 34 34||TOD FFF (stat FFF 39 39||DOSE FFF 76, FFF 44 44||DIN FFF folic acid FFF 46 47||DOSE FFF 11.1, FFF 48 48||DIN FFF iron FFF 50 50||DIN FFF iron FFF 55 55||DOSE FFF 31 l, FFF 56 57||INDICATION FFF psa, FFF 59 59||DIN FFF triglycerides FFF 73 73||DOSE FFF 55, FFF 74 74||INDICATION FFF cholesterol FFF 76 76||DIN FFF thyroid stimulating hormone FFF 79 81||DOSE FFF 1.94 FFF 82 82||INDICATION FFF psa, FFF 84 84||
+240-02||80||Assessment and plan
+240-02||82||1) CAD - Stable at present: Continue meds||INDICATION FFF cad FFF 1 1||
+240-02||83||2) HTN - Poor control.||INDICATION FFF htn FFF 1 1||
+240-02||84||Increase Lisinopril 3) Cholesterol - last profile 4/95 (LDL at goal)||DIN FFF lisinopril FFF 1 1||DOSE FFF 3) FFF 2 2||INDICATION FFF cholesterol FFF 3 3||INDICATION FFF (ldl FFF 8 8||

@@ -1,0 +1,77 @@
+278-05	1	Record date: 2097-08-06		 
+278-05	2	Reason for Visit		 
+278-05	3	74 yo man with Type 2 DM x 20 yrs, here for f/u -- no longer eligible at RSH.		 
+278-05	4	History of Present Illness		 
+278-05	5	75 yo man with T2 DM and mild dementia here for f/u; glycemia has worsened over the past year.		 
+278-05	6	He checks his FS about weekly.		 
+278-05	7	His FS was174 yesterday morning.		 
+278-05	8	He has had DM x 20 yrs, now on glipizide 2.5 mg po qd for several years with worsening HbA1C, up to 7.6%.		DIN FFF glipizide#9	DOSE FFF 2.5mg#11	RUT FFF po#12	FREQ FFF qd#13	DOSE FFF 7.6%#22
+278-05	9	His diabetes has improved since he lost about 40 lbs by dieting several years ago (max wt 235, today 186).		 
+278-05	10	He denies sx of hyperglycemia.		 
+278-05	11	He has no hypoglycemia.		 
+278-05	12	He still exercises and eats well.		 
+278-05	13	Podiatry now here.		 
+278-05	14	Optho: hx of retinal detachment.		DIN FFF retinal#3
+278-05	15	Needs optho here now that no longer at the RSH.		 
+278-05	16	No microalbuminuria proteinuria.		 
+278-05	17	Review of Systems		 
+278-05	18	Allergic/Immunologic, Constitutional, Psychiatric, Eyes, Ears/Nose/Throat, Cardiovascular, Respiratory, Hematologic/Lymphatic, Gastrointestinal, Genitourinary, Musculoskeletal, Integumentary, Neurological, and Endocrine systems reviewed and negative except as otherwise noted.		 
+278-05	19	Problems		 
+278-05	20	Diabetes mellitus		 
+278-05	21	Coronary artery disease		 
+278-05	22	Iritis    : and corneal dystrophy, followed at the RSH		 
+278-05	23	Peripheral neuropathy    : pain relieved on amitriptylene; sensation and pulses preserved		 
+278-05	24	Medications		 
+278-05	25	GLIPIZIDE   5MG TABLET take 0.5 Tablet(s) PO QD x 90 days		DIN FFF glipizide#0	DOSE FFF 5mg#1	DDF FFF tablet#2	DOSEAMT FFF 0.5 tablet#5	RUT FFF po#6	FREQ FFF qd#7	DRT FFF x 90 days#10
+278-05	26	LISINOPRIL   5MG TABLET take 1 Tablet(s) PO QD x 90 days		DIN FFF lisinopril#0	DOSE FFF 5mg#1	DDF FFF tablet#2	DOSEAMT FFF 1 tablet#5	RUT FFF po#6	FREQ FFF qd#7	DRT FFF x 90 days#10
+278-05	27	Nitroglycerin 1/150 (0.4 Mg)   1 TAB SL PRN  , q 5 min x 3		DIN FFF nitroglycerin 1/150 ( 0.4 mg )#3	DOSEAMT FFF 1 tab#5	RUT FFF sl#6	NEC FFF prn#7	FREQ FFF q 5 min#11	FREQ FFF x 3#13
+278-05	28	Metoprolol Tartrate   50MG TABLET take 1 Tablet(s) PO BID x 90 days		DIN FFF metoprolol tartrate#1	DOSE FFF 50mg#2	DDF FFF tablet#3	DOSEAMT FFF 1 tablet#6	RUT FFF po#7	FREQ FFF bid#8	DRT FFF x 90 days#11
+278-05	29	ATORVASTATIN   10MG TABLET take 1 Tablet(s) PO QD x 90 days		DIN FFF atorvastatin#0	DOSE FFF 10mg#1	DDF FFF tablet#2	DOSEAMT FFF 1 tablet#5	RUT FFF po#6	FREQ FFF qd#7	DRT FFF x 90 days#10
+278-05	30	Asa (ACETYLSALICYLIC Acid)   81MG TABLET take 1 Tablet(s) PO QD		DIN FFF asa#0	MDBN FFF acetylsalicylic acid#2	DOSE FFF 81mg#3	DDF FFF tablet#4	DOSEAMT FFF 1 tablet#7	RUT FFF po#8	FREQ FFF qd#9
+278-05	31	Muro 128   1 DROP OU qhs		DBN FFF muro 128#1	DOSEAMT FFF 1 drop#3	RUT FFF ou#4	FREQ FFF qhs#5
+278-05	32	Amitriptyline Hcl   25MG TABLET take 1 Tablet(s) PO QHS x 90 days		DIN FFF amitriptyline hcl#1	DOSE FFF 25mg#2	DDF FFF tablet#3	DOSEAMT FFF 1 tablet#6	RUT FFF po#7	FREQ FFF qhs#8	DRT FFF x 90 days#11
+278-05	33	Mvi (MULTIVITAMINS)   1 TAB PO QD		DPN FFF mvi#0	MDBN FFF multivitamins#1	DOSEAMT FFF 1 tab#3	RUT FFF po#4	FREQ FFF qd#5
+278-05	34	Caltrate + D (CALCIUM Carbonate 1500 Mg (600 Mg Elem Ca)/ Vit D 200 Iu)   1 TAB PO BID		DBN FFF caltrate#0	MDBN FFF calcium carbonate#6	DOSE FFF 600mg#8	INDICATION FFF ca#10
+278-05	34	Caltrate + D (CALCIUM Carbonate 1500 Mg (600 Mg Elem Ca)/ Vit D 200 Iu)   1 TAB PO BID		DIN FFF vit d#12	DOSE FFF 200iu#14	DOSEAMT FFF 1 tab#16	RUT FFF po#17	FREQ FFF bid#18
+278-05	35	OXYCODONE   5 MG (5MG TABLET take 1) PO Q4H PRN pain , Please do not drink and/or drive while taking narcotics.		DIN FFF oxycodone#0	DOSE FFF 5mg#2	DOSE FFF 5mg#3	DDF FFF tablet#4	RUT FFF po#7	FREQ FFF q4h#8	NEC FFF prn#9	INDICATION FFF pain#10	DRT FFF while#18
+278-05	35	OXYCODONE   5 MG (5MG TABLET take 1) PO Q4H PRN pain , Please do not drink and/or drive while taking narcotics.		DIN FFF narcotics#20
+278-05	36	Colace (DOCUSATE Sodium)   100 MG (100MG TABLET take 1) PO BID x 14 days		DBN FFF colace#0
+278-05	37	Allergies		 
+278-05	38	ACETAMINOPHEN    - Rash,		DIN FFF acetaminophen#0
+278-05	39	Vital Signs		 
+278-05	40	BLOOD PRESSURE   130/72		 
+278-05	41	PULSE   68		 
+278-05	42	HEIGHT   70 in		 
+278-05	43	WEIGHT   198 lb		 
+278-05	44	BMI   28.5		 
+278-05	45	Physical Exam		 
+278-05	46	General Appearance		 
+278-05	47	Well appearing elderly male, NAD		 
+278-05	48	HEENT		 
+278-05	49	No scleral icterus.		 
+278-05	50	Fundi background retinop		 
+278-05	51	Neck		 
+278-05	52	No thyroid goiter.		 
+278-05	53	No jugular venous distention.		 
+278-05	54	Chest		 
+278-05	55	Clear to auscultation and percussion		 
+278-05	56	Cor/Cardiac		DIN FFF cor#0
+278-05	57	Regular rate and rhythm, no murmurs, rubs, or gallops		 
+278-05	58	Skin		 
+278-05	59	No focal skin breakdown or ulceration in distal lower extremities		 
+278-05	60	Extremity		 
+278-05	61	Distal dorsalis pedis and posterior tibialis pulses intact.		 
+278-05	62	No clubbing, cyanosis, edema		 
+278-05	63	Neurological		 
+278-05	64	Sensation to  Semmes-Weistein monofilament intact.		 
+278-05	65	Decreased vibratory sense at toes.		 
+278-05	66	Results		 
+278-05	67	06/17/2097 CHOL 128 [1],  TRIG 96,  HDL 45,  LDL 64 [2],  CHOL/HDL 2.8 [3]		 
+278-05	68	06/17/2097 UCREAT 0.93,  MALB 0.4,  MALB/CRE 4.3		 
+278-05	69	06/17/2097 HGBA1C 7.60 (H),  MEAN-GLU 167,  CCOM Fasting		 
+278-05	70	Assessment		 
+278-05	71	73 yo man with type 2 DM and CAD, with worsening glycemic control over the last several months.		 
+278-05	72	Nl bone density despite kyphosis.		 
+278-05	73	Plan		 
+278-05	74	1. Diabetes		 
+278-05	75	--Glycemia: I estimate his Cr clearance to be 73 cc/min.		 

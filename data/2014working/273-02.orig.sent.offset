@@ -1,0 +1,17 @@
+273-02	3	0	Novolog 3-7 tid 683-51-28	novolog FFF 0 0	3-7 FFF 1 1	 FFF 	tid FFF 2 2	 FFF 	 FFF 	narrative
+273-02	4	0	Lantus 19-20 at hs Xuan, Wendy	lantus FFF 0 0	19-20 FFF 1 1	 FFF 	at hs FFF 2 3	 FFF 	 FFF 	narrative
+273-02	5	0	Neoral 100/100 mg bid	neoral FFF 0 0	100/100 mg FFF 1 2	 FFF 	bid FFF 3 3	 FFF 	 FFF 	narrative
+273-02	6	0	CellCept 1000 mg bid	cellcept FFF 0 0	1000 mg FFF 1 2	 FFF 	bid FFF 3 3	 FFF 	 FFF 	narrative
+273-02	7	0	Lopressor 12.5 mg bid	lopressor FFF 0 0	12.5 mg FFF 1 2	 FFF 	bid FFF 3 3	 FFF 	 FFF 	narrative
+273-02	8	0	Captopril 12.5 mg bid	captopril FFF 0 0	12.5 mg FFF 1 2	 FFF 	bid FFF 3 3	 FFF 	 FFF 	narrative
+273-02	9	0	Lipitor 10 mg qd	lipitor FFF 0 0	10 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+273-02	10	0	Neurontin 600/1200 mg bid	neurontin FFF 0 0	600/1200 mg FFF 1 2	 FFF 	bid FFF 3 3	 FFF 	 FFF 	narrative
+273-02	11	0	Tums 200 mg ii bid (often forgets)	tums FFF 0 0	200 mg FFF 1 2	 FFF 	bid FFF 4 4	 FFF 	 FFF 	narrative
+273-02	12	0	Prilosec 20 mg bid	prilosec FFF 0 0	20 mg FFF 1 2	 FFF 	bid FFF 3 3	 FFF 	 FFF 	narrative
+273-02	13	0	MVI i bid	mvi FFF 0 0	 FFF 	 FFF 	bid FFF 2 2	 FFF 	 FFF 	narrative
+273-02	14	0	ASA 325 mg qd	asa FFF 0 0	325 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+273-02	15	0	Quinine Sulfate 260 mg at hs	quinine sulfate FFF 0 1	260 mg FFF 2 3	 FFF 	at hs FFF 4 5	 FFF 	 FFF 	narrative
+273-02	21	0	Has not tried any analgesics, even acetaminophen.	analgesics, FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+273-02	21	0	Has not tried any analgesics, even acetaminophen.	acetaminophen. FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+273-02	35	0	Neuropathy: Not consistent with taking the Neurontin, and notes it she misses it.	neurontin, FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+273-02	44	0	Jack has had a UC flair and several other problems recently.	flair FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

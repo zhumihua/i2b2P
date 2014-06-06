@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2083-04-03
+
+
+Beaumont Hospital Physician Group
+090 Crowley Avenue                                    Rhodes, Yajaira
+Rutland, FL 94265                            97627182
+(153) 636-7011                                           04/03/83
+(584) 728-8734
+
+SUBJECTIVE:  The patient returns having been in Maine for
+the winter in the past five months.  Her husband visited
+ever three weeks or so.  She is walking somewhat better with
+less pain but moves very slowly.  She says that for the past
+two weeks she first had some substernal pressure which moved
+down into her abdomen and now instead of having one bowel
+movement every one or two weeks she is having a bowel
+movement three times a week which is formed and not bloody. 
+ She put herself on Pepto-Bismol and is gradually getting
+better.
+
+She has not had any chest pain, tachycardia, palpitations,
+cough or hemoptysis.  She has no visual signs.  She has not
+been seen by the ophthalmologist recently.  Her hearing is
+good.  She has mammograms yearly.  She sees her gynecologist
+on a yearly basis, Dr. Giles, having changed from Dr. Godfrey.
+ She is not sexually active.  
+
+She is not dieting and has not lost any weight.  Her back
+pain is somewhat better.  
+
+MEDICATIONS:  She is on the following medications:  
+1.  Lipitor 20 mg q.d. 
+2.  Glynase 1.5 mg b.i.d. 
+3.  Avandia 4 mg q.a.m. 
+4.  Trandate 100 mg q.d. 
+5.  Tegretol 300 mg in the a.m. and 200 the evening (changed
+to 200 mg b.i.d.).  
+6.  Neurontin 200 mg b.i.d. 
+7.  Premarin 0.625 mg 30 days a month.  
+8.  Provera 5 mg 12 days a month.  
+9.  Enteric coated aspirin 81 mg q.d.
+10. Calcium 1200 mg q.d. 
+
+REVIEW OF SYSTEMS:  Her diabetes has been poorly regulated
+and hopefully the Avandia will make her feel better.  She
+states that she takes the Avandia in the morning and she
+feels very weak at lunchtime such that she has to get an
+orange juice.  She says that her blood sugar has dropped but
+when she checks it, it has been around 100 mg%  and I
+explained to her that it is a normal blood sugar but it may
+be that the drop causes her to have symptoms.
+
+PHYSICAL EXAMINATION: She weighs 192 lbs stripped which is a
+weight gain for her.  Her blood pressure is 122/76 in the
+right arm sitting with a wide cuff.  She appears as a well
+developed, pleasant white female, grossly overweight, moving
+slowly and can only get up on the examining table with help
+because of her back pain.  There is no icterus, cyanosis or
+edema.  The pupils are round, reactive and equal and react
+equally to light and accommodation.  Nose and throat
+examination is unremarkable.  Neck veins are flat.  Carotids
+are 2+ and equal and without bruit.  Lungs are clear to P&A.
+ Breasts reveal no masses or discharge.  The heart is not
+enlarged.  There is a regular sinus rhythm and no
+significant murmurs.  S1 and S2 are of normal intensity. 
+Liver and spleen are not felt.  Bowel sounds are normal. 
+There are no abdominal masses or tenderness.  This is a
+female escutcheon.  Rectal was deferred.  She has fair
+peripheral pulses and decreased vibration sense in her feet.
+
+IMPRESSION:
+1.  Diabetes mellitus, poorly regulated.  Will check
+glycohemoglobin today.  
+2.  Diabetic neuropathy.  
+3.  L2-L3 disk with fusion.  
+4.  Hypercholesterolemia on Lipitor.
+5.  Weight management problem.
+
+
+______________________________
+Brett F. Rutherford, M.D.
+
+
+eScription document:6-015285 DOeScription
+
+DD: 04/03/83
+DT: 04/03/83
+DV: 04/03/83
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC2" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC5" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC15" time="after DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC7" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC8" time="before DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC12" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC13" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC17" time="during DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC19" time="after DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC20" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC21" time="during DCT" type1="beta blocker" type2=""/>
+    <FAMILY_HIST id="DOC14" indicator="not present"/>
+    <SMOKER id="DOC10" status="unknown"/>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC11" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC22" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

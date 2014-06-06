@@ -1,0 +1,78 @@
+353-01||1||Record date: 2078-10-25
+353-01||5||October 25, 2078
+353-01||7||Office Visit
+353-01||9||Re: Larry Lockwood
+353-01||10||MPC# 590-33-20-3
+353-01||13||This is a 56 year old morbidly obese male who was discharged recently from  the
+353-01||14||Marshalltown Pond Clinic who is here for follow up of his newly diagnosed  diabetes mellitus.
+353-01||15||He was seen in the emergency room on 10/21 with the  complaint of urinary frequency, hesitancy, and generally not feeling well.
+353-01||16||Prior to that, he had been treated with antibiotics by his primary care  physician for a urinary tract infection with Bactrim and then ampicillin but  he did not get better.||DIN FFF antibiotics FFF 8 8||INDICATION FFF a urinary tract infection FFF 15 18||
+353-01||16||Prior to that, he had been treated with antibiotics by his primary care  physician for a urinary tract infection with Bactrim and then ampicillin but  he did not get better.||DBN FFF bactrim FFF 20 20||
+353-01||16||Prior to that, he had been treated with antibiotics by his primary care  physician for a urinary tract infection with Bactrim and then ampicillin but  he did not get better.||DIN FFF ampicillin FFF 23 23||
+353-01||17||He went to the emergency room and was admitted to the  hospital because his blood sugar was in the 400s and he was diagnosed with  diabetes at that time.
+353-01||18||He was discharged on 10/22/78 on insulin NPH 30 units  in||DIN FFF insulin nph FFF 6 7||DOSEAMT FFF 30 units FFF 8 9||
+353-01||19||the morning and 15 units in the PM and was advised to follow up in the  outpatient clinic today.
+353-01||20||Since discharge, his blood sugars have been in the  200s.
+353-01||21||This afternoon, it is 242 2 hours after his last meal.
+353-01||22||Past Medical History: He has a history of benign prostatic hypertrophy.
+353-01||23||He  sees a urologist and they are discussing a new procedure for the same.
+353-01||24||He  cannot have ______ because of his morbid obesity, he cannot be positioned on  the table for the same.
+353-01||25||He also gives a history of sleep apnea.
+353-01||26||No  hypertension.
+353-01||27||He does have a history of gastric reflux and obesity.
+353-01||28||Past Surgical History: He has had bilateral hip surgery for slipped ______ as  an adolescent.
+353-01||30||Review of Systems: No chest pain.
+353-01||31||Positive review of systems for UTI symptoms  with increased frequency and hesitancy.
+353-01||32||Other review of systems-he has  arthritis generalized with more pain in the hip.
+353-01||33||Also has acid reflux.
+353-01||34||Family History: Family history of obesity and hypertension but no diabetes or  coronary artery disease.
+353-01||36||Social History: He is a smoker but is trying to quit.
+353-01||37||He smokes less than one  pack a day.
+353-01||38||He is a manager and is on disability.
+353-01||39||He has 2 children and is  separated.
+353-01||40||Physical Examination: He is morbidly obese and weighs about 405 pounds.
+353-01||41||Blood  pressure 110/88. Pulse 84.
+353-01||42||Skin exam-there is evidence of acanthosis  nigricans.
+353-01||43||He has gynecomastia.
+353-01||44||Head and neck exam-atraumatic, normocephalic.
+353-01||45||Extraocular movements are intact.
+353-01||46||Pupils equal, round and reactive to light.
+353-01||47||Cardiovascular system exam-S1, S2 heard.
+353-01||48||No S3, S4.
+353-01||49||Respiratory system-clear  to auscultation and percussion.
+353-01||50||No added sounds.
+353-01||51||Abdomen-obese, very  difficult  to examine for masses or hepatosplenomegaly.
+353-01||52||On limited exam, there are no  masses palpable.
+353-01||53||CNS-cranial nerves II-XII intact.
+353-01||54||Examination of feet with  monofilament is negative as he is not able to feel the monofilament in both  feet.
+353-01||55||This impairment is greater on the right foot than left.
+353-01||56||Labs done so far:  hemoglobin A1c of 14, glucose on 10/21 422, creatinine 1.7,
+353-01||57||BUN 22, sodium 132, potassium 4.5, chloride 97, liver function tests with ALT||DIN FFF sodium FFF 2 2||DOSE FFF 132, FFF 3 3||
+353-01||57||BUN 22, sodium 132, potassium 4.5, chloride 97, liver function tests with ALT||DIN FFF potassium FFF 4 4||DOSE FFF 4.5, FFF 5 5||INDICATION FFF liver FFF 8 8||
+353-01||58||10, AST 10, alkaline phosphatase 126, bilirubin 0.4, total protein 8.1,
+353-01||59||albumin 3.6, globulin 4.5, calcium 9.5, hemoglobin 15.||DIN FFF albumin FFF 0 0||DOSE FFF 3.6, FFF 1 1||
+353-01||59||albumin 3.6, globulin 4.5, calcium 9.5, hemoglobin 15.||DIN FFF calcium FFF 4 4||DOSE FFF 9.5, FFF 5 5||
+353-01||61||Assessment and Plan: 1.
+353-01||62||New onset diabetes mellitus.
+353-01||63||The patient is morbidly  obese, has features of insulin resistance.||INDICATION FFF obese, FFF 4 4||DIN FFF insulin FFF 8 8||
+353-01||64||His blood sugars today are better  since admission.
+353-01||65||He is on insulin twice a day.||DIN FFF insulin FFF 3 3||FREQ FFF twice a day. FFF 4 6||
+353-01||66||He checks his blood sugars 3  times a day and since discharge, they have been around 240 to 300.
+353-01||67||The  patient  is not a good candidate for metformin with his last creatinine of 1.7.||DIN FFF metformin FFF 8 8||INDICATION FFF creatinine FFF 12 12||
+353-01||68||He may  be a candidate for Avandia.||DBN FFF avandia. FFF 6 6||
+353-01||69||At the present time, his alkaline phosphatase is  mildly elevated but his ALT and AST are normal.
+353-01||70||He has difficulty coming to  the clinic and would prefer to have his visiting nurse and nutritionist  communicate with the clinic physicians to adjust the dose of his insulin and  also have his blood tests done locally rather than here in the clinic.||DIN FFF insulin FFF 28 28||
+353-01||71||We  will
+353-01||72||increase his NPH to 40 units in the morning and 26 units in the PM.||DBN FFF nph FFF 2 2||DOSEAMT FFF 40 units FFF 4 5||TOD FFF in the morning FFF 6 8||
+353-01||72||increase his NPH to 40 units in the morning and 26 units in the PM.||DBN FFF nph FFF 2 2||DOSEAMT FFF 26 units FFF 10 11||TOD FFF pm. FFF 14 14||
+353-01||73||We will  work with the visiting nurse and nutritionist to adjust the insulin dose and  also order lab tests.
+353-01||74||We will repeat his hemoglobin A1c in a month and also  repeat his creatinine and liver function tests at that time to see if he may  be a candidate for Avandia. I advised the patient to return to the clinic in||DBN FFF avandia. FFF 30 30||
+353-01||75||6
+353-01||76||months and also for him to send the blood sugar results every week until his  blood sugars are under better control.
+353-01||78||____________________________
+353-01||79||Dr. Xan Dunn
+353-01||81||XD:ullmann
+353-01||83||DD: 10.25.78/Rec=d 11.04.78
+353-01||84||DT: 12.03.78
+353-01||85||DV: 10.25.78
+353-01||89||******** Not reviewed by Attending Physician ********

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2083-04-13
+
+
+
+04/13/2083
+
+
+Norma Umali, M.D.
+Eldora Nursing Rehab Center
+95 Harris Road
+Long Beach, VT 26289
+
+Dear Dr. Umali:
+
+Just a quick note to let you know that I saw Larry Lockwood in followup today.  Mr. Lockwood has been generally feeling well and has no complaints except ongoing left lower extremity edema in the foot only, which is unchanged times many years.  He has otherwise been feeling relatively well.  He continues to be followed by Dr. Aguilera who prefers to take a conservative approach given the difficulty of performing a bone marrow biopsy and low levels of IgA paraprotein.
+
+Review of systems is negative except as above.  Fingersticks remain well controlled in the range of 80-150s.
+
+Interval family, social, and medical history are unchanged.
+
+Current Medications:  Include lisinopril 20 once a day, Proscar 5 once a day, Flomax, aspirin 325 once a day, atenolol 25 once a day, trazodone, folate, MVI, saw palmetto, glucosamine, selenium, vitamin C and vitamin D, Lipitor 20 mg once a day, and Plavix 75 once a day.
+
+Physical Exam:  Well-developed, obese in no apparent distress.  BP 169/83 and pulse 58.  Neck:  Supple without JVP or lymphadenopathy.  Chest:  Clear to auscultation and percussion.  Cardiovascular exam:  S1 and S2 without murmurs, rubs, or gallops.  Extremities:  No edema, warm.
+
+Laboratory Data:  Recent BUN and creatinine 18 and 1.5.  Repeat labs will be done when he comes in next week for his routine labs at the SCH.  Skeletal films are pending.
+
+Impression:  Mr. Lockwood chronic kidney disease appears to be stable, as I have mentioned before, he most likely has some underlying diabetic and/or hypertensive nephropathy, but I continue to wonder whether the IgA paraprotein is playing a role in the increasing proteinuria and mild CKD. Chemotherapy would be indicated if that were the case..  He is being followed conservatively by Dr. Aguilera thus far in the absence of defniitive data.  I have ordered skull and hip films today to look for evidence of myeloma-related bone disease, which if present could distinguish  more significant disease from MGUS.  I  agree with Dr. Altman  that in the absence of definitive data,as long as creatinine is improving and urinary protein levels remain stable  the current approach is  reasonable.  However, we should have a low threshold for pushing Mr. Lockwood to having either a renal or more preferably bone marrow biopsy.
+
+In the meantime because he continues to have protein and albumin in his urine, I have initiated dual angiotensin blockade and have added Cozaar 25 mg a day to his regimen.  He will follow up with me in four months and will have labs next week at the SCH.  Thank you for referring this patient.
+
+Sincerely,
+
+
+______________________________
+Herbert Nunez, M.D., M.Sc.
+
+
+
+
+
+eScription document:8-3687892 CSSten Tel
+
+CC: David Aguilera
+Southside Community Hospital
+8 Foster Court
+Fairview, VT 85147
+
+
+DD: 04/13/83
+DT: 04/14/83
+DV: 04/13/83
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC4" time="after DCT" indicator="mention"/>
+    <OBESE id="DOC16" time="before DCT" indicator="mention"/>
+    <OBESE id="DOC20" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC13" time="after DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC14" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC15" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC19" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC21" time="before DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC22" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC23" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="high bp"/>
+    <FAMILY_HIST id="DOC17" indicator="not present"/>
+    <SMOKER id="DOC11" status="unknown"/>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC12" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC24" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

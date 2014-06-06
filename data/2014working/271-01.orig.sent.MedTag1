@@ -1,0 +1,100 @@
+271-01||1||Record date: 2100-05-19
+271-01||2||Date:  5/19/00, 1100 am||TOD FFF 1100 am FFF 2 3||
+271-01||3||Medical Record Number:  9125902, Jorgenson, Andrew.
+271-01||4||Procedure:  The patient is a 69 year old male scheduled for a right femoral BPG.||DRT FFF 69 year FFF 5 6||
+271-01||5||Surgery is to be performed on 6/02/00, by Dr.||INDICATION FFF surgery FFF 0 0||
+271-01||6||Ximenez.
+271-01||7||Chief Complaint & Present Illness: Patient has a history of diabetic peripheral vascular disease.||INDICATION FFF peripheral vascular disease. FFF 11 13||
+271-01||8||He has bilateral claudication after 1 block.
+271-01||9||Claudication has been present for many years, but has become worse since summer 2099.
+271-01||10||Initally he was planning on surgery, but had MI 6/00, and underwent CABG 7/99.||INDICATION FFF surgery, FFF 5 5||INDICATION FFF mi FFF 8 8||
+271-01||11||He developed lesions to the top of his 4th toes bilaterally 1/00.||RUT FFF top FFF 5 5||
+271-01||12||Lesions became worse and were treated with "cream" which have since improved.
+271-01||13||The lesions are healing, but toes remain painful.||INDICATION FFF painful. FFF 7 7||
+271-01||14||Claudication has not improved since CABG.
+271-01||15||Past Medical History:
+271-01||16||1. HTN||INDICATION FFF htn FFF 1 1||
+271-01||17||2. Non insulin dependent diabetes||INDICATION FFF non insulin dependent diabetes FFF 1 4||
+271-01||18||3. Rheumatoid arthritis -affects shoulders, arms, hips, neck||INDICATION FFF rheumatoid arthritis FFF 1 2||
+271-01||19||4. CAD s/p CABG 7/99, s/p MI 7/04/99||INDICATION FFF cad FFF 1 1||INDICATION FFF mi FFF 6 6||
+271-01||20||Past Surgical History:
+271-01||21||1. CABG x3 7/10/99||FREQ FFF x3 FFF 2 2||
+271-01||22||2. Stent placement 2094
+271-01||23||3. Esopahgeal hiatal hernia with Schotzsky ring||INDICATION FFF hiatal hernia FFF 2 3||
+271-01||24||4. Double hernia 2089
+271-01||25||5. Appendectomy 2060
+271-01||26||6. Lithotripsy 1/99, 4/99 (calcific stones)
+271-01||27||7. Cataract surgery 4/00||INDICATION FFF surgery FFF 2 2||
+271-01||28||Denies problems with general anesthesia
+271-01||29||Family History: There is no family history if adverse reactions to general  anesthesia.
+271-01||30||Medications: prednisone 5 mg qam, 4 mg qpm, plaquenil 200 mg bid, folic 1 mg/qam, methotrexate q Wednesday 12.5 mg, fosamax 70 mg (Sat), metformin 5/500 mg bid, actos 45 mg qam, plavix 75 mg/d (stopped yesterday), lopressor 50 mg bid, protonix 40 mg qhs, provachol 20 mg qhs, ASA 325 mg/qam (stopped yesterday), multivitamin, colace||DIN FFF prednisone FFF 1 1||DOSE FFF 5 mg FFF 2 3||FREQ FFF qam, FFF 4 4||DOSE FFF 4 mg FFF 5 6||FREQ FFF qpm, FFF 7 7||DBN FFF plaquenil FFF 8 8||DOSE FFF 200 mg FFF 9 10||FREQ FFF bid, FFF 11 11||DOSE FFF 1 mg/qam, FFF 13 14||FREQ FFF mg/qam, FFF 14 14||DIN FFF methotrexate FFF 15 15||FREQ FFF wednesday FFF 17 17||DOSE FFF 12.5 mg, FFF 18 19||DBN FFF fosamax FFF 20 20||DOSE FFF 70 mg FFF 21 22||DIN FFF metformin FFF 24 24||DOSE FFF 5/500 mg FFF 25 26||FREQ FFF bid, FFF 27 27||DBN FFF actos FFF 28 28||DOSE FFF 45 mg FFF 29 30||FREQ FFF qam, FFF 31 31||DBN FFF plavix FFF 32 32||DOSE FFF 75 mg/d FFF 33 34||DBN FFF lopressor FFF 37 37||DOSE FFF 50 mg FFF 38 39||FREQ FFF bid, FFF 40 40||DBN FFF protonix FFF 41 41||DOSE FFF 40 mg FFF 42 43||FREQ FFF qhs, FFF 44 44||DOSE FFF 20 mg FFF 46 47||FREQ FFF qhs, FFF 48 48||DIN FFF asa FFF 49 49||DOSE FFF 325 mg/qam FFF 50 51||FREQ FFF mg/qam FFF 51 51||DBN FFF multivitamin, FFF 54 54||DBN FFF colace FFF 55 55||
+271-01||31||Allergies: glucovance - hypoglycemia/hyperglycemia||INDICATION FFF allergies: FFF 0 0||INDICATION FFF hypoglycemia/hyperglycemia FFF 3 3||INDICATION FFF hypoglycemia/hyperglycemia FFF 3 3||
+271-01||32||Social History:
+271-01||33||Smoking: quit 2091, smoked 1ppd/30 years||DRT FFF 1ppd/30 years FFF 4 5||
+271-01||34||Alcohol use: 3-4 beers/d until 8 years ago for 30 years||DRT FFF until FFF 4 4||DRT FFF 8 years FFF 5 6||DRT FFF 30 years FFF 9 10||
+271-01||35||Substance abuse: none
+271-01||36||Allergen Exposure: (transfusion/pregnancy): none in last 3 months.||INDICATION FFF (transfusion/pregnancy): FFF 2 2||DRT FFF 3 months. FFF 6 7||
+271-01||37||Exercise: cardiac rehab until 11/99, can carry 13 lb dog from basement to upper floor ( 2 flights) without SOB||DRT FFF until FFF 3 3||INDICATION FFF sob FFF 19 19||
+271-01||38||Occupation: retired
+271-01||39||Marital Status: married
+271-01||40||Review of Systems:
+271-01||41||General: Independent with ADL, well developed, well nourished.
+271-01||42||Lost 30 lb prior to CABG, has regained 15 lb
+271-01||43||HEENT:History of cataract surgery.||INDICATION FFF surgery. FFF 3 3||
+271-01||44||No history of head injury, glaucoma,  eye redness, eye/nose/throat pain, earaches, ear infections, nose bleeds, excessive tearing, eye/ear discharge, vision changes (including double vision, spot, specks, or flashing lights), tinnitus, vertigo, motion sickness, sinus infection, or hearing loss.||INDICATION FFF head injury, FFF 3 4||INDICATION FFF glaucoma, FFF 5 5||RUT FFF eye FFF 6 6||INDICATION FFF redness, FFF 7 7||RUT FFF eye/nose/throat FFF 8 8||INDICATION FFF eye/nose/throat pain, FFF 8 9||INDICATION FFF earaches, FFF 10 10||RUT FFF ear FFF 11 11||INDICATION FFF infections, FFF 12 12||RUT FFF eye/ear FFF 17 17||INDICATION FFF vertigo, FFF 30 30||DBN FFF motion sickness, FFF 31 32||INDICATION FFF infection, FFF 34 34||
+271-01||45||Respiratory:  Denies cough sputum, hemoptysis, wheezing, asthma, bronchitis, emphysema, pneumonia,  tuberculosis, COPD, sleep apnea, or pleurisy.||INDICATION FFF cough FFF 2 2||INDICATION FFF wheezing, FFF 5 5||INDICATION FFF asthma, FFF 6 6||INDICATION FFF bronchitis, FFF 7 7||INDICATION FFF emphysema, FFF 8 8||INDICATION FFF pneumonia, FFF 9 9||INDICATION FFF tuberculosis, FFF 10 10||INDICATION FFF copd, FFF 11 11||INDICATION FFF sleep FFF 12 12||INDICATION FFF apnea, FFF 13 13||
+271-01||46||Cardiovascular: History of HTN and hypercholesterolemia.||INDICATION FFF htn FFF 3 3||INDICATION FFF hypercholesterolemia. FFF 5 5||
+271-01||47||History of MI 7/04/00.||INDICATION FFF mi FFF 2 2||
+271-01||48||States was outside painting and did not feel well.
+271-01||49||Rested on couch for 3-4 hours with chest pain which later radiated to right arm without SOB, nausea, or diaphoresis.||DRT FFF 3-4 hours FFF 4 5||INDICATION FFF chest pain FFF 7 8||INDICATION FFF sob, FFF 16 16||INDICATION FFF nausea, FFF 17 17||
+271-01||50||Went for cath at Ocilla Hospital then to Marquette for surgery 7/99.||INDICATION FFF surgery FFF 10 10||
+271-01||51||Had CABG x3 with LIMA 7/10/00.||FREQ FFF x3 FFF 2 2||
+271-01||52||Has not had any symptoms or taken NTG since surgery.||INDICATION FFF symptoms FFF 4 4||DPN FFF ntg FFF 7 7||INDICATION FFF surgery. FFF 9 9||
+271-01||53||Echocardiogram shows trace MR, mild dilation of aortic root, no wall motion abnormalities, LVEF 55%.||DOSE FFF 55%. FFF 14 14||
+271-01||54||Stress test after CABG 8/99, was indeterminate for ischemia due to baselkine EKG abnormality.||INDICATION FFF ischemia FFF 8 8||
+271-01||55||No history of  rheumatic fever, syncope, palpitations,  edema, dyspnea, chest pain,  orthopnea, or paroxysmal nocturnal dyspnea.||INDICATION FFF rheumatic fever, FFF 3 4||INDICATION FFF edema, FFF 7 7||INDICATION FFF dyspnea, FFF 8 8||INDICATION FFF chest pain, FFF 9 10||INDICATION FFF orthopnea, FFF 11 11||INDICATION FFF dyspnea. FFF 15 15||
+271-01||56||GI: History of hiatal hernia.||INDICATION FFF hiatal hernia. FFF 3 4||
+271-01||57||History of rectal bleeding pre CABG.||INDICATION FFF bleeding FFF 3 3||
+271-01||58||Had HCT of 29 and went on iron after surgery.||DIN FFF iron FFF 7 7||INDICATION FFF surgery. FFF 9 9||
+271-01||59||Colonoscpy and endocscopy were negative for bleeding 1/00.||INDICATION FFF bleeding FFF 6 6||
+271-01||60||No history of GERD, PUD, changes in bowel habits, difficulty swallowing, appetite changes, nausea, vomiting, constipation, diarrhea, abdominal pain, food  intolerance, excessive belching or gas.||INDICATION FFF gerd, FFF 3 3||INDICATION FFF pud, FFF 4 4||INDICATION FFF nausea, FFF 13 13||INDICATION FFF vomiting, FFF 14 14||INDICATION FFF constipation, FFF 15 15||INDICATION FFF diarrhea, FFF 16 16||INDICATION FFF abdominal pain, FFF 17 18||
+271-01||61||Hepatobiliary: No history of jaundice, hepatitis, or colic.||INDICATION FFF hepatitis, FFF 5 5||INDICATION FFF colic. FFF 7 7||
+271-01||62||GU: History of kidney stones.||INDICATION FFF gu: FFF 0 0||INDICATION FFF kidney stones. FFF 3 4||
+271-01||63||No history  of CRF, hematuria, obstruction, colic, UTI, polyuria, nocturia, decreased caliber or force of urinary stream, hesitancy, incontinence, or frequency of urination.||INDICATION FFF crf, FFF 3 3||INDICATION FFF colic, FFF 6 6||INDICATION FFF uti, FFF 7 7||INDICATION FFF polyuria, FFF 8 8||INDICATION FFF incontinence, FFF 18 18||
+271-01||64||Musculoskeletal: History of rheumatoid arthritis diagnosed 8/98.||INDICATION FFF rheumatoid arthritis FFF 3 4||
+271-01||65||Presently taking prednisone, plaquenil, folic acid, methotrexate, and fosamax.No history of  muscle pain, joint pain, stiffness, gout, or limitations with ROM.||DIN FFF prednisone, FFF 2 2||DBN FFF plaquenil, FFF 3 3||DIN FFF folic acid, FFF 4 5||DIN FFF methotrexate, FFF 6 6||INDICATION FFF pain, FFF 12 12||INDICATION FFF joint pain, FFF 13 14||INDICATION FFF gout, FFF 16 16||
+271-01||66||Neuro:  No history of seizures, stroke,  TIAs, migraine, fainting, weakness, paralysis, numbness, tingling, tremors, or other involuntary movements.||INDICATION FFF seizures, FFF 4 4||INDICATION FFF stroke, FFF 5 5||INDICATION FFF paralysis, FFF 10 10||INDICATION FFF tremors, FFF 13 13||
+271-01||67||Peripheral Vascular: History of bilateral claudication.
+271-01||68||History of ischemic ulcers to 4th toes.No history of  DVT, varicosities, cramps .||INDICATION FFF ulcers FFF 3 3||INDICATION FFF dvt, FFF 9 9||INDICATION FFF varicosities, FFF 10 10||INDICATION FFF cramps FFF 11 11||
+271-01||69||Endocrine: History of non insulin dependent diabetes diagnosed 2095.||INDICATION FFF non insulin dependent diabetes FFF 3 6||
+271-01||70||Checks BS QD or QOD.||INDICATION FFF bs FFF 1 1||FREQ FFF qd FFF 2 2||FREQ FFF qod. FFF 4 4||
+271-01||71||BS usually run 130 qam.||INDICATION FFF bs FFF 0 0||INDICATION FFF run FFF 2 2||FREQ FFF qam. FFF 4 4||
+271-01||72||No history of thyroid problems, heat or cold intolerance, excessive sweating, excessive thirst||INDICATION FFF cold FFF 7 7||INDICATION FFF excessive sweating, FFF 9 10||
+271-01||73||Heme/Onc: History of anemia pre CABG, easy bruising.||INDICATION FFF anemia FFF 3 3||
+271-01||74||No history of bleeding,  lymphadenopathy, chemotherapy or radiation.||INDICATION FFF bleeding, FFF 3 3||
+271-01||75||Psychiatric:  No history of anxiety, panic attacks, depression, or psychosis.||INDICATION FFF anxiety, FFF 4 4||INDICATION FFF depression, FFF 7 7||INDICATION FFF psychosis. FFF 9 9||
+271-01||76||Skin:  No history of rash, abnormal pigmentation, prutitis, lumps, or sores.
+271-01||77||Physical Exam:
+271-01||78||SaO2: 98
+271-01||79||Resp: 16
+271-01||80||Temp:94.9
+271-01||81||Ht: 68"||INDICATION FFF ht: FFF 0 0||
+271-01||82||Wt: 183.4
+271-01||83||BP: 118/77||INDICATION FFF bp: FFF 0 0||
+271-01||84||AP: 65||TOD FFF ap: FFF 0 0||
+271-01||86||General:  Well developed, well nourished
+271-01||88||HEENT:  Normocephalic, cranium intact without depressions. no icterus, thyroid non-palpable, neck veins flat, carotids palpable without bruits, no swelling, lumps, masses, tenderness, or visible pulsations. Movement symmetrical with limited range of motion upon extension to 40 degrees. Frontal and maxillary  sinuses non-tender.||INDICATION FFF swelling, FFF 18 18||
+271-01||89||Airway:  Mallampatti Class III, opens 3 fingerbreadths wide, can protrude jaw
+271-01||90||Teeth: upper plate, crown to lower left molar
+271-01||91||Chest:  Breath sounds  clear.
+271-01||92||No abnormal retraction  or impairment of lower interspaces during inspiration.||DRT FFF during FFF 8 8||
+271-01||93||Symmetrical, even respiratory movement.
+271-01||94||Heart: Regular rhythm, normal rate, no murmurs, rubs or gallops, S1=S2.
+271-01||95||Abdomen:  Soft, non-tender, with scars, no distention, normal bowel sounds, no organomegaly or palpable masses.
+271-01||96||Contour flat, symmetrical,  without  lesions, striae, or dilated veins.
+271-01||97||No visible peristalsis or pulsations.
+271-01||98||GU/Rectal:  No CVA tenderness or hernias.||INDICATION FFF gu/rectal: FFF 0 0||INDICATION FFF cva FFF 2 2||
+271-01||99||Lymphatics:  No lymphadenopathy
+271-01||100||Peripheral Vascular:  No edema, varicosities, or   prominent veins.||INDICATION FFF edema, FFF 3 3||INDICATION FFF varicosities, FFF 4 4||
+271-01||101||Carotids- 2+
+271-01||102||Radials- 2+

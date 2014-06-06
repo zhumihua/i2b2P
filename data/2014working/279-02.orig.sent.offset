@@ -1,0 +1,23 @@
+279-02	10	0	She thought she might be developing    bronchitis,    discontinued smoking and called her PCP to ask for antibiotics.	antibiotics. FFF 16 16	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+279-02	13	0	a. Lasix 40 mg IV x2, NTG paste    initial SOB improvement, small UO;	lasix FFF 1 1	40 mg FFF 2 3	iv FFF 4 4	x2, FFF 5 5	 FFF 	 FFF 	narrative
+279-02	13	0	a. Lasix 40 mg IV x2, NTG paste    initial SOB improvement, small UO;	ntg paste FFF 6 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+279-02	14	0	b. Lasix 40 mg IV x 2    improved, ready for floor transfer but develops an episode of worsening SOB/flush pulmonary edema on CXR; c.	lasix FFF 1 1	40 mg FFF 2 3	iv FFF 4 4	x 2 FFF 5 6	 FFF 	 FFF 	narrative
+279-02	15	0	Lasix 160mg IV    Morphine 3mg IV + CPAP    Atrovent/Albuterol    Zaroxylin 5mg + Lasix 200mg IV     improved, on Hi-Flow O2; total UO: 1,100cc.	lasix FFF 0 0	160mg FFF 1 1	iv FFF 2 2	 FFF 	 FFF 	 FFF 	narrative
+279-02	15	0	Lasix 160mg IV    Morphine 3mg IV + CPAP    Atrovent/Albuterol    Zaroxylin 5mg + Lasix 200mg IV     improved, on Hi-Flow O2; total UO: 1,100cc.	morphine FFF 3 3	3mg FFF 4 4	iv FFF 5 5	 FFF 	 FFF 	 FFF 	narrative
+279-02	15	0	Lasix 160mg IV    Morphine 3mg IV + CPAP    Atrovent/Albuterol    Zaroxylin 5mg + Lasix 200mg IV     improved, on Hi-Flow O2; total UO: 1,100cc.	lasix FFF 12 12	200mg FFF 13 13	iv FFF 14 14	1,100cc. FFF 21 21	 FFF 	 FFF 	narrative
+279-02	16	0	Also received: ASA, CTX 1gm IV, Azithromax 500mg po, Atrovent/Albuterol nebs.	asa, FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+279-02	16	0	Also received: ASA, CTX 1gm IV, Azithromax 500mg po, Atrovent/Albuterol nebs.	ctx FFF 3 3	1gm FFF 4 4	iv, FFF 5 5	 FFF 	 FFF 	 FFF 	narrative
+279-02	31	438	Atenolol 100 mg PO qd	atenolol FFF 0 0	100 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+279-02	32	438	Lipitor 10 mg po qd	lipitor FFF 0 0	10 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+279-02	33	438	Cozaar 50 mg po qd	cozaar FFF 0 0	50 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+279-02	34	438	Furosemide 20 mg po qde	furosemide FFF 0 0	20 mg FFF 1 2	po FFF 3 3	 FFF 	 FFF 	 FFF 	narrative
+279-02	35	438	Prilosec 20 mg po qd	prilosec FFF 0 0	20 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+279-02	36	438	ECASA 325 mg po qd	ecasa FFF 0 0	325 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+279-02	37	438	Nifedipine XL 60 mg po bid	nifedipine FFF 0 0	60 mg FFF 2 3	po FFF 4 4	bid FFF 5 5	 FFF 	 FFF 	narrative
+279-02	101	0	ADENOSINE MIBI (6/89): The ECG response to pharmacological stress was negative for  ischemia.	adenosine FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+279-02	101	0	ADENOSINE MIBI (6/89): The ECG response to pharmacological stress was negative for  ischemia.	ecg FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+279-02	112	0	Even though MI would be the most worrisome to follow through with, a simple trigger such as COPD exacerbation cannot be excluded.   - continue HF O2, ASA, cardiac enzymes to r/o MI - tight BP control w/ CCB and ACEI as needed; may use TNG/Hydralazine	asa, FFF 26 26	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+279-02	112	0	Even though MI would be the most worrisome to follow through with, a simple trigger such as COPD exacerbation cannot be excluded.   - continue HF O2, ASA, cardiac enzymes to r/o MI - tight BP control w/ CCB and ACEI as needed; may use TNG/Hydralazine	ccb FFF 37 37	 FFF 	 FFF 	as needed; FFF 40 41	 FFF 	 FFF 	narrative
+279-02	113	0	(will hold BB during the acute exacerbation)	bb FFF 2 2	 FFF 	 FFF 	 FFF 	during the acute exacerbation) FFF 3 6	 FFF 	narrative
+279-02	114	0	- Lasix IV prn; strict I/Os [admission wt 180#)	lasix FFF 1 1	 FFF 	iv FFF 2 2	prn; FFF 3 3	 FFF 	 FFF 	narrative
+279-02	117	0	- Azithromycin 250mg po/Albuterol/Atrovent nebs	azithromycin FFF 1 1	250mg FFF 2 2	po/albuterol/atrovent FFF 3 3	 FFF 	 FFF 	 FFF 	narrative

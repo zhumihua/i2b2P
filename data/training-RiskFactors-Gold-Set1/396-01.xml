@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2077-08-04
+
+EDVISIT^42817774^AARON, JEAN^08/04/77^VALENTIN, IDA
+
+CHIEF COMPLAINT:  Status post fall, right shoulder pain.
+
+I saw the patient with Dr. Andrew Newhouse.  Please see his note for
+
+further details.  I confirm that I have interviewed and examined
+
+the patient, reviewed the resident's documentation, and discussed
+
+the evaluation, plan of care, and disposition with the patient.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 63-year-old female
+
+who presents after mechanical trip and follow at work today and
+
+hit her forehead.  No loss of consciousness, no headache, no
+
+visual changes, no upper or lower extremities, paresthesias or
+
+weakness.  She fell onto her right shoulder, is complaining about
+
+pain at that area.  No focal weakness, no neck pain, no back
+
+pain, no chest pain, shortness of breath, no belly pain.
+
+PAST MEDICAL HISTORY:  Hypertension, diabetes,
+
+hypercholesterolemia, neuropathy, and diverticulitis.
+
+MEDICATIONS:  Currently on Novolog, verapamil, lisinopril,
+
+amitriptyline, and aspirin.
+
+ALLERGIES:  No known allergies
+
+SOCIAL HISTORY:  One pack per day smoker and does not drink.  She
+
+denies IV drug use.  She lives alone.
+
+FAMILY HISTORY:  Noncontributory.
+
+REVIEW OF SYSTEMS:  As per resident's note and my HPI.
+
+PHYSICAL EXAMINATION:  She is awake, alert, and nontoxic but does
+
+appear uncomfortable.  Afebrile, vital signs are notable for a
+
+blood pressure of 185/79, O2 saturation 99% on room air,
+
+respiratory rate 18, and pulse 89.  HEENT exam:  Normocephalic
+
+and atraumatic.  No facial tenderness.  No cervical spine
+
+tenderness in the midline.  Lungs:  Clear anteriorly.  No TLS
+
+spine tenderness in the midline.  Heart:  Regular rate and
+
+rhythm.  Abdomen:  Soft, nontender, and nondistended.  Her right
+
+shoulder that is held by her side, she has exquisite tenderness,
+
+unable to really move it.  She has intact axillary nerve
+
+sensation, full strength in her hand and fingers.  Alert and
+
+oriented x3.  Normal mood and affect.
+
+EMERGENCY DEPARTMENT COURSE:  The patient thought she hit her
+
+forehead does not have signs or symptoms suggestive of
+
+intracerebral injuries.  I do not feel she needs imaging though
+
+she has pain in her shoulder.  She is awake and alert and answers
+
+questions appropriately.  She has no cervical spine tenderness in
+
+the midline.  She did have plain films of her right shoulder that
+
+show comminuted fracture of the right humerus involving the
+
+surgical neck, greater tuberosity, anatomic neck with medial
+
+displacement distal fragment.  She also had a chest x-ray that
+
+showed some mild pulmonary vascular congestion.  The patient had
+
+preoperative screening labs that included sodium 138, K 4.2,
+
+chloride 101, bicarbonate 25, BUN 20, creatinine 1.4, glucose 395
+
+and calcium 10.  White count of 27, hematocrit 41, and platelet
+
+count 286,000.  Coags within normal limits. 
+
+The patient will be admitted to the Orthopedics Surgery.  We will
+
+check UA given her white count.  Of note, she did have her
+
+differential still pending.
+
+DIAGNOSIS:  Right shoulder fracture status post mechanical fall.
+
+DISPOSITION:  Admitted to Ortho.
+
+CONDITION:  Stable.  She will also be treated for hyperglycemia,
+
+which is also another diagnosis.
+
+______________________________
+
+VALENTIN, IDA MD
+
+D: 08/04/77
+
+T: 08/04/77
+
+Dictated By: VALENTIN, IDA
+
+eScription document:2-7000249 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC14" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC17" time="before DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC4" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC8" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC11" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC15" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC19" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC21" time="during DCT" type1="insulin" type2=""/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC10" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC20" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC22" indicator="not present"/>
+    <SMOKER id="DOC18" status="current"/>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC13" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC23" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

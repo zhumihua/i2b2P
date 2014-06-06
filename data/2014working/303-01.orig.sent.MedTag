@@ -1,0 +1,66 @@
+303-01	1	Record date: 2111-09-25	
+303-01	2	Personal Data and Overall Health	
+303-01	3	70 obeise english speaking female with HTN, IDDM, +GERD, and Right Breast CA for Right Breast Lumpectomy and axillary node dissection/bx on 09/29/11		INDICATION FFF htn#6	INDICATION FFF iddm#7	INDICATION FFF gerd#8	INDICATION FFF ca#12
+303-01	4	Chief Complaint	
+303-01	5	The patient is scheduled for	
+303-01	6	History of Present Illness	
+303-01	7	The patient complains of	
+303-01	8	Past Surgical History	
+303-01	9	Prior surgery includes:  '10 lap chole; '86 TAH/BSO; '63 and '64 C/S; GA w/o problems		INDICATION FFF surgery#1	DIN FFF bso#7	INDICATION FFF ga#12
+303-01	10	Family History	
+303-01	11	There in no family history of adverse reactions to general anesthesia.	
+303-01	12	Past Medical History	
+303-01	13	Current medical problems include:  HTN, IDDM, +GERD, and HPI		INDICATION FFF htn#4	INDICATION FFF iddm#5	INDICATION FFF gerd#6
+303-01	14	Social History	
+303-01	15	Smoking: quit tobac x10 yrs, min amt smoked		FREQ FFF x10#3
+303-01	16	Alcohol use: no history of excessive use	
+303-01	17	Substance abuse: none	
+303-01	18	Review of Systems	
+303-01	19	Medications: NPH Insulin, 20u QAM, 12u QPM; Atenolol, and other antihypertensive; Zantac		DIN FFF nph insulin#2	DOSE FFF 20u#3	FREQ FFF qam#4	DOSE FFF 12u#5	FREQ FFF qpm#6	DIN FFF atenolol#7	INDICATION FFF antihypertensive#10	DBN FFF zantac#11
+303-01	20	Allergies:  none		INDICATION FFF allergies#0
+303-01	21	Cardiovascular:  HTN, no MI; denies CP, +DOE, syncope, ankle edema; Pt. performs house work w/o problems		INDICATION FFF htn#1	INDICATION FFF mi#3	INDICATION FFF cp#5	INDICATION FFF edema#9
+303-01	22	7/24 stress test :Negative	
+303-01	23	Respiratory: no history of asthma or chronic lung disease; denies unusual shortness of breath		INDICATION FFF asthma#4	INDICATION FFF shortness of breath#13
+303-01	24	CHEST CT: MULTI PULMONARY NODULES		INDICATION FFF ct#1
+303-01	25	Neurological: no history of neurological problems	
+303-01	26	Gastrointestinal: +GERD; no h/o PUD		INDICATION FFF gerd#1	INDICATION FFF pud#4
+303-01	27	Hepatobiliary: no history of liver disease; denies jaundice or hepatitis		INDICATION FFF liver disease#5	INDICATION FFF hepatitis#9
+303-01	28	Renal/Genitourinary: no history of renal failure; denies hematuria, dysuria, obstructive uropathy		INDICATION FFF renal failure#5
+303-01	29	Musculoskeletal: LBP and B Knee pain; BONE SCAN: ABNORMALITY @ L1		INDICATION FFF lbp#1	INDICATION FFF pain#5
+303-01	30	Endocrine/metabolic: IDDM x2-3 yrs, no endocrinopathy		INDICATION FFF iddm#1
+303-01	31	Heme/Onc:  no history of bleeding, blood diseases; HPI, No Chemo or XRT		INDICATION FFF bleeding#4	INDICATION FFF blood diseases#6
+303-01	32	Psychiatric: no significant psychiatric problems	
+303-01	33	Exam	
+303-01	34	SaO2:98%	
+303-01	35	Ht:57.1"	
+303-01	36	Wt:180.8#	
+303-01	37	BP:148/58	
+303-01	38	P:61	
+303-01	39	HEEN&T:  good range of motion, no masses, neck veins flat, no bruits	
+303-01	40	Airway:  Mallampatti Class I or II	
+303-01	41	Teeth:  Upper dentures, lower in good repair	
+303-01	42	Lungs:  clear bilaterally	
+303-01	43	Heart:  regular rhythm, no murmurs, S1=S2, no gallop	
+303-01	44	Abdomen:  OBEISE	
+303-01	45	Extremities:  not examined	
+303-01	46	Assessment	
+303-01	47	ASA Physical Status:  III		DIN FFF asa#0
+303-01	48	Well prepared for surgery; Pt to take half of NPH dose in am and have IV started early upon arrival to SDP and drink clear lq juice if she is feeling as if her BS is low; Daughter to accompany pt. for translation purposes		INDICATION FFF surgery#3	DBN FFF nph#9	TOD FFF am#12	RUT FFF iv#15	INDICATION FFF as#31	INDICATION FFF bs#34
+303-01	49	Plan	
+303-01	50	Proposed Anesthetic: GETA with RSI		DIN FFF anesthetic#1
+303-01	51	Monitors:  standard	
+303-01	52	Pain Management:  IVPCA		INDICATION FFF pain#0
+303-01	53	Autologous blood:  none	
+303-01	54	Premedication:  none	
+303-01	55	Usual Medications:  take on day of surgery		INDICATION FFF surgery#6
+303-01	56	Medications to be held on day of surgery:  none		INDICATION FFF surgery#7
+303-01	57	Diabetic medications:  1/2 of NPH in AM		DPN FFF diabetic medications#1	DBN FFF nph#4	TOD FFF am#6
+303-01	58	NSAIDS:  avoid for 3 days before surgery		DIN FFF nsaids#0	DRT FFF for 3 days#4	INDICATION FFF surgery#6
+303-01	59	Aspirin:  avoid for 7 days before surgery		DIN FFF aspirin#0	DRT FFF for 7 days#4	INDICATION FFF surgery#6
+303-01	60	NPO: after midnight		RUT FFF npo#0
+303-01	61	External Labs		RUT FFF external#0
+303-01	62	Not available	
+303-01	63	Attending Anesthesiologist Reassessment Note	
+303-01	64	I have reviewed this preanesthetic assessment and concur with the assessment and recommended plan with the following exceptions:	
+303-01	65	______________________________	
+303-01	66	Whitt, Qiana	

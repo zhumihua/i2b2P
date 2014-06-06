@@ -1,0 +1,38 @@
+Problems
+Allergies
+general
+Report Status
+comparison
+findings
+impression
+radiologists
+signatures
+Medications
+social history
+history of present illness
+past medical history
+family medical history
+physical exam
+discharge time
+changes to Allergies
+Vital Signs
+Continue outpatient meds
+recommendation
+follow up
+review of systems
+general
+Assessment
+Recommendation
+CHIEF COMPLAINT
+LABORATORY DATA
+Emergency department course
+Narrative History
+Meds now
+Medications 
+Current Medications
+visit date
+CONCERNS
+PMH/PROBLEM LIST
+PMH/PSH
+LABORATORY
+Reason for Visit

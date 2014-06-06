@@ -1,0 +1,30 @@
+304-01	6	0	Transfer from Linden Health Care Center	linden FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-01	11	0	27yo male from Cedar Hill Lakes, Nevada w/ history of insulin-requiring DM previously followed at Cottage Sanatorium, admitted to Linden Health Care Center after becoming unresponsive during a visit to his sister in Maryland.	linden FFF 19 19	 FFF 	 FFF 	 FFF 	during a visit FFF 26 28	 FFF 	narrative
+304-01	16	0	However, pt had witnessed emesis, and was placed on 100% nonrebreather mask, with Versed and propofol for sedation with adequate O2 saturation.	versed FFF 13 13	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-01	16	0	However, pt had witnessed emesis, and was placed on 100% nonrebreather mask, with Versed and propofol for sedation with adequate O2 saturation.	propofol FFF 15 15	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-01	17	0	A x-ray confirmed dependent lung infiltrates consistent with aspiration pneumonia, and pt was started on Clindamycin.	clindamycin. FFF 15 15	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-01	19	0	He received 50mg dose of labetolol in the ER as well as several additional doses in the ICU.	labetolol FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-01	22	0	Pt was treated with dilantin and IV insulin infusion.	dilantin FFF 4 4	 FFF 	iv FFF 6 6	 FFF 	 FFF 	 FFF 	narrative
+304-01	22	0	Pt was treated with dilantin and IV insulin infusion.	insulin FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-01	30	0	CSF cultures and blood cultures were also done, and are pending.	csf FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-01	32	0	ABG on 08/25/61 am was 7.36/PCO2 45/ PO2 366, with bicarb of 25 and 100% sats.	bicarb FFF 10 10	100% FFF 14 14	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-01	32	0	ABG on 08/25/61 am was 7.36/PCO2 45/ PO2 366, with bicarb of 25 and 100% sats.	sats. FFF 15 15	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-01	40	0	1. Insulin dependent DM, diagnosed age 12.	insulin FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-01	43	438	1. Labetolol 20mg IV q1hr PRN MAP>120	labetolol FFF 1 1	20mg FFF 2 2	iv FFF 3 3	q1hr PRN FFF 4 5	 FFF 	 FFF 	narrative
+304-01	44	438	2. Ativan 1-2mg IV q1h PRN	ativan FFF 1 1	1-2mg FFF 2 2	iv FFF 3 3	q1h PRN FFF 4 5	 FFF 	 FFF 	narrative
+304-01	45	438	3. Insulin gtt (currently 4u/hr)	insulin FFF 1 1	4u/hr) FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-01	46	438	4. Clindamycin 600mg IV q6h for aspiration pneumonitis	clindamycin FFF 1 1	600mg FFF 2 2	iv FFF 3 3	q6h FFF 4 4	 FFF 	 FFF 	narrative
+304-01	47	438	5. Pepcid 20mg IV QD	pepcid FFF 1 1	20mg FFF 2 2	iv FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+304-01	48	438	6. Dilantin 100mg IV q8h	dilantin FFF 1 1	100mg FFF 2 2	iv FFF 3 3	q8h FFF 4 4	 FFF 	 FFF 	narrative
+304-01	49	438	7. IV NTG 5mcg/min during transfer	ntg FFF 2 2	5mcg/min FFF 3 3	iv FFF 1 1	 FFF 	during transfer FFF 4 5	 FFF 	narrative
+304-01	78	0	PT                               13.4             H        (11.3-13.3)    sec	sec FFF 4 4	 FFF 	 FFF 	 FFF 	13.4 h FFF 1 2	 FFF 	narrative
+304-01	79	0	APTT                             26.1                      (22.1-35.1)    sec	sec FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-01	101	0	Calcium                          8.9                       (8.5-10.5)     mg/dl	calcium FFF 0 0	8.9 FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-01	103	0	Plasma Lactic Acid               2.5              H        (0.5-2.2)      mmol/L	lactic acid FFF 1 2	 FFF 	 FFF 	 FFF 	2.5 h FFF 3 4	 FFF 	narrative
+304-01	104	0	Magnesium                        2.1              H        (1.4-2.0)      meq/L	magnesium FFF 0 0	 FFF 	 FFF 	 FFF 	2.1 h FFF 1 2	 FFF 	narrative
+304-01	106	0	Albumin                          2.7              L        (3.3-5.0)      g/dl	albumin FFF 0 0	2.7 l FFF 1 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-01	110	0	Triglycerides                    118                       (40-150)       mg/dl	triglycerides FFF 0 0	118 FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-01	115	0	Amylase                          222              H        (3-100)        units/L	amylase FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-01	115	0	Amylase                          222              H        (3-100)        units/L	222 FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-01	116	0	Lipase                           1.4                       (1.3-6.0)      U/dl	lipase FFF 0 0	1.4 FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+304-01	122	0	Phenytoin (Dilantin)             9.1                       (5.0-20.0)     mcg/ml	Phenytoin (Dilantin) FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

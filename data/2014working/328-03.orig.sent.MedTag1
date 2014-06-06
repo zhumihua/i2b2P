@@ -1,0 +1,220 @@
+328-03||1||Record date: 2077-11-16
+328-03||2||Educare-Fargo E Admission Note
+328-03||3||PATIENT:  Rebecca Carlson
+328-03||4||MRN:  9500004
+328-03||5||ADMIT DATE: 11/14/2077
+328-03||6||Transfer to Team E Date: 11/16/2077
+328-03||7||PCP:  Dr. James Colton Yancey||INDICATION FFF pcp: FFF 0 0||
+328-03||8||ATTENDING PHYSICIAN: Dr.
+328-03||9||Ila Araujo
+328-03||10||CHIEF COMPLAINT
+328-03||11||Fall
+328-03||12||HISTORY OF THE PRESENT ILLNESS
+328-03||13||Pt is an 88 yo woman with a PMH of DM, HTN, mild dementia and baseline anxiety with a hx of falls who was admitted following a witnessed mechanical fall which resulted in a Type III dens fracture and R superior/inferior pubic ramus fracture.||INDICATION FFF dm, FFF 10 10||INDICATION FFF htn, FFF 11 11||INDICATION FFF dementia FFF 13 13||INDICATION FFF anxiety FFF 16 16||
+328-03||14||She was seen by ortho, and they recommended use of an Aspen collar for the dens fracture, and no operative management for the pubic ramus fracture.
+328-03||15||On 11/15, patient was noted to have a decreased Hct, which was attributed to an expanding hematoma on her right thigh, and she was given 2 U of PRBCs from 9:30am-5pm on 11/15.||DOSE FFF 2 u FFF 25 26||
+328-03||16||Overnight her O2 requirement increased from 2L to 4L, and she was given Lasix in response to a chest X-ray which showed signs of pulmonary edema.||DRT FFF overnight FFF 0 0||DOSE FFF 2l FFF 6 6||DOSE FFF 4l, FFF 8 8||DBN FFF lasix FFF 13 13||INDICATION FFF pulmonary edema. FFF 24 25||
+328-03||17||Throughout the day patient became progressively more agitated, and in addition to her standing Seroquel (12.5 mg bid), she was also given two doses of Zyprexa (2.5mg and 5mg).||INDICATION FFF agitated, FFF 7 7||DBN FFF seroquel FFF 14 14||DOSE FFF (12.5 mg FFF 15 16||FREQ FFF bid), FFF 17 17||DRT FFF two doses FFF 22 23||DBN FFF zyprexa FFF 25 25||DOSE FFF (2.5mg FFF 26 26||DOSE FFF 5mg). FFF 28 28||
+328-03||18||Overnight on 11/15-11/16 she became febrile, up to 103.5, peaking at 105.6 in the morning on 11/16, despite standing Tylenol.||DRT FFF overnight FFF 0 0||DRT FFF 11/15-11/16 FFF 2 2||INDICATION FFF febrile, FFF 5 5||TOD FFF in the morning FFF 12 14||DBN FFF tylenol. FFF 19 19||
+328-03||19||Blood cultures and urine cultures were taken, and patient was started on Levoquin, Vancomycin and Ceftriaxone, and transferred to Team E.||DIN FFF vancomycin FFF 13 13||DIN FFF ceftriaxone, FFF 15 15||
+328-03||20||REVIEW OF SYSTEMS
+328-03||21||Per HPI
+328-03||22||PAST MEDICAL HISTORY
+328-03||23||DM &#8211; diet controlled||INDICATION FFF dm FFF 0 0||
+328-03||25||HTN||INDICATION FFF htn FFF 0 0||
+328-03||27||Hypothyroidism||INDICATION FFF hypothyroidism FFF 0 0||
+328-03||29||Hx of post-op DVT (&gt;40 years ago after a hysterectomy)||INDICATION FFF dvt FFF 3 3||RUT FFF (&gt;40 FFF 4 4||DRT FFF (&gt;40 years FFF 4 5||
+328-03||31||Fall with L hip fracture, s/p hemiarthroplasty
+328-03||32||PAST SURGICAL HISTORY
+328-03||33||Hysterectomy
+328-03||35||L hemiarthroplasty
+328-03||36||RECENT DIAGNOSTIC STUDIES
+328-03||37||TTE (11/77)
+328-03||38||Moderate mitral regurgitation, no aortic stenosis, trace regurgitation.||INDICATION FFF stenosis, FFF 5 5||
+328-03||39||Estimated EF 78%.  Moderate to severe tricuspid insufficiency.||INDICATION FFF ef FFF 1 1||DOSE FFF 78%. FFF 2 2||
+328-03||40||RVSP 56 mmHg
+328-03||41||FAMILY HISTORY
+328-03||42||Maternal &#8211; 3 MIs
+328-03||43||Paternal &#8211; Hx of open heart surgery (? valvular disease)||INDICATION FFF surgery FFF 6 6||
+328-03||44||Siblings &#8211; One brother with lung cancer||INDICATION FFF cancer FFF 6 6||
+328-03||45||Children &#8211; 1 son and 2 daughters, all very supportive
+328-03||46||SOCIAL HISTORY
+328-03||47||General &#8211; Pt lives by herself on the third floor of a house, with her daughter and son on the 2nd and 1st floors of the building.||INDICATION FFF 1st FFF 22 22||
+328-03||48||One of her children is usually with her at all times.
+328-03||49||Tobacco &#8211; The patient denies tobacco use.
+328-03||50||Alcohol &#8211; The patient denies recent alcohol use.||INDICATION FFF alcohol use. FFF 6 7||
+328-03||51||Illicit drugs &#8211; The patient denies past and present use of illicit drugs.||DIN FFF illicit drugs FFF 0 1||DIN FFF illicit drugs. FFF 11 12||
+328-03||52||ALLERGIES/ADVERSE REACTIONS||INDICATION FFF allergies/adverse FFF 0 0||
+328-03||53||HCTZ &#8211; unknown reaction||DPN FFF hctz FFF 0 0||
+328-03||54||MEDICATIONS ON ADMISSION
+328-03||55||1. Acetylsalicylic Acid (Aspirin)   81 MG PO QD||DBN FFF acetylsalicylic acid FFF 1 2||DOSE FFF 81 mg FFF 4 5||RUT FFF po FFF 6 6||FREQ FFF qd FFF 7 7||
+328-03||56||2. Amlodipine (Norvasc)  7.5 mg PO QD||DIN FFF amlodipine FFF 1 1||DOSE FFF 7.5 mg FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF qd FFF 6 6||
+328-03||57||3. Atenolol  75 MG PO QHS||DIN FFF atenolol FFF 1 1||DOSE FFF 75 mg FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF qhs FFF 5 5||
+328-03||58||4. Atorvastatin (Lipitor )  10 MG PO QD||DIN FFF atorvastatin FFF 1 1||DOSE FFF 10 mg FFF 4 5||RUT FFF po FFF 6 6||FREQ FFF qd FFF 7 7||
+328-03||59||5. Calcium Carbonate/Vitd (250mg Ca++/125u Vitd)  1 TAB PO QD||DIN FFF calcium carbonate/vitd FFF 1 2||DOSE FFF (250mg FFF 3 3||INDICATION FFF ca++/125u FFF 4 4||DOSE FFF ca++/125u FFF 4 4||DOSEAMT FFF 1 tab FFF 6 7||RUT FFF po FFF 8 8||FREQ FFF qd FFF 9 9||
+328-03||60||6. Docusate Sodium (Colace)  100 MG PO BID||DIN FFF docusate sodium FFF 1 2||DOSE FFF 100 mg FFF 4 5||RUT FFF po FFF 6 6||FREQ FFF bid FFF 7 7||
+328-03||61||7. Ferrous Sulfate  325 MG PO BID||DIN FFF ferrous sulfate FFF 1 2||DOSE FFF 325 mg FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF bid FFF 6 6||
+328-03||62||8. Furosemide (Lasix )  Variable PO QD||DIN FFF furosemide FFF 1 1||RUT FFF po FFF 5 5||FREQ FFF qd FFF 6 6||
+328-03||63||120 mg qAM and 80 mg qpm||DOSE FFF 120 mg FFF 0 1||FREQ FFF qam FFF 2 2||DOSE FFF 80 mg FFF 4 5||FREQ FFF qpm FFF 6 6||
+328-03||64||9. Levothyroxine Sodium (Levothroid)   25 MCG PO QD||DIN FFF levothyroxine sodium FFF 1 2||DOSE FFF 25 mcg FFF 4 5||RUT FFF po FFF 6 6||FREQ FFF qd FFF 7 7||
+328-03||65||10. Quetiapine (Seroquel)  12.5 PO BID||DIN FFF quetiapine FFF 1 1||RUT FFF po FFF 4 4||FREQ FFF bid FFF 5 5||
+328-03||66||11. Sennosides (Senna Tablets)  2 TAB PO QD||DIN FFF sennosides FFF 1 1||DOSEAMT FFF 2 tab FFF 4 5||RUT FFF po FFF 6 6||FREQ FFF qd FFF 7 7||
+328-03||67||PHYSICAL EXAMINATION
+328-03||68||VITALS:  T 104.5 P 102 BP 144/78 RR 50 SaO2 92% on 6L NC||INDICATION FFF t FFF 1 1||INDICATION FFF bp FFF 5 5||DOSE FFF 92% FFF 10 10||DOSE FFF 6l FFF 12 12||
+328-03||69||General &#8211; female lying in bed, occasionally moaning, shaking all extremities, C-collar in place||INDICATION FFF shaking FFF 8 8||
+328-03||70||HEENT &#8211; normocephalic, atraumatic; PERRL, EOMI; sclerae anicteric, no conjunctival injection; oropharynx pink and moist without erythema, exudates, or lesions||INDICATION FFF erythema, FFF 16 16||
+328-03||71||Neck - no lymphadenopathy, normal thyroid without masses; JVP flat; carotid pulses 2+ bilaterally; no carotid bruits; the trachea is midline
+328-03||72||Pulmonary &#8211; slight crackles at both bases
+328-03||73||Cardiac &#8211; tachycardic; S1 and S2 normal; no murmurs, rubs or gallops; 2+pulses in the extremities bilaterally
+328-03||74||Abdomen &#8211; soft, non-distended; non-tender without rebound and guarding; normal bowel sounds; no masses or hepatosplenomegaly
+328-03||75||Extremity &#8211; warm and well-perfused; no clubbing, cyanosis, or edema||INDICATION FFF cyanosis, FFF 7 7||INDICATION FFF edema FFF 9 9||
+328-03||76||Neurology &#8211; Pt intermittently responds to voice, unable to follow commands.
+328-03||77||Alternates between severe rigidity and extreme flaccidity.||INDICATION FFF rigidity FFF 3 3||
+328-03||78||She will retract from pain intermittently, seemingly more often with L leg and R arm.||INDICATION FFF pain FFF 4 4||
+328-03||79||Skin &#8211; large hematoma on R hip
+328-03||80||Mental status &#8211; alert and oriented x 3||INDICATION FFF mental status FFF 0 1||FREQ FFF x 3 FFF 6 7||
+328-03||81||LABORATORIES
+328-03||82||11/16/77                  11/16/77                  11/16/77                  11/15/77
+328-03||83||14:24       11:41       05:05       03:58
+328-03||84||NA           143                          141          138||DIN FFF na FFF 0 0||DOSE FFF 143 FFF 1 1||
+328-03||85||K             2.9(L)                      3.8           3.4||INDICATION FFF k FFF 0 0||
+328-03||86||CL           100                          101          100||INDICATION FFF cl FFF 0 0||
+328-03||87||CO2         27.5                         28.9         30.7
+328-03||88||BUN
+328-03||89||25                            21            18
+328-03||90||CRE         1.24                         1.11         0.88
+328-03||91||EGFR
+328-03||92||43(T)                       49(T)       &gt;60(T)||INDICATION FFF 43(t) FFF 0 0||INDICATION FFF 49(t) FFF 1 1||RUT FFF &gt;60(t) FFF 2 2||INDICATION FFF &gt;60(t) FFF 2 2||
+328-03||94||GLU||DIN FFF glu FFF 0 0||
+328-03||95||205(H)
+328-03||96||227(H)
+328-03||97||164(H)
+328-03||98||169(H)
+328-03||100||ANION                    16(H)                       11            7
+328-03||101||CA           8.3(L)      8.7           8.4(L)||INDICATION FFF ca FFF 0 0||
+328-03||102||PHOS
+328-03||103||2.2(L)      2.2(L)
+328-03||104||MG                          1.5           1.6
+328-03||105||TBILI
+328-03||106||1.4(H)
+328-03||107||DBILI
+328-03||108||0.5(H)
+328-03||109||TP                            6.9||INDICATION FFF tp FFF 0 0||
+328-03||110||ALB                         3.5||DIN FFF alb FFF 0 0||
+328-03||111||GLOB                                      3.4
+328-03||112||ALT/SGPT               18
+328-03||113||AST/SGOT              35(H)
+328-03||114||ALKP                      101(H)
+328-03||115||ABG
+328-03||116||11/16/77
+328-03||117||11:41
+328-03||118||TEMP                      40.9
+328-03||119||FIO2        .98
+328-03||120||aPO2        166(H)
+328-03||122||aPCO2                     40
+328-03||123||aPH          7.48(H)
+328-03||125||UBASEX                 5.7
+328-03||126||NA-PL                     140
+328-03||127||11/16/77
+328-03||128||05:05
+328-03||130||11/16/77                  11/16/77                  11/16/77                  11/15/77
+328-03||131||14:24       10:15       05:05       03:58
+328-03||132||CK           984(H)
+328-03||133||946(H)
+328-03||134||573(H)
+328-03||135||536(H)
+328-03||137||CK-MB     4.8          5.2                           4.5
+328-03||138||CKMBRI    see detail               0.5                           see detail
+328-03||139||TROP-T    0.27(H)                   0.21(H)
+328-03||140||0.02
+328-03||141||11/16/77                  11/16/77                  11/16/77                  11/15/77                  11/15/77
+328-03||142||14:24       11:41       05:05       22:03       03:58
+328-03||143||WBC
+328-03||144||11.1(H)
+328-03||145||15.3(H)
+328-03||146||17.8(H)
+328-03||147||11.4(H)
+328-03||148||RBC         3.31(L)
+328-03||149||3.53(L)
+328-03||150||3.59(L)
+328-03||151||2.54(L)
+328-03||152||HGB
+328-03||153||9.6(L)      9.9(L)      10.3(L)
+328-03||154||10.8(L)
+328-03||155||7.5(L)
+328-03||156||HCT         27.7(L)
+328-03||157||29.3(L)
+328-03||158||30.0(L)
+328-03||159||21.4(L)
+328-03||160||MCV
+328-03||161||84                            83            84            84
+328-03||162||MCH
+328-03||163||28.9                         29.3         30.2         29.8
+328-03||164||MCHC                     34.5                         35.3         36.0         35.2
+328-03||165||PLT         152                          164          166          174
+328-03||166||RDW
+328-03||167||14.7(H)
+328-03||168||14.5         14.7(H)
+328-03||169||14.4
+328-03||170||DIFFR
+328-03||171||Received
+328-03||172||METHOD                                                                Auto
+328-03||173||%NEUT                                                                   85(H)
+328-03||174||%LYMPH                                                                11(L)
+328-03||175||%MONO                                                                  4
+328-03||176||%EOS                                                                      0
+328-03||177||%BASO                                                                   0
+328-03||178||ANEUT                                                                   15.20(H)
+328-03||179||ALYMP                                                                   1.85
+328-03||180||AMONS                                                                   0.63
+328-03||181||AEOSN                                                                    0.07(L)
+328-03||183||ABASOP                                                                  0.03
+328-03||184||ANISO                                                                     None
+328-03||185||HYPO                                                                      None
+328-03||186||MACRO                                                                   None
+328-03||187||MICRO                                                                    None
+328-03||188||11/16/77                  11/15/77
+328-03||189||12:11       11:09
+328-03||190||UA-COLOR             Yellow
+328-03||191||Yellow
+328-03||193||UA-APP                   Clear        Clear
+328-03||194||UA-GLUC               Negative
+328-03||195||Trace
+328-03||196||UA-BILI                 Negative
+328-03||197||Negative
+328-03||199||UA-KET                  Trace       Negative
+328-03||201||UA-SPGR                1.008       1.011
+328-03||202||UA-BLD                  3+            1+
+328-03||203||UA-PH                                     5.5           7.5
+328-03||204||UA-PROT                1+            1+
+328-03||205||UA-UROBI              Negative
+328-03||206||Negative
+328-03||208||UA-NIT                   Negative
+328-03||209||Negative
+328-03||211||UA-WBC                 Negative
+328-03||212||Negative
+328-03||214||UAS-RBC                &gt;100        0-2||RUT FFF &gt;100 FFF 1 1||
+328-03||215||UAS-WBC               3-5           0-2
+328-03||216||HCAST                    10-20       0-2
+328-03||217||GCAST                    5-10
+328-03||218||UAS-MUC               PRESENT
+328-03||219||UAS-COM               see detail  see detail
+328-03||220||MICROBIOLOGY
+328-03||221||Blood culture: No growth
+328-03||222||Urine culture: No growth
+328-03||223||RADIOLOGICAL STUDIES
+328-03||224||CXR
+328-03||225||IMPRESSION:
+328-03||227||Bilateral pulmonary edema, more prominent than 11/14/77||INDICATION FFF pulmonary edema, FFF 1 2||
+328-03||228||EKG
+328-03||229||Initially unable to obtain because of pt&#8217;s tremor.||INDICATION FFF tremor. FFF 7 7||
+328-03||230||When more calm, EKG was irregular, no acute ST or T wave changes.||INDICATION FFF st FFF 8 8||INDICATION FFF t FFF 10 10||
+328-03||231||ASSESSMENT AND PLAN
+328-03||232||88 yo female with a PMH of DM, HTN, severe anxiety and history of falls presenting with pubic ramus and dens fracture, now with new fevers, rigidity and tachycardia.||INDICATION FFF dm, FFF 7 7||INDICATION FFF htn, FFF 8 8||INDICATION FFF severe anxiety FFF 9 10||INDICATION FFF fevers, FFF 25 25||INDICATION FFF rigidity FFF 26 26||INDICATION FFF tachycardia. FFF 28 28||
+328-03||233||ISSUE #1: Fever and tremors.||INDICATION FFF fever FFF 2 2||INDICATION FFF tremors. FFF 4 4||
+328-03||234||Differential includes infection, seizure, NMS or serotonin syndrome.||INDICATION FFF infection, FFF 2 2||INDICATION FFF seizure, FFF 3 3||INDICATION FFF nms FFF 4 4||INDICATION FFF serotonin syndrome. FFF 6 7||
+328-03||235||A temperature of 105.6 with no obvious infectious source does make infection seem less likely, however patient will be treated empirically with vancomycin, ceftriaxone and levoquin for possible hospital acquired aspiration pneumonia or meningitis.||INDICATION FFF a temperature FFF 0 1||INDICATION FFF infection FFF 11 11||DIN FFF vancomycin, FFF 22 22||DIN FFF ceftriaxone FFF 23 23||INDICATION FFF aspiration pneumonia FFF 30 31||
+328-03||236||An LP will be attempted if it can be safely done without compromising the patient&#8217;s respiratory status, and in the context of the patient&#8217;s tremor.||INDICATION FFF tremor. FFF 24 24||
+328-03||237||In the context of recently receiving Seroquel, Zyprexa and Fluoxetine, it is also possible that patient could have either serotonin syndrome or neuroleptic malignant syndrome, which could explain the patient&#8217;s elevated CK, elevated WBC, elevated LFTs, extremely high temperature and tremor with rigidity.||DBN FFF seroquel, FFF 6 6||DBN FFF zyprexa FFF 7 7||DIN FFF fluoxetine, FFF 9 9||INDICATION FFF serotonin syndrome FFF 19 20||INDICATION FFF neuroleptic malignant syndrome, FFF 22 24||INDICATION FFF high temperature FFF 37 38||INDICATION FFF tremor FFF 40 40||INDICATION FFF rigidity. FFF 42 42||
+328-03||238||Continue to follow lytes, CK, CBC
+328-03||240||Small doses of Ativan for tremor/anxiety||DBN FFF ativan FFF 3 3||INDICATION FFF tremor/anxiety FFF 5 5||INDICATION FFF tremor/anxiety FFF 5 5||

@@ -1,0 +1,42 @@
+289-03	9	0	Metformin 1000 mg BID.  Added low-dose glyburide 1.25 mg QD in October, for hemoglobin A1c 7.80.	metformin FFF 0 0	1000 mg FFF 1 2	 FFF 	bid. FFF 3 3	 FFF 	 FFF 	narrative
+289-03	9	0	Metformin 1000 mg BID.  Added low-dose glyburide 1.25 mg QD in October, for hemoglobin A1c 7.80.	glyburide FFF 6 6	1.25 mg FFF 7 8	 FFF 	qd FFF 9 9	 FFF 	 FFF 	narrative
+289-03	14	0	Lipitor 10 mg QD.	lipitor FFF 0 0	10 mg FFF 1 2	 FFF 	qd. FFF 3 3	 FFF 	 FFF 	narrative
+289-03	28	0	Continue medical management which at this point consists of antiplatelet therapy, beta blocker, and ACE inhibitor.	beta blocker, FFF 11 12	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-03	28	0	Continue medical management which at this point consists of antiplatelet therapy, beta blocker, and ACE inhibitor.	ace inhibitor. FFF 14 15	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-03	35	0	Doing well with inhalers, Singulair.	singulair. FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-03	36	0	Lungs clear today.     02/23/2077:   Recently treated with Levaquin for questionable left lower lobe infiltrate.	levaquin FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-03	41	0	Takes Advair 500/50, albuterol PRN, and Singulair 10 mg QD.	advair FFF 1 1	500/50, FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-03	41	0	Takes Advair 500/50, albuterol PRN, and Singulair 10 mg QD.	albuterol FFF 3 3	 FFF 	 FFF 	prn, FFF 4 4	 FFF 	 FFF 	narrative
+289-03	41	0	Takes Advair 500/50, albuterol PRN, and Singulair 10 mg QD.	singulair FFF 6 6	10 mg FFF 7 8	 FFF 	qd. FFF 9 9	 FFF 	 FFF 	narrative
+289-03	44	0	PPI therapy has been recommended, but  has not been very compliant.	ppi FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-03	45	0	Given another prescription today.     02/23/2077:   Complains that omeprazole gives him diarrhea.	omeprazole FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-03	46	0	Change to Protonix 40 mg QD.	protonix FFF 2 2	40 mg FFF 3 4	 FFF 	qd. FFF 5 5	 FFF 	 FFF 	narrative
+289-03	50	0	Initially treated with prednisone, now on mestinon, doing well without symptoms.	prednisone, FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-03	50	0	Initially treated with prednisone, now on mestinon, doing well without symptoms.	mestinon, FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-03	61	0	Dalmane 30 mg; Dir: take 1 at hs prn	dalmane FFF 0 0	30 mg; FFF 1 2	 FFF 	at hs prn FFF 6 8	 FFF 	 FFF 	narrative
+289-03	62	0	aspirin 81mg	aspirin FFF 0 0	81mg FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-03	63	0	multivitamins	multivitamins FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-03	64	0	vitamin c	vitamin c FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-03	65	0	vitamin e	vitamin e FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-03	66	0	Mestinon 60mg/180mg 60mg @6am,11am,4pm:; Dir: then180mg @time spansule at night daily  free text medications QHS; Dir: quinine  metformin hydrochloride 500 mg; Dir: 2 tabs po bid	mestinon FFF 0 0	60mg/180mg FFF 1 1	 FFF 	@6am,11am,4pm:; FFF 3 3	 FFF 	 FFF 	narrative
+289-03	66	0	Mestinon 60mg/180mg 60mg @6am,11am,4pm:; Dir: then180mg @time spansule at night daily  free text medications QHS; Dir: quinine  metformin hydrochloride 500 mg; Dir: 2 tabs po bid	spansule FFF 7 7	 FFF 	 FFF 	daily FFF 10 10	 FFF 	 FFF 	narrative
+289-03	66	0	Mestinon 60mg/180mg 60mg @6am,11am,4pm:; Dir: then180mg @time spansule at night daily  free text medications QHS; Dir: quinine  metformin hydrochloride 500 mg; Dir: 2 tabs po bid	quinine FFF 16 16	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-03	66	0	Mestinon 60mg/180mg 60mg @6am,11am,4pm:; Dir: then180mg @time spansule at night daily  free text medications QHS; Dir: quinine  metformin hydrochloride 500 mg; Dir: 2 tabs po bid	metformin hydrochloride FFF 17 18	500 mg; FFF 19 20	po FFF 24 24	bid FFF 25 25	 FFF 	 FFF 	narrative
+289-03	67	0	Flonase QHS	flonase FFF 0 0	 FFF 	 FFF 	qhs FFF 1 1	 FFF 	 FFF 	narrative
+289-03	68	0	Lipitor 10mg po qd	lipitor FFF 0 0	10mg FFF 1 1	po FFF 2 2	qd FFF 3 3	 FFF 	 FFF 	narrative
+289-03	69	0	glyburide 1.25mg po qd; Dir: take with breakfast or first meal	glyburide FFF 0 0	1.25mg FFF 1 1	po FFF 2 2	qd; FFF 3 3	 FFF 	 FFF 	narrative
+289-03	70	0	Fish oil 1 gm DAILY	fish oil FFF 0 1	1 gm FFF 2 3	 FFF 	daily FFF 4 4	 FFF 	 FFF 	narrative
+289-03	71	0	Ativan 1mg po prn air travel	ativan FFF 0 0	1mg FFF 1 1	po FFF 2 2	prn FFF 3 3	 FFF 	 FFF 	narrative
+289-03	72	0	atenolol 25 bid	atenolol FFF 0 0	25 FFF 1 1	 FFF 	bid FFF 2 2	 FFF 	 FFF 	narrative
+289-03	73	0	lisinopril 5 mg po qd	lisinopril FFF 0 0	5 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+289-03	74	0	Singulair 10mg po qd	singulair FFF 0 0	10mg FFF 1 1	po FFF 2 2	qd FFF 3 3	 FFF 	 FFF 	narrative
+289-03	75	0	Advair 500/50mcg spray inh bid	advair 500/50mcg spray FFF 0 2	 FFF 	inh FFF 3 3	bid FFF 4 4	 FFF 	 FFF 	narrative
+289-03	76	0	albuterol inhaler inh; Dir: 2 puffs qid prn	albuterol inhaler FFF 0 1	2 puffs FFF 4 5	inh; FFF 2 2	qid prn FFF 6 7	 FFF 	 FFF 	narrative
+289-03	77	0	Protonix 40 mg po qd; Dir: do not cut/crush/chew	protonix FFF 0 0	40 mg FFF 1 2	po FFF 3 3	qd; FFF 4 4	 FFF 	 FFF 	narrative
+289-03	79	0	Advair 500/50mcg spray inh bid Start: 5/4/2075	advair 500/50mcg spray FFF 0 2	 FFF 	inh FFF 3 3	bid FFF 4 4	 FFF 	 FFF 	narrative
+289-03	80	0	Protonix 40 mg po qd do not cut/crush/chew QTY:90 Refills:3 Start: 02/23/2077	protonix FFF 0 0	40 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+289-03	81	0	levofloxacin 500 mg po qd x10d QTY:10 Refills:0 Start: 1/22/2077 End: 02/23/2077 - Inactivated	levofloxacin FFF 0 0	500 mg FFF 1 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-03	81	0	levofloxacin 500 mg po qd x10d QTY:10 Refills:0 Start: 1/22/2077 End: 02/23/2077 - Inactivated	levofloxacin FFF 0 0	 FFF 	po FFF 3 3	qd FFF 4 4	x10d FFF 5 5	 FFF 	narrative
+289-03	82	0	Robitussin ac 100mg/5ml po q4h PRN 10ml QTY:8 oz Refills:0 Start: 1/22/2077 End: 2/23/2077 - Inactivated	robitussin ac FFF 0 1	100mg/5ml FFF 2 2	po FFF 3 3	q4h PRN FFF 4 5	 FFF 	 FFF 	narrative
+289-03	83	0	omeprazole 20mg po bid take1/2 hour before breakfast,supper QTY:180 Refills:3 Start: 10/10/2076 End: 02/23/2077 - Inactivated	omeprazole FFF 0 0	20mg FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+289-03	83	0	omeprazole 20mg po bid take1/2 hour before breakfast,supper QTY:180 Refills:3 Start: 10/10/2076 End: 02/23/2077 - Inactivated	omeprazole FFF 0 0	 FFF 	po FFF 2 2	bid FFF 3 3	take1/2 hour FFF 4 5	 FFF 	narrative

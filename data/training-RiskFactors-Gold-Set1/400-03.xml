@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2066-10-14
+
+HPI; pt was seen at her pulmonary specialist yesterday &amp; noted to have high BP 188/100. She denies any headache, change in vision, lightheadedness or dizziness. She reports that she has been hospitalized twice for hypertension &amp; both times she was asymptomatic. Is on avapro 300mg, labetalol 300mg bid &amp; norvasc 10mg. Dr. Rosas her PCP has tried diuretic &amp; pt developed hyponatremia. Pt has been advised in the past to restrict her intake of free water.
+
+
+VS 
+BP R arm 168/84 168/78, L arm 150/88  HR 80
+
+
+PE
+Lungs ctab
+Cardiac rrr no r/m/g
+LE some edema
+
+
+Assessment/Plan HTN, repeat chem 7, referred back to Dr. Marvin Zigler 
+pt discussed with Dr. Gregory Rosas
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC3" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC5" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC10" time="before DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC13" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC14" time="during DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="ARB" type2=""/>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC15" time="before DCT" indicator="high bp"/>
+    <FAMILY_HIST id="DOC7" indicator="not present"/>
+    <SMOKER id="DOC12" status="unknown"/>
+  </TAGS>
+</root>

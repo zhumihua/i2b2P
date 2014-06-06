@@ -1,0 +1,80 @@
+308-04||1||Record date: 2076-09-24
+308-04||3||Team 4 Admit Note
+308-04||4||Admission Date: 9/23/2076
+308-04||5||Patient Name: Carrillo, Percy
+308-04||6||MRN#: 1668727
+308-04||7||Attending: Kidd, Yechiel
+308-04||8||Historian: patient and ED report||INDICATION FFF ed FFF 3 3||
+308-04||9||Reason for admission: change in MS and placement issues||INDICATION FFF change FFF 3 3||
+308-04||10||HPI: Patient is a 63-year-old man with mental retardation, diabetes mellitus, hypertension, hyperlipidemia, and s/p CVA in 2075 (subacute right medullary and pontine strokes secondary to extensive atherosclerotic disease of the right internal carotid artery).||INDICATION FFF mental retardation, FFF 7 8||INDICATION FFF diabetes mellitus, FFF 9 10||INDICATION FFF hypertension, FFF 11 11||INDICATION FFF hyperlipidemia, FFF 12 12||INDICATION FFF cva FFF 15 15||INDICATION FFF strokes FFF 23 23||
+308-04||11||He has been cared at home by his sister since his stroke last year and per his PCP&#8217;s notes earlier this year and per ED report his behavior and management has become steadily more difficult for his sister at home.||INDICATION FFF stroke FFF 11 11||INDICATION FFF pcp&#8217;s FFF 17 17||INDICATION FFF ed FFF 24 24||INDICATION FFF behavior FFF 27 27||
+308-04||12||Pt&#8217;s sister not with him on the floor however, per ED report pt supposedly found eating his own feces earlier and his sister expressing frustration and requesting a rehab placement for patient.||INDICATION FFF ed FFF 10 10||
+308-04||13||Currently patient is alert an oriented x 3 and while denying any issues or complaints does express understanding that he is admitted with goal of being placed at a NH or rehab place.||FREQ FFF x 3 FFF 6 7||DRT FFF while FFF 9 9||
+308-04||14||He denies any CP, SOB, n/v, f/c, HA, change in vision, worsening numbness, tingling, or parasthesia.||INDICATION FFF cp, FFF 3 3||INDICATION FFF sob, FFF 4 4||INDICATION FFF f/c, FFF 6 6||INDICATION FFF ha, FFF 7 7||INDICATION FFF change FFF 8 8||
+308-04||15||He does report decrease right-sided strength on his right side but reports improvement in strength since the CVA last year especially in the lower extremities.||INDICATION FFF cva FFF 17 17||
+308-04||16||In ED CT of the head was performed and pt admitted for further w/u and possible placement.||INDICATION FFF ed FFF 1 1||INDICATION FFF ct FFF 2 2||
+308-04||17||Past Medical History:
+308-04||18||HTN||INDICATION FFF htn FFF 0 0||
+308-04||19||Hyperlipidemia||INDICATION FFF hyperlipidemia FFF 0 0||
+308-04||20||seizure disorder ?since childhood (no seizure since childhood)||INDICATION FFF seizure disorder FFF 0 1||INDICATION FFF seizure FFF 5 5||
+308-04||21||DM||INDICATION FFF dm FFF 0 0||
+308-04||22||H/o head trauma 13 years ago.||INDICATION FFF head trauma FFF 1 2||DRT FFF 13 years FFF 3 4||
+308-04||23||Left subdural hematoma, right ventriculomegaly secondary to obstructive hydrocephalus, right cerebellar contusion s/p right suboccipital craniotomy mental retardation s/p CVA in Sep-2075 (subacute right medullary and pontine strokes  extensive atherosclerotic disease of the right internal carotid artery||INDICATION FFF mental retardation FFF 16 17||INDICATION FFF cva FFF 19 19||INDICATION FFF strokes FFF 27 27||
+308-04||25||Medications: (Per Dr.
+308-04||26||Kaufman&#8217;s note from July 14, 2076)
+308-04||27||Glucophage (METFORMIN) 1000 MG (500MG TABLET take 2) PO BID||DBN FFF glucophage FFF 0 0||DOSE FFF 1000 mg FFF 2 3||DOSE FFF (500mg FFF 4 4||RUT FFF po FFF 8 8||FREQ FFF bid FFF 9 9||
+308-04||28||Micronase (GLYBURIDE) 5 MG (5MG TABLET take 1) PO QD x 90 days||DBN FFF micronase FFF 0 0||DOSE FFF 5 mg FFF 2 3||DOSE FFF (5mg FFF 4 4||RUT FFF po FFF 8 8||FREQ FFF qd FFF 9 9||DRT FFF x 90 days FFF 10 12||
+308-04||29||Percocet 5 MG/325 MG (OXYCODONE 5 MG/ACETAMINOPHEN 325 MG) 1 TAB PO Q6H PRN pain||DBN FFF percocet FFF 0 0||DOSE FFF 5 mg/325 mg FFF 1 3||DIN FFF mg/acetaminophen FFF 6 6||DOSE FFF 325 mg) FFF 7 8||DOSEAMT FFF 1 tab FFF 9 10||RUT FFF po FFF 11 11||FREQ FFF q6h FFF 12 12||NEC FFF prn FFF 13 13||INDICATION FFF pain FFF 14 14||
+308-04||30||Plavix (CLOPIDOGREL) 75 MG (75MG TABLET take 1) PO QD x 90 days||DBN FFF plavix FFF 0 0||DOSE FFF 75 mg FFF 2 3||DOSE FFF (75mg FFF 4 4||RUT FFF po FFF 8 8||FREQ FFF qd FFF 9 9||DRT FFF x 90 days FFF 10 12||
+308-04||31||Simvastatin 40 MG (40MG TABLET take 1) PO QHS||DIN FFF simvastatin FFF 0 0||DOSE FFF 40 mg FFF 1 2||DOSE FFF (40mg FFF 3 3||RUT FFF po FFF 7 7||FREQ FFF qhs FFF 8 8||
+308-04||32||Tegretol (CARBAMAZEPINE) 200MG TABLET take 1 Tablet(s) PO TID x 30 days||DBN FFF tegretol FFF 0 0||DOSE FFF 200mg FFF 2 2||DOSEAMT FFF 1 tablet(s) FFF 5 6||RUT FFF po FFF 7 7||FREQ FFF tid FFF 8 8||DRT FFF 30 days FFF 10 11||
+308-04||33||Allergies:||INDICATION FFF allergies: FFF 0 0||
+308-04||34||Hydrocodone 5 Mg + Apap 500mg - GI UPSET||DIN FFF hydrocodone FFF 0 0||DOSE FFF 5 mg FFF 1 2||DBN FFF apap FFF 4 4||DOSE FFF 500mg FFF 5 5||
+308-04||35||Family History:  ?
+308-04||36||Social History:  legally blind, lives w/ sister Urquiza who is his care taker.
+308-04||37||Review of Systems: as noted above||INDICATION FFF as FFF 3 3||
+308-04||38||Physical Examination
+308-04||39||Vital Signs:  T 98.2         P 77          BP 146/74           RR 20           O2: 97% RA||INDICATION FFF t FFF 2 2||INDICATION FFF bp FFF 6 6||DOSE FFF 97% FFF 11 11||INDICATION FFF ra FFF 12 12||
+308-04||40||General: sleeping comfortably, NAD
+308-04||41||HEENT:   PERRLA, EOMI, nystagmus on lateral gaze bilaterally, oral mucosa moist, conjunctiva clear||RUT FFF oral FFF 8 8||
+308-04||42||Skin:    no rash or ulcers on the trunk or extrmities||INDICATION FFF ulcers FFF 4 4||
+308-04||43||Neck:  supple with full ROM, no jvd
+308-04||44||Chest: CTA B
+308-04||45||Heart: RRR, no r/g/m
+308-04||46||Abdomen:    s, nt, nd, +BS||INDICATION FFF +bs FFF 4 4||
+308-04||47||Extremities:  no c/c/e
+308-04||48||Neurological: CNII-XII grossly intact.
+308-04||49||Patient oriented to place and time and to person (president) with little help.
+308-04||50||About 4/5 strength on the LUE, LLE, RLE.  2-3/5 strength on the RUE.
+308-04||51||Diagnostic Studies:
+308-04||52||09/23/2076 NA 139,  K 4.0,  CL 104,  CO2 26.3,  BUN 15,  CRE 0.9,  GLU 199 (H)||DIN FFF na FFF 1 1||DOSE FFF 139, FFF 2 2||INDICATION FFF k FFF 3 3||INDICATION FFF cl FFF 5 5||DIN FFF glu FFF 13 13||DOSE FFF 199 FFF 14 14||
+308-04||53||09/23/2076 WBC 8.9,  RBC 4.46 (L),  HGB 14.4,  HCT 38.6 (L),  MCV 87,  MCH 32.3,  MCHC 37.4 (H),  PLT 201
+308-04||54||09/23/2076 RDW 13.8
+308-04||55||09/23/2076 PT 11.8,  PT-INR 1.0,  PTT 24.0||INDICATION FFF ptt FFF 5 5||
+308-04||56||09/23/2076 UA-COLOR Yellow,  UA-APP Clear,  UA-GLUC 3+,  UA-BILI NEGATIVE,  UA-KET NEGATIVE,  UA-SPGR 1.020,  UA-BLD NEGATIVE,  UA-PH 6.0
+308-04||57||09/23/2076 UA-PROT NEGATIVE,  UA-UROBI NEGATIVE,  UA-NIT NEGATIVE,  UA-WBC NEGATIVE
+308-04||58||09/23/2076 TOX1 ,  TOX2
+308-04||59||09/23/2076 UR-ACETOM NEGATIVE,  UAMPH NEGATIVE,  UBARB NEGATIVE,  UBENZ NEGATIVE,  URCOCA NEGATIVE,  UMAMPH NEGATIVE,  UMETHD NEGATIVE,  UOPI NEGATIVE
+308-04||60||09/23/2076 URPCP NEGATIVE,  UTHC NEGATIVE,  TRC-UG POSITIVE
+308-04||61||CXR:
+308-04||62||IMPRESSION:
+308-04||63||Normal Chest.
+308-04||64||CT Head:||INDICATION FFF ct FFF 0 0||
+308-04||65||IMPRESSION:
+308-04||66||1.
+308-04||67||No acute intracranial hemorrhage.||INDICATION FFF hemorrhage. FFF 3 3||
+308-04||68||No focal soft tissue       swelling.||INDICATION FFF swelling. FFF 4 4||
+308-04||69||2.
+308-04||70||Evidence of prior intracranial injury and surgery as described       above, stable compared to prior study.||INDICATION FFF surgery FFF 6 6||INDICATION FFF as FFF 7 7||
+308-04||71||3.
+308-04||72||Stable mild opacification of the right mastoid air cells.
+308-04||73||Impression/Plan: 63-year-old man with mental retardation, diabetes mellitus, hypertension, hyperlipidemia, and s/p CVA in 2075 who has been taken care of by his sister.||INDICATION FFF mental retardation, FFF 4 5||INDICATION FFF diabetes mellitus, FFF 6 7||INDICATION FFF hypertension, FFF 8 8||INDICATION FFF hyperlipidemia, FFF 9 9||INDICATION FFF cva FFF 12 12||
+308-04||74||Steadily with worsening behavioral issues and more difficult to take care of by his sister.
+308-04||75||Head CT is negative for a new CVA and labs are grossly normal and not suggestive of any major metabolic imbalance.||INDICATION FFF ct FFF 1 1||INDICATION FFF cva FFF 7 7||
+308-04||76||Patient also appears stable and NAD and fairly alert and oriented to the situation.
+308-04||77||He will likely benefit from a nursing home or rehab placement. - Continue with out patient medications - PT/OT consult - Social services consult - Regular diet
+308-04||78||- Diabetic diet
+308-04||79||- RISS and FS qid||FREQ FFF qid FFF 4 4||
+308-04||80||- Lovenox 30 bid||DBN FFF lovenox FFF 1 1||DOSE FFF 30 FFF 2 2||FREQ FFF bid FFF 3 3||
+308-04||81||- Full Code
+308-04||82||_______________

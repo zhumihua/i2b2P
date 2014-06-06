@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2080-06-14
+
+
+
+
+
+
+
+Johnsonville Family Clinic
+
+5388 Main Street              OSBORNE, MATTISON
+
+Oroville, AL  89389                    48423663
+
+(468) 429-7459                     06/14/2080
+
+
+
+
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 71-year-old male who returns to the clinic for a followup visit.  The patient has a history of diabetes mellitus and hypertension.  He also had an episode of bronchitis about 2 months ago, which was treated with antibiotics.  The patient feels improved today
+
+
+
+PHYSICAL EXAMINATION:  An elderly male in no acute distress.  Blood pressure is 142/90 and pulse is 64.  Chest is clear bilaterally.  Heart:  Regular rate and rhythm.  Positive S1 and S2.  Negative S3 and S4.  No murmur.  Abdomen is soft, nontender, positive bowel sounds.  Lower extremities, no edema, nontender.
+
+
+
+IMPRESSION AND PLAN:
+
+1.  Diabetes mellitus.  The patient reports blood sugars which have ranged from 106-158 and reports overall good control of his diabetes mellitus.  We will continue current treatment, especially in view of the fact that his most recent hemoglobin A1c in February was 6.1 and repeat hemoglobin A1c when he returns for his next visit.
+
+2.  Hypertension.  The patient's atenolol was recently decreased from 50 mg to 25 mg because of bradycardia and lisinopril was increased to 60 mg because of microalbuminuria.  The patient's heart rate is appropriate at 64 even though his blood pressure remains borderline elevated.  We will check a microalbumin today.
+
+4.  Recent TSH was mildly suppressed and we will repeat this today.
+
+5.  Regular healthcare maintenance.  A CT of the patient's chest will be repeated when he returns for his next visit as recommended by radiology.
+
+
+
+
+
+______________________________
+
+Willie Knapp, MD
+
+
+
+
+
+
+
+
+
+
+
+eScription document:9-3577639 HFFocus transcriptionists
+
+
+
+
+
+
+
+DD: 06/17/80
+
+DT: 06/17/80
+
+DV: 06/14/80
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC5" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC13" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC3" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC10" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC11" indicator="not present"/>
+    <SMOKER id="DOC12" status="unknown"/>
+    <DIABETES id="DOC2" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC9" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC14" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

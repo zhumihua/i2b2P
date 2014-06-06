@@ -1,0 +1,21 @@
+334-04	16	0	In March of this year he underwent a distal bpg from the R posterior tibial artery to the plantar artery and then a R TMA later that month.	tma FFF 24 24	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+334-04	17	0	His R TMA has healed well since then.	tma FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+334-04	25	0	He continues on coumadin for graft patentcy.	coumadin FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+334-04	35	0	3/15/33 open R TMA with completion R TMA on 3/21/33	tma FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+334-04	35	0	3/15/33 open R TMA with completion R TMA on 3/21/33	tma FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+334-04	45	438	1. Clopidogrel  75 MG PO QD  2.	clopidogrel FFF 1 1	75 mg FFF 2 3	po FFF 4 4	qd FFF 5 5	 FFF 	 FFF 	narrative
+334-04	46	438	Digoxin  0.25 MG PO QD  3. Diltiazem  90 MG PO QID  4.	digoxin FFF 0 0	0.25 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+334-04	46	438	Digoxin  0.25 MG PO QD  3. Diltiazem  90 MG PO QID  4.	diltiazem FFF 6 6	90 mg FFF 7 8	po FFF 9 9	qid FFF 10 10	 FFF 	 FFF 	narrative
+334-04	47	438	Docusate Sodium (Colace)  100 MG PO BID prn Constipation    5.	Docusate Sodium (Colace) FFF 0 2	100 mg FFF 3 4	po FFF 5 5	BID prn FFF 6 7	 FFF 	 FFF 	narrative
+334-04	48	438	Insulin Nph Human  15 UNITS SC QAM BEFORE BREAKFAST  6.	insulin nph human FFF 0 2	15 units FFF 3 4	sc FFF 5 5	qam FFF 6 6	 FFF 	 FFF 	narrative
+334-04	49	438	Insulin Nph Human  4 UNITS SC QHS  7.	insulin nph human FFF 0 2	4 units FFF 3 4	sc FFF 5 5	qhs FFF 6 6	 FFF 	 FFF 	narrative
+334-04	50	438	Insulin Regular Inj  5 UNIT SC QAM BEFORE BREAKFAST  8.	insulin regular inj FFF 0 2	 FFF 	sc FFF 5 5	qam FFF 6 6	 FFF 	 FFF 	narrative
+334-04	51	438	Insulin Regular Inj  8 UNIT SC QPM BEFORE SUPPER  9.	insulin regular inj FFF 0 2	 FFF 	sc FFF 5 5	qpm FFF 6 6	 FFF 	 FFF 	narrative
+334-04	52	438	Lansoprazole (Prevacid)  30 MG PO QD 10.	Lansoprazole (Prevacid) FFF 0 1	30 mg FFF 2 3	po FFF 4 4	qd FFF 5 5	 FFF 	 FFF 	narrative
+334-04	53	438	Metoprolol Succinate Extended Release  100 MG PO QD 11.	metoprolol succinate extended release FFF 0 3	100 mg FFF 4 5	po FFF 6 6	qd FFF 7 7	 FFF 	 FFF 	narrative
+334-04	54	438	Pravastatin  40 MG PO QPM 12.	pravastatin FFF 0 0	40 mg FFF 1 2	po FFF 3 3	qpm FFF 4 4	 FFF 	 FFF 	narrative
+334-04	55	438	Warfarin Sodium  5 MG PO QPM dose last taken 08/22/2133	warfarin sodium FFF 0 1	5 mg FFF 2 3	po FFF 4 4	qpm FFF 5 5	 FFF 	 FFF 	narrative
+334-04	56	0	ALL:  oxacillin&#224;rash	oxacillin&#224;rash FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+334-04	71	0	RLE: well healed RLE TMA;	tma; FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+334-04	80	0	ECG: pending	ecg: FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+334-04	83	0	JAIN, OLIVER                        DOB:    05 Feb 2066	dob: FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

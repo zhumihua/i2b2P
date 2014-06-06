@@ -1,0 +1,90 @@
+275-04	1	Record date: 2089-06-30		 
+275-04	2	CARDIOLOGY		 
+275-04	3			 
+275-04	4	NORTHERN STATE HOSPITAL		 
+275-04	5			 
+275-04	6	Interval History:		 
+275-04	7	Ms. Kong presents to follow-up her recent hospitalizations.		 
+275-04	8	Briefly, she was admitted in early April with Group B strep bacteremia and AoV endocarditis with mod to severe AI.		 
+275-04	9	The source of GBS bacteremia remains unclear although she had an episode of shingles a few weeks prior and may have caused a cutaneous innoculation.		 
+275-04	10	Pre-op angiogram showed no significant CAD.		 
+275-04	11	On 4/5/89 she underwent composite aortic root replacement with a 20mm life net aortic homograft by Dr.		 
+275-04	12	Jerome.		 
+275-04	13	Due to heavily calcified RCA ostium, a button for re-implantation couldn't be created so she recieved a single vessel SVG to prox RCA.		DIN FFF vessel#18
+275-04	14	Post op course was complicated by afib with high grade AV block for which she recieved a dual chamber PPM.		 
+275-04	15	She was discharged to rehab with a PICC to complete a course of IV PCN.		DRT FFF a course#11	RUT FFF iv#13	DIN FFF pcn#14
+275-04	16	However, she was re-admitted in early May while still at rehab with an episode of chest pain at rest.		 
+275-04	17	ECG was paced but biomarkers were mildly positive (troponin ~0.5).		DIN FFF ecg#0
+275-04	18	TTE showed the valve was well seated without suggestion of recurrent endocarditis.		 
+275-04	19	There was a new apical WMA.		 
+275-04	20	She underwent cath which showed patent BPG and no significant CAD.		 
+275-04	21	The episode was attributed to embolic phenomenon (? from afib, INR 1.5 on admission).		 
+275-04	22	She was discharged back to rehab and has done well since.		 
+275-04	23	She was seen in the ID clinic and the PICC line was pulled.		 
+275-04	24	She's back home from rehab now and seems to be fairly well.		 
+275-04	25	She gets fatigued easily and has to rest after walking about a 100 yards.		 
+275-04	26	However, she denies CP, SOB, palpitations, presyncope or focal neurologic deficits.		 
+275-04	27	No F/C or weight loss.		 
+275-04	28	She has a long history of bilateral calf caludication but she isn't exerting herself enough to elicit symptoms.		 
+275-04	29	While at rehab, she was sleeping on 4 pillows and would develop orthopnea if sleeping flat.		 
+275-04	30	Now she's sleeping on 2 pillows for comfort and doesn't seem to have anymore orthopnea.		 
+275-04	31	However, she does experience what sounds like PND a couple of times per week.		 
+275-04	32	She denies LE edema.		 
+275-04	33	She's tolerating all medications well.		 
+275-04	34	Home BS checks have been running 90-130.		 
+275-04	35	Past medical history:		 
+275-04	36	- GBS AoV endocarditis s/p aortic root replacement with 20mm homograft		 
+275-04	37	- PAF/SSS s/p dual chamber PPM		 
+275-04	38	- PVD:		 
+275-04	39	-> s/p R CEA; CNIs (4/89) mod 50-69% R ICA (peak vel ~250cm/s), mild L ICA stenosis		 
+275-04	40	-> long history of bilateral calf claudication after 10-15 mins ambulation; improved on pletal		DBN FFF pletal#13
+275-04	41	- patent foramen ovale		 
+275-04	42	- DM2		 
+275-04	43	- breast CA s/p bilateral mastectomies; on letrozole		INDICATION FFF ca#2	DIN FFF letrozole#7
+275-04	44	- back surgery with rod placement at MSHMC 2088		 
+275-04	45	- GERD		 
+275-04	46	Medications (Confirmed):		 
+275-04	47			 
+275-04	48	Advair  250/50mcg spray inh bid		DBN FFF advair#0	DOSE FFF 250/50mcg#1	DDF FFF spray#2	RUT FFF inh#3	FREQ FFF bid#4
+275-04	49	amiodarone  200mg po daily		DIN FFF amiodarone#0	DOSE FFF 200mg#1	RUT FFF po#2	FREQ FFF daily#3
+275-04	50	aspirin  325 mg po daily		DIN FFF aspirin#0	DOSE FFF 325mg#2	RUT FFF po#3	FREQ FFF daily#4
+275-04	51	Combivent  120/21mcg/spray inh qid		DBN FFF combivent#0	DOSE FFF 120/21mcg#1	DDF FFF spray#1	RUT FFF inh#2	FREQ FFF qid#3
+275-04	52	Coumadin		DBN FFF coumadin#0
+275-04	53	Femara  2.5mg QD		DBN FFF femara#0	DOSE FFF 2.5mg#1	FREQ FFF qd#2
+275-04	54	Lipitor  20mg po daily		DBN FFF lipitor#0	DOSE FFF 20mg#1	RUT FFF po#2	FREQ FFF daily#3
+275-04	55	Lopressor  25mg po bid		DBN FFF lopressor#0	DOSE FFF 25mg#1	RUT FFF po#2	FREQ FFF bid#3
+275-04	56	metformin hydrochloride  500 mg po daily		DIN FFF metformin hydrochloride#1	DOSE FFF 500mg#3	RUT FFF po#4	FREQ FFF daily#5
+275-04	57	ophthalmic pilocarpine solution  0.5% QID		DIN FFF pilocarpine#1	DDF FFF solution#2	DOSE FFF 0.5%#3	FREQ FFF qid#4
+275-04	58	Os cal  500mg/125 units po bid		 
+275-04	59	Pletal  100mg PO BID		DBN FFF pletal#0	DOSE FFF 100mg#1	RUT FFF po#2	FREQ FFF bid#3
+275-04	60	Prilosec  40mg po BID		DBN FFF prilosec#0	DOSE FFF 40mg#1	RUT FFF po#2	FREQ FFF bid#3
+275-04	61	Zantac  300mg po at bedtime		DBN FFF zantac 300#1	RUT FFF po#2	TOD FFF at bedtime#4
+275-04	62	Allergies:		 
+275-04	63			 
+275-04	64	No known drug allergy		 
+275-04	65	Social history:		 
+275-04	66	Retired Welder, widowed, lives alone, 2 children		 
+275-04	67	Tob - former 1 ppd x 30 yrs, quit 2079		 
+275-04	68	EtOH - rare		 
+275-04	69	Drugs - none		DIN FFF drugs#0
+275-04	70	Review of systems:		 
+275-04	71	otherwise negative in detail		 
+275-04	72	Physical examination:		 
+275-04	73			 
+275-04	74	-BP: 98/66  left arm		 
+275-04	75	-Pulse: 70s  regular		 
+275-04	76	-weight: 123  lbs.		 
+275-04	77	-General appearance:   well appearing		 
+275-04	78	-Skin:   well healing mid-line sternotomy, pacer pocker C/D/I		 
+275-04	79	-Neck:   carotids 2+, soft R>L bruits, JVP<7cm		 
+275-04	80	-Chest:   decreased BS at bases, o/w clear		 
+275-04	81	-Cardiac:   RRR, I/VI early sys M at RUSB, no R/G		 
+275-04	82	-Abdomen:   soft, NT, pos BS		 
+275-04	83	-Extremities:   trace symmetric LE edema		 
+275-04	84	Procedures:		 
+275-04	85			 
+275-04	86	Transthoracic echocardiogram STATUS POST EF 56%, well seated AoV bioprosthesis (peak 12, mean 6), apical WMA, normal RV fxn, L->R shunting by Doppler c/w PFO		 
+275-04	87	EKG:		 
+275-04	88	A-V sequentially paced at 70		 
+275-04	89	Impression:		 
+275-04	90	Overall, Ms. Kong seems to be recovering quite well after a difficult couple of months.		 

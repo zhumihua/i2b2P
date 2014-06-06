@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2070-10-01
+
+ 
+
+IMS Cardiovascular Division
+
+CVD TR7
+
+33 Auburn Street                                      JOSHI, KATHY
+
+Rehoboth, NM 42761                                           15842112
+
+(326) 176-2429                                           10/01/70
+
+ 
+
+ 
+
+ 
+
+ 
+
+Benjamin Taylor, M.D.
+
+Illini Community Hospital
+
+94 Cardinal Circle
+
+Three Rivers, NM 11424.
+
+ 
+
+ 
+
+Dear Dr. Taylor:
+
+ 
+
+Mrs. Joshi returns for followup.  Currently, she complains of
+
+exertional fatigue, exertional dyspnea, and mild peripheral
+
+edema.  Since last seen, she has continued to find it quite
+
+difficult to lose weight, and has thus far declined seeing
+
+members of our obesity clinic.  As you know, in the past, she
+
+also has declined any consideration of attempted cardioversion or
+
+other invasive studies.  Presently, she remains on a regimen of
+
+enteric-coated aspirin 325 mg p.o. q.d., simvastatin 20 mg p.o.
+
+q.d., metoprolol 50 mg p.o. b.i.d., isosorbide nitrate 60 mg p.o.
+
+q.d., Avapro 150 mg p.o. q.d., Actos 45 mg p.o. q.d., potassium,
+
+10 mEq p.o. q.d. Pumex 2 mg p.o. q.d., Coumadin, magnesium oxide,
+
+Humulin insulin 20 units subcutaneous q. a.m. along with 50 units
+
+subcutaneous q. p.m., and Humalog 26 units subcutaneous q. a.m.
+
+ 
+
+Physical examination reveals a markedly overweight woman in no
+
+acute distress.  Blood pressure right arm sitting at 106/62,
+
+heart rate 65 and irregularly regular, respirations 16 and
+
+unlabored, weight 306 lbs, which is 6 lbs above her weight 10
+
+months ago.  The neck is soft.  JVP is flat.  Carotids without
+
+significant bruits.  Chest is clear.  Cardiac exam reveals a
+
+normal S1, a physiologically split S2, with a1-2/6 systolic
+
+murmur radiating from apex to the base.  No significant diastolic
+
+murmur or rub.  The abdomen is obese, but otherwise benign.
+
+Extremities reveal 1-2+ bipedal edema, peripheral pulses are
+
+intact albeit mildly diminished.
+
+ 
+
+Electrocardiogram shows atrial fibrillation with a variable QRS
+
+response.  The P waves are more organized than one might usually
+
+see, suggesting the possibility of fibrillation/flutter as well. 
+
+QRS 0.11, QT 0.38, axis 90 degrees, there is evidence of a prior
+
+inferior myocardial infarction.  Compared with his last
+
+electrocardiogram, there is no significant change.
+
+ 
+
+Impression:  Mrs. Joshy continues to suffer from morbid obesity,
+
+and I had a long discussion with her and her daughter regarding
+
+the essential nature of her engaging in an aggressive weigh
+
+reduction program.  I once again have strongly encouraged her to
+
+make an appointment with our obesity clinic to assist in
+
+extensive weight reduction.  I also discussed with her my
+
+concerns regarding her symptoms of slowly progressive peripheral
+
+edema, particularly as it pertains both to her weight, and atrial
+
+or tachyarrhythmias.  As in the past, she told me that she would
+
+refuse any consideration for attempted cardioversion or other
+
+studies.  She did, however, agree to continue with her current
+
+medical regimen.  I obtained routine blood studies today to
+
+verify the adequacy of her lipid control and diabetes management.
+
+ I have introduced her to Hayden Nutter, her nurse practitioner, who
+
+will assist in trying to achieve a little more diuresis overt he
+
+next few weeks.  We have given her a prescription for Zaroxylyn
+
+to begin at 2.5 mg p.o. q.d., which will help result in some
+
+degree of mild diuresis.  Nonetheless, she understands that
+
+significant weight loss can only occur through a weight reduction
+
+program.  I have of course explained to her the increased cardiac
+
+morbidity associated with her current lifestyle.  Beyond this, I
+
+have not altered her current medical regimen.
+
+ 
+
+Of course, I thank you for allowing me to assist in his care.
+
+ 
+
+Sincerely yours,
+
+ 
+
+Dictated By: Brandon Neilson
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+______________________________
+
+Brandon Neilson, M.D.
+
+ 
+
+ 
+
+eScription document:8-5334486 AFFocus
+
+ 
+
+ 
+
+ 
+
+DD: 10/01/70
+
+DT: 10/02/70
+
+DV: 10/01/70
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC2" time="after DCT" indicator="mention"/>
+    <OBESE id="DOC13" time="before DCT" indicator="mention"/>
+    <OBESE id="DOC20" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC5" time="during DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC7" time="before DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC11" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC12" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC15" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC17" time="during DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC21" time="after DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC22" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC23" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC24" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC25" time="during DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC26" time="before DCT" type1="ARB" type2=""/>
+    <CAD id="DOC19" time="before DCT" indicator="event"/>
+    <FAMILY_HIST id="DOC14" indicator="not present"/>
+    <SMOKER id="DOC9" status="unknown"/>
+  </TAGS>
+</root>

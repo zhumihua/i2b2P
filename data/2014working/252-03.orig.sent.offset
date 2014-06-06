@@ -1,0 +1,14 @@
+252-03	24	0	Presently, she remains on a regimen of enteric-coated aspirin 325 mg p.o. q.d., simvastatin 20 mg p.o.	aspirin FFF 8 8	325 mg FFF 9 10	p.o. FFF 11 11	q.d., FFF 12 12	 FFF 	 FFF 	narrative
+252-03	24	0	Presently, she remains on a regimen of enteric-coated aspirin 325 mg p.o. q.d., simvastatin 20 mg p.o.	simvastatin FFF 13 13	20 mg FFF 14 15	p.o. FFF 16 16	 FFF 	 FFF 	 FFF 	narrative
+252-03	25	0	q.d., metoprolol 50 mg p.o. b.i.d., isosorbide nitrate 60 mg p.o.	metoprolol FFF 1 1	50 mg FFF 2 3	p.o. FFF 4 4	b.i.d., FFF 5 5	 FFF 	 FFF 	narrative
+252-03	25	0	q.d., metoprolol 50 mg p.o. b.i.d., isosorbide nitrate 60 mg p.o.	isosorbide FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+252-03	25	0	q.d., metoprolol 50 mg p.o. b.i.d., isosorbide nitrate 60 mg p.o.	nitrate FFF 7 7	60 mg FFF 8 9	p.o. FFF 10 10	 FFF 	 FFF 	 FFF 	narrative
+252-03	26	0	q.d., Avapro 150 mg p.o. q.d., Actos 45 mg p.o. q.d., potassium,	avapro FFF 1 1	150 mg FFF 2 3	p.o. FFF 4 4	q.d., FFF 5 5	 FFF 	 FFF 	narrative
+252-03	26	0	q.d., Avapro 150 mg p.o. q.d., Actos 45 mg p.o. q.d., potassium,	actos FFF 6 6	45 mg FFF 7 8	p.o. FFF 9 9	q.d., FFF 10 10	 FFF 	 FFF 	narrative
+252-03	26	0	q.d., Avapro 150 mg p.o. q.d., Actos 45 mg p.o. q.d., potassium,	potassium, FFF 11 11	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+252-03	27	0	10 mEq p.o. q.d. Pumex 2 mg p.o. q.d., Coumadin, magnesium oxide,	coumadin, FFF 9 9	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+252-03	27	0	10 mEq p.o. q.d. Pumex 2 mg p.o. q.d., Coumadin, magnesium oxide,	magnesium oxide, FFF 10 11	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+252-03	28	0	Humulin insulin 20 units subcutaneous q. a.m. along with 50 units	humulin insulin FFF 0 1	 FFF 	subcutaneous FFF 4 4	q. a.m. FFF 5 6	 FFF 	 FFF 	narrative
+252-03	29	0	subcutaneous q. p.m., and Humalog 26 units subcutaneous q. a.m.	humalog FFF 4 4	26 units FFF 5 6	subcutaneous FFF 7 7	q. a.m. FFF 8 9	 FFF 	 FFF 	narrative
+252-03	63	0	We have given her a prescription for Zaroxylyn to begin at 2.5 mg p.o. q.d., which will help result in some degree of mild diuresis.	zaroxylyn FFF 7 7	2.5 mg FFF 11 12	p.o. FFF 13 13	q.d., FFF 14 14	 FFF 	 FFF 	narrative
+252-03	65	0	Beyond this, I have not altered her current medical regimen.	medical regimen. FFF 8 9	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

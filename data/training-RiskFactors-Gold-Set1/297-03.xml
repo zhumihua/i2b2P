@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2093-12-12
+
+SPENCER STATE HOSPITAL
+SPENCER Internal Medicine Associates
+100 Burrit St                             Vicente, Kadeem
+Fayetteville, MI  31474                             94859580
+                                              12-18-93
+ 
+ 
+ 
+HPI:  Mr. Vicente returns for follow-up.  He is status post TURP by Dr. 
+Nixon.  He is having a little bit of incontinence, but Dr. Nixon 
+thinks that this should get better.
+ 
+We will have to recheck his platelets, which have been in the 120 to 145 
+range.  We also will look back at his echocardiogram, which is showing 
+that he had slight mitral and tricuspid regurgitation as well as mildly 
+dilated LV with inferior hypokinesis.  He has remained on digoxin status 
+post his myocardial infarction.
+ 
+We want to recheck his cholesterol today.  We also have been concerned 
+that he has been a little depressed but mostly because he is concerned 
+about his wife's situation with breast cancer.  We had a long discussion 
+about this.
+ 
+Physical Examination:  On physical examination, his weight is 250 lbs.  
+His blood pressure was 178/80.  The follow-up was 170/80.  His neck was 
+supple.  Chest was clear to both percussion and auscultation.  Cardiac 
+exam was regularly regular with no murmurs, gallops or rubs.  Abdomen 
+was soft and nontender with no hepatosplenomegaly.  Extremities were 
+clear of cyanosis, clubbing or edema.  Rectal tone was normal and guaiac 
+negative.
+ 
+Laboratory Data:  His hematocrit was 39.9.  Platelets were within normal 
+limits.  White count is 8.3.  Digoxin is 0.9.  Lytes are within normal 
+limits.  
+ 
+Assessment and Plan:
+1.   Status post TURP.  He appears to be recovering well.  He has had 
+     slight incontinence, but I suspect this will pass.
+2.   Thrombocytopenia.  This was very relative.  It now appears to have 
+     resolved.
+3.   Coronary artery disease.  As he recovers from his TURP, I question 
+     whether it might be reasonable to go ahead and reexercise him.  At 
+     the present time, he is quite stable on an aspirin, digoxin and 
+     Lasix.  However, it may be that he would benefit from further 
+     treatment with anti-anginals.
+4.   Hypercholesterolemia.  This has been well-controlled recently.  His 
+     last cholesterol was 168 in August of 2093.
+5.   Depression.  He continues on Ambien.  He has some discretion about 
+     his wife's breast cancer, and he appears to have some of his 
+     uncertainty resolved.    
+ 
+_________________________
+Miles Echeverria, M.D.                                                      
+ 
+GH:VO:0860/DD:12-18-93/DT:12-20-93/DV:12-18-93                          
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC5" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC6" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC12" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="aspirin" type2=""/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="high bp"/>
+    <CAD id="DOC0" time="before DCT" indicator="mention"/>
+    <CAD id="DOC2" time="before DCT" indicator="event"/>
+    <CAD id="DOC7" time="during DCT" indicator="mention"/>
+    <CAD id="DOC11" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC9" indicator="not present"/>
+    <SMOKER id="DOC10" status="unknown"/>
+  </TAGS>
+</root>

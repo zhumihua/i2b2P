@@ -1,0 +1,12 @@
+400-03	1	Record date: 2066-10-14		 
+400-03	2	HPI; pt was seen at her pulmonary specialist yesterday &amp; noted to have high BP 188/100.		 
+400-03	3	She denies any headache, change in vision, lightheadedness or dizziness.		 
+400-03	4	She reports that she has been hospitalized twice for hypertension &amp; both times she was asymptomatic.		 
+400-03	5	Is on avapro 300mg, labetalol 300mg bid &amp; norvasc 10mg.		DBN FFF avapro#2	DOSE FFF 300mg#3
+400-03	5	Is on avapro 300mg, labetalol 300mg bid &amp; norvasc 10mg.		DIN FFF labetalol#4	DOSE FFF 300mg#5	FREQ FFF bid#6
+400-03	5	Is on avapro 300mg, labetalol 300mg bid &amp; norvasc 10mg.		DBN FFF norvasc#8	DOSE FFF 10mg#9
+400-03	6	Dr. Rosas her PCP has tried diuretic &amp; pt developed hyponatremia.		DIN FFF diuretic#6	INDICATION FFF hyponatremia#10
+400-03	7	Pt has been advised in the past to restrict her intake of free water.		 
+400-03	8	VS		 
+400-03	9	BP R arm 168/84 168/78, L arm 150/88  HR 80		 
+400-03	10	PE		 

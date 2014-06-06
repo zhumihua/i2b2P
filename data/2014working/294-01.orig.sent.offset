@@ -1,0 +1,30 @@
+294-01	17	0	The patient's nutrition and PO intake improved greatly s/p treatment for constipation with an aggressive bowel regimen.	bowel regimen. FFF 15 16	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+294-01	27	0	On the inpt ward, Mr. Shepherd was started on zyprexa 5 mg which was titrated up to a dose of 20 mg qHS. Cymbalta was initiated and titrated up to 60mg qDay with gradual and signficant improvement in his mood.  The patient also expressed difficulty sleeping which responded to Remeron 15mg. At the time of discharge, the patient reported good appetite, adequate sleep (about 8 hours a night, occasional awakening with nocturia), and significant improvement of his depression.  He further noted that his thoughts of being doomed to hell were still occasionally present, though much less intense than upon admission, and he reported that he was able to  challenge this belief "most of the time.	zyprexa FFF 9 9	5 mg FFF 10 11	 FFF 	qhs. FFF 22 22	 FFF 	 FFF 	narrative
+294-01	27	0	On the inpt ward, Mr. Shepherd was started on zyprexa 5 mg which was titrated up to a dose of 20 mg qHS. Cymbalta was initiated and titrated up to 60mg qDay with gradual and signficant improvement in his mood.  The patient also expressed difficulty sleeping which responded to Remeron 15mg. At the time of discharge, the patient reported good appetite, adequate sleep (about 8 hours a night, occasional awakening with nocturia), and significant improvement of his depression.  He further noted that his thoughts of being doomed to hell were still occasionally present, though much less intense than upon admission, and he reported that he was able to  challenge this belief "most of the time.	cymbalta FFF 23 23	60mg FFF 30 30	 FFF 	qday FFF 31 31	 FFF 	 FFF 	narrative
+294-01	27	0	On the inpt ward, Mr. Shepherd was started on zyprexa 5 mg which was titrated up to a dose of 20 mg qHS. Cymbalta was initiated and titrated up to 60mg qDay with gradual and signficant improvement in his mood.  The patient also expressed difficulty sleeping which responded to Remeron 15mg. At the time of discharge, the patient reported good appetite, adequate sleep (about 8 hours a night, occasional awakening with nocturia), and significant improvement of his depression.  He further noted that his thoughts of being doomed to hell were still occasionally present, though much less intense than upon admission, and he reported that he was able to  challenge this belief "most of the time.	remeron FFF 49 49	15mg. FFF 50 50	 FFF 	 FFF 	8 hours FFF 64 65	 FFF 	narrative
+294-01	33	0	He has since followed up with Frances Talley, where Zyprexa dose slowly tapered to decrease grogginess.	zyprexa FFF 9 9	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+294-01	36	0	Has continued to taper down Zyprexa to 3.75mg QHS.	zyprexa FFF 5 5	3.75mg FFF 7 7	 FFF 	qhs. FFF 8 8	 FFF 	 FFF 	narrative
+294-01	38	0	Nobles on Wednesday, felt that patient should continue to stay on low dose Zyprexa for now.	zyprexa FFF 13 13	 FFF 	 FFF 	on Wednesday, FFF 1 2	 FFF 	 FFF 	narrative
+294-01	39	0	Pt as fell has been tapering down Cymbalta as well, taking it QOD.	cymbalta FFF 7 7	 FFF 	 FFF 	qod. FFF 12 12	 FFF 	 FFF 	narrative
+294-01	76	438	Acetylsalicylic Acid (Aspirin) 325 MG PO QD	Acetylsalicylic Acid (Aspirin) FFF 0 2	325 mg FFF 3 4	po FFF 5 5	qd FFF 6 6	 FFF 	 FFF 	narrative
+294-01	77	438	Cilostazol 100 MG PO QD	cilostazol FFF 0 0	100 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+294-01	78	438	Brimonidine Tartrate 1 DROP OU BID	brimonidine tartrate FFF 0 1	1 drop FFF 2 3	ou FFF 4 4	bid FFF 5 5	 FFF 	 FFF 	narrative
+294-01	79	438	Multivitamins (Mvi ) 1 TAB PO QD	multivitamins FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+294-01	79	438	Multivitamins (Mvi ) 1 TAB PO QD	(mvi FFF 1 1	1 tab FFF 3 4	po FFF 5 5	qd FFF 6 6	 FFF 	 FFF 	narrative
+294-01	80	438	Simvastatin 80 MG PO QD	simvastatin FFF 0 0	80 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+294-01	81	438	Lisinopril 40 MG PO QD	lisinopril FFF 0 0	40 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+294-01	82	438	Docusate Sodium (Colace ) 100 MG PO TID	Docusate Sodium (Colace ) FFF 0 3	100 mg FFF 4 5	po FFF 6 6	tid FFF 7 7	 FFF 	 FFF 	narrative
+294-01	83	438	Olanzapine (Zyprexa ) 3.75 MG PO QHS	Olanzapine (Zyprexa ) FFF 0 2	3.75 mg FFF 3 4	po FFF 5 5	qhs FFF 6 6	 FFF 	 FFF 	narrative
+294-01	84	438	Polyethylene Glycol  (Miralax ) 17 GM PO QD	Polyethylene Glycol (Miralax ) FFF 0 3	17 gm FFF 4 5	po FFF 6 6	qd FFF 7 7	 FFF 	 FFF 	narrative
+294-01	85	438	Bisacodyl Rectal (Dulcolax Rectal ) 10 MG PR QD prn [constipation]	bisacodyl FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+294-01	85	438	Bisacodyl Rectal (Dulcolax Rectal ) 10 MG PR QD prn [constipation]	(dulcolax rectal FFF 2 3	10 mg FFF 5 6	pr FFF 7 7	QD prn FFF 8 9	 FFF 	 FFF 	narrative
+294-01	86	438	Duloxetine 60 MG PO QOD	duloxetine FFF 0 0	60 mg FFF 1 2	po FFF 3 3	qod FFF 4 4	 FFF 	 FFF 	narrative
+294-01	87	438	Metoprolol Succinate Extended Release (Toprol Xl ) 100 MG PO QD	metoprolol succinate extended release FFF 0 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+294-01	87	438	Metoprolol Succinate Extended Release (Toprol Xl ) 100 MG PO QD	(toprol xl FFF 4 5	100 mg FFF 7 8	po FFF 9 9	qd FFF 10 10	 FFF 	 FFF 	narrative
+294-01	88	438	Amlodipine (Norvasc ) 2.5 MG PO QD	Amlodipine (Norvasc ) FFF 0 2	2.5 mg FFF 3 4	po FFF 5 5	qd FFF 6 6	 FFF 	 FFF 	narrative
+294-01	89	438	Mirtazapine (Remeron ) 15 MG PO Q bedtime  prn [insomnia]	Mirtazapine (Remeron ) FFF 0 2	15 mg FFF 3 4	po FFF 5 5	Q bedtime prn FFF 6 8	 FFF 	 FFF 	narrative
+294-01	90	438	Terazosin Hcl 5 MG PO QD	terazosin hcl FFF 0 1	5 mg FFF 2 3	po FFF 4 4	qd FFF 5 5	 FFF 	 FFF 	narrative
+294-01	91	438	Metformin 500 MG PO QD	metformin FFF 0 0	500 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+294-01	102	0	Pneumovax: Have had in past	pneumovax: FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+294-01	103	0	Influenza Vaccine: Gets flu vaccine each year	influenza vaccine: FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+294-01	103	0	Influenza Vaccine: Gets flu vaccine each year	flu vaccine FFF 3 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

@@ -1,0 +1,28 @@
+294-04	6	0	Noted to have stable CAD and is on regimen for that including ACEI, BB, ASA, Statin.	bb, FFF 13 13	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+294-04	6	0	Noted to have stable CAD and is on regimen for that including ACEI, BB, ASA, Statin.	asa, FFF 14 14	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+294-04	6	0	Noted to have stable CAD and is on regimen for that including ACEI, BB, ASA, Statin.	statin. FFF 15 15	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+294-04	19	0	Had been asked to continue his proscar and 2 flomax qd for another month, then stop proscar and continue with just one flomax qd after this period of time.	proscar FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+294-04	19	0	Had been asked to continue his proscar and 2 flomax qd for another month, then stop proscar and continue with just one flomax qd after this period of time.	flomax FFF 9 9	 FFF 	 FFF 	qd FFF 10 10	 FFF 	 FFF 	narrative
+294-04	19	0	Had been asked to continue his proscar and 2 flomax qd for another month, then stop proscar and continue with just one flomax qd after this period of time.	proscar FFF 16 16	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+294-04	19	0	Had been asked to continue his proscar and 2 flomax qd for another month, then stop proscar and continue with just one flomax qd after this period of time.	flomax FFF 22 22	 FFF 	 FFF 	qd FFF 23 23	 FFF 	 FFF 	narrative
+294-04	23	0	Recommended restarting ASA s/p TURP.	asa FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+294-04	25	0	Has been only taking 3.75mg Zyprexa qd, not been taking 7.5mg as prescribed.	zyprexa FFF 5 5	7.5mg FFF 10 10	 FFF 	qd, FFF 6 6	 FFF 	 FFF 	narrative
+294-04	29	0	WOnders whether this can be due to FLomax	flomax FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+294-04	46	0	Aspirin (ACETYLSALICYLIC ACID) 325 MG (325MG TABLET take 1) PO QD , on hold for hematuria 3/02/2095	aspirin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+294-04	47	0	Brimonidine TARTRATE 1 DROP (0.2% DROPS ) OU QAM	brimonidine tartrate FFF 0 1	(0.2% FFF 4 4	ou FFF 7 7	qam FFF 8 8	 FFF 	 FFF 	narrative
+294-04	48	0	Cilostazol 100 MG (100MG TABLET take 1) PO BID , 3/022095 on hold for hematuria #90 Tablet(s)	cilostazol FFF 0 0	100 mg FFF 1 2	po FFF 7 7	bid FFF 8 8	 FFF 	 FFF 	narrative
+294-04	49	0	Dulcolax (BISACODYL) 5 MG (5MG TABLET take 1) PO QD	dulcolax FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+294-04	50	0	Flomax (TAMSULOSIN) 0.8 MG (0.4MG CAP.SR 24H take 2) PO QPM x 30 days #60 CAP.SR	flomax FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+294-04	51	0	Glipizide 2.5 MG (5MG TABLET take 0.5) PO bid , before BK and dinner	glipizide FFF 0 0	2.5 mg FFF 1 2	po FFF 7 7	bid FFF 8 8	 FFF 	 FFF 	narrative
+294-04	52	0	Metoprolol TARTRATE 12.5 MG (25MG TABLET take 0.5) PNGT BID x 90 days #90 Tablet(s)	metoprolol tartrate FFF 0 1	12.5 mg FFF 2 3	 FFF 	bid FFF 9 9	x 90 days FFF 10 12	 FFF 	narrative
+294-04	53	0	Mvi (MULTIVITAMINS) 1 TAB PO QD #1 Bottle(s)	Mvi (MULTIVITAMINS) FFF 0 1	1 tab FFF 2 3	po FFF 4 4	qd FFF 5 5	 FFF 	 FFF 	narrative
+294-04	54	0	Norvasc (AMLODIPINE) 10 MG (5MG TABLET take 2) PO QD #90 Tablet(s)	norvasc FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+294-04	55	0	Proscar (FINASTERIDE (BPH)) 5 MG (5MG TABLET take 1) PO QD x 30 days #30 Tablet(s)	proscar FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+294-04	56	0	Psyllium PACKET take 1 PO QD PRN	psyllium packet FFF 0 1	 FFF 	po FFF 4 4	QD PRN FFF 5 6	 FFF 	 FFF 	narrative
+294-04	57	0	Remeron (MIRTAZAPINE) 15 MG (30MG TABLET take 0.5) PO QPM #90 Tablet(s)	remeron FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+294-04	58	0	Sennosides 1 TAB PO QD	sennosides FFF 0 0	1 tab FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+294-04	59	0	Zocor (SIMVASTATIN) 80 MG (80MG TABLET take 1) PO QHS #90 Tablet(s)	zocor FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+294-04	60	0	Zyprexa (OLANZAPINE) 7.5 MG (5MG TABLET take 1.5) PO QD , Take 1 tab at bedtime #90 Tablet(s)	zyprexa FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+294-04	63	0	1. Pneumovax: Has had in past	pneumovax: FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+294-04	64	0	2. Influenza Vaccine: Gets flu vaccine each year - got this year through FHV	influenza vaccine: FFF 1 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+294-04	64	0	2. Influenza Vaccine: Gets flu vaccine each year - got this year through FHV	flu vaccine FFF 4 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

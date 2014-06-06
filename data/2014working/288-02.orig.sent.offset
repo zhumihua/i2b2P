@@ -1,0 +1,14 @@
+288-02	12	0	PMH:  Her past medical history includes atrial fibrillation, status post  renal allograft, status post aortic and mitral valve replacements with a  mechanical valve, on chronic Coumadin, a recent aortic aneurysm repair  and complications around that, including a cellulitis which has been  treated, and now waxing and waning mental status.	coumadin, FFF 25 25	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+288-02	16	438	1.   Neurontin 300 t.i.d.	neurontin FFF 1 1	300 FFF 2 2	 FFF 	t.i.d. FFF 3 3	 FFF 	 FFF 	narrative
+288-02	17	438	2.   Insulin NPH 20 units in the morning, 10 in the evening.	insulin nph FFF 1 2	20 units FFF 3 4	 FFF 	in the morning, FFF 5 7	 FFF 	 FFF 	narrative
+288-02	18	438	3.   Fosamax each day.	fosamax FFF 1 1	 FFF 	 FFF 	each day. FFF 2 3	 FFF 	 FFF 	narrative
+288-02	19	438	4.   Premarin and Provera.	premarin FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+288-02	19	438	4.   Premarin and Provera.	provera. FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+288-02	20	438	5.   Tums Extra-Strength.	tums FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+288-02	21	438	6.   digoxin 0.25 and 0125.	digoxin FFF 1 1	0.25 FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+288-02	22	438	7.   Mevacor 40 a day.	mevacor FFF 1 1	40 FFF 2 2	 FFF 	 FFF 	a day. FFF 3 4	 FFF 	narrative
+288-02	23	438	8.   Coumadin 1mg each day, except Sunday 2mg.	coumadin FFF 1 1	1mg FFF 2 2	 FFF 	each day, except Sunday FFF 3 6	 FFF 	 FFF 	narrative
+288-02	24	438	9.   Imuran 100mg a day.	imuran FFF 1 1	100mg FFF 2 2	 FFF 	 FFF 	a day. FFF 3 4	 FFF 	narrative
+288-02	25	438	10.  prednisone 20mg every other day.	prednisone FFF 1 1	20mg FFF 2 2	 FFF 	every other day. FFF 3 5	 FFF 	 FFF 	narrative
+288-02	54	0	Coumadin to keep her INR between 2 and 3.5 and, most recently, it was	coumadin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+288-02	72	0	As well, we will continue to have the visiting nurse  see her every other week to monitor her blood sugar and Coumadin.	coumadin. FFF 21 21	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

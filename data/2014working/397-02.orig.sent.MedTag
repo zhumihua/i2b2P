@@ -1,0 +1,77 @@
+397-02	1	Record date: 2076-07-21	
+397-02	2	Attending Admit Note	
+397-02	3	Joel Goldberg	
+397-02	4	MR#  0370149	
+397-02	5	PCP:  Quentina Thornton , MD		INDICATION FFF pcp#0	INDICATION FFF md#4
+397-02	6	Health Center: Arroyo Grande	
+397-02	7	CODE:  FULL	
+397-02	8	Date of admit:  7/20/76	
+397-02	9	Chief Complaint:  Right foot pain		INDICATION FFF foot pain#4
+397-02	10	History of Present Illness:	
+397-02	11	46 yo man with hx of DM neuropathy who presented to the ED with right foot pain.		INDICATION FFF dm neuropathy#7	INDICATION FFF ed#12	INDICATION FFF foot pain#16
+397-02	12	He noted "blood blister on right 4th toe 1 wk ago and was seen in ED.		DRT FFF 1 wk#9	INDICATION FFF ed#15
+397-02	13	He was sent home on neurontin.		DBN FFF neurontin#5
+397-02	14	Last night, right 4th toe was black, with redness on 5th toe as well, with extension to dorsum of foot.		INDICATION FFF redness#8	INDICATION FFF as#12
+397-02	15	No hx of trauma to foot.		INDICATION FFF trauma#3
+397-02	16	ED course:		INDICATION FFF ed#0
+397-02	17	Seen by surgical consult in ED.		INDICATION FFF ed#5
+397-02	18	Recommended Unasyn and arterial LENI's.		DBN FFF unasyn#1
+397-02	19	Localized wound care with silvadene.		INDICATION FFF wound care#2	DBN FFF silvadene#4
+397-02	20	Past Medical History:	
+397-02	21	Diabetes - neuropathy, HgB A1c 8.8% on 7/7.		INDICATION FFF diabetes#0	INDICATION FFF neuropathy#2	DOSE FFF 8.8%#5
+397-02	22	Dx 12/74	
+397-02	23	Nephropathy - trace protein in urine		INDICATION FFF nephropathy#0
+397-02	24	MGUS	
+397-02	25	Tobacco abuse		INDICATION FFF tobacco abuse#1
+397-02	26	Right heel ulcer - recent hospitalization 6/4 - 6/12 for ulcer with eschar		INDICATION FFF ulcer#2	DRT FFF 6/4 - 6/12#8	INDICATION FFF ulcer#10
+397-02	27	Allergies:		INDICATION FFF allergies#0
+397-02	28	Codeine - GI upset		DIN FFF codeine#0
+397-02	29	Medications:	
+397-02	30	neurontin 100 mg tid		DBN FFF neurontin#0	DOSE FFF 100mg#2	FREQ FFF tid#3
+397-02	31	glyburide 5 mg qd		DIN FFF glyburide#0	DOSE FFF 5mg#2	FREQ FFF qd#3
+397-02	32	zestril 2.5 mg qd		DBN FFF zestril#0	DOSE FFF 2.5mg#2	FREQ FFF qd#3
+397-02	33	viagra		DBN FFF viagra#0
+397-02	34	percocet		DBN FFF percocet#0
+397-02	35	Family History:	
+397-02	36	Social History:	
+397-02	37	+ tobacco use	
+397-02	38	Review of Systems:	
+397-02	39	No F/C/S, NO CP, No SOB.		INDICATION FFF f#1	INDICATION FFF cp#3	INDICATION FFF sob#5
+397-02	40	Physical Examination	
+397-02	41	Vital Signs:  T:98.3  BP:114/73  HR:100  RR:16  96%onRA		DOSE FFF 96%#6
+397-02	42	General Appearance:  laying in bed in NAD	
+397-02	43	HEENT:  mmm, PERRLA, oropharynx clear	
+397-02	44	Skin:  warm, dry	
+397-02	45	Neck:  no LAD, no bruits, no thyromegaly		INDICATION FFF thyromegaly#6
+397-02	46	Lungs:  CTA, no w/r/c	
+397-02	47	Heart:  RRR, +S1/S2, no m/r/g		DIN FFF m / r#4
+397-02	48	Abdomen:  soft,  NT/ND, +BS,		INDICATION FFF bs#3
+397-02	49	Extremities:  +2 pulses throughout, no edema, right dorsum of foot erythematous, right 4th toe black, right 5th toe erythema		INDICATION FFF edema#5	INDICATION FFF erythema#18
+397-02	50	Neuro:  decreased sensation to light touch on both feet, otherwise nonfocal	
+397-02	51	Psych/Mental Status:  A&O x3,		INDICATION FFF mental status#1	FREQ FFF x3#3
+397-02	52	Rectal exam:  deferred	
+397-02	53	Diagnostic Testing:	
+397-02	54	Plasma Sodium          138                       135-145        mmol/L		DIN FFF sodium#1	DOSE FFF 138#2	DOSE FFF 135-145mmol#4
+397-02	55	Plasma Potassium       4.8                       3.4-4.8        mmol/L		DIN FFF potassium#1	DOSE FFF 4.8#2	DOSE FFF 3.4 - 4.8mmol#4
+397-02	56	Plasma Chloride        100                       100-108        mmol/L		DOSE FFF 100-108mmol#4
+397-02	57	Plasma Carbon Dioxide  29.8                      23.0-31.9      mmol/L		DIN FFF carbon dioxide#2	DOSE FFF 29.8#3	DOSE FFF 23.0 - 31.9mmol#5
+397-02	58	Plasma Urea Nitrogen   12                        8-25           mg/dl		DIN FFF urea#1	DIN FFF nitrogen#2	DOSE FFF 12#3	DOSE FFF 8-25mg / dl#5
+397-02	59	Plasma Creatinine      0.8                       0.6-1.5        mg/dl		INDICATION FFF creatinine#1	DOSE FFF 0.6 - 1.5mg / dl#4
+397-02	60	Plasma Glucose         168        H              70-110         mg/dl		DRT FFF 168 h#3	DOSE FFF 70-110mg / dl#5
+397-02	61	WBC                    10.0                      4.5-11.0       th/cmm	
+397-02	62	HCT                    39.1       L              41.0-53.0      %		DOSE FFF 39.1l#2	DOSE FFF 41.0 - 53.0%#4
+397-02	63	HGB                    13.8                      13.5-17.5      gm/dl		DOSE FFF 13.5 - 17.5gm#3
+397-02	64	PLT                    194                       150-350        th/cumm	
+397-02	65	MCV                    86                        80-100         fl	
+397-02	66	RDW                    13.0                      11.5-14.5      %		DOSE FFF 11.5 - 14.5%#3
+397-02	67	Poly                   70                        40-70          %		DOSE FFF 40-70%#3
+397-02	68	Lymphs                 20         L              22-44          %		DOSE FFF 20l#2	DOSE FFF 22-44%#4
+397-02	69	Monos                  8                         4-11           %		DOSE FFF 4-11%#3
+397-02	70	Blood cultures x 3 neg todate		FREQ FFF x 3#3
+397-02	71	Wound cx pending		INDICATION FFF wound#0
+397-02	72		
+397-02	73	Impression:  46 yo male with Diabetic neuropathy and gangrenous 4th right toe with cellulitis.		INDICATION FFF diabetic neuropathy#6	INDICATION FFF gangrenous#8	INDICATION FFF cellulitis .#13
+397-02	74	Plan:	
+397-02	75	1. Foot Ulceration: Surg following.		INDICATION FFF foot ulceration#2
+397-02	76	Wound care and unasyn as previous.		INDICATION FFF wound care#1	DBN FFF unasyn#3	INDICATION FFF as#4
+397-02	77	Arterial leni's pending.  2. CV: Agree with starting ASA.		DIN FFF asa#8

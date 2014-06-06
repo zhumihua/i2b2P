@@ -1,0 +1,20 @@
+320-01	4	0	Met with PCP in Feb for multiple issues, DM changed from Actos to Metformin, referral to Internal Medicine; GERD/H-pylori,  (on meds, GI consult) HTN (changed from nitrates to Lisinopril) cholesterol, HA (lab done to r/o TA and PMR) Hepatitis	met FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+320-01	4	0	Met with PCP in Feb for multiple issues, DM changed from Actos to Metformin, referral to Internal Medicine; GERD/H-pylori,  (on meds, GI consult) HTN (changed from nitrates to Lisinopril) cholesterol, HA (lab done to r/o TA and PMR) Hepatitis	actos FFF 11 11	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+320-01	4	0	Met with PCP in Feb for multiple issues, DM changed from Actos to Metformin, referral to Internal Medicine; GERD/H-pylori,  (on meds, GI consult) HTN (changed from nitrates to Lisinopril) cholesterol, HA (lab done to r/o TA and PMR) Hepatitis	metformin, FFF 13 13	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+320-01	12	0	Stopped Actos-now taking Metformin	metformin FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+320-01	17	0	Amoxicillin 1000 MG (500 MG TABLET Take 2) PO BID x 14 days #56 Tablet(s)	amoxicillin FFF 0 0	1000 mg FFF 1 2	po FFF 8 8	bid FFF 9 9	x 14 days FFF 10 12	 FFF 	narrative
+320-01	18	0	Aspirin (ACETYLSALICYLIC ACID) 81 MG (81 MG TABLET Take 1) PO QD x 30 days #30 Tablet(s)	aspirin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+320-01	19	0	Atenolol 50 MG (50MG TABLET Take 1) PO QD x 30 days #30 Tablet(s)	atenolol FFF 0 0	50 mg FFF 1 2	po FFF 7 7	qd FFF 8 8	30 days FFF 10 11	 FFF 	narrative
+320-01	20	0	Ergocalciferol 50000 UNITS (50000 UNIT CAPSULE Take 1) PO QWEEK x 42 days #6 Capsule(s)	ergocalciferol FFF 0 0	50000 units FFF 1 2	po FFF 8 8	qweek FFF 9 9	42 days FFF 11 12	 FFF 	narrative
+320-01	21	0	Lipitor (ATORVASTATIN) 40 MG (40 MG TABLET Take 1) PO QHS x 30 days #30 Tablet(s)	lipitor FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+320-01	22	0	Lisinopril 5 MG (5 MG TABLET Take 1) PO QD x 30 days #30 Tablet(s)	lisinopril FFF 0 0	5 mg FFF 1 2	po FFF 8 8	qd FFF 9 9	30 days FFF 11 12	 FFF 	narrative
+320-01	23	0	Metformin 500 MG (500 MG TABLET Take 1) PO BID x 30 days #60 Tablet(s)	metformin FFF 0 0	500 mg FFF 1 2	po FFF 8 8	bid FFF 9 9	30 days FFF 11 12	 FFF 	narrative
+320-01	24	0	Omeprazole 20 MG (20 MG TABLET DR Take 1) PO BID x 14 days #28 Tablet(s)	omeprazole FFF 0 0	20 mg FFF 1 2	po FFF 9 9	bid FFF 10 10	x 14 days FFF 11 13	 FFF 	narrative
+320-01	28	0	Hypertensive disorder : dx 2060s, was taking atenolol, enalapril and isosorbide in UNITED KINGDOM	atenolol, FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+320-01	28	0	Hypertensive disorder : dx 2060s, was taking atenolol, enalapril and isosorbide in UNITED KINGDOM	enalapril FFF 8 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+320-01	28	0	Hypertensive disorder : dx 2060s, was taking atenolol, enalapril and isosorbide in UNITED KINGDOM	isosorbide FFF 10 10	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+320-01	36	0	Hepatitis B antibody present : Had HbsAg+ and HbsAb+ in 2067.	hbsag+ FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+320-01	49	0	Pneumo vaccine: . 5 ml given in right deltoid without difficulty	vaccine: FFF 1 1	5 ml FFF 3 4	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+320-01	65	0	ASA 81 mg daily	asa FFF 0 0	81 mg FFF 1 2	 FFF 	daily FFF 3 3	 FFF 	 FFF 	narrative
+320-01	66	0	Microalbumin: 2.2-just began Lisinopril last month	lisinopril FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+320-01	67	0	# 3 HTN: above target today increase Lisinopril to 10 mg	lisinopril FFF 7 7	10 mg FFF 9 10	 FFF 	 FFF 	 FFF 	 FFF 	narrative

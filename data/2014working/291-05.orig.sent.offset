@@ -1,0 +1,16 @@
+291-05	23	0	He was given 4L IVF, ceftriaxone, azithromycin,	ceftriaxone, FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+291-05	23	0	He was given 4L IVF, ceftriaxone, azithromycin,	azithromycin, FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+291-05	39	0	2066 Thrown from amusement park ride     partial T4 paraplegia (confined to wheelchair, able to stand/xfer)   ruptured bladder, S/p ileal loop conduit (2066)    recurrent pyelonephritis, candidal infections	t4 FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+291-05	73	438	Percocet 1tab	percocet FFF 0 0	1tab FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+291-05	104	0	Colostomy/ileostomy bags in place.	colostomy/ileostomy bags FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+291-05	108	0	SENS up to T4 level.	t4 FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+291-05	111	0	NA         133(L)     134(L)     135	na FFF 0 0	133(l) FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+291-05	117	0	GLU        85         137(H)     106	glu FFF 0 0	85 FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+291-05	124	0	ALB                   4.0	alb FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+291-05	186	0	Will cover with antibiotics, treat for COPD flare.	antibiotics, FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+291-05	192	0	-hold norvasc, imdur.	norvasc, FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+291-05	192	0	-hold norvasc, imdur.	imdur. FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+291-05	193	0	Low dose lopressor for now.	lopressor FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+291-05	194	0	-if persistent hypotension, cort stim, consider more aggressive intervention.	cort FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+291-05	198	0	-prednisone taper 40mg  0mg over 12 days.	-prednisone FFF 0 0	40mg FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+291-05	198	0	-prednisone taper 40mg  0mg over 12 days.	-prednisone FFF 0 0	0mg FFF 3 3	 FFF 	 FFF 	12 days. FFF 5 6	 FFF 	narrative

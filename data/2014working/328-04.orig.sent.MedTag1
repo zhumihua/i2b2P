@@ -1,0 +1,21 @@
+328-04||1||Record date: 2078-06-14
+328-04||2||Medicine Consult Note
+328-04||3||PATIENT: Carlson, Rebecca
+328-04||4||MRN: 9500004
+328-04||5||CONSULT DATE: 6/14/78
+328-04||6||ATTENDING: Ila Araujo
+328-04||7||Code status: presumed full
+328-04||8||Source: patient and chart
+328-04||9||CC:  preop risk stratification||TOD FFF cc: FFF 0 0||INDICATION FFF risk FFF 2 2||
+328-04||10||HPI: Ms Carlson is a 88F with hx multiple falls fractures including hip fx 2077 s/p ORIF, C2 dens fx, pubic rami fx, past periop DVT (age 40s), also HTN, diet-controlled DM, dx NMS in setting of postop haldol in 2077, p/w another fall this AM at her SNF.||INDICATION FFF 88f FFF 5 5||INDICATION FFF dvt FFF 25 25||INDICATION FFF htn, FFF 29 29||INDICATION FFF dm, FFF 31 31||INDICATION FFF nms FFF 33 33||DBN FFF haldol FFF 38 38||TOD FFF am FFF 45 45||
+328-04||11||She was in the kitchen washing dishes, when she fell.
+328-04||12||She is not able to tell me exactly what happened, but denies that CP, SOB, or dizziness/lightheadedness played a role.||INDICATION FFF me FFF 6 6||INDICATION FFF cp, FFF 13 13||INDICATION FFF sob, FFF 14 14||INDICATION FFF dizziness/lightheadedness FFF 16 16||
+328-04||13||Pt is currently s/p morphine, and per her daughter is more confused and sleepy than usual.||DIN FFF morphine, FFF 4 4||
+328-04||14||But even at a baseline, daughter states that pt has poor short-term memory.ROS &#8211; pt denies CP, SOB, DOE.||INDICATION FFF cp, FFF 16 16||INDICATION FFF sob, FFF 17 17||
+328-04||15||Family has not heard her complain of these.
+328-04||16||CARDIOLOGY STUDIES:TTE 11/77: EF 78% no WMA.||INDICATION FFF ef FFF 3 3||DOSE FFF 78% FFF 4 4||
+328-04||17||Mod to severe TRPMH: NMS vs serotonin syndrome in setting of last hospitalization for last hip surgery||INDICATION FFF mod FFF 0 0||INDICATION FFF nms FFF 4 4||INDICATION FFF serotonin syndrome FFF 6 7||INDICATION FFF surgery FFF 16 16||
+328-04||18||Mild dementia||INDICATION FFF dementia FFF 1 1||
+328-04||19||Hx falls
+328-04||20||s/p hysterectomy
+328-04||21||HTNDM

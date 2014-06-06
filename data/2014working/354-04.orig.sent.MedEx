@@ -1,0 +1,71 @@
+354-04	1	Record date: 2097-07-30		 
+354-04	2	Patient Name: FAY,BROOK  [ 11289501(CCH) ] F		 
+354-04	3	Date of Visit: 07/30/2097		 
+354-04	4	Reason for Visit		 
+354-04	5	Mrs. Fay is a 70 year old spanish speaking female with multiple medical problems who presents today as a follow up for her diabetes, adrenal insufficiency		 
+354-04	6	History of Present Illness		 
+354-04	7	Insulin- was having erratic dosing and hypoglycemia- changed to lantus last week, but had problems- mainly from understanding it, changed back to other, may have		DIN FFF insulin#0	INDICATION FFF hypoglycemia#6
+354-04	7	Insulin- was having erratic dosing and hypoglycemia- changed to lantus last week, but had problems- mainly from understanding it, changed back to other, may have		DBN FFF lantus#9
+354-04	8			 
+354-04	9	adrenal- trying to lower prednisone. tolerating 3 mg, stopped completely on her own- feels better.		DIN FFF adrenal#0
+354-04	9	adrenal- trying to lower prednisone. tolerating 3 mg, stopped completely on her own- feels better.		DIN FFF prednisone#4	DOSE FFF 3mg#7
+354-04	10			 
+354-04	11	had eyes exam- told no dbr- about two weeks ago		 
+354-04	12	Review of Systems		 
+354-04	13	Constitutional: No fever, chills, fatigue, nightsweats, insomnia, change in weight		 
+354-04	14	Eyes: No double vision, blurred vision, red, dry, itchy or painful eyes.		 
+354-04	15	No discharge		 
+354-04	16	ENT/Mouth: No rhinitis, epistaxis, sinus pain, change in hearing, tinnitus, discharge from ears, ear pain oral lesions, problems chewing, dental pain, sore throat		DBN FFF sinus pain#5	INDICATION FFF change#6	INDICATION FFF ear pain#14	RUT FFF oral#15	INDICATION FFF dental pain#20	INDICATION FFF sore throat#22
+354-04	17	Cardiovascular: no chest pain, pressure, palpitation, PND, orthopnea, dyspnea on exertion, pedal edema, nocturia, claudication,		 
+354-04	18	Respiratory: no cough, sputum, dyspnea, pleuritic pain, wheeze, loud snoring, hemoptysis		 
+354-04	19	Gastrointestinal: No dysphagia, odynophagia, heartburn, abdominal pain, change in the bowel habits, diarrhea, constipation, melena, hematochezia, incontinence, nausea, vomiting		 
+354-04	20	Genitourinary: No incontinence, dysuria, frequency, hesitancy, discharge,		 
+354-04	21	Muskuloskeletal: No muscle aches, tremor, weakness, myalgia, joint pain or swelling		 
+354-04	22	Skin/Breasts: no rashes, moles, itch,		 
+354-04	23	Allergies		 
+354-04	24	Penicillins    - Rash, Itching		DBN FFF penicillins#0	INDICATION FFF itching#3
+354-04	25	Problems		 
+354-04	26	elevated cholesterol		 
+354-04	27	degenerative joint disease		 
+354-04	28	gastroesophageal reflux disease		 
+354-04	29	Depression		 
+354-04	30	Diabetes mellitus		 
+354-04	31	hypertension		 
+354-04	32	Low back pain		 
+354-04	33	Seasonal allergies		 
+354-04	34	Adrenal insufficiency		 
+354-04	35	candidal esophagitis		 
+354-04	36	Medications		 
+354-04	37	Amitriptyline Hcl   10 MG (10MG TABLET take 1) PO QHS  #60 Tablet(s)		DIN FFF amitriptyline hcl#1	DOSE FFF 10mg#3	DOSE FFF 10mg#4	DDF FFF tablet#5	RUT FFF po#8	FREQ FFF qhs#9	DISA FFF #60#10
+354-04	38	Asa (CHILDRENS) (ACETYLSALICYLIC Acid (CHILDRENS))   81 MG (81MG TABLET take 1) PO QD  #100 Tablet(s)		DIN FFF asa#0
+354-04	39	ATENOLOL   50 MG (50MG TABLET take 1) PO QD  #30 Tablet(s)		DIN FFF atenolol#0	DOSE FFF 50mg#2	DOSE FFF 50mg#3	DDF FFF tablet#4	RUT FFF po#7	FREQ FFF qd#8	DISA FFF #30#9
+354-04	40	Betamethasone/clotrimazole 0.05%/1%   1 APPLICATION (CREAM(GM) ) TOP BID  #45 gram(s)		DIN FFF betamethasone / clotrimazole#0	DOSE FFF 0.05%/1%#1	DOSEAMT FFF 1 application#3	DDF FFF cream#4	RUT FFF top#6	FREQ FFF bid#7	DISA FFF #45#8
+354-04	41	CHOLECALCIFEROL   800 UNITS (400 UNIT TABLET take 2) PO Q24H  #180 Tablet(s)		DIN FFF cholecalciferol#0	DOSEAMT FFF 800 units#2	DDF FFF unit#4	DDF FFF tablet#5	RUT FFF po#8	FREQ FFF q24h#9	DISA FFF #180#10
+354-04	42	Diclofenac Sodium    50   PO BID  #60 Tablet(s)		DIN FFF diclofenac sodium#1	DOSE FFF 50#2	RUT FFF po#3	FREQ FFF bid#4	DISA FFF #60#5
+354-04	43	ERGOCALCIFEROL   50000 UNITS (50000 UNIT CAPSULE take 1) PO as directed , once per month  #1 Capsule(s)		DIN FFF ergocalciferol#0	DOSEAMT FFF 50000 units#2	DDF FFF unit#4	DDF FFF capsule#5	RUT FFF po#8	INDICATION FFF as#9	FREQ FFF per month#14	DISA FFF #1#15
+354-04	44	Fosamax (ALENDRONATE)   70 MG (70MG TABLET take 1) PO QWEEK  #4 Tablet(s)		DBN FFF fosamax#0
+354-04	45	Lantus (INSULIN Glargine)   15 UNITS (100 U/ML VIAL  ML) SC QHS , dc previous insulin #10 ML(s)		DBN FFF lantus#0
+354-04	45	Lantus (INSULIN Glargine)   15 UNITS (100 U/ML VIAL  ML) SC QHS , dc previous insulin #10 ML(s)		DIN FFF insulin#14	DOSE FFF 10ml#16
+354-04	46	METFORMIN   1000 MG (1000MG TABLET take 1) PO BID x 30 days #60 Tablet(s)		DIN FFF metformin#0	DOSE FFF 1000mg#2	DOSE FFF 1000mg#3	DDF FFF tablet#4	RUT FFF po#7	FREQ FFF bid#8	DRT FFF 30 days#11	DISA FFF #60#12
+354-04	47	OMEPRAZOLE   40 MG (20MG CAPSULE DR take 2) PO QD  #60 Capsule(s)		DIN FFF omeprazole#0	DOSE FFF 40mg#2	DOSE FFF 20mg#3	DDF FFF capsule#4	RUT FFF po#8	FREQ FFF qd#9	DISA FFF #60#10
+354-04	48	PREDNISONE   3 MG (1MG TABLET take 3) PO QD  #90 Tablet(s)		DIN FFF prednisone#0	DOSE FFF 3mg#2	DOSE FFF 1mg#3	DDF FFF tablet#4	RUT FFF po#7	FREQ FFF qd#8	DISA FFF #90#9
+354-04	49	SIMVASTATIN   40 MG (40MG TABLET take 1) PO QHS  #100 Tablet(s)		DIN FFF simvastatin#0	DOSE FFF 40mg#2	DOSE FFF 40mg#3	DDF FFF tablet#4	RUT FFF po#7	FREQ FFF qhs#8	DISA FFF #100#9
+354-04	50	TRAMADOL   50 MG (50MG TABLET take 1) PO Q6H  #90 Tablet(s)		DIN FFF tramadol#0	DOSE FFF 50mg#2	DOSE FFF 50mg#3	DDF FFF tablet#4	RUT FFF po#7	FREQ FFF q6h#8	DISA FFF #90#9
+354-04	51	Zeasorb (TALC Powder)   1 APPLICATION TOP TID , to affected area #70 gram(s)		DBN FFF zeasorb#0	MDBN FFF talc#2	DOSEAMT FFF 1 application#4	RUT FFF top#5	FREQ FFF tid#6	DISA FFF #70#11
+354-04	52	Vital Signs		 
+354-04	53	BLOOD PRESSURE   154/71		 
+354-04	54	PULSE   66		 
+354-04	55	WEIGHT   175 lb		 
+354-04	56	Physical Exam		 
+354-04	57	Gen: Well appearing in NAD, WD, WN		 
+354-04	58	Impression		 
+354-04	59	DM- having problems with glucometer, but based on sisters measurements not too bad. ha1c has come down 0.7%.  Hopefully with better medical management will continue to drop.  Continues to have difficulty with medications.		 
+354-04	60			 
+354-04	61	adrenal insufficiency- now off prednisone after gradual taper.		INDICATION FFF adrenal insufficiency#1	DIN FFF prednisone#4
+354-04	62			 
+354-04	63	lipids- back on statin, will check when due.		DIN FFF statin#3
+354-04	64			 
+354-04	65	htn- high again today.  will plan to taper atenolol, as recent data show limits as treatment of hypertension, and add hctz/lisinopril, both are first line agents for htn. see back in two weeks.		DIN FFF atenolol#8	INDICATION FFF as#9	INDICATION FFF as#14	INDICATION FFF hypertension#17	INDICATION FFF add#19
+354-04	66			 
+354-04	67	back pain- pt appt next week		 
+354-04	68	______________________________		 

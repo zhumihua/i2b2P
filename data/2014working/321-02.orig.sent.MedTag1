@@ -1,0 +1,22 @@
+321-02||1||Record date: 2069-07-03
+321-02||2||R foot ulcer - Present for several months.||INDICATION FFF foot ulcer FFF 1 2||DRT FFF several months. FFF 6 7||
+321-02||3||Being followed by Dr.
+321-02||4||Vetter.
+321-02||5||Being fitted with for special shoes tomorrow.
+321-02||6||AODM - Meds reviewed.||INDICATION FFF aodm FFF 0 0||
+321-02||7||Will check HgbA1c today.
+321-02||8||Last eye exam 09/25/68.||RUT FFF eye FFF 1 1||
+321-02||9||Cataracts noted by Dr.
+321-02||10||Gaines.
+321-02||11||HBP - Borderline high.||INDICATION FFF hbp FFF 0 0||
+321-02||12||Will increase Atenolol to 50 mg qd.||DIN FFF atenolol FFF 2 2||DOSE FFF 50 mg FFF 4 5||FREQ FFF qd. FFF 6 6||
+321-02||13||No hypoglycemic rxn's.||DIN FFF hypoglycemic FFF 1 1||
+321-02||14||Problems
+321-02||15||Foot ulcer||INDICATION FFF foot ulcer FFF 0 1||
+321-02||16||Diabetes||INDICATION FFF diabetes FFF 0 0||
+321-02||17||Hearing impairment : AD||INDICATION FFF ad FFF 3 3||
+321-02||18||PE: WD/WN in NAD||INDICATION FFF pe: FFF 0 0||INDICATION FFF wd/wn FFF 1 1||
+321-02||19||Flowsheets
+321-02||20||BP 144/70 Left Arm||INDICATION FFF bp FFF 0 0||
+321-02||21||P 72 Regular
+321-02||22||Ht 68 in.||INDICATION FFF ht FFF 0 0||

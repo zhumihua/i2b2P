@@ -1,0 +1,114 @@
+225-02||1||Record date: 2094-05-20
+225-02||2||CARDIOLOGY
+225-02||4||OXFORD DELTA CLINIC
+225-02||6||* {font-family: Verdana, Helvetica, sans-serif,Arial;font-size: 9pt;}
+225-02||7||table {border:0px}
+225-02||8||.dataitem_content_FixWidth, .labchooserText {font-family: 'Courier New', 'Courier'; width:760px; white-space: pre; margin-top:-10px;margin-bottom:-18px; border:1px solid black;}
+225-02||9||.visitnote_text, .visitnote_concept, .visitnote_section, .tx_summary_text {}
+225-02||10||ul {margin:1em 0em 2em 0em;}||INDICATION FFF 0em FFF 2 2||INDICATION FFF 2em FFF 3 3||INDICATION FFF 0em;} FFF 4 4||
+225-02||11||.dataitem_title, .tx_summary_title { font-weight:bold;}
+225-02||12||li {display: inline;margin:0 0 0 0em;}||INDICATION FFF 0em;} FFF 5 5||
+225-02||13||.ulName {font-weight: bold; display: block;margin:0 0 0 0em;}||INDICATION FFF 0em;} FFF 7 7||
+225-02||14||.liName {font-family: "Verdana";font-weight: bold;}
+225-02||15||.liText {text-align: left;}
+225-02||16||.tx_summary_tabulate_name {vertical-align : top;text-align: left;white-space: nowrap;}||RUT FFF top;text-align: FFF 3 3||
+225-02||17||.tx_summary_tabulate_text {vertical-align : top;white-space: nowrap;}||RUT FFF top;white-space: FFF 3 3||
+225-02||18||.labCode {text-align: center;text-decoration: underline;}
+225-02||19||.labValueSummary {text-align: center;}
+225-02||20||table.labTable {border: 1px #4D3F46 solid;text-align: center;vertical-align : top;padding-left : 5px;padding-right : 5px;}||INDICATION FFF 1px FFF 2 2||RUT FFF top;padding-left FFF 7 7||INDICATION FFF 5px;padding-right FFF 9 9||INDICATION FFF 5px;} FFF 11 11||
+225-02||21||table.labTable td {vertical-align : top;padding-left : 1px;padding-right : 1px;padding-top : 0px;padding-bottom : 0px;}||RUT FFF td FFF 1 1||RUT FFF top;padding-left FFF 4 4||INDICATION FFF 1px;padding-right FFF 6 6||INDICATION FFF 1px;padding-top FFF 8 8||INDICATION FFF 0px;padding-bottom FFF 10 10||INDICATION FFF 0px;} FFF 12 12||
+225-02||22||table.infoTable {border: 0px #4D3F46 solid;padding-right : 5px;border-top : 0px solid #4D3F46;margin-top : 0px;margin: 3 3 3 3px;}||INDICATION FFF 0px FFF 2 2||INDICATION FFF 5px;border-top FFF 6 6||INDICATION FFF 0px FFF 8 8||INDICATION FFF 0px;margin: FFF 12 12||INDICATION FFF 3px;} FFF 16 16||
+225-02||24||Narrative Note:
+225-02||25||Chief Complaint
+225-02||26||Cardiology Admission Note
+225-02||27||Christopher Powell
+225-02||28||# 070 27 68
+225-02||29||5/20/94 at 11:30 am||TOD FFF am FFF 3 3||
+225-02||30||Mr Powell is admitted to Cardiology clinic s/p cath and PTCA/stent (2.25 x 12 Taxus) to the LAD
+225-02||32||History of Present Illness
+225-02||33||This 69 yo gentleman has a hx of CAD dating back several years.||INDICATION FFF cad FFF 8 8||
+225-02||34||He underwent CABG x 3 in 2092 at WMMC after being diagnosed with CAD after presenting with symptoms of jaw pain and SOB.||FREQ FFF x 3 FFF 3 4||INDICATION FFF cad FFF 13 13||INDICATION FFF symptoms FFF 17 17||INDICATION FFF pain FFF 20 20||INDICATION FFF sob. FFF 22 22||
+225-02||35||Immediately after surgery he was told there was likely a problem with one of the grafts.||INDICATION FFF surgery FFF 2 2||
+225-02||36||He began to have symptoms of jaw pain and dypnea within a few weeks of surgery and presented to Beloit State where he had cath within 6 weeks of CABG- at that time his LAD graft was down and his distal LAD was stenosed.||INDICATION FFF symptoms FFF 4 4||INDICATION FFF pain FFF 7 7||INDICATION FFF surgery FFF 15 15||DRT FFF 6 weeks FFF 26 27||
+225-02||37||Failed attempt to stent the distal LAD, but it was PTCA'd with no real relief of his symptoms.||INDICATION FFF symptoms. FFF 17 17||
+225-02||38||Last year, he presented here with further progression of his anginal equivalent and underwent cath which showed further stenosis of the distal LAD.||INDICATION FFF stenosis FFF 18 18||
+225-02||39||There was no PCI option available.
+225-02||40||He has been aggressively managed with medications and initially his jaw pain improved, but the dyspnea has persisted.||INDICATION FFF pain FFF 11 11||INDICATION FFF dyspnea FFF 15 15||
+225-02||41||Unfortunately the jaw pain has reoccurred and he has become more symptomatic.||INDICATION FFF pain FFF 3 3||
+225-02||42||He now presented for cath.
+225-02||43||Today he arrived via SDA for cath that showed his native disease to be severe with a 70% stenosis involving the ostium of the first diagonal branch.||DOSE FFF 70% FFF 17 17||INDICATION FFF stenosis FFF 18 18||
+225-02||44||The mid-distal LAD is small and tapering with diffuse disease  up to 80%.||DOSE FFF 80%. FFF 12 12||
+225-02||45||The first diagonal has a high grade ostial stenosis.||INDICATION FFF stenosis. FFF 8 8||
+225-02||46||LCX has 40-50% stenosis proximal to the first OM.||DOSE FFF 40-50% FFF 2 2||INDICATION FFF stenosis FFF 3 3||INDICATION FFF om. FFF 8 8||
+225-02||47||RCA has 80% stenosis proximally with competitive flow from the SVG.||DOSE FFF 80% FFF 2 2||INDICATION FFF stenosis FFF 3 3||
+225-02||48||The LIMA-&gt; D1 is patent and the SVG-&gt; RCA is patent.
+225-02||49||The SVG-&gt; LAD is not visualized.
+225-02||50||The mid-LAD lesion was treated with PTCA/stenting with a 2.25 x 12 mm Taxus stent.||INDICATION FFF mm FFF 12 12||INDICATION FFF stent. FFF 14 14||
+225-02||51||He arrived on floor 5 pain free and in no distress.||INDICATION FFF pain FFF 5 5||
+225-02||52||Past Medical History
+225-02||53||CAD||INDICATION FFF cad FFF 0 0||
+225-02||54||CABG x 3 2092 (LIMA-&gt; LAD, SVG-&gt; LAD, SVG-&gt; RCA)||FREQ FFF x 3 FFF 1 2||
+225-02||55||Hyperlipidemia||INDICATION FFF hyperlipidemia FFF 0 0||
+225-02||56||Hypertension||INDICATION FFF hypertension FFF 0 0||
+225-02||57||Diabetes||INDICATION FFF diabetes FFF 0 0||
+225-02||58||Anxiety/depression||INDICATION FFF anxiety/depression FFF 0 0||INDICATION FFF anxiety/depression FFF 0 0||
+225-02||60||Allergies||INDICATION FFF allergies FFF 0 0||
+225-02||61||ACE-i-&gt; cough||INDICATION FFF cough FFF 1 1||
+225-02||62||Diovan-&gt; fatigue||INDICATION FFF fatigue FFF 1 1||
+225-02||63||Zocor, crestor-&gt; myalgias||DBN FFF zocor, FFF 0 0||
+225-02||64||Metformin-&gt; GI intolerance
+225-02||66||Social History
+225-02||67||Married, 4 children
+225-02||68||Lives with wife
+225-02||69||Retired floor covering installer, works for son doing accounting
+225-02||71||Habits
+225-02||72||ETOH: 3 drinks/week on average
+225-02||73||Smoking:  quit 30 yrs ago||DRT FFF 30 yrs FFF 2 3||
+225-02||74||Caffeine: 5-6/day (coffee and diet coke)||DIN FFF caffeine: FFF 0 0||DIN FFF coke) FFF 5 5||
+225-02||75||Diet: diabetic
+225-02||76||Exercise: unable to do much d/t symptoms||INDICATION FFF d/t FFF 5 5||INDICATION FFF symptoms FFF 6 6||
+225-02||78||Family History
+225-02||80||7 sbilings with HTN||INDICATION FFF htn FFF 3 3||
+225-02||81||Father with heart problems- died at 86
+225-02||82||Medications
+225-02||83||At Home:
+225-02||84||Imdur 60 mg QD||DBN FFF imdur FFF 0 0||DOSE FFF 60 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+225-02||85||Ranexa 1000 mg BID||DBN FFF ranexa FFF 0 0||DOSE FFF 1000 mg FFF 1 2||FREQ FFF bid FFF 3 3||
+225-02||86||Lasix 20 mg QD||DBN FFF lasix FFF 0 0||DOSE FFF 20 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+225-02||87||Lipitor 40 mg QD||DBN FFF lipitor FFF 0 0||DOSE FFF 40 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+225-02||88||Plavix 75 mg QD||DBN FFF plavix FFF 0 0||DOSE FFF 75 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+225-02||89||Lexapro 10 mg QD||DBN FFF lexapro FFF 0 0||DOSE FFF 10 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+225-02||90||Lopressor 12.5 mg BID||DBN FFF lopressor FFF 0 0||DOSE FFF 12.5 mg FFF 1 2||FREQ FFF bid FFF 3 3||
+225-02||91||Protonix 40 mg QD||DBN FFF protonix FFF 0 0||DOSE FFF 40 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+225-02||92||KCL 10 mEq QD||DIN FFF kcl FFF 0 0||DOSE FFF 10 meq FFF 1 2||FREQ FFF qd FFF 3 3||
+225-02||93||ECASA 325 mg QD||DPN FFF ecasa FFF 0 0||DOSE FFF 325 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+225-02||94||Norvasc 10 mg QD||DBN FFF norvasc FFF 0 0||DOSE FFF 10 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+225-02||95||Ambien 10 mg QD||DBN FFF ambien FFF 0 0||DOSE FFF 10 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+225-02||98||Physical Exam
+225-02||99||Height: 67"
+225-02||100||Weight: 180 lbs||INDICATION FFF weight: FFF 0 0||
+225-02||102||VS: 100/50, 63, 18
+225-02||103||Monitor: SR/SB
+225-02||105||Gen: well appearing caucasian male in NAD
+225-02||107||Neuro: alert, oriented x 3, speech clear and articulate.||FREQ FFF x 3, FFF 3 4||
+225-02||108||CN II-XII intact.||INDICATION FFF cn FFF 0 0||
+225-02||109||Strength 5/5 BUE- lower extremities not tested d/t activity limitations.||INDICATION FFF d/t FFF 7 7||
+225-02||110||No focal deficits
+225-02||111||Neck: supple, thyroid midline without nodularity.
+225-02||112||JVP flat, no HJR.
+225-02||113||Carotid pulses 1+, no bruits.
+225-02||114||No appreciable adenopathy
+225-02||115||Cardiac: regular S1, S2, no S3/S4, no m/r/g.||DIN FFF m/r/g. FFF 7 7||
+225-02||116||PMI not displaced
+225-02||117||Resp: clear anteriorly
+225-02||119||Abd: soft, non-tender/non-distended.
+225-02||120||No HSM/masses/bruits.
+225-02||121||Bowel sounds in all quads
+225-02||122||Ext: left femoral sheath in place.
+225-02||123||No hematoma/ooze, ? soft bruit.
+225-02||124||Pulses 1+ DP/PT, no c/c/e.||INDICATION FFF dp/pt, FFF 2 2||
+225-02||125||Review of Systems
+225-02||126||Negative in detail except as noted above||INDICATION FFF as FFF 4 4||
+225-02||128||Lab Test
+225-02||129||Labs:
+225-02||138||EKG:

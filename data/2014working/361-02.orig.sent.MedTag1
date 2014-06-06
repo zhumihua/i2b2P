@@ -1,0 +1,65 @@
+361-02||1||Record date: 2065-01-29
+361-02||2||EDVISIT^47646361^JAY, COREY^01/29/65^TOMLIN, THEODORE
+361-02||3||The patient was seen on 01/29/2065.  I confirm that I have
+361-02||4||interviewed and examined the patient, reviewed the resident's
+361-02||5||documentation on the patient's chart, and discussed the
+361-02||6||evaluation, plan of care, and disposition with the patient.
+361-02||7||CHIEF COMPLAINT:  "Foot infection."||INDICATION FFF infection." FFF 3 3||
+361-02||8||HISTORY OF PRESENT ILLNESS:  The patient is a 46-year-old man
+361-02||9||with a history of insulin-dependent diabetes, blood sugars in the||INDICATION FFF insulin-dependent diabetes, FFF 4 5||INDICATION FFF blood sugars FFF 6 7||
+361-02||10||140s this week, chronic renal insufficiency on hemodialysis||DRT FFF this week, FFF 1 2||INDICATION FFF chronic renal insufficiency FFF 3 5||
+361-02||11||secondary to diabetes who had a bilateral TMA who presents with 3||INDICATION FFF diabetes FFF 2 2||DIN FFF tma FFF 7 7||
+361-02||12||days of right heel ulcer, discharge and foul smelling order.||INDICATION FFF ulcer, FFF 4 4||
+361-02||13||No erythema.||INDICATION FFF erythema. FFF 1 1||
+361-02||14||The patient had decreased sensation in bilateral feet secondary to diabetic neuropathy.||INDICATION FFF diabetic neuropathy. FFF 10 11||
+361-02||15||He denies nausea, vomiting, fevers, abdominal pain, cough, shortness breath, or chest pain.||INDICATION FFF nausea, FFF 2 2||INDICATION FFF vomiting, FFF 3 3||INDICATION FFF fevers, FFF 4 4||INDICATION FFF abdominal pain, FFF 5 6||INDICATION FFF cough, FFF 7 7||INDICATION FFF shortness breath, FFF 8 9||INDICATION FFF chest pain. FFF 11 12||
+361-02||16||The patient is blind and speaks Spanish.
+361-02||17||He also has a history of hypertension.||INDICATION FFF hypertension. FFF 6 6||
+361-02||18||The rest of the past medical history, social history, family
+361-02||19||history, surgical history, review of systems, allergies, and||INDICATION FFF allergies, FFF 6 6||
+361-02||20||medications as per the resident's note.||INDICATION FFF as FFF 1 1||
+361-02||21||PHYSICAL EXAMINATION:  Temperature is 98.2, pulse 78, respiratory||INDICATION FFF temperature FFF 2 2||
+361-02||22||rate 20, blood pressure is 201/104, and saturation 99% on room||INDICATION FFF blood pressure FFF 2 3||DOSE FFF 99% FFF 8 8||
+361-02||23||air.  General:  No apparent distress, cooperative.
+361-02||24||HEENT:
+361-02||25||Normocephalic and atraumatic.
+361-02||26||Pupils were bilateral cataract blindness.
+361-02||27||Conjunctivae were clear.
+361-02||28||Oral mucosa was moist.||RUT FFF oral FFF 0 0||
+361-02||29||Neck is supple.
+361-02||30||Lungs:  Clear to auscultation bilaterally, no wheezes or crackles.||INDICATION FFF wheezes FFF 6 6||
+361-02||31||Cardiac exam:  Regular rate and rhythm.
+361-02||32||No murmurs, rubs, or gallops.
+361-02||33||Abdominal exam:  Good bowel sounds, nondistended, nontender, and soft.
+361-02||34||Extremity exam:  No ankle edema, calf tenderness, or asymmetry.||INDICATION FFF edema, FFF 4 4||
+361-02||35||Musculoskeletal examination:  The patient has bilateral TMA.||DIN FFF tma. FFF 6 6||
+361-02||36||Skin exam:  The patient has dry gauze at soles of his bilateral feet; however, he has a 1 cm diameter ulceration in the heel of his right foot that is crusty and has some yellowish discharge on gauze.||INDICATION FFF cm FFF 18 18||INDICATION FFF ulceration FFF 20 20||
+361-02||37||It indeed has foul odor.
+361-02||38||It is nontender.
+361-02||39||Neurological examination:
+361-02||40||Motor strength 5/5 throughout all extremities.
+361-02||41||Sensation decreased bilateral feet, to the ankles.
+361-02||42||Rest of the lower extremities were intact to light touch and symmetrical.
+361-02||43||Vascular examination 2+ radial and DP pulses.||INDICATION FFF dp FFF 5 5||
+361-02||44||EMERGENCY DEPARTMENT COURSE:  A 46-year-old man diabetic with
+361-02||45||foul smelling foot ulcer.||INDICATION FFF foot ulcer. FFF 2 3||
+361-02||46||Possible diagnoses is cellulitis, soft tissue infection, or osteomyelitis.||INDICATION FFF cellulitis, FFF 3 3||INDICATION FFF soft tissue infection, FFF 4 6||INDICATION FFF osteomyelitis. FFF 8 8||
+361-02||47||The patient's WBC was 6.2.
+361-02||48||Hematocrit and platelets were normal.||INDICATION FFF hematocrit FFF 0 0||
+361-02||49||He was slightly dry.
+361-02||50||His
+361-02||51||BUN was 40.
+361-02||52||His creatinine of 7.4; however, it was decreased from his hemodialysis yesterday.||INDICATION FFF creatinine FFF 1 1||
+361-02||53||Sodium was 139, potassium was 5.0.||DIN FFF sodium FFF 0 0||DIN FFF potassium FFF 3 3||
+361-02||54||An x-ray of his foot of the right did not reveal any osteomyelitis; however, given his four smelling odor and yellowish discharge on his dressing, we elected to treat him with 3.375 mg of Zosyn.||INDICATION FFF osteomyelitis; FFF 12 12||DOSE FFF 3.375 mg FFF 31 32||DBN FFF zosyn. FFF 34 34||
+361-02||55||He also received Tylenol for some pain.||DBN FFF tylenol FFF 3 3||INDICATION FFF pain. FFF 6 6||
+361-02||56||The patient blood pressure remained high and at one point it was 232/109.||INDICATION FFF blood pressure FFF 2 3||
+361-02||57||He received 10 mg of hydralazine, 10 mg of labetalol IV as well as 100 mg of labetalol p.o.  The patient's blood pressure went down to 140/82 prior to admission.||DOSE FFF 10 mg FFF 2 3||DIN FFF hydralazine, FFF 5 5||DOSE FFF 10 mg FFF 6 7||DIN FFF labetalol FFF 9 9||RUT FFF iv FFF 10 10||INDICATION FFF as FFF 11 11||INDICATION FFF as FFF 13 13||DOSE FFF 100 mg FFF 14 15||DIN FFF labetalol FFF 17 17||RUT FFF p.o. FFF 18 18||INDICATION FFF the patient's blood pressure FFF 19 22||
+361-02||58||The patient's primary care physician was called who agreed with the admission to the Medical Service.
+361-02||59||DIAGNOSES:
+361-02||60||1.  Diabetic foot ulcers.||INDICATION FFF foot ulcers. FFF 2 3||
+361-02||61||2.  Hypertension.||INDICATION FFF hypertension. FFF 1 1||
+361-02||62||______________________________
+361-02||63||TOMLIN, THEODORE M.D.
+361-02||64||D: 01/29/65
+361-02||65||T: 01/29/65||INDICATION FFF t: FFF 0 0||

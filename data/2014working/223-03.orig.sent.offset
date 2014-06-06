@@ -1,0 +1,10 @@
+223-03	22	0	Amlodipine 5 mg qd	amlodipine FFF 0 0	5 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+223-03	23	0	Metoprolol XL 50 mg qd	metoprolol FFF 0 0	50 mg FFF 2 3	 FFF 	qd FFF 4 4	 FFF 	 FFF 	narrative
+223-03	24	0	Valsartan HCTZ 160/25 mg	valsartan FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+223-03	24	0	Valsartan HCTZ 160/25 mg	hctz FFF 1 1	160/25 mg FFF 2 3	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+223-03	25	0	Atorvastatin 20 mg	atorvastatin FFF 0 0	20 mg FFF 1 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+223-03	26	0	Aspirin 81 mg qd	aspirin FFF 0 0	81 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+223-03	27	0	Metformin 500 mg bid	metformin FFF 0 0	500 mg FFF 1 2	 FFF 	bid FFF 3 3	 FFF 	 FFF 	narrative
+223-03	38	0	Last ECG             2085	ecg FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+223-03	47	0	Xantines caffeine     moderate	caffeine FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+223-03	54	0	Recreational drugs    none	drugs FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

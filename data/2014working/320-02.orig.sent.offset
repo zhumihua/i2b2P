@@ -1,0 +1,19 @@
+320-02	4	0	She has been taking oxycodone and muscle relaxants at home.	oxycodone FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+320-02	4	0	She has been taking oxycodone and muscle relaxants at home.	muscle relaxants FFF 6 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+320-02	13	0	Hypertensive disorder : dx 2060s, was taking atenolol, enalapril and isosorbide in UNITED KINGDOM	atenolol, FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+320-02	13	0	Hypertensive disorder : dx 2060s, was taking atenolol, enalapril and isosorbide in UNITED KINGDOM	enalapril FFF 8 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+320-02	13	0	Hypertensive disorder : dx 2060s, was taking atenolol, enalapril and isosorbide in UNITED KINGDOM	isosorbide FFF 10 10	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+320-02	21	0	Hepatitis B antibody present : Had HbsAg+ and HbsAb+ in 2067.	hbsag+ FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+320-02	26	0	Aspirin (ACETYLSALICYLIC Acid) 81 MG (81 MG TABLET Take 1) PO QD x 30 days #30 Tablet(s)	aspirin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+320-02	27	0	Atenolol 50 MG (50MG TABLET Take 1) PO QD x 30 days #30 Tablet(s)	atenolol FFF 0 0	50 mg FFF 1 2	po FFF 7 7	qd FFF 8 8	30 days FFF 10 11	 FFF 	narrative
+320-02	28	0	Calcium 600mg + Vitamin D(400IU) 1 TAB PO BID #60 Tablet(s)	calcium 600mg FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+320-02	28	0	Calcium 600mg + Vitamin D(400IU) 1 TAB PO BID #60 Tablet(s)	vitamin d(400iu) FFF 3 4	d(400iu) FFF 4 4	po FFF 7 7	bid FFF 8 8	 FFF 	 FFF 	narrative
+320-02	29	0	Ergocalciferol 50000 UNITS (50000 UNIT CAPSULE Take 1) PO QWEEK x 42 days #6 Capsule(s)	ergocalciferol FFF 0 0	50000 units FFF 1 2	po FFF 8 8	qweek FFF 9 9	42 days FFF 11 12	 FFF 	narrative
+320-02	30	0	Lisinopril 20 MG (20 MG TABLET Take 1) PO QD x 30 days #30 Tablet(s)	lisinopril FFF 0 0	20 mg FFF 1 2	po FFF 8 8	qd FFF 9 9	30 days FFF 11 12	 FFF 	narrative
+320-02	31	0	Metformin 500 MG (500 MG TABLET Take 1) PO BID x 30 days #60 Tablet(s)	metformin FFF 0 0	500 mg FFF 1 2	po FFF 8 8	bid FFF 9 9	30 days FFF 11 12	 FFF 	narrative
+320-02	32	0	Motrin (IBUPROFEN) 600 MG (600MG TABLET Take 1) PO Q6H PRN pain, Take with food x 7 days #28 Tablet(s)	motrin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+320-02	33	0	Nulytely 4000 ML PO as directed #1 Bottle(s)	nulytely FFF 0 0	4000 ml FFF 1 2	po FFF 3 3	 FFF 	 FFF 	 FFF 	narrative
+320-02	34	0	Oxycodone 5 MG (5MG TABLET Take 1) PO Q6H PRN pain, pain not relieved by ibuprofen	oxycodone FFF 0 0	5 mg FFF 1 2	po FFF 7 7	Q6H PRN FFF 8 9	 FFF 	 FFF 	narrative
+320-02	34	0	Oxycodone 5 MG (5MG TABLET Take 1) PO Q6H PRN pain, pain not relieved by ibuprofen	ibuprofen FFF 15 15	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+320-02	35	0	Simvastatin 40 MG (40 MG TABLET Take 1) PO QPM x 30 days #30 Tablet(s)	simvastatin FFF 0 0	40 mg FFF 1 2	po FFF 8 8	qpm FFF 9 9	30 days FFF 11 12	 FFF 	narrative
+320-02	36	0	Valium (DIAZEPAM) 5 MG (5MG TABLET Take 1) PO Q8H, Take 1 tablet every 8 hours for muscle relaxation if awake/uncomfortable	valium FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

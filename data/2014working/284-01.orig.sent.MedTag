@@ -1,0 +1,36 @@
+284-01	1	Record date: 2070-05-15	
+284-01	2	78 y o female pt dr olivas at home. special visit to prepare meds for the week end. unfortunately pt does not know why she does not yet have new meds. expects family to deliver them to her later today. Has not taken meds today and does not have lasix, neurontin, protonix.  very anxious, worried about having to be placed in nursing home because cannot do own med preparation, test fingersticks.  says she is having some sob at rest but no doe, orthop, pnd, cp.  ankle swelling is also a little more.		DBN FFF lasix#49	DBN FFF neurontin#50	DBN FFF protonix#51	INDICATION FFF sob#76	INDICATION FFF cp#84	INDICATION FFF swelling#86
+284-01	3	Allergies		INDICATION FFF allergies#0
+284-01	4	* Haldol - Unknown		DBN FFF haldol#1
+284-01	5	Medications	
+284-01	6	Asa (CHILDRENS) (ACETYLSALICYLIC Acid (C... 81MG, 1 Tablet(s) PO QD		DIN FFF asa#0	DOSE FFF 81mg#5	DOSEAMT FFF 1 tablet#7	RUT FFF po#8	FREQ FFF qd#9
+284-01	7	Mvi (MULTIVITAMINS) 1 CAPSULE PO QD		DPN FFF mvi#0	DOSEAMT FFF 1 capsule#3	RUT FFF po#4	FREQ FFF qd#5
+284-01	8	Pericolace (DOCUSATE W/casanthranol) 1 CAPSULE PO QD		DPN FFF pericolace#0	DOSEAMT FFF 1 capsule#4	RUT FFF po#5	FREQ FFF qd#6
+284-01	9	AMIODARONE 200MG, 1 Tablet(s) PO QD		DIN FFF amiodarone#0	DOSE FFF 200mg#1	DOSEAMT FFF 1 tablet#3	RUT FFF po#4	FREQ FFF qd#5
+284-01	10	Lasix (FUROSEMIDE) 40MG, 1 Tablet(s) PO BID		DBN FFF lasix#0	DOSE FFF 40mg#2	DOSEAMT FFF 1 tablet#4	RUT FFF po#5	FREQ FFF bid#6
+284-01	11	Premarin (CONJUGATED Estrogens) 0.625MG, 1 Tablet(s) PO QD		DBN FFF premarin#0	DOSE FFF 0.625mg#3	DOSEAMT FFF 1 tablet#5	RUT FFF po#6	FREQ FFF qd#7
+284-01	12	Provera (MEDROXYPROGESTERONE) 2.5MG, 1 Tablet(s) PO QD		DBN FFF provera#0	DOSE FFF 2.5mg#2	DOSEAMT FFF 1 tablet#4	RUT FFF po#5	FREQ FFF qd#6
+284-01	13	Celexa (CITALOPRAM) 40MG, 1 Tablet(s) PO QD		DBN FFF celexa#0	DOSE FFF 40mg#2	DOSEAMT FFF 1 tablet#4	RUT FFF po#5	FREQ FFF qd#6
+284-01	14	ATENOLOL 25MG, 1 Tablet(s) PO QD		DIN FFF atenolol#0	DOSE FFF 25mg#1	DOSEAMT FFF 1 tablet#3	RUT FFF po#4	FREQ FFF qd#5
+284-01	15	Tylenol (ACETAMINOPHEN) 500MG, 2 Tablet(s) PO TID PRN arthritis pain		DBN FFF tylenol#0	DOSE FFF 500mg#2	DOSEAMT FFF 2 tablet#4	RUT FFF po#5	FREQ FFF tid#6	NEC FFF prn#7	DBN FFF arthritis pain#9
+284-01	16	Advil (IBUPROFEN) 200MG, 1 Tablet(s) PO BID PRN pain not relieved by tylenol		DBN FFF advil#0	DOSE FFF 200mg#2	DOSEAMT FFF 1 tablet#4	RUT FFF po#5	FREQ FFF bid#6	NEC FFF prn#7	INDICATION FFF pain#8	DBN FFF tylenol#12
+284-01	17	Protonix (PANTOPRAZOLE) 40MG, 1 Tablet(s) PO QD PRN .		DBN FFF protonix#0	DOSE FFF 40mg#2	DOSEAMT FFF 1 tablet#4	RUT FFF po#5	FREQ FFF qd#6	NEC FFF prn#7
+284-01	18	Glucophage (METFORMIN) 500MG, 2 Tablet(s) PO BID		DBN FFF glucophage#0	DOSE FFF 500mg#2	DOSEAMT FFF 2 tablet#4	RUT FFF po#5	FREQ FFF bid#6
+284-01	19	Neurontin (GABAPENTIN) 100MG, 2 Capsule(s) PO TID		DBN FFF neurontin#0	DOSE FFF 100mg#2	DOSEAMT FFF 2 capsule#4	RUT FFF po#5	FREQ FFF tid#6
+284-01	20	Problems	
+284-01	21	Hypertension		INDICATION FFF hypertension#0
+284-01	22	Osteoarthritis		INDICATION FFF osteoarthritis#0
+284-01	23	Dizziness		INDICATION FFF dizziness#0
+284-01	24	amputation : 3rd left toe	
+284-01	25	Depression : with psychotic features		INDICATION FFF depression#0	INDICATION FFF psychotic#3
+284-01	26	Lumbar disc disease : s/p discectomy	
+284-01	27	Cholecystectomy : s/p open procedure	
+284-01	28	H/O Atrial fibrillation : vs. atrial tachycardia -- s/p cardioversion 2/68		INDICATION FFF atrial fibrillation#2
+284-01	29	Diabetes mellitus : type 2		INDICATION FFF diabetes mellitus :#2
+284-01	30	Pulmonary embolism : bilateral; tx'd at Buzan Chiropractic Clinic		INDICATION FFF pulmonary embolism#1
+284-01	31	Myocardial infarction : NQWMI with inferolateral/apical depressions 5/31/69 - 6/04/69 at Buzan County Clinic; no cath or f/u ETT done there as pt requested conservative management		INDICATION FFF myocardial infarction#1	INDICATION FFF f#17	INDICATION FFF as#21
+284-01	32	O: bp 144/82 r sitting. hr 68 reg rr 20. chest clear, cor no MRG, ext 1-2+ edema, callus on heal improved, no open areas, infection.		INDICATION FFF bp#1	DIN FFF cor#12	INDICATION FFF edema#17	INDICATION FFF infection#25
+284-01	33	A/P: call to castro, message left with daughter re need to get lasix and add to med boxes asap, no message machine working and no answer with alaniz's number. will return 4 days to check on situation with meds. castro will check on patient daily over that time.		DBN FFF lasix#12	INDICATION FFF add#14	DRT FFF 4 days#32	FREQ FFF daily#44
+284-01	34	_____________________________________________	
+284-01	35	Kay K. Edge,RNC,ANP		INDICATION FFF k#1
+284-01	36		

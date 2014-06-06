@@ -1,0 +1,50 @@
+326-02	1	Record date: 2085-04-26	
+326-02	2	Reasons for Ref: vascular access for HD		INDICATION FFF hd#6
+326-02	3	Nephrologist:Bianca Lowe, MD		INDICATION FFF md#2
+326-02	4	History of Present Illness:This 29-year-old young woman with end stage renal disease status post two failed renal transplants on hemodialysis with multiple access problems was referred for vascular access for HD.		INDICATION FFF end stage renal disease#11	INDICATION FFF hd#30
+326-02	5		
+326-02	6	Past History:s/p  two failed kidney Tx, s/p multiple access surgery, ruptured and ifected left thigh graft. s/p parathyroidectomy		INDICATION FFF tx#5	INDICATION FFF surgery#9
+326-02	7	Medication:Prednisone 2.5 mg. PO daily.		DOSE FFF 2.5mg#2	RUT FFF po#3	FREQ FFF daily#4
+326-02	8	Dilantin 400 mg.		DBN FFF dilantin#0	DOSE FFF 400mg#2
+326-02	9	PO b.i.d.  Tegretol 250 mg. PO b.i.d.  Nephrocaps 1 tablet PO daily.  Paxil		RUT FFF po#0	FREQ FFF b.i.d#1	DBN FFF tegretol#2	DOSE FFF 250mg#4	RUT FFF po#5	FREQ FFF b.i.d#6	DBN FFF nephrocaps#7	DOSEAMT FFF 1 tablet#9	RUT FFF po#10	FREQ FFF daily#11	DBN FFF paxil#12
+326-02	10	10 mg. PO daily.  Percocet 1-2 tablets PO q.4-6 hours prn pain.		DOSE FFF 10mg#1	RUT FFF po#2	FREQ FFF daily#3	DBN FFF percocet#4	DOSEAMT FFF 1-2 tablets#6	RUT FFF po#7	FREQ FFF q.4-6 hours#9	NEC FFF prn#10	INDICATION FFF pain .#11
+326-02	11	Allergies:demerol and levaquin		DBN FFF levaquin#2
+326-02	12	Family History:Non Contributory	
+326-02	13	Social History:	
+326-02	14	Non Contributory	
+326-02	15	Review  of systems:	
+326-02	16	Complete ROS was otherwise unremarkable for any other medically relevant symptoms.		INDICATION FFF symptoms#10
+326-02	17	Physical Exam: BP:  130/80       P:  70       R: 15               Afebrile		INDICATION FFF bp#2
+326-02	18	SKIN: dry	
+326-02	19	HEENT:benign	
+326-02	20	NECK: Supple, no adenopathy, no thyromegaly		INDICATION FFF thyromegaly#5
+326-02	21	CHEST:clear	
+326-02	22	COR: Noemal S1, S4+, no S3		DIN FFF cor#0
+326-02	23	ABDOMEN:benign	
+326-02	24	EXT:left thigh some open wound from the previous operation (total excision of the graft)		INDICATION FFF wound#4
+326-02	25	OTHERS:	
+326-02	26	Labs:	
+326-02	27	Chemistry Comments	
+326-02	28	Weekly pre dialysis		FREQ FFF weekly#0
+326-02	29	Plasma Sodium                    133              L        (135-145)        mmol/L		DIN FFF sodium#1	DOSE FFF 133l#3
+326-02	30	Plasma Potassium                 3.8                       (3.4-4.8)        mmol/L		DIN FFF potassium#1	DOSE FFF 3.8#2
+326-02	31	Plasma Chloride                  95               L        (100-108)        mmol/L		DOSE FFF 95l#3
+326-02	32	Plasma Carbon Dioxide            22.5             L        (23.0-31.9)      mmol/L		DIN FFF carbon dioxide#2	DOSE FFF 22.5l#4
+326-02	33	Plasma Urea Nitrogen             13                        (8-25)           mg/dl		DIN FFF urea#1	DIN FFF nitrogen#2	DOSE FFF 13#3
+326-02	34	Plasma Creatinine                5.6              H        (0.6-1.5)        mg/dl		INDICATION FFF creatinine#1	DRT FFF 5.6 h#3
+326-02	35	Plasma Glucose                   67               L        (70-110)         mg/dl		DOSE FFF 67l#3
+326-02	36	Hematology Detail for IORIO, OLIVIA L	
+326-02	37	MEDIQUIK  BLOOD          26-Apr-2085 12:47  Accession# 2593X73037	
+326-02	38	Test Description                 Result           Flags    Ref.	
+326-02	39	Range       Units	
+326-02	40	WBC                              4.7                       (4.5-11.0)       th/cmm	
+326-02	41	HCT                              27.6             L        (36.0-46.0)      %		DOSE FFF 27.6l#2
+326-02	42	HGB                              8.7              L        (12.0-16.0)      gm/dl		DOSE FFF 8.7l#2
+326-02	43	RBC                              2.74             L        (4.00-5.20)      mil/cmm		DOSE FFF 2.74l#2
+326-02	44	PLT                              537              H        (150-350)        th/cumm		DRT FFF 537 h#2
+326-02	45	MCV                              101              H        (80-100)         fl		DRT FFF 101 h#2
+326-02	46	MCH                              31.6                      (26.0-34.0)      pg/rbc	
+326-02	47	MCHC                             31.3                      (31.0-37.0)      g/dl	
+326-02	48	RDW                              19.2             H        (11.5-14.5)      %		DRT FFF 19.2 h#2
+326-02	49	Impression and plans:because of her immunocompromised status, any synthetic graft will not be a good option.	
+326-02	50	Transposition of the basilic vein and construction of AV fistula will be indicated under general anesthesia.		INDICATION FFF av#8

@@ -1,0 +1,38 @@
+330-01||1||Record date: 2083-10-06
+330-01||2||VIGIL, ANTHONY||DIN FFF vigil, FFF 0 0||
+330-01||3||40984972
+330-01||4||10/06/2083
+330-01||5||ATTENDING PHYSICIANS:
+330-01||6||Joshua Root, M.D.
+330-01||7||Bloomfield Care Center, Suite 8466
+330-01||8||990 Westwood Dr
+330-01||9||Bangkok, NJ  53591
+330-01||10||Amir Naranjo, M.D.
+330-01||11||Boys Town National
+330-01||12||2 Kelly Street
+330-01||13||Bangkok, NJ  53591
+330-01||14||Joshua Hanna, M.D.
+330-01||15||Ashley County Medical Center
+330-01||16||61 Meadowview Circle
+330-01||17||Oneonta, NJ  19723
+330-01||18||IDENTIFICATION:  This 65-year-old man with a 5-year history of cardiomyopathy is is admitted with worsening heart failure and recent presyncope for further evaluation.
+330-01||19||He was diagnosed with progressive shortness of breath in 2078.
+330-01||20||He was treated with diuretics and other medications at that time.||DIN FFF diuretics FFF 4 4||
+330-01||21||He did quite well until December of last year when he had a cardiac arrest and underwent ICD placement.
+330-01||22||He has had worsening symptoms over the last year with increasing shortness of breath on flat ground and a very severe shortness of breath with stairs.
+330-01||23||He has had some episodic nature to this.
+330-01||24||Two days prior to admission, he had relatively rapid onset of shortness of breath while trying to play pool.
+330-01||25||This recurred several times associated with diaphoresis.
+330-01||26||He had no palpitations at that time.
+330-01||27||He has no chest discomfort.
+330-01||28||His past medical history is significant for history of shower emboli and TIA in 2081.
+330-01||29||He has diabetes.
+330-01||30||He had spinal stenosis surgery in 2078.
+330-01||31||His current medical regimen is Bumex 3, recently decreased from 12 due to worsening renal function.||DBN FFF medical regimen FFF 2 3||
+330-01||31||His current medical regimen is Bumex 3, recently decreased from 12 due to worsening renal function.||DBN FFF bumex FFF 5 5||DOSE FFF 3, FFF 6 6||
+330-01||32||He is on spironolactone described as 6.25 daily, digoxin 0.125, Toprol-XL 12.5.||DIN FFF spironolactone FFF 3 3||INDICATION FFF as FFF 5 5||FREQ FFF daily, FFF 7 7||
+330-01||32||He is on spironolactone described as 6.25 daily, digoxin 0.125, Toprol-XL 12.5.||DIN FFF digoxin FFF 8 8||DOSE FFF 0.125, FFF 9 9||
+330-01||32||He is on spironolactone described as 6.25 daily, digoxin 0.125, Toprol-XL 12.5.||DBN FFF toprol-xl FFF 10 10||DOSE FFF 12.5. FFF 11 11||
+330-01||33||He has been on carvedilol, which was changed due to dizziness.||DIN FFF carvedilol, FFF 4 4||INDICATION FFF dizziness. FFF 10 10||
+330-01||34||He is on lisinopril 1.25 mg and has had great difficulty tolerating any higher dose due to dizziness.||DIN FFF lisinopril FFF 3 3||DOSE FFF 1.25 mg FFF 4 5||INDICATION FFF dizziness. FFF 17 17||
+330-01||35||He is on metolazone 2.5 weekly.||DIN FFF metolazone FFF 3 3||DOSE FFF 2.5 FFF 4 4||FREQ FFF weekly. FFF 5 5||

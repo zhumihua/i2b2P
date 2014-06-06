@@ -1,0 +1,94 @@
+351-03	1	Record date: 2080-01-13	
+351-03	2	EDVISIT^10776605^Glenn, Olivia^01/14/80^WOODRUFF, FERNE	
+351-03	3	I saw this patient in conjunction with Dr.	
+351-03	4	Leyva and Dr.	
+351-03	5	Forrest.  I confirm that I have interviewed and examined the	
+351-03	6	patient, reviewed the resident's documentation on the patient's	
+351-03	7	chart, and discussed the evaluation, plan of care, and	
+351-03	8	disposition with the patient.	
+351-03	9	CHIEF COMPLAINT:  A 65-year-old female with difficulty breathing.		INDICATION FFF difficulty breathing#7
+351-03	10	HISTORY OF PRESENT ILLNESS:  The patient with known multiple	
+351-03	11	medical problems presents with difficulty breathing.		INDICATION FFF difficulty breathing#5
+351-03	12	At her rehabilitation facility was noted to be hypoxic and thus was sent here.	
+351-03	13	The patient's recent past medical history is remarkable for a fall with cervical fractures, rib fractures, and subsequent hemothorax for which she was admitted to the Educare-Pullman ICU over the end of December through the beginning of January.	
+351-03	14	The patient's chest tube was withdrawn approximately 10 days ago and the patient has been doing well at rehab since.		RUT FFF tube#3	DRT FFF 10 days#8
+351-03	15	However, today was noted to have desaturations to 80% on room air.		DOSE FFF 80%#8
+351-03	16	She had shortness of breath as well.		INDICATION FFF shortness of breath#4	INDICATION FFF as#5
+351-03	17	Her oxygen saturations improved marginally on oxygenation and have been responsive to nonrebreather treatment in the transport here.	
+351-03	18	The patient was treated with nebulizers and Lasix without significant improvement and is noted to be quite tachypneic.		DBN FFF lasix#7
+351-03	19	PAST MEDICAL HISTORY:  Remarkable for hypertension, CHF,		INDICATION FFF hypertension#5	INDICATION FFF chf#6
+351-03	20	diabetes, asthma, chronic renal insufficiency, osteoporosis,		INDICATION FFF diabetes#0	INDICATION FFF asthma#1	INDICATION FFF chronic renal insufficiency#4	INDICATION FFF osteoporosis#5
+351-03	21	anemia, and cervical fracture.		INDICATION FFF anemia#0
+351-03	22	SOCIAL HISTORY, FAMILY HISTORY, AND REVIEW OF SYSTEMS:  Limited	
+351-03	23	by the severity of the patient's presentation.	
+351-03	24	MEDICATIONS:  Insulin, Zocor, PhosLo, calcium carbonate,		DIN FFF insulin#1	DBN FFF zocor#2	DBN FFF phoslo#3	DIN FFF calcium carbonate#5
+351-03	25	Protonix, Niferex, Norvasc, Fosamax, Epogen, Lasix, lisinopril,		DBN FFF protonix#0	DBN FFF niferex#1	DBN FFF norvasc#2	DBN FFF fosamax#3	DBN FFF epogen#4	DBN FFF lasix#5	DIN FFF lisinopril#6
+351-03	26	Colace, and Xalatan.		DBN FFF colace#0	DBN FFF xalatan#2
+351-03	27	ALLERGIES:  Morphine and aspirin.		INDICATION FFF allergies#0
+351-03	28	PHYSICAL EXAMINATION:  The patient is awake and alert, in some	
+351-03	29	degree of respiratory distress, however, able to interact and	
+351-03	30	answer questions in 1-2 word sentences.	
+351-03	31	Vital signs are as documented with an elevated blood pressure of 176/96, pulse 76, and oxygen saturation is 98% on nonrebreather.		INDICATION FFF as#3	INDICATION FFF elevated blood pressure#9	DOSE FFF 98%#18
+351-03	32	HEENT exam is atraumatic, normal to inspection.	
+351-03	33	The patient has a large tongue and her uvula is not visible at all.	
+351-03	34	Neck is immobilized in a	
+351-03	35	C-collar and is obese.		INDICATION FFF obese#3
+351-03	36	Respiratory exam reveals decreased breath sounds diffusely with tachypnea and respiratory muscle accessory use.	
+351-03	37	Cardiovascular exam:  Regular rate and rhythm without murmur.	
+351-03	38	Pulses are palpable in all four extremities.	
+351-03	39	Abdomen is soft and nontender, obese, but without any organomegaly or masses, or guarding, or rebound.		INDICATION FFF obese#5
+351-03	40	Skin is intact, warm, and dry without any lesions or rash.	
+351-03	41	Musculoskeletal exam reveals tenderness over the right ribs where the patient has known rib fractures.	
+351-03	42	Neurologically, she is oriented with difficulty speaking due to respiratory distress but no focal neurologic deficit.	
+351-03	43	LABORATORY STUDIES:  BNP is elevated in the 500-600 range.	
+351-03	44	White blood count is slightly elevated at 10, hematocrit 26.3, which is at the patient's baseline, and creatinine of 2.2.		INDICATION FFF hematocrit#8	INDICATION FFF creatinine#17
+351-03	45	LFTs within normal limit.	
+351-03	46	INR 1.2.  D-dimer significantly elevated.  EKG demonstrates sinus rhythm with nonspecific ST-T wave changes.		INDICATION FFF inr#0
+351-03	47	IMAGING STUDIES:  Chest x-ray shows bilateral effusions, which	
+351-03	48	are present previously but possibly slightly increased.	
+351-03	49	EMERGENCY DEPARTMENT COURSE:  The patient was initially given	
+351-03	50	Lasix and nitro with improvement in her blood pressure and was		DBN FFF lasix#0	INDICATION FFF her blood pressure#8
+351-03	51	also started on CPAP.	
+351-03	52	She seemed to be improving clinically for some period of time but then began to decline in her mental status.		INDICATION FFF mental status#19
+351-03	53	At that time an ABG was sent demonstrating hypoxia.	
+351-03	54	Prior to those results, the decision was made that the patient	
+351-03	55	likely needed intubation.	
+351-03	56	We had hope to hold off to do a thoracentesis; however, the patient's clinical course declines such that it was not possible for her to sit up for the procedure.	
+351-03	57	On CPAP, the patient's oxygen saturations were stable throughout in the 90s, but she developed increasing respiratory distress.	
+351-03	58	Intubation was complicated by her inability to flex her neck, her large tongue, and her body habitus; was successful in two attempts with one episode of bag mask ventilation in between those attempts.	
+351-03	59	For full details of the procedure, please see the attached procedure note.	
+351-03	60	Thoracic Surgery was consulted.		INDICATION FFF surgery#1
+351-03	61	They arrived as the patient was being intubated.		INDICATION FFF as#2
+351-03	62	At this time their recommendation is for a CT scan of the chest to determine whether this is more likely a hemothorax or a pleural effusion and whether it is loculated.		INDICATION FFF ct#8	INDICATION FFF pleural effusion#25
+351-03	63	This study will be performed and then patient will be admitted to her ready bed in the ICU.	
+351-03	64	A bedside ultrasound was also performed by myself and the resident demonstrating no obvious pericardial effusion.		RUT FFF bedside#1
+351-03	65	******** Not reviewed by Attending Physician ********	
+351-03	66	PRIMARY DIAGNOSIS:  Bilateral pleural effusions.		INDICATION FFF pleural effusions#4
+351-03	67	SECONDARY DIAGNOSIS:  Respiratory distress.	
+351-03	68	TERTIARY DIAGNOSIS:  Question recurrent hemothorax versus pleural	
+351-03	69	effusion.	
+351-03	70	FOURTH DIAGNOSIS:  Question CHF.		INDICATION FFF chf#3
+351-03	71	DISPOSITION:  Admitted to the ICU.	
+351-03	72	CRITICAL CARE TIME:  75 minutes.	
+351-03	73	______________________________	
+351-03	74	WOODRUFF, FERNE MD		INDICATION FFF md#2
+351-03	75	D: 01/14/80	
+351-03	76	T: 01/14/80		INDICATION FFF t#0
+351-03	77	Dictated By: WOODRUFF, FERNE	
+351-03	78	eScription document:9-3389642 BFFocus	
+351-03	79		
+351-03	80		
+351-03	81		
+351-03	82		
+351-03	83		
+351-03	84		
+351-03	85		
+351-03	86		
+351-03	87		
+351-03	88		
+351-03	89		
+351-03	90		
+351-03	91		
+351-03	92		
+351-03	93		
+351-03	94		

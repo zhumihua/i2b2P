@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2095-10-23
+
+                     RAH EMERGENCY DEPT VISIT
+ 
+DUVALL,BRADY C   425-03-15-1                 VISIT DATE: 10/23/95
+HISTORY OF PRESENTING COMPLAINT:  The patient is an unfortunate 73 
+year old man who has had two myocardial infarctions in the past, 
+including an IMI, and ventricular tachycardia and ventricular 
+fibrillation who has an AICD in who presents today with his AICD 
+firing multiple times.  The patient's AICD actually fired multiple 
+times while he was in the Emergency Department. 
+REVIEW OF SYSTEMS:  The patient has no chest pain, syncope, or 
+shortness of breath.  He presents in ventricular tachycardia with 
+his AICD firing. 
+PAST MEDICAL HISTORY:  The patient has a significant coronary 
+artery disease history and recently had his pacer placed, 
+approximately a month ago.  He has had two myocardial infarctions. 
+He has diabetes. 
+MEDICATIONS:  Glyburide and metformin. 
+ALLERGIES:  Atenolol. 
+PHYSICAL EXAMINATION:  VITAL SIGNS:  Vital signs remained stable, 
+including blood pressure.  HEENT:  Normal.  LUNGS:  Clear. 
+CARDIOVASCULAR:  Tachycardic with a paced rhythm.  ABDOMEN:  Soft, 
+non-tender.  LUNGS:  Clear bilaterally. 
+LABORATORY EVALUATION:  The patient's EKG shows ventricular 
+tachycardia and some ST elevations in the inferior leads.  Chest 
+x-ray was clear.  Electrolytes were sent to check his potassium. 
+THERAPY RENDERED/COURSE IN ED:  The patient was loaded on lidocaine 
+and paced on a lidocaine drip.  He also received Lasix and 
+metoprolol.  He also received 2 mg of Ativan for sedation.  He had 
+no chest pain while he was in the Emergency Department;  his only 
+pain was from the pacer firing. 
+CONSULTATIONS (including PCP):  The patient was seen by Internal Medicine and also by the Internal Medicine fellow. 
+FINAL DIAGNOSIS:  History of coronary artery disease, now with 
+ventricular tachycardia and ST elevations on EKG with pacer firing. 
+DISPOSITION (including condition upon discharge):  The patient was 
+urgently rushed to the Cath Lab.  He is currently in stable 
+condition. 
+___________________________________                    OT109/6637 
+FRANK EMMONS, M.D.       FE01                           D:10/23/95 
+                                                       T:10/23/95 
+Dictated by:  FRANK EMMONS, M.D.       FE01 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC5" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC6" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC14" time="before DCT" type1="sulfonylureas" type2=""/>
+    <CAD id="DOC2" time="before DCT" indicator="mention"/>
+    <CAD id="DOC3" time="before DCT" indicator="event"/>
+    <CAD id="DOC10" time="during DCT" indicator="mention"/>
+    <CAD id="DOC13" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC11" indicator="not present"/>
+    <SMOKER id="DOC12" status="unknown"/>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC8" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC9" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

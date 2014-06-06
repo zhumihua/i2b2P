@@ -1,0 +1,21 @@
+227-02	8	0	Did not tolerate ARB.	arb. FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+227-02	12	0	On NPH 34 AM, 12 PM and regular 10 QM and 14PM.	nph FFF 1 1	 FFF 	 FFF 	34 am, FFF 2 3	 FFF 	 FFF 	narrative
+227-02	15	0	Did not tolerate ARB.	arb. FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+227-02	17	0	Continue current regimen for now and followup with Christy for insulin adjustments	insulin FFF 10 10	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+227-02	21	0	Much better after cortisone injection on right.	cortisone injection FFF 3 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+227-02	25	0	On pravachol 20mg and tolerating well.	pravachol FFF 1 1	20mg FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+227-02	27	0	Would like to start niacin but pt not interested at this time.	niacin FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+227-02	28	0	Has tried lipitor and zocor but developed myositis and muscle pain.	lipitor FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+227-02	28	0	Has tried lipitor and zocor but developed myositis and muscle pain.	zocor FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+227-02	29	0	Continue pravachol for now.	pravachol FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+227-02	35	0	Pt never started Imdur as directed.	imdur FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+227-02	38	0	A/P: CP: unclear etiology. Will try Imdur 30 QD.	imdur FFF 6 6	30 FFF 7 7	 FFF 	qd. FFF 8 8	 FFF 	 FFF 	narrative
+227-02	44	0	On lasix 20mg QD.	lasix FFF 1 1	20mg FFF 2 2	 FFF 	qd. FFF 3 3	 FFF 	 FFF 	narrative
+227-02	52	0	A/P: ?claudication. Will check art lenis and exercise ABIs first. on ASA.	asa. FFF 11 11	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+227-02	59	0	nph insulin 35 units sc qam 12 units qpm	nph insulin FFF 0 1	35 units FFF 2 3	sc FFF 4 4	qam FFF 5 5	 FFF 	 FFF 	narrative
+227-02	59	0	nph insulin 35 units sc qam 12 units qpm	nph insulin FFF 0 1	12 units FFF 6 7	 FFF 	qpm FFF 8 8	 FFF 	 FFF 	narrative
+227-02	60	0	regular insulin 10 u qam, 10 u qpm	regular insulin FFF 0 1	10 u FFF 2 3	 FFF 	qam, FFF 4 4	 FFF 	 FFF 	narrative
+227-02	60	0	regular insulin 10 u qam, 10 u qpm	regular insulin FFF 0 1	10 u FFF 5 6	 FFF 	qpm FFF 7 7	 FFF 	 FFF 	narrative
+227-02	61	0	Neurontin 100 mg PO 2 TAB TID	neurontin FFF 0 0	100 mg FFF 1 2	po FFF 3 3	tid FFF 6 6	 FFF 	 FFF 	narrative
+227-02	62	0	Spectazole 1% TOPICAL QD apply cream qd	spectazole FFF 0 0	1% FFF 1 1	topical FFF 2 2	qd FFF 3 3	 FFF 	 FFF 	narrative
+227-02	63	0	Ntg 0.3 mg SL Q 5 MIN x3 prn chest pain	ntg FFF 0 0	0.3 mg FFF 1 2	sl FFF 3 3	Q 5 MIN x3 prn FFF 4 8	x3 prn FFF 7 8	 FFF 	narrative

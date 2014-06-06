@@ -1,0 +1,23 @@
+295-04	14	0	HPI: This is a 74 y.o. M with h.o CAD and PVD s/p bilateral lower extremity bypass grafting procedures complicated by a thrombus in the L side of the iliac portion of the graft for which he has been on coumadin.	coumadin. FFF 40 40	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+295-04	15	0	In anticipation for a follow-up cardiac catheterization (recent episodes of shortness of breath), his coumadin was held since Thursday (3/6/2081).	coumadin FFF 14 14	 FFF 	 FFF 	thursday FFF 18 18	 FFF 	 FFF 	narrative
+295-04	18	0	He complained of both numbness and pain, and he was started on a heparin drip when his INR fell to less than 2.0.	heparin FFF 13 13	 FFF 	drip FFF 14 14	 FFF 	 FFF 	 FFF 	narrative
+295-04	20	0	He arrives today (3/8/2081) on a heparin drip.	heparin FFF 6 6	 FFF 	drip. FFF 7 7	 FFF 	 FFF 	 FFF 	narrative
+295-04	37	438	Lasix 40 IV BID	lasix FFF 0 0	40 FFF 1 1	iv FFF 2 2	bid FFF 3 3	 FFF 	 FFF 	narrative
+295-04	38	438	Coumadin 3 mg QD	coumadin FFF 0 0	3 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+295-04	39	438	Enalapril 5 mg BID	enalapril FFF 0 0	5 mg FFF 1 2	 FFF 	bid FFF 3 3	 FFF 	 FFF 	narrative
+295-04	40	438	Coreg 3.125 BID	coreg FFF 0 0	3.125 FFF 1 1	 FFF 	bid FFF 2 2	 FFF 	 FFF 	narrative
+295-04	41	438	ASA 81 QD	asa FFF 0 0	81 FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+295-04	42	438	Lipitor 20 QD	lipitor FFF 0 0	20 FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+295-04	43	438	Glyburide 10 BID	glyburide FFF 0 0	10 FFF 1 1	 FFF 	bid FFF 2 2	 FFF 	 FFF 	narrative
+295-04	44	438	Zocor 40 QHS	zocor FFF 0 0	40 FFF 1 1	 FFF 	qhs FFF 2 2	 FFF 	 FFF 	narrative
+295-04	45	438	Lantus insulin 30 U QHS and sliding scale	lantus FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+295-04	45	438	Lantus insulin 30 U QHS and sliding scale	insulin FFF 1 1	30 u FFF 2 3	 FFF 	qhs FFF 4 4	 FFF 	 FFF 	narrative
+295-04	46	438	MVI	mvi FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+295-04	47	438	Clonazepam PRN	clonazepam FFF 0 0	 FFF 	 FFF 	prn FFF 1 1	 FFF 	 FFF 	narrative
+295-04	48	438	Tylenol PRN	tylenol FFF 0 0	 FFF 	 FFF 	prn FFF 1 1	 FFF 	 FFF 	narrative
+295-04	49	438	Colace 100 BID PRN	colace FFF 0 0	100 FFF 1 1	 FFF 	BID PRN FFF 2 3	 FFF 	 FFF 	narrative
+295-04	50	438	Soriatane CK 250 mg TID (for psoriasis)	soriatane ck FFF 0 1	250 mg FFF 2 3	 FFF 	tid FFF 4 4	 FFF 	 FFF 	narrative
+295-04	51	438	Bactroban ointment to LLE	bactroban ointment FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+295-04	75	0	Impression: 74 y.o. M with HTN, PVD, HL, DM who presents several days after stopping coumadin for a planned cardiac catheterization with cold, pulseless LLE consistent with acute on chronic thrombosis of L femoral to below-the-knee bypass graft.	coumadin FFF 15 15	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+295-04	78	0	Continue heparin gtt (PTT goal 60-80)	heparin FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+295-04	80	0	Mucomyst	mucomyst FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

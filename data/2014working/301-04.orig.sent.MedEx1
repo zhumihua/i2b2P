@@ -1,0 +1,136 @@
+301-04||1||Record date: 2079-10-31
+301-04||2||SECTIONS OF THIS NOTE WERE CREATED WITH A 'COPY AND PASTE' ACTION.
+301-04||3||THESE SECTIONS MAY NOT HAVE COPIED COMPLETELY.
+301-04||4||PLEASE USE CAUTION WHEN RENDERING CLINICAL JUDGMENT BASED ON THE INFORMATION IN THIS NOTE.
+301-04||5||Team 4 Admission H&amp;P
+301-04||6||Name: Bobbie Albert
+301-04||7||MRN: 7000963
+301-04||8||Date of Admission: 10/31/79
+301-04||9||Admitting Physician: Dr. Atkinson
+301-04||10||PCP: Benjamin Earnest, MD
+301-04||11||Code Status: Full
+301-04||12||Source of Hx:   Patient and chart, pulmonary fellow evaluation
+301-04||13||ID/CC: presumed lung rejection s/p lung transplant
+301-04||14||HPI:
+301-04||15||Mr. Albert is a 44-year-old man with bronchiectasis who underwent bilateral lung transplantation in July 2073.
+301-04||16||He was seen in the post-transplant clinic on 10/29/2079 with complaints of worsening dyspnea on exertion over the preceding two weeks to the point that he has been symptomatic with ADLs and after walking 4-5 steps.
+301-04||17||He says that his prednisone dose was decreased from 12.5 to 10 mg daily approximately 1 month ago and that his tacrolimus dose had been decreased earlier this year.||DIN FFF prednisone FFF 4 4||DOSE FFF 12.5 to 10 mg FFF 9 12||FREQ FFF daily FFF 13 13||DRT FFF 1 month FFF 15 16||
+301-04||17||He says that his prednisone dose was decreased from 12.5 to 10 mg daily approximately 1 month ago and that his tacrolimus dose had been decreased earlier this year.||DIN FFF tacrolimus FFF 21 21||
+301-04||18||At baseline, he is on supplemental oxygen (2L NC at rest and 4L NC with exertion).
+301-04||19||He denied F/C/cough/chest pain/jaw or L arm pain/sick contacts.
+301-04||20||Recently had a treadmill ETT and TTE in Florida.
+301-04||21||Also some morning headaches for the past 5 days.
+301-04||22||Denies vision change, sinus pain or drainage.||INDICATION FFF change, FFF 2 2||DBN FFF sinus pain FFF 3 4||
+301-04||23||No recent leg pain/swelling or prolonged travel.
+301-04||24||No recent travel outside of Fountain Of The Four Rivers area.
+301-04||25||Has a puppy at home; no other recent animal contact.
+301-04||26||No recent falls.
+301-04||27||His PFTs demonstrated a worsening FEV1 and CT scan demonstrates evidence of worsening obstruction, likely related to rejection.
+301-04||28||He is being admitted for treatment of acute on chronic rejection.
+301-04||29||ROS:   negative in detail except as noted above.
+301-04||30||PMH/Old Data
+301-04||31||1.Bronchiectasis.
+301-04||32||Status post bilateral lung transplantation 8/02/2073. Acute and chronic rejection.
+301-04||33||Admitted with bronchietasis flare with Serratia in 5/79, tx with cefepime and pip/tazo. 2.History of PsA, Serratian in sputum.On colisitin nebs||DIN FFF cefepime FFF 10 10||INDICATION FFF psa, FFF 15 15||
+301-04||34||3.OSA. On CPAP 14 cm H20 with 4L humidified oxygen
+301-04||35||4.Osteoporosis
+301-04||36||5.AVN Right hip and knee
+301-04||37||6.Obesity
+301-04||38||7.HCV
+301-04||39||8.HTN
+301-04||40||9.Depression
+301-04||41||10.    Psoriasis
+301-04||42||11.    CRI
+301-04||43||12.    Gastroparesis
+301-04||44||13.    Cataracts
+301-04||45||14.    Hyperlipidemia
+301-04||46||PSH
+301-04||47||1.bilat lung transplant 7/73
+301-04||48||Allergies/Adverse Reactions: NKDA
+301-04||49||Outpatient Meds on Admit:
+301-04||50||1.Acyclovir 200 mg PO tid||DIN FFF 1.acyclovir FFF 0 0||DOSE FFF 200 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF tid FFF 4 4||
+301-04||51||2.Albuterol MDI 90mcg Q4-6H PRN||DIN FFF 2.albuterol FFF 0 0||INDICATION FFF mdi FFF 1 1||DOSE FFF 90mcg FFF 2 2||FREQ FFF q4-6h FFF 3 3||NEC FFF prn FFF 4 4||
+301-04||52||3.Albuterol neb Q4H PRN||DIN FFF 3.albuterol FFF 0 0||RUT FFF neb FFF 1 1||FREQ FFF q4h FFF 2 2||NEC FFF prn FFF 3 3||
+301-04||53||4.Azithromycin 250 mg QMWF||DIN FFF 4.azithromycin FFF 0 0||DOSE FFF 250 mg FFF 1 2||
+301-04||54||5.Bactrim SS QMWF||DIN FFF 5.bactrim ss FFF 0 1||
+301-04||55||6.Calcium citrate 600 mg BID||DIN FFF 6.calcium citrate FFF 0 1||DOSE FFF 600 mg FFF 2 3||FREQ FFF bid FFF 4 4||
+301-04||56||7.Cellcept 500 mg BID||DBN FFF 7.cellcept FFF 0 0||DOSE FFF 500 mg FFF 1 2||FREQ FFF bid FFF 3 3||
+301-04||57||8.Colistin neb 150 mg daily||DIN FFF 8.colistin FFF 0 0||RUT FFF neb FFF 1 1||DOSE FFF 150 mg FFF 2 3||FREQ FFF daily FFF 4 4||
+301-04||58||9.Cozaar 100 mg daily||DBN FFF 9.cozaar FFF 0 0||DOSE FFF 100 mg FFF 1 2||FREQ FFF daily FFF 3 3||
+301-04||59||10.    Doxycycline 100 mg BID||DIN FFF doxycycline FFF 1 1||DOSE FFF 100 mg FFF 2 3||FREQ FFF bid FFF 4 4||
+301-04||60||11.    Flonase nasal spray BID||DBN FFF flonase FFF 1 1||DDF FFF nasal spray FFF 2 3||FREQ FFF bid FFF 4 4||
+301-04||61||12.    Lasix 40 mg daily||DBN FFF lasix FFF 1 1||DOSE FFF 40 mg FFF 2 3||FREQ FFF daily FFF 4 4||
+301-04||62||13.    Lipitor 40 mg daily||DBN FFF lipitor FFF 1 1||DOSE FFF 40 mg FFF 2 3||FREQ FFF daily FFF 4 4||
+301-04||63||14.    Magnesium gluconate 1000 mg TID||DIN FFF magnesium gluconate FFF 1 2||DOSE FFF 1000 mg FFF 3 4||FREQ FFF tid FFF 5 5||
+301-04||64||15.    MVIdaily
+301-04||65||16.    Nexium 20 mg daily||DBN FFF nexium FFF 1 1||DOSE FFF 20 mg FFF 2 3||FREQ FFF daily FFF 4 4||
+301-04||66||17.    Norvasc 5 mg daily||DBN FFF norvasc FFF 1 1||DOSE FFF 5 mg FFF 2 3||FREQ FFF daily FFF 4 4||
+301-04||67||18.    Pamidronate60 mg Q6 months
+301-04||68||19.    KCl 20mEq BID||DIN FFF kcl FFF 1 1||DOSE FFF 20meq FFF 2 2||FREQ FFF bid FFF 3 3||
+301-04||69||20.    Prednisone 10 mg daily||DIN FFF prednisone FFF 1 1||DOSE FFF 10 mg FFF 2 3||FREQ FFF daily FFF 4 4||
+301-04||70||21.    Tacrolimus 5 mg PO BID||DIN FFF tacrolimus FFF 1 1||DOSE FFF 5 mg FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF bid FFF 5 5||
+301-04||71||22.    Reglan 5 mg AC and at bedtime||DBN FFF reglan FFF 1 1||DOSE FFF 5 mg FFF 2 3||TOD FFF ac FFF 4 4||TOD FFF at bedtime FFF 6 7||
+301-04||72||23.    Toprol XL 50 mg daily||DPN FFF toprol xl FFF 1 2||DOSE FFF 50 mg FFF 3 4||FREQ FFF daily FFF 5 5||
+301-04||73||24.    Vitamin D50,000 units weekly||DIN FFF vitamin FFF 1 1||
+301-04||73||24.    Vitamin D50,000 units weekly||DBN FFF d50,000 FFF 2 2||DOSEAMT FFF d50,000 units FFF 2 3||FREQ FFF weekly FFF 4 4||
+301-04||74||Soc Hx: Married to another transplant patient.
+301-04||75||No children.
+301-04||76||Lives in Florida.
+301-04||77||Works as a Electric Appliance Repairer.
+301-04||78||Lifelong non-smoker.
+301-04||79||No EtOH or illicits.
+301-04||80||Fam Hx:   no bronchiectasis, no h/o CAD
+301-04||81||Physical Exam
+301-04||82||VS:       T 96.3, BP 124/74, HR 85, RR 25, O2 Sat 94 2L NC at rest; 273 lbs (124 kg)
+301-04||83||Gen:        pleasant obese gentleman, speaking in full sentences with minimal pauses to breath
+301-04||84||HEENT: EOMI, OP clear, MMM; no sinus tenderness or rhinorrhea
+301-04||85||Neck:       supple, no JVD
+301-04||86||Lungs:      limited inspiratory &amp; expiratory air movement , no wheezes/rhonci
+301-04||87||Cor:         RRR, nl S1-S2, no M/R/G||DIN FFF cor: FFF 0 0||
+301-04||87||Cor:         RRR, nl S1-S2, no M/R/G||DIN FFF m/r/g FFF 5 5||
+301-04||88||Abd:        obese, soft/NT/ND, + BS, no HSM; no midline spinal tenderness
+301-04||89||Extr:        warm, no C/C/E, 2+ radial &amp; 1+ PT pulses
+301-04||90||Neuro: A+Ox3, MS nl, CN II through XII intact, motor 5/5 UE and LE, sensory intact
+301-04||91||Labs
+301-04||92||NA            143||DIN FFF na FFF 0 0||
+301-04||93||K             4.7
+301-04||94||CL            104
+301-04||95||CO2           34.2(H)
+301-04||96||BUN           28(H)
+301-04||97||CRE           2.4(H)
+301-04||98||GLU           103||DIN FFF glu FFF 0 0||
+301-04||99||CA            9.6
+301-04||100||TBILI         0.3
+301-04||101||TP            7.4
+301-04||102||ALB           4.2||DIN FFF alb FFF 0 0||
+301-04||103||GLOB          3.2
+301-04||104||ALT/SGPT    17
+301-04||105||AST/SGOT    17
+301-04||106||ALKP          98
+301-04||107||TBILI         0.3
+301-04||108||CHOL          131(T)
+301-04||109||TRIG          164(H)
+301-04||110||HDL           55
+301-04||111||LDL           43(T)
+301-04||112||CHOL/HDL    2.4(T)
+301-04||113||HGBA1C        5.60
+301-04||114||MEAN-GLU    101
+301-04||115||WBC           12.3(H)
+301-04||116||RBC           4.54
+301-04||117||HGB           14.4
+301-04||118||HCT           44.7
+301-04||119||MCV           98
+301-04||120||MCH           31.7
+301-04||121||MCHC          32.2
+301-04||122||PLT           162
+301-04||123||RDW           15.2(H)
+301-04||124||%NEUT         87(H)
+301-04||125||%LYMPH        7(L)
+301-04||126||%MONO         5
+301-04||127||%EOS          1
+301-04||128||%BASO         0
+301-04||129||TACRO         7
+301-04||130||Microbiology:
+301-04||131||10/29/79 CMV antigenemia negative (was low-positive most recently in 7/74)
+301-04||132||Imaging:
+301-04||133||Chest CT 10/29/2079Scattered mosaic attenuation vs.

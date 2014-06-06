@@ -1,0 +1,85 @@
+337-05	1	0	Record date: 2087-09-03
+337-05	2	0	Kekela Internal Medicine Intern Admission Note
+337-05	3	0	Patient Name: Gillis, Betty
+337-05	4	0	MRN: 8308652
+337-05	5	0	Date of Admission: 9/03/87
+337-05	6	0	Attending: Mercado
+337-05	7	0	Admitting Intern: Dalton Edwards
+337-05	8	0	Source of History: patient, online chart
+337-05	9	0	CC: SOB
+337-05	10	0	HPI: 75 yo woman with a history of R MCA, R cerebellar stroke, TIAs, Iliac vein thrombosis, PFO, and recent RP hematoma and rectus sheath hematoma (at GMH 8/13/87-8/26/87) currently off of anticoagulation because of her recent bleeds.
+337-05	11	0	Pt reports sudden onset of SOB this AM.
+337-05	12	0	Not associated with any other symptoms.
+337-05	13	0	A contractor who was at her home at the time called EMS who took pt to hospital.
+337-05	14	0	En route she developed nausea and had 1 episode of NBNB emesis.
+337-05	15	0	Otherwise, she denies CP, cough, fever, chills, abdominal pain, nausea, vomiting (other than the episode in the ambulance), change in bowel/bladder habits.
+337-05	16	0	No exacerbating or alleviating symptoms.
+337-05	17	0	Of note, she has some residual left sided weakness from her prior R MCA stroke and some balance issues from her cerebellar stroke.
+337-05	18	0	In the ED the patient was tachypnic with SATS in the low 80s and  placed on oxygen by nasal cannula with improved sats on 4L to the mid 90s.
+337-05	19	0	Then was able to be weaned to room air with sats still in the mid 90s.
+337-05	20	0	She also was tachycardic to the 90s with BPs to the 90/60 with one episode of BP to 78 systolic.
+337-05	21	0	She responded well to fluid with 2L in the ED and improved BPs.
+337-05	22	0	CT showed stable RP and rectus sheath hematomas, no evidence of DVT or iliac thrombosis, and no evidence of PE.
+337-05	23	0	CXR was clear.
+337-05	24	0	Of note, following her hospitalization at PROMPTCARE in July 2087 for TIA where she was found to have a small PFO and iliac vein thrombosis, she was started on Coumadin.
+337-05	25	0	However, the patient was recently admitted to GMH with rectus sheath and RP hematoma.
+337-05	26	0	Per the patient, she received 8 U PRBC there.
+337-05	27	0	She also received FFP and vitamin K to reverse her Coumadin.
+337-05	28	0	During her hospitalization she was in the ICU for hypotension and tachycardia.
+337-05	29	0	An IVC filter was placed initially but subsequently d/c&#8217;d on 8/26/87.
+337-05	30	0	She was discharged off of anticoagulation.
+337-05	31	0	PMH/PSH:
+337-05	32	0	R MCA stroke: 02/85
+337-05	33	0	R cerebellar stroke: 12/85
+337-05	34	0	Osteoarthritis s/p bilateral knee replacements
+337-05	35	0	GERD, chronic GI bleed with anemia
+337-05	36	0	HTN
+337-05	37	0	HLD
+337-05	38	0	Bladder incontinence
+337-05	39	0	?Iliac vein thrombosis
+337-05	40	0	Rectus sheath hematoma/Retroperitoneal hematoma
+337-05	41	438	MEDICATIONS ON ADMISSION:
+337-05	42	438	Omeprazole 40 MG PO Daily
+337-05	43	438	Atenolol 12.5 MG PO Daily
+337-05	44	438	Simvastatin 40 MG PO Every night
+337-05	45	438	Ferrous Sulfate 324 MG PO Two times a day
+337-05	46	448	ALLERGIES:
+337-05	47	448	NKDA
+337-05	48	0	FHX: Unknown, adopted.
+337-05	49	0	
+337-05	50	0	
+337-05	51	0	SOCIAL HISTORY
+337-05	52	0	Lives on her own in Big Bear Lake.
+337-05	53	0	Performs all ADLs.
+337-05	54	0	Denies EtOH, IVDU
+337-05	55	0	Former smoker ~50 pk yrs, quit 20 yrs ago.
+337-05	56	0	REVIEW OF SYSTEMS:
+337-05	57	0	As per HPI, otherwise negative in all details.
+337-05	58	0	PHYSICAL EXAM:
+337-05	59	0	Vitals: T     99.6   HR 75  BP 94/58      RR     22     O2sat
+337-05	60	0	98% 2L NC
+337-05	61	0	General: well-developed, well-nourished female NAD
+337-05	62	0	Skin: no rashes
+337-05	63	0	HEENT: NC/AT, sclera anicteric, normal conjunctiva.
+337-05	64	0	Dry mucous membranes, no oral/buccal lesions.
+337-05	65	0	Chest: clear to auscultation b/l, no wheezes or rhonchi
+337-05	66	0	CV:  RRR. Normal S1, S2. no m/r/g.
+337-05	67	0	Abd: soft, non-tender, non-distended. 8x8 cm mass like structure on right abdomen at rectus.
+337-05	68	0	Non tender, non-erythematous.
+337-05	69	0	Ext: warm, well-perfused, no clubbing, cyanosis, edema.
+337-05	70	0	No palpable cords, neg Homan&#8217;s sign b/l.
+337-05	71	0	Neuro: alert, oriented x 3.
+337-05	72	0	CN2-12 intact except for slight left facial droop and mild slurring of speech.
+337-05	73	0	M: 5/5 strength at UE and LE bilaterally except for very slight decrease in left
+337-05	74	0	S: intact to LT b/l.
+337-05	75	790	LABORATORY:
+337-05	76	790	Notable labs: Chem nl, ca 9.2
+337-05	77	790	Lactate 1.4
+337-05	78	790	VBG 7.34/44/57
+337-05	79	790	Cbc 5.4&gt;40.6&lt;347
+337-05	80	790	INR 1.1, PTT 19.2
+337-05	81	790	Amylase 246, Lipase 330
+337-05	82	0	LFTs: ALT 14, AST 28, Alk P 61
+337-05	83	0	Tbili 1.1, Dbili 0.2
+337-05	84	0	ECG:
+337-05	85	0	NSR @ 75 BPM, nl axis, nl intervals, no evidence hypertrophy or ischemia, unchanged from prior 7/31/87.

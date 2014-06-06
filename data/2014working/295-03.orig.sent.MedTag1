@@ -1,0 +1,69 @@
+295-03||1||Record date: 2080-07-11
+295-03||2||Vascular Surgery Admission Note||INDICATION FFF surgery FFF 1 1||
+295-03||4||Patient Name: Vieira, Nathan
+295-03||5||MRN: 0666729
+295-03||6||Date and Time: 7/11/2080 8:00 PM||TOD FFF pm FFF 5 5||
+295-03||7||Attending: Henry C.
+295-03||8||Atwood, M.D.
+295-03||9||Fellow: Vincent Gregory, M.D.
+295-03||10||Junior: Donovan J.
+295-03||11||Betty Barber, M.D.
+295-03||12||Admitted for Left Leg Wound debridement||INDICATION FFF leg wound FFF 3 4||INDICATION FFF debridement FFF 5 5||
+295-03||13||HPI:
+295-03||14||Mr. Nathan Vieira is a 73yo M with PMH significant for DM2,  CAD, HTN, hyperlipidemia, hypotonic bladder GERD, psoriasis,  well known in the vascular service for PVD, s/p  LLE angio, thrombectomy 12/78, L fem-pop BPG 4/78, R fem-pop BPG 2/78, RLE angio 1/78 most recently on may LE revascularization procedures,  Popliteal exploration with graft thrombectomy, aortoiliac angiogram, left lower extremity angiogram, angioplasty of posterior tibial artery, angioplasty tibioperoneal trunk and distal anastomosis of bypass graft, stent placement for stenosis of proximal graft.||INDICATION FFF cad, FFF 12 12||INDICATION FFF htn, FFF 13 13||INDICATION FFF hyperlipidemia, FFF 14 14||INDICATION FFF gerd, FFF 17 17||INDICATION FFF psoriasis, FFF 18 18||INDICATION FFF pvd, FFF 26 26||INDICATION FFF le FFF 47 47||INDICATION FFF procedures, FFF 49 49||INDICATION FFF stenosis FFF 78 78||
+295-03||15||Mr. Vieira presented to Dr.
+295-03||16||Atwood clinic  today with persistent wound collection in the below knee popliteal incision.||INDICATION FFF wound FFF 5 5||
+295-03||17||He noticed a lump approximately 3 weeks ago, underwent incision and drainage with wick placement and started a course of PO antibiotics.||DOSEAMT FFF a lump FFF 2 3||DRT FFF 3 weeks FFF 5 6||DRT FFF a course FFF 17 18||RUT FFF po FFF 20 20||DIN FFF antibiotics. FFF 21 21||
+295-03||18||This has continued to drain serosanguinous fluid, apparently the overall induration and erythema with some additional fluid under moderate pressure was released.||INDICATION FFF erythema FFF 12 12||INDICATION FFF pressure FFF 19 19||
+295-03||19||He has been seen daily by a visiting nurse and she can do the dressing, replacing the wick, and putting a sterile absorbent dressing on top of this.||FREQ FFF daily FFF 4 4||RUT FFF top FFF 25 25||
+295-03||20||We will see him again in another week.
+295-03||21||He is on coumadin, last dose 3.5 last night.||DBN FFF coumadin, FFF 3 3||
+295-03||22||Denies fevers chills, SOB, cough.||INDICATION FFF fevers FFF 1 1||INDICATION FFF sob, FFF 3 3||INDICATION FFF cough. FFF 4 4||
+295-03||23||PMHx/PSHx:
+295-03||24||DM||INDICATION FFF dm FFF 0 0||
+295-03||25||PVD||INDICATION FFF pvd FFF 0 0||
+295-03||26||LLE angio, thrombectomy 12/78
+295-03||27||L fem-pop BPG 4/78
+295-03||28||R fem-pop BPG 2/78
+295-03||29||RLE angio 1/78
+295-03||30||CAD s/p PTCA||INDICATION FFF cad FFF 0 0||
+295-03||31||HTN||INDICATION FFF htn FFF 0 0||
+295-03||32||Hyperlipidemia||INDICATION FFF hyperlipidemia FFF 0 0||
+295-03||33||Urinary retention from hypotonic bladder - self caths, abx prophylaxis, s/p cytstoscopy/TUR||INDICATION FFF urinary retention FFF 0 1||DPN FFF abx FFF 8 8||INDICATION FFF prophylaxis, FFF 9 9||
+295-03||34||GERD||INDICATION FFF gerd FFF 0 0||
+295-03||35||Psoriasis||INDICATION FFF psoriasis FFF 0 0||
+295-03||36||L shoulder surgery||INDICATION FFF surgery FFF 2 2||
+295-03||37||Meds:
+295-03||38||Lipitor 20 qpm||DBN FFF lipitor FFF 0 0||DOSE FFF 20 FFF 1 1||FREQ FFF qpm FFF 2 2||
+295-03||39||Zetia 10mg qpm||DBN FFF zetia FFF 0 0||DOSE FFF 10mg FFF 1 1||FREQ FFF qpm FFF 2 2||
+295-03||40||ASA 81 qam||DIN FFF asa FFF 0 0||DOSE FFF 81 FFF 1 1||FREQ FFF qam FFF 2 2||
+295-03||41||Altace 10 qam||DBN FFF altace FFF 0 0||DOSE FFF 10 FFF 1 1||FREQ FFF qam FFF 2 2||
+295-03||42||Atenolol 50 qam||DIN FFF atenolol FFF 0 0||DOSE FFF 50 FFF 1 1||FREQ FFF qam FFF 2 2||
+295-03||43||Glyburide 10 mg BID||DIN FFF glyburide FFF 0 0||DOSE FFF 10 mg FFF 1 2||FREQ FFF bid FFF 3 3||
+295-03||44||Nitrofurantoin 50mg qd||DIN FFF nitrofurantoin FFF 0 0||DOSE FFF 50mg FFF 1 1||FREQ FFF qd FFF 2 2||
+295-03||45||coumadin 3.5 mg QD||DBN FFF coumadin FFF 0 0||DOSE FFF 3.5 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+295-03||46||All:
+295-03||47||NKDA
+295-03||48||PE:||INDICATION FFF pe: FFF 0 0||
+295-03||49||Temp:  97.7      HR  76        BP  150/62       RR  16        100^% O2 Sat||DRT FFF 97.7 hr FFF 1 2||INDICATION FFF bp FFF 4 4||DOSE FFF 100^% FFF 8 8||
+295-03||50||Gen: Awake, alet, oriented, NAD
+295-03||51||Resp: CTAB
+295-03||52||CV: RRR
+295-03||53||Adomen-Soft, ND, NT, no abdominal bruits
+295-03||54||Ext no edema bilaterally||INDICATION FFF edema FFF 2 2||
+295-03||55||LLE wound collection  in the below knee popliteal incision, draining purulent fluid. surrounding erythema. The overall||INDICATION FFF wound FFF 1 1||INDICATION FFF erythema. FFF 13 13||
+295-03||56||Foot: R: Mild erethema proximally.
+295-03||57||L: erythema and mild color change of distal toes, a change from pt's baseline, (+) cap refill, no palpable pulses||INDICATION FFF erythema FFF 1 1||INDICATION FFF change FFF 5 5||INDICATION FFF change FFF 10 10||
+295-03||58||Rad Fem Pop DP PT||INDICATION FFF dp FFF 3 3||
+295-03||59||R 2+ 2+ none none none
+295-03||60||L 2+ 2+ none 1+ 1+
+295-03||61||A/P:
+295-03||62||73yo M with PMH significant for DM2,  CAD, HTN, hyperlipidemia, hypotonic bladder GERD, psoriasis,  well known in the vascular service for PVD, s/p  LLE angio, thrombectomy 12/78, L fem-pop BPG 4/78, R fem-pop BPG 2/78, RLE angio 1/78 most recently on may LE revascularization procedures,  Popliteal exploration with graft thrombectomy, aortoiliac angiogram, left lower extremity angiogram, angioplasty of posterior tibial artery, angioplasty tibioperoneal trunk and distal anastomosis of bypass graft, stent placement for stenosis of proximal graft.||INDICATION FFF cad, FFF 7 7||INDICATION FFF htn, FFF 8 8||INDICATION FFF hyperlipidemia, FFF 9 9||INDICATION FFF gerd, FFF 12 12||INDICATION FFF psoriasis, FFF 13 13||INDICATION FFF pvd, FFF 21 21||INDICATION FFF le FFF 42 42||INDICATION FFF procedures, FFF 44 44||INDICATION FFF stenosis FFF 73 73||
+295-03||63||Mr. Vieira presented to Dr.
+295-03||64||Atwood clinic  today with persistent wound collection in the below knee popliteal incision.||INDICATION FFF wound FFF 5 5||
+295-03||65||Admitted for  Left Leg Wound debridement.||INDICATION FFF leg wound FFF 3 4||INDICATION FFF debridement. FFF 5 5||
+295-03||66||- NPO p MN, IVF||RUT FFF npo FFF 1 1||
+295-03||67||-CBC/INR, PTT||INDICATION FFF -cbc/inr, FFF 0 0||INDICATION FFF ptt FFF 1 1||
+295-03||68||-EKG
+295-03||69||-Electrolytes
+295-03||70||-CXR

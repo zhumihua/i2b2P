@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2104-11-10
+
+                     SLHC EMERGENCY DEPT VISIT
+
+ 
+
+DO,TANYA V   639-25-21-7                    VISIT DATE: 11/10/04
+
+The resident's history, physical examination, and evaluation were 
+
+reviewed by me; and I concur.  In addition, I personally 
+
+interviewed and examined this patient.
+
+HISTORY OF PRESENTING COMPLAINT:  This is a 76-year-old female with 
+
+a history of type 2 diabetes on Glucophage with a history of 
+
+neuropathy who presents complaining of right foot pain, swelling, 
+
+and redness.  The patient had a callus shaved off the plantar 
+
+aspect of her foot approximately three weeks ago.  She noticed some 
+
+aching pain in the area of her foot over the last several days and 
+
+then in the last 24 to 48 hours has developed swelling and redness 
+
+of her foot with inability to ambulate secondary to severe pain.  
+
+She has had loss of appetite, but she denies any fever or 
+
+generalized malaise.  She denies any leg swelling.
+
+PAST MEDICAL HISTORY:  Positive for arthritis, type 2 diabetes, a 
+
+history of vasculitis, history of diabetic neuropathy, and history 
+
+of cataracts.  Her surgical history is positive for right total hip 
+
+replacement, bilateral knee replacements, laminectomy in the back 
+
+with fusion with rods, and a history of a colostomy with reversal.  
+
+SOCIAL HISTORY AND FAMILY HISTORY:  She has smoked in the past.  
+
+She does not drink.  She is a retired Paralegal, lives alone.  She 
+
+has a family history of diabetes.  Please see resident note for the 
+
+remainder of the details of the patient's history including a long 
+
+list of medications.
+
+PHYSICAL EXAMINATION:  VITAL SIGNS:  Temperature 99.0, pulse 94, 
+
+respirations 18, blood pressure 137/50.  Oxygen saturation is 92% 
+
+on room air.  The patient is an awake, alert, well-developed 
+
+female, pleasant, talkative, in no acute distress.  EXTREMITIES: 
+
+Her examination is most remarkable for the right lower extremity 
+
+which shows edema and redness over the dorsum of her right foot.  
+
+This extends down over the metatarsophalangeal joints and down 
+
+underneath the plantar aspect of her foot over the heads of the 
+
+metatarsals and the bases of the toes.  On the plantar aspect of 
+
+the foot below the third toe, there is an area of skin change which 
+
+is very tender.  There is a blanching yellow appearance that is 
+
+very firm.  It is not fluctuant.  There is no drainage.  It appears 
+
+to be the area where the callus was shaved.  The remainder of the 
+
+foot is slightly firm, erythematous, and tender.  Her pulses are 
+
+1+.  She has good capillary refill, and light touch is intact.  Her 
+
+calf is soft and nontender.  Please see the resident note for the 
+
+remainder of the details of the physical examination.  Evaluation 
+
+of this patient in the Emergency Department included laboratory 
+
+studies.  This is a diabetic patient with foot cellulitis secondary 
+
+to a wound on the plantar aspect of her foot.  Of note, she also is 
+
+exposed to pool water as she swims daily.  
+
+LABORATORY EVALUATION:  She had laboratory studies performed which 
+
+show a white blood cell count of 14,000; hematocrit 31.5; platelets 
+
+348.  Her electrolytes including glucose are pending at the time of 
+
+this dictation.
+
+THERAPY RENDERED/COURSE IN ED:  IV access was obtained, and the 
+
+patient was treated with IV antibiotics of Levaquin and 
+
+Clindamycin.  
+
+FINAL DIAGNOSIS:  Right foot cellulitis.
+
+DISPOSITION (including condition upon discharge):  Her primary care 
+
+physician, Dr. Keane, who saw her prior to her arrival in the 
+
+Emergency Department was contacted.  The patient is being admitted 
+
+to the General Medical Service.  Please see the resident note for 
+
+the remainder of the details of the patient's visit.
+
+___________________________________                    VK603/23033 
+
+LISA NOYES, M.D.  LN95                              D:11/10/04 
+
+                                                       T:11/10/04 
+
+Dictated by:  LISA NOYES, M.D.  LN95 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC1" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="metformin" type2=""/>
+    <FAMILY_HIST id="DOC6" indicator="not present"/>
+    <SMOKER id="DOC4" status="ever"/>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC7" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

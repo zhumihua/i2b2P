@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2093-07-09
+
+ 59 yo wf
+
+CC: 
+
+medstoprol 150 mg/d, and lisinopril 20 mg
+
+HBPM about 140/80
+
+Hx:  htn found 10/89
+
+PMHx HTN
+  DM 2,
+  HLP
+   hypothyroidism
+
+
+Medications
+Asa (CHILDREN 81MG TABLET take 1 Tablet(s) QD , Take as directed 
+Dyazide 50 MG/25 MG (take 1) PO QD , 50/25
+Erythromycin OPHTHALMIC OINTMENT 1 APPLICATION OU TID x 7 days, use one tube for ea eye
+Flonase (FLUTICASONE NASAL SPRAY) 1-2 SPRAY NAS QD x 14 days
+Levothyroxine SODIUM 88MCG TABLET PO QD , Take as directed 
+Lisinopril 40 MG (40MG TABLET take 1) PO QD , Take as directed 
+Metformin 500MG TABLET take 1 Tablet(s) PO BID , Take as directed 
+Simvastatin 80 MG (80MG TABLET take 1) PO QHS 
+Toprol XL (METOPROLOL SUCCINATE EXTENDED RELEASE) 100MG TABLET CR 24HR take 1.5 Tablet(s) PO QD
+ 
+ALL PNC rash
+
+FHx
+CAD   M                       Ca      no                         Endo  M with DM
+
+SHx
+tobacco     neg      ETOH    neg     drugs neg     work  detective         marital   div 1 c          dom violence neg     belts  no/ advised to use seatbelts.     
+
+ROS
+vision nl                      hearing nl                    fever neg
+headache neg             weakness neg             numbness neg               seizures neg
+chest pain neg            palpitation neg             syncope neg
+dyspnea neg               wheezing neg              cough neg                     coryza neg
+nausea neg                 vomit neg                    diarrhea neg                  constipation neg       weight loss gain abdominal pain neg
+nocturia 1-2              dysuria neg                 polidypsia neg                paresthesias neg      tiredness neg             hoarsness neg             heat intolerance neg       cold intolerance neg
+menses hysterectomy 2064 for endometriosis.               libido nl       
+arthralgia neg            back pain neg
+bleeding neg             nodes no enlarg
+rash neg                   pruritus neg                  hair loss neg                  hirsutism neg
+tetanus tox               pneumovax                   influenza                       MMR             PPD
+sexual behavior nl     STD neg                       HIV neg                         hepatitis neg
+diet nl                      METS  3                        cholesterol
+
+PEx         BP   160/96    HBPM    as above        HR  72               RR   16        wt 234  lbs 
+pt at gold's gym. 
+NEURO        mental status nl          DTR  nl          gait nl            motor nl           sensory nl
+NECK           jvd   no        carotids/bruits  no         nodes  neg     thyroid  wnl
+CHEST         wheezes no
+COR             sounds S1 S2 nl         murmurs no
+ABDOMEN soft NT              masses no            obese   no bruits 
+EXTREMITIES   edema no     DTR normal.
+                                      
+A+P
+
+HTN BP high at office, but better by HBPM;  P:   increase lisinopril 40 mg/d
+Type 2 dm on diet; P: continue diet and lose wt
+HLP on lipitor,and diet; P: continue same.
+Hypothyroidism clinically euthyr; TSH high; P; continue levothyroxine.
+LVH by ekg; P: control BP.
+All PNC.
+
+advised to make appt with ophthalm. again
+FU  1 month.
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC11" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC21" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC24" time="before DCT" indicator="mention"/>
+    <OBESE id="DOC25" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC8" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC10" time="before DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC14" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC17" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC18" time="during DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC19" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC22" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC26" time="after DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC28" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC29" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC12" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC13" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC27" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC20" indicator="not present"/>
+    <SMOKER id="DOC23" status="never"/>
+    <DIABETES id="DOC9" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC15" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC30" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

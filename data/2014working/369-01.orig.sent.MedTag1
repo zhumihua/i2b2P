@@ -1,0 +1,25 @@
+369-01||1||Record date: 2078-07-15
+369-01||2||Reason for Visit
+369-01||3||Owen is 61 y/o male c/o difficulty loosing weight.||INDICATION FFF c/o FFF 5 5||INDICATION FFF weight. FFF 8 8||
+369-01||4||Tries to watch diet.
+369-01||5||Walks QOD. 2- Occ soreness in ears.||FREQ FFF qod. FFF 1 1||
+369-01||6||No change hearing.||INDICATION FFF change FFF 1 1||
+369-01||7||No dc. 3- Occ soreness left knee. Had major trauma and surgery in past. Other joints are fine.||INDICATION FFF trauma FFF 9 9||INDICATION FFF surgery FFF 11 11||
+369-01||8||PMH: OA,HTN,Prior skin ulcer, partially severed LLE, appendectomy, cholecystectomy,irridectomy, past smoker.||INDICATION FFF oa,htn,prior FFF 1 1||INDICATION FFF oa,htn,prior FFF 1 1||INDICATION FFF skin ulcer, FFF 2 3||
+369-01||9||Medications
+369-01||10||ATENOLOL  25MG PO QD||DIN FFF atenolol FFF 0 0||DOSE FFF 25mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qd FFF 3 3||
+369-01||11||VITAMIN E     PO QD||DIN FFF vitamin e FFF 0 1||RUT FFF po FFF 2 2||FREQ FFF qd FFF 3 3||
+369-01||12||ASA     PO||DIN FFF asa FFF 0 0||RUT FFF po FFF 1 1||
+369-01||13||AMPICILLIN     PO||DIN FFF ampicillin FFF 0 0||RUT FFF po FFF 1 1||
+369-01||14||Allergies||INDICATION FFF allergies FFF 0 0||
+369-01||15||NKDA  NONE
+369-01||16||Family History
+369-01||17||CVA,HTN.||INDICATION FFF cva,htn. FFF 0 0||INDICATION FFF cva,htn. FFF 0 0||
+369-01||18||Social History
+369-01||19||LIves with mother.
+369-01||20||Conference and Event Planner.
+369-01||21||Habits
+369-01||22||No cigs.
+369-01||23||Occ ETOH.
+369-01||24||Review of Systems
+369-01||25||GEN-sleep is fine.

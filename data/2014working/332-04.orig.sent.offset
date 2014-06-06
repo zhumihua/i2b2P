@@ -1,0 +1,15 @@
+332-04	11	0	SHe has been taking bactrim .	bactrim FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+332-04	16	0	Bactrim DS 160mg/800mg po bid x 7 days	bactrim ds FFF 0 1	160mg/800mg FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+332-04	16	0	Bactrim DS 160mg/800mg po bid x 7 days	bactrim ds FFF 0 1	 FFF 	po FFF 3 3	bid FFF 4 4	x 7 days FFF 5 7	 FFF 	narrative
+332-04	17	0	Ecotrin 325 mg po daily	ecotrin FFF 0 0	325 mg FFF 1 2	po FFF 3 3	daily FFF 4 4	 FFF 	 FFF 	narrative
+332-04	18	0	ferrous sulfate 325mg po bid	ferrous sulfate FFF 0 1	325mg FFF 2 2	po FFF 3 3	bid FFF 4 4	 FFF 	 FFF 	narrative
+332-04	19	0	free text medications  qid one touch ultra lancets	one touch FFF 4 5	 FFF 	 FFF 	qid FFF 3 3	 FFF 	 FFF 	narrative
+332-04	20	0	furosemide 20mg po daily	furosemide FFF 0 0	20mg FFF 1 1	po FFF 2 2	daily FFF 3 3	 FFF 	 FFF 	narrative
+332-04	21	0	glipizide 10mg po bid take 30min before a meal	glipizide FFF 0 0	10mg FFF 1 1	po FFF 2 2	bid FFF 3 3	 FFF 	 FFF 	narrative
+332-04	22	0	lisinopril 40 mg po daily	lisinopril FFF 0 0	40 mg FFF 1 2	po FFF 3 3	daily FFF 4 4	 FFF 	 FFF 	narrative
+332-04	23	0	lovastatin 10mg po qpm take with food	lovastatin FFF 0 0	10mg FFF 1 1	po FFF 2 2	qpm FFF 3 3	 FFF 	 FFF 	narrative
+332-04	24	0	metoprolol 25mg,  3 tabs po bid	metoprolol FFF 0 0	25mg, FFF 1 1	po FFF 4 4	bid FFF 5 5	 FFF 	 FFF 	narrative
+332-04	25	0	Norvasc 10mg po daily	norvasc FFF 0 0	10mg FFF 1 1	po FFF 2 2	daily FFF 3 3	 FFF 	 FFF 	narrative
+332-04	26	0	Prandin 2 mg before each meal	prandin FFF 0 0	2 mg FFF 1 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+332-04	27	0	vitamin d 1000 units po daily	vitamin d FFF 0 1	1000 units FFF 2 3	po FFF 4 4	daily FFF 5 5	 FFF 	 FFF 	narrative
+332-04	40	0	Cor   Unremarkable	cor FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

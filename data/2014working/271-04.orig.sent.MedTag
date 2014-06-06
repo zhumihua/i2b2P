@@ -1,0 +1,20 @@
+271-04	1	Record date: 2105-08-27	
+271-04	2	SICU visit (Hamilton 04239)	
+271-04	3	8/26/05 11 45 pm		TOD FFF 45 pm#3
+271-04	4	74 yo male with a history of CAD, PVD s/p right femoral to above knee popliteal bypass with PTFE (5/00) and recent admission for RLE angioplasty X 22 who presents with R foot rest pain and discoloration and underwent fem pop bypass graft.		INDICATION FFF cad#7	INDICATION FFF pvd#8	INDICATION FFF pain#34
+271-04	5	The case was complicated by large blood loss anemia and hypotension.		INDICATION FFF blood loss#7	INDICATION FFF anemia#8	INDICATION FFF hypotension .#10
+271-04	6	In the PACU the patient continued to be hypotensive and have low uop.		INDICATION FFF hypotensive#8	INDICATION FFF uop#12
+271-04	7	We placed a central line (starting CVP was 0) and continued resuscitation.	
+271-04	8	The patient developed ST changes and also had acute on chronic renal failure (RIFLE F).		INDICATION FFF st#3	INDICATION FFF chronic renal failure#12	INDICATION FFF f#14
+271-04	9	WE transfused and transferred him to the ICU.	
+271-04	10	We discussed this at length with the surgical service as well as cardiology.		INDICATION FFF as#9	INDICATION FFF as#11
+271-04	11	I examined the patient reviewed the chart and discussed the case. I agree with history and exam as outlined in residents note		INDICATION FFF as#17
+271-04	12		
+271-04	13	Issues:	
+271-04	14	Cardiac ischemia:  Ischemia was mostly due to hypotension and low HGB as well as tachycardia .		INDICATION FFF cardiac ischemia#1	INDICATION FFF ischemia#2	INDICATION FFF hypotension#7	INDICATION FFF as#11	INDICATION FFF as#13	INDICATION FFF tachycardia .#15
+271-04	15	Will give aspirin and lower HR to 70's with Beta blockers.		DIN FFF aspirin#2	DIN FFF beta blockers#10
+271-04	16	Contue statin.		DIN FFF statin#1
+271-04	17	Willt ransfuse to HGB around 10 and continue to check troponins	
+271-04	18	Decreased myocardial function: he has low central venous saturation and increased lactate .		DIN FFF lactate#11
+271-04	19	Will give fluids and transfuse the patient.	
+271-04	20	Will get echo in am.		TOD FFF am#4

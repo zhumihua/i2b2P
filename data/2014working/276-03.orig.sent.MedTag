@@ -1,0 +1,56 @@
+276-03	1	Record date: 2061-01-31	
+276-03	2	EDVISIT^32707420^GIPSON, ALEXANDER^01/31/61^VELASQUEZ, WALTER	
+276-03	3	This patient was seen by myself and Dr.	
+276-03	4	Hardin on 01/31/2061.  I confirm I interviewed and examined the patient, reviewed the resident's documentation, and discussed the plan of care with the patient.	
+276-03	5	HISTORY OF PRESENT ILLNESS:  This is a 73-year-old gentleman who	
+276-03	6	has a history of CAD status post stent in 2060, who developed		INDICATION FFF cad#4
+276-03	7	acute chest discomfort, pressure like, diaphoresis, and weakness,		INDICATION FFF pressure#3
+276-03	8	while he was working as a chiropractor.		DRT FFF while#0	INDICATION FFF as#4
+276-03	9	He says although this was quite significant, it was not like his prior MI discomfort.		INDICATION FFF mi#13
+276-03	10	He denies any radiation to his back or his arm.	
+276-03	11	He denies any jaw pain.		INDICATION FFF pain .#4
+276-03	12	He denies any fever, chills, or sweats.		INDICATION FFF fever#3	INDICATION FFF sweats#6
+276-03	13	He denies any vomiting.		INDICATION FFF vomiting#3
+276-03	14	He denies any headache or neck pain.		INDICATION FFF headache#3	INDICATION FFF pain .#6
+276-03	15	He denies any bowel or bladder changes and no lower extremity edema.		INDICATION FFF lower extremity edema#11
+276-03	16	He is taking his medicines.		DIN FFF medicines#4
+276-03	17	He also took an aspirin, did get some nitroglycerin.		DIN FFF aspirin#4	DIN FFF nitroglycerin#8
+276-03	18	PAST MEDICAL HISTORY:  Diabetes, hypertension,		INDICATION FFF diabetes#3	INDICATION FFF hypertension#4
+276-03	19	hypercholesterolemia, and CAD.		INDICATION FFF hypercholesterolemia#0	INDICATION FFF cad#2
+276-03	20	MEDICATIONS:  Cozaar, aspirin, Altace, metformin, and Toprol.		DBN FFF cozaar#1	DIN FFF aspirin#2	DBN FFF altace#3	DIN FFF metformin#4	DPN FFF toprol#6
+276-03	21	ALLERGIES:  He has no known drug allergies.		INDICATION FFF allergies#0	INDICATION FFF drug allergies#6
+276-03	22	SOCIAL HISTORY:  He is a past smoker, not a drinker or drug user.	
+276-03	23	He lives with his family.	
+276-03	24	REVIEW OF SYSTEMS:  As noted in the HPI, otherwise negative.		INDICATION FFF as#3
+276-03	25	PHYSICAL EXAMINATION:  He is in no acute distress at rest.	
+276-03	26	He says his chest pain is essentially gone on oxygen.		INDICATION FFF chest pain#4
+276-03	27	Vital signs are as noted.		INDICATION FFF as#3
+276-03	28	Head, eyes, ears, nose, and throat:  Normocephalic and atraumatic.	
+276-03	29	Pupils are equal and reactive to light.	
+276-03	30	Extraocular motions are intact.	
+276-03	31	Oropharynx is unremarkable.	
+276-03	32	Neck is supple.	
+276-03	33	There is no jugular venous distention.	
+276-03	34	Chest is clear to auscultation.	
+276-03	35	Heart is regular rate and rhythm.	
+276-03	36	His abdomen is soft and nontender.	
+276-03	37	There is no hepatosplenomegaly.	
+276-03	38	There are no masses.	
+276-03	39	His skin is warm and dry.	
+276-03	40	There is no lower extremity edema.		INDICATION FFF lower extremity edema#5
+276-03	41	He has equal pulses.	
+276-03	42	His neuro exam is alert and oriented to person, place, and time.	
+276-03	43	His cranial nerves are intact.	
+276-03	44	He is grossly nonfocal.	
+276-03	45	LABORATORY DATA:  He has a white count of 8, hematocrit of 46,		INDICATION FFF hematocrit#9
+276-03	46	and platelet count of 200,000.	
+276-03	47	His SMA-7 is unremarkable.	
+276-03	48	CK-MB and troponin are flat and INR is 1.		INDICATION FFF inr#6
+276-03	49	His EKG shows less than 1 mm		INDICATION FFF mm#6
+276-03	50	ST depressions in V2, without any reciprocal or other changes.		INDICATION FFF st#0
+276-03	51	ASSESSMENT:  The patient with a history of CAD with concerning		INDICATION FFF cad#7
+276-03	52	symptoms.		INDICATION FFF symptoms#0
+276-03	53	He did have a fight earlier in the day, although was not under significant stress at the time of this event.	
+276-03	54	Given his prior CAD history, the patient was given Lopressor.		INDICATION FFF cad#3	DBN FFF lopressor#9
+276-03	55	Decision was made to admit him for rule out acute coronary syndrome.	
+276-03	56	The patient was admitted in stable condition.	

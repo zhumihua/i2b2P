@@ -1,0 +1,58 @@
+367-04||1||Record date: 2084-03-05
+367-04||2||77 yo F one hour late for appt.
+367-04||3||She is planning parathyroid surgery.
+367-04||4||She is supposed to be taking ca and vit. D supplements.||INDICATION FFF ca FFF 6 6||DBN FFF supplements. FFF 10 10||
+367-04||5||She took the vit. D for a few days, but that is all.
+367-04||6||She has fatigue and leg cramps attrib. to hyperparathyroidism.
+367-04||7||Medications
+367-04||8||Premarin (CONJUGATED Estrogens) 2 GM PV QHS : SIG ONE APPLICATOR FULL AT HSX 1WK THEN TWICE PER WEEK||DBN FFF premarin FFF 0 0||
+367-04||9||Ativan (LORAZEPAM) 0.5MG, 1 Tablet(s) PNGT QD||DBN FFF ativan FFF 0 0||MDBN FFF (lorazepam) FFF 1 1||DOSE FFF 0.5mg, FFF 2 2||DOSEAMT FFF 1 tablet(s) FFF 3 4||FREQ FFF qd FFF 6 6||
+367-04||10||Hydralazine Hcl 25MG, 1 Tablet(s) PO BID||DIN FFF hydralazine hcl FFF 0 1||DOSE FFF 25mg, FFF 2 2||DOSEAMT FFF 1 tablet(s) FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF bid FFF 6 6||
+367-04||11||GLYBURIDE 5MG, 1 Tablet(s) PO QD||DIN FFF glyburide FFF 0 0||DOSE FFF 5mg, FFF 1 1||DOSEAMT FFF 1 tablet(s) FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF qd FFF 5 5||
+367-04||12||ATENOLOL 50MG, 0.5 Tablet(s) PO QD||DIN FFF atenolol FFF 0 0||DOSE FFF 50mg, FFF 1 1||DOSEAMT FFF 0.5 tablet(s) FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF qd FFF 5 5||
+367-04||13||Aspirin (CHILDRENS) (ACETYLSALICYLIC Aci... 81MG, 1 Tablet(s) PO QD||DIN FFF aspirin FFF 0 0||DOSE FFF 81mg, FFF 4 4||DOSEAMT FFF 1 tablet(s) FFF 5 6||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||
+367-04||14||Stopped cozaar b/o noncoverage, stopped nifedipine b/c did not agree w/ her.||DBN FFF cozaar FFF 1 1||
+367-04||14||Stopped cozaar b/o noncoverage, stopped nifedipine b/c did not agree w/ her.||DIN FFF nifedipine FFF 5 5||
+367-04||15||Allergies
+367-04||16||Codeine - GI upset||DIN FFF codeine FFF 0 0||
+367-04||17||Sulfa - Rash||DIN FFF sulfa FFF 0 0||
+367-04||18||* lisinopril - cough||DIN FFF lisinopril FFF 1 1||INDICATION FFF cough FFF 3 3||
+367-04||19||Penicillins - Rash||DBN FFF penicillins FFF 0 0||
+367-04||20||* hctz - cramps||DPN FFF hctz FFF 1 1||INDICATION FFF cramps FFF 3 3||
+367-04||21||Problems
+367-04||22||Diabetes mellitus - does not do home glucometry b/c thinks she knows what her sugar is w/o testing it.
+367-04||23||Recent HBA1C<7%, LDL 124.
+367-04||24||Hypertension - no CP, SOB, HA, edema, dizziness.
+367-04||25||Renal cancer : incidentally discovered, s/p nephrectomy
+367-04||26||Dyspepsia/ H Pylori : unable to tolerate bismuth, TCN, metronidazole or clarithromycin and metronidazole.||DIN FFF bismuth, FFF 7 7||
+367-04||26||Dyspepsia/ H Pylori : unable to tolerate bismuth, TCN, metronidazole or clarithromycin and metronidazole.||DIN FFF tcn, FFF 8 8||
+367-04||26||Dyspepsia/ H Pylori : unable to tolerate bismuth, TCN, metronidazole or clarithromycin and metronidazole.||DIN FFF metronidazole FFF 9 9||
+367-04||26||Dyspepsia/ H Pylori : unable to tolerate bismuth, TCN, metronidazole or clarithromycin and metronidazole.||DIN FFF clarithromycin FFF 11 11||
+367-04||26||Dyspepsia/ H Pylori : unable to tolerate bismuth, TCN, metronidazole or clarithromycin and metronidazole.||DIN FFF metronidazole. FFF 13 13||
+367-04||27||No sx at this time.
+367-04||28||Thyroid nodules : biopsy benign
+367-04||29||Plantar Fasciitis
+367-04||30||Osteoporosis : bone density 9/11/2082
+367-04||31||Colonic polyps : tubular adenoma. g+ stool 5/83.
+367-04||32||Refusing f/u colo.
+367-04||33||Diverticulosis
+367-04||34||H/O Vitamin D deficiency
+367-04||35||SH - mostly worried about husband's health problems.
+367-04||36||PE - appears well
+367-04||37||BP 170/100
+367-04||38||HR 66
+367-04||39||Lungs clear
+367-04||40||Cor reg w/o MRG||DIN FFF cor FFF 0 0||
+367-04||41||No edema
+367-04||42||IMP
+367-04||43||HyperPTH - for surgery, but we need to control her BP first.
+367-04||44||She needs to take the supplements rec. by Dr Lawson.||DBN FFF supplements FFF 5 5||
+367-04||45||HTN not controlled, not adherent to rx, various barriers.
+367-04||46||DM pr. controlled, though does not check glycemia.
+367-04||47||Needs LDL<100
+367-04||48||Anxiety
+367-04||49||Hx colon polyps, f/u is recommended.
+367-04||50||Hx renal ca, rec. f/u.
+367-04||51||H. pylori, not treated, no current sx.
+367-04||52||PLAN:
+367-04||53||Given rec. for Caltrate 600+D to take bid.||DBN FFF caltrate FFF 3 3||DRT FFF 600+d FFF 4 4||FREQ FFF bid. FFF 7 7||

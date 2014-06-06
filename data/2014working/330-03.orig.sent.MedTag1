@@ -1,0 +1,26 @@
+330-03||1||Record date: 2084-06-12
+330-03||2||VIGIL, ANTHONY||DIN FFF vigil, FFF 0 0||
+330-03||3||40984972
+330-03||4||06/12/2084
+330-03||5||Joshua A. Root, M.D.
+330-03||6||Nutfield Surgicenter
+330-03||7||980 Westwood Dr, Suite 8466
+330-03||8||Bangkok, NJ  53591
+330-03||9||Dear Dr. Root:
+330-03||10||We had the pleasure of seeing this patient today in followup of his transplant of 03/25/2084.
+330-03||11||He is doing quite well.
+330-03||12||There are no exertional complaints of dyspnea or chest discomfort.||INDICATION FFF dyspnea FFF 6 6||
+330-03||13||He is taking his medications without problems and denies fever, cough, rash or diarrhea.||INDICATION FFF fever, FFF 9 9||INDICATION FFF cough, FFF 10 10||INDICATION FFF diarrhea. FFF 13 13||
+330-03||14||He tells me his blood pressures at home are as high as 140-160 in the morning systolic dropping to the 130 systolic in the evenings.||INDICATION FFF me FFF 2 2||INDICATION FFF his blood pressures FFF 3 5||INDICATION FFF as FFF 9 9||INDICATION FFF as FFF 11 11||TOD FFF in the morning FFF 13 15||
+330-03||15||His current medications are unchanged and include Neoral 125 mg b.i.d., prednisone 15 mg daily, CellCept 1 g b.i.d., aspirin 325 mg daily, Bactrim double strength one tablet every other day, calcium and vitamin D one tablet b.i.d., diltiazem CD 240 mg q.a.m. and 120 q.p.m., Lantus Insulin 20 units at bedtime, magnesium gluconate 500 mg b.i.d., multivitamin daily, Neurontin 100 mg t.i.d., NovoLog insulin p.r.n., nystatin elixir 5 mL q.i.d., omeprazole 40 mg daily, Valcyte 450 mg daily, vitamin C 500 mg b.i.d., and vitamin E 400 mg b.i.d.||DBN FFF neoral FFF 7 7||DOSE FFF 125 mg FFF 8 9||FREQ FFF b.i.d., FFF 10 10||DIN FFF prednisone FFF 11 11||DOSE FFF 15 mg FFF 12 13||FREQ FFF daily, FFF 14 14||DBN FFF cellcept FFF 15 15||DOSE FFF 1 g FFF 16 17||FREQ FFF b.i.d., FFF 18 18||DIN FFF aspirin FFF 19 19||DOSE FFF 325 mg FFF 20 21||FREQ FFF daily, FFF 22 22||DBN FFF bactrim FFF 23 23||DOSEAMT FFF one tablet FFF 26 27||FREQ FFF every other day, FFF 28 30||DIN FFF calcium FFF 31 31||DIN FFF vitamin d FFF 33 34||DOSEAMT FFF one tablet FFF 35 36||FREQ FFF b.i.d., FFF 37 37||DIN FFF diltiazem FFF 38 38||INDICATION FFF cd FFF 39 39||DOSE FFF 240 mg FFF 40 41||FREQ FFF q.a.m. FFF 42 42||FREQ FFF q.p.m., FFF 45 45||DBN FFF lantus FFF 46 46||DIN FFF insulin FFF 47 47||DOSEAMT FFF 20 units FFF 48 49||TOD FFF at bedtime, FFF 50 51||DIN FFF magnesium gluconate FFF 52 53||DOSE FFF 500 mg FFF 54 55||FREQ FFF b.i.d., FFF 56 56||DBN FFF multivitamin FFF 57 57||FREQ FFF daily, FFF 58 58||DBN FFF neurontin FFF 59 59||DOSE FFF 100 mg FFF 60 61||FREQ FFF t.i.d., FFF 62 62||DBN FFF novolog FFF 63 63||DIN FFF insulin FFF 64 64||NEC FFF p.r.n., FFF 65 65||DIN FFF nystatin FFF 66 66||DOSE FFF 5 ml FFF 68 69||FREQ FFF q.i.d., FFF 70 70||DIN FFF omeprazole FFF 71 71||DOSE FFF 40 mg FFF 72 73||FREQ FFF daily, FFF 74 74||DBN FFF valcyte FFF 75 75||DOSE FFF 450 mg FFF 76 77||FREQ FFF daily, FFF 78 78||DIN FFF vitamin c FFF 79 80||DOSE FFF 500 mg FFF 81 82||FREQ FFF b.i.d., FFF 83 83||DIN FFF vitamin e FFF 85 86||DOSE FFF 400 mg FFF 87 88||FREQ FFF b.i.d. FFF 89 89||
+330-03||16||On exam, he looks great.
+330-03||17||His blood pressure is 166/98 initially, 148/82 on repeat.||INDICATION FFF blood pressure FFF 1 2||
+330-03||18||His heart rate is 110.||INDICATION FFF heart rate FFF 1 2||
+330-03||19||He weighs 163 pounds.
+330-03||20||His head and neck examination is unremarkable.
+330-03||21||His venous pressures are less than 7 cm of water.||INDICATION FFF cm FFF 7 7||
+330-03||22||The lungs are clear.
+330-03||23||The cardiac exam reveals a tachycardic rhythm with no rub, murmur or gallop.
+330-03||24||The abdomen is unremarkable.
+330-03||25||His numerous surgical wounds are well healed.
+330-03||26||His extremities are warm without edema.||INDICATION FFF edema. FFF 5 5||

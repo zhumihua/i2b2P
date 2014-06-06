@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2065-10-20
+
+                     GRANITE EMERGENCY DEPT VISIT
+ 
+BIRD,TERRI   809-10-69-0                    VISIT DATE: 10/20/65
+PRESENTING COMPLAINT: 
+HISTORY OF PRESENTING COMPLAINT:  The patient is a 70 year old 
+female with long past medical history of medical problems, 
+including abdominal aortic aneurysm repair, chronic pneumonia, 
+chronic wound infection, history of chronic urinary tract 
+infections, change in mental status, peripheral vascular disease, 
+hypertension, and coronary artery disease.  The patient was in her 
+usual state of poor health when she was noticed by caregivers to be 
+confused and lethargic.  The patient was transferred to the 
+emergency room department. 
+REVIEW OF SYSTEMS: 
+PAST MEDICAL HISTORY: 
+MEDICATIONS:  Unknown medications at this time. 
+ALLERGIES:  Sulfa and penicillin.  Aspirin and all cephalosporins. 
+SOCIAL HISTORY AND FAMILY HISTORY: 
+PHYSICAL EXAMINATION:  Temperature 101.6 degrees, pulse 90, 
+respiratory rate 18, blood pressure 114/60, room air saturation 
+91%.  HEENT:  Normocephalic, atraumatic.  Pupils equal, round, and 
+reactive to light and accommodation.  Neck supple and nontender. 
+Chest:  Bibasilar crackles.  Left sided rhonchi.  Abdomen:  Obvious 
+infected wound.  Minimally tender.  Extremities:  Negative. 
+Neurologic:  Symmetric.  Alert and oriented times two.  Reflexes 
+normal, strength normal. 
+LABORATORY EVALUATION:  WBC 28. 
+THERAPY RENDERED/COURSE IN ED:  The patient was given IV 
+antibiotics and will be admitted to the medical service for workup. 
+PROCEDURES: 
+CONSULTATIONS (including PCP): 
+FINAL DIAGNOSIS:  Urosepsis. 
+DISPOSITION (including condition upon discharge):  She was admitted 
+in poor condition. 
+___________________________________                    ZD548/6212 
+                                                       D:10/21/65 
+                                                       T:10/21/65 
+Dictated by:  RUBEN ZACARIAS, M.D.  RZ1 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC4" time="after DCT" indicator="mention"/>
+    <CAD id="DOC0" time="before DCT" indicator="mention"/>
+    <CAD id="DOC3" time="during DCT" indicator="mention"/>
+    <CAD id="DOC7" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC5" indicator="not present"/>
+    <SMOKER id="DOC6" status="unknown"/>
+  </TAGS>
+</root>

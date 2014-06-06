@@ -1,0 +1,72 @@
+281-01||1||Record date: 2157-08-27
+281-01||2||History of Present Illness
+281-01||3||ID:Admitted from cardiac cath lab.
+281-01||4||HPI:Mr. Doty is a  80 y.o. male with h/o HTN, DM, PVD, elevated cholesterol who presents with 6 month h/o chest and upper extremity discomfort on exertion along with SOB.||INDICATION FFF htn, FFF 9 9||INDICATION FFF dm, FFF 10 10||INDICATION FFF pvd, FFF 11 11||INDICATION FFF elevated cholesterol FFF 12 13||DRT FFF 6 month FFF 17 18||INDICATION FFF sob. FFF 29 29||
+281-01||5||He has limited his activities to prevent symptoms.||DIN FFF prevent FFF 6 6||INDICATION FFF symptoms. FFF 7 7||
+281-01||6||He also has had a few episodes at rest in bed.
+281-01||7||Stress test at BII showed inferoposterior ischemia at low workload---3:18 minutes HR 101 (72%) and b/p 220/80.||INDICATION FFF ischemia FFF 6 6||DOSE FFF (72%) FFF 13 13||
+281-01||8||LV EF 48%. He presents today for cardiac cath.||INDICATION FFF lv FFF 0 0||INDICATION FFF ef FFF 1 1||DOSE FFF 48%. FFF 2 2||
+281-01||9||Full cath report not available but d/w Dr.
+281-01||10||Diamond states no intervention needed.
+281-01||11||Case complicated by back discomfort and urge to void-- Foley insertion requiring Coude.
+281-01||12||He will stay overnight and receive Abx. prophylaxis. He is pain free currently.||DRT FFF overnight FFF 3 3||DPN FFF abx. FFF 6 6||INDICATION FFF prophylaxis. FFF 7 7||INDICATION FFF pain FFF 10 10||
+281-01||13||Son with patient.
+281-01||14||CRF:    +  HTN        +  DM         +Chol        + FH||INDICATION FFF crf: FFF 0 0||INDICATION FFF htn FFF 2 2||INDICATION FFF dm FFF 4 4||INDICATION FFF fh FFF 7 7||
+281-01||15||Tob: none over 45 years||DRT FFF 45 years FFF 3 4||
+281-01||16||Past Medical History
+281-01||17||DM||INDICATION FFF dm FFF 0 0||
+281-01||18||HTN||INDICATION FFF htn FFF 0 0||
+281-01||19||High cholesterol||INDICATION FFF cholesterol FFF 1 1||
+281-01||20||PVD- L SFA disease, + claudication at 1/4 mile.||INDICATION FFF pvd- FFF 0 0||
+281-01||21||CNIS- no significant obstruction, plague.||INDICATION FFF plague. FFF 4 4||
+281-01||22||Past Surgical History
+281-01||23||Denies
+281-01||24||Medications
+281-01||25||At home:
+281-01||26||Atenolol 100 qd||DIN FFF atenolol FFF 0 0||DOSE FFF 100 FFF 1 1||FREQ FFF qd FFF 2 2||
+281-01||27||Lipitor 5 qd||DBN FFF lipitor FFF 0 0||DOSE FFF 5 FFF 1 1||FREQ FFF qd FFF 2 2||
+281-01||28||Avandia 4 qd||DBN FFF avandia FFF 0 0||DOSE FFF 4 FFF 1 1||FREQ FFF qd FFF 2 2||
+281-01||29||Lisinopril 40 qd||DIN FFF lisinopril FFF 0 0||DOSE FFF 40 FFF 1 1||FREQ FFF qd FFF 2 2||
+281-01||30||Omeprazole 20 qd||DIN FFF omeprazole FFF 0 0||DOSE FFF 20 FFF 1 1||FREQ FFF qd FFF 2 2||
+281-01||31||Metformin 500 qid||DIN FFF metformin FFF 0 0||DOSE FFF 500 FFF 1 1||FREQ FFF qid FFF 2 2||
+281-01||32||Imdur 60 qd||DBN FFF imdur FFF 0 0||DOSE FFF 60 FFF 1 1||FREQ FFF qd FFF 2 2||
+281-01||33||Vit E, C, B12||DIN FFF vit e, FFF 0 1||DPN FFF b12 FFF 3 3||
+281-01||34||ASA 325 x 2 weeks||DIN FFF asa FFF 0 0||DOSE FFF 325 FFF 1 1||DRT FFF x 2 weeks FFF 2 4||
+281-01||35||Allergies||INDICATION FFF allergies FFF 0 0||
+281-01||36||NKDA
+281-01||37||Social History
+281-01||38||Lives alone in St.||INDICATION FFF st. FFF 3 3||
+281-01||39||Michael.
+281-01||40||Cooks for self.
+281-01||41||Family supportive
+281-01||42||Retired-had catering business- 2 sons running now.
+281-01||43||Helps out occasionally.
+281-01||44||Wife deceased from cancer||INDICATION FFF deceased FFF 1 1||INDICATION FFF cancer FFF 3 3||
+281-01||45||Habits
+281-01||46||ETOH: one drink weekly          Caffeine:  1 cup qd||FREQ FFF weekly FFF 3 3||DIN FFF caffeine: FFF 4 4||FREQ FFF qd FFF 7 7||
+281-01||47||Diet:  cooks well balanced meals daily||FREQ FFF daily FFF 5 5||
+281-01||48||Exercise: golf daily||FREQ FFF daily FFF 2 2||
+281-01||49||Family History
+281-01||50||n/a
+281-01||51||Review of Systems
+281-01||52||Negatvie in detail except as above||INDICATION FFF as FFF 4 4||
+281-01||53||Physical Exam
+281-01||54||SR: 79          BP:   176/80||INDICATION FFF bp: FFF 2 2||
+281-01||55||Ht: 5'8"             Wt:165#||INDICATION FFF ht: FFF 0 0||
+281-01||56||General Appearance
+281-01||57||Lying in bed, NAD, conversing appropriately with staff.
+281-01||58||Good historian.
+281-01||59||Neurological
+281-01||60||CN II- XII intact, speech clear||INDICATION FFF cn FFF 0 0||
+281-01||61||Neck
+281-01||62||Supple, no JVP, 2+ carotid pulse with bruits.
+281-01||63||Cor/Cardiac||DIN FFF cor/cardiac FFF 0 0||
+281-01||64||RRR S1, S2 2/6 murmur
+281-01||65||Chest
+281-01||66||Clear anteriorly b/l
+281-01||67||Abdomen
+281-01||68||+ bowel sounds x 4, abd. soft NT/ND, no guarding/masses/HSM||FREQ FFF x 4, FFF 3 4||
+281-01||69||Extremity
+281-01||70||Femoral: Right no hematoma, + bruit.
+281-01||71||Left: + brout
+281-01||72||DP: trace left, 1+ right, no edema.||INDICATION FFF dp: FFF 0 0||INDICATION FFF edema. FFF 6 6||

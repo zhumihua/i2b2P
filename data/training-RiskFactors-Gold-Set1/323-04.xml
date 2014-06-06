@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2065-12-19
+EDVISIT^60244986^XIAN, BROOKLYN^12/19/65^QUAGLIA, BRONSON
+
+I confirm that I have interviewed and examined the patient and
+
+reviewed the PA's documentation.  Please see her note for full
+
+details.
+
+HISTORY OF PRESENT ILLNESS:  Ms. Xian is a 70-year-old female
+
+with a history of non-insulin-dependent diabetes, history of
+
+cholecystectomy, and Lap-Band in 2062 who presents with right
+
+upper quadrant abdominal pain, nausea but no vomiting, and
+
+decreased p.o. intake.  Denies any fevers.  She reports that it
+
+is 8/10 and 12/10 at its worst.  She also on review of systems
+
+reports some chest pain on the left side radiating down her left
+
+arm and left shoulder.  No previous episodes.  No trauma, no
+
+urinary symptoms, no vomiting, and no diarrhea.  She saw her PCP
+
+earlier this week on 12/17/2065 and had a CT scan, which was
+
+reportedly normal and it is in our system and we have confirmed
+
+this reading.
+
+SOCIAL HISTORY:  Noncontributory.
+
+FAMILY HISTORY:  Normal.
+
+REVIEW OF SYSTEMS:  Otherwise, negative.  LMR notes on 12/17/2065
+
+from her PCP reveals same steady mild waxing and waning right
+
+upper quadrant abdominal pain radiating to the back, not
+
+pleuritic.  No shortness of breath.  No fevers, cough, or chills.
+
+ No changes in her stools.
+
+PAST MEDICAL HISTORY:  She has a history of sleep apnea, atypical
+
+chest pain, diabetes, obesity, gastric banding, and some
+
+dementia.
+
+PHYSICAL EXAMINATION:  Here, heart rate 76, respiratory rate 18,
+
+blood pressure 118/77, saturations 97%, and temperature 96.6. 
+
+She is obese.  Dry Mucous membranes.  Slightly pale.  Neck is
+
+supple.  No respiratory distress.  Normal breath sounds.  Heart: 
+
+Regular rate and rhythm without a murmur.  Abdomen with right
+
+upper quadrant tenderness.  Negative Murphy's.  No
+
+hepatosplenomegaly and no CVA tenderness.
+
+IMPRESSION:  This 70-year-old female with abdominal pain.
+
+LABORATORY DATA:  White count of 15.6, hematocrit 42.  The rest
+
+of her labs are pending.  Chest x-ray and right upper quadrant
+
+ultrasound pending.  Otherwise, we have given IV fluids and
+
+morphine.  She is on telemetry.
+
+Diagnoses at this time, abdominal pain and chest pain.  Abdominal
+
+pain.  With a negative CT scan, labs and ultrasound that are
+
+reassuring.  We will proceed with pain control at that time. 
+
+Chest pain.  We will ____ check a troponin and EKG and keep her
+
+in telemetry.  She will get ____ and if there has been a negative
+
+recent nuclear stress test, we will go ahead and proceed with ED
+
+Observation admission in the morning for a MIBI stress test.
+
+DIAGNOSES:
+
+1.  Abdominal pain.
+
+2.  Chest pain.
+
+______________________________
+
+QUAGLIA, BRONSON M.D.
+
+D: 12/19/65
+
+T: 12/19/65
+
+Dictated By: QUAGLIA, BRONSON
+
+eScription document:0-75166654 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC1" time="after DCT" indicator="mention"/>
+    <OBESE id="DOC2" time="during DCT" indicator="mention"/>
+    <OBESE id="DOC4" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC5" indicator="not present"/>
+    <SMOKER id="DOC6" status="unknown"/>
+    <DIABETES id="DOC0" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC7" time="before DCT" indicator="mention"/>
+  </TAGS>
+</root>

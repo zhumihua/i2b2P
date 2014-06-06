@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2078-04-20
+
+
+
+
+PINELLAS GENERAL HOSPITAL
+PINELLAS Internal Medicine Associates
+58 Topaz Drive
+Petersham, NJ  81697
+
+Ickes, William
+81071628
+04/20/78
+
+HISTORY:  This is a 71-year-old gentleman accompanied by wife who comes in with 
+episodic complaint of polyuria, polydipsia and weight loss.   He is followed in PIMA for 
+multiple medical problems.  Refer to the problem list.
+
+HISTORY OF PRESENT ILLNESS:  The patient reports that he was informed that he 
+had borderline diabetes in the past.  He apparently called Dr. Frantz with present poly 
+symptoms.  He was advised to come to the office for serum glucose check.  The patient 
+does have a brother with diabetes.  To his knowledge, neither one of his parents had 
+diabetes.  The patient does not have much knowledge regarding diabetes.  He basically is 
+now complaining of polyuria, polydipsia, and weight loss.  He reports that he has had an 
+18 pound weight loss since 1/78, visit with Dr. Frantz.
+
+OBJECTIVE:  Serum glucose in the office random is 376.  Weight is 173.75 pounds.  
+Diabetes instructions as follows, pathophysiology of diabetes is reviewed.  Action and 
+rationale for oral agent versus insulin reviewed.  Hyper and hypoglycemic symptoms 
+reviewed.  Acute and chronic complications of diabetes reviewed.  Gross no concentrated 
+fruits diet reviewed.  Creatinine has been in the 1.3 to 1.5 range, over the last year.
+
+ASSESSMENT:  Markedly elevated glucose now.
+
+PLAN:  Per consult of Dr. Frantz, M.D., we will start glyburide 5 mg tablet one p.o. q.d., 
+since not able to use metformin in view of the patient's elevated creatinine.  The patient 
+was given prescription for glucometer.  He will return to the office and will be instructed 
+in the use of the glucometer. Bring in glucose log at next visit. Alternate FBS with predinner glucoses.
+
+
+Wanda Lucero, M.D.
+
+WL:mata;967581.doc;DD:04/20/78;DT:03/21/78;DV:04/20/78
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="sulfonylureas" type2=""/>
+    <FAMILY_HIST id="DOC2" indicator="not present"/>
+    <SMOKER id="DOC3" status="unknown"/>
+    <DIABETES id="DOC1" time="during DCT" indicator="mention"/>
+  </TAGS>
+</root>

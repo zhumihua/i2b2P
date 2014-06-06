@@ -1,0 +1,45 @@
+273-03	1	Record date: 2077-01-29		 
+273-03	2			 
+273-03	3	Novolog 3-7 tid 683-51-28		DBN FFF novolog#0	DOSE FFF 3-7#1	FREQ FFF tid#2
+273-03	4	Lantus 19-20 at hs Xuan, Wendy		DBN FFF lantus#0	DOSE FFF 19-20#1	FREQ FFF hs#3
+273-03	5	Neoral 100/100 mg bid		DBN FFF neoral#0	DOSE FFF 100/100mg#2	FREQ FFF bid#3
+273-03	6	CellCept 1000 mg bid		DBN FFF cellcept#0	DOSE FFF 1000mg#2	FREQ FFF bid#3
+273-03	7	Lopressor 25/12.5 mg bid		DBN FFF lopressor#0	DOSE FFF 25/12#1	DOSE FFF 5mg#2	FREQ FFF bid#3
+273-03	8	Captopril 12.5 mg bid		DIN FFF captopril#0	DOSE FFF 12.5mg#2	FREQ FFF bid#3
+273-03	9	Lipitor 10 mg qd		DBN FFF lipitor#0	DOSE FFF 10mg#2	FREQ FFF qd#3
+273-03	10	Neurontin 600/1200 mg bid		DBN FFF neurontin#0	DOSE FFF 600/1200mg#2	FREQ FFF bid#3
+273-03	11	Tums 200 mg ii bid (often forgets)		DBN FFF tums#0	DOSE FFF 200mg#2	FREQ FFF bid#4
+273-03	12	Prilosec 20 mg bid		DBN FFF prilosec#0	DOSE FFF 20mg#2	FREQ FFF bid#3
+273-03	13	MVI i bid		DPN FFF mvi#0	FREQ FFF bid#2
+273-03	14	ASA 325 mg qd		DIN FFF asa#0	DOSE FFF 325mg#2	FREQ FFF qd#3
+273-03	15	Quinine Sulfate 260 mg at hs		DIN FFF quinine sulfate#1	DOSE FFF 260mg#3	FREQ FFF hs#5
+273-03	16	Senekot		DIN FFF senekot#0
+273-03	17	January 29, 2077		 
+273-03	18	Interim History:		 
+273-03	19	Comes to review her medical problems.		 
+273-03	20	Her ETT showed mild distal anterior and antero-apical ischemia.		 
+273-03	21	The last p-CABG ETT was done in September, 2074, and did not included nuclear images.		 
+273-03	22	The electrocardiographic portion of both tests was considered to be uninterpretable because of inadequate elevation of the heart rate.		 
+273-03	23	Dr. Dotson asked her to double the atenolol dose.		DIN FFF atenolol#7
+273-03	24	Since she has had low BP in the past, we increased it to only 25/12.5.		 
+273-03	25	BP 80/50-90/60 at home and she has not felt so well, tired.		 
+273-03	26	Not sure whether the dyspnea on exertion that led us to get the ETT has changed since she has not challenged it.		 
+273-03	27	Home Blood Tests:  Not very good by history. A1c over 9%. She still has trouble focusing on it.		 
+273-03	28	Retinopathy: Visions stable.		 
+273-03	29	Nephropathy: Cr slightly up to 1.5		 
+273-03	30	Cardiac: above		 
+273-03	31	Vascular: No claudication		 
+273-03	32	Past Medical History:		 
+273-03	33	Has had flu shot this year.		 
+273-03	34	Review of Systems: above		 
+273-03	35	Physical Exam:		 
+273-03	36	Looks well.		 
+273-03	37	BP:   110/76   120/80 by me (not sure she took meds this AM)  P:   72, regular		 
+273-03	38	Wt:   167 without shoes, up 4		 
+273-03	39	Neck: No JVD		 
+273-03	40	Chest: Clear to auscultation		 
+273-03	41	Heart: Normal S1; ? physiologic S2.		 
+273-03	42	No gallops.		 
+273-03	43	No murmurs		 
+273-03	44	Extremities: No edema.		 
+273-03	45	Impressions and Plan:		 

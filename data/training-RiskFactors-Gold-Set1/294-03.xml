@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2095-02-04
+
+
+Patient Name: SHEPHERD,AARON W [ 5613892(BMH) ] Date of Visit: 02/04/2095, 7:40 am
+
+
+
+
+Admission Note - Attending/PCP
+
+
+S-
+79 yo M etired Archive Manager with a history of recent repair of right inguinal hernia who presents to the ER with a 1-week history of  abdominal pain localizing to the right lower quadrant/groin, constipation, urinary incontinence, admitted for mod./severe urinary retention (2 liters), bilateral hydronephrosis due to severe BPH, also ARF to BUN/Cr 30/3.0. 
+
+PMH significant for :  constipation, depression, psychosis, insomnia, CAD, syncope, HTN, DMT2, carotid stenosis, PVD.
+ 
+Details per Dr. Davidson.
+ 
+Problems
+Hydronephrosis : bila. mod/severe 2/95 due to very large prostate
+Acute renal failure : 2/95 30/3.0
+Peripheral vascular disease : Ca++ celiac axis and SMA 2/95
+Coronary artery disease 
+Depression 
+Weight loss 
+Constipation 
+Inguinal hernia 
+Glaucoma 
+Syncope 
+Bradycardia 
+Benign prostatic hypertrophy 
+Nocturia 
+Psychosis 
+Diabetes mellitus type 2 
+Hyperlipidemia 
+
+
+
+
+
+
+Last Known Medications
+Aspirin (ACETYLSALICYLIC ACID) 325 MG (325MG TABLET take 1) PO QD 
+Brimonidine TARTRATE 1 DROP (0.2% DROPS ) OU BID 
+Cilostazol 100 MG (100MG TABLET take 1) PO BID 
+Dulcolax (BISACODYL) 5 MG (5MG TABLET take 1) PO QD 
+Lasix (FUROSEMIDE) 20 MG (20MG TABLET take 1) PO QD 
+Lisinopril 40 MG (40MG TABLET take 1) PO QD 
+Metformin 1000 MG (1000MG TABLET take 1) PO BID 
+Metoprolol TARTRATE 50 MG (50MG TABLET take 1) PNGT BID 
+Mvi (MULTIVITAMINS) 1 TAB PO QD 
+Norvasc (AMLODIPINE) 10 MG (5MG TABLET take 2) PO QD 
+Remeron (MIRTAZAPINE) 3.75 MG (15MG TABLET take 0.25) PO QD 
+Zocor (SIMVASTATIN) 80 MG (80MG TABLET take 1) PO QHS 
+Zyprexa (OLANZAPINE) 5 MG (5MG TABLET take 1) PO QD , Take 1 tab at bedtime 
+
+
+
+Allergies
+NKA 
+
+
+ROS
+No back or abdominal pain
+
+
+Geriatric ROS
+   Yes      No      Don't know
+Memory Intact?
+  Yes   
+Judgment Intact?
+ Yes   
+Safety Concerns? no
+Nutritional Concerns (i.e. lost wt., eats poorly)? no
+Continent of urine? no
+Ambulation:         Independent
+
+Bedbound? no
+Falls prior to this hospitalization? no
+
+
+Health Maintenance
+   Pneumonia vaccine received?  2094
+   Influenza vaccine received in last year?  yes
+ 
+Social
+Born in Bryan. Raised in Shirley, Il. Currently lives in Shirley. Married for 53 years with 6 children and 7 grandchildren.
+
+
+Advance Care Planning
+
+HCP: Wife, Ernestine is primary proxy. Alternative is daughter, Teresa Berry. 
+Code Status: Has not decided as of yet.
+
+
+ 
+O-
+Alert, NAD
+Resp.- Clear
+RRR
+GI- Soft, no masses
+GU- Indwelling cath, gross heme in urineExt- No edema
+Neuro- Cogent, non-focal
+
+
+Assessment/Plan
+
+
+Constipation- Add miralx to discharge regimen
+Urinary retention- Relieved, await urology consult 
+BPH- Per urology, op. this admission vs elective
+ARF- due to obstruction, follow as relieved.
+
+
+Disposition- Home with services
+Discussed with Dr. Davidson
+
+
+
+
+
+
+____________________________________
+Noah Joseph, M.D. #01220 for Dr. Judge/Lugo
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC11" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC22" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC26" time="before DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC8" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC12" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC15" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC19" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC20" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC24" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC27" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC29" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC30" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC14" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC28" time="before DCT" indicator="mention"/>
+    <CAD id="DOC17" time="after DCT" indicator="mention"/>
+    <CAD id="DOC23" time="during DCT" indicator="mention"/>
+    <CAD id="DOC31" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC21" indicator="not present"/>
+    <SMOKER id="DOC16" status="unknown"/>
+    <DIABETES id="DOC6" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC9" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC25" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

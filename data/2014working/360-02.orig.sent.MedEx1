@@ -1,0 +1,55 @@
+360-02||1||Record date: 2077-01-14
+360-02||2||HALE MEMORIAL HOSPITAL
+360-02||3||Internal Medicine
+360-02||4||65 Dearborn Street                             Geiger, Xian
+360-02||5||Rayne, MI  82978                             01729440
+360-02||6||01-14-77
+360-02||7||Mr. Geiger is a 74 year old man who comes in today for follow up of his  blood pressure medication as well as his cholesterol level.  I have been  readjusting Mr. Geiger's blood pressure regimen since he left Hale Memorial Hospital for an episode of gastroenteritis and hypovolemia  several months ago.  His blood pressure regimen currently is HCTZ 25mg  q.d., lisinopril, 20mg q.d. and atenolol 25mg q.d.  He apparently went  to an office visit at Dr. Mueller office a week ago and was noted there  to have high blood pressure.  She prescribed an increase in his atenolol  from 25mg to 50mg.  He has not yet completed that prescription.  Mr.||DPN FFF hctz FFF 57 57||DOSE FFF 25mg FFF 58 58||FREQ FFF q.d., FFF 59 59||
+360-02||7||Mr. Geiger is a 74 year old man who comes in today for follow up of his  blood pressure medication as well as his cholesterol level.  I have been  readjusting Mr. Geiger's blood pressure regimen since he left Hale Memorial Hospital for an episode of gastroenteritis and hypovolemia  several months ago.  His blood pressure regimen currently is HCTZ 25mg  q.d., lisinopril, 20mg q.d. and atenolol 25mg q.d.  He apparently went  to an office visit at Dr. Mueller office a week ago and was noted there  to have high blood pressure.  She prescribed an increase in his atenolol  from 25mg to 50mg.  He has not yet completed that prescription.  Mr.||DIN FFF lisinopril, FFF 60 60||DOSE FFF 20mg FFF 61 61||FREQ FFF q.d. FFF 62 62||
+360-02||7||Mr. Geiger is a 74 year old man who comes in today for follow up of his  blood pressure medication as well as his cholesterol level.  I have been  readjusting Mr. Geiger's blood pressure regimen since he left Hale Memorial Hospital for an episode of gastroenteritis and hypovolemia  several months ago.  His blood pressure regimen currently is HCTZ 25mg  q.d., lisinopril, 20mg q.d. and atenolol 25mg q.d.  He apparently went  to an office visit at Dr. Mueller office a week ago and was noted there  to have high blood pressure.  She prescribed an increase in his atenolol  from 25mg to 50mg.  He has not yet completed that prescription.  Mr.||DIN FFF atenolol FFF 64 64||DOSE FFF 25mg FFF 65 65||FREQ FFF q.d. FFF 66 66||DRT FFF a week FFF 78 79||INDICATION FFF high blood pressure. FFF 87 89||
+360-02||7||Mr. Geiger is a 74 year old man who comes in today for follow up of his  blood pressure medication as well as his cholesterol level.  I have been  readjusting Mr. Geiger's blood pressure regimen since he left Hale Memorial Hospital for an episode of gastroenteritis and hypovolemia  several months ago.  His blood pressure regimen currently is HCTZ 25mg  q.d., lisinopril, 20mg q.d. and atenolol 25mg q.d.  He apparently went  to an office visit at Dr. Mueller office a week ago and was noted there  to have high blood pressure.  She prescribed an increase in his atenolol  from 25mg to 50mg.  He has not yet completed that prescription.  Mr.||DIN FFF atenolol FFF 96 96||DOSE FFF 25mg FFF 98 98||DOSE FFF 50mg. FFF 100 100||
+360-02||8||Geiger's blood pressure today is 180/80.
+360-02||9||He denies any recent chest  pain, shortness of breath, lightheadedness or other symptoms.
+360-02||10||Mr. Geiger's cholesterol was checked by me last visit due to a modestly  elevated cholesterol one year ago which had not been treated.
+360-02||11||His  current cholesterol level was total 283, HDL 54, LDL 196.
+360-02||12||REVIEW OF SYSTEMS:  Mr. Geiger denies any recent fever, chills,
+360-02||13||headache, chest pain, shortness of breath, cough, nausea, vomiting,  diarrhea, dysuria.
+360-02||14||PHYSICAL EXAMINATION:  His blood pressure is 180/80.
+360-02||15||His weight is 184.
+360-02||16||His heart rate is 80.
+360-02||17||Lung exam is clear to auscultation bilaterally.
+360-02||18||The cardiac exam shows a regular rate and rhythm with normal S1, S2, no  murmurs.
+360-02||19||Abdominal exam is benign.
+360-02||20||Extremities show no evidence of  edema.
+360-02||21||Recent laboratories show a chem 7 panel of sodium 141, potassium 4.5,  chloride 101, bicarb 29, BUN 11, creatinine 1.1, glucose 124.||DIN FFF potassium FFF 10 10||DOSE FFF 4.5, FFF 11 11||
+360-02||21||Recent laboratories show a chem 7 panel of sodium 141, potassium 4.5,  chloride 101, bicarb 29, BUN 11, creatinine 1.1, glucose 124.||DPN FFF bicarb FFF 14 14||INDICATION FFF creatinine FFF 18 18||
+360-02||22||He has a  normal liver function test and normal calcium and magnesium.||INDICATION FFF liver FFF 4 4||DBN FFF calcium and magnesium. FFF 9 11||
+360-02||23||His T4 is  normal at 10.3.||DIN FFF t4 FFF 1 1||
+360-02||24||His THBR is normal at 0.98.
+360-02||25||ASSESSMENT AND PLAN:
+360-02||26||1.   Hypertension.  Mr. Geiger's blood pressure continues to be elevated       despite his current regimen of HCTZ and lisinopril and atenolol.||DPN FFF hctz FFF 15 15||
+360-02||26||1.   Hypertension.  Mr. Geiger's blood pressure continues to be elevated       despite his current regimen of HCTZ and lisinopril and atenolol.||DIN FFF lisinopril FFF 17 17||
+360-02||26||1.   Hypertension.  Mr. Geiger's blood pressure continues to be elevated       despite his current regimen of HCTZ and lisinopril and atenolol.||DIN FFF atenolol. FFF 19 19||
+360-02||27||He was recently given an increased atenolol dose from Dr.||DIN FFF atenolol FFF 6 6||
+360-02||28||Mueller.
+360-02||29||I agree with this decision and will wait for him to fill his       prescription and begin this new regimen before he follows up in a       few weeks for blood pressure check.
+360-02||30||2.   Cholesterol.
+360-02||31||The patient's cholesterol is significantly elevated.
+360-02||32||Given his comorbidities, I would aim for an LDL level less than
+360-02||33||130.
+360-02||34||Thus, I will begin a course of atorvastatin.||DRT FFF a course FFF 4 5||DIN FFF atorvastatin. FFF 7 7||
+360-02||35||His current       liver function tests are normal.
+360-02||36||HALE MEMORIAL HOSPITAL
+360-02||37||Internal Medicine
+360-02||38||35 Dearborn Street                             Geiger, Xian
+360-02||39||Rayne, MI  82978                             01729440
+360-02||40||01-14-77
+360-02||41||Page 2
+360-02||42||3.   Health maintenance.  I have recommended to him losing some weight.
+360-02||43||He has gained 6 pounds since his visits last month.
+360-02||44||He attributes       this to his holiday eating, but he says that he gets a good deal of       exercise.  I will continue to recommend diet and exercise for him.
+360-02||45||He has most recently competed a Pneumovax and a flu vaccine last       week.||DIN FFF pneumovax FFF 6 6||
+360-02||45||He has most recently competed a Pneumovax and a flu vaccine last       week.||DIN FFF flu vaccine FFF 9 10||
+360-02||46||_________________________
+360-02||47||Nicholas Whaley, M.D.
+360-02||48||BS:HB1008; DD: 01-14-77; DT: 01-14-77; DV: 01-14-77

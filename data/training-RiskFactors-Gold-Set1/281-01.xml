@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2157-08-27
+
+History of Present Illness	
+
+ID:Admitted from cardiac cath lab. 
+
+
+
+HPI:Mr. Doty is a  80 y.o. male with h/o HTN, DM, PVD, elevated cholesterol who presents with 6 month h/o chest and upper extremity discomfort on exertion along with SOB. He has limited his activities to prevent symptoms. He also has had a few episodes at rest in bed. 
+
+
+
+Stress test at BII showed inferoposterior ischemia at low workload---3:18 minutes HR 101 (72%) and b/p 220/80. LV EF 48%. He presents today for cardiac cath. 
+
+
+
+Full cath report not available but d/w Dr. Diamond states no intervention needed. Case complicated by back discomfort and urge to void-- Foley insertion requiring Coude. He will stay overnight and receive Abx. prophylaxis. He is pain free currently. 
+
+Son with patient. 
+
+
+
+CRF:    +  HTN        +  DM         +Chol        + FH         
+
+Tob: none over 45 years 
+
+
+
+Past Medical History	
+
+DM 
+
+HTN
+
+High cholesterol
+
+PVD- L SFA disease, + claudication at 1/4 mile. 
+
+CNIS- no significant obstruction, plague. 
+
+
+
+Past Surgical History	
+
+Denies
+
+
+
+Medications	
+
+At home:
+
+
+
+Atenolol 100 qd
+
+Lipitor 5 qd
+
+Avandia 4 qd
+
+Lisinopril 40 qd
+
+Omeprazole 20 qd
+
+Metformin 500 qid
+
+Imdur 60 qd
+
+Vit E, C, B12
+
+ASA 325 x 2 weeks
+
+
+
+Allergies	
+
+NKDA
+
+
+
+Social History	
+
+Lives alone in St. Michael. Cooks for self. Family supportive
+
+Retired-had catering business- 2 sons running now. Helps out occasionally.
+
+Wife deceased from cancer 
+
+
+
+Habits	
+
+ETOH: one drink weekly          Caffeine:  1 cup qd        
+
+Diet:  cooks well balanced meals daily             
+
+Exercise: golf daily
+
+
+
+Family History	
+
+n/a
+
+
+
+Review of Systems	
+
+Negatvie in detail except as above
+
+
+
+Physical Exam	  
+
+SR: 79          BP:   176/80        
+
+Ht: 5'8"             Wt:165#
+
+General Appearance	
+
+Lying in bed, NAD, conversing appropriately with staff. Good historian. 
+
+Neurological	
+
+CN II- XII intact, speech clear
+
+Neck	
+
+Supple, no JVP, 2+ carotid pulse with bruits.
+
+Cor/Cardiac	
+
+RRR S1, S2 2/6 murmur
+
+Chest	
+
+
+
+Clear anteriorly b/l
+
+Abdomen	
+
++ bowel sounds x 4, abd. soft NT/ND, no guarding/masses/HSM
+
+Extremity	
+
+Femoral: Right no hematoma, + bruit.
+
+Left: + brout
+
+DP: trace left, 1+ right, no edema. 
+
+
+
+External Labs	
+
+Lab
+
+EKG:
+
+
+
+Plan	
+
+80 y.o. male with c/o angina, + stress test s/p cath with no intervention needed. + PVD with claudication. 
+
+
+
+CV: Continue home medications. Speak with Dr. Diamond regarding ASA- he has only taken x 2 weeks. 
+
+
+
+PV: to return in a few weeks for PV intervention. 
+
+
+
+Endo: Hold glucophage. Start avandia  in am. Follow bid finger sticks and use sliding scale insulin prn. 
+
+
+
+Further plans per Dr. Diamond. 
+
+
+
+
+
+
+
+Adriana Buckley, NP
+
+b. 69162
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC10" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC23" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC28" time="before DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC7" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC11" time="during DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC12" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC13" time="after DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC15" time="before DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC16" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC19" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC21" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC24" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC25" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC27" time="during DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC29" time="after DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC30" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC31" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC14" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC20" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC32" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC22" indicator="not present"/>
+    <SMOKER id="DOC4" status="past"/>
+    <DIABETES id="DOC8" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC17" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC26" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

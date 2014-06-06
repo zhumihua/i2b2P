@@ -1,0 +1,72 @@
+226-05||1||Record date: 2138-04-08
+226-05||2||Reason for Visit
+226-05||5||BP Follow-up||INDICATION FFF bp FFF 0 0||
+226-05||6||History of Present Illness
+226-05||7||63 yo female pt of Dr.
+226-05||8||Alvarez presents to the office for f/u bp.||INDICATION FFF f/u FFF 6 6||INDICATION FFF bp. FFF 7 7||
+226-05||9||- She was restarted taking cozaar 25 ng in addition to her metoprolol 100 mg, nifedipine 30 mg.||DBN FFF cozaar FFF 5 5||DOSE FFF 25 FFF 6 6||RUT FFF ng FFF 7 7||DIN FFF metoprolol FFF 12 12||DOSE FFF 100 mg, FFF 13 14||DIN FFF nifedipine FFF 15 15||DOSE FFF 30 mg. FFF 16 17||
+226-05||10||She states that she is tolerating cozaar. - She reports some worsening  sob with exertion and experiencing jaw pain with walking x 2-3 weeks.||DBN FFF cozaar. FFF 6 6||INDICATION FFF sob FFF 12 12||INDICATION FFF pain FFF 18 18||DRT FFF 2-3 weeks. FFF 22 23||
+226-05||11||- She has been going for cardiac PT twice a week and has her bp taking during the therapy.||FREQ FFF twice a week FFF 8 10||INDICATION FFF her bp FFF 13 14||DRT FFF during FFF 16 16||
+226-05||12||Her bp is running around 122/60's.Her BP once went up to 130/70's right after she exerted herself  at the therapy. - She denies any chest pain||INDICATION FFF her bp FFF 0 1||INDICATION FFF bp FFF 6 6||INDICATION FFF chest pain FFF 24 25||
+226-05||13||- She notes that she  gained 10 lb recently
+226-05||14||- She is on  second round of 8 weeks  in her cardiac PT||DRT FFF 8 weeks FFF 7 8||
+226-05||15||- No F/C/N/V||INDICATION FFF f/c/n/v FFF 2 2||
+226-05||16||Problems
+226-05||17||Diabetes mellitus||INDICATION FFF diabetes mellitus FFF 0 1||
+226-05||18||Malignant tumor of urinary bladder : stage 1, now s/p bcg treatment, followed by urology||INDICATION FFF tumor of urinary bladder FFF 1 4||DIN FFF bcg FFF 10 10||
+226-05||19||Hypertensive disorder||INDICATION FFF hypertensive disorder FFF 0 1||
+226-05||20||Obesity||INDICATION FFF obesity FFF 0 0||
+226-05||21||Retinal detachment : s/p repair Dr.||DIN FFF retinal FFF 0 0||
+226-05||22||Cleveland
+226-05||23||Coronary arteriosclerosis||INDICATION FFF coronary arteriosclerosis FFF 0 1||
+226-05||24||Coronary artery bypass graft : 2137
+226-05||25||Hyperlipidemia||INDICATION FFF hyperlipidemia FFF 0 0||
+226-05||26||Medications
+226-05||27||Alphagan P (BRIMONIDINE Tartrate ) 1 DROP (0.1% DROPS ) OD BID #1 Month(s) Supply||DBN FFF alphagan p FFF 0 1||DOSEAMT FFF 1 drop FFF 5 6||DOSE FFF (0.1% FFF 7 7||INDICATION FFF od FFF 10 10||FREQ FFF bid FFF 11 11||
+226-05||28||Aspirin (ACETYLSALICYLIC Acid) 81 MG (81MG TABLET Take 1) PO QD #90 Tablet(s)||DIN FFF aspirin FFF 0 0||DOSE FFF 81 mg FFF 3 4||DOSE FFF (81mg FFF 5 5||RUT FFF po FFF 9 9||FREQ FFF qd FFF 10 10||
+226-05||29||Cozaar (LOSARTAN) 25 MG (25 MG TABLET Take 1) PO QD, Member ID # 55080437876 #180 Tablet(s)||DBN FFF cozaar FFF 0 0||DOSE FFF 25 mg FFF 2 3||DOSE FFF (25 mg FFF 4 5||RUT FFF po FFF 9 9||FREQ FFF qd, FFF 10 10||
+226-05||30||Lantus Solostar Pen (INSULIN Glargine Solostar Pen) 62 UNITS (100/ML (3) INSULN PEN ML) SC as directed, take 44 units in the AM and 55 units in the PM #3 Month(s) Supply||DBN FFF lantus solostar pen FFF 0 2||DIN FFF pen) FFF 6 6||DOSEAMT FFF 62 units FFF 7 8||DIN FFF pen FFF 12 12||RUT FFF sc FFF 14 14||INDICATION FFF as FFF 15 15||DOSEAMT FFF 44 units FFF 18 19||TOD FFF am FFF 22 22||DOSEAMT FFF 55 units FFF 24 25||TOD FFF pm FFF 28 28||
+226-05||31||Metoprolol Succinate Extended Release 100 MG (100 MG TAB.SR 24H Take 1) PO QD #90 TAB.SR||DIN FFF metoprolol succinate FFF 0 1||DOSE FFF 100 mg FFF 4 5||DOSE FFF (100 mg FFF 6 7||DRT FFF 24h FFF 9 9||RUT FFF po FFF 12 12||FREQ FFF qd FFF 13 13||
+226-05||32||Nevanac (NEPAFENAC Ophthalmic) 0.1% DROPS SUSP Take 1 OD QID, Start 3 days before surgery. #5 ML(s)||DBN FFF nevanac FFF 0 0||DOSE FFF 0.1% FFF 3 3||INDICATION FFF od FFF 8 8||FREQ FFF qid, FFF 9 9||DRT FFF 3 days FFF 11 12||INDICATION FFF surgery. FFF 14 14||
+226-05||33||Nevanac (NEPAFENAC Ophthalmic) 0.1% DROPS SUSP Take 1 OS QID, Start 3 days before surgery. #5 ML(s)||DBN FFF nevanac FFF 0 0||DOSE FFF 0.1% FFF 3 3||INDICATION FFF os FFF 8 8||FREQ FFF qid, FFF 9 9||DRT FFF 3 days FFF 11 12||INDICATION FFF surgery. FFF 14 14||
+226-05||34||Nifedipine Extended Release 30 MG (30 MG TAB ER 24 Take 1) PO QD #90 Tablet(s)||DIN FFF nifedipine FFF 0 0||DOSE FFF 30 mg FFF 3 4||DOSE FFF (30 mg FFF 5 6||RUT FFF po FFF 12 12||FREQ FFF qd FFF 13 13||
+226-05||35||Pravastatin 20 MG (20MG TABLET Take 1) PO QHS #90 Tablet(s)||DIN FFF pravastatin FFF 0 0||DOSE FFF 20 mg FFF 1 2||DOSE FFF (20mg FFF 3 3||RUT FFF po FFF 7 7||FREQ FFF qhs FFF 8 8||
+226-05||36||Prednisolone 1% Acetate Ophthalmic Suspension 1 % DROPS SUSP Take 1 OD QID, DO NOT START UNTIL AFTER SURGERY AS DIRECTED. #10 ML(s)||DIN FFF prednisolone FFF 0 0||DOSE FFF 1% FFF 1 1||DIN FFF acetate FFF 2 2||DOSE FFF 1 % FFF 5 6||INDICATION FFF od FFF 11 11||FREQ FFF qid, FFF 12 12||DRT FFF until FFF 16 16||INDICATION FFF surgery FFF 18 18||INDICATION FFF as FFF 19 19||
+226-05||37||Prednisolone 1% Acetate Ophthalmic Suspension 1 % DROPS SUSP Take 1 OS QID, DO NOT START UNTIL AFTER SURGERY AS DIRECTED. #10 ML(s)||DIN FFF prednisolone FFF 0 0||DOSE FFF 1% FFF 1 1||DIN FFF acetate FFF 2 2||DOSE FFF 1 % FFF 5 6||INDICATION FFF os FFF 11 11||FREQ FFF qid, FFF 12 12||DRT FFF until FFF 16 16||INDICATION FFF surgery FFF 18 18||INDICATION FFF as FFF 19 19||
+226-05||38||Solostar Prefilled Disposable Lantus Insulin Pen 65 UNITS SC qd, Member ID# 033388269 #3 Month(s) Supply||DBN FFF solostar FFF 0 0||DBN FFF lantus FFF 3 3||DOSEAMT FFF 65 units FFF 6 7||RUT FFF sc FFF 8 8||FREQ FFF qd, FFF 9 9||
+226-05||39||Vigamox (MOXIFLOXACIN Ophthalmic) 0.5 % DROPS Take 1 OD QID, Start 3 days before surgery. #5 ML(s)||DBN FFF vigamox FFF 0 0||DOSE FFF 0.5 % FFF 3 4||INDICATION FFF od FFF 8 8||FREQ FFF qid, FFF 9 9||DRT FFF 3 days FFF 11 12||INDICATION FFF surgery. FFF 14 14||
+226-05||40||Vigamox (MOXIFLOXACIN Ophthalmic) 0.5 % DROPS Take 1 OS QID, Start 3 days before surgery. #5 ML(s)||DBN FFF vigamox FFF 0 0||DOSE FFF 0.5 % FFF 3 4||INDICATION FFF os FFF 8 8||FREQ FFF qid, FFF 9 9||DRT FFF 3 days FFF 11 12||INDICATION FFF surgery. FFF 14 14||
+226-05||41||Vitamin D2 (ERGOCALCIFEROL) 50000 UNITS (50000 UNIT CAPSULE Take 1) PO #Capsule(s)||DIN FFF vitamin d2 FFF 0 1||DOSEAMT FFF 50000 units FFF 3 4||RUT FFF po FFF 10 10||
+226-05||42||Allergies||INDICATION FFF allergies FFF 0 0||
+226-05||43||AZITHROMYCIN - Unknown||DIN FFF azithromycin FFF 0 0||
+226-05||44||ACE Inhibitor - cough||DIN FFF ace inhibitor FFF 0 1||INDICATION FFF cough FFF 3 3||
+226-05||45||Latex, Natural Rubber - TONGUE SWELLING||INDICATION FFF swelling FFF 5 5||
+226-05||46||SIMVASTATIN - Myalgia||DIN FFF simvastatin FFF 0 0||
+226-05||47||Physical Exam
+226-05||48||ination
+226-05||49||Vital Signs
+226-05||50||BP 110/70 L Arm, P 69, Temp 96.6 F||INDICATION FFF bp FFF 0 0||DOSE FFF 110/70 l FFF 1 2||INDICATION FFF f FFF 8 8||
+226-05||51||Repeat BP:       right arm: 135/60     left arm 136/65 mmHg||INDICATION FFF bp: FFF 1 1||
+226-05||52||General: oriented X3, in no apparent distress.||FREQ FFF x3, FFF 2 2||
+226-05||53||Skin: skin is warm and dry
+226-05||54||Head: atraumatic,normocephalic
+226-05||55||Eyes: PERRL, conjunctiva normal, no discharge.
+226-05||56||Neck :supple,no LAN
+226-05||57||Pulmonary: CTA b/l
+226-05||58||Cardio: good distal pulses bilaterally, RRR without murmurs, gallops or rubs, no LE edema||INDICATION FFF le FFF 12 12||INDICATION FFF edema FFF 13 13||
+226-05||59||MS: Full ROM
+226-05||60||Neuro: 5/5 strength,sensory and motor intact
+226-05||62||EKG interpreted by me and by Dr.||INDICATION FFF me FFF 3 3||
+226-05||63||Alvarez: NSR, possible left atrial enlargement, abnormal ECG compared with previos EKG and noticed some V3 V4 changes (?lead misplacement)||DIN FFF ecg FFF 7 7||
+226-05||64||Assessment/ Plan
+226-05||66||63 yo female pt of Dr.
+226-05||67||Alvarez with hx of above  presents to the office for f/u bp. #     Hypertension||INDICATION FFF f/u FFF 10 10||INDICATION FFF bp. FFF 11 11||INDICATION FFF hypertension FFF 13 13||
+226-05||68||, controlled
+226-05||69||continue cozaar, metoprolol, and nifedipine||DBN FFF cozaar, FFF 1 1||DIN FFF metoprolol, FFF 2 2||DIN FFF nifedipine FFF 4 4||
+226-05||71||BMP
+226-05||73||# Dyspnea on exertion, and jaw pain||INDICATION FFF dyspnea FFF 1 1||INDICATION FFF pain FFF 6 6||
+226-05||74||f/u with Dr.||INDICATION FFF f/u FFF 0 0||
+226-05||75||Uphoff (cardiology)
+226-05||76||Dr.
+226-05||77||Uphoff was contacted via e-mail regarding pt new symptoms||INDICATION FFF symptoms FFF 8 8||
+226-05||78||Discussed with pt potential risks, benefits and side effects of the medication that is increased in frequency.||DPN FFF the medication FFF 10 11||

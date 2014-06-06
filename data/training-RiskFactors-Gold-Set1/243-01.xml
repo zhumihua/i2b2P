@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2076-08-10
+
+
+
+
+
+BARROW MEDICAL CENTER
+
+Johnsonville Family Clinic
+
+4897 Governors Lane
+
+Oroville, AL  89389
+
+
+
+Osborne, Mattison
+48423663
+
+08/10/76
+
+
+
+This patient is seen here in follow-up of the following medical 
+
+problems:
+
+
+
+PROBLEMS:  
+
+1.	Coronary artery disease status post coronary artery bypass 
+
+(saphenous vein) in 2072.
+
+2.	Pulmonary embolus 2074.
+
+3.	Idiopathic hypertension.
+
+
+
+SUBJECTIVE:  He is entirely asymptomatic.  He has no complaint.
+
+
+
+REVIEW OF SYSTEMS:  Negative.  There is no chest pain, shortness 
+
+of breath, cough, peripheral edema, orthopnea or PND.  All the 
+
+other review of systems is negative as well.
+
+
+
+MEDICATIONS:  He continues on lisinopril 10 mg q.d., 
+
+hydrochlorothiazide 25 mg q.d., atenolol 50 mg q.d., and Plavix 
+
+75 mg q.d.
+
+
+
+OBJECTIVE:  On examination today, the patient appears well.  He 
+
+is cheerful and feisty.  Blood pressure 138/80 in the left arm, 
+
+sitting.  Weight 175 pounds.  Apical pulse rate 80.  Cardiac 
+
+rhythm is regular without murmur, gallop, rub or click.  Breath 
+
+sounds are clear to percussion and auscultation.  No jugular 
+
+venous distension.  No peripheral edema.
+
+
+
+ASSESSMENT:  
+
+1.	New York Heart Association functional class-I ISHD, status 
+
+post CABG.
+
+2.	Well-controlled hypertension.
+
+
+
+PLAN:
+
+1.	Current regimen.
+
+2.	Please note that Lipitor was added to his regimen at his last 
+
+visit for hypercholesterolemia.  Repeat cholesterol (which had 
+
+been 263) is now 103.  He will continue the Lipitor as well.
+
+3.	He is to return prior to his planned winter sojourn in the United Kingdom in December.
+
+
+
+
+
+Oscar Nall, M.D.
+
+ON:fairchild;11-56649670.doc;DD:08/10/76;DT:08/11/76;DV:08/10/76
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC17" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC21" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC22" time="before DCT" indicator="high chol."/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC5" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC6" time="before DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC14" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC15" time="during DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC19" time="after DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC23" time="before DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC25" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC26" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC24" time="before DCT" indicator="mention"/>
+    <CAD id="DOC12" time="after DCT" indicator="mention"/>
+    <CAD id="DOC18" time="during DCT" indicator="mention"/>
+    <CAD id="DOC20" time="before DCT" indicator="event"/>
+    <CAD id="DOC27" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC16" indicator="not present"/>
+    <SMOKER id="DOC11" status="unknown"/>
+  </TAGS>
+</root>

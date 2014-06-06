@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2092-05-16
+
+
+
+Correction Hospital Physician Group
+
+925 Tolles Street                                    HOOPER, PABLO
+
+Labelle, MI 97848                            90338035
+
+(055) 025-9878                                           05/16/92
+
+(908) 649-3317
+
+
+
+CHIEF COMPLAINT:  Follow-up laboratory testing.
+
+
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 56-year-old white
+
+man who I have not seen since November of 2088.  Approximately
+
+four weeks ago, he started noting visual changes.  He saw colored
+
+spots floating in his visual field.  He has been noting some
+
+decreased depth perception and visual acuity.  At the same time,
+
+he has been getting throbbing unilateral headaches, which he
+
+believes were migraines.  He saw an ophthalmologist at Mediquik who told him that his eye exam was within normal limits.
+
+ He was then referred to Dr. Gill for neurologic evaluation. 
+
+Dr. Gill did not note any significant neurologic deficits. 
+
+However, during his workup, he did check a hemoglobin A1c, which
+
+came back at 10.2.  Of note, the last time I saw the patient, I
+
+had sent him a letter stating that his glucose was slightly
+
+elevated and asking him to return for a fasting glucose.  He
+
+never returned for that testing.
+
+
+
+PAST MEDICAL HISTORY: Hypertension, hypercholesterolemia,
+
+obesity, and gout.
+
+
+
+MEDICATIONS:  HCTZ 50 mg p.o. q.d.,  Atenolol 50 mg p.o. b.i.d.,
+
+allopurinol 300 mg p.o. q.d.
+
+
+
+ALLERGIES:  No known drug allergies.
+
+
+
+FAMILY HISTORY:  Negative for diabetes but positive for kidney
+
+failure.  This is thought to be due to glomerulonephritis.
+
+
+
+SOCIAL HISTORY:  He is a Graphic Arts Technician in Oconto.  He is
+
+currently on a leave of absence from work.  He is a nonsmoker.
+
+
+
+REVIEW OF SYSTEMS:  He believes that he has lost some weight over
+
+the past four weeks but cannot quantify the amount.  He has been
+
+noting anxiety symptoms, increased urinary frequency, and
+
+nocturia.  Otherwise, constitutional, HEENT, cardiac,
+
+respiratory, GI, GU, musculoskeletal, neurologic, and
+
+dermatologic are negative.
+
+
+
+PHYSICAL EXAMINATION:  In general, he is a pleasant obese white
+
+man in no acute distress.  Vitals: Blood pressure 134/90, pulse
+
+66 and regular, and weight 249 pounds.  HEENT:  PERRL, EOMI,
+
+anicteric sclerae.  Clear oropharynx with dry mucous membranes. 
+
+Neck is supple with no lymphadenopathy, no thyromegaly.  Chest: 
+
+CTA&P bilaterally.  Heart: RRR, no MRG.  Abdomen:  Obese, soft,
+
+NT/ND, NABS, no HSM.  Extremities:  No CCE.  Neuro:  A&O x 3, 2+
+
+DTRs bilaterally.
+
+
+
+LABORATORY DATA: EKG shows normal sinus rhythm at 73 beats per
+
+minute, normal axis and intervals, no ST-T-wave changes.
+
+
+
+ASSESSMENT AND PLAN:
+
+1.   Diabetes.  The patient was advised that his laboratory
+
+testing and symptoms are all consistent with adult-onset
+
+diabetes.  Given the severity of his symptoms, I have elected to
+
+start him on metformin 500 mg p.o. q.d.  Use and side effects
+
+were reviewed.  He will have Chem-7, urinary microalbumin and
+
+fasting lipid profile checked today.  Unfortunately, he was not
+
+actually fasting.  He will also be referred to Gretchen Drew and
+
+Bertha Ely for further diabetic and nutritional education. 
+
+He will be started on lisinopril instead of  HCTZ.  He is asked
+
+to return in six weeks for follow up of his blood pressure.  He
+
+was advised that his visual changes are likely due to lens
+
+swelling due to the uncontrolled diabetes.  I assume that this
+
+will resolve as the blood sugars come under better control.  He
+
+was given a written note regarding leave of absence from his job
+
+until his symptoms clear.
+
+2.  Migraines.  The patient does sound as if he is also having
+
+migraines.  We will address this at future visits.
+
+
+
+
+
+______________________________
+
+Patti O. Bush, M.D.
+
+
+
+eScription document:3-6062838 EMSSten Tel
+
+
+
+DD: 05/16/92
+
+DT: 05/17/92
+
+DV: 05/16/92
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC6" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC13" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC15" time="before DCT" indicator="mention"/>
+    <OBESE id="DOC1" time="after DCT" indicator="mention"/>
+    <OBESE id="DOC11" time="before DCT" indicator="mention"/>
+    <OBESE id="DOC16" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC5" time="before DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC19" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC8" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC17" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC12" indicator="not present"/>
+    <SMOKER id="DOC14" status="never"/>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC10" time="before DCT" indicator="A1C"/>
+  </TAGS>
+</root>

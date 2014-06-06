@@ -1,0 +1,65 @@
+273-01||1||Record date: 2075-10-17
+273-01||3||Novolog 3/4-5/5/6 683-51-28||DBN FFF novolog FFF 0 0||DRT FFF 3/4-5/5/6 FFF 1 1||
+273-01||4||Lantus 20-21 at hs Xuan, Wendy||DBN FFF lantus FFF 0 0||DOSE FFF 20-21 FFF 1 1||FREQ FFF hs FFF 3 3||
+273-01||5||Neoral 100/100 mg bid||DBN FFF neoral FFF 0 0||DOSE FFF 100/100 mg FFF 1 2||FREQ FFF bid FFF 3 3||
+273-01||6||CellCept 1000 mg bid||DBN FFF cellcept FFF 0 0||DOSE FFF 1000 mg FFF 1 2||FREQ FFF bid FFF 3 3||
+273-01||7||Lopressor 12.5 mg bid||DBN FFF lopressor FFF 0 0||DOSE FFF 12.5 mg FFF 1 2||FREQ FFF bid FFF 3 3||
+273-01||8||Lipitor 10 mg qd||DBN FFF lipitor FFF 0 0||DOSE FFF 10 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+273-01||9||Neurontin 600/600/1200 mg tid||DBN FFF neurontin FFF 0 0||DOSE FFF 600/600/1200 FFF 1 1||DOSE FFF 600/600/1200 mg FFF 1 2||FREQ FFF tid FFF 3 3||
+273-01||10||Tums 200 mg ii bid||DBN FFF tums FFF 0 0||DOSE FFF 200 mg FFF 1 2||FREQ FFF bid FFF 4 4||
+273-01||11||Prilosec 20 mg bid||DBN FFF prilosec FFF 0 0||DOSE FFF 20 mg FFF 1 2||FREQ FFF bid FFF 3 3||
+273-01||12||MVI i bid||DPN FFF mvi FFF 0 0||FREQ FFF bid FFF 2 2||
+273-01||13||ASA 325 mg qd||DIN FFF asa FFF 0 0||DOSE FFF 325 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+273-01||14||Quinine Sulfate 260 mg at hs||DIN FFF quinine sulfate FFF 0 1||DOSE FFF 260 mg FFF 2 3||FREQ FFF hs FFF 5 5||
+273-01||15||Bilberry to help with night vision - from acupuncturist
+273-01||16||Flax Seed Oil ii qd||DBN FFF flax seed oil FFF 0 2||FREQ FFF qd FFF 4 4||
+273-01||17||October 17, 2075
+273-01||18||Interim History:
+273-01||19||Comes to review her medical problems.
+273-01||20||Has been feeling well.
+273-01||21||Home Blood Tests:  Records downloaded from meter with little detail and somewhat scattered BS.||INDICATION FFF bs. FFF 13 13||
+273-01||22||B  57-448
+273-01||23||L 71-222
+273-01||24||S 101-254
+273-01||25||HS 163-399||FREQ FFF hs FFF 0 0||
+273-01||26||No food records.
+273-01||27||No severe hypoglycemia.||INDICATION FFF hypoglycemia. FFF 2 2||
+273-01||28||Has had a couple of nocturnal reactions.
+273-01||29||There are not enough data points to determine whether the Lantus dose is appropriate.||DBN FFF lantus FFF 10 10||
+273-01||30||Retinopathy: Saw Dr. Aragon over the spring.
+273-01||31||Has had extensive laser in the past, and had some last year OS after her surgery.||INDICATION FFF os FFF 12 12||INDICATION FFF surgery. FFF 15 15||
+273-01||32||Nephropathy: Her creatinine was stable at 1.3 in July||INDICATION FFF nephropathy: FFF 0 0||INDICATION FFF creatinine FFF 2 2||
+273-01||33||Neuropathy: Feet are not bothering her.||INDICATION FFF neuropathy: FFF 0 0||
+273-01||34||Sometimes has a peculiar diffuse tingling sensation precipitated by motion.
+273-01||35||Cardiac: No chest pain.||INDICATION FFF chest pain. FFF 2 3||
+273-01||36||No unusual dyspnea on exertion.||INDICATION FFF dyspnea FFF 2 2||
+273-01||37||Has been able to exercise in the gym twice a week, walking steadily at a pretty fast pace for an hour.||FREQ FFF twice a week, FFF 8 10||DRT FFF an hour. FFF 19 20||
+273-01||38||Vascular: No claudication
+273-01||39||Past Medical History:
+273-01||40||Medications: no significant changes
+273-01||41||Immunizations.
+273-01||42||Has not had flu shot yet this year.
+273-01||43||Had the second of hepatitis A series in L deltoid today.||DIN FFF hepatitis a FFF 4 5||
+273-01||44||Review of Systems: above
+273-01||45||Breast: Saw Dr.
+273-01||46||Bruce a few weeks ago.||INDICATION FFF bruce FFF 0 0||
+273-01||47||Ultrasound showed what is being interpreted as a stable slightly enlarge intramammary lymph node.||INDICATION FFF as FFF 6 6||
+273-01||48||She find the lower part of the sternotomy scar to be very uncomfortable in most bras and wants to consider whether it can be improved.
+273-01||49||Gyn: Overdue to see Yareli Kilgore; she will make the appointment.
+273-01||50||Skin: Has noted some crusting lesions on her scalp.
+273-01||51||Physical Exam:
+273-01||52||Looks well.
+273-01||53||In very good spirits.
+273-01||54||Jake is with her.
+273-01||55||BP:   134/80  P:   72 Seated||INDICATION FFF bp: FFF 0 0||
+273-01||56||BP:   116/76  P:   76 Standing||INDICATION FFF bp: FFF 0 0||
+273-01||57||Wt:   168 without shoes, stable
+273-01||58||HEENT: Anicteric.
+273-01||59||Carotids: Normal pulses, without bruits
+273-01||60||Chest: Clear to percussion and auscultation
+273-01||61||There is a small keloid at the inferior portion of the median sternotomy scar
+273-01||62||Heart: Normal S1; physiologic S2.
+273-01||63||No gallops.  2/6 systolic ejection murmur
+273-01||64||Abdomen: No hepatosplenomegaly.
+273-01||65||No masses.
+273-01||66||No tenderness.

@@ -1,0 +1,19 @@
+397-02	13	0	He was sent home on neurontin.	neurontin. FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+397-02	18	0	Recommended Unasyn and arterial LENI's.	unasyn FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+397-02	19	0	Localized wound care with silvadene.	silvadene. FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+397-02	30	438	neurontin 100 mg tid	neurontin FFF 0 0	100 mg FFF 1 2	 FFF 	tid FFF 3 3	 FFF 	 FFF 	narrative
+397-02	31	438	glyburide 5 mg qd	glyburide FFF 0 0	5 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+397-02	32	438	zestril 2.5 mg qd	zestril FFF 0 0	2.5 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+397-02	33	438	viagra	viagra FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+397-02	34	438	percocet	percocet FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+397-02	54	0	Plasma Sodium          138                       135-145        mmol/L	sodium FFF 1 1	138 FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+397-02	54	0	Plasma Sodium          138                       135-145        mmol/L	sodium FFF 1 1	135-145 mmol/l FFF 3 4	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+397-02	55	0	Plasma Potassium       4.8                       3.4-4.8        mmol/L	potassium FFF 1 1	4.8 FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+397-02	55	0	Plasma Potassium       4.8                       3.4-4.8        mmol/L	potassium FFF 1 1	3.4-4.8 mmol/l FFF 3 4	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+397-02	57	0	Plasma Carbon Dioxide  29.8                      23.0-31.9      mmol/L	carbon dioxide FFF 1 2	29.8 FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+397-02	57	0	Plasma Carbon Dioxide  29.8                      23.0-31.9      mmol/L	carbon dioxide FFF 1 2	23.0-31.9 mmol/l FFF 4 5	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+397-02	58	0	Plasma Urea Nitrogen   12                        8-25           mg/dl	nitrogen FFF 2 2	12 FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+397-02	58	0	Plasma Urea Nitrogen   12                        8-25           mg/dl	nitrogen FFF 2 2	8-25 mg/dl FFF 4 5	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+397-02	58	0	Plasma Urea Nitrogen   12                        8-25           mg/dl	urea FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+397-02	76	0	Wound care and unasyn as previous.	unasyn FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+397-02	77	0	Arterial leni's pending.  2. CV: Agree with starting ASA.	asa. FFF 8 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

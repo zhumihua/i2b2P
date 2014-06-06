@@ -1,0 +1,129 @@
+250-01	1	Record date: 2078-12-14	
+250-01	2		
+250-01	3		
+250-01	4		
+250-01	5		
+250-01	6		
+250-01	7		
+250-01	8		
+250-01	9		
+250-01	10		
+250-01	11	December 14, 2078	
+250-01	12		
+250-01	13		
+250-01	14		
+250-01	15	Xan Dillon, M.D.	
+250-01	16	88 Guilford Lane	
+250-01	17	Nouakchott,  GA  95269		INDICATION FFF ga#1
+250-01	18		
+250-01	19	RE:  Urania Yerger	
+250-01	20	MR #583-48-90-0	
+250-01	21		
+250-01	22	Dear Dr.	
+250-01	23	Dillon:	
+250-01	24	I had the pleasure of seeing Urania Yerger today for the first	
+250-01	25	time in Titonka Care Center in follow-up of her	
+250-01	26	coronary artery disease and coronary artery bypass grafting in		INDICATION FFF coronary artery disease#2
+250-01	27	October of this year.	
+250-01	28	Though you know her history well, I will recount it for the purposes of record keeping.	
+250-01	29	Ms. Yerger is presently 81 years old.		DRT FFF 81 years#5
+250-01	30	Her vascular risk factors include diabetes, hypertension, dyslipidemia.		INDICATION FFF risk#2	INDICATION FFF diabetes#5	INDICATION FFF hypertension#6
+250-01	31	She had no prior diagnosis of coronary disease until she presented in early October with flash pulmonary edema after which she ruled in for a small non-ST elevation myocardial infarction.		INDICATION FFF coronary disease#7	DRT FFF until#8	INDICATION FFF pulmonary edema#17	INDICATION FFF myocardial infarction .#29
+250-01	32	Coronary angiography at the	
+250-01	33	Titonka revealed complex diffuse disease of the proximal LAD,	
+250-01	34	thrombotic lesion of the proximal circumflex with subsequent	
+250-01	35	complete occlusion and a complex lesion of the first large marginal as well as a 70% osteal stenosis of a large PLV.		INDICATION FFF as#11	INDICATION FFF as#13	DOSE FFF 70%#15	INDICATION FFF stenosis#17
+250-01	36	Angiography also revealed a 90% left renal artery stenosis.		DOSE FFF 90%#4	INDICATION FFF stenosis#8
+250-01	37	The patient underwent subsequent successful stenting of her right renal artery followed by coronary artery bypass grafting by Dr.	
+250-01	38	Susan Abreu.  (SVG to ramus, OM2, RCA, and LIMA to LAD).	
+250-01	39	Ms. Yerger's postoperative course was notable for persistent pleural effusion and transient episode of atrial fibrillation.		INDICATION FFF pleural effusion#9	INDICATION FFF atrial fibrillation .#15
+250-01	40		
+250-01	41	Since her discharge, she has been slowly increasing her level of	
+250-01	42	activity experiencing mild dyspnea on exertion while on extending		INDICATION FFF dyspnea#3	DRT FFF while#6
+250-01	43	shopping trips.	
+250-01	44	Overall, these symptoms have continued to improve.		INDICATION FFF symptoms#2
+250-01	45	She denies orthopnea, PND, or shortness of breath at rest.		INDICATION FFF orthopnea#2	INDICATION FFF shortness of breath#7
+250-01	46	She has had persistent mild ankle edema on the site of her saphenous vein graft harvesting.		INDICATION FFF edema#6
+250-01	47	She denies palpitations, presyncope, TIA, CVA symptoms or claudication.		INDICATION FFF tia#4	INDICATION FFF cva#5	INDICATION FFF symptoms#6
+250-01	48		
+250-01	49	Detailed review of all other pertinent systems is negative.	
+250-01	50	Ms.	
+250-01	51	Yerger tells me that she has recently had an erythematous rash on		INDICATION FFF me#2
+250-01	52	her upper and lower extremities that you have been managing as a		INDICATION FFF as#10
+250-01	53	possible viral exanthem.	
+250-01	54	Yerger, Urania	
+250-01	55	MR #583-48-90-0               -2-            December 14, 2078	
+250-01	56		
+250-01	57	Past medical history is notable for chronic renal insufficiency		INDICATION FFF chronic renal insufficiency#8
+250-01	58	(baseline creatinine 2), vascular risk factors as delineated and		INDICATION FFF creatinine#1	INDICATION FFF risk#4	INDICATION FFF as#6
+250-01	59	prior right knee replacement.	
+250-01	60		
+250-01	61	Her current medications include enteric coated aspirin 325 mg po q.		DBN FFF enteric coated aspirin#6	DOSE FFF 325mg#8	RUT FFF po#9
+250-01	62	day, Lasix 40 mg po q. day, Glipizide 10 mg po q. day, Lisinopril		DBN FFF lasix#1	DOSE FFF 40mg#3	RUT FFF po#4	FREQ FFF q . day#6	DIN FFF glipizide#7	DOSE FFF 10mg#9	RUT FFF po#10	FREQ FFF q . day#12	DIN FFF lisinopril#13
+250-01	63	5 mg po q. day, Lopressor 25 mg po t.i.d., atorvastatin 10 mg po q.		DOSE FFF 5mg#1	RUT FFF po#2	FREQ FFF q . day#4	DBN FFF lopressor#5	DOSE FFF 25mg#7	RUT FFF po#8	FREQ FFF t.i.d#9	DIN FFF atorvastatin#10	DOSE FFF 10mg#12	RUT FFF po#13
+250-01	64	day, Avandia, multivitamins, Protonix and Nystatin cream.		DBN FFF avandia#1	DIN FFF multivitamins#2	DBN FFF protonix#3	DIN FFF nystatin#5
+250-01	65		
+250-01	66	Social History:  The patient lives alone but has many family	
+250-01	67	members in the area.	
+250-01	68	She is currently staying with her daughter.	
+250-01	69	At baseline, she has been able to ambulate slowly with a cane but	
+250-01	70	is limited by chronic knee pain.		INDICATION FFF pain .#5
+250-01	71	She denies alcohol or tobacco use.	
+250-01	72	Her father died of a myocardial infarction at age 60.		INDICATION FFF myocardial infarction#6
+250-01	73	On physical exam, Ms. Yerger looks extremely well today.  She is	
+250-01	74	comfortable seated on the exam table.	
+250-01	75	Her skin is warm and dry.	
+250-01	76	She has a diffuse erythematous macular papular rash predominantly	
+250-01	77	on her extremities.	
+250-01	78	Her blood pressure is 140/80, her heart rate is in the 70's.		INDICATION FFF her blood pressure#2	INDICATION FFF her heart rate#7
+250-01	79	She has no jugular venous distention.	
+250-01	80	Her carotids are 2+ without bruits.	
+250-01	81	Her chest reveals decreased breath sounds at the left base.	
+250-01	82	There are no crackles or wheezes.		INDICATION FFF wheezes#5
+250-01	83	Cardiac exam reveals a nondisplaced PMI with regular rate and	
+250-01	84	rhythm, S1, S2 and S4 is present and P2 is slightly increased.	
+250-01	85	There was a grade II/VI holosystolic murmur radiating toward the	
+250-01	86	apex.  Her abdomen is soft and nontender.	
+250-01	87	Her extremities are free of cyanosis or clubbing.		INDICATION FFF cyanosis#5
+250-01	88	Distal pulses are 1+.	
+250-01	89	She has mild edema of the left lower extremity.		INDICATION FFF edema#3
+250-01	90	Her ECG reveals sinus rhythm 79 beats per minute, normal axis and		DIN FFF ecg#1	FREQ FFF per minute#8
+250-01	91	intervals, persistent deep anterior T wave inversions.		INDICATION FFF t#4
+250-01	92		
+250-01	93	Overall, Ms. Yerger continues on a steady course of recovery after her non-ST elevation MI and coronary artery bypass grafting in mid		INDICATION FFF mi#14
+250-01	94	October.	
+250-01	95	Her persistent dyspnea on exertion may be related to persistent pleural effusion.		INDICATION FFF dyspnea#2	INDICATION FFF pleural effusion#11
+250-01	96	We will reevaluate today with a repeat chest x-ray.	
+250-01	97	In the meantime, I think that we should continue her oral diuretic regimen.		RUT FFF oral#10	DBN FFF diuretic regimen#12
+250-01	98	It is possible that her persistent rash is related to her Lasix.		DBN FFF lasix#11
+250-01	99	Although not certain to be successful, we have made a change to Bumex 1 mg po q. day today in the hopes that if Lasix is responsible for her rash this may resolve.  I have made no other changes to her medical regimen.  We will continue aspirin, beta blockade, ACE inhibition and statin for secondary prevention.  I look forward to seeing her again in approximately eight to twelve weeks.  In addition, she will follow- up with Dr. Abreu for possible thoracentesis if she has a persistent pleural effusion that may be contributing to her symptoms.		INDICATION FFF change#10	DBN FFF bumex#12	DOSE FFF 1mg#14	RUT FFF po#15	FREQ FFF q . day#17	DBN FFF lasix#24	DBN FFF medical regimen#42	DIN FFF aspirin#46	DIN FFF beta blockade#48	DIN FFF ace#49	DIN FFF statin#52	INDICATION FFF prevention#55	DRT FFF twelve weeks#68	INDICATION FFF pleural effusion#87	INDICATION FFF symptoms#94
+250-01	100		
+250-01	101	Yerger, Urania	
+250-01	102	MR #583-48-90-0               -3-            December 14, 2078	
+250-01	103		
+250-01	104	It is a pleasure being involved in Ms. Yerger's care.  Please do	
+250-01	105	not hesitate to contact me with any questions.		INDICATION FFF me#4
+250-01	106		
+250-01	107	Sincerely yours,	
+250-01	108		
+250-01	109		
+250-01	110		
+250-01	111	Vaughn A. Xander, M.D.	
+250-01	112		
+250-01	113	DD: 12/14/78		INDICATION FFF dd#0
+250-01	114	DT: 12/20/8		INDICATION FFF dt#0
+250-01	115	DV: 12/14/78	
+250-01	116		
+250-01	117	/voigt	
+250-01	118		
+250-01	119		
+250-01	120		
+250-01	121	******** Not reviewed by Attending Physician ********	
+250-01	122		
+250-01	123		
+250-01	124		
+250-01	125		
+250-01	126		
+250-01	127		
+250-01	128		
+250-01	129		

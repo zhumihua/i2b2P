@@ -1,0 +1,14 @@
+281-01	5	0	He has limited his activities to prevent symptoms.	prevent FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+281-01	12	0	He will stay overnight and receive Abx. prophylaxis. He is pain free currently.	abx. FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+281-01	26	0	Atenolol 100 qd	atenolol FFF 0 0	100 FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+281-01	27	0	Lipitor 5 qd	lipitor FFF 0 0	5 FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+281-01	28	0	Avandia 4 qd	avandia FFF 0 0	4 FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+281-01	29	0	Lisinopril 40 qd	lisinopril FFF 0 0	40 FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+281-01	30	0	Omeprazole 20 qd	omeprazole FFF 0 0	20 FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+281-01	31	0	Metformin 500 qid	metformin FFF 0 0	500 FFF 1 1	 FFF 	qid FFF 2 2	 FFF 	 FFF 	narrative
+281-01	32	0	Imdur 60 qd	imdur FFF 0 0	60 FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+281-01	33	0	Vit E, C, B12	vit e, FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+281-01	33	0	Vit E, C, B12	b12 FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+281-01	34	0	ASA 325 x 2 weeks	asa FFF 0 0	325 FFF 1 1	 FFF 	 FFF 	x 2 weeks FFF 2 4	 FFF 	narrative
+281-01	46	0	ETOH: one drink weekly          Caffeine:  1 cup qd	caffeine: FFF 4 4	 FFF 	 FFF 	weekly FFF 3 3	 FFF 	 FFF 	narrative
+281-01	63	0	Cor/Cardiac	cor/cardiac FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

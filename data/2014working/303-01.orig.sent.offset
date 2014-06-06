@@ -1,0 +1,11 @@
+303-01	9	0	Prior surgery includes:  '10 lap chole; '86 TAH/BSO; '63 and '64 C/S; GA w/o problems	tah/bso; FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+303-01	19	438	Medications: NPH Insulin, 20u QAM, 12u QPM; Atenolol, and other antihypertensive; Zantac	nph insulin, FFF 1 2	20u FFF 3 3	 FFF 	QAM, 12u QPM; FFF 4 6	 FFF 	 FFF 	narrative
+303-01	19	438	Medications: NPH Insulin, 20u QAM, 12u QPM; Atenolol, and other antihypertensive; Zantac	atenolol, FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+303-01	19	438	Medications: NPH Insulin, 20u QAM, 12u QPM; Atenolol, and other antihypertensive; Zantac	zantac FFF 11 11	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+303-01	47	0	ASA Physical Status:  III	asa FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+303-01	48	0	Well prepared for surgery; Pt to take half of NPH dose in am and have IV started early upon arrival to SDP and drink clear lq juice if she is feeling as if her BS is low; Daughter to accompany pt. for translation purposes	nph FFF 9 9	 FFF 	iv FFF 15 15	am FFF 12 12	 FFF 	 FFF 	narrative
+303-01	50	0	Proposed Anesthetic: GETA with RSI	anesthetic: FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+303-01	57	438	Diabetic medications:  1/2 of NPH in AM	diabetic medications: FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+303-01	57	438	Diabetic medications:  1/2 of NPH in AM	nph FFF 4 4	 FFF 	 FFF 	am FFF 6 6	 FFF 	 FFF 	narrative
+303-01	58	0	NSAIDS:  avoid for 3 days before surgery	nsaids: FFF 0 0	 FFF 	 FFF 	 FFF 	for 3 days FFF 2 4	 FFF 	narrative
+303-01	59	0	Aspirin:  avoid for 7 days before surgery	aspirin: FFF 0 0	 FFF 	 FFF 	 FFF 	for 7 days FFF 2 4	 FFF 	narrative

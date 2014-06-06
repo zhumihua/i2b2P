@@ -1,0 +1,107 @@
+299-04	1	Record date: 2064-07-17		 
+299-04	2	Name:  Xochilt Vuong		 
+299-04	3	MRN:  6398353		 
+299-04	4	REASON FOR VISIT:  Xochilt Vuong is a 74-year-old patient of Dr.		 
+299-04	5	Wanda Yeomans, and is sent because of rising serum creatinine.		 
+299-04	6	HISTORY OF PRESENT ILLNESS:  Ms. Vuong has a history of diabetes mellitus  going back more than 10 years.  She also has had hypertension and elevated lipids  over approximately the same period of time.  She has a complicated history  including lung cancer and colon cancer, both treated and in remission.  Her  creatinine has been rising gradually over recent years with a value of 1.0 in 2062,		 
+299-04	7	1.2 in May 2063, 2.1 and 1.8 in early 2064 with 2.3 in May 2064, and recently 3.1  obtained on July 06, 2064.		 
+299-04	8	She has been quite anemic in the recent months with a hematocrit level of 24.9.		 
+299-04	9	Her serum folate, B12, and iron and are not particularly low, and MCV is normal  at 81.		DIN FFF folate#2
+299-04	9	Her serum folate, B12, and iron and are not particularly low, and MCV is normal  at 81.		DPN FFF b12#3
+299-04	9	Her serum folate, B12, and iron and are not particularly low, and MCV is normal  at 81.		DIN FFF iron#5
+299-04	10	Urinalysis showed 3+ albumin in September 2062 and persisting  proteinuria since that time.		DIN FFF albumin#3
+299-04	11	Dr. Yeomans obtained an ultrasound examination in		 
+299-04	12	March, which showed diffusely thinned renal cortices, but no evidence of  obstruction, stones, or masses.		 
+299-04	13	She has visited an ophthalmologist regularly for macular degeneration.		 
+299-04	14	She does  not know whether signs of diabetes are present, but she has had no laser treatment  for any proliferative retinopathy.		 
+299-04	15	Recently, she has been feeling unusually fatigued with diminished appetite and  almost constant nausea.		 
+299-04	16	She vomits rarely.		 
+299-04	17	Her weight has fallen by about 20  pounds.		 
+299-04	18	She is slightly constipated.		 
+299-04	19	She is moderately dyspneic on exertion.		 
+299-04	20	She  is not troubled by muscle cramps or by unusual itching of her skin.		 
+299-04	21	Her medications continue as listed with ACE inhibitors, "statins," and a rather  large dose of Lasix at 80 mg twice a day.		DIN FFF ace inhibitors#7
+299-04	21	Her medications continue as listed with ACE inhibitors, "statins," and a rather  large dose of Lasix at 80 mg twice a day.		DIN FFF statins#8
+299-04	21	Her medications continue as listed with ACE inhibitors, "statins," and a rather  large dose of Lasix at 80 mg twice a day.		DBN FFF lasix#15	DOSE FFF 80mg#18	FREQ FFF twice a day#21
+299-04	22	Medications		 
+299-04	23	Paxil 20.0 MG PO 1 TAB QD		DBN FFF paxil#0	DOSE FFF 20.0mg#2	RUT FFF po#3	DOSEAMT FFF 1 tab#5	FREQ FFF qd#6
+299-04	24	Synthroid 0.05 MG PO 1 TAB QD		DBN FFF synthroid#0	DOSE FFF 0.05mg#2	RUT FFF po#3	DOSEAMT FFF 1 tab#5	FREQ FFF qd#6
+299-04	25	Multivitamins 1 TAB QD		DIN FFF multivitamins#0	DOSEAMT FFF 1 tab#2	FREQ FFF qd#3
+299-04	26	One Touch Test Strips : As directed.		DBN FFF one touch#1	INDICATION FFF as#5
+299-04	27	LORAZEPAM 0.5 MG PO 1 TAB QD		DIN FFF lorazepam#0	DOSE FFF 0.5mg#2	RUT FFF po#3	DOSEAMT FFF 1 tab#5	FREQ FFF qd#6
+299-04	28	Accupril (QUINAPRIL) 10 MG PO 1 TAB QD		DBN FFF accupril#0
+299-04	29	Calcium Gluconate 500MG, 2 Tablet(s) PO BID		DIN FFF calcium gluconate#1	DOSE FFF 500mg#2	DOSEAMT FFF 2 tablet#4	RUT FFF po#5	FREQ FFF bid#6
+299-04	30	Serevent (SALMETEROL) 2 PUFFS NAS BID		DBN FFF serevent#0	MDBN FFF salmeterol#1	DOSEAMT FFF 2 puffs#3	FREQ FFF bid#5
+299-04	31	Atrovent Inhaler (IPRATROPIUM Inhaler) 2 PUFFS NAS BID		DBN FFF atrovent#0	DDF FFF inhaler#1	MDBN FFF ipratropium#3	DOSEAMT FFF 2 puffs#5	FREQ FFF bid#7
+299-04	32	Ecasa (ASPIRIN Enteric Coated) 81MG, 1 Tablet(s) PO 1 TAQD		DPN FFF ecasa#0	MDBN FFF aspirin enteric coated#3	DOSE FFF 81mg#4	DOSEAMT FFF 1 tablet#6	RUT FFF po#7
+299-04	33	Lasix (FUROSEMIDE) 80MG, 2 Tablet(s) PO BID		DBN FFF lasix#0	MDBN FFF furosemide#1	DOSE FFF 80mg#2	DOSEAMT FFF 2 tablet#4	RUT FFF po#5	FREQ FFF bid#6
+299-04	34	Lopressor (METOPROLOL Tartrate) 50MG, 0.5 Tablet(s) PO BID		DBN FFF lopressor#0	MDBN FFF metoprolol tartrate#2	DOSE FFF 50mg#3	DOSEAMT FFF 0.5 tablet#5	RUT FFF po#6	FREQ FFF bid#7
+299-04	35	Fe Gluconate (FERROUS Gluconate) 325MG, 1 Tablet(s) PO TID		DIN FFF fe#0
+299-04	35	Fe Gluconate (FERROUS Gluconate) 325MG, 1 Tablet(s) PO TID		DIN FFF gluconate#1	MDBN FFF ferrous gluconate#3	DOSE FFF 325mg#4	DOSEAMT FFF 1 tablet#6	RUT FFF po#7	FREQ FFF tid#8
+299-04	36	Glucophage (METFORMIN) 500MG, 2 Tablet(s) PO : 2 tabs po qam, 2 tabs po qpm.		DBN FFF glucophage#0
+299-04	37	Caltrate 600 1 TAB PO BID		DBN FFF caltrate#0	DOSE FFF 600#1	DOSEAMT FFF 1 tab#3	RUT FFF po#4	FREQ FFF bid#5
+299-04	38	Avandia (ROSIGLITAZONE) 4MG, 1 Tablet(s) PO BID		DBN FFF avandia#0	MDBN FFF rosiglitazone#1	DOSE FFF 4mg#2	DOSEAMT FFF 1 tablet#4	RUT FFF po#5	FREQ FFF bid#6
+299-04	39	Ocuvite (MULTIVITAMINS) 1 TAB PO QD		DBN FFF ocuvite#0	MDBN FFF multivitamins#1	DOSEAMT FFF 1 tab#3	RUT FFF po#4	FREQ FFF qd#5
+299-04	40	Fosamax (ALENDRONATE) 70MG, 1 Tablet(s) PO QWEEK		DBN FFF fosamax#0	MDBN FFF alendronate#1	DOSE FFF 70mg#2	DOSEAMT FFF 1 tablet#4	RUT FFF po#5	FREQ FFF qweek#6
+299-04	41	Prilosec (OMEPRAZOLE) 20MG, 1 Capsule(s) PO BID		DBN FFF prilosec#0	MDBN FFF omeprazole#1	DOSE FFF 20mg#2	DOSEAMT FFF 1 capsule#4	RUT FFF po#5	FREQ FFF bid#6
+299-04	42	Lipitor 40 MG PO 1 TAB QD		DBN FFF lipitor#0	DOSE FFF 40mg#2	RUT FFF po#3	DOSEAMT FFF 1 tab#5	FREQ FFF qd#6
+299-04	43	PHYSICAL EXAMINATION:  On examination today, she looks tired but		 
+299-04	44	reasonably comfortable.		 
+299-04	45	She speaks in a high-pitched somewhat hoarse voice,  which has persisted since one of her surgical procedures.		 
+299-04	46	Her blood pressure in  the right arm, sitting, is 148/60 with regular pulse 72.		 
+299-04	47	Her chest has a few basal  crackles but in general is clear and air moves comfortably.		 
+299-04	48	JVP fills below the  sternal angle heart shows a grade 2 systolic murmur, loudest at the upper left  sternal border.		 
+299-04	49	Abdomen is soft and nontender.		 
+299-04	50	There is no renal tenderness.		 
+299-04	51	Extremities have no edema.		 
+299-04	52	IMPRESSION:  Progressive renal failure in a 74-year-old woman with more than  10 years' history of diabetes as well has hypertension and hyperlipidemia.		 
+299-04	53	The  proteinuria, if confirmed, would support the diagnosis of diabetic nephropathy but  this would be unusual in the absence of retinopathy.		 
+299-04	54	It would be useful to know  from her ophthalmologist whether retinopathy is present.		 
+299-04	55	It is, of course, also  possible that she has vascular disease involving the kidneys.		 
+299-04	56	Their symmetry and  the presence of proteinuria would argue against this possibility.		 
+299-04	57	The ACE  inhibitor in the presence of vascular disease might of course raise her serum  creatinine by reducing renal blood flow somewhat.		DIN FFF ace inhibitor#2	INDICATION FFF creatinine#15
+299-04	58	Her loss of appetite and  nausea may well be related to the degree of renal failure.		 
+299-04	59	RECOMMENDATION:  I would suggest that she see Filomena Xia, RD, a renal  dietitian, to learn a diet appropriate for renal failure as well as for her diabetes and  hyperlipidemia.		 
+299-04	60	This might succeed in reducing some of her nausea.		 
+299-04	61	It think it  would be worthwhile as an experiment to reduce or discontinue her Accupril and  perhaps  her Lasix temporarily to see whether serum creatinine falls with  less ACE inhibition and somewhat more fluid volume.		DBN FFF accupril#14
+299-04	61	It think it  would be worthwhile as an experiment to reduce or discontinue her Accupril and  perhaps  her Lasix temporarily to see whether serum creatinine falls with  less ACE inhibition and somewhat more fluid volume.		DBN FFF lasix#18	DRT FFF temporarily#19	INDICATION FFF creatinine#24
+299-04	61	It think it  would be worthwhile as an experiment to reduce or discontinue her Accupril and  perhaps  her Lasix temporarily to see whether serum creatinine falls with  less ACE inhibition and somewhat more fluid volume.		DIN FFF ace#28
+299-04	62	If, of course, shortness of  breath worsens or edema appears, then returning to the Lasix would be  reasonable.		DBN FFF lasix#14
+299-04	63	It might be that a longer acting, milder diuretic, such as 5 mg of  metolazone might help to control edema (and potassium) and reduce the  requirement for Lasix.		DIN FFF diuretic#8	INDICATION FFF as#10	DOSE FFF 5mg#12
+299-04	63	It might be that a longer acting, milder diuretic, such as 5 mg of  metolazone might help to control edema (and potassium) and reduce the  requirement for Lasix.		DIN FFF metolazone#14	INDICATION FFF edema#19
+299-04	63	It might be that a longer acting, milder diuretic, such as 5 mg of  metolazone might help to control edema (and potassium) and reduce the  requirement for Lasix.		DIN FFF potassium#21
+299-04	63	It might be that a longer acting, milder diuretic, such as 5 mg of  metolazone might help to control edema (and potassium) and reduce the  requirement for Lasix.		DBN FFF lasix#27
+299-04	64	If serum creatinine fell appreciably with less ACE and  diuresis, it would reassure us that the damage was not all structural, and it might  be then possible to return to these medicines with less worry.		DIN FFF ace#7	INDICATION FFF diuresis#9
+299-04	64	If serum creatinine fell appreciably with less ACE and  diuresis, it would reassure us that the damage was not all structural, and it might  be then possible to return to these medicines with less worry.		DIN FFF medicines#31
+299-04	65	Her anemia is no doubt related to lack of erythropoietin and would likely benefit  from instituting therapy with Epogen (such as 4000 units twice a week) or		DIN FFF erythropoietin#9
+299-04	65	Her anemia is no doubt related to lack of erythropoietin and would likely benefit  from instituting therapy with Epogen (such as 4000 units twice a week) or		DBN FFF epogen#18	INDICATION FFF as#20	DOSEAMT FFF 4000 units#22	FREQ FFF twice a week#25
+299-04	66	Aranesp).		DBN FFF aranesp#0
+299-04	67	PLAN:  We will send a urine today for total protein to creatinine ratio, which may  help us decide whether the problem is mainly diabetic nephropathy.		 
+299-04	68	If so, the  measures proposed would be appropriate.		 
+299-04	69	We discussed the eventual probable  need for dialysis (assuming no other intercurrent medical catastrophes).		 
+299-04	70	It would  be useful for her to visit the DCGH Renal Department (located here on our  floor at 592G, along with Ms. Xia's office) to learn about modes of dialysis.		 
+299-04	71	We discussed construction of a forearm fistula, which should be done well before  a need for it arises.  I would, in fact, recommend that she proceed to have this  done in the next few months.		 
+299-04	72	This could be arranged through Dr.		 
+299-04	73	Xaysana's office  or perhaps by speaking with Dr.		 
+299-04	74	Najee Yuan.  I will, of course, help with any of  these measures as necessary.		 
+299-04	75	Xander Xie, M.D.		 
+299-04	76	Wanda		 
+299-04	77	Urine total protein/creatinine ratio is only 0.11 (corresponding to about 0.1 g/day or proteinuria).		 
+299-04	78	This is a very small amount for diabetic nephropathy, and argues in favor of vascular disease.  I would suggest getting a MRA of renal arteries to look for any main artery obstruction.		INDICATION FFF diabetic nephropathy#8	DIN FFF favor#12
+299-04	79	If present it would account for the sensitivity of her creatinine to ACE or changes in hydration.		INDICATION FFF creatinine#10	DIN FFF ace#12
+299-04	80	Kyle		 
+299-04	81			 
+299-04	82			 
+299-04	83			 
+299-04	84			 
+299-04	85			 
+299-04	86			 
+299-04	87			 
+299-04	88			 
+299-04	89			 
+299-04	90			 
+299-04	91			 
+299-04	92			 
+299-04	93			 
+299-04	94			 
+299-04	95			 

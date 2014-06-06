@@ -1,0 +1,163 @@
+356-03	1	Record date: 2152-11-27		 
+356-03	2	**The source of this note is the BMC Emergency Dept.		 
+356-03	3	Information System.		 
+356-03	4	All updates should originate in EDIS.**		 
+356-03	5	Baycoast Medical CenterEmergency Department Record - Observation Unit		 
+356-03	6	ED Obs Note		 
+356-03	7	EDIS Note Status: Signed		 
+356-03	8	Patient: Ishida, Nathan &nbsp       &nbsp		 
+356-03	9	MRN: 8792076		 
+356-03	10	DOB:  1/24/2076		DIN FFF dob#0
+356-03	11	Sex: M		 
+356-03	12	Registration Date/Time: 11/27/2152 00:30		 
+356-03	13	ED OBS Note		 
+356-03	14	Obs Admission Note		 
+356-03	15	ED Dismissal Date Time:       11/27/2152 13:06:00		 
+356-03	16	This note has been electronically signed by Simon, Willie, NP 11/27/2152 05:13:00		 
+356-03	17	Clinical staff documenting in the ED note include:		 
+356-03	18	Nurse Practitioner:  Simon, Willie, NP [sw408]		 
+356-03	19	Date/Time of Encounter:11/27/52  1240am [sw408]		 
+356-03	20	Chief Complaint:CP [sw408]		 
+356-03	21	HPI:76 yo male s/p TKR 1 mon ago, presents to the &quot;ED with co dizzy and cp.		 
+356-03	22	Described the dizzy as &quot;room spinning&quot;.  + assoc with nausea the developed subsequent sob, weakness.		 
+356-03	23	No LOC per pt.		 
+356-03	24	He arrived to the ED asymptomatic [sw408]		 
+356-03	25	PMHx/PSHx:NIDDM, HTN, hypercholesterolemia, chronic R hip and R knee pain, arthritis, prostate enlargement, sleep apnea, GERD, hard of hearing.		 
+356-03	26	[sw408]		 
+356-03	27	Meds:              Avodart   0.5 mg daily		DBN FFF avodart#1	DOSE FFF 0.5mg#3	FREQ FFF daily#4
+356-03	28	Enablex ER  7.5 mg daily		DBN FFF enablex#0	DOSE FFF 7.5mg#3	FREQ FFF daily#4
+356-03	29	Metformin 500 mg bid		DIN FFF metformin#0	DOSE FFF 500mg#2	FREQ FFF bid#3
+356-03	30	Omeprazole 20 bid		DIN FFF omeprazole#0	DOSE FFF 20#1	FREQ FFF bid#2
+356-03	31	Atenolol 50 mg daily		DIN FFF atenolol#0	DOSE FFF 50mg#2	FREQ FFF daily#3
+356-03	32	Lisinopril 40 mg    1 &#189; tabs daily		DIN FFF lisinopril#0	DOSE FFF 40mg#2	DISA FFF #189#4	FREQ FFF daily#6
+356-03	33	Simvastatin 40 mg   &#189; tab daily		DIN FFF simvastatin#0	DOSE FFF 40mg#2	DISA FFF #189#3	DDF FFF tab#4	FREQ FFF daily#5
+356-03	34	Furosemide 40 mg daily		DIN FFF furosemide#0	DOSE FFF 40mg#2	FREQ FFF daily#3
+356-03	35	Diovan 320 mg daily		DBN FFF diovan#0	DOSE FFF 320mg#2	FREQ FFF daily#3
+356-03	36	Aleve 220 bid		DBN FFF aleve#0	DOSE FFF 220#1	FREQ FFF bid#2
+356-03	37	ASA 81 mg daily		DIN FFF asa#0	DOSE FFF 81mg#2	FREQ FFF daily#3
+356-03	38	Colace daily		DBN FFF colace#0	FREQ FFF daily#1
+356-03	39	Enulose 4 tablespoons qod		DBN FFF enulose#0	DOSE FFF 4#1	FREQ FFF qod#3
+356-03	40	Dovonex cream prn		DBN FFF dovonex#0	DDF FFF cream#1	NEC FFF prn#2
+356-03	41	[sw408]		 
+356-03	42	Allergy:No known drug allergies.		 
+356-03	43	NKA ( ) [sw408]		 
+356-03	44	Family Hx:Family History non-contributory. [sw408]		 
+356-03	45	Social Hx:Patient does not smoke.		 
+356-03	46	Patient does not use alcohol.		 
+356-03	47	Patient does not use drugs. [sw408]		DIN FFF drugs#4
+356-03	48	ROS:Chest/Respiratory: See HPI.		 
+356-03	49	Cardiovascular: See HPI.		 
+356-03	50	GI/Abdominal: See HPI. [sw408]		 
+356-03	51	ROS and PFSHx as noted above and in the ED record for this encounter.		 
+356-03	52	All other systems otherwise negative.		 
+356-03	53	Physical Exam:		 
+356-03	54	General:Vitals as per nursing notes.		 
+356-03	55	Patient is awake and alert.		 
+356-03	56	Patient is oriented x3.		 
+356-03	57	Patient is nontoxic appearing.		 
+356-03	58	Patient is a well developed, well nourished, male. [sw408]		 
+356-03	59	Neck:The neck is supple. [sw408]		 
+356-03	60	Chest/Respiratory:Breath sounds are decreased.		 
+356-03	61	The lungs are clear to auscultation bilaterally. [sw408]		 
+356-03	62	Cardiovascular:The heart sounds have a normal S1/S2.		 
+356-03	63	The heart is regular rate and rhythm. [sw408]		 
+356-03	64	GI/Abdomen:The abdomen is nontender and nondistended.		 
+356-03	65	Abdomen is soft.		 
+356-03	66	Bowel sounds are present. [sw408]		 
+356-03	67	Musculoskeletal:Surg site is clean/dry without evid of infection [sw408]		 
+356-03	68	Lab Results:		 
+356-03	69	Lab Results for:  ISHIDA, NATHAN F		 
+356-03	70	Test Name  BMC		 
+356-03	71	11/26/52		 
+356-03	72	18:35		 
+356-03	73	NA         142		DIN FFF na#0
+356-03	74	K          4.0		 
+356-03	75	CL         100		 
+356-03	76	CO2        31.2		 
+356-03	77	BUN        16		 
+356-03	78	CRE        1.41		 
+356-03	79	EGFR       52(T)		 
+356-03	80	GLU        100		DIN FFF glu#0
+356-03	81	ANION      11		 
+356-03	82	Lab Results for:  ISHIDA, NATHAN F		 
+356-03	83	Test Name  BMC        BMC		 
+356-03	84	11/26/52   11/26/52		 
+356-03	85	21:15      18:35		 
+356-03	86	CA                    9.5		 
+356-03	87	PHOS                  4.2		 
+356-03	88	MG                    1.6		 
+356-03	89	TBILI      0.6		 
+356-03	90	DBILI      0.1		 
+356-03	91	TP         6.0		 
+356-03	92	ALB        3.5		DIN FFF alb#0
+356-03	93	GLOB       2.5(L)		 
+356-03	94	AMY        43		 
+356-03	95	LIPS       32		 
+356-03	96	Lab Results for:  ISHIDA, NATHAN F		 
+356-03	97	Test Name  BMC		 
+356-03	98	11/26/52		 
+356-03	99	21:15		 
+356-03	100	ALT/SGPT   7(L)		 
+356-03	101	AST/SGOT   13		 
+356-03	102	ALKP       66		 
+356-03	103	TBILI      0.6		 
+356-03	104	DBILI      0.1		 
+356-03	105	Lab Results for:  ISHIDA, NATHAN F		 
+356-03	106	Test Name  BMC		 
+356-03	107	11/26/52		 
+356-03	108	18:36		 
+356-03	109	CK-MB      Negative		 
+356-03	110	TROP-I     Negative		 
+356-03	111	Lab Results for:  ISHIDA, NATHAN F		 
+356-03	112	Test Name  BMC		 
+356-03	113	11/26/52		 
+356-03	114	18:35		 
+356-03	115	WBC        4.2(L)		 
+356-03	116	RBC        3.57(L)		 
+356-03	117	HGB        10.6(L)		 
+356-03	118	HCT        31.3(L)		 
+356-03	119	MCV        88		 
+356-03	120	MCH        29.7		 
+356-03	121	MCHC       33.7		 
+356-03	122	PLT        185		 
+356-03	123	RDW        13.9		 
+356-03	124	DIFFR      Received		 
+356-03	125	METHOD     Auto		 
+356-03	126	%NEUT      59		 
+356-03	127	%LYMPH     30		 
+356-03	128	%MONO      8		 
+356-03	129	%EOS       3		 
+356-03	130	%BASO      0		 
+356-03	131	ANEUT      2.50		 
+356-03	132	ALYMP      1.23		 
+356-03	133	AMONS      0.32		 
+356-03	134	AEOSN      0.13		 
+356-03	135	ABASOP     0.01		 
+356-03	136	ANISO      None		 
+356-03	137	HYPO       None		 
+356-03	138	MACRO      None		 
+356-03	139	MICRO      None		 
+356-03	140	Lab Results for:  ISHIDA, NATHAN F		 
+356-03	141	Test Name  BMC        BMC		 
+356-03	142	11/26/52   11/26/52		 
+356-03	143	21:15      18:35		 
+356-03	144	PT                    14.1(H)		 
+356-03	145	PT-INR                1.3		 
+356-03	146	DDIMR-NG   2552(H)		 
+356-03	147	Confidential Material Please Handle Appropriately. [sw408]		 
+356-03	148	Radiology: IMPRESSION:		 
+356-03	149	Normal Chest.		 
+356-03	150	Hyperaerated lungs.		 
+356-03	151	Head CT PRELIMINARY PENDING ATTENDING REVIEW		 
+356-03	152			 
+356-03	153	1.		 
+356-03	154	Focal hypoattenuation in pons and right frontal operculum as      above, representing age indeterminate however likely chronic      infarcts.		 
+356-03	155	MRI however would be more sensitive for evaluation of      infarcts.		 
+356-03	156			 
+356-03	157	2  No evidence of intracranial hemorrhage. [sw408]		 
+356-03	158	Medical Decision Making/Plan:76 yo male with cp, sob s/p TKR - worrisome for PE.		 
+356-03	159	Has CRI therefore, VQ scan in lieu of CT		 
+356-03	160	Plan - Follow exams		 
+356-03	161	VQ scan in am [sw408]		 
+356-03	162	Obs Attending Note		 
+356-03	163	ED Dismissal Date Time:       11/27/2152 13:06:00		 

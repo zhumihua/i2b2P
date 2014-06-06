@@ -1,0 +1,75 @@
+225-03||1||Record date: 2094-12-16
+225-03||2||CARDIOLOGY
+225-03||4||OXFORD DELTA CLINIC
+225-03||6||Reason for visit:
+225-03||7||s/p Coronary angiogram with placement Cypher stent to LAD||INDICATION FFF cypher stent FFF 5 6||
+225-03||8||Interval History:
+225-03||9||The patient is a 70 yo male with a history of HTN, hyperlipidemia, DM, CAD and CABG September 2092 which was c/b premature graft failure of the SVG to LAD.||INDICATION FFF htn, FFF 11 11||INDICATION FFF hyperlipidemia, FFF 12 12||INDICATION FFF dm, FFF 13 13||INDICATION FFF cad FFF 14 14||
+225-03||10||Cardiac catheterization was performed in Jan 93 and underwent POBA of likely diffusely diseased, intramyocardial LAD, but never really improved.||INDICATION FFF cardiac catheterization FFF 0 1||
+225-03||11||He was admitted to ODC in May 94 and cath demonstrated severe native disease with a mid-LAD lesion which was treated with PTCA/ Taxus stent.||INDICATION FFF stent. FFF 24 24||
+225-03||12||He had symptomatic relief until about one month ago when he began to experience exertional discomfort and dyspnea which has now progressed to symptoms at rest despite an aggressive medical regimen.||INDICATION FFF symptomatic relief FFF 2 3||DRT FFF until FFF 4 4||DRT FFF one month FFF 6 7||INDICATION FFF dyspnea FFF 17 17||INDICATION FFF symptoms FFF 23 23||DBN FFF medical regimen. FFF 29 30||
+225-03||13||He presented today for cath which revealed a new stenosis distal to the prior LAD stent which was patent.||INDICATION FFF stenosis FFF 9 9||
+225-03||14||The lesion was stented with a 2.25 x 13 mm Cypher stent. he is now admitted to the Cardiology department for post procedure monitoring and arrived to cardio clinic pain free and hemodynamically stable.||INDICATION FFF mm FFF 9 9||INDICATION FFF cypher stent. FFF 10 11||INDICATION FFF pain FFF 29 29||
+225-03||15||Past medical history:
+225-03||16||DM||INDICATION FFF dm FFF 0 0||
+225-03||17||HTN||INDICATION FFF htn FFF 0 0||
+225-03||18||Hyperlipidemia||INDICATION FFF hyperlipidemia FFF 0 0||
+225-03||19||CAD -CABG x 3 September 2092 WMMC (LIMA to D2, SVG to RCA, SVG to LAD) s/p PCI prox LAD Jan 2093, s/p Taxus stent to LAD 5/94||INDICATION FFF cad FFF 0 0||FREQ FFF x 3 FFF 2 3||
+225-03||20||GERD s/p H pylori eradication several years ago||INDICATION FFF gerd FFF 0 0||
+225-03||21||Left rotator cuff injury s/p CABG
+225-03||22||Anxiety||INDICATION FFF anxiety FFF 0 0||
+225-03||23||hernia repair
+225-03||25||Changes to Allergies||INDICATION FFF allergies FFF 2 2||
+225-03||27||ACE Inhibitor - reaction: cough [reviewed]||DIN FFF ace inhibitor FFF 0 1||INDICATION FFF cough FFF 4 4||
+225-03||28||METFORMIN - reaction: GI Intolerance [reviewed]||DIN FFF metformin FFF 0 0||
+225-03||29||ROSUVASTATIN - reaction: myalgia [reviewed]||DIN FFF rosuvastatin FFF 0 0||
+225-03||30||SIMVASTATIN - reaction: myalgias [reviewed]||DIN FFF simvastatin FFF 0 0||
+225-03||31||VALSARTAN - reaction: fatigue [reviewed]||DIN FFF valsartan FFF 0 0||INDICATION FFF fatigue FFF 3 3||
+225-03||32||Social history:
+225-03||33||Lives with wife in Lagrange,KS.||INDICATION FFF lagrange,ks. FFF 4 4||
+225-03||34||Retired.
+225-03||35||Former heavy smoker-quit x 30 yrs.||DRT FFF 30 yrs. FFF 4 5||
+225-03||36||Rare ETOH.
+225-03||37||Review of systems:
+225-03||38||negative in detail other than mentioned in HPI
+225-03||39||Physical examination:
+225-03||41||-Pulse:
+225-03||42||-resp. rate:
+225-03||43||-height: 67  in.
+225-03||44||-weight: 175  lbs.||INDICATION FFF -weight: FFF 0 0||
+225-03||45||-General:   No acute distress.
+225-03||46||-Skin:   No rashes, anicteric.
+225-03||47||-Neck:   2+ carotid pulses with normal upstrokes, no bruits, JVP 5-6 cm||INDICATION FFF cm FFF 11 11||
+225-03||48||-Chest:   Clear to auscultation anteriorly
+225-03||49||-Cardiac:   Left ventricular impulse discrete and nondisplaced.
+225-03||50||Regular rate and rhythm, normal S1 and S2, with no S3 or S4.
+225-03||51||There were no murmurs, clicks or rubs. -Abdomen:   Normal bowel sounds, soft and nontender, with no hepatosplenomegaly or masses appreciated. -Extremities:   No cyanosis, clubbing or edema. 2+ femoral pulses without bruits. 2+ pedal pulses.||INDICATION FFF cyanosis, FFF 22 22||INDICATION FFF edema. FFF 25 25||
+225-03||52||-BP:||INDICATION FFF -bp: FFF 0 0||
+225-03||53||-temp:
+225-03||54||-Pain scale (0 to 10): 0||INDICATION FFF -pain FFF 0 0||
+225-03||55||EKG:
+225-03||56||SB @ 55, LAD, RBBB no acute changes
+225-03||57||Selected recent labs:
+225-03||58||11/29/94 WBC 6.7, Hct 45, Plts 287
+225-03||59||Na 144, K 4.5, Cl 106, BUN 17, Cr 1.2||DIN FFF na FFF 0 0||DOSE FFF 144, FFF 1 1||INDICATION FFF k FFF 2 2||INDICATION FFF cl FFF 4 4||
+225-03||61||Impression:
+225-03||62||70 yo male with CAD s/p CABG with early LAD graft failure s/p LAD stenting 5/94 now with recurrent symptoms found to have a new LAD stenosis that was Cypher stented today.||INDICATION FFF cad FFF 4 4||INDICATION FFF symptoms FFF 19 19||INDICATION FFF stenosis FFF 26 26||
+225-03||63||Assessment and plan:
+225-03||64||CV:Pain free and hemodynamically stable, HR and BP in good range continue current medical regimen and monitor||INDICATION FFF bp FFF 7 7||DBN FFF medical regimen FFF 13 14||
+225-03||65||DM:Diet controlled, monitor FSBS and cover as needed||NEC FFF as needed FFF 6 7||
+225-03||66||Further plans per Dr Paulson
+225-03||67||Medication List
+225-03||69||CONFIRMED
+225-03||70||- amlodipine besylate  10 MG PO daily||DIN FFF amlodipine besylate FFF 1 2||DOSE FFF 10 mg FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF daily FFF 6 6||
+225-03||71||- ASPIRIN ENTERIC COATED (ASA ENTERIC COATED )  325 MG PO daily||DBN FFF aspirin enteric coated FFF 1 3||DOSE FFF 325 mg FFF 8 9||RUT FFF po FFF 10 10||FREQ FFF daily FFF 11 11||
+225-03||72||- atorvastatin  40 MG PO QPM||DIN FFF atorvastatin FFF 1 1||DOSE FFF 40 mg FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF qpm FFF 5 5||
+225-03||73||- clopidogrel bisulfate  75 MG PO daily||DIN FFF clopidogrel bisulfate FFF 1 2||DOSE FFF 75 mg FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF daily FFF 6 6||
+225-03||74||- escitalopram  40 MG PO daily||DIN FFF escitalopram FFF 1 1||DOSE FFF 40 mg FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF daily FFF 5 5||
+225-03||75||- fenofibrate  200 MG PO daily||DIN FFF fenofibrate FFF 1 1||DOSE FFF 200 mg FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF daily FFF 5 5||
+225-03||76||- furosemide  20 MG PO daily||DIN FFF furosemide FFF 1 1||DOSE FFF 20 mg FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF daily FFF 5 5||
+225-03||77||- isosorbide mononitrate extended release  60 MG PO daily||DBN FFF isosorbide mononitrate extended release FFF 1 4||DOSE FFF 60 mg FFF 5 6||RUT FFF po FFF 7 7||FREQ FFF daily FFF 8 8||
+225-03||78||- KCL SLOW RELEASE TAB  10 MEQ PO daily||DIN FFF kcl FFF 1 1||DOSE FFF 10 meq FFF 5 6||RUT FFF po FFF 7 7||FREQ FFF daily FFF 8 8||
+225-03||79||- metoprolol tartrate  12.5 MG PO BID||DIN FFF metoprolol tartrate FFF 1 2||DOSE FFF 12.5 mg FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF bid FFF 6 6||
+225-03||80||- NITROGLYCERIN 1/200 (0.3 MG)  1 TAB SL Q 5 mins X 3 doses PRN||DIN FFF nitroglycerin FFF 1 1||DOSE FFF 1/200 FFF 2 2||DOSE FFF (0.3 mg) FFF 3 4||DOSEAMT FFF 1 tab FFF 5 6||RUT FFF sl FFF 7 7||DRT FFF x 3 doses prn FFF 11 14||
+225-03||81||- pantoprazole  40 MG PO daily||DIN FFF pantoprazole FFF 1 1||DOSE FFF 40 mg FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF daily FFF 5 5||
+225-03||82||- ranolazine  1000 MG PO daily||DIN FFF ranolazine FFF 1 1||DOSE FFF 1000 mg FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF daily FFF 5 5||

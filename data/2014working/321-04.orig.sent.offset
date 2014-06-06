@@ -1,0 +1,27 @@
+321-04	25	0	Patient was given vanc/cefepime, reglan for nausea.	reglan FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+321-04	28	0	Chills, anorexia lost 110#s attributed to diuretics for R heart failure.	diuretics FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+321-04	57	438	ASA 81 qd	asa FFF 0 0	81 FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+321-04	58	438	Reglan 10 qd	reglan FFF 0 0	10 FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+321-04	59	438	Amlodipine 10 qd	amlodipine FFF 0 0	10 FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+321-04	60	438	Lipitor 10 qhs	lipitor FFF 0 0	10 FFF 1 1	 FFF 	qhs FFF 2 2	 FFF 	 FFF 	narrative
+321-04	61	438	Atenolol 125 qd	atenolol FFF 0 0	125 FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+321-04	62	438	Lisinopril 40 qd	lisinopril FFF 0 0	40 FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+321-04	63	438	HCTZ 25 qd	hctz FFF 0 0	 FFF 	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+321-04	64	438	Folate 2 qd	folate FFF 0 0	 FFF 	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+321-04	65	438	Insulin 20N qam, 10R qam	insulin FFF 0 0	20n FFF 1 1	 FFF 	qam, 10R qam FFF 2 4	 FFF 	 FFF 	narrative
+321-04	67	438	Lasix 120mg prn for wt gain	lasix FFF 0 0	120mg FFF 1 1	 FFF 	prn FFF 2 2	 FFF 	 FFF 	narrative
+321-04	68	438	K prn w/ lasix	lasix FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+321-04	109	0	NA         136        133(L)	na FFF 0 0	136 FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+321-04	115	0	GLU                   278(H)	glu FFF 0 0	278(h) FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+321-04	120	0	ALB                                         3.2(L)	alb FFF 0 0	3.2(l) FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+321-04	135	0	FE                    PEND	fe FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+321-04	177	0	IGG        PEND	igg FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+321-04	188	0	Patient has consented to TMA for treatment of osteomyelitis.	tma FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+321-04	191	0	-zofran 8mg q6h prn	-zofran FFF 0 0	8mg FFF 1 1	 FFF 	q6h prn FFF 2 3	 FFF 	 FFF 	narrative
+321-04	193	0	No h/o MRSA.  F/u wound culture, if no MRSA, consider switch to nafcillin.	nafcillin. FFF 12 12	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+321-04	195	0	Art LENIS of R leg. -TMA after stress. EKG, CXR, coags, blood bank sample. R/o MI, adenosine MIBI for pre-op (NPO p MN, study has been called in)	-tma FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+321-04	195	0	Art LENIS of R leg. -TMA after stress. EKG, CXR, coags, blood bank sample. R/o MI, adenosine MIBI for pre-op (NPO p MN, study has been called in)	adenosine FFF 16 16	 FFF 	(npo FFF 20 20	 FFF 	 FFF 	 FFF 	narrative
+321-04	198	0	-home regimen for now: hold R and decrease N when NPO, start d5w 1/2NS + K at 125cc/h. regular insulin sliding scale	-home regimen FFF 0 1	 FFF 	npo, FFF 10 10	 FFF 	 FFF 	 FFF 	narrative
+321-04	198	0	-home regimen for now: hold R and decrease N when NPO, start d5w 1/2NS + K at 125cc/h. regular insulin sliding scale	d5w FFF 12 12	1/2ns FFF 13 13	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+321-04	198	0	-home regimen for now: hold R and decrease N when NPO, start d5w 1/2NS + K at 125cc/h. regular insulin sliding scale	at 125cc/h. FFF 16 17	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+321-04	198	0	-home regimen for now: hold R and decrease N when NPO, start d5w 1/2NS + K at 125cc/h. regular insulin sliding scale	regular insulin FFF 18 19	sliding scale FFF 20 21	 FFF 	 FFF 	 FFF 	 FFF 	narrative

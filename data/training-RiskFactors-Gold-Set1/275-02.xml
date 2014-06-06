@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2089-04-14
+
+ ID Sign off  Note
+
+Kong, Catherine
+MR# 6746781
+
+Original ID Consult: 4/6/89
+Sign off Date: 4/14/89
+
+ID issues : GBS AV endocarditis
+
+Brief History:  See initial ID consult note for greater detail.  Briefly, 70 yo F w HTN, DM2, stable angina who is transferred to NSH on 4/3/89 with aortic valve endocarditis complicated by AI and CHF.   She was in her USOH until ~2/8/89 when she had an episode of shingles on R arm for which she took Valtrex.  Soon after she began to feel fatigued and febrile and was found to have a 2/2 bottles positive for Group B streptococcus on 2/21 (PCN MIC 0.125) for which her PCP treated her with 2 week course of amoxicillin.  On 4/3 she presents with SOB, orthopnea, and PND.  she developed DOE, PND, orthopnea, worsening fatigue and malaise.  CXR at OSH notable for pulm edema and TTE demonstrated  vegetation on the aortic valve.   
+
+She was transferred to NSH where she was started on  ampicillin 1gm IV q8h and gentamicin 120 mg TID.  TTE 4/4 showed a mobile mass of echoes attached to the valve c/w vegetation.  The right coronary leaflet appears flail, and there was prolapse of the non-coronary cusp as well.  There was evidence of at least moderate aortic insufficiency by color and spectral Doppler.   She went to the OR on 4/5 CABG, TEE, Homograft aortic root placement oIn the OR the aortic valve was severely damaged. There was perforation of the right  coronary leaflet and  there were numerous vegetations, which appeared to be rolled up aortic valve tissue on predominantly the right and noncoronary leaflets. Underneath the annulus of the right coronary, there was an area of early abscess
+formation.   Gram stain of tissues was negative for organisms and cultures were negative.  Pathology was notable for Numerous degenerated bacterial coccal forms present on silver stain consistent with Streptococcus.  Occasional residual gram positive cocci present on Brown-Hopps stain.
+
+She was started on PCN 3 million units q4h and Gentamicin 60 mg q12h on 4/6 with plan to  complete 6 weeks of PCN, and 2 weeks of genatmicin.  
+
+Her hospital course was c/b by heart block for which she received a PPM on 4/12.
+
+Recommendations:  
+Gentamicin 60 mg IV q12h)  will end on 4/20
+Please check gent peak/trough early next week. ( goal peak 3-5, trough <1)
+PCN 3 million units q4h until 5/18
+ID f/u scheduled on 5/22 with me on Beckett 10 at 10:00am
+Weekly safety labs: Lfts, Chem 7 and CBC/diff.  Fax labs to # below Attn: Natashia Rosa
+
+Will sign off for now.  Please call with questions.
+
+
+______________________
+Natashia Rosa
+Infectious Disease Fellow  
+Office #  470-119-6124
+Fax #   664-577-0339    
+Pager # 27960
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC5" time="after DCT" indicator="mention"/>
+    <CAD id="DOC3" time="before DCT" indicator="symptom"/>
+    <FAMILY_HIST id="DOC6" indicator="not present"/>
+    <SMOKER id="DOC7" status="unknown"/>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC8" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

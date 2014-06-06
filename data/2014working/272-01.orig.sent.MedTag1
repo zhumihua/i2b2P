@@ -1,0 +1,35 @@
+272-01||1||Record date: 2093-01-13
+272-01||2||Uriah Oliver
+272-01||3||NYSH # 791-60-07
+272-01||4||Medications:
+272-01||5||Colace  100 mg bid||DBN FFF colace FFF 0 0||DOSE FFF 100 mg FFF 1 2||FREQ FFF bid FFF 3 3||
+272-01||6||Relafen  500 mg qd PRN||DBN FFF relafen FFF 0 0||DOSE FFF 500 mg FFF 1 2||FREQ FFF qd FFF 3 3||NEC FFF prn FFF 4 4||
+272-01||7||fosinopril  40 mg qd||DIN FFF fosinopril FFF 0 0||DOSE FFF 40 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+272-01||8||Glucophage 1000 mg bid||DBN FFF glucophage FFF 0 0||DOSE FFF 1000 mg FFF 1 2||FREQ FFF bid FFF 3 3||
+272-01||9||glyburide  10 mg bid||DIN FFF glyburide FFF 0 0||DOSE FFF 10 mg FFF 1 2||FREQ FFF bid FFF 3 3||
+272-01||10||metoprolol 50 mg bid||DIN FFF metoprolol FFF 0 0||DOSE FFF 50 mg FFF 1 2||FREQ FFF bid FFF 3 3||
+272-01||11||Ecotrin  325 mg qd||DBN FFF ecotrin FFF 0 0||DOSE FFF 325 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+272-01||12||hydrochlorothiazide    25 mg qd||DIN FFF hydrochlorothiazide FFF 0 0||DOSE FFF 25 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+272-01||13||Darvocet N. 100||DBN FFF darvocet FFF 0 0||
+272-01||14||Viagra  100 mg||DBN FFF viagra FFF 0 0||DOSE FFF 100 mg FFF 1 2||
+272-01||15||Coumadin  followed at ANRC||DBN FFF coumadin FFF 0 0||
+272-01||16||Patient is here for follow-up.
+272-01||17||1.  Basal cell carcinoma.||INDICATION FFF basal cell carcinoma. FFF 1 3||
+272-01||18||Status post recent excision. 2.  CAD.  Patient hospitalized at Atlantic North Rehabilitation in mid-December after apparently experiencing some chest pain and being found to have an abnormal EKG.||INDICATION FFF cad. FFF 5 5||INDICATION FFF chest pain FFF 18 19||
+272-01||19||He apparently had cardiac catheterization and an initial stent was placed, following this he had a stress test which showed some  continued changes and a second catheterization showed a second blocked vessel and a second stent was placed.||INDICATION FFF cardiac catheterization FFF 3 4||DIN FFF vessel FFF 31 31||
+272-01||20||Medical regimen was adjusted.  I do not have any further details of this hospitalization and the above details are based on patient history.||DBN FFF medical regimen FFF 0 1||
+272-01||21||He was started on Coumadin which she was told he would have to take for a limited period.||DBN FFF coumadin FFF 4 4||
+272-01||22||This is monitored from the ANRC. 3.  Diabetes.  Last HgbA1c was in October and was 7.7 which is a moderate improvement for him.  Reports compliance with his regimen.||INDICATION FFF diabetes. FFF 7 7||
+272-01||23||Physical Exam
+272-01||24||Patient is in no apparent distress.
+272-01||25||Weight: 180 pounds||INDICATION FFF weight: FFF 0 0||
+272-01||26||Blood Pressure: 130/68||INDICATION FFF blood pressure: FFF 0 1||
+272-01||27||Neck: supple without thyroidomegaly.
+272-01||28||Lungs: Clear.
+272-01||29||Cor. S1, S2 without gallops, rubs or murmurs.||DIN FFF cor. FFF 0 0||
+272-01||30||Abdomen: non-tender,without organomegaly.
+272-01||31||Extremities: without edema.||INDICATION FFF edema. FFF 2 2||
+272-01||32||Assessment and Plan
+272-01||33||1.  CAD.  Need more details of recent hospitalization.||INDICATION FFF cad. FFF 1 1||
+272-01||34||Will center Atlantic North Rehabilitation Center for recent medical record.
+272-01||35||For now he will continue on his current regimen.

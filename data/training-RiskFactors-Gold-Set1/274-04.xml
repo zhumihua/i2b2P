@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2079-09-14
+
+                     PINELLAS EMERGENCY DEPT VISIT
+
+ 
+
+ICKES,WILLIAM JR   810-71-62-8                   VISIT DATE: 09/14/79
+
+This patient was seen by myself and Dr. Caldwell on 9/14/79.  I 
+
+confirm that I interviewed and examined the patient, reviewed the 
+
+resident's documentation, and discussed the plan of care with the 
+
+patient.  
+
+PRESENTING COMPLAINT:  Chest pain.
+
+HISTORY OF PRESENTING COMPLAINT:  The patient is a 72 year old 
+
+gentleman who comes in with episode of chest pain described as 
+
+dull, substernal, 2-10.  He says that it comes and goes, but lasts 
+
+for 20 minutes at a time.  He states that it began this morning at 
+
+approximately 7 a.m.  There were no associated symptoms.  He states 
+
+that they are similar to his pain when he had a myocardial 
+
+infarction.  He denies any fevers, chills, or sweats.  He has had 
+
+some unchanged dyspnea on exertion.  He has no nausea, vomiting, or 
+
+diarrhea, he has had no palpitations, and he has had no lower 
+
+extremity edema.  He was referred by his primary care physician to 
+
+the emergency department.
+
+REVIEW OF SYSTEMS:  As noted on the HPI, otherwise negative.
+
+PAST MEDICAL HISTORY:  Hypertension, diabetes, coronary artery 
+
+disease, status post myocardial infarction with stents, and hernia 
+
+repairs.  
+
+MEDICATIONS:  Atenolol, Cozaar, insulin, aspirin, and Zocor.  
+
+ALLERGIES:  He has no known drug allergies.  
+
+SOCIAL HISTORY AND FAMILY HISTORY:  He is a past smoker and 
+
+occasional drinker.  He denies drug use.  He lives with his wife.  
+
+PHYSICAL EXAMINATION:  GENERAL:  He is in no acute distress and is 
+
+painfree.  VITAL SIGNS:  Temperature is 98, pulse 58, respiratory 
+
+rate 20, and blood pressure 138/83.  Oxygen saturation is 99%.  
+
+HEENT:  Unremarkable.  NECK:  Supple.  CHEST:  Clear to 
+
+auscultation.  HEART:  Regular rate and rhythm.  ABDOMEN:  Soft and 
+
+nontender.  EXTREMITIES:  Without edema.  He's got equal pulses.  
+
+NEUROLOGIC:  Grossly nonfocal.
+
+LABORATORY EVALUATION:  EKG shows sinus rhythm and nonspecific ST-T 
+
+wave changes without significant changes compared to 5/26/78.  His 
+
+CBC is normal.  SMA-7 is pending.  His INR is 1.0.  His urinalysis 
+
+is negative.  Chest x-ray shows no infiltrate, effusion, or 
+
+congestive heart failure.  
+
+THERAPY RENDERED/COURSE IN ED:  The patient got one Nitroglycerin 
+
+which took his pain away.  He also received aspirin and has 
+
+remained painfree.  
+
+FINAL DIAGNOSIS:  This is a patient with chest pain, history of 
+
+coronary artery disease, and question of acute coronary syndrome.
+
+DISPOSITION (including condition upon discharge):  He is currently 
+
+symptom-free and will be admitted in stable condition for further 
+
+evaluation and rule out for myocardial infarction.  
+
+___________________________________                    DY785/97413 
+
+JERICO WILLS, M.D.  JW97                             D:09/14/79 
+
+                                                       T:09/14/79 
+
+Dictated by:  JERICO WILLS, M.D.  JW97 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC7" time="during DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC12" time="after DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC14" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC19" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC22" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC23" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC24" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC26" time="during DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC27" time="before DCT" type1="ARB" type2=""/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC21" time="before DCT" indicator="mention"/>
+    <CAD id="DOC11" time="after DCT" indicator="mention"/>
+    <CAD id="DOC16" time="during DCT" indicator="mention"/>
+    <CAD id="DOC20" time="before DCT" indicator="event"/>
+    <CAD id="DOC25" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC15" indicator="not present"/>
+    <SMOKER id="DOC2" status="past"/>
+    <DIABETES id="DOC4" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC18" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

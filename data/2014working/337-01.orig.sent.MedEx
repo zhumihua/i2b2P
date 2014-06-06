@@ -1,0 +1,50 @@
+337-01	1	Record date: 2085-02-11		 
+337-01	2	NEUROLOGY  ADMIT NOTE		 
+337-01	3	Patient: Betty Gillis		 
+337-01	4	MRN: 78865189		 
+337-01	5	Time of admission: 7:00PM		 
+337-01	6	CC:  drooling		 
+337-01	7	HPI: 73 RHF with h/o HTN, HL, OA, prior cerebellar stroke, taking ASA 325mg QD, who p/w drooling and L hand clumsiness which began while the patient was typing a letter this morning.		DIN FFF asa#12	DOSE FFF 325mg#13	FREQ FFF qd#14	DRT FFF while#24	TOD FFF morning#32
+337-01	8	The patient reports that she woke up around noon after going to bed feeling just fine around midnight.		 
+337-01	9	She then called a friend and realized that her speech was slurred.		 
+337-01	10	She waited for her symptoms to improve, and when they did not resolve, she called a cab to take her to her CH medical office.		 
+337-01	11	While there, she noticed tremors of her hands b/l; she was given an additional ASA 325mg today.		DIN FFF asa#14	DOSE FFF 325mg#15
+337-01	12	She has never had similar symptoms in the past.		 
+337-01	13	She denies headache, vision changes, dizziness, or difficulty walking with this episode today.		 
+337-01	14	She feels otherwise well.		 
+337-01	15	She reports that she discovered her prior stroke when she noted she felt more dizzy and unsteady and obtained an MRI which showed an old cerebellar infarct.		 
+337-01	16	PMH: HTN, HL, Prior stroke-- likely cerebellar, OA, bilateral TKR, OA, GERD, h/o GIB required PRBC transfusions, psoriasis		 
+337-01	17	Meds:		 
+337-01	18	ASA 325 PO QD		DIN FFF asa#0	DOSE FFF 325#1	RUT FFF po#2	FREQ FFF qd#3
+337-01	19	HCTZ 12.5 QD		DPN FFF hctz#0	FREQ FFF qd#2
+337-01	20	Zocor 20 QD		DBN FFF zocor#0	DOSE FFF 20#1	FREQ FFF qd#2
+337-01	21	Prilosec		DBN FFF prilosec#0
+337-01	22	Doxepin for psoriasis		DIN FFF doxepin#0	INDICATION FFF psoriasis#2
+337-01	23	NKDA		 
+337-01	24	SH: denies tobacco, ETOH, illicips		 
+337-01	25	FH: NC		 
+337-01	26	ROS: . Negative for HA, change vision, n/v, vertigo, tiinitus, numbness, tingling, difficulty with speech, swallowing or gait		 
+337-01	27	Exam:		 
+337-01	28	GEN:.WDWN, NAD, sitting up in bed, pleasant		 
+337-01	29	RESP: Lungs CTA b/l`                     CV:		 
+337-01	30	ABD: soft NTND     EXT:no c/c/e, excoriated scaly patches along dorsum of hands b/l		 
+337-01	31	NEURO:		 
+337-01	32	MS:awake, alert, interactive, follows all commands. memory 3/3 items at 3 minutes. repetition intact, naming intact, comprehension slow but will correct mistakes		 
+337-01	33	CN: Pupils 5-->3 b/l, eomi without nystagmus, VFFTC, L UMN facial, hearing intact to finger rub b/l, tongue midline, dysarthric		 
+337-01	34	Motor:  nl bulk and tone, L pronator drift		 
+337-01	35	Delt Bi Tri Grip IP Q H Gas EHL		 
+337-01	36	R 5 5 5 5 5 5 5 5 5		 
+337-01	37	L 4+ 5 4+ 5 5 5 5 5 5		 
+337-01	38	Reflexes:		 
+337-01	39	Bi Tri BR Knee Ankle		 
+337-01	40	R 1+ 1+ 1+ 1 1+		 
+337-01	41	L 1+ 1+ 1+ 1+ 1+		 
+337-01	42	Toes downgoing bilaterally		 
+337-01	43	Sensation: intact to LT, symmetric		 
+337-01	44	Coordination:  dysmetria F-T-N L > R, symmetric RAM		 
+337-01	45	Gait:  not tested		 
+337-01	46	Data:		 
+337-01	47	Labs: CMP wnl, CBC wnl, U/A- LE++,		 
+337-01	48	Head CT: pending		 
+337-01	49	MRI/MRA brain: pending		 
+337-01	50	A/P:  73F with h/o prior infarct, HTN, HL, who presents with new L facial droop and L arm weakness, suspicious for stroke.		 

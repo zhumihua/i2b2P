@@ -1,0 +1,95 @@
+322-05	1	Record date: 2078-03-26	
+322-05	2	Grace Cottage Surgery Service		INDICATION FFF surgery#2
+322-05	3	Consult Note	
+322-05	4	Patient:  Vaughn, Frank		INDICATION FFF frank#2
+322-05	5	MRN:  6767510	
+322-05	6	Date: 3/26/78	
+322-05	7	CC:  Cellulitis of abdominal pannus		TOD FFF cc#0	INDICATION FFF cellulitis#1
+322-05	8	HPI:  Mr. Vaughn is a 33 yo diabetic male with a history of Fournier&#8217;s gangrene s/p multiple debridements and diverting colostomy in January 2077 who was recently admitted to the LH service 3/15-3/16/78 for cellulitis of his abdominal pannus.		INDICATION FFF gangrene#14	DRT FFF 3/15 - 3/16#32	INDICATION FFF cellulitis#34
+322-05	9	He was discharged on Bactrim DS one tab QD but returns today complaining of fever to 101.9 at home with chills and nausea but no vomiting.		DIN FFF bactrim ds#5	DOSEAMT FFF one tab#7	FREQ FFF qd#8	INDICATION FFF fever#14	INDICATION FFF nausea#22	INDICATION FFF vomiting#25
+322-05	10	He states that his pannus has become more tender to touch and in particular, there has been some swelling of the left side.		INDICATION FFF swelling#18
+322-05	11	He has also noted high blood sugars (300s) over the past few days.		INDICATION FFF blood sugars#6
+322-05	12	He denies dysuria or any change in his ostomy output.		INDICATION FFF change#5
+322-05	13	PMH: HTN		INDICATION FFF htn#1
+322-05	14	Hypercholesterolemia		INDICATION FFF hypercholesterolemia#0
+322-05	15	DM II		INDICATION FFF dm#0
+322-05	16	Fournier's gangrene s/p multiple debridements and diverting colostomy 1/76		INDICATION FFF gangrene#1
+322-05	17	PSH: Open diverting sigmoid colostomy, irrigation and debridement of perineum 2/6/77		INDICATION FFF debridement#7
+322-05	18	Multiple debridements and EUA's related to Fournier's gangrene		INDICATION FFF gangrene#7
+322-05	19	Medications:    Insulin Glargine (Lantus) 60 U SC QHS		DIN FFF insulin glargine#2	DOSE FFF 60u#5	RUT FFF sc#6	FREQ FFF qhs#7
+322-05	20	Simvastatin 40 MG PO QD		DIN FFF simvastatin#0	DOSE FFF 40mg#2	RUT FFF po#3	FREQ FFF qd#4
+322-05	21	Metoprolol Succinate Extended Release (Toprol Xl ) 100 MG PO QD		DIN FFF metoprolol succinate#1	DPN FFF toprol xl#5	DOSE FFF 100mg#8	RUT FFF po#9	FREQ FFF qd#10
+322-05	22	Nystatin Powder 1 APPLICATION TOP TID		DIN FFF nystatin#0	DOSEAMT FFF 1 application#3	RUT FFF top#4	FREQ FFF tid#5
+322-05	23	Trimethoprim/sulfamethoxazole Double Strength (Bactrim Ds ) 1 TAB PO BID		DIN FFF trimethoprim / sulfamethoxazole#0	DOSEAMT FFF 1 tab#7	RUT FFF po#8	FREQ FFF bid#9
+322-05	24	Oxycodone 10 MG PO Q6H prn		DIN FFF oxycodone#0	DOSE FFF 10mg#2	RUT FFF po#3	FREQ FFF q6h#4	NEC FFF prn#5
+322-05	25	Allergies:   HYDROCHLOROTHIAZIDE (Hyponatremia)		INDICATION FFF allergies#0	INDICATION FFF hyponatremia#2
+322-05	26	IOPAMIDOL 76% (SOB)		DIN FFF iopamidol#0	DOSE FFF 76%#1	INDICATION FFF sob#2
+322-05	27	IV Contrast (rash)		DBN FFF iv contrast#1
+322-05	28	SH: Tob: denies		INDICATION FFF sh#0
+322-05	29	EtOH: occasional	
+322-05	30	Electroencephalographic Technologist, lives w/ mother	
+322-05	31	PE:  T 95.7, P 83, 186/100, RR 18, 100% on RA		INDICATION FFF pe#0	INDICATION FFF t#1	DOSE FFF 100%#8	INDICATION FFF ra#10
+322-05	32	Gen: Obese male in NAD		INDICATION FFF obese#1
+322-05	33	CV: RRR	
+322-05	34	Pulm: CTAB	
+322-05	35	Abd: Obese, large pannus with macerated skin in folds.		INDICATION FFF obese#1
+322-05	36	Area of induration, erythema, and tenderness on left side, small area of fluctuance, pannus warm to touch.		INDICATION FFF erythema#3
+322-05	37	Abdomen otherwise soft, non-tender to palpation.	
+322-05	38	Labs on admission:	
+322-05	39	Test Description                 Result           Flags    Ref.	
+322-05	40	Range       Units	
+322-05	41	WBC                              9.0                       (4.5-11.0)     th/cmm	
+322-05	42	HCT                              35.5             L        (41.0-53.0)    %		DOSE FFF 35.5l#2
+322-05	43	HGB                              13.3             L        (13.5-17.5)    gm/dl		DOSE FFF 13.3l#2
+322-05	44	RBC                              4.39             L        (4.50-5.90)    mil/cmm		DOSE FFF 4.39l#2
+322-05	45	PLT                              299                       (150-400)      th/cumm	
+322-05	46	MCV                             81                        (80-100)       fl	
+322-05	47	MCH                              30.4                      (26.0-34.0)    pg/rbc	
+322-05	48	MCHC                             37.5             H        (31.0-37.0)    g/dl		DRT FFF 37.5 h#2
+322-05	49	RDW                              14.6             H        (11.5-14.5)    %		DRT FFF 14.6 h#2
+322-05	50	Superstat PT                     12.2                      (10.3-13.2)    sec		DIN FFF superstat#0	DIN FFF sec#4
+322-05	51	Icteric	
+322-05	52		
+322-05	53	Superstat PT-INR                 1.1		DIN FFF superstat#0
+322-05	54	Icteric	
+322-05	55		
+322-05	56	DIFFERENTIAL REQUEST             RECEIVED	
+322-05	57	Diff Method                      See Result Below	
+322-05	58	Result: Automated with manual review	
+322-05	59	Poly                             79               H        (40-70)        %		DRT FFF 79 h#2
+322-05	60	Lymphs                           16               L        (22-44)        %		DOSE FFF 16l#2
+322-05	61	Monos                            4                         (4-11)         %	
+322-05	62	EOS                              1                         (0-8)          %	
+322-05	63	Basos                            0                         (0-3)          %	
+322-05	64	Plasma Sodium                    131              L        (135-145)      mmol/L		DIN FFF sodium#1	DOSE FFF 131l#3
+322-05	65	Plasma Potassium                 3.9                       (3.4-4.8)      mmol/L		DIN FFF potassium#1	DOSE FFF 3.9#2
+322-05	66	SLIGHTLY HEMOLYZED	
+322-05	67		
+322-05	68	Plasma Chloride                  95               L        (100-108)      mmol/L		DOSE FFF 95l#3
+322-05	69	Plasma Carbon Dioxide            22.0             L       (23.0-31.9)    mmol/L		DIN FFF carbon dioxide#2	DOSE FFF 22.0l#4
+322-05	70	Plasma Anion GAP                 14                        (3-15)         mmol/L	
+322-05	71	Plasma Urea Nitrogen             9                         (8-25)         mg/dl		DIN FFF urea#1	DIN FFF nitrogen#2	DOSE FFF 9#3
+322-05	72	Plasma Creatinine                0.74                      (0.60-1.50)    mg/dl		INDICATION FFF creatinine#1
+322-05	73	eGFR                             &gt;60                                      mL/min/1.73m2		RUT FFF gt#1	DOSE FFF 60ml#2
+322-05	74	Plasma Glucose                   236              H        (70-110)       mg/dl		DRT FFF 236 h#3
+322-05	75	Calcium                          9.2                       (8.5-10.5)     mg/dl		DIN FFF calcium#0	DOSE FFF 9.2#1
+322-05	76	Phosphorus                       2.8                       (2.6-4.5)      mg/dl		INDICATION FFF phosphorus#0
+322-05	77	Magnesium                        1.5                       (1.4-2.0)      meq/L		DIN FFF magnesium#0	DOSE FFF 1.5#1
+322-05	78	Total Protein                    6.8                       (6.0-8.3)      g/dl	
+322-05	79	Albumin                          3.8                       (3.3-5.0)      g/dl		DIN FFF albumin#0	DOSE FFF 3.8#1
+322-05	80	Globulin                         3.0                       (2.6-4.1)      g/dl	
+322-05	81	Direct Bilirubin                 0.1                       (0-0.4)        mg/dl	
+322-05	82	Total Bilirubin                  0.5                       (0.0-1.0)      mg/dl	
+322-05	83	Alkaline Phosphatase             100                       (45-115)       U/L	
+322-05	84	Transaminase-SGPT                32                        (10-55)        U/L	
+322-05	85	Transaminase-SGOT                21                        (10-40)        U/L	
+322-05	86	Plasma Lactic Acid               2.5              H        (0.5-2.2)      mmol/L		DIN FFF lactic acid#2	DRT FFF 2.5 h#4
+322-05	87	Micro: Blood culture pending	
+322-05	88	Urine culture pending	
+322-05	89	Abdominal wound cx pending		INDICATION FFF wound#1
+322-05	90	Studies:  CXR:  Lung fields clear, no evidence of pneumonia.		INDICATION FFF pneumonia .#8
+322-05	91	CT abd/pelvis:There is mild inflammatory fat stranding, heterogeneity, and slightly increased vascularity involving the anterior abdominal wall, extending in to the scrotum without evidence of drainable fluid collection or air pockets.		INDICATION FFF ct#0
+322-05	92	Mild induration and thickening of the overlying skin of the abdominal wall is also noted.	
+322-05	93	Stable postsurgical scar in the right anterior abdominal wall.	
+322-05	94	Surgical sutures in the anterior abdominal wall.	
+322-05	95	There is a superficial soft tissue mass in the subcutaneous tissue of the left anterior abdominal wall, slightly larger on the current study measuring approximately 3.3 cm.		RUT FFF subcutaneous#9	INDICATION FFF cm#26

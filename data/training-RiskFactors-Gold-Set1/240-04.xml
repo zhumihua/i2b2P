@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2097-01-12
+
+
+	CARDIOLOGY
+	
+
+	YORK CONVALESCENT HOSPITAL
+	
+
+
+	Reason for visit:
+   s/p proximal Lad stent today
+
+
+	Interval History:
+   Mr Innis is a 77 y.o male with a history of hypertension, hyperlipidemia and CAD. His cardiac history dates back to March 2095 when he experienced dyspnea and exertional chest pressure that radiated to his jaw and arms. Cardiac catheterization at that time showed LAD disease and he underwent PTCA/Taxus stent to his LAD. 
+
+He did well until August 2096 when he presented with a dull mid scapular discomfort that radiated to his upper chest. These symptoms were accompanied by diaphoresis, dyspnea and transient blurry vision. After evaluation and clearance by Neurology he underwent another cardiac catheterization. Catheterization revealed his LAD stent was patent but he had a 90% lesion proximal to the stent. He had PTCA/Vision stent to his LAD. 
+
+Since 11/19/2096 he has had complaints of increasing dyspnea on exertion and chest pressure. He was treated with antibiotics and prednisone with relief of his dyspnea. He continues with daily exertional chest discomfort that resolves with rest and sl nitroglycerin. 
+
+Today he presented for elective cardiac catheterization which show ed a proximal 90% occlusion and mild In stent restenosis. He had a cypher stent placed in his LAD. He arrived in Cardiology pain free and hemodynamically stable.
+
+
+	Past medical history:
+   CAD 
+Hypertension 
+Hyperlipidemia 
+BPH 
+COPD 
+CVA with no residual. 
+
+PSH: lipoma removed from his upper back 
+
+Allergies: NKDA 
+
+Medications: 
+simvastatin 80mg po qpm 
+advair 500/50 mcg 1 puff bid 
+combivent 120/21 mcg inh 2 puffs qid 
+aspirin 325 mg po daily 
+furosemide 20 mg po daily 
+isosorbide mononitrite 60 mg SR 1 1/2 tabs daily 
+lisinopril 40 mg po q pm 
+Kdur 20 Meq po daily 
+norvasc 5 mg po daily 
+plavix 75 mg po daily 
+proscar 5 mg po qam 
+terazosin 10 mg po qpm 
+singulair 10 mg po qhs 
+toprol xl 75 mg po daily
+
+
+	Family history:
+   Father died at 78 
+Mother died at 80 
+8 sibs - all alive without CAD.
+
+
+	Social history:
+   Married with 5 grown children, Lives in Redland, LA 
+retired Engineering Inspector. 
+His son in law fell 6 weeks ago and is trached at Duluth Clinic. 
+Tobacco - quit in 2060's, former 1 ppd x 20 years 
+ETOH - rare 
+caffeine: 2-3 cups of coffee/day 
+exercise: no formal
+
+
+	Review of systems:
+   Denies headache, dizziness, TIA's, palpitations, GERD, diabetes, anemia, bleeding disorder, thyroid disease, renal disease 
+up to void 2-4 times/night 
+emotionally upset about his son-in-law 
+
+
+
+
+Physical examination:
+	
+-BMI: 33.7  Obese, high risk
+-Pulse: 65  
+-resp. rate: 18  
+-height: 64  in.
+-weight: 196  lbs.
+-General:   Pleasant male lying in bed, teary at times.
+-Chest:   Bilateral breath sounds clear anteriorly
+-Cardiac:   Normal S1 and S2, without S3, S4 ro murmur. No JVD.  Carotids brisk bilaterally without bruits.
+-Abdomen:   Obese, soft NT active BS throughout.  + umbilical hernia
+-Extremities:   Right femoral arterial sheath in place. +PPP,  trace pedal edema
+-Neuro:   A&amp;O, grossly non-focal.
+-BP: 135/60  
+
+
+	EKG:
+   1/12/97 NSR 61 PR.18  QRS .08
+
+unchanged from EKG 12/09/96
+
+Selected recent labs:
+
+	 Metabolic
+Date     K        BUN      CRE      GLU      
+01/07/97 4.6      24       1.2      115      
+
+Lipid/Thyroid
+Date     CHOL     TRIG     HDL      LDL      
+12/14/96 175      69       76       85       
+
+Hematology
+Date     HCT      WBC      PLT      
+01/07/97 31.8     7.0      235      
+
+
+	
+
+
+	Assessment and plan:
+   77 y.o male with hypertension, hyperlipidemia and previous cardiac stenting to LAD. Now with six week history of exertional chest pressure and dyspnea that continues despite changes in his medical regimen. Today cardiac catheterization showed 90% proximal Lad lesion and some in stent restenosis and he had a PTCA/Cypher stent to his LAD. 
+Plan: 
+CV: Hemodynamically stable, will resume all medications at previous doses 
+D/c femoral sheath once PTT &lt; 60, then bedrest x 6 hours 
+continue Aspirin and plavix indefinitely 
+check cbc, bun, cr, lytes, mg trop and Ck in am. He had fasting lipids less than a month ago so will defer. 
+
+Respiratory: 
+Continue advair and combivent inhalers 
+
+BPH: continue proscar and terazosin 
+
+Furthur plans per Dr Hall 
+
+
+	
+Erin f. Aquino, NP pager #08369
+
+	
+Transcribed by: Erin f Aquino
+
+	
+Signed electronically by  Erin f. Aquino, NP
+Document Status: Final
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC14" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC27" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC32" time="before DCT" indicator="mention"/>
+    <OBESE id="DOC4" time="after DCT" indicator="mention"/>
+    <OBESE id="DOC25" time="before DCT" indicator="mention"/>
+    <OBESE id="DOC33" time="during DCT" indicator="mention"/>
+    <OBESE id="DOC38" time="during DCT" indicator="BMI"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC8" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC11" time="during DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC12" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC17" time="after DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC19" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC21" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC23" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC29" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC30" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC34" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC35" time="before DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC37" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC39" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC18" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC36" time="before DCT" indicator="mention"/>
+    <CAD id="DOC13" time="during DCT" indicator="test"/>
+    <CAD id="DOC15" time="during DCT" indicator="event"/>
+    <CAD id="DOC20" time="after DCT" indicator="mention"/>
+    <CAD id="DOC22" time="before DCT" indicator="symptom"/>
+    <CAD id="DOC24" time="before DCT" indicator="test"/>
+    <CAD id="DOC28" time="during DCT" indicator="mention"/>
+    <CAD id="DOC31" time="before DCT" indicator="event"/>
+    <CAD id="DOC40" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC26" indicator="not present"/>
+    <SMOKER id="DOC5" status="past"/>
+  </TAGS>
+</root>

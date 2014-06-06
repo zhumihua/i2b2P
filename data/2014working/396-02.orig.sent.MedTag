@@ -1,0 +1,105 @@
+396-02	1	Record date: 2077-11-10	
+396-02	2	Reason for Visit	
+396-02	3	follow up	
+396-02	4	First visit in over 5 months.		DRT FFF 5 months#5
+396-02	5	Had injury at work, fell and rx right shoulder- had surgery and now will have to have shoulder replacement by Dr.		INDICATION FFF surgery#10
+396-02	6	Denny.  Went through rehab and has been living with her son in Washington- her apartment is being fixed up but likely she will move because of issues with elevator- lookiing for elderly housing.	
+396-02	7	No pain issues, still has constipation- takes senna and colace bid.		INDICATION FFF pain#1	INDICATION FFF constipation#5	DIN FFF senna#7	DBN FFF colace#9	FREQ FFF bid#10
+396-02	8	Is concerned about addictive personality- off narcotics but is attending NA meetings and wants to get of amitriptyline and  trazodone-would like to try neurontin.		DIN FFF narcotics#6	DIN FFF na#10	DIN FFF amitriptyline#17	DBN FFF neurontin#23
+396-02	9	BS are good- on 18 units insulin bid and has been trying to lose wt- 1+ /week.		INDICATION FFF bs#0	DOSEAMT FFF 18 units#5	DIN FFF insulin#6	FREQ FFF bid#7
+396-02	10	Will have EMG on 11/26  because of numbness right hand and concern about brachial nerve.	
+396-02	11	Will also have CT.		INDICATION FFF ct#3
+396-02	12	She has tingling left medial fingers - advised EMG of that hand too.	
+396-02	13	Needs BMD- needs to get clearance from workers comp.	
+396-02	14	Generally doing well.	
+396-02	15	Using Chantix.		DBN FFF chantix#1
+396-02	16	Reviewed meds. Needs new rx.	
+396-02	17	BS 117-121, no hypoglycemai		INDICATION FFF bs#0
+396-02	18	Medications Text	
+396-02	19	verapamil 120 mg bid		DIN FFF verapamil#0	DOSE FFF 120mg#2	FREQ FFF bid#3
+396-02	20	novolog 70/30 18units bid		DBN FFF novolog#0	DOSE FFF 70/30#1	DOSEAMT FFF 18 units#2	FREQ FFF bid#3
+396-02	21	amitriptylin 50/25- will stop	
+396-02	22	lisinopril 10mg qd--BPs have been high		DIN FFF lisinopril#0	DOSE FFF 10mg#1
+396-02	23	MVI		DPN FFF mvi#0
+396-02	24	ASA 325 mg qd		DIN FFF asa#0	DOSE FFF 325mg#2	FREQ FFF qd#3
+396-02	25	simvastain 20mg qd		DOSE FFF 20mg#1	FREQ FFF qd#2
+396-02	26	vit c 1000mg qd		DIN FFF vit c#1	DOSE FFF 1000mg#2	FREQ FFF qd#3
+396-02	27	metoprolol 100mg qd		DIN FFF metoprolol#0	DOSE FFF 100mg#1	FREQ FFF qd#2
+396-02	28	lasix 20mg- no longer taking		DBN FFF lasix#0	DOSE FFF 20mg#1
+396-02	29	chantix		DBN FFF chantix#0
+396-02	30	Allergies		INDICATION FFF allergies#0
+396-02	31	NKA	
+396-02	32	Past Medical History	
+396-02	33	OB:G1 P1	
+396-02	34	UCHD, no ARF		INDICATION FFF arf#2
+396-02	35	Family History	
+396-02	36	non contributory	
+396-02	37	children-one son, Hep C		DIN FFF hep c#3
+396-02	38	no FH of colon cancer, breast cancer		INDICATION FFF fh#1	INDICATION FFF colon#3	INDICATION FFF cancer#4	INDICATION FFF cancer#6
+396-02	39	Social History	
+396-02	40	smoking: up to 1.5 ppd on weekends	
+396-02	41	EtOH: rare	
+396-02	42	drugs: MJ--thinking about stopping because it causes increase in appetite substance abuse: none		DIN FFF drugs#0
+396-02	43	OTC meds: none		DIN FFF otc#0
+396-02	44	diet: optifast	
+396-02	45	exercise: walk	
+396-02	46	caffeine: NA	
+396-02	47	immunizations: needs flu shot	
+396-02	48	work: Appraiser-currently unemployed	
+396-02	49	sexual: MSW, not sexually active	
+396-02	50	domestic violence: in past	
+396-02	51	seat belt use: yes	
+396-02	52	sunscreen:yes	
+396-02	53	living will/health care proxy -none	
+396-02	54	Review of Systems	
+396-02	55	General: wt lost  11.5 lbs since May	
+396-02	56	Eye : reg ck-done this yr		RUT FFF eye#0
+396-02	57	ENT: no sinus sx,	
+396-02	58	skin: no rashes	
+396-02	59	esp: no cough, SOB, sputum, hemoptysis		INDICATION FFF cough#2	INDICATION FFF sob#3
+396-02	60	CV: no CP, palpitations, edema, orthopnea, PND		INDICATION FFF cp#2	INDICATION FFF edema#4	INDICATION FFF orthopnea#5
+396-02	61	GI: no nausea, vomiting, heartburn, diarrhea, constipation, melena, hematochezia  breast: mammogram --needs		INDICATION FFF nausea#2	INDICATION FFF vomiting#3	INDICATION FFF heartburn#4	INDICATION FFF diarrhea#5	INDICATION FFF constipation#6
+396-02	62	GU: no dysuria, hematuria.		INDICATION FFF gu#0
+396-02	63	LMP: late 40s	
+396-02	64	contraception: NA		DIN FFF na#1
+396-02	65	MS: no arthritis or joint pain		INDICATION FFF arthritis#2	INDICATION FFF joint pain#5
+396-02	66	neuro: no dizziness, syncope		INDICATION FFF dizziness#2
+396-02	67	MH: no depression		INDICATION FFF mh#0	INDICATION FFF depression#2
+396-02	68	All other systems were reviewed and are negative	
+396-02	69	Vital Signs	
+396-02	70	BLOOD PRESSURE   146/76		INDICATION FFF blood pressure#1
+396-02	71	PULSE   78	
+396-02	72	WEIGHT   210 lb		INDICATION FFF weight#0
+396-02	73	Physical Exam	
+396-02	74	looks well. does not smell of smoke	
+396-02	75	wt dec 11.5 lbs	
+396-02	76	BP 138/80 left arm large cuff by me		INDICATION FFF bp#0	INDICATION FFF me#7
+396-02	77	lungs clear	
+396-02	78	heart S1S2 no murmur	
+396-02	79	no edema		INDICATION FFF edema#1
+396-02	80	Assessment	
+396-02	81	1. HBP - cont current meds- doing well		INDICATION FFF hbp#1
+396-02	82	2. smoking- onChantix	
+396-02	83	3. right shoulder fx	
+396-02	84	4. HPV-??		DIN FFF hpv#1
+396-02	85	5. DM-HBA1C 6.1- doing well	
+396-02	86	6. HM: needseye ck, mammogra	
+396-02	87	7. CRF-creat stable	
+396-02	88	8. ? CTS	
+396-02	89	9. PN- will stop amitriptyline and start on gabapentin 100mg bid--> 300mg bid		INDICATION FFF pn#1	DIN FFF amitriptyline#4	DIN FFF gabapentin#8	DOSE FFF 100mg#9	FREQ FFF bid#10	DOSE FFF 300mg#11	FREQ FFF bid#12
+396-02	90	Orders	
+396-02	91		
+396-02	92	E&M Level	
+396-02	93	99214 Level 4, Outpatient Visit, Established Patient	
+396-02	94	In-Office Procedures		INDICATION FFF procedures#1
+396-02	95	90471 IMADM PRQ ID SUBQ/IM NJXS 1 VACC		RUT FFF subq / im#4
+396-02	96	90658 Flu vaccine, split, 3 yrs & >		DIN FFF flu vaccine#2	DRT FFF 3 yrs#5
+396-02	97	Diagnosis	
+396-02	98	V04.81 Need for prophylactic vaccination and inoculation against influenza		DIN FFF prophylactic#3
+396-02	99	250.60 Diabetes mellitus with neurological manifestations, type II or unspecified type, not stated as uncontrolled		INDICATION FFF diabetes mellitus#2	INDICATION FFF neurological manifestations#5	INDICATION FFF as#13
+396-02	100	250.00 Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled		INDICATION FFF diabetes mellitus#2	INDICATION FFF as#14
+396-02	101	401.9 Unspecified essential hypertension		INDICATION FFF hypertension#3
+396-02	102	Plan	
+396-02	103	1. Medications reviewed and reconciled	
+396-02	104	2. needs left EMG	
+396-02	105	3. RTO 1 mon	

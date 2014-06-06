@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2095-03-27
+
+Wt 198  146/84
+72 yo male with few months of cardiac problems, including need for ablation of
+arrhythmia focus, done 1/95.   Has hx CAD with MI 2062 and 2086, with echo 1/95
+showing 40-45% EF with posterior and apical hypokinesis.   No CHF sx, tho has
+moderate fluid retention at times.  Takes lasix 40mg PRN (about 1-2 times per
+wk, when edematous, tho even with periph edema, no signif SOB/CHF sx.).
+     
+For past 6 wks has been on atenolol 25 qd (has not been able to tolerate
+amiodarone, lisinopril in past), but has felt very malaised, weak, lacking in
+energy, "weak" in the legs.  Feels his appetite was also affected and he lost 8
+pounds.  He got fed up and 2 days ago on his own, he stopped the atenolol and
+since then has felt nearly back to usual self.  HE says that he will not go
+back on atenolol.   At last visit, was encouraged by Dr Corona to try to
+continue with atenolol.
+     
+DM on glucophage 1500mg qd (500 AM, 1000PM), without signif poly sx, with
+recent fingerstick of 180 in AM and 220 in PM.
+     
+EXAM:   Lungs are clear.  Extrem 3+ edema.
+ 
+IMP:    Side effects from atenolol.
+        AICD/ventricular arrhythmia, controlled recently.
+        Fluid retention.  PRN lasix not ideal.
+        DM not as well controlled as desirable.
+        LDL 138, should be lower, tho he is so intolerant of meds.
+ 
+PLAN:   Will discuss with Dr Corona about unwillingness to take beta blocker
+          and if any other agent indicated.  BP not ideally controlled.
+        Encouraged regular lasix use of 20mg twice per wk, salt restriction
+        Consider lipitor for LDL 138, but next visit.
+        Increase metformin to 1000 BID.
+        Pneumovax today.
+Patricia Islam MD
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC7" time="before DCT" indicator="high LDL"/>
+    <MEDICATION id="DOC0" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC6" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC14" time="before DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp"/>
+    <CAD id="DOC8" time="after DCT" indicator="mention"/>
+    <CAD id="DOC9" time="during DCT" indicator="mention"/>
+    <CAD id="DOC13" time="before DCT" indicator="event"/>
+    <CAD id="DOC15" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC11" indicator="not present"/>
+    <SMOKER id="DOC10" status="unknown"/>
+    <DIABETES id="DOC2" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC4" time="before DCT" indicator="glucose"/>
+    <DIABETES id="DOC5" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC12" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

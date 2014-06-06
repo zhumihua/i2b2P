@@ -1,0 +1,64 @@
+336-03||1||Record date: 2080-04-17
+336-03||2||Diabetes Management Consult||INDICATION FFF diabetes management FFF 0 1||
+336-03||3||CC||TOD FFF cc FFF 0 0||
+336-03||4||Asked by Dr Vines to see the patient for assistance with management of diabetes mellitus.||INDICATION FFF diabetes mellitus. FFF 13 14||
+336-03||5||She is intubated so details of medical history not available other than what I can get from medical records and her daughters who are with her.
+336-03||6||HPI
+336-03||7||72year old female patient with a history of diabetes diagnosed &gt;20 years ago.||DRT FFF 72year FFF 0 0||INDICATION FFF diabetes FFF 8 8||RUT FFF &gt;20 FFF 10 10||DRT FFF &gt;20 years FFF 10 11||
+336-03||8||Patient is treated with diet and oral hypoglycemic agents at home.||DIN FFF oral hypoglycemic FFF 6 7||
+336-03||9||Prior to admission patient was taking metformin 500 mg qday.||DIN FFF metformin FFF 6 6||DOSE FFF 500 mg FFF 7 8||FREQ FFF qday. FFF 9 9||
+336-03||10||Patient tests blood glucose at home but results unknown.
+336-03||11||Patient has had/not had recent episodes of hypoglycemia.||INDICATION FFF hypoglycemia. FFF 7 7||
+336-03||12||Pt has known retinopathy, nephropathy or neuropathy.||INDICATION FFF nephropathy FFF 4 4||INDICATION FFF neuropathy. FFF 6 6||
+336-03||13||Hospital course since admission:
+336-03||14||Pt has a history of COPD/interstitial lung disease with biopsy confirming BOOP on home O2 last 2 weeks and prednisone since 12/79, OA s/p bilateral knee replacements, chronic venous stasis, and s/p biological AVR 11/78 presents with several month h/o SOB.||INDICATION FFF copd/interstitial FFF 5 5||DRT FFF 2 weeks FFF 16 17||DIN FFF prednisone FFF 19 19||INDICATION FFF oa FFF 22 22||DRT FFF several month FFF 37 38||INDICATION FFF sob. FFF 40 40||
+336-03||15||She states increasing SOB since 9/79 and now has difficulty with any activity.||INDICATION FFF sob FFF 3 3||
+336-03||16||She had chest pain this previous week at her rehabilitation facility/nursing home and was evaluated at OSH.||INDICATION FFF chest pain FFF 2 3||
+336-03||17||She was found to have anemia with hct 25 and increased troponin to 1.5.||INDICATION FFF anemia FFF 5 5||
+336-03||18||Pt was found to be CHF and is being treated with IV lasix.||INDICATION FFF chf FFF 5 5||RUT FFF iv FFF 11 11||DBN FFF lasix. FFF 12 12||
+336-03||19||Was diagnosed with SBE with BC positive for enterococci and gemella morbillorum.||INDICATION FFF sbe FFF 3 3||
+336-03||20||Was initially on Vancomycin then later switched to Ampicillin and gentamycin for 6 weeks course(till May 11) as per ID recs.||DIN FFF vancomycin FFF 3 3||DIN FFF ampicillin FFF 8 8||DRT FFF 6 weeks FFF 12 13||INDICATION FFF as FFF 17 17||
+336-03||21||GI was consulted for guaiac positive stool and Hct drop.
+336-03||22||But over the course of hospital stay her Hct was stable and stool guaiac negative so GI deferred scoping her till her is clear of infection.||INDICATION FFF her hct FFF 7 8||INDICATION FFF infection. FFF 25 25||
+336-03||23||Pt was also found to have RLL PE and is on Lovenox.LENIS Bilateral LE negative.||INDICATION FFF pe FFF 7 7||INDICATION FFF le FFF 13 13||
+336-03||24||Thyroid nodule with FNA negative.
+336-03||25||Plan was to transfer her to rehab and schedule her for AVR when she is clear of infection.||INDICATION FFF infection. FFF 17 17||
+336-03||26||But unfortunately she went into resp distress this AM 04/12/80 and got intubated.||TOD FFF am FFF 8 8||
+336-03||27||She was taken to the OR yesterday for redo AVR.
+336-03||28||Current glucose management:
+336-03||29||insulin drip running at 1.5 units/hr.||DIN FFF insulin FFF 0 0||RUT FFF drip FFF 1 1||DOSEAMT FFF 1.5 units/hr. FFF 4 5||
+336-03||30||Most recent BG 166
+336-03||31||Current Nutrition:
+336-03||32||NPO||RUT FFF npo FFF 0 0||
+336-03||33||Previous Cardiovascular Interventions: 01/2078 AVR (21 Other Biological)
+336-03||34||Past Medical History: Hypertension.||INDICATION FFF hypertension. FFF 3 3||
+336-03||35||Diabetes mellitus: oral agent treatment.||INDICATION FFF diabetes mellitus: FFF 0 1||RUT FFF oral FFF 2 2||DIN FFF agent FFF 3 3||
+336-03||36||Dyslipidemia.
+336-03||37||Recent immunosuppressive therapy .||DIN FFF immunosuppressive FFF 1 1||
+336-03||38||Interstitial lung disease with biopsy proving BOOP.
+336-03||39||Osteoarthritis, venous stasis of bilateral lower extremities, mixed urinary incontinence.||INDICATION FFF osteoarthritis, FFF 0 0||INDICATION FFF urinary incontinence. FFF 8 9||
+336-03||40||Anxiety. /Creatinine Clearance (estimate): 57.18 cc/min||INDICATION FFF anxiety. FFF 0 0||INDICATION FFF /creatinine FFF 1 1||TOD FFF cc/min FFF 5 5||
+336-03||41||Past Surgical History: bilateral knee replacement; chronic cellulitis of legs; right elbow surgery; bilateral carpal tunnel; cataracts.||INDICATION FFF cellulitis FFF 7 7||INDICATION FFF surgery; FFF 12 12||
+336-03||42||Family History: No family history of CAD.||INDICATION FFF cad. FFF 6 6||
+336-03||43||Social History: History of tobacco use. 10 pack year cigarette smoking history. The patient is a retired Program Leader in Recreation and Sport. Lives alone in a retirement community. Has 6 children; supportive,live close by.||DOSEAMT FFF 10 pack FFF 6 7||
+336-03||44||Allergies: Clindamycin, PCN, Eucerin, Cipro cause itching.||INDICATION FFF allergies: FFF 0 0||DBN FFF cipro FFF 4 4||INDICATION FFF itching. FFF 6 6||
+336-03||45||Cephalexin causes hives.||DIN FFF cephalexin FFF 0 0||INDICATION FFF hives. FFF 2 2||
+336-03||46||Medications at home: metformin 500 mg qday/ lopressor 6.25mg po bid/ lisinopril 10mg po qd/ aspirin 81 mg po qd/ furosemide 40 mg po qd/ metolazone 5 mg po qd/ prednisone 25mg po qd/ simvastatin 20 mg po qd/ PRILOSEC (OMEPRAZOLE) 20 mg PO daily/ ATIVAN (LORAZEPAM) 0.5 mg PO q8h/ ERGOCALCIFEROL 400 units PO daily/ OXYBUTYNIN CHLORIDE 5 mg PO daily||DIN FFF metformin FFF 3 3||DOSE FFF 500 mg FFF 4 5||FREQ FFF qday/ FFF 6 6||DBN FFF lopressor FFF 7 7||DOSE FFF 6.25mg FFF 8 8||RUT FFF po FFF 9 9||FREQ FFF bid/ FFF 10 10||DIN FFF lisinopril FFF 11 11||DOSE FFF 10mg FFF 12 12||RUT FFF po FFF 13 13||FREQ FFF qd/ FFF 14 14||DIN FFF aspirin FFF 15 15||DOSE FFF 81 mg FFF 16 17||RUT FFF po FFF 18 18||FREQ FFF qd/ FFF 19 19||DIN FFF furosemide FFF 20 20||DOSE FFF 40 mg FFF 21 22||RUT FFF po FFF 23 23||FREQ FFF qd/ FFF 24 24||DIN FFF metolazone FFF 25 25||DOSE FFF 5 mg FFF 26 27||RUT FFF po FFF 28 28||FREQ FFF qd/ FFF 29 29||DIN FFF prednisone FFF 30 30||DOSE FFF 25mg FFF 31 31||RUT FFF po FFF 32 32||FREQ FFF qd/ FFF 33 33||DIN FFF simvastatin FFF 34 34||DOSE FFF 20 mg FFF 35 36||RUT FFF po FFF 37 37||FREQ FFF qd/ FFF 38 38||DBN FFF prilosec FFF 39 39||DOSE FFF 20 mg FFF 41 42||RUT FFF po FFF 43 43||FREQ FFF daily/ FFF 44 44||DBN FFF ativan FFF 45 45||DOSE FFF 0.5 mg FFF 47 48||RUT FFF po FFF 49 49||FREQ FFF q8h/ FFF 50 50||DIN FFF ergocalciferol FFF 51 51||DOSEAMT FFF 400 units FFF 52 53||RUT FFF po FFF 54 54||FREQ FFF daily/ FFF 55 55||DIN FFF oxybutynin chloride FFF 56 57||DOSE FFF 5 mg FFF 58 59||RUT FFF po FFF 60 60||FREQ FFF daily FFF 61 61||
+336-03||49||ROS
+336-03||50||ROS is negative except as noted in HPI or below.||INDICATION FFF as FFF 4 4||
+336-03||51||Constitutional Symptoms: (-) headache, (-) aches and pains, (-) weight loss,  (-) weight gain, (+) tiredness,||INDICATION FFF symptoms: FFF 1 1||INDICATION FFF headache, FFF 3 3||INDICATION FFF weight FFF 9 9||INDICATION FFF weight gain, FFF 12 13||INDICATION FFF tiredness, FFF 15 15||
+336-03||52||Ears, Nose, Mouth, Throat:  (-) symptoms involving ear, nose, mouth, or throat||RUT FFF mouth, FFF 2 2||INDICATION FFF symptoms FFF 5 5||RUT FFF ear, FFF 7 7||RUT FFF mouth, FFF 9 9||
+336-03||53||(-) laser treatment
+336-03||54||Cardiovascular: (-) varicosities, (-) chest pain, (-) elevated BP, (-) edema, (-) claudication, (-) palpitations, (-) dyspnea on exertion||INDICATION FFF varicosities, FFF 2 2||INDICATION FFF chest pain, FFF 4 5||INDICATION FFF bp, FFF 8 8||INDICATION FFF edema, FFF 10 10||INDICATION FFF dyspnea FFF 16 16||
+336-03||55||Respiratory: (-) wheezing, (-) cough, (+) shortness of breath.||INDICATION FFF wheezing, FFF 2 2||INDICATION FFF cough, FFF 4 4||INDICATION FFF shortness of breath. FFF 6 8||
+336-03||56||Gastrointestinal:  (-) diarrhea, (-) heartburn, (-) constipation, (-) vomiting, (-) nausea,||INDICATION FFF diarrhea, FFF 2 2||INDICATION FFF heartburn, FFF 4 4||INDICATION FFF constipation, FFF 6 6||INDICATION FFF vomiting, FFF 8 8||INDICATION FFF nausea, FFF 10 10||
+336-03||57||Endocrine:  (-) heat intolerance, (-) polydipsia, (-) dry skin, (-) cold intolerance||DBN FFF dry skin, FFF 7 8||INDICATION FFF cold FFF 10 10||
+336-03||58||Genitourinary: (-) polyuria||INDICATION FFF polyuria FFF 2 2||
+336-03||59||Musculoskeletal:  (-) leg cramps, (-) muscle pain, (-) joint pain||INDICATION FFF leg cramps, FFF 2 3||INDICATION FFF pain, FFF 6 6||INDICATION FFF joint pain FFF 8 9||
+336-03||60||Neurological:  (-) confusion, (-) headache, (-) paresthesia, (-) tingling, (-) numbness||INDICATION FFF headache, FFF 4 4||
+336-03||61||Hematologic / Lymphatic: (-) anemia, (-) bleeding problems,||INDICATION FFF anemia, FFF 4 4||INDICATION FFF bleeding FFF 6 6||
+336-03||62||Integumentary: (-) rash, (-) skin-related symptoms||INDICATION FFF symptoms FFF 5 5||
+336-03||63||Psychiatric:  (+) depression, (-) memory loss, (-) anxious feelings||INDICATION FFF depression, FFF 2 2||
+336-03||64||Allergic / Immunologic:  (-) allergic or immunologic symptoms||INDICATION FFF symptoms FFF 7 7||
+336-03||65||Physical Examination
+336-03||66||General:  Patient is intubated but alert and responding with nods of her head.

@@ -1,0 +1,30 @@
+279-04||1||Record date: 2094-01-25
+279-04||2||Problems
+279-04||3||coronary artery disease||INDICATION FFF coronary artery disease FFF 0 2||
+279-04||4||hypertension||INDICATION FFF hypertension FFF 0 0||
+279-04||5||hyperlipidemia||INDICATION FFF hyperlipidemia FFF 0 0||
+279-04||6||chronic obstructive pulmonary disease||INDICATION FFF obstructive pulmonary disease FFF 1 3||
+279-04||7||peripheral vascular disease||INDICATION FFF peripheral vascular disease FFF 0 2||
+279-04||8||peripheral edema : left ankle, doppler negative||INDICATION FFF edema FFF 1 1||
+279-04||9||anxiety||INDICATION FFF anxiety FFF 0 0||
+279-04||10||borderline diabetes mellitus||INDICATION FFF diabetes mellitus FFF 1 2||
+279-04||11||urinary tract infection : Reoccurrent||INDICATION FFF urinary tract infection FFF 0 2||
+279-04||12||S/P cardiac bypass graft surgery : 100% obstr of LPC and mid RCA, 70% obstr LAD on cath 11/92.||INDICATION FFF surgery FFF 4 4||DOSE FFF 100% FFF 6 6||DOSE FFF 70% FFF 13 13||
+279-04||13||Medications
+279-04||14||Ecotrin (ASPIRIN Enteric Coated) 325MG, 1 Tablet(s) PO QD : Take as directed||DBN FFF ecotrin FFF 0 0||DOSE FFF 325mg, FFF 4 4||DOSEAMT FFF 1 tablet(s) FFF 5 6||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||INDICATION FFF as FFF 11 11||
+279-04||15||Ntg 1/150 (NITROGLYCERIN 1/150 (0.4 Mg)) 1 TAB SL x1 : USE AS DIRECTED||DPN FFF ntg FFF 0 0||DOSEAMT FFF 1 tab FFF 6 7||RUT FFF sl FFF 8 8||FREQ FFF x1 FFF 9 9||INDICATION FFF as FFF 12 12||
+279-04||16||Nystatin Powder TOPICAL TOP BID||DIN FFF nystatin FFF 0 0||RUT FFF topical FFF 2 2||RUT FFF top FFF 3 3||FREQ FFF bid FFF 4 4||
+279-04||17||Cozaar (LOSARTAN) 50MG, 1 Tablet(s) PO Q12H : Take as directed||DBN FFF cozaar FFF 0 0||DOSE FFF 50mg, FFF 2 2||DOSEAMT FFF 1 tablet(s) FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF q12h FFF 6 6||INDICATION FFF as FFF 9 9||
+279-04||18||Lipitor (ATORVASTATIN) 20MG, 1 Tablet(s) PO QD : Take as directed||DBN FFF lipitor FFF 0 0||DOSE FFF 20mg, FFF 2 2||DOSEAMT FFF 1 tablet(s) FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF qd FFF 6 6||INDICATION FFF as FFF 9 9||
+279-04||19||Procardia Xl (NIFEDIPINE (SUSTAINED Relea... 60 MG PO BID||DBN FFF procardia xl FFF 0 1||DOSE FFF 60 mg FFF 5 6||RUT FFF po FFF 7 7||FREQ FFF bid FFF 8 8||
+279-04||20||FUROSEMIDE 40MG, 1 Tablet(s) PO BID||DIN FFF furosemide FFF 0 0||DOSE FFF 40mg, FFF 1 1||DOSEAMT FFF 1 tablet(s) FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF bid FFF 5 5||
+279-04||21||Lopressor (METOPROLOL Tartrate) 50MG, 0.5 Tablet(s) PO BID||DBN FFF lopressor FFF 0 0||DOSE FFF 50mg, FFF 3 3||DOSEAMT FFF 0.5 tablet(s) FFF 4 5||RUT FFF po FFF 6 6||FREQ FFF bid FFF 7 7||
+279-04||22||Nexium (ESOMEPRAZOLE) 20MG, 1 Capsule(s) PO QD||DBN FFF nexium FFF 0 0||DOSE FFF 20mg, FFF 2 2||DOSEAMT FFF 1 capsule(s) FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF qd FFF 6 6||
+279-04||23||Macrobid (NITROFURANTOIN Sr) 100MG, 1 Capsule(s) PO QD||DBN FFF macrobid FFF 0 0||DOSE FFF 100mg, FFF 3 3||DOSEAMT FFF 1 capsule(s) FFF 4 5||RUT FFF po FFF 6 6||FREQ FFF qd FFF 7 7||
+279-04||24||Acetaminophen W/codeine 30mg 1 TAB PO Q4H PRN pain : Take as directed||DOSE FFF 30mg FFF 2 2||DOSEAMT FFF 1 tab FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF q4h FFF 6 6||NEC FFF prn FFF 7 7||INDICATION FFF pain FFF 8 8||INDICATION FFF as FFF 11 11||
+279-04||25||CLONAZEPAM 0.5MG, 1 Tablet(s) PO BID||DIN FFF clonazepam FFF 0 0||DOSE FFF 0.5mg, FFF 1 1||DOSEAMT FFF 1 tablet(s) FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF bid FFF 5 5||
+279-04||26||CLARITHROMYCIN 500MG, 1 Tablet(s) PO BID x 10 day(s)||DIN FFF clarithromycin FFF 0 0||DOSE FFF 500mg, FFF 1 1||DOSEAMT FFF 1 tablet(s) FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF bid FFF 5 5||FREQ FFF x 10 FFF 6 7||
+279-04||27||Pt developed infection in a bunion approx 2 weeks ago, seen here 2 days ago, placed on biaxin (allergic to penicillin).||INDICATION FFF infection FFF 2 2||DRT FFF 2 weeks FFF 7 8||DRT FFF 2 days FFF 12 13||
+279-04||28||Pt notes no improvement in pain in foot and cannot lie on bed at night due to worsening pain, needs to sleep in chair with foot down.||INDICATION FFF pain FFF 5 5||TOD FFF at night FFF 13 14||INDICATION FFF pain, FFF 18 18||INDICATION FFF sleep FFF 21 21||
+279-04||29||Hx CAD, PVD, glucose intolerance.||INDICATION FFF cad, FFF 1 1||INDICATION FFF pvd, FFF 2 2||INDICATION FFF glucose intolerance. FFF 3 4||
+279-04||30||PE:  NAD||INDICATION FFF pe: FFF 0 0||

@@ -1,0 +1,27 @@
+293-02||1||Record date: 2077-03-03
+293-02||4||OFFICE NOTE
+293-02||6||Cora Quinley
+293-02||7||MR# 759-87-55-2
+293-02||8||March 3, 2077
+293-02||10||As the responsible teaching attending, I can confirm both the||INDICATION FFF as FFF 0 0||
+293-02||11||history and physical examination of Dr.
+293-02||12||Uriel Zapien.
+293-02||13||Briefly, the patient is a 71-year-old female with several cardiovascular risk factors.||INDICATION FFF risk FFF 10 10||
+293-02||14||She was admitted to the hospital in January after a prolonged episode of palpitations.
+293-02||15||The patient had a tiny
+293-02||16||Troponin  elevation to 0.3, and the decision was made to manage
+293-02||17||her conservatively.
+293-02||18||The patient continues to have these episodes of palpitations, but she does not get chest pain with any exercise.||INDICATION FFF chest pain FFF 14 15||
+293-02||20||Her current medical regimen includes aspirin, beta-blocker,||DBN FFF medical regimen FFF 2 3||DIN FFF aspirin, FFF 5 5||DIN FFF beta-blocker, FFF 6 6||
+293-02||21||statin and an ACE Inhibitor.||DIN FFF statin FFF 0 0||DIN FFF ace inhibitor. FFF 3 4||
+293-02||23||On physical examination she has 2+ carotids, which have normal
+293-02||24||upstrokes and no bruits.
+293-02||25||Her lungs are clear to auscultation.
+293-02||26||Her heart examination reveals a regular rate with a normal S1 and S2, without S3 and S4.
+293-02||28||Her electrocardiogram is normal.
+293-02||30||Assessment: I concur with Dr.
+293-02||31||Zapien in that we will increase the patient's beta-blockers to decrease her probable supraventricular tachycardia.||INDICATION FFF supraventricular tachycardia. FFF 13 14||
+293-02||32||She will be seen back here in several months.||DRT FFF several months. FFF 7 8||
+293-02||35||Vasilios C.
+293-02||36||Osborne, M.D. /varner
+293-02||38||******** Not reviewed by Attending Physician ********

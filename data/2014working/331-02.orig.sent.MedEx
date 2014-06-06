@@ -1,0 +1,50 @@
+331-02	1	Record date: 2079-01-24		 
+331-02	2	Mr. Sparks is a 74 yr. M who was seen by me as a new patient in Nov. 10 and again in Dec. 10. He RTC.		 
+331-02	3	HPI: This visit was supposed to be a preoperative visit prior to his scheduled Feb. 02 right inguinal hernia repair with Dr. Yamaguchi. However, when I saw him in Dec he had inadequate BP control despite Dr. Arias doubling his Lisinopril. I DCed Atenolol and switched him to Labetalol 100 mg BID. Despite some confusion I believe he has done this. He had also been switched from Crestor to Lipitor due to safety concerns. Labs done pre-operatively are notable for:		DIN FFF lisinopril#40
+331-02	3	HPI: This visit was supposed to be a preoperative visit prior to his scheduled Feb. 02 right inguinal hernia repair with Dr. Yamaguchi. However, when I saw him in Dec he had inadequate BP control despite Dr. Arias doubling his Lisinopril. I DCed Atenolol and switched him to Labetalol 100 mg BID. Despite some confusion I believe he has done this. He had also been switched from Crestor to Lipitor due to safety concerns. Labs done pre-operatively are notable for:		DIN FFF atenolol#43
+331-02	3	HPI: This visit was supposed to be a preoperative visit prior to his scheduled Feb. 02 right inguinal hernia repair with Dr. Yamaguchi. However, when I saw him in Dec he had inadequate BP control despite Dr. Arias doubling his Lisinopril. I DCed Atenolol and switched him to Labetalol 100 mg BID. Despite some confusion I believe he has done this. He had also been switched from Crestor to Lipitor due to safety concerns. Labs done pre-operatively are notable for:		DIN FFF labetalol#48	DOSE FFF 100mg#50	FREQ FFF bid#51
+331-02	3	HPI: This visit was supposed to be a preoperative visit prior to his scheduled Feb. 02 right inguinal hernia repair with Dr. Yamaguchi. However, when I saw him in Dec he had inadequate BP control despite Dr. Arias doubling his Lisinopril. I DCed Atenolol and switched him to Labetalol 100 mg BID. Despite some confusion I believe he has done this. He had also been switched from Crestor to Lipitor due to safety concerns. Labs done pre-operatively are notable for:		DBN FFF crestor#67
+331-02	4	Creatinine     3.4		 
+331-02	5	LDL          184		 
+331-02	6	nct.           35%		 
+331-02	7	Problems		 
+331-02	8	Adenomatous polyp : May 2078		 
+331-02	9	Gastritis : H. pylori positive		 
+331-02	10	Chronic renal dysfunction		 
+331-02	11	Diabetes mellitus type 2		 
+331-02	12	Hypertension		 
+331-02	13	Hyperlipidemia		 
+331-02	14	Anemia		 
+331-02	15	hyperparathyroidism		 
+331-02	16	Transient ischemic attack		 
+331-02	17	Medications		 
+331-02	18	Amlodipine 10 MG (10MG TABLET take 1) PO QD		DIN FFF amlodipine#0	DOSE FFF 10mg#2	DOSE FFF 10mg#3	DDF FFF tablet#4	RUT FFF po#7	FREQ FFF qd#8
+331-02	19	Glipizide 10 MG (10MG TABLET take 1) PO BID		DIN FFF glipizide#0	DOSE FFF 10mg#2	DOSE FFF 10mg#3	DDF FFF tablet#4	RUT FFF po#7	FREQ FFF bid#8
+331-02	20	Pioglitazone 15 MG (15MG TABLET take 1) PO QD		DIN FFF pioglitazone#0	DOSE FFF 15mg#2	DOSE FFF 15mg#3	DDF FFF tablet#4	RUT FFF po#7	FREQ FFF qd#8
+331-02	21	Clopidogrel 75 MG (75MG TABLET take 1) PO QD		DIN FFF clopidogrel#0	DOSE FFF 75mg#2	DOSE FFF 75mg#3	DDF FFF tablet#4	RUT FFF po#7	FREQ FFF qd#8
+331-02	22	Furosemide 20 MG (20MG TABLET take 1) PO BID		DIN FFF furosemide#0	DOSE FFF 20mg#2	DOSE FFF 20mg#3	DDF FFF tablet#4	RUT FFF po#7	FREQ FFF bid#8
+331-02	23	Ferrous GLUCONATE 300 MG PO BID		DIN FFF ferrous gluconate#1	DOSE FFF 300mg#3	RUT FFF po#4	FREQ FFF bid#5
+331-02	24	Lisinopril 80 MG (40MG TABLET ) PO QD , by Dr.		DIN FFF lisinopril#0	DOSE FFF 80mg#2	DOSE FFF 40mg#3	DDF FFF tablet#4	RUT FFF po#6	FREQ FFF qd#7
+331-02	25	Arias.		 
+331-02	26	Atorvastatin 40 MG (40MG TABLET take 1) PO QD		DIN FFF atorvastatin#0	DOSE FFF 40mg#2	DOSE FFF 40mg#3	DDF FFF tablet#4	RUT FFF po#7	FREQ FFF qd#8
+331-02	27	Labetalol HCL 100 MG (100MG TABLET take 1) PO BID		DIN FFF labetalol hcl#1	DOSE FFF 100mg#3	DOSE FFF 100mg#4	DDF FFF tablet#5	RUT FFF po#8	FREQ FFF bid#9
+331-02	28	Allergies		 
+331-02	29	Aspirin - ulcer, : Allergy entered as ASA		 
+331-02	30	Habits: no cigarettes, drugs or alcohol;		DIN FFF drugs#3
+331-02	31	ROS: denies weight change, fever, chills, fatigue, blurry vision, chest pains, palpitations, dyspnea, cough, abdominal pain, nausea, vomiting, change in bowel/bladder habits, joint pain, dizziness, exanthem, edema.		 
+331-02	32	PE notable for:		 
+331-02	33	Well nourished well appearing M;		 
+331-02	34	Vital Signs		 
+331-02	35	BP 184/90, P 72, Wt 236 lb		 
+331-02	36	O2 SAT 99 %		 
+331-02	37	HEENT: sclera clear white OU, EOMI, ear canals and TMs wnl AU; oropharynx without lesions.		 
+331-02	38	LN: No palpable neck or SC LN;		 
+331-02	39	Cardiac: RRR, rate 72, no extra sounds		 
+331-02	40	Resp.: good air movement, no accessory muscle use, no adventitious sounds		 
+331-02	41	Plan:		 
+331-02	42	1. Hypertension: continues to be inadequate in a diabetic.We have limited options; increasing Lisinopril did not add much.		DIN FFF lisinopril#13	INDICATION FFF add#16
+331-02	43	Switch to Labetalol did not help, but he is also not beta-blocked (HR 72) so I am increasing Labetalol to 200 mg BID. 2. Diabetes: control has been good.		DIN FFF labetalol#2	TOD FFF am#16
+331-02	43	Switch to Labetalol did not help, but he is also not beta-blocked (HR 72) so I am increasing Labetalol to 200 mg BID. 2. Diabetes: control has been good.		DIN FFF labetalol#18	DOSE FFF 200mg#21	FREQ FFF bid#22	INDICATION FFF diabetes :#24
+331-02	44	3. Renal insufficiency		 
+331-02	45	4. Hyperlipidemia: we may need to increase Lipitor and/or add Zetia.		DBN FFF lipitor#7	INDICATION FFF add#9
+331-02	45	4. Hyperlipidemia: we may need to increase Lipitor and/or add Zetia.		DBN FFF zetia#10

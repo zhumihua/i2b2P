@@ -1,0 +1,25 @@
+243-04||1||Record date: 2082-08-01
+243-04||2||OSBORNE, MATTISON
+243-04||3||48423663
+243-04||4||08/01/2082
+243-04||5||Willie Knapp, M.D.
+243-04||6||Johnson Family Vision Care
+243-04||7||0529 Governors Lane
+243-04||8||Oroville, AL  89389||INDICATION FFF al FFF 1 1||
+243-04||9||Dear Dr. Knapp:
+243-04||10||It was our pleasure to care for Mr. Osborne to help with his decompensated heart failure.  He was admitted on 07/23/2082, one month after previous admission for abdominal pain.  In retrospect, that admission may have been related in part to GI symptoms of heart failure.  He came in complaining of continued GI discomfort, orthopnea, lower extremity edema, and 9 pounds of weight gain with increasing abdominal girth.  His medications at the time of admission included beta-blockers and ACE inhibitors for hypertension, with no diuretics.||INDICATION FFF heart failure. FFF 14 15||DRT FFF one month FFF 21 22||INDICATION FFF abdominal pain. FFF 27 28||INDICATION FFF symptoms FFF 41 41||INDICATION FFF heart failure. FFF 43 44||INDICATION FFF orthopnea, FFF 53 53||INDICATION FFF lower extremity edema, FFF 54 56||INDICATION FFF weight gain FFF 61 62||DIN FFF ace inhibitors FFF 77 78||INDICATION FFF hypertension, FFF 80 80||DIN FFF diuretics. FFF 83 83||
+243-04||11||During his hospitalization, he underwent 7.5 kilograms of diuresis with resolution of his jugular venous pressure from approximately 25 cm to 8 cm.||DRT FFF during his hospitalization, FFF 0 2||INDICATION FFF diuresis FFF 8 8||INDICATION FFF pressure FFF 15 15||INDICATION FFF cm FFF 19 19||INDICATION FFF cm. FFF 22 22||
+243-04||12||His echocardiogram showed an ejection fraction of approximately 20% with LV dimension of 5.1, enlarged right ventricle with mild decrease in RV function, but severe RV pressure overload with estimated PA pressure 80 plus the right atrial pressure.||DOSE FFF 20% FFF 8 8||INDICATION FFF lv FFF 10 10||INDICATION FFF pressure FFF 26 26||INDICATION FFF overload FFF 27 27||INDICATION FFF pa FFF 30 30||INDICATION FFF pressure FFF 31 31||INDICATION FFF pressure. FFF 37 37||
+243-04||13||After he had his diuresis, he underwent right heart catheterization, which revealed a right atrial pressure of 8, pulmonary capillary wedge pressure of 18, PA pressure of 65/35.||INDICATION FFF his diuresis, FFF 3 4||INDICATION FFF pressure FFF 15 15||INDICATION FFF pressure FFF 21 21||INDICATION FFF pa FFF 24 24||INDICATION FFF pressure FFF 25 25||
+243-04||14||He underwent a trial with IV nitroglycerin, then with sildenafil.||RUT FFF iv FFF 5 5||DIN FFF nitroglycerin, FFF 6 6||DIN FFF sildenafil. FFF 9 9||
+243-04||15||The IV nitroglycerin decreased his BLANK pressures only by approximately 8-10 mm but he noted a further improvement in his dyspnea.||RUT FFF iv FFF 1 1||DIN FFF nitroglycerin FFF 2 2||INDICATION FFF mm FFF 11 11||INDICATION FFF dyspnea. FFF 20 20||
+243-04||16||There was no clear improvement with the sildenafil in either his symptoms or hemodynamics.||DIN FFF sildenafil FFF 7 7||INDICATION FFF symptoms FFF 11 11||
+243-04||17||His cardiac output varied between 3.1 and 4.5 on all the medications.||INDICATION FFF cardiac output FFF 1 2||
+243-04||18||The decision was just to put him on oral nitroglycerin in addition to the other standard heart failure medications.||RUT FFF oral FFF 8 8||DIN FFF nitroglycerin FFF 9 9||INDICATION FFF heart failure FFF 16 17||
+243-04||19||He also underwent a MIBI looking for any evidence of active ischemia, which there was none.||INDICATION FFF ischemia, FFF 11 11||
+243-04||20||At the time of discharge, he is walking easily without postural change or symptoms.||INDICATION FFF change FFF 11 11||INDICATION FFF symptoms. FFF 13 13||
+243-04||21||His medications are Isordil 10 t.i.d., Lasix 40 mg p.o. b.i.d.  He is on Toprol-XL 12.5 daily.||DBN FFF isordil FFF 3 3||DOSE FFF 10 FFF 4 4||FREQ FFF t.i.d., FFF 5 5||DBN FFF lasix FFF 6 6||DOSE FFF 40 mg FFF 7 8||RUT FFF p.o. FFF 9 9||FREQ FFF b.i.d. FFF 10 10||DBN FFF toprol-xl FFF 14 14||DOSE FFF 12.5 FFF 15 15||FREQ FFF daily. FFF 16 16||
+243-04||22||His lisinopril was decreased from 40 mg to 20 mg, but should he have any problems with hypotension, this could certainly be decreased further to 10 or even 5 mg if necessary to allow him comfortable ambulation.||DIN FFF lisinopril FFF 1 1||DOSE FFF 40 mg FFF 5 6||DOSE FFF 20 mg, FFF 8 9||INDICATION FFF hypotension, FFF 17 17||DOSE FFF 5 mg FFF 28 29||
+243-04||23||He is on Plavix 75 mg daily as well and simvastatin 40.||DBN FFF plavix FFF 3 3||DOSE FFF 75 mg FFF 4 5||FREQ FFF daily FFF 6 6||INDICATION FFF as FFF 7 7||DIN FFF simvastatin FFF 10 10||DOSE FFF 40. FFF 11 11||
+243-04||24||His discharge blood pressure is 102/60, jugular venous pressure is 8-9 cm.||INDICATION FFF blood pressure FFF 2 3||INDICATION FFF pressure FFF 8 8||INDICATION FFF cm. FFF 11 11||
+243-04||25||His creatinine is 1.3 with a BUN of 44, hematocrit 40, white blood count 5000, potassium 3.9, sodium 139.||INDICATION FFF creatinine FFF 1 1||INDICATION FFF hematocrit FFF 9 9||DIN FFF potassium FFF 15 15||DOSE FFF 3.9, FFF 16 16||DIN FFF sodium FFF 17 17||DOSE FFF 139. FFF 18 18||

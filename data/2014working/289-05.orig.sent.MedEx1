@@ -1,0 +1,83 @@
+289-05||1||Record date: 2077-11-21
+289-05||2||INTERNAL MEDICINE ASSOCIATES
+289-05||3||SABINE MEDICAL CENTER
+289-05||4||Major Problems
+289-05||5||Diabetes mellitus
+289-05||6||Metformin 1000 mg BID, glyburide 1.25 mg QD.||DIN FFF metformin FFF 0 0||DOSE FFF 1000 mg FFF 1 2||FREQ FFF bid, FFF 3 3||DIN FFF glyburide FFF 4 4||DOSE FFF 1.25 mg FFF 5 6||FREQ FFF qd. FFF 7 7||
+289-05||7||He is trying to be much more disciplined with his diet and as a result, according to his wife, he is experiencing fairly frequent minor hypoglycemic episodes.||INDICATION FFF as FFF 12 12||DIN FFF hypoglycemic FFF 25 25||
+289-05||8||His last hemoglobin A1c six months ago was 6.50.
+289-05||9||Recheck today.  I suspect we will be able to discontinue the glyburide.||DIN FFF glyburide. FFF 11 11||
+289-05||10||Urine albumin/creatinine ratio within normal limits six months ago.||DIN FFF albumin/creatinine FFF 1 1||INDICATION FFF albumin/creatinine FFF 1 1||DRT FFF six months FFF 6 7||
+289-05||11||Coronary artery disease
+289-05||12||Cardiac arrest January 2072 while skiing; multivessel disease on cath; underwent three-vessel bypass (SVGs to the LAD, diagonal, OM).
+289-05||13||Most recent ETT January 2076 showed equivocal mild apical reversible defect.
+289-05||14||Remains active, has had no chest discomfort of any kind or palpitations.
+289-05||15||Continue medical management.
+289-05||16||Myasthenia gravis
+289-05||17||Remains on Mestinon.||DBN FFF mestinon. FFF 2 2||
+289-05||18||Denies symptoms.
+289-05||19||Hyperlipidemia
+289-05||20||Remains on pravastatin.||DIN FFF pravastatin. FFF 2 2||
+289-05||21||Total cholesterol 151, HDL 70, LDL 72, triglycerides 46 February 2077.||DIN FFF triglycerides FFF 7 7||DOSE FFF 46 FFF 8 8||
+289-05||22||Complains of occasional leg spasms but has no fevers or GI symptoms.
+289-05||23||Check CK and transaminases.
+289-05||24||Asthma
+289-05||25||He continues to be followed by Dr.
+289-05||26||Nye; see his notes.
+289-05||27||Continues to have occasional episodes of very minor shortness of breath at rest, never with exercise.
+289-05||28||Lungs clear.
+289-05||29||Doing well.
+289-05||30||Gastroesophageal reflux disease
+289-05||31||Documented on barium swallow 2069.
+289-05||32||Compliant with PPI.||DIN FFF ppi. FFF 2 2||
+289-05||33||No symptoms.
+289-05||34||Anemia
+289-05||35||Longstanding issue, hematocrit in mid 30s, MCV mid 90s, iron studies, ferritin, B12, and folate unremarkable.
+289-05||36||Check TSH, SPEP.05/25/2077:   TSH and SPEP unremarkable.
+289-05||37||Check EPO level, follow CBC.     11/21/2077:   EPO level inappropriately low.||DIN FFF epo FFF 1 1||
+289-05||37||Check EPO level, follow CBC.     11/21/2077:   EPO level inappropriately low.||DIN FFF epo FFF 6 6||
+289-05||38||Therefore, suspect anemia is secondary to age-related reduction in renal mass/GFR.
+289-05||39||Hypertension
+289-05||40||On low-dose ACE inhibitor and beta blocker.||DIN FFF ace inhibitor FFF 2 3||
+289-05||40||On low-dose ACE inhibitor and beta blocker.||DIN FFF beta blocker. FFF 5 6||
+289-05||41||Blood pressure today uncharacteristically elevated, 150/70.
+289-05||42||He attributes this to rushing to get to his appointment with me.
+289-05||43||Blood pressure earlier this month was 120/55 at his pulmonary visit.  I suspect that he is probably well controlled overall.
+289-05||44||For now, no change in management.
+289-05||45||Allergies
+289-05||46||Penicillin allergy
+289-05||47||Active Medications
+289-05||48||Advair 500/50mcg spray inh bid||DBN FFF advair FFF 0 0||DOSE FFF 500/50mcg FFF 1 1||DDF FFF spray FFF 2 2||RUT FFF inh FFF 3 3||FREQ FFF bid FFF 4 4||
+289-05||49||albuterol inhaler  inh 2 puffs qid prn||DBN FFF albuterol inhaler FFF 0 1||RUT FFF inh FFF 2 2||DOSEAMT FFF 2 puffs FFF 3 4||FREQ FFF qid FFF 5 5||NEC FFF prn FFF 6 6||
+289-05||50||aspirin 81mg||DIN FFF aspirin FFF 0 0||DOSE FFF 81mg FFF 1 1||
+289-05||51||atenolol 25mg po qd||DIN FFF atenolol FFF 0 0||DOSE FFF 25mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qd FFF 3 3||
+289-05||52||Ativan 1mg po prn air travel||DBN FFF ativan FFF 0 0||DOSE FFF 1mg FFF 1 1||RUT FFF po FFF 2 2||NEC FFF prn FFF 3 3||
+289-05||53||Dalmane 30 mg take 1 at hs prn||DBN FFF dalmane FFF 0 0||DOSE FFF 30 mg FFF 1 2||FREQ FFF hs FFF 6 6||NEC FFF prn FFF 7 7||
+289-05||54||Fish oil 1 gm DAILY||DIN FFF fish oil FFF 0 1||DOSE FFF 1 gm FFF 2 3||FREQ FFF daily FFF 4 4||
+289-05||55||free text medication #1  QHS quinine||DIN FFF quinine FFF 5 5||
+289-05||56||lisinopril 5 mg po qd||DIN FFF lisinopril FFF 0 0||DOSE FFF 5 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+289-05||57||Mestinon 60mg/180mg 60mg @6am,11am,4pm: then180mg @time spansule at night daily metformin hydrochloride 500 mg 2 tabs po bid multivitamins||DBN FFF mestinon FFF 0 0||DOSE FFF 60mg/180mg FFF 1 1||DOSE FFF 60mg FFF 2 2||TOD FFF @6am,11am,4pm: FFF 3 3||TOD FFF @6am,11am,4pm: FFF 3 3||TOD FFF @6am,11am,4pm: FFF 3 3||
+289-05||57||Mestinon 60mg/180mg 60mg @6am,11am,4pm: then180mg @time spansule at night daily metformin hydrochloride 500 mg 2 tabs po bid multivitamins||DIN FFF spansule FFF 6 6||TOD FFF at night FFF 7 8||FREQ FFF daily FFF 9 9||
+289-05||57||Mestinon 60mg/180mg 60mg @6am,11am,4pm: then180mg @time spansule at night daily metformin hydrochloride 500 mg 2 tabs po bid multivitamins||DIN FFF metformin hydrochloride FFF 10 11||DOSE FFF 500 mg FFF 12 13||DOSEAMT FFF 2 tabs FFF 14 15||RUT FFF po FFF 16 16||FREQ FFF bid FFF 17 17||
+289-05||57||Mestinon 60mg/180mg 60mg @6am,11am,4pm: then180mg @time spansule at night daily metformin hydrochloride 500 mg 2 tabs po bid multivitamins||DIN FFF multivitamins FFF 18 18||
+289-05||58||Protonix 40 mg po qd do not cut/crush/chew||DBN FFF protonix FFF 0 0||DOSE FFF 40 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+289-05||59||Change in therapies and Renewals
+289-05||60||atenolol 25mg po qd Start: 9/18/2074||DIN FFF atenolol FFF 0 0||DOSE FFF 25mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qd FFF 3 3||
+289-05||61||pravastatin 20mg po qd QTY:90 Refills:3 Start: 2/27/2077 End: 11/21/2077 - Inactivated||DIN FFF pravastatin FFF 0 0||DOSE FFF 20mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qd FFF 3 3||
+289-05||62||Past medical history
+289-05||64||Asthma.
+289-05||65||Pneumonia March 2076.
+289-05||66||Right bundle-branch block.
+289-05||67||Raynaud's syndrome, status post sympathectomy.
+289-05||68||Bilat cataract extraction
+289-05||69||Family history
+289-05||71||No known family history of prostate cancer.
+289-05||72||Father may have had malignant rectal polyp.
+289-05||73||Social history
+289-05||75||For decades, Architect in Dumas, now retired.
+289-05||76||Second marriage, two children from first marriage.
+289-05||77||Exercises at least three times per week, usually four.
+289-05||78||Nonsmoker.
+289-05||79||No significant alcohol.
+289-05||80||Procedures and Immunizations
+289-05||81||Influenza vaccine||DIN FFF influenza vaccine FFF 0 1||

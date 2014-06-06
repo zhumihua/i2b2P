@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2111-09-25
+
+Personal Data and Overall Health	
+
+70 obeise english speaking female with HTN, IDDM, +GERD, and Right Breast CA for Right Breast Lumpectomy and axillary node dissection/bx on 09/29/11
+
+
+
+Chief Complaint	
+
+The patient is scheduled for 
+
+
+
+History of Present Illness	
+
+The patient complains of
+
+
+
+Past Surgical History	
+
+Prior surgery includes:  '10 lap chole; '86 TAH/BSO; '63 and '64 C/S; GA w/o problems
+
+
+
+Family History	
+
+There in no family history of adverse reactions to general anesthesia.
+
+
+
+Past Medical History	
+
+Current medical problems include:  HTN, IDDM, +GERD, and HPI
+
+
+
+Social History	
+
+Smoking: quit tobac x10 yrs, min amt smoked
+
+Alcohol use: no history of excessive use
+
+Substance abuse: none
+
+
+
+Review of Systems	
+
+Medications: NPH Insulin, 20u QAM, 12u QPM; Atenolol, and other antihypertensive; Zantac
+
+Allergies:  none
+
+Cardiovascular:  HTN, no MI; denies CP, +DOE, syncope, ankle edema; Pt. performs house work w/o problems
+
+7/24 stress test :Negative
+
+Respiratory: no history of asthma or chronic lung disease; denies unusual shortness of breath
+
+CHEST CT: MULTI PULMONARY NODULES
+
+Neurological: no history of neurological problems
+
+Gastrointestinal: +GERD; no h/o PUD
+
+Hepatobiliary: no history of liver disease; denies jaundice or hepatitis
+
+Renal/Genitourinary: no history of renal failure; denies hematuria, dysuria, obstructive uropathy
+
+Musculoskeletal: LBP and B Knee pain; BONE SCAN: ABNORMALITY @ L1
+
+Endocrine/metabolic: IDDM x2-3 yrs, no endocrinopathy 
+
+Heme/Onc:  no history of bleeding, blood diseases; HPI, No Chemo or XRT
+
+Psychiatric: no significant psychiatric problems
+
+
+
+
+
+Exam	
+
+SaO2:98%
+
+Ht:57.1"
+
+Wt:180.8#
+
+BP:148/58
+
+P:61
+
+
+
+HEEN&T:  good range of motion, no masses, neck veins flat, no bruits
+
+Airway:  Mallampatti Class I or II
+
+Teeth:  Upper dentures, lower in good repair
+
+Lungs:  clear bilaterally
+
+Heart:  regular rhythm, no murmurs, S1=S2, no gallop
+
+Abdomen:  OBEISE
+
+Extremities:  not examined
+
+
+
+Assessment	
+
+ASA Physical Status:  III
+
+Well prepared for surgery; Pt to take half of NPH dose in am and have IV started early upon arrival to SDP and drink clear lq juice if she is feeling as if her BS is low; Daughter to accompany pt. for translation purposes
+
+
+
+Plan	
+
+Proposed Anesthetic: GETA with RSI
+
+Monitors:  standard
+
+Pain Management:  IVPCA
+
+Autologous blood:  none
+
+Premedication:  none
+
+Usual Medications:  take on day of surgery
+
+Medications to be held on day of surgery:  none
+
+Diabetic medications:  1/2 of NPH in AM
+
+NSAIDS:  avoid for 3 days before surgery
+
+Aspirin:  avoid for 7 days before surgery
+
+NPO: after midnight 
+
+
+
+External Labs	
+
+Not available
+
+
+
+Attending Anesthesiologist Reassessment Note	
+
+I have reviewed this preanesthetic assessment and concur with the assessment and recommended plan with the following exceptions:
+
+
+
+
+
+
+
+
+
+
+
+______________________________                              
+
+
+
+
+
+
+
+Whitt, Qiana
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC2" time="after DCT" indicator="mention"/>
+    <OBESE id="DOC6" time="during DCT" indicator="mention"/>
+    <OBESE id="DOC12" time="before DCT" indicator="mention"/>
+    <MEDICATION id="DOC1" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC8" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC14" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC17" time="after DCT" type1="insulin" type2=""/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC11" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC15" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC16" indicator="not present"/>
+    <SMOKER id="DOC5" status="past"/>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC9" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC10" time="during DCT" indicator="mention"/>
+  </TAGS>
+</root>

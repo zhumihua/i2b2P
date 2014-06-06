@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2059-08-09
+
+EDVISIT^43471375^KIMBROUGH, AMELIA^08/09/59^STEELE, SHAYLYN
+
+This patient was seen with resident, Dr. Penn, whose note was
+
+reviewed and confirmed by me.
+
+HISTORY OF PRESENT ILLNESS:  This is a 46-year-old woman with
+
+end-stage renal disease secondary to minimal chain disease, on
+
+hemodialysis, presenting with severe hypertension, headache,
+
+nausea, and vomiting in the setting of blood pressures in the
+
+200s/100s today.
+
+Please review resident's note for full details of past medical
+
+history, social history, review of systems, medications, and
+
+allergies.
+
+PHYSICAL EXAMINATION:  I confirm the physical exam is as
+
+documented.  The patient is awake, alert, and appears to be in
+
+mild to moderate discomfort.  Vital signs reveal pulse of 108,
+
+respirations 22, blood pressure 226/129, and oximetry is 96% on
+
+room air.  The patient is afebrile.  HEENT exam reveals well
+
+visualized disks bilaterally on funduscopic exam.  There is no
+
+papilledema noted.  Posterior pharynx is clear.  Lungs are clear
+
+to auscultation with good air movement throughout.  Heart is
+
+regular.  Abdomen is soft.  Extremity exam reveals no cyanosis,
+
+clubbing, or edema.  Neurologic:  The patient is intact.  There
+
+is a left brachiocephalic shunt noted with a good thrill easily
+
+palpable.
+
+LABORATORY DATA:  White count is 5.4, hematocrit 45, BUN and
+
+creatinine 31 and 6.0, potassium is noted at 5.3%, cardiac
+
+enzymes flat, and coags are unremarkable.
+
+IMAGING STUDIES:  EKG is sinus rhythm without any ST or T-wave
+
+changes concerning for ischemia.  Head CT shows no acute
+
+processes.
+
+EMERGENCY DEPARTMENT COURSE:  The patient was given IV fluids and
+
+treated with Zofran for her nausea, labetalol 200 mg p.o.
+
+followed by 10 mg intravenously, which brought her pressure down
+
+very nicely to 168/86.  After fluids, Zofran, and blood pressure
+
+control, her symptoms improved dramatically.  She was admitted to
+
+the Observation Unit to monitor her blood pressure overnight with
+
+anticipated discharge in the morning.
+
+ ******** Not reviewed by Attending Physician ********
+
+DIAGNOSIS:  Hypertensive urgency.
+
+______________________________
+
+STEELE, SHAYLYN 
+
+D: 08/12/59
+
+T: 08/12/59
+
+Dictated By: STEELE, SHAYLYN
+
+eScription document:2-5546221 BFFocus
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC6" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC0" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC3" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC4" indicator="not present"/>
+    <SMOKER id="DOC5" status="unknown"/>
+  </TAGS>
+</root>

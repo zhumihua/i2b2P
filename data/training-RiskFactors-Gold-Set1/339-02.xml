@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2084-04-29
+
+BP elevated at last Diabetes Clinic visit. 140/80 on HCTZ and ACE. Lo dose B blocker suggested.
+
+
+
+Also c/o pain, clicking and locking in L knee.
+
+
+
+PE: WD/WN in NAD
+
+
+
+Vital signs
+
+BP 140/80 Left Arm, P 84 Regular, Wt 198 lb 
+
+
+
+L knee - no increased warmth, +/- effussion
+
+
+
+Plan: MRI of L knee
+
+        Start Lopressor 25 mg qd 
+
+        RTC 1 week to se English for BP check 
+
+
+
+
+
+_____________________________________________
+
+Nebraska G. Hunter, MD
+
+
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC3" time="before DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC4" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC11" time="before DCT" indicator="high bp"/>
+    <FAMILY_HIST id="DOC5" indicator="not present"/>
+    <SMOKER id="DOC10" status="unknown"/>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC12" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

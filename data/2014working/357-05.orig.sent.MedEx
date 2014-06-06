@@ -1,0 +1,46 @@
+357-05	1	Record date: 2081-02-03		 
+357-05	2	Brooks HospitalStaff Admission Note		 
+357-05	3	Intern: Putnam		 
+357-05	4	Att: Volpe		 
+357-05	5	CC:		 
+357-05	6	question of unresponsive		 
+357-05	7	HPI:80 yoF with ESRD on HD (T/R/Sa), severe dementia, and h/o falls, discharged 12 days ago from ZCC s/p fall and femur fracture.		 
+357-05	8	Patient was evauated by Ortho who wanted to pursue a trial of non-operative management with bracing  as patient was a poor surgical candidate.		 
+357-05	9	The patient was seen one day PTA in the ED for hypotension at HD.		 
+357-05	10	Appearantly on the trasfer to BH the patient fainted in the ambulance.		 
+357-05	11	The patient denied all complaints and had a normal head CT and EKG and was discharged home.		 
+357-05	12	Patient was at YGH today and per nursing notes, the patient was not responsive verbally, wuith BP 136/58, BS 105, O2 100% on RA during this period.		 
+357-05	13	However,  nursing reports some epidoses of apnea, clinically resolving after 15 minutes, during this episode, afterwhich the patient perked up on her own.		 
+357-05	14	Per LMR patient is only intermittenly verbal and severely demented at baseline.		 
+357-05	15	Incontinent at baseline, no acute incontinence, no jerking or shaking.		 
+357-05	16	Of note, patient is cared for by daughter and numerous ancillary serivces.		 
+357-05	17	The patient's family has refused SNF placement in the past.		 
+357-05	18	Patient makes only occasional urine at baseline.		 
+357-05	19	Daughter reports patient has been eating fine at home, but is worried about these two episodes of "unresponsiveness".		 
+357-05	20	Patient is scheduled for fistulogram tomorrow and patient is supposed to be NPO after midnight for this procedure.		 
+357-05	21	ED Course: Patient is being admitted for observation.		 
+357-05	22	Patient has baseline normal VS, follows commands, patient has not passed out or become apneic in ED.		 
+357-05	23	CT Head not repeated as done yesterday.		 
+357-05	24	ED physician states EKG shows no acute infarct.		 
+357-05	25	ROS: Good appetite, no fevers, patient has been compliant with all medications per daughter.		 
+357-05	26	No coughs or colds, NO prlonged diarrhea.		 
+357-05	27	PMH:		 
+357-05	28	CRI -on HD (T,Th,Sa)LGIB 12/80 - at ZCC, no cause identified, Hct 27 on d/cfrequent fallsHTNDM2CVA (2068)dementiaR knee OA, chronic contracturelegal blindnessuncertain h/o seizures		 
+357-05	29	MEDS:		 
+357-05	30	1.  ACETYLSALICYLIC ACID   81 MG PO  DAILY  2.  AMLODIPINE   10 MG PO  DAILY  3.  CINACALCET   30 MG PO  DAILY  4.  DONEPEZIL HCL   5 MG PO  DAILY  5.  LABETALOL HCL   100 MG PO  BID  6.  LISINOPRIL   40 MG PO  DAILY  7.  NEPHRO-VIT RX   1 TAB PO  DAILY  8.  PRAVASTATIN   40 MG PO  BEDTIME  9.		DBN FFF acetylsalicylic acid#2	DOSE FFF 81mg#4	RUT FFF po#5	FREQ FFF daily#6
+357-05	30	1.  ACETYLSALICYLIC ACID   81 MG PO  DAILY  2.  AMLODIPINE   10 MG PO  DAILY  3.  CINACALCET   30 MG PO  DAILY  4.  DONEPEZIL HCL   5 MG PO  DAILY  5.  LABETALOL HCL   100 MG PO  BID  6.  LISINOPRIL   40 MG PO  DAILY  7.  NEPHRO-VIT RX   1 TAB PO  DAILY  8.  PRAVASTATIN   40 MG PO  BEDTIME  9.		DIN FFF amlodipine#8	DOSE FFF 10mg#10	RUT FFF po#11	FREQ FFF daily#12
+357-05	30	1.  ACETYLSALICYLIC ACID   81 MG PO  DAILY  2.  AMLODIPINE   10 MG PO  DAILY  3.  CINACALCET   30 MG PO  DAILY  4.  DONEPEZIL HCL   5 MG PO  DAILY  5.  LABETALOL HCL   100 MG PO  BID  6.  LISINOPRIL   40 MG PO  DAILY  7.  NEPHRO-VIT RX   1 TAB PO  DAILY  8.  PRAVASTATIN   40 MG PO  BEDTIME  9.		DIN FFF cinacalcet#14	DOSE FFF 30mg#16	RUT FFF po#17	FREQ FFF daily#18
+357-05	30	1.  ACETYLSALICYLIC ACID   81 MG PO  DAILY  2.  AMLODIPINE   10 MG PO  DAILY  3.  CINACALCET   30 MG PO  DAILY  4.  DONEPEZIL HCL   5 MG PO  DAILY  5.  LABETALOL HCL   100 MG PO  BID  6.  LISINOPRIL   40 MG PO  DAILY  7.  NEPHRO-VIT RX   1 TAB PO  DAILY  8.  PRAVASTATIN   40 MG PO  BEDTIME  9.		DIN FFF donepezil hcl#21	DOSE FFF 5mg#23	RUT FFF po#24	FREQ FFF daily#25
+357-05	30	1.  ACETYLSALICYLIC ACID   81 MG PO  DAILY  2.  AMLODIPINE   10 MG PO  DAILY  3.  CINACALCET   30 MG PO  DAILY  4.  DONEPEZIL HCL   5 MG PO  DAILY  5.  LABETALOL HCL   100 MG PO  BID  6.  LISINOPRIL   40 MG PO  DAILY  7.  NEPHRO-VIT RX   1 TAB PO  DAILY  8.  PRAVASTATIN   40 MG PO  BEDTIME  9.		DIN FFF labetalol hcl#28	DOSE FFF 100mg#30	RUT FFF po#31	FREQ FFF bid#32
+357-05	30	1.  ACETYLSALICYLIC ACID   81 MG PO  DAILY  2.  AMLODIPINE   10 MG PO  DAILY  3.  CINACALCET   30 MG PO  DAILY  4.  DONEPEZIL HCL   5 MG PO  DAILY  5.  LABETALOL HCL   100 MG PO  BID  6.  LISINOPRIL   40 MG PO  DAILY  7.  NEPHRO-VIT RX   1 TAB PO  DAILY  8.  PRAVASTATIN   40 MG PO  BEDTIME  9.		DIN FFF lisinopril#34	DOSE FFF 40mg#36	RUT FFF po#37	FREQ FFF daily#38
+357-05	30	1.  ACETYLSALICYLIC ACID   81 MG PO  DAILY  2.  AMLODIPINE   10 MG PO  DAILY  3.  CINACALCET   30 MG PO  DAILY  4.  DONEPEZIL HCL   5 MG PO  DAILY  5.  LABETALOL HCL   100 MG PO  BID  6.  LISINOPRIL   40 MG PO  DAILY  7.  NEPHRO-VIT RX   1 TAB PO  DAILY  8.  PRAVASTATIN   40 MG PO  BEDTIME  9.		DBN FFF nephro-vit rx#41	DOSEAMT FFF 1 tab#43	RUT FFF po#44	FREQ FFF daily#45
+357-05	30	1.  ACETYLSALICYLIC ACID   81 MG PO  DAILY  2.  AMLODIPINE   10 MG PO  DAILY  3.  CINACALCET   30 MG PO  DAILY  4.  DONEPEZIL HCL   5 MG PO  DAILY  5.  LABETALOL HCL   100 MG PO  BID  6.  LISINOPRIL   40 MG PO  DAILY  7.  NEPHRO-VIT RX   1 TAB PO  DAILY  8.  PRAVASTATIN   40 MG PO  BEDTIME  9.		DIN FFF pravastatin#47	DOSE FFF 40mg#49	RUT FFF po#50	TOD FFF bedtime#51
+357-05	31	SEVELAMER   800 MG PO  AC		DIN FFF sevelamer#0	DOSE FFF 800mg#2	RUT FFF po#3	TOD FFF ac#4
+357-05	32	ALL:NKDA		 
+357-05	33	SH:lives with daughter (Grace) who provides FT care; unable to perform ADL/IADLs.		 
+357-05	34	FH:No family hx of dementia or seizures		 
+357-05	35	PE: VS: T 98 P 82 139/56 100% RA		INDICATION FFF pe#0	DIN FFF t 98#3	DOSE FFF 100%#7	INDICATION FFF ra#8
+357-05	36	General: well appearing, NAD		 
+357-05	37	HEENT: Eyes: PERRLA, EOMI		 
+357-05	38	Nose: mucosa pink, no erythema or discharge		 
+357-05	39	Neck: 6 cm JVD		 

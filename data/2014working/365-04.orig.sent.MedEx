@@ -1,0 +1,13 @@
+365-04	1	Record date: 2074-06-09		 
+365-04	2	Reason for Visit This is a  47 year old  male referred to the diabetes management service for uncontrolled diabetes by Dr.		 
+365-04	3	OldhamChief Complaint This patient is admitted to the hospital for gastric bypassHistory of Present Illness The patient has a  10  year history of Type 2 diabetes.		DIN FFF a 10#19	INDICATION FFF type 2 diabetes#25
+365-04	4	He was treated with  metformin and insulin.		DIN FFF metformin#4
+365-04	4	He was treated with  metformin and insulin.		DIN FFF insulin#6
+365-04	5	Unclear when metformin was discontinued.		DIN FFF metformin#2
+365-04	6	Currently the patient is treated with   detemir 60 bid and novolog 50 ac  as an outpatient .		FREQ FFF bid#8	DBN FFF novolog#10	DOSE FFF 50#11	TOD FFF ac#12	INDICATION FFF as#13
+365-04	7	The control has been poor.		 
+365-04	8	The patient tests his blood sugar  several  times a day with results ranging from 200-300.The current diet is not well controlled.		 
+365-04	9	The patient has not been bothered by  hypoglycemia .		 
+365-04	10	Diabetic complications include neuropathy with numbness in feet and nephropathy with macroalbuminuria.		 
+365-04	11	He had gastric bypass last night.		 
+365-04	12	He received Lantus 30.		DBN FFF lantus#2	DOSE FFF 30#3

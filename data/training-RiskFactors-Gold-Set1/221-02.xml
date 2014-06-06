@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2089-10-07
+
+Medications:
+
+Prilosec 20 - 2
+
+Atenolol 50 
+
+Cozaar 50
+
+Lipitor 10
+
+Valium 2 - 
+
+Advair 2i puff bid
+
+Alupent prn
+
+
+
+
+
+Problem #1: GERD
+
+No heart burn on Prilosec. He does note attacks of ss chest pain radiating to L arm relieved by valium and Gaviscon and attributed by Y. Ullrich to reflux (Ted says). No exertional trigger to these.
+
+Problem #2: CAD
+
+No exertional chest pain, dizzy spells or episodes of dizziness. Thallium stress last year to METS 13 showed normal ECG but a small anteroseptal zone of ischemia with reperfusion. Has not really engaged in fitness program as recommended by Y Ullrich
+
+Problem # 3 .HT
+
+BP's 150/80 range at home
+
+Problem #4 Hyperlipidemia
+
+Last chol169  TG 270  HDL 35  LDL 79  (9/88)
+
+Problem # 5 Asthma
+
+Intensifies seasonally  (now) controlled with inhalants
+
+Problem # 6  Recurrent sinusitis
+
+He describes stuffiness of sinuses, at times has been treated by his ENT physician with cipro. May need drainage surgery
+
+
+
+Social History  Unchanged
+
+
+
+ROS
+
+HEENT: No hearing or visual problems.
+
+Resp:    See above
+
+CV:       See above
+
+Abd:      No nausea, vomiting, pain, bowel disturbance, hematochezia, melena
+
+GU:        No dysuria, hematuria, flank pain.
+
+NM:      No sensory, gait, strength deficits. No syncope, seizures.
+
+Endoc:  No polyuria, polydipsia, heat or cold intolerance.
+
+BMJ:     No myalgias, arthralgias.
+
+Other:    No wt loss, fever, fatigue, sleep difficulty.
+
+ 
+
+Physical Examination
+
+
+
+
+
+BP 170/70 (!)  P 56 RSR  
+
+
+
+HEENT  PERLA.  Pharynx benign
+
+
+
+Neck:  Supple.  Thyroid not enlarged.  No carotid bruit
+
+
+
+LN'S:   No lymphadenopathy
+
+
+
+Lungs:   Clear to percussion and auscultation
+
+
+
+Heart:  Not enlarged. No murmurs
+
+
+
+Abdomen:   Soft.  No organomegaly, masses. tenderness. 
+
+
+
+Rectal: Prostate 2x enlarged, symm, no masses
+
+
+
+Extremities:  Full ROM.  No edema.  Pedal pulses intact
+
+
+
+Neurological:  Grossly normal
+
+
+
+
+
+Impression and plan:
+
+
+
+GERD - same program
+
+CAD - Repeat lipids; make appt to see Y Ullrich
+
+HT  Add dyazide 1 qd to program
+
+Hyperlipidemia - consider doubling Lipitor - as per Yosef Ullrich
+
+
+
+ Forty minutes spent with patient in counsselling and coordinating care.
+
+
+
+
+
+
+
+______________________________                              
+
+
+
+Ulysses Gilbert
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC2" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC4" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC14" time="after DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC11" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC12" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC16" time="after DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC19" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC20" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC22" time="during DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC23" time="before DCT" type1="ARB" type2=""/>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC6" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC17" time="before DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC18" time="before DCT" indicator="mention"/>
+    <CAD id="DOC3" time="before DCT" indicator="test"/>
+    <CAD id="DOC9" time="after DCT" indicator="mention"/>
+    <CAD id="DOC15" time="during DCT" indicator="mention"/>
+    <CAD id="DOC21" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC13" indicator="not present"/>
+    <SMOKER id="DOC8" status="unknown"/>
+  </TAGS>
+</root>

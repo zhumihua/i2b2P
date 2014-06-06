@@ -1,0 +1,73 @@
+309-03	1	Record date: 2093-10-18		 
+309-03	2	NAME:     Wilson, Gabriel		 
+309-03	3	MRN:     8514931		 
+309-03	4	HISTORY OF PRESENT ILLNESS:  Gabriel Wilson is a 72-year-old Croatian female, referred by Dr.		 
+309-03	5	Fraser for evaluation of complaints of dizziness.		 
+309-03	6	Her daughter, who is a Library Manager here, accompanies her mother today.		 
+309-03	7	Apparently, for many years, perhaps as many as five, her mother has complained of "feeling pulled" when she walks.		 
+309-03	8	This never occurs when lying down or sitting.		 
+309-03	9	It is only when she is walking that she feels she is being pulled, either to the right, left, forward or backward.		 
+309-03	10	At times, she does visibly veer when she walks.		 
+309-03	11	She has had one fall a number of months ago when she broke her wrist.		 
+309-03	12	She has not had any subsequent falls.		 
+309-03	13	There is no associated true spinning vertigo, no associated visual change, numbness, weakness, change in gait, change in speech and no headache.		 
+309-03	14	She actually feels that over the past few weeks, it has been a little better, though prior to that, it was a little more severe.		 
+309-03	15	Unable to associate this with any clear intervention.		 
+309-03	16	Unaware of any precipitating or alleviating symptoms.		 
+309-03	17	Review of other systems notable for general fatigue.		 
+309-03	18	Otherwise unremarkable.		 
+309-03	19	No chest pain, shortness of breath or abdominal pain.		 
+309-03	20	PAST MEDICAL HISTORY: Hepatitis B, diabetes, hypertension, GE reflux,		 
+309-03	21	hyperlipidemia, depression, cataracts.		 
+309-03	22	MEDICATIONS:  Aspirin, Colace, Cozaar, Flonase, Fosamax, hydrochlorothiazide,		DIN FFF aspirin#1
+309-03	22	MEDICATIONS:  Aspirin, Colace, Cozaar, Flonase, Fosamax, hydrochlorothiazide,		DBN FFF colace#2
+309-03	22	MEDICATIONS:  Aspirin, Colace, Cozaar, Flonase, Fosamax, hydrochlorothiazide,		DBN FFF cozaar#3
+309-03	22	MEDICATIONS:  Aspirin, Colace, Cozaar, Flonase, Fosamax, hydrochlorothiazide,		DBN FFF flonase#4
+309-03	22	MEDICATIONS:  Aspirin, Colace, Cozaar, Flonase, Fosamax, hydrochlorothiazide,		DBN FFF fosamax#5
+309-03	22	MEDICATIONS:  Aspirin, Colace, Cozaar, Flonase, Fosamax, hydrochlorothiazide,		DIN FFF hydrochlorothiazide#6
+309-03	23	Lopid, meclizine p.r.n., Protonix, Prozac, Vioxx.		DBN FFF lopid#0
+309-03	23	Lopid, meclizine p.r.n., Protonix, Prozac, Vioxx.		DIN FFF meclizine#1	NEC FFF p.r.n#2
+309-03	23	Lopid, meclizine p.r.n., Protonix, Prozac, Vioxx.		DBN FFF protonix#3
+309-03	23	Lopid, meclizine p.r.n., Protonix, Prozac, Vioxx.		DBN FFF prozac#4
+309-03	23	Lopid, meclizine p.r.n., Protonix, Prozac, Vioxx.		DBN FFF vioxx#5
+309-03	24	FAMILY HISTORY: Negative for neurologic disease.		 
+309-03	25	SOCIAL HISTORY:  She is widowed and lives with her niece.		 
+309-03	26	She neither drinks nor smokes.		 
+309-03	27	PHYSICAL EXAMINATION: On exam, she is a pleasant, quiet, soft-spoken,		 
+309-03	28	72-year-old female. BP 140/84.		 
+309-03	29	Cranial nerves II through XII intact to detailed exam, except for decreased hearing on the left.		 
+309-03	30	On motor exam, no rigidity, no drift.		 
+309-03	31	Good power throughout upper and lower extremities.		 
+309-03	32	She does, however, seem mildly bradykinetic diffusely.		 
+309-03	33	Finger tapping was slow bilaterally and symmetric.		 
+309-03	34	Amplitude is normal for finger tapping.		 
+309-03	35	Power in the lower extremities 5/5.		 
+309-03	36	Sensory exam with mild vibratory loss in the toes.		 
+309-03	37	Finger-to-nose testing intact.		 
+309-03	38	Foot-tapping decreased bilaterally.		 
+309-03	39	Romberg sway.		 
+309-03	40	Her gait is slightly wide-based, with occasional veering to either side.		 
+309-03	41	She is unable to perform tandem.		 
+309-03	42	DTR's 2+ throughout, except for 1+ ankle jerks.		 
+309-03	43	Babinski flexor bilaterally.		DIN FFF flexor#1
+309-03	44	DATA: MRI/MRA of the brain 8/30 shows mild to moderate white matter hyperintensity in the corona radiata, centrum semiovale and moderate bilateral pontine involvement and multifocal lacunar infarcts of the lentiform nuclei, right internal capsule and bilateral thalami.		DBN FFF centrum#17	INDICATION FFF infarcts#27	DDF FFF capsule#34
+309-03	45	Intracranial atherosclerosis is seen involving the anterior middle cerebral arteries with a greater degree of involvement of the posterior cerebral arteries and intermittent development of moderate mid-segment stenosis of the basilar artery.		 
+309-03	46	Bloodwork 2/27: SMA7 normal, except glucose 134. 8/30 bili, total protein, albumin, globulin within normal limits.		DIN FFF albumin#11
+309-03	47	LFT's normal except SGOT elevated at 46.		 
+309-03	48	IMPRESSION: 72-year-old female with diabetes, chronic hepatitis C and hypertension, complaining of basically veering of her gait and feeling unsteady.		 
+309-03	49	She is symptomatic only when she walks.		 
+309-03	50	Her exam is notable for mild vibratory loss in the toes, likely due to diabetic neuropathy, bilateral lower-extremity dysmetria and the wide-based, at times veering gait.		 
+309-03	51	It appears that her gait difficulties with veering  are multifactorial, due to history of multiple lacunar infarcts and peripheral neuropathy.		 
+309-03	52	It does not appear that these episodes are due to transient ischemic attacks, given that she veered in the office while walking and stated that this was the symptom she is concerned about.		 
+309-03	53	However, given her mid-segment basilar stenosis seen on MRI, she certainly could become symptomatic from this down the road, particularly if she became hypotensive.		 
+309-03	54	As she was unable to tolerate Aggrenox, will try adding		INDICATION FFF as#0	DBN FFF aggrenox#6
+309-03	55	Persantine at a lower dose at 25 mg b.i.d., along with an aspirin per day, to see if she can tolerate gradually increased doses of Persantine. I will see her in follow up in two months to see how she is doing.		DBN FFF persantine#0	DOSE FFF lower dose#4	DOSE FFF 25mg#7	FREQ FFF b.i.d#8
+309-03	55	Persantine at a lower dose at 25 mg b.i.d., along with an aspirin per day, to see if she can tolerate gradually increased doses of Persantine. I will see her in follow up in two months to see how she is doing.		DIN FFF aspirin#12	FREQ FFF per day#14
+309-03	55	Persantine at a lower dose at 25 mg b.i.d., along with an aspirin per day, to see if she can tolerate gradually increased doses of Persantine. I will see her in follow up in two months to see how she is doing.		DBN FFF persantine#25	DRT FFF two months#35
+309-03	56	May also consider checking CBC, given her symptoms of fatigue and other bloodwork should these symptoms persist.		 
+309-03	57	Hope Kincaid, M.D.		 
+309-03	58	CC: Julie Fraser, M.D.		 
+309-03	59	HK/crane/kang		 
+309-03	60			 
+309-03	61			 
+309-03	62			 

@@ -1,0 +1,79 @@
+251-04||1||Record date: 2084-05-26
+251-04||2||HCC CANCER CENTER ADMIT NOTE||INDICATION FFF hcc FFF 0 0||INDICATION FFF cancer FFF 1 1||
+251-04||3||PATIENT:  Ulyses Vollmer
+251-04||4||MRN:        8740465
+251-04||5||DOA:        May 26, 2084
+251-04||6||CC:  73M w/ metastatic esophageal CA presenting to ED after presyncopal episode||TOD FFF cc: FFF 0 0||INDICATION FFF esophageal ca FFF 4 5||INDICATION FFF ed FFF 8 8||
+251-04||7||Oncologic History
+251-04||8||6/83  Dysphagia
+251-04||9||7/83  EGD GE jnc mass; mod-poorly differentiated adenoca.  CT chest:  esoph wall thickening at 35-40 cm extending to cardia, LAN: gastroepiploic, celiac and aortocaval, (L) axilla, gastrohepatic ligament, celiac axis and retrocrural space.||INDICATION FFF ge FFF 2 2||INDICATION FFF adenoca. FFF 7 7||INDICATION FFF ct FFF 8 8||INDICATION FFF cm FFF 15 15||INDICATION FFF celiac FFF 21 21||INDICATION FFF celiac FFF 28 28||
+251-04||10||Also 3mm nodule adjacent to the (R) major fissure in the lung.||INDICATION FFF 3mm FFF 1 1||
+251-04||11||PET scan confirmed axillary and abdominal involvement with cancer.||INDICATION FFF pet FFF 0 0||INDICATION FFF cancer. FFF 8 8||
+251-04||12||8-9/83 XRT to esophagus||INDICATION FFF esophagus FFF 3 3||
+251-04||13||10/83  Weekly taxotere||FREQ FFF weekly FFF 1 1||DBN FFF taxotere FFF 2 2||
+251-04||14||2/17/84.
+251-04||15||Extravasation of taxotere.||INDICATION FFF extravasation FFF 0 0||DBN FFF taxotere. FFF 2 2||
+251-04||16||Subsequently held. 3/14/84  Restaging work-up revealed progressive disease.
+251-04||17||Increasing mediastinal lymphadenopathy stable left axillary lymphadenopathy.
+251-04||18||Interval increase in size in lingular and right upper lobe subpleural nodules suspicious for metastatic disease.||INDICATION FFF metastatic disease. FFF 14 15||
+251-04||19||New small pericardial effusion and left pleural effusion.||INDICATION FFF left pleural effusion. FFF 5 7||
+251-04||20||There is partial loculation of the left effusion.
+251-04||21||There is significant increase in size in the right pleural effusion. 3/2084 admitted for resection of brain met.||INDICATION FFF pleural effusion. FFF 9 10||DIN FFF met. FFF 17 17||
+251-04||22||WBXRT afterwards 4/22/2084 - returns to clinic feels tired 5/06/2084 - restaging showed worsening disease.||INDICATION FFF tired FFF 8 8||
+251-04||23||Tired. Occasional CP with exertion. back pain 5/23/2084 - started Irinotecan||INDICATION FFF tired. FFF 0 0||INDICATION FFF cp FFF 2 2||INDICATION FFF back pain FFF 5 6||DIN FFF irinotecan FFF 10 10||
+251-04||24||History of Present Illness:  Mr. Vollmer is a 73 yo man with stage IVB esophageal cancer s/p XRT and 6 mo weekly taxotere, complicated by RV thrombosis (on coumadin) and extravasation of taxotere on 2/17/84.  This was followed by brain resection and WBXRT.  He started Irinotecan on 5/23.||INDICATION FFF esophageal cancer FFF 14 15||DRT FFF 6 mo FFF 19 20||FREQ FFF weekly FFF 21 21||DBN FFF taxotere, FFF 22 22||INDICATION FFF thrombosis FFF 26 26||DBN FFF coumadin) FFF 28 28||INDICATION FFF extravasation FFF 30 30||DBN FFF taxotere FFF 32 32||DIN FFF irinotecan FFF 45 45||
+251-04||25||He woke from bed this am and fely dizzy and lightheaded upon standing.||TOD FFF am FFF 5 5||
+251-04||26||By the time he reached the kitchen, he fell and hit the L side of his face on the floor, sustaining a small cut at his nose.||INDICATION FFF hit FFF 10 10||RUT FFF face FFF 16 16||
+251-04||27||The patient reports that he did not lose consciousness.||INDICATION FFF lose consciousness. FFF 7 8||
+251-04||28||No vertigo, no loss of continence, no uncontrolled movements of the extremities, no weakness, no parasthesias, no changes in vision, no chest pain, no shortness of breath.||INDICATION FFF vertigo, FFF 1 1||INDICATION FFF chest pain, FFF 21 22||INDICATION FFF shortness of breath. FFF 24 26||
+251-04||29||Patient notes decreased appetite and poor PO intake over the past few days.||RUT FFF po FFF 6 6||
+251-04||30||No recent bouts of diarrhea or nausea/vomiting.||INDICATION FFF diarrhea FFF 4 4||INDICATION FFF nausea/vomiting. FFF 6 6||INDICATION FFF nausea/vomiting. FFF 6 6||
+251-04||31||He was brought to ED where he was placed on cardiac monitor.||INDICATION FFF ed FFF 4 4||
+251-04||32||EKG showed NSR with no evidence of arrhythmia.||INDICATION FFF arrhythmia. FFF 7 7||
+251-04||33||Head CT showed no bleed or other abnormality.||INDICATION FFF ct FFF 1 1||
+251-04||34||Labs were consistent with dehydration and IVF started.||INDICATION FFF dehydration FFF 4 4||
+251-04||35||Review of Systems:
+251-04||36||General: decreased appetite over the past few weeks, markedly decreased PO intake over past several days.||RUT FFF po FFF 10 10||DRT FFF several days. FFF 14 15||
+251-04||37||No fevers.||INDICATION FFF fevers. FFF 1 1||
+251-04||38||Respiratory: no SOB, DOE, cough, hemoptysis||INDICATION FFF sob, FFF 2 2||INDICATION FFF cough, FFF 4 4||
+251-04||39||HEENT: No neck swelling, no neck stiffness, no hoarseness, no hearing loss||INDICATION FFF swelling, FFF 3 3||
+251-04||40||Cardiac: No chest pain, no palpitations, no arrythmias||INDICATION FFF chest pain, FFF 2 3||
+251-04||41||Gastrointestinal: no N/V/diarrhea, + constipation, no bleeding||INDICATION FFF n/v/diarrhea, FFF 2 2||INDICATION FFF constipation, FFF 4 4||INDICATION FFF bleeding FFF 6 6||
+251-04||42||Neurologic: No seizures, new headaches, numbness, weakness||INDICATION FFF seizures, FFF 2 2||INDICATION FFF headaches, FFF 4 4||
+251-04||43||Musculoskeletal: No new back pain, no saddle paresthsia, no neck pain, no leg pain, no arm pain||INDICATION FFF back pain, FFF 3 4||INDICATION FFF pain, FFF 10 10||INDICATION FFF leg pain, FFF 12 13||INDICATION FFF pain FFF 16 16||
+251-04||44||Urologic: No hematuria, no dysuria
+251-04||45||Hematologic: No bruising, clotting, bleeding noted||INDICATION FFF clotting, FFF 3 3||INDICATION FFF bleeding FFF 4 4||
+251-04||46||Problems/PMH:
+251-04||47||Esophageal Ca as above||INDICATION FFF esophageal ca FFF 0 1||INDICATION FFF as FFF 2 2||
+251-04||48||Repair of Zenker's diverticulum in 2080
+251-04||49||Aterial stent was placed in the mid LAD in 4/80; +stress thal 5/83||DIN FFF thal FFF 11 11||
+251-04||50||Hypercholesteremia||INDICATION FFF hypercholesteremia FFF 0 0||
+251-04||51||Arthritis||INDICATION FFF arthritis FFF 0 0||
+251-04||52||Borderline Diabetic
+251-04||53||Heart murmur for 50 years||DRT FFF 50 years FFF 3 4||
+251-04||54||Medications
+251-04||55||Decadron 2mg PO QD||DBN FFF decadron FFF 0 0||DOSE FFF 2mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qd FFF 3 3||
+251-04||56||Triamterene/hctz (MAXZIDE TABLET) 1 TAB PO QD||DOSEAMT FFF 1 tab FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF qd FFF 6 6||
+251-04||57||Vitamin B COMPLEX 1 TAB PO QD||DIN FFF vitamin b complex FFF 0 2||DOSEAMT FFF 1 tab FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF qd FFF 6 6||
+251-04||58||Folic ACID 1 MG (1MG TABLET take 1) PO QD||DIN FFF folic acid FFF 0 1||DOSE FFF 1 mg FFF 2 3||DOSE FFF (1mg FFF 4 4||RUT FFF po FFF 8 8||FREQ FFF qd FFF 9 9||
+251-04||59||1) PO BID||RUT FFF po FFF 1 1||FREQ FFF bid FFF 2 2||
+251-04||60||Lipitor (ATORVASTATIN) 10 MG (10MG TABLET take 1) PO QHS||DBN FFF lipitor FFF 0 0||DOSE FFF 10 mg FFF 2 3||DOSE FFF (10mg FFF 4 4||RUT FFF po FFF 8 8||FREQ FFF qhs FFF 9 9||
+251-04||61||Dulcolax (BISACODYL) 5 MG (5MG TABLET take 1) PO 2 tabs QD||DBN FFF dulcolax FFF 0 0||DOSE FFF 5 mg FFF 2 3||DOSE FFF (5mg FFF 4 4||RUT FFF po FFF 8 8||DOSEAMT FFF 2 tabs FFF 9 10||FREQ FFF qd FFF 11 11||
+251-04||62||Coumadin (WARFARIN SODIUM) 5 MG (5MG TABLET take 1) PO QPM , take 2 tablets tonight, then 1 QD||DBN FFF coumadin FFF 0 0||DOSE FFF 5 mg FFF 3 4||DOSE FFF (5mg FFF 5 5||RUT FFF po FFF 9 9||FREQ FFF qpm FFF 10 10||DOSEAMT FFF 2 tablets FFF 13 14||FREQ FFF qd FFF 18 18||
+251-04||63||Terazosin (TERAZOSIN HCL) 5 MG (5MG TABLET take 1) PO QPM||DIN FFF terazosin FFF 0 0||DOSE FFF 5 mg FFF 3 4||DOSE FFF (5mg FFF 5 5||RUT FFF po FFF 9 9||FREQ FFF qpm FFF 10 10||
+251-04||64||Compazine (PROCHLORPERAZINE MALEATE) 10 MG (10MG TABLET take 1) PO Q6H PRN nausea||DBN FFF compazine FFF 0 0||DOSE FFF 10 mg FFF 3 4||DOSE FFF (10mg FFF 5 5||RUT FFF po FFF 9 9||FREQ FFF q6h FFF 10 10||NEC FFF prn FFF 11 11||INDICATION FFF nausea FFF 12 12||
+251-04||65||Lorazepam 1 MG (1MG TABLET take 1) PO Q4H PRN nausea and sleep||DIN FFF lorazepam FFF 0 0||DOSE FFF 1 mg FFF 1 2||DOSE FFF (1mg FFF 3 3||RUT FFF po FFF 7 7||FREQ FFF q4h FFF 8 8||NEC FFF prn FFF 9 9||INDICATION FFF nausea FFF 10 10||INDICATION FFF sleep FFF 12 12||
+251-04||66||Atenolol 25 MG (50MG TABLET take 0.5) PO QD||DIN FFF atenolol FFF 0 0||DOSE FFF 25 mg FFF 1 2||DOSE FFF (50mg FFF 3 3||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||
+251-04||67||Megace (MEGESTROL ACETATE SUSPENSION) 800 MG (40MG/ML ORAL SUSP take 20 ML) PO QD x 30 days||DBN FFF megace FFF 0 0||DOSE FFF 800 mg FFF 4 5||DOSE FFF (40mg/ml FFF 6 6||RUT FFF oral FFF 7 7||DOSE FFF 20 ml) FFF 10 11||RUT FFF po FFF 12 12||FREQ FFF qd FFF 13 13||DRT FFF 30 days FFF 15 16||
+251-04||68||Allergies||INDICATION FFF allergies FFF 0 0||
+251-04||69||Codeine - Dizzy||DIN FFF codeine FFF 0 0||
+251-04||70||FH/SH:||INDICATION FFF fh/sh: FFF 0 0||INDICATION FFF fh/sh: FFF 0 0||
+251-04||71||Living alone with family close by.
+251-04||72||Never married No children.
+251-04||73||Never smoked
+251-04||74||Rare ETOH
+251-04||75||Aerospace engineer for 40 years.||DRT FFF 40 years. FFF 3 4||
+251-04||76||No family history of cancer||INDICATION FFF cancer FFF 4 4||
+251-04||77||Vital Signs
+251-04||78||T96.1  P86  BP101/63   RR22  PulseOx94%RA||INDICATION FFF pulseox94%ra FFF 4 4||
+251-04||79||No apparent distree, no lightheadedness upon sitting up

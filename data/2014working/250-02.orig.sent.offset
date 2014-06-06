@@ -1,0 +1,12 @@
+250-02	12	0	We increased both her Losartan and her Toprol dosing.	losartan FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+250-02	12	0	We increased both her Losartan and her Toprol dosing.	toprol FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+250-02	18	0	Her current medications are aspirin 325 mg PO q. day, Lasix 40 mg PO q. day, Glipizide 10 mg	aspirin FFF 4 4	325 mg FFF 5 6	po FFF 7 7	q. day, FFF 8 9	 FFF 	 FFF 	narrative
+250-02	18	0	Her current medications are aspirin 325 mg PO q. day, Lasix 40 mg PO q. day, Glipizide 10 mg	lasix FFF 10 10	40 mg FFF 11 12	po FFF 13 13	q. day, FFF 14 15	 FFF 	 FFF 	narrative
+250-02	18	0	Her current medications are aspirin 325 mg PO q. day, Lasix 40 mg PO q. day, Glipizide 10 mg	glipizide FFF 16 16	10 mg FFF 17 18	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+250-02	19	0	PO q. day, Losartan 100 mg PO q. day, Toprol XL 100 mg PO q. day, Simvastatin 10 mg PO q.	losartan FFF 3 3	100 mg FFF 4 5	po FFF 6 6	q. day, FFF 7 8	 FFF 	 FFF 	narrative
+250-02	19	0	PO q. day, Losartan 100 mg PO q. day, Toprol XL 100 mg PO q. day, Simvastatin 10 mg PO q.	toprol xl FFF 9 10	100 mg FFF 11 12	po FFF 13 13	q. day, FFF 14 15	 FFF 	 FFF 	narrative
+250-02	19	0	PO q. day, Losartan 100 mg PO q. day, Toprol XL 100 mg PO q. day, Simvastatin 10 mg PO q.	simvastatin FFF 16 16	10 mg FFF 17 18	po FFF 19 19	 FFF 	 FFF 	 FFF 	narrative
+250-02	20	0	day, Avandia, and multivitamins.	avandia, FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+250-02	20	0	day, Avandia, and multivitamins.	multivitamins. FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+250-02	29	0	Her ECG reveals sinus rhythm at 68 beats per minute, normal axis and intervals.	ecg FFF 1 1	 FFF 	 FFF 	per minute, FFF 8 9	 FFF 	 FFF 	narrative
+250-02	34	0	PO q. p.m. should her lower extremity edema increase or her weight rise.	rise. FFF 12 12	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

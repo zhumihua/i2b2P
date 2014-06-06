@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2083-01-23
+
+
+
+Middle Tennessee Institute
+
+242 Crest View Terrace                                        QIN, OWEN
+
+Queen Creek, ND 23115                            88491427
+
+(906) 178-3611                                            01/23/83
+
+
+
+
+
+HISTORY OF PRESENT ILLNESS: Mr. Qin is a patient of Dr. Potter's, who is in today for urgent care.  He is complaining of a funny sensation in his neck and occasional soreness in his left neck.  Sometimes it hurts worse with breathing.  Sometimes he feels a little catch and a fleeting moment of shortness of breath.  Of note, he was admitted to the hospital last week for these symptoms.  He was admitted, I think 01/15-01/16.  He was ruled out for an MI and actually had a stress test, which showed no evidence of ischemia.  Furthermore, he was monitored the entire time, including while he was having this symptom of a funny feeling in his chest followed by a little shortness of breath or catching his breath as he describes it and no arrhythmia was documented whatsoever.  He was ultimately discharged from the hospital with the diagnosis of Costa chondritis.  He is describing this pain in his left neck and he wonders if it is somehow related to the pain in his chest.  He said he tried gargling with mouthwash some and that did seem to help a little.  This neck or throat pain has been going on for the past three days.
+
+
+
+PAST MEDICAL HISTORY:  Remarkable for osteoarthritis, hypertension and other noncontributory problems.
+
+
+
+MEDICATIONS:  Aspirin, atenolol, Lipitor and vitamin E.
+
+
+
+ALLERGIES:  None.
+
+
+
+PHYSICAL EXAMINATION:  Today, he is alert and oriented.  His weight is 255.25 pounds, blood pressure 110/80, pulse 68, temperature 97.4.  Sinuses: Non-tender.  Nasal turbinates: Benign.  Tympanic membranes: With good light reflex, landmarks well seen.  Oropharynx: Without erythema, exudate, edema.  Neck: Supple, without adenopathy.  I am able to locate the spot that's bothering him by pressing on the mid outside of his left neck near where his carotid pulse is, but he does not have a lot of discomfort with this pressure and it does not seem to be quite what he is getting at.  Carotids are 2+ bilaterally.  Lungs: Clear to auscultation and percussion throughout.  Heart: Regular, without murmur, rub or gallop.
+
+
+
+ASSESSMENT AND PLAN:  I was unable to find a clear etiology for Mr. Quevedo discomfort, although I think he is probably right that it is related to the musculoskeletal chest pain that he is having.  I did reassure him and tell him that it was okay for him to take ibuprofen for this as he had been directed in the hospital.  He does have an appointment to see Dr. Potter in follow-up in the next couple weeks and he will call or return if any new symptoms develop.
+
+
+
+
+
+
+
+
+
+
+
+______________________________
+
+Rawan Pineda, M.D.
+
+
+
+
+
+Dictated By: Rawan Pineda
+
+
+
+
+
+eScription document:6-3221670 JSSten Tel
+
+
+
+
+
+
+
+DD: 01/23/83
+
+DT: 01/23/83
+
+DV: 01/23/83
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC6" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC8" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC11" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC7" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC13" indicator="not present"/>
+    <SMOKER id="DOC10" status="unknown"/>
+  </TAGS>
+</root>

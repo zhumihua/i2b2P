@@ -1,0 +1,115 @@
+279-02||1||Record date: 2092-11-16
+279-02||3||Team D Intern Admission Note
+279-02||4||Date: 11/16/92
+279-02||5||_______________________________________________________________________
+279-02||6||CC/HPI:||TOD FFF cc/hpi: FFF 0 0||
+279-02||7||Pt is 76 yo F with h/o CAD, HTN, hypercholesterolemia, COPD, many pack-years of smoking, and anxiety who presents with c/o SOB.||INDICATION FFF f FFF 4 4||INDICATION FFF cad, FFF 7 7||INDICATION FFF htn, FFF 8 8||INDICATION FFF hypercholesterolemia, FFF 9 9||INDICATION FFF copd, FFF 10 10||INDICATION FFF anxiety FFF 16 16||INDICATION FFF c/o FFF 20 20||INDICATION FFF sob. FFF 21 21||
+279-02||8||Pt was in her usual state of health about 1 week PTA, when she noticed gradually worsening SOB and developing cough productive of scant whitish sputum.||DRT FFF 1 week FFF 9 10||INDICATION FFF sob FFF 17 17||INDICATION FFF cough FFF 20 20||
+279-02||9||She had no fevers/chills, prior URI symptoms/sick contacts, CP/lightheadedness, N/V/abdominal pain, diaphoresis, increasing leg swelling, or orthopnea/PND symptoms.||INDICATION FFF fevers/chills, FFF 3 3||INDICATION FFF symptoms/sick FFF 6 6||INDICATION FFF symptoms/sick FFF 6 6||INDICATION FFF cp/lightheadedness, FFF 8 8||INDICATION FFF n/v/abdominal pain, FFF 9 10||INDICATION FFF leg swelling, FFF 13 14||INDICATION FFF orthopnea/pnd FFF 16 16||INDICATION FFF symptoms. FFF 17 17||
+279-02||10||She thought she might be developing    bronchitis,    discontinued smoking and called her PCP to ask for antibiotics.||INDICATION FFF bronchitis, FFF 6 6||INDICATION FFF pcp FFF 12 12||DIN FFF antibiotics. FFF 16 16||
+279-02||11||She was told to come to the clinic but her SOB progressively worsened in the few hours PTA, and she called for EMS to go to the ED.||INDICATION FFF sob FFF 10 10||INDICATION FFF ems FFF 22 22||INDICATION FFF ed. FFF 27 27||
+279-02||12||In ED:||INDICATION FFF ed: FFF 1 1||
+279-02||13||a. Lasix 40 mg IV x2, NTG paste    initial SOB improvement, small UO;||DBN FFF lasix FFF 1 1||DOSE FFF 40 mg FFF 2 3||RUT FFF iv FFF 4 4||FREQ FFF x2, FFF 5 5||DPN FFF ntg FFF 6 6||INDICATION FFF sob FFF 9 9||
+279-02||14||b. Lasix 40 mg IV x 2    improved, ready for floor transfer but develops an episode of worsening SOB/flush pulmonary edema on CXR; c.||DBN FFF lasix FFF 1 1||DOSE FFF 40 mg FFF 2 3||RUT FFF iv FFF 4 4||FREQ FFF x 2 FFF 5 6||INDICATION FFF sob/flush FFF 18 18||INDICATION FFF pulmonary edema FFF 19 20||
+279-02||15||Lasix 160mg IV    Morphine 3mg IV + CPAP    Atrovent/Albuterol    Zaroxylin 5mg + Lasix 200mg IV     improved, on Hi-Flow O2; total UO: 1,100cc.||DBN FFF lasix FFF 0 0||DOSE FFF 160mg FFF 1 1||RUT FFF iv FFF 2 2||DIN FFF morphine FFF 3 3||DOSE FFF 3mg FFF 4 4||RUT FFF iv FFF 5 5||DOSE FFF 5mg FFF 10 10||DBN FFF lasix FFF 12 12||DOSE FFF 200mg FFF 13 13||RUT FFF iv FFF 14 14||TOD FFF 1,100cc. FFF 21 21||
+279-02||16||Also received: ASA, CTX 1gm IV, Azithromax 500mg po, Atrovent/Albuterol nebs.||DIN FFF asa, FFF 2 2||DIN FFF ctx FFF 3 3||DOSE FFF 1gm FFF 4 4||RUT FFF iv, FFF 5 5||DOSE FFF 500mg FFF 7 7||RUT FFF po, FFF 8 8||
+279-02||17||PMHx:
+279-02||18||1. HTN||INDICATION FFF htn FFF 1 1||
+279-02||19||2. CAD [old MI by EKG/imaging]||INDICATION FFF cad FFF 1 1||INDICATION FFF mi FFF 3 3||
+279-02||20||3. COPD||INDICATION FFF copd FFF 1 1||
+279-02||21||4. Hypercholesterolemia||INDICATION FFF hypercholesterolemia FFF 1 1||
+279-02||22||5. DM, type II||INDICATION FFF dm, FFF 1 1||
+279-02||23||6. Recurrent UTIs [cystocele/recurrent UTI]||INDICATION FFF [cystocele/recurrent FFF 3 3||INDICATION FFF [cystocele/recurrent uti] FFF 3 4||
+279-02||24||7. Chronic LE edema [Doppler NEG]||INDICATION FFF le FFF 2 2||INDICATION FFF edema FFF 3 3||
+279-02||25||8. Anxiety||INDICATION FFF anxiety FFF 1 1||
+279-02||26||9. GERD||INDICATION FFF gerd FFF 1 1||
+279-02||28||ALLERGIES:||INDICATION FFF allergies: FFF 0 0||
+279-02||29||Penicillin/Cephalosporins - hives||DIN FFF penicillin/cephalosporins FFF 0 0||INDICATION FFF hives FFF 2 2||
+279-02||30||MEDS:
+279-02||31||Atenolol 100 mg PO qd||DIN FFF atenolol FFF 0 0||DOSE FFF 100 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+279-02||32||Lipitor 10 mg po qd||DBN FFF lipitor FFF 0 0||DOSE FFF 10 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+279-02||33||Cozaar 50 mg po qd||DBN FFF cozaar FFF 0 0||DOSE FFF 50 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+279-02||34||Furosemide 20 mg po qde||DIN FFF furosemide FFF 0 0||DOSE FFF 20 mg FFF 1 2||RUT FFF po FFF 3 3||
+279-02||35||Prilosec 20 mg po qd||DBN FFF prilosec FFF 0 0||DOSE FFF 20 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+279-02||36||ECASA 325 mg po qd||DPN FFF ecasa FFF 0 0||DOSE FFF 325 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+279-02||37||Nifedipine XL 60 mg po bid||DIN FFF nifedipine FFF 0 0||DOSE FFF 60 mg FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF bid FFF 5 5||
+279-02||38||Klonazepam 0.5 mg po bid||DOSE FFF 0.5 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF bid FFF 4 4||
+279-02||40||SHx: lives alone, independent with ADLs PTA
+279-02||41||FHx: no CAD, DM, stroke||INDICATION FFF cad, FFF 2 2||INDICATION FFF dm, FFF 3 3||INDICATION FFF stroke FFF 4 4||
+279-02||43||VS:   T 97     HR 84      BP  128/80    RR 22      Sat  97% O2 HF||INDICATION FFF t FFF 1 1||DRT FFF 97 hr FFF 2 3||INDICATION FFF bp FFF 5 5||DOSE FFF 97% FFF 10 10||
+279-02||44||PE:||INDICATION FFF pe: FFF 0 0||
+279-02||45||GEN: slightly anxious, with O2 mask on
+279-02||46||SKIN: pale, no ecchymoses
+279-02||47||HEENT: supple; JVP ~8cm; no carotid bruits||INDICATION FFF ~8cm; FFF 3 3||
+279-02||48||CHEST: bibasilar crackles, few scattered wheezes||INDICATION FFF wheezes FFF 5 5||
+279-02||49||HEART: RRR, (+) 2/6 SEM
+279-02||50||ABD: soft, ND, active bowel sounds
+279-02||51||EXT: trace pitting edema bilat||INDICATION FFF edema FFF 3 3||
+279-02||52||NEURO: alert, appropriate; CNs intact.
+279-02||53||Strength/sensation symmetric.
+279-02||54||LABS:
+279-02||55||Sodium (Stat Lab)       132       L              135-145        mmol/L||TOD FFF (stat FFF 1 1||DOSE FFF 132 l FFF 3 4||DOSE FFF 135-145 mmol/l FFF 5 6||
+279-02||56||Potassium (Stat Lab)    4.0                      3.4-4.8        mmol/L||TOD FFF (stat FFF 1 1||DOSE FFF 3.4-4.8 mmol/l FFF 4 5||
+279-02||57||Chloride (Stat Lab)     103                      100-108        mmol/L||TOD FFF (stat FFF 1 1||DOSE FFF 100-108 mmol/l FFF 4 5||
+279-02||58||CO2 (Stat Lab)          19.8      L              24.0-30.0      mmol/L||TOD FFF (stat FFF 1 1||DOSE FFF 19.8 l FFF 3 4||DOSE FFF 24.0-30.0 mmol/l FFF 5 6||
+279-02||59||BUN (Stat Lab)          26        H              8-25           mg/dl||TOD FFF (stat FFF 1 1||DRT FFF 26 h FFF 3 4||DOSE FFF 8-25 mg/dl FFF 5 6||
+279-02||60||Creatinine (Stat Lab)   1.1                      0.6-1.5        mg/dl||INDICATION FFF creatinine FFF 0 0||TOD FFF (stat FFF 1 1||DOSE FFF 0.6-1.5 mg/dl FFF 4 5||
+279-02||61||Glucose (Stat Lab)      262       H              70-110         mg/dl||TOD FFF (stat FFF 1 1||DRT FFF 262 h FFF 3 4||DOSE FFF 70-110 mg/dl FFF 5 6||
+279-02||62||Calcium                 9.0                      8.5-10.5       mg/dl||DIN FFF calcium FFF 0 0||DOSE FFF 9.0 FFF 1 1||DOSE FFF 8.5-10.5 mg/dl FFF 2 3||
+279-02||63||Phosphorus              3.9                      2.6-4.5        mg/dl||INDICATION FFF phosphorus FFF 0 0||DOSE FFF 2.6-4.5 mg/dl FFF 2 3||
+279-02||64||Magnesium               1.9                      1.4-2.0        meq/L||DIN FFF magnesium FFF 0 0||DOSE FFF 1.9 FFF 1 1||DOSE FFF 1.4-2.0 meq/l FFF 2 3||
+279-02||65||Total Protein           8.6       H              6.0-8.0        g/dl||DRT FFF 8.6 h FFF 2 3||DOSE FFF 6.0-8.0 g/dl FFF 4 5||
+279-02||66||Albumin                 3.6                      3.1-4.3        g/dl||DIN FFF albumin FFF 0 0||DOSE FFF 3.6 FFF 1 1||DOSE FFF 3.1-4.3 g/dl FFF 2 3||
+279-02||67||Globulin                5.0       H              2.6-4.1        g/dl||DRT FFF 5.0 h FFF 1 2||DOSE FFF 2.6-4.1 g/dl FFF 3 4||
+279-02||68||Direct Bilirubin        0.0                      0-0.4          mg/dl||DOSE FFF 0-0.4 mg/dl FFF 3 4||
+279-02||69||Total Bilirubin         0.8                      0-1.0          mg/dl||DOSE FFF 0-1.0 mg/dl FFF 3 4||
+279-02||70||Alkaline Phosphatase    319       H              30-100         U/L||DRT FFF 319 h FFF 2 3||DOSE FFF 30-100 u/l FFF 4 5||
+279-02||71||Transaminase-SGPT       24                       7-30           U/L||DOSE FFF 7-30 u/l FFF 2 3||
+279-02||72||Creatine Kinase Isoenzy 0.7                      0.0-6.9        ng/ml||DOSE FFF 0.0-6.9 ng/ml FFF 4 5||
+279-02||73||Troponin-T              <0.01                    0.00-0.09      ng/ml||DOSE FFF 0.00-0.09 ng/ml FFF 2 3||
+279-02||74||Transaminase-SGOT       60        H              9-25           U/L||DRT FFF 60 h FFF 1 2||DOSE FFF 9-25 u/l FFF 3 4||
+279-02||75||Creatine Kinase         91                       40-150         U/L||DOSE FFF 40-150 u/l FFF 3 4||
+279-02||76||WBC                     11.9      H              4.5-11.0       th/cmm||DRT FFF 11.9 h FFF 1 2||
+279-02||77||HCT                     41.1                     36.0-46.0      %||DOSE FFF 36.0-46.0 % FFF 2 3||
+279-02||78||HGB                     13.9                     12.0-16.0      gm/dl||DOSE FFF 12.0-16.0 gm/dl FFF 2 3||
+279-02||79||RBC                     4.81                     4.00-5.20      mil/cmm
+279-02||80||PLT                     332                      150-350        th/cumm
+279-02||81||MCV                     86                       80-100         fl
+279-02||82||MCH                     28.8                     26.0-34.0      pg/rbc
+279-02||83||MCHC                    33.7                     31.0-37.0      g/dl||DOSE FFF 31.0-37.0 g/dl FFF 2 3||
+279-02||84||RDW                     14.3                     11.5-14.5      %||DOSE FFF 11.5-14.5 % FFF 2 3||
+279-02||85||Superstat PT            12.4                     11.1-13.1      sec||DIN FFF superstat FFF 0 0||DIN FFF sec FFF 4 4||
+279-02||86||Superstat PT-INR        1.1||DIN FFF superstat FFF 0 0||
+279-02||87||Superstat APTT          29.3                     22.1-35.1      sec||DIN FFF superstat FFF 0 0||DIN FFF sec FFF 4 4||
+279-02||88||Poly                    85        H              40-70          %||DRT FFF 85 h FFF 1 2||DOSE FFF 40-70 % FFF 3 4||
+279-02||89||Lymphs                  11        L              22-44          %||DOSE FFF 11 l FFF 1 2||DOSE FFF 22-44 % FFF 3 4||
+279-02||90||Monos                   3         L              4-11           %||DOSE FFF 3 l FFF 1 2||DOSE FFF 4-11 % FFF 3 4||
+279-02||91||EOS                     1                        0-8            %||DOSE FFF 0-8 % FFF 2 3||
+279-02||92||Basos                   0                        0-3            %||DOSE FFF 0-3 % FFF 2 3||
+279-02||93||Absolute Neuts          10.05     H              1.8-7.7        th/cmm||DRT FFF 10.05 h FFF 2 3||
+279-02||94||Absolute Lymphs         1.33                     1.0-4.8        th/cmm
+279-02||95||Absolute Monos          0.40                     0.2-0.4        th/cmm
+279-02||96||Absolute EOS            0.10                     0.1-0.3        th/cmm
+279-02||97||Absolute Basos          0.04                     0.0-0.3        th/cmm
+279-02||98||RBC Morph on Smear      NORMAL                   NORMAL||DIN FFF morph FFF 1 1||
+279-02||99||EKG: old LBBB, no acute ischemic changes
+279-02||100||CXR: cardiomegaly, bilateral pleural effusions||INDICATION FFF pleural effusions FFF 3 4||
+279-02||101||ADENOSINE MIBI (6/89): The ECG response to pharmacological stress was negative for  ischemia.||DIN FFF adenosine FFF 0 0||DIN FFF ecg FFF 4 4||INDICATION FFF ischemia. FFF 12 12||
+279-02||102||Images demonstrated a small posterobasal infarction  associated with mild to moderate inferior ischemia.||INDICATION FFF infarction FFF 5 5||INDICATION FFF ischemia. FFF 12 12||
+279-02||103||Comparison to  2084 is difficult due to the difference of technique.
+279-02||104||However,  septal ischemia is no longer present in the current study and  inferior ischemia is still present.||INDICATION FFF ischemia FFF 2 2||INDICATION FFF ischemia FFF 13 13||
+279-02||105||ECHO (6/89): mild mitral regurgitation; LA dilated;
+279-02||106||- trans-aortic gradient ~13 mm HG/no stenosis;||INDICATION FFF mm FFF 4 4||INDICATION FFF hg/no FFF 5 5||INDICATION FFF stenosis; FFF 6 6||
+279-02||107||- LV imildly dilated, w/segmental LV dysfunction [inferior wall]; EF 68 %;||INDICATION FFF lv FFF 1 1||INDICATION FFF lv dysfunction FFF 5 6||INDICATION FFF ef FFF 9 9||DOSE FFF 68 %; FFF 10 11||
+279-02||108||- trace tricuspid insufficiency
+279-02||109||- trace pulmonary insufficiency; RV 34 mmHg/ not dilated
+279-02||110||A/P: Pt is a 76 yo F with multiple cardiac risk factors who presents with CHF exacerbation.||INDICATION FFF f FFF 6 6||INDICATION FFF risk FFF 10 10||INDICATION FFF chf FFF 15 15||
+279-02||111||Ddx of precipitants include new myocardial ischemia, hypertensive crisis, medication non-compliance/misadministration, arrhythmia, or infection.||INDICATION FFF myocardial ischemia, FFF 5 6||INDICATION FFF hypertensive FFF 7 7||INDICATION FFF arrhythmia, FFF 11 11||INDICATION FFF infection. FFF 13 13||
+279-02||112||Even though MI would be the most worrisome to follow through with, a simple trigger such as COPD exacerbation cannot be excluded.   - continue HF O2, ASA, cardiac enzymes to r/o MI - tight BP control w/ CCB and ACEI as needed; may use TNG/Hydralazine||INDICATION FFF mi FFF 2 2||INDICATION FFF as FFF 16 16||INDICATION FFF copd FFF 17 17||DIN FFF asa, FFF 26 26||INDICATION FFF mi FFF 31 31||INDICATION FFF bp control FFF 34 35||DBN FFF ccb FFF 37 37||NEC FFF as needed; FFF 40 41||
+279-02||113||(will hold BB during the acute exacerbation)||DBN FFF bb FFF 2 2||DRT FFF during FFF 3 3||
+279-02||114||- Lasix IV prn; strict I/Os [admission wt 180#)||DBN FFF lasix FFF 1 1||RUT FFF iv FFF 2 2||NEC FFF prn; FFF 3 3||INDICATION FFF i/os FFF 5 5||
+279-02||115||- Low-sodium diet/consider fluid restriction
+279-02||116||- Repeat CXR/EKG
+279-02||117||- Azithromycin 250mg po/Albuterol/Atrovent nebs||DIN FFF azithromycin FFF 1 1||DOSE FFF 250mg FFF 2 2||RUT FFF po/albuterol/atrovent FFF 3 3||
+279-02||118||- ECHO in AM/consider ETT/Cardiology: Dr Garner||TOD FFF am/consider FFF 3 3||
+279-02||119||_________________________________________

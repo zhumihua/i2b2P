@@ -1,0 +1,24 @@
+273-04	3	0	Novolog 3-10 tid 683-51-28	novolog FFF 0 0	3-10 FFF 1 1	 FFF 	tid FFF 2 2	 FFF 	 FFF 	narrative
+273-04	4	0	Lantus 19-20 at hs Xuan, Wendy	lantus FFF 0 0	19-20 FFF 1 1	 FFF 	at hs FFF 2 3	 FFF 	 FFF 	narrative
+273-04	5	0	Neoral 100/100 mg bid	neoral FFF 0 0	100/100 mg FFF 1 2	 FFF 	bid FFF 3 3	 FFF 	 FFF 	narrative
+273-04	6	0	CellCept 1000 mg bid	cellcept FFF 0 0	1000 mg FFF 1 2	 FFF 	bid FFF 3 3	 FFF 	 FFF 	narrative
+273-04	7	0	Toprol XL 25 mg qd, not yet started	toprol xl FFF 0 1	25 mg FFF 2 3	 FFF 	qd, FFF 4 4	 FFF 	 FFF 	narrative
+273-04	8	0	Lipitor 10 mg qd	lipitor FFF 0 0	10 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+273-04	9	0	Neurontin 600/1200 mg bid	neurontin FFF 0 0	600/1200 mg FFF 1 2	 FFF 	bid FFF 3 3	 FFF 	 FFF 	narrative
+273-04	10	0	Tums 200 mg ii qd (should be at least bid)	tums FFF 0 0	200 mg FFF 1 2	 FFF 	qd FFF 4 4	 FFF 	 FFF 	narrative
+273-04	11	0	Prilosec 20 mg bid	prilosec FFF 0 0	20 mg FFF 1 2	 FFF 	bid FFF 3 3	 FFF 	 FFF 	narrative
+273-04	12	0	MVI i bid	mvi FFF 0 0	 FFF 	 FFF 	bid FFF 2 2	 FFF 	 FFF 	narrative
+273-04	13	0	ASA 325 mg qd	asa FFF 0 0	325 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+273-04	14	0	Quinine Sulfate 260 mg at hs	quinine sulfate FFF 0 1	260 mg FFF 2 3	 FFF 	at hs FFF 4 5	 FFF 	 FFF 	narrative
+273-04	15	0	Tylenol 1325 mg over the day for arthritis	tylenol FFF 0 0	1325 mg FFF 1 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+273-04	16	0	Wellbutrin 150 mg bid	wellbutrin FFF 0 0	150 mg FFF 1 2	 FFF 	bid FFF 3 3	 FFF 	 FFF 	narrative
+273-04	17	0	Androgel to leg qd	androgel FFF 0 0	 FFF 	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+273-04	18	0	DHEA qd	dhea FFF 0 0	 FFF 	 FFF 	qd FFF 1 1	 FFF 	 FFF 	narrative
+273-04	42	438	Medications: wants to reduce costs     asks about generics for Lipitor, transplant meds.	lipitor, FFF 9 9	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+273-04	51	0	He made the switch from Celexa to Wellbutrin and added Androgel and DHEA.	celexa FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+273-04	51	0	He made the switch from Celexa to Wellbutrin and added Androgel and DHEA.	wellbutrin FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+273-04	51	0	He made the switch from Celexa to Wellbutrin and added Androgel and DHEA.	androgel FFF 10 10	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+273-04	51	0	He made the switch from Celexa to Wellbutrin and added Androgel and DHEA.	dhea. FFF 12 12	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+273-04	53	0	The loss of libido precedes the Celexa and the possibility of its relationship to Neoral or CellCept has been raised.	celexa FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+273-04	53	0	The loss of libido precedes the Celexa and the possibility of its relationship to Neoral or CellCept has been raised.	neoral FFF 14 14	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+273-04	53	0	The loss of libido precedes the Celexa and the possibility of its relationship to Neoral or CellCept has been raised.	cellcept FFF 16 16	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

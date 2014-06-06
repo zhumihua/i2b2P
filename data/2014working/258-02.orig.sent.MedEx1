@@ -1,0 +1,44 @@
+258-02||1||Record date: 2067-10-03
+258-02||2||80 yo man with CAD, anemia, and the chief complaint of buttock pain with ambulation.
+258-02||3||He has had some pain in his buttocks when he ambulates a short distance which resolves with standing still.
+258-02||4||Hip films were unremarkable.
+258-02||5||No calf pains.
+258-02||6||He saw Dr.
+258-02||7||Jaimes for a second opinion and was advised to exercise more and cut down on alcohol.
+258-02||8||He has had some anemia and his GI w/u at Fairfield was negative. I then started him on Coumadin which he finally started taking. ================ Medications ================||INDICATION FFF anemia FFF 4 4||DBN FFF coumadin FFF 18 18||
+258-02||9||COZAAR  50MG PO QD||DBN FFF cozaar FFF 0 0||DOSE FFF 50mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qd FFF 3 3||
+258-02||10||HCTZ  25MG PO QD||DPN FFF hctz FFF 0 0||DOSE FFF 25mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qd FFF 3 3||
+258-02||11||AMBIEN (ZOLPIDEM TARTRATE)  10MG PO HS PRN .||DBN FFF ambien FFF 0 0||MDBN FFF (zolpidem tartrate) FFF 1 2||DOSE FFF 10mg FFF 3 3||RUT FFF po FFF 4 4||FREQ FFF hs FFF 5 5||NEC FFF prn FFF 6 6||
+258-02||12||PROCARDIA XL  120MG PO QD||DBN FFF procardia xl FFF 0 1||DOSE FFF 120mg FFF 2 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+258-02||13||GLUCOTROL  20MG PO BID||DBN FFF glucotrol FFF 0 0||DOSE FFF 20mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF bid FFF 3 3||
+258-02||14||ACTOS (PIOGLITAZONE) 45MG 1 Tablet(s) PO QD||DBN FFF actos FFF 0 0||MDBN FFF (pioglitazone) FFF 1 1||DOSE FFF 45mg FFF 2 2||DOSEAMT FFF 1 tablet(s) FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF qd FFF 6 6||
+258-02||15||ATENOLOL 50MG 1 Tablet(s) PO QD||DIN FFF atenolol FFF 0 0||DOSE FFF 50mg FFF 1 1||DOSEAMT FFF 1 tablet(s) FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF qd FFF 5 5||
+258-02||16||LIPITOR (ATORVASTATIN) 40MG 1 Tablet(s) PO QHS||DBN FFF lipitor FFF 0 0||MDBN FFF (atorvastatin) FFF 1 1||DOSE FFF 40mg FFF 2 2||DOSEAMT FFF 1 tablet(s) FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF qhs FFF 6 6||
+258-02||17||LASIX (FUROSEMIDE) 40MG 1 Tablet(s) PO QD||DBN FFF lasix FFF 0 0||MDBN FFF (furosemide) FFF 1 1||DOSE FFF 40mg FFF 2 2||DOSEAMT FFF 1 tablet(s) FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF qd FFF 6 6||
+258-02||18||COUMADIN (WARFARIN SODIUM) 2.5MG 1 Tablet(s) PO QPM||DBN FFF coumadin FFF 0 0||MDBN FFF (warfarin sodium) FFF 1 2||DOSE FFF 2.5mg FFF 3 3||DOSEAMT FFF 1 tablet(s) FFF 4 5||RUT FFF po FFF 6 6||FREQ FFF qpm FFF 7 7||
+258-02||19||ALLERGIES:  None.
+258-02||20||FAMILY HISTORY:  Noncontributory.
+258-02||21||SOCIAL HISTORY:  Married.
+258-02||22||Retired.
+258-02||23||No cigarettes.
+258-02||24||ROS   Back pain.
+258-02||25||Thigh aching. Fatigue.
+258-02||26||Rest of ROS is negative.
+258-02||27||PE  Looks less fatigued.
+258-02||28||================ Vital signs ================
+258-02||29||Blood Pressure:   170/82
+258-02||30||Weight:   198   [Pounds]
+258-02||31||P 60 irreg irreg
+258-02||32||HEENT: EOMI  No scleral icterus.
+258-02||33||No retinopathy.
+258-02||34||No lymphadenopathy.
+258-02||35||No carotid bruits.
+258-02||36||Lungs: Clear
+258-02||37||Cor: irreg irreg.||DIN FFF cor: FFF 0 0||
+258-02||38||No audible murmurs or gallops.
+258-02||39||Abd: Obese. Non tender.
+258-02||40||Ext: No edema.
+258-02||41||Trace PT pulse on the right.
+258-02||42||Could not palpate any on the left. ================ Problems ================
+258-02||43||BUTTOCK PAIN   With ambulation.
+258-02||44||Probably spinal stenosis but I will check some vascular studies.

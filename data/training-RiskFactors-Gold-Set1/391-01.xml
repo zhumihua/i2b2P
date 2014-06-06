@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2085-09-28
+
+
+DR: Goldberg,M (25515)
+CLINIC: STANTON NURSING
+
+STANTON NURSING HOME PRIMARY CARE
+339 Balcom Street, Eighth Floor
+Oil City, VA  14172
+
+Michael Goldberg, M.D.
+
+RE:		Ordonez, Yamilex
+SNH#:	008-37-16
+
+September 28, 2085
+
+Reason for visit:  This is an initial visit on September 28th, 2085.  Yamilex is a 68-year-old woman who I know quite well status post a stroke in 2083.  
+
+In 2083 Mrs. Ordonez presented with ataxia and dizziness.  She was found to have a left vertebral stenosis and a left posterior inferior cerebellar artery distribution stroke.  She was found to be hypertensive at that time and was started on atenolol.  
+
+Mrs. Ordonez blood pressure was not well controlled on atenolol and hydrochlorothiazide.  Triamterene was added.  Unfortunately she represented with recurrent ataxia and dizziness possibly due to overtreatment of her blood pressure.  Of note, she was only mildly orthostatic at that time.  She also had an E. coli urinary tract infection which may have been complicating matters.   
+
+Mrs. Ordonez has had borderline glucose intolerance as well as an elevated alkaline/phosphatase.  She had had a hemoglobin A1C of 6% tested in 2083.  
+
+Yamilex is generally doing well.  She has no particular complaints.  She has had an active summer getting out to the beach and walks the shopping mall with her daughter with good energy.  She has had no chest pains, shortness of breath, alterations in her bowel or bladder habits.  
+
+Medications:  Coumadin 2.5 alternating with 3.75 q.d. for her history of vertebral artery stenosis and atenolol 75 q.d.  
+
+Physical examination:  Blood pressure was 170/90.  Heart rate was 82 and regular.  The HEENT examination was unremarkable.  Neck was supple without adenopathy.  There were 2+ carotids without bruits and there were no vertebral bruits.  Chest was clear to auscultation.  Cardiac exam showed an S4 gallop.  Abdomen examination was benign and extremities were without edema.  Neurological examination showed reflexes to be 2+ in the upper extremities and at the knees bilaterally with downgoing toes.  Finger-nose-finger was intact, Romberg was intact, and gait was stable with a narrow base.  
+
+Assessment and plan: 
+
+1.	Hypertension.  Mrs. Ordonez blood pressure is currently not well controlled.  She has unfortunately had inadequate follow up for her hypertension.  I will start her on 5 mg. of Zestril in addition to her standing 75 of atenolol.  
+
+2.	Neurologic.  Mrs. Ordonez is stable status post her stroke.  She will continue on Coumadin.  I will not plan any further neurological work up at this time.  
+
+3.	Primary care issues.  Mrs. Ordonez had a cholesterol in 2083 of 210.  I will test a follow up cholesterol level given that she needs good secondary prevention status post her stroke.  I will also check a random glucose level today as diabetes does run in the family and Mrs. Ordonez has had borderline elevated sugars in the past.  
+
+	I have also started Mrs. Ordonez on a multivitamin with minerals as well as 800 IU a day of vitamin E at the recommendation of Dr. Quesenberry.  I will see Mrs. Ordonez in approximately six to eight weeks to reassess her blood pressure and her response to the addition of lisinopril.
+
+The patient was seen with Richard Quesenberry, M.D. 
+
+
+
+Michael Goldberg, M.D.
+
+HH:SF:0151
+DD:9-28-85
+DT:10-03-85
+DV:9-28-85
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC3" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC8" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC5" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC10" indicator="not present"/>
+    <SMOKER id="DOC7" status="unknown"/>
+  </TAGS>
+</root>

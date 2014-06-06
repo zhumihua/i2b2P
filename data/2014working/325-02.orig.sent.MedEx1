@@ -1,0 +1,125 @@
+325-02||1||Record date: 2078-11-23
+325-02||2||IVORY, LORI
+325-02||3||2097545
+325-02||4||11/22/78
+325-02||5||PCP:Dr. Helen Updike
+325-02||6||EDUCARE-PULLMAN TEAM A INTERN
+325-02||7||ADMISSION NOTE
+325-02||8||CC/ID: 51 yo F with no known h/o CHF or CAD, but with multiple cardiac risk factors, p/w dyspnea
+325-02||9||HPI: Pt has had difficulty with bp ctrl due to poor med compliance (SBP 160-190 in clinic).
+325-02||10||Had been on Atenolol and Zestril but pt self-D/C'd Zestril several wks ago because she thought the Zestril made her feel nauseated.||DIN FFF atenolol FFF 3 3||
+325-02||10||Had been on Atenolol and Zestril but pt self-D/C'd Zestril several wks ago because she thought the Zestril made her feel nauseated.||DBN FFF zestril FFF 5 5||
+325-02||10||Had been on Atenolol and Zestril but pt self-D/C'd Zestril several wks ago because she thought the Zestril made her feel nauseated.||DBN FFF zestril FFF 9 9||
+325-02||10||Had been on Atenolol and Zestril but pt self-D/C'd Zestril several wks ago because she thought the Zestril made her feel nauseated.||DBN FFF zestril FFF 17 17||INDICATION FFF nauseated. FFF 21 21||
+325-02||11||Since then, has had gradually developing DOE   from baseline of walking over 4-5 flights of stairs without difficulty to dyspnea on only a flight of stairs.
+325-02||12||She underwent L knee arthroscopy for medial meniscal tear on 11/19/78 without immediate complications.
+325-02||13||At 3 am that night, though, woke up with severe dyspnea, with some relief upon sitting up.
+325-02||14||Associated with some wheezing; tried some of husband's nebs   only slight relief.
+325-02||15||Later over the day, dyspnea worsened to the point that only few steps would make short of breath.
+325-02||16||Some association with non-radiating substernal chest tightness in evening; no N/V, lightheadness, diaphoresis, or pleuritic CP, F/S/C, or cough.
+325-02||17||Next day, dyspnea persisted so pt came into ED.
+325-02||18||In ED, found to have BP of 230's/120's, satting 70's on RA.
+325-02||19||CTA PE-protocol showing no PE or DVT but with pulm edema and bibasilar atelectasis vs.
+325-02||20||PNA (unlikely). Given Lasix 40 mg IV x 1    2.7 L diuresis; started on nitropaste, Captopril, Labetalol    BP down to 140's.||DBN FFF lasix FFF 3 3||DOSE FFF 40 mg FFF 4 5||RUT FFF iv FFF 6 6||FREQ FFF x 1 FFF 7 8||DOSE FFF 2.7 l FFF 9 10||INDICATION FFF diuresis; FFF 11 11||
+325-02||20||PNA (unlikely). Given Lasix 40 mg IV x 1    2.7 L diuresis; started on nitropaste, Captopril, Labetalol    BP down to 140's.||DIN FFF captopril, FFF 15 15||
+325-02||20||PNA (unlikely). Given Lasix 40 mg IV x 1    2.7 L diuresis; started on nitropaste, Captopril, Labetalol    BP down to 140's.||DIN FFF labetalol FFF 16 16||INDICATION FFF bp FFF 17 17||
+325-02||21||Also given ASA and Lopressor x 1 and started on Heparin IV.||DIN FFF asa FFF 2 2||
+325-02||21||Also given ASA and Lopressor x 1 and started on Heparin IV.||DBN FFF lopressor FFF 4 4||FREQ FFF x 1 FFF 5 6||
+325-02||21||Also given ASA and Lopressor x 1 and started on Heparin IV.||DIN FFF heparin FFF 10 10||RUT FFF iv. FFF 11 11||
+325-02||22||Given Levoflox x 1 for ? PNA on CXR.||DPN FFF levoflox FFF 1 1||FREQ FFF x 1 FFF 2 3||
+325-02||23||Had to be on BiPAP for several hrs   transitioned to 3L NC, satting mid-90's.
+325-02||24||Transferred to floor for further mgmt.
+325-02||25||Has had recent 8/78 ECHO   EF 67% with mild MR, TR, and AI; nl LV size and function without WMA.
+325-02||26||ROS:
+325-02||27||-Has had mild R subscapular dull pain on night before admission; not associated with her chest tightness or dyspnea; resolved on own on day of admission.
+325-02||28||-Pt thinks L leg may be more swollen than her R
+325-02||29||PMH
+325-02||30||1. Hypertension
+325-02||31||2. Obesity: followed by Internal Medicine
+325-02||32||3. PUD: H.Pylori positive
+325-02||33||4. s/p L knee meniscal repair
+325-02||34||5. Depression
+325-02||35||6. Anemia
+325-02||36||7. Hypercholesterolemia
+325-02||37||MEDS (AT HOME)
+325-02||38||Atenolol 25 mg po qd||DIN FFF atenolol FFF 0 0||DOSE FFF 25 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+325-02||39||Zestril 40 mg po qd (has not been taking)||DBN FFF zestril FFF 0 0||DOSE FFF 40 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+325-02||40||Prozac 20 mg po qd||DBN FFF prozac FFF 0 0||DOSE FFF 20 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+325-02||41||Ibuprofen 800 mg po tid PRN pain||DIN FFF ibuprofen FFF 0 0||DOSE FFF 800 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF tid FFF 4 4||NEC FFF prn FFF 5 5||INDICATION FFF pain FFF 6 6||
+325-02||42||Percocet PRN pain post-surgery (has not been taking)||DBN FFF percocet FFF 0 0||NEC FFF prn FFF 1 1||INDICATION FFF pain FFF 2 2||
+325-02||43||Allergies
+325-02||44||NKDA
+325-02||45||Social History
+325-02||46||Quit smoking 10 yrs ago (2 ppd x 4-5 yrs_
+325-02||47||5-6 beers/night on wkends; last drink last Sunday; no h/o withdrawal or seizures
+325-02||48||Railway Transport Operations Supervisor at BI; lives with husband
+325-02||50||Family History
+325-02||51||-No known FH of CAD
+325-02||52||-DM in father
+325-02||53||PHYS EXAM
+325-02||54||GEN: Comfortable, converses appropriately, A+O x 3
+325-02||55||VS: T 98  HR 75  BP 152/92 (R arm, manual BP)  148/82 (L arm, manual BP)  RR 22  96% on 2L||DIN FFF t 98 FFF 1 2||INDICATION FFF bp FFF 5 5||INDICATION FFF bp) FFF 10 10||INDICATION FFF bp) FFF 15 15||DOSE FFF 96% FFF 18 18||DOSE FFF 2l FFF 20 20||
+325-02||56||HEENT: NC/AT; PERRL, EOMI.
+325-02||57||NECK: JVP 10 cm; no tracheal deviation.
+325-02||58||No carotid bruits.
+325-02||59||CHEST: Crackles halfway up.
+325-02||60||COR: No sternal heaves.||DIN FFF cor: FFF 0 0||
+325-02||61||Normal S1 and S2 with no loud P2.
+325-02||62||RRR, no M/R/G||DIN FFF m/r/g FFF 2 2||
+325-02||63||ABD: Soft, NT, ND, BS+
+325-02||64||Ext: 1+ pedal edema.
+325-02||65||No asymmetric leg edema or palpable cords.
+325-02||66||Warm, DP 2+ bilaterally and radial pulses 2+ bilaterally and symmetric
+325-02||67||Neuro: Moving all ext's without impairment and in symmetric fashion.
+325-02||68||No decrease in fine-touch in all ext's.
+325-02||69||DATA
+325-02||70||Sodium (Stat Lab)        138                         (135-145)        mmol/L
+325-02||71||Potassium (Stat Lab)     3.4                         (3.4-4.8)        mmol/L
+325-02||72||Chloride (Stat Lab)      104                         (100-108)        mmol/L
+325-02||73||CO2 (Stat Lab)           27.1                        (23.0-31.9)      mmol/L
+325-02||74||BUN (Stat Lab)           15                          (8-25)           mg/dl
+325-02||75||Creatinine (Stat Lab)    0.7                         (0.6-1.5)        mg/dl
+325-02||76||Glucose (Stat Lab)       171                H        (70-110)         mg/dl
+325-02||77||Creatine Kinase Isoenz   5.2                         (0.0-6.9)        ng/ml
+325-02||78||CPK Isoenzymes Index     4.2                H        (0.0-3.5)        %
+325-02||79||Troponin-T               0.08                        (0.00-0.09)      ng/ml
+325-02||80||Creatine Kinase          123                         (40-150)         U/L
+325-02||81||Creatine Kinase Isoenz   3.7                         (0.0-6.9)        ng/ml
+325-02||82||CPK Isoenzymes Index                                 (0.0-3.5)        %
+325-02||83||CPK and/or CKMB too low to calculate Relative Index.
+325-02||84||Troponin-T               0.03                        (0.00-0.09)      ng/ml
+325-02||85||Creatine Kinase          110                         (40-150)         U/L
+325-02||86||Creatine Kinase Isoenz   3.5                         (0.0-6.9)        ng/ml
+325-02||87||Troponin-T               0.01                        (0.00-0.09)      ng/ml
+325-02||88||Transaminase-SGOT        33                 H        (9-32)           U/L
+325-02||89||Creatine Kinase          97                          (40-150)         U/L
+325-02||90||WBC                      6.9                         (4.5-11.0)       th/cmm
+325-02||91||HCT                      33.6               L        (36.0-46.0)      %
+325-02||92||PLT                      294                         (150-350)        th/cumm
+325-02||93||MCV                      85                          (80-100)         fl
+325-02||94||MCH                      29.4                        (26.0-34.0)      pg/rbc
+325-02||95||MCHC                     34.4                        (31.0-37.0)      g/dl
+325-02||96||RDW                      13.3                        (11.5-14.5)      %
+325-02||97||Superstat PT             12.7                        (11.1-13.1)      sec||DIN FFF superstat FFF 0 0||
+325-02||97||Superstat PT             12.7                        (11.1-13.1)      sec||DIN FFF sec FFF 4 4||
+325-02||98||Superstat APTT           21.1               L        (22.1-35.1)      sec||DIN FFF superstat FFF 0 0||DOSE FFF 21.1 l FFF 2 3||
+325-02||98||Superstat APTT           21.1               L        (22.1-35.1)      sec||DIN FFF sec FFF 5 5||
+325-02||99||DIFFERENTIAL REQUEST     RECEIVED
+325-02||100||Diff Method              Auto
+325-02||101||Poly                     58                          (40-70)          %
+325-02||102||Lymphs                   35                          (22-44)          %
+325-02||103||Monos                    5                           (4-11)           %
+325-02||104||EOS                      2                           (0-8)            %
+325-02||105||Basos                    0                           (0-3)            %
+325-02||106||Macrocytes               None
+325-02||107||Microcytes               None
+325-02||108||D-Dimer (ELISA)          1061               H        (<500)           ng/ml
+325-02||109||-EKG (ED): NSR, ? STE in V1-2
+325-02||110||-EKG (floor) 9 am: NSR with ? STE in V1-2
+325-02||111||-EKG (floor) night: NSR with resolved STE in V1, still present in V2
+325-02||112||CXR: pulm edema
+325-02||113||A/P
+325-02||114||51 yo F with no known CAD or CHF, p/w acute CHF in setting of severe HTN, c/b troponin leak
+325-02||115||1.CARDS:  Suspect that pt had flash pulm edema from HTN due to poor med compliance as well as from  fluid re-mobilization post-surgery.
+325-02||116||Acute ischemic event possible given some EKG changes as well as mildly elevated troponin, but these findings could be also explained as demand ischemia event. -Serial EKG's
+325-02||117||-Cardiac monitor, telemetry

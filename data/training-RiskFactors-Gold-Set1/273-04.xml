@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2078-06-03
+
+					
+Novolog 3-10 tid	683-51-28
+Lantus 19-20 at hs	Xuan, Wendy
+Neoral 100/100 mg bid 
+CellCept 1000 mg bid 
+Toprol XL 25 mg qd, not yet started
+Lipitor 10 mg qd
+Neurontin 600/1200 mg bid
+Tums 200 mg ii qd (should be at least bid)
+Prilosec 20 mg bid
+MVI i bid
+ASA 325 mg qd
+Quinine Sulfate 260 mg at hs
+Tylenol 1325 mg over the day for arthritis
+Wellbutrin 150 mg bid
+Androgel to leg qd
+DHEA qd
+
+Jun 03, 2078
+
+Interim History:	
+Comes to review her medical problems.
+
+Has lost weight thanks to some spring viral illnesses     she is pleased about it.
+Reports that her control has not been good and does not have records.
+No severe hypoglycemia.
+Retinopathy:	Still has not seen Dr. Aragon. No subjective change in visual acuity.
+Nephropathy:	Cr 1.7 in January. Has not seen transplant MDs in a couple of years. Formerly saw Dr. Hayes. 
+Neuropathy:	No foot discomfort.
+Cardiac:	Has occasional high substernal chest tightness, every couple of weeks, over about 6 months, unrelated to exercise. Can last up to 15 minutes. Has not become more frequent. Sees Dr. Dotson annually. Has sensation about weekly that she cannot swallow, liquids>solids. Has had this for over a year and it has not been progressive.  
+Vascular:	No claudication.
+
+Past Medical History: 
+Medications: wants to reduce costs     asks about generics for Lipitor, transplant meds. 
+
+Family History: 
+Wendee has been profiled in the media because of her work as an industrial engineer 
+
+Social History: 
+Jake is well. His parents have been ill. 
+
+Review of Systems: above
+Psych: Referred to urologist at KJH, Dr. Xayachack (? sp) because of absent libido. He made the switch from Celexa to Wellbutrin and added Androgel and DHEA. She has noted more acne or no more libido. The loss of libido precedes the Celexa and the possibility of its relationship to Neoral or CellCept has been raised. 
+She sees her gynecologist regularly.
+
+Physical Exam:	
+Looks remarkably well.
+BP:   160/98   170/88		P:   60, regular	
+Wt:   153 without shoes, down 15
+HEENT:	Anicteric. 
+Fundi:	Limited views; laser scars; some ? fibrous bands OS. No active lesions seen.
+Carotids:	Normal pulses, without bruits
+Thyroid:	20-25 grams, firm without nodules.
+Chest:	Clear to auscultation
+Heart:	Normal S1; physiologic S2.  S4.  2/6 systolic ejection murmur
+Abdomen:	No hepatosplenomegaly. No masses. No tenderness. No palpable AAA. 
+Extremities:	No edema.  Pedal pulses all 1-2+ except L PT not palpable.           Small blister, resolving L 5th toe. Small crust L medial malleolus. 
+
+Impressions and Plan:	
+Hard to assess control without data. Hopefully her weight loss does not reflect terrible control.
+BP much too high. Start Toprol 25 mg qd.
+I have no objection to switch to simvastatin from atorvastatin for  cost reasons, but she must check with the transplant MDs re: this switch because of Neoral interaction with statins.
+Her chest pain does not sound particularly cardiac but will ask Dr. Dotson whether he wants any further evaluation. 
+MUST     see Dr. Aragon, see transplant MD. Make these appointments for her today.
+Will get barium swallow because of her dysphagia - ? disorganized esophageal contractions; consider manometry with Dr. Quam.
+A1c, Electrolytes, BUN/Creatinine, Ca, P, A/G, 25-(OH) vitamin D, PTH, CBC, urinalysis. Has already taken her Neoral today.
+Fasting lipids another day.
+Stool guaiacs. Has not done them.
+
+Appointments:	NP 1 week to check BP
+	Me 3 months
+
+cc:	Xavier Dotson, M.D.
+	Transplant Clinic
+
+
+			Yacob T. Kane, M.D., Ph.D.
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC7" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC8" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC11" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC12" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC14" time="after DCT" type1="insulin" type2=""/>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="high bp"/>
+    <FAMILY_HIST id="DOC13" indicator="not present"/>
+    <SMOKER id="DOC10" status="unknown"/>
+  </TAGS>
+</root>

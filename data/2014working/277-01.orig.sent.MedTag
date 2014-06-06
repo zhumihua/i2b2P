@@ -1,0 +1,27 @@
+277-01	1	Record date: 2078-01-30	
+277-01	2	We are consulted by Dr.	
+277-01	3	Bonilla for assistance with glycemic management.	
+277-01	4	Mr. Ervin is a 67 y/o gentleman who is presently POD # 1 after AVR and 2V CABG.	
+277-01	5	He had known calcific AS and presented with increasing fatigue and dyspnea on exertion.		INDICATION FFF as#4	INDICATION FFF fatigue#9	INDICATION FFF dyspnea#11
+277-01	6	He was subsequently found to have worsening AS and CAD, including LM disease.		INDICATION FFF as#7	INDICATION FFF cad#9
+277-01	7	His peri-operative course has been notable for hyperglycemia with maximum BG 252.		INDICATION FFF hyperglycemia#7
+277-01	8	He was started on an insulin  infusion according to the Portland Protocol and remains on 0.5-2 units/hour since midnight with BS 117-134-163-151-125-137-98-99.		DIN FFF insulin#5	DOSEAMT FFF 0.5 - 2 units#16	INDICATION FFF bs#20
+277-01	9	Mr. Ervin recalls having been diagnosed with DM at the age of 19 as part of a military physical.		INDICATION FFF dm#7	INDICATION FFF as#13
+277-01	10	He was overweight and was placed on dietary therapy.	
+277-01	11	Per his own report his DM was diet controlled and "seemed to disappear" several years after initial diagnosis.		INDICATION FFF dm#5
+277-01	12	Approximately 4 years ago he experienced blurry vision and was again noted to have elevated BGs (he is uncertain of the magnitude of the BG elevation).		DRT FFF 4 years#2
+277-01	13	He resumed dietary therapy and has achieved good control with a  pre-op A1c of 6.2.	
+277-01	14	He is followed at the Skiff.	
+277-01	15	He has never been on insulin or OHAs and denies knowledge of diabetic complications.		DIN FFF insulin#5
+277-01	16	He checks BS at home sporadically which are usually in the low-mid 100s.		INDICATION FFF bs#2
+277-01	17	He says when he experiences hyperglycemic symptoms (i.e. occasional nocturia) he walks to bring down his blood sugar.		INDICATION FFF symptoms#6	INDICATION FFF his blood sugar#17
+277-01	18	In general he is active, walking several miles/day.	
+277-01	19	Past Medical History: HTN, AS, DM2 as above		INDICATION FFF htn#3	INDICATION FFF as#4	INDICATION FFF as#6
+277-01	20	Current Medications: Insulin, K/Mg, ASA, Toradol, Zofran, Vanco, Carafate		DIN FFF insulin#2	INDICATION FFF k#3	DIN FFF asa#4	DBN FFF toradol#5	DBN FFF zofran#6	DBN FFF carafate#8
+277-01	21	Social History: remote tobacco, ETOH	
+277-01	22	Famiy History: Son with DM1,  Grandmother with DM		INDICATION FFF dm#7
+277-01	23	ROS: Denies HA or changes in vision.  +SOB PTA.		INDICATION FFF ha#2	INDICATION FFF sob#7
+277-01	24	No abdominal pain or changes in bowels.		INDICATION FFF abdominal pain#2
+277-01	25	No dysuria, occasional nocturia.	
+277-01	26	No recent lower extremity swelling.		INDICATION FFF swelling#4
+277-01	27	Remainder of review of systems is negative or as per HPI.		INDICATION FFF as#8

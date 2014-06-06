@@ -1,0 +1,7 @@
+222-03	15	438	MEDICATIONS:  Glyburide and metformin.	glyburide FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+222-03	15	438	MEDICATIONS:  Glyburide and metformin.	metformin. FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+222-03	29	0	THERAPY RENDERED/COURSE IN ED:  The patient was loaded on lidocaine  and paced on a lidocaine drip.	lidocaine FFF 9 9	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+222-03	29	0	THERAPY RENDERED/COURSE IN ED:  The patient was loaded on lidocaine  and paced on a lidocaine drip.	lidocaine FFF 14 14	 FFF 	drip. FFF 15 15	 FFF 	 FFF 	 FFF 	narrative
+222-03	30	0	He also received Lasix and  metoprolol.	lasix FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+222-03	30	0	He also received Lasix and  metoprolol.	metoprolol. FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+222-03	31	0	He also received 2 mg of Ativan for sedation.	ativan FFF 6 6	2 mg FFF 3 4	 FFF 	 FFF 	 FFF 	 FFF 	narrative

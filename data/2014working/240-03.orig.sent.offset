@@ -1,0 +1,18 @@
+240-03	12	0	Since that time, he has had only mild chest discomfort which is always relieved with nitroglycerin.	nitroglycerin. FFF 15 15	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+240-03	15	0	The pain lasted for approximately 30 min despite SL NTG, although did go away eventually.	ntg, FFF 9 9	 FFF 	sl FFF 8 8	 FFF 	 FFF 	 FFF 	narrative
+240-03	19	0	He was treated with ASA and Lopressor.	asa FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+240-03	19	0	He was treated with ASA and Lopressor.	lopressor. FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+240-03	34	0	Combivent  120/21mcg/spray inh qid	combivent 120/21mcg/spray FFF 0 1	120/21mcg/spray FFF 1 1	inh FFF 2 2	qid FFF 3 3	 FFF 	 FFF 	narrative
+240-03	35	0	doxycycline  100mg po bid x 14 days	doxycycline FFF 0 0	100mg FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+240-03	35	0	doxycycline  100mg po bid x 14 days	doxycycline FFF 0 0	 FFF 	po FFF 2 2	bid FFF 3 3	x 14 days FFF 4 6	 FFF 	narrative
+240-03	36	0	Ecotrin  325mg po daily	ecotrin FFF 0 0	325mg FFF 1 1	po FFF 2 2	daily FFF 3 3	 FFF 	 FFF 	narrative
+240-03	37	0	furosemide  20mg po daily	furosemide FFF 0 0	20mg FFF 1 1	po FFF 2 2	daily FFF 3 3	 FFF 	 FFF 	narrative
+240-03	38	0	isosorbide mononitrate  30 mg sr po bid	isosorbide mononitrate FFF 0 1	30 mg FFF 2 3	po FFF 5 5	bid FFF 6 6	 FFF 	 FFF 	narrative
+240-03	40	0	lisinopril  20mg po daily	lisinopril FFF 0 0	20mg FFF 1 1	po FFF 2 2	daily FFF 3 3	 FFF 	 FFF 	narrative
+240-03	41	0	nitroglycerin  0.4 mg sl every 5 minutes PRN chest pain	nitroglycerin FFF 0 0	0.4 mg FFF 1 2	sl FFF 3 3	every 5 minutes PRN FFF 4 7	 FFF 	 FFF 	narrative
+240-03	42	0	Plavix  75mg po daily	plavix FFF 0 0	75mg FFF 1 1	po FFF 2 2	daily FFF 3 3	 FFF 	 FFF 	narrative
+240-03	43	0	Proscar  5mg po daily	proscar FFF 0 0	5mg FFF 1 1	po FFF 2 2	daily FFF 3 3	 FFF 	 FFF 	narrative
+240-03	44	0	simvastatin  80mg po qpm	simvastatin FFF 0 0	80mg FFF 1 1	po FFF 2 2	qpm FFF 3 3	 FFF 	 FFF 	narrative
+240-03	45	0	Singulair  10mg po daily	singulair FFF 0 0	10mg FFF 1 1	po FFF 2 2	daily FFF 3 3	 FFF 	 FFF 	narrative
+240-03	46	0	terazosin  10 mg po bid	terazosin FFF 0 0	10 mg FFF 1 2	po FFF 3 3	bid FFF 4 4	 FFF 	 FFF 	narrative
+240-03	47	0	Toprol xl  25 mg po daily	toprol xl FFF 0 1	25 mg FFF 2 3	po FFF 4 4	daily FFF 5 5	 FFF 	 FFF 	narrative

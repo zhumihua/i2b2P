@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2080-07-03
+
+
+
+History of Present Illness
+
+POD # 3 
+
+Procedure  femoral-femoral bypass graft   
+
+Surgeon    U. Needham
+
+
+
+Narrative History
+
+This gentleman has type 2 DM diagnosed in  2078.  At that time he was seen at the ED with urinary frequency and was not feeling well. He was admitted to the hospital for BG's of 400's.  He was discharged on NPH insulin 30 units q am and 15 units q pm.  He has followed up with Dr. Xan Dunn from our Diabetes department. 
+
+His latest home DM regimen consists of NPH insulin 25 units q am and 10 units q hs.
+
+His home BG's are usually 130 or less.
+
+He has hypoglycemia unawareness.
+
+He has PVD s/p fem-fem bypass graft 6/30/80, ulcer on R big toe, (+)peripheral neuropathy.
+
+
+
+Past Medical History
+
+Morbidly obese,  + sleep apnea, +BPH, h/o gastric reflux, h/o pseudotumor cerebri, s/p hip surgery
+
+
+
+Family History
+
+no diabetes
+
+
+
+Social History
+
+Smoking (+)
+
+
+
+Medications Text
+
+Meds now:
+
+NPH insulin 25 units q am and 10 units q hs
+
+regular insulin SS 201-250--4 units
+
+simvastatin, lasix, levaquin, clindamycin, lisinopril, ECASA, lopressor, pepcid
+
+
+
+Physical Exam
+
+BP 140/73  PR 72/min    T 98.7
+
+      General Appearance
+
+morbidly obese
+
+      HEENT
+
+anicteric sclerae
+
+      Neck
+
+trachea midline
+
+      Chest
+
+CTA
+
+      Cor/Cardiac
+
+RRR
+
+      Abdomen
+
+Soft, obese
+
+      Extremity
+
+dressing intact on ulcer, R big toe
+
+      Neurological
+
+alert, oriented
+
+      Skin
+
+(+) acanthosis nigracans
+
+
+
+Laboratory Data
+
+A1c 6.1 in 03/80
+
+FS's 7/02 65 (treated with OJ)--110   91  238  165
+
+     7/03 101                         119
+
+s. creatinine 1.4
+
+LFT wnl
+
+WBC 13.7
+
+
+
+Assessment
+
+Type 2 DM complicated by PVD and neuropathy.  He was not eating well 7/01-7/02 but says his appetite has now recovered.
+
+
+
+Recommendation
+
+1.  Continue NPH insulin 25 units q am and 10 units q hs.
+
+2.  Suggest to change regular insulin sliding scale to humalog as this is more physiologic (acts faster and clears faster as well).  Give only half doses of this at hs since he will not be eating then.
+
+3.  Please get a Hemoglobin A1c.  This will help us assess blood glucose control for the past 2-3 months and can help in discharge planning.
+
+4.  He should folow-up with Dr. Dunn from Diabetes.
+
+
+
+
+
+Thank you.  
+
+
+
+U. Natalyn Gold, M.D., M.P.H.
+
+b26494
+
+
+
+(beeper for weekend:  65860)
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC3" time="after DCT" indicator="mention"/>
+    <OBESE id="DOC13" time="before DCT" indicator="mention"/>
+    <OBESE id="DOC19" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC11" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC12" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC15" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC20" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC21" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC22" time="during DCT" type1="beta blocker" type2=""/>
+    <FAMILY_HIST id="DOC14" indicator="not present"/>
+    <SMOKER id="DOC18" status="current"/>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC9" time="before DCT" indicator="glucose"/>
+    <DIABETES id="DOC10" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC23" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

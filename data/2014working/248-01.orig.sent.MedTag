@@ -1,0 +1,40 @@
+248-01	1	Record date: 2097-04-18	
+248-01	2	MAH CANCER CENTER		INDICATION FFF cancer#1
+248-01	3	April 18, 2097	
+248-01	4	Ulises Lopez, M.D.	
+248-01	5	Mount Ascutney Hospital	
+248-01	6	RE:  Danny Nielson	
+248-01	7	MAH#:	
+248-01	8	Dear Dr. Lopez:	
+248-01	9	Thanks very much for referring Mr. Nielson to see me for evaluation of his lymphadenopathy.  I will review his history for you.  Mr. Nielson is a 76-year-old gentleman who states that approximately three months ago, he had some increased swelling of his left leg.  About three to four weeks ago, this became increasingly evident and the patient was evaluated at Elders Home in Brandon, Indiana.  At that point, a CT scan was performed.  CT scan of the abdomen revealed significant adenopathy in the retroperitoneal space with a 2.0 cm node between the IVC in aorta and a 1.5 cm node just posterior to that, also a 1.0 cm retrocrural node was seen.  CT scan of the pelvis performed on the same day revealed a chain of retrocrural nodes in front of the aorta and vena cava extending to about 2.0 to 3.0 cm below the bifurcation as well as bulky adenopathy in the external iliac chain with an iliac mass measuring 3.0 to 3.5 cm in diameter on the left side.  The largest node in the inguinal area measures approximately 6.0 cm in diameter.  The patient was then seen by Dr. Lopez on April 12th who noted firm edema in the left leg and referred him to me for evaluation.		INDICATION FFF me#9	DRT FFF three months#33	INDICATION FFF swelling#39	DRT FFF three to four weeks#48	INDICATION FFF ct#69	INDICATION FFF ct#73	INDICATION FFF cm#88	INDICATION FFF cm#98	INDICATION FFF cm#107	INDICATION FFF ct#112	DOSEAMT FFF a chain#124	INDICATION FFF cm#142	INDICATION FFF as#146	INDICATION FFF as#148	RUT FFF external#153	INDICATION FFF cm#164	INDICATION FFF cm#181	INDICATION FFF edema#198	INDICATION FFF me#207
+248-01	10	PAST MEDICAL HISTORY:	
+248-01	11	Wegener s granulomatosis initially diagnosed in 2083.		INDICATION FFF wegener#0
+248-01	12	The patient says at that point he came to the Hilton Head Medical Center with severe photophobia and was diagnosed with scleritis.		INDICATION FFF photophobia#16	INDICATION FFF scleritis#21
+248-01	13	This recurred in 2093.	
+248-01	14	He has been treated intermittently with low-dose azathioprine and steroids.		DOSE FFF low-dose#6	DIN FFF azathioprine#7
+248-01	15	He is currently on a minimal dose of steroids.   status post bilateral knee repair status post right-sided hip repair history of diabetes mellitus type II hiatal hernia history of asbestos exposure coronary artery disease renal transplant donor s/p left nephrectomy in the 2060s		INDICATION FFF diabetes mellitus type ii#24	INDICATION FFF hiatal hernia#26	INDICATION FFF coronary artery disease#33
+248-01	16	CURRENT MEDICATIONS:	
+248-01	17	Micronase 10 mg po q day, Lipitor 10 mg po q day, Lasix 40 mg po q day, multivitamin, prednisone 5 mg po q day, Tylenol PM qhs and the patient is currently off of aspirin.		DBN FFF micronase#0	DOSE FFF 10mg#2	RUT FFF po#3	FREQ FFF q day#5	DBN FFF lipitor#6	DOSE FFF 10mg#8	RUT FFF po#9	FREQ FFF q day#11	DBN FFF lasix#12	DOSE FFF 40mg#14	RUT FFF po#15	FREQ FFF q day#17	DBN FFF multivitamin#18	DIN FFF prednisone#19	DOSE FFF 5mg#21	RUT FFF po#22	FREQ FFF q day#24	DBN FFF tylenol pm#26	FREQ FFF qhs#27	DIN FFF aspirin#35
+248-01	18	ALLERGIES:		INDICATION FFF allergies#0
+248-01	19	No known drug allergies.		INDICATION FFF drug allergies#3
+248-01	20	No food allergies.		INDICATION FFF food allergies#2
+248-01	21	REVIEW OF SYSTEMS:	
+248-01	22	The patient denies fevers or night sweats.		INDICATION FFF fevers#3	INDICATION FFF sweats#6
+248-01	23	Does report 30 to 40-pound weight loss over the last year.		INDICATION FFF weight#5
+248-01	24	Reports increasing fatigue for the last year.		INDICATION FFF fatigue#2
+248-01	25	Denies heat or cold intolerance.		INDICATION FFF cold#3
+248-01	26	Reports his vision has been progressively worse, especially his near vision over the last six to eight months.		DRT FFF six to eight months#17
+248-01	27	His hearing is quite poor especially in his left ear, however has not changed recently.		RUT FFF ear#9
+248-01	28	Has had no effect of sense of smell for the last many years.	
+248-01	29	Denies trouble chewing or swallowing but does gag when he drinks water intermittently.	
+248-01	30	Denies wheezing.		INDICATION FFF wheezing .#1
+248-01	31	Does report an intermittent dry cough secondary to nasal drip for the last two weeks.		INDICATION FFF cough#5	RUT FFF nasal#8	RUT FFF drip#9	DRT FFF two weeks#14
+248-01	32	Reports a runny nose for the last two weeks.		DRT FFF two weeks#8
+248-01	33	Increase in shortness of breath over the last month.		INDICATION FFF shortness of breath#4
+248-01	34	No muscle pain or muscle aches.		INDICATION FFF pain#2
+248-01	35	Denies chest pain.		INDICATION FFF chest pain .#2
+248-01	36	Does report a sensation of burning pressure over his chest lasting approximately 4 to 5 minutes at a time, with exertion, this happens at least once a week, sometimes twice a week, it resolves quickly when he rests.		INDICATION FFF pressure#6	FREQ FFF once a week#27	FREQ FFF twice a week#31
+248-01	37	Denies palpitations.	
+248-01	38	Does report that he has been bruising more easily over the last several months.		DRT FFF several months#13
+248-01	39	No abdominal pain, nausea or vomiting.		INDICATION FFF abdominal pain#2	INDICATION FFF nausea#3	INDICATION FFF vomiting#5
+248-01	40	Intermittent constipation.		INDICATION FFF constipation .#1

@@ -1,0 +1,71 @@
+251-01	1	Record date: 2083-08-24		 
+251-01	2			 
+251-01	3	Fellow/NP		 
+251-01	4	None		 
+251-01	5	Reason for Visit:  moderately to poorly differentiated adenocarcinoma of the esophagus.		 
+251-01	6	Stage IVB		 
+251-01	7	Diagnosis/Treatment Summary:		 
+251-01	8	Stage IVB (axillary and retroperitoneal LN and very large celiac axis LN mass)		 
+251-01	9	History:  Patient is a 72 year old man who began having dysphagia about 4 weeks ago.		 
+251-01	10	On 8/01/83 he was scheduled for a Colonoscopy, so his PCP suggested he have an UGI Endoscopy at the same time.		 
+251-01	11	The Colonoscopy demonstrated Diverticulosis and the UGI Endoscopy demonstrated a partially obstructing esophageal/gastric cardia tumor which was biopsied.		 
+251-01	12	Pathology revealed moderately to poorly differentiated adenocarcinoma.		 
+251-01	13	On 8/10/83 an Abd and Pelvic CT were done showing:  marked thickening of the wall of the distal esophagus (35-40cm by endoscopy - partial obstruction and circumferential) extending into the gastric cardia, consistent with biopsy proven adenocarcinoma.		DIN FFF proven#35	INDICATION FFF adenocarcinoma#36
+251-01	14	Also felt to be bleeding silently so placed on Fe replacement.		INDICATION FFF bleeding#4	DIN FFF fe#9
+251-01	15	Also, enlarged gastroepiploic, celiac and aortocaval lymph nodes consistent with metastatic disease.		 
+251-01	16	On 8/10/83 a Chest CT revealed thickening of the lower esophagus extending into the chest esophageal junction.		 
+251-01	17	This is associated with lymphadenopathy in the (L) axilla, gastrohepatic ligament, celiac axis and retrocrural space.		 
+251-01	18	The appearance is highly suspicious for esophageal cancer and nodal spread.		 
+251-01	19	There is a 3mm nodule adjacent to the (R) major fissure in the lung.		 
+251-01	20	PET scan confirmed axillary and abdominal involvement with cancer.		 
+251-01	21	The lung nodule was too small for PET to evaluate.		 
+251-01	22	He remains quite asymptomatic with no weight loss and minimal symptoms when he chews his food well.		 
+251-01	23			 
+251-01	24	Problems/PMH:		 
+251-01	25	Repair of Zenker's diverticulum in 2080		 
+251-01	26	Aterial stent was placed in the mid LAD in 4/80		 
+251-01	27	Hypercholesteremia		 
+251-01	28	Arthritis		 
+251-01	29	Borderline Diabetic		 
+251-01	30	Heart murmur for 50 years		 
+251-01	31	FH/SH:		 
+251-01	32	Never married		 
+251-01	33	No children		 
+251-01	34	Never smoked		 
+251-01	35	Rare ETOH- 6 beers per year		 
+251-01	36	Aerospace engineer for 40 years		 
+251-01	37	No family history of cancer		 
+251-01	38	Here with sister.		 
+251-01	39	Review of Systems:		 
+251-01	40	General: 20 lb weight loss,  fatigue, no fevers, no chills, can't eat as much, fills up quickly		 
+251-01	41	Respiratory: No cough, no SOB, no DOE, no hemoptysis, no wheezing		 
+251-01	42	HEENT: No neck swelling, occasional (R) neck stiffness, no hoarseness, no hearing loss		 
+251-01	43	Cardiac: No chest pain, no palpitations( heart murmur for 50 yrs.) arrythmias, no valve disease		 
+251-01	44	Gastrointestinal: No nausea, no vomiting, no diarrhea, no constipation, no bleeding		 
+251-01	45	Neurologic: No seizures, no headache, no weakness, no numbness/tingling		 
+251-01	46	Lymph nodes: No enlarged lymph nodes		 
+251-01	47	Musculoskeletal: No back pain, no neck pain, no leg pain, no arm pain		 
+251-01	48	Urologic: No hematuria, no dysuria, or no obstruction		 
+251-01	49	Endocrine: No adrenal, no thyroid or  no parathyroid disease		DIN FFF adrenal#2
+251-01	50	Hematologic: No bruising, no clotting, no bleeding		 
+251-01	51	Medications:		 
+251-01	52	Atenolol 50 mg QD		DIN FFF atenolol#0	DOSE FFF 50mg#2	FREQ FFF qd#3
+251-01	53	Triamterene/HCTZ 50/25 QD		 
+251-01	54	Vitamin B Complex 100 u QD		DIN FFF vitamin b complex#2	DOSE FFF 100u#4	FREQ FFF qd#5
+251-01	55	Folic Acid 1 mg QD		DIN FFF folic acid#1	DOSE FFF 1mg#3	FREQ FFF qd#4
+251-01	56	Iron Sulfate 1 tab BID		DIN FFF iron sulfate#1	DOSEAMT FFF 1 tab#3	FREQ FFF bid#4
+251-01	57	Lipitor 10 mg QHS		DBN FFF lipitor#0	DOSE FFF 10mg#2	FREQ FFF qhs#3
+251-01	58	Terazosin 5 mg QD		DIN FFF terazosin#0	DOSE FFF 5mg#2	FREQ FFF qd#3
+251-01	59	Lisinopril 2.5 mg QHS		DIN FFF lisinopril#0	DOSE FFF 2.5mg#2	FREQ FFF qhs#3
+251-01	60	Ducolax 2 tabs QD		DPN FFF ducolax#0	DOSEAMT FFF 2 tabs#2	FREQ FFF qd#3
+251-01	61	Allergies:		 
+251-01	62	Codeine-dizzy		 
+251-01	63	Physical Examination:		 
+251-01	64	VSS AF		 
+251-01	65	PS=1		 
+251-01	66	Neck: no nodes palpable		 
+251-01	67	HEENT: No thrush or mucositis; EOMI; PERRL		 
+251-01	68	Skin: no rash		 
+251-01	69	Ext: without edema, clubbing		 
+251-01	70	Cor: S1 S2		DIN FFF cor#0
+251-01	71	Chest: clear lungs without wheezing or crackles		 

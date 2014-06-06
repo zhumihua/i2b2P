@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2082-01-22
+
+
+
+ 
+
+
+
+Infectious Disease Fellow Consult Note
+
+
+
+Patient Name:  Yerger, Urania
+
+MRN:  58348900
+
+Location: 47N
+
+Admit Date: 1/21/82
+
+Consult Date: 1/22/82  
+
+ 
+
+HPI:  Ms. Yerger is an 84 yo F with CAD, DM, CHF, Htn, HL, and right ankle fracture s/p ORIF on 11/04/81 who presents with poor healing over the medial malleolus; we were consulted by Dr. Felton for recommendations on antibiotic management.   
+
+
+
+She was initially seen on 11/01/81 after a mechanical fall which resulted in comminuted bimalleolar ankle fracture for which she underwent ORIF on 11/04/81.  She had follow-up with her orthopaedist on 1/15/81 at which time she was noted to have an eschar with poor wound healing around the medial malleolus.  She was therefore admitted yesterday for I&D of the open lesion on her ankle, as well as hardware removal.  There is no operative report from the procedure.  Reportedly there was non-union of the fracture, so hardware was removed.  Tissue appeared fairly healthy.   
+
+ 
+
+She denies having any recent fevers, chills, night sweats, or particular pain in the ankle.  She has been doing some weight bearing with use of a walker.  She has had some mild serous drainage from the ankle, but no purulent drainage.  
+
+
+
+ROS: See HPI for positives.  ROS otherwise negative in detail.  
+
+
+
+PMH:  
+
+1.	CAD: s/p NSTEMI in 2078, followed by CABG (SVG to ramus, OM2, RCA, and LIMA to LAD)
+
+2.     CHF: diastolic dysfunction, EF 60% with mod MR/TR, flash pulm edema in setting of coronary ischemia
+
+3.     DM for 10-15yrs
+
+4.     HTN
+
+5.     Hyperlipidemia
+
+6.     Osteoporosis
+
+7.     R TKR
+
+ 
+
+Medications:
+
+1.	Vancomycin 1gm IV q24h
+
+2.     Also on lovenox, simvastatin, amlodipine, toprol xl, losartan, lasix, glipizide, colace, aspirin, morphine, MOM, maalox
+
+Home medications:
+
+ECASA 325 mg p.o. daily, 
+
+Lasix 60 mg p.o. daily, 
+
+Toprol-XL 50 mg p.o. daily, 
+
+Losartan 100 mg p.o. daily, 
+
+Simvastatin 10 mg p.o. daily, 
+
+Glipizide 10 mg p.o. daily, 
+
+Avandia 4mg p.o. daily
+
+Norvasc 5mg po qod
+
+Fosamax 70mg po qweek
+
+Multivitamin
+
+
+
+Allergies:  Ciprofloxacin causes unknown reaction.  Metformin causes GI intolerance. Tylenol causes reaction.  
+
+
+
+SHx:  Lives alone in Cohasset, but with 5 supporting daughters nearby.  No tob, EtOH.
+
+
+
+PE:
+
+Gen: pleasant, elderly, well appearing lady, in NAD
+
+VS: Tmax:97.8   Tc:97.8   BP 142/64   P 81   R 18   94% on RA
+
+HEENT: PERRL, EOMI, OP without lesions, + dentures
+
+Neck: supple, no cervical LAN
+
+Pulm: CTA bilaterally, no rales/wheezes
+
+CV: RRR, II/VI HSM at LSB, normal S1/S2, well healed sternotomy incision
+
+Abd: soft, NT, ND, NABS, no HSM
+
+Ext: no c/c/e, W&WP, right foot in cast, toes with good perfusion, drain in place with serosanguenous drainage
+
+Skin: no rash
+
+
+
+Labs:
+
+WBC 10.9, Hct 30, Plt 383, Diff: not done
+
+BUN/Cr: 36 / 1.3 (on 1/19/82)
+
+LFTs: not done
+
+INR 1.1, PTT 29
+
+ESR 92 (1/22/82)
+
+
+
+Micro:
+
+Right ankle culture (1/21/82): FEW SUSPECTED STAPHYLOCOCCUS AUREUS (gm stain-no polys, no org)
+
+
+
+Radiology:
+
+Right ankle xrays pending (1/21/82)
+
+
+
+Impression/Recommendations: 84 yo F with CAD, DM, CHF, Htn, HL, and right ankle fracture s/p ORIF on 11/04/81 who presents with poor healing over the medial malleolus, now s/p I&D of the open medial malleolus wound; we were consulted by Dr. Felton for recommendations on antibiotic management.   
+
+
+
+The extent of infection is a surgical diagnosis.  If the swabs were obtained from the superficial wound, then this may represent merely a wound infection which requires 2 weeks of antibiotics.  However if the infection was felt on surgical inspection to extend to the region of the removed hardware, then this represents osteomyelitis by definition, and she will need 6 weeks of IV antibiotics with consideration of the removal of the remaining hardware.  
+
+
+
+After discussion with the ortho resident, it seems that the culture was obtained from the site of screw removal.  Thus, we have to assume hardware infection with concomitant osteomyelitis.  Thus 6 weeks of IV antibiotics is necessary.  We cannot rule out infection of the remaining hardware, however I understand the reluctance to remove the remainder of the hardware by the ortho service.  Thus would pursue 6 week course of therapy, then monitor closely for signs of failure. 
+
+
+
+1.	Continue vancomycin until susceptibilities are available; will determine whether the addition of rifampin in necessary given retained hardware based on susceptibility results
+
+2.     Please obtain vanc trough prior to 3rd dose
+
+3.     Please obtain LFTs
+
+ 
+
+Patient seen and examined with ID Attending, Dr. Ulysses Xayasane.  
+
+We will continue to follow along with you.  Thank you for the consult.  
+
+
+
+Rosa Molina, M.D.
+
+Infectious Disease Fellow
+
+Pager 12906
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC4" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC8" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC22" time="after DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC9" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC12" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC13" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC14" time="before DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC15" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC17" time="after DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC19" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC24" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC27" time="during DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC29" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC30" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC31" time="after DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC32" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC33" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC35" time="during DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC36" time="before DCT" type1="ARB" type2=""/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC10" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC20" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC34" time="after DCT" indicator="mention"/>
+    <CAD id="DOC16" time="after DCT" indicator="mention"/>
+    <CAD id="DOC23" time="during DCT" indicator="mention"/>
+    <CAD id="DOC26" time="before DCT" indicator="mention"/>
+    <CAD id="DOC28" time="before DCT" indicator="event"/>
+    <FAMILY_HIST id="DOC21" indicator="not present"/>
+    <SMOKER id="DOC25" status="never"/>
+    <DIABETES id="DOC3" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC5" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention"/>
+  </TAGS>
+</root>

@@ -1,0 +1,18 @@
+275-04	13	0	Due to heavily calcified RCA ostium, a button for re-implantation couldn't be created so she recieved a single vessel SVG to prox RCA.	vessel FFF 18 18	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+275-04	15	0	She was discharged to rehab with a PICC to complete a course of IV PCN.	pcn. FFF 14 14	 FFF 	iv FFF 13 13	 FFF 	a course FFF 10 11	 FFF 	narrative
+275-04	17	0	ECG was paced but biomarkers were mildly positive (troponin ~0.5).	ecg FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+275-04	40	0	-> long history of bilateral calf claudication after 10-15 mins ambulation; improved on pletal	pletal FFF 13 13	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+275-04	43	0	- breast CA s/p bilateral mastectomies; on letrozole	letrozole FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+275-04	48	0	Advair  250/50mcg spray inh bid	advair 250/50mcg spray FFF 0 2	 FFF 	inh FFF 3 3	bid FFF 4 4	 FFF 	 FFF 	narrative
+275-04	49	0	amiodarone  200mg po daily	amiodarone FFF 0 0	200mg FFF 1 1	po FFF 2 2	daily FFF 3 3	 FFF 	 FFF 	narrative
+275-04	50	0	aspirin  325 mg po daily	aspirin FFF 0 0	325 mg FFF 1 2	po FFF 3 3	daily FFF 4 4	 FFF 	 FFF 	narrative
+275-04	51	0	Combivent  120/21mcg/spray inh qid	combivent 120/21mcg/spray FFF 0 1	120/21mcg/spray FFF 1 1	inh FFF 2 2	qid FFF 3 3	 FFF 	 FFF 	narrative
+275-04	52	0	Coumadin	coumadin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+275-04	53	0	Femara  2.5mg QD	femara FFF 0 0	2.5mg FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+275-04	54	0	Lipitor  20mg po daily	lipitor FFF 0 0	20mg FFF 1 1	po FFF 2 2	daily FFF 3 3	 FFF 	 FFF 	narrative
+275-04	55	0	Lopressor  25mg po bid	lopressor FFF 0 0	25mg FFF 1 1	po FFF 2 2	bid FFF 3 3	 FFF 	 FFF 	narrative
+275-04	56	0	metformin hydrochloride  500 mg po daily	metformin hydrochloride FFF 0 1	500 mg FFF 2 3	po FFF 4 4	daily FFF 5 5	 FFF 	 FFF 	narrative
+275-04	57	0	ophthalmic pilocarpine solution  0.5% QID	pilocarpine solution FFF 1 2	0.5% FFF 3 3	 FFF 	qid FFF 4 4	 FFF 	 FFF 	narrative
+275-04	59	0	Pletal  100mg PO BID	pletal FFF 0 0	100mg FFF 1 1	po FFF 2 2	bid FFF 3 3	 FFF 	 FFF 	narrative
+275-04	60	0	Prilosec  40mg po BID	prilosec FFF 0 0	40mg FFF 1 1	po FFF 2 2	bid FFF 3 3	 FFF 	 FFF 	narrative
+275-04	61	0	Zantac  300mg po at bedtime	zantac 300mg FFF 0 1	 FFF 	po FFF 2 2	at bedtime FFF 3 4	 FFF 	 FFF 	narrative

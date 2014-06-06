@@ -1,0 +1,30 @@
+332-02||1||Record date: 2094-08-11
+332-02||2||INTERNAL MEDICINE ASSOCIATES
+332-02||3||ROSELAND COMMUNITY HOSPITAL
+332-02||4||Major Problems
+332-02||5||Health maintenance
+332-02||6||Up-to-date.
+332-02||7||Pneumococcal vaccine given in 2093.||DIN FFF pneumococcal vaccine FFF 0 1||
+332-02||8||Declines a sigmoidoscopy or colonoscopy.
+332-02||9||Diabetes mellitus||INDICATION FFF diabetes mellitus FFF 0 1||
+332-02||10||Blood sugars have been very good.||INDICATION FFF blood sugars FFF 0 1||
+332-02||11||Here today, it is 156.
+332-02||12||She met with Camp who discussed extensively about her diabetes.||INDICATION FFF her diabetes. FFF 8 9||
+332-02||13||She found it very helpful.
+332-02||14||Diet issues reinforced.
+332-02||15||Sebaceous cyst
+332-02||16||Resolved.
+332-02||17||Hypertension||INDICATION FFF hypertension FFF 0 0||
+332-02||18||Blood pressure much improved, 130/60 after increasing her medications.||INDICATION FFF blood pressure FFF 0 1||
+332-02||19||This is a great improvement.
+332-02||20||When Camp checked, her blood pressure was also considerably better at that visit, 132/70.||DIN FFF camp FFF 1 1||INDICATION FFF her blood pressure FFF 3 5||
+332-02||21||Having her watch her salt and also her sugar in her diet.||DIN FFF salt FFF 4 4||
+332-02||22||Active Medications
+332-02||23||glyburide 5mg po 2 tabs bid||DIN FFF glyburide FFF 0 0||DOSE FFF 5mg FFF 1 1||RUT FFF po FFF 2 2||DOSEAMT FFF 2 tabs FFF 3 4||FREQ FFF bid FFF 5 5||
+332-02||24||metformin hydrochloride 500 mg po bid||DIN FFF metformin hydrochloride FFF 0 1||DOSE FFF 500 mg FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF bid FFF 5 5||
+332-02||25||lisinopril 20 mg po qd||DIN FFF lisinopril FFF 0 0||DOSE FFF 20 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+332-02||26||atenolol 100mg po qd||DIN FFF atenolol FFF 0 0||DOSE FFF 100mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qd FFF 3 3||
+332-02||27||Ecotrin 325 mg po qd||DBN FFF ecotrin FFF 0 0||DOSE FFF 325 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+332-02||28||hydrochlorothiazide 25 mg po qd||DIN FFF hydrochlorothiazide FFF 0 0||DOSE FFF 25 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+332-02||29||Norvasc 5mg po qd||DBN FFF norvasc FFF 0 0||DOSE FFF 5mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qd FFF 3 3||
+332-02||30||Physical examination

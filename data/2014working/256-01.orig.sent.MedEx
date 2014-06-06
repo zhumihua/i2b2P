@@ -1,0 +1,74 @@
+256-01	1	Record date: 2150-02-06		 
+256-01	2			 
+256-01	3	Neurology ED Consult Note		 
+256-01	4	Patient: Klein, Michelle		 
+256-01	5	MRN: 2474410		 
+256-01	6	Date:  2/6/50		 
+256-01	7	Time:  10:00 p.m.		 
+256-01	8	PCP: Whitney Keller, M.D.		 
+256-01	9	Reason for consult: garbled speech		 
+256-01	10	HPI:   Patient is a 74 yo RH woman with history of HTN, hyperlipidemia, CAD s/p LAD stent (2144) who was in her USOH until this afternoon at 12:15 p.m. when she experienced sudden onset of garbled speech and difficulty "expressing myself" while cooking lunch for she and her husband.		 
+256-01	11	This episode was accompanied shortly thereafter by a dull, L fronto-temporal headache that persisted for several hours.		 
+256-01	12	She states she did not have word-finding difficulties but simply had trouble articulating herself.		 
+256-01	13	The episode came on suddenly and lasted 1-2 hours before she resolved back to baseline.		 
+256-01	14	In addition to headache, associated symptoms included generalized weakness, feeling cold and mildly nauseated.		 
+256-01	15	She denied visual changes, chest pain, sob, palpitations, lightheadedness, vertigo, difficulty with swallowing, coordination or gait.		 
+256-01	16	She describes having a glass of orange juice with the thought that her sugar might be low, without apparent effect.		DIN FFF orange juice#7
+256-01	17	She recalls one similar episode ~ 2 years ago at which time she had her husband drive her home and she went to bed.		 
+256-01	18	The speech difficulty had resolved by morning, and she apparently never told her physician or had any further work-up.		 
+256-01	19	She has no known history of seizures.		 
+256-01	20	Migraines occur 1-2x/year, preceeded by scintillating scotoma, associated with nausea, photophobia, relieved by sleep.		 
+256-01	21	No recent fevers, chills,  weight loss or weight gain, cough, abd pain, diarrhea.		 
+256-01	22	Reports regular exercise including this morning (stationary bicycle).		 
+256-01	23	Time of onset/Last seen normal: 12:15 pm		 
+256-01	24	Witnessed onset: yes		 
+256-01	25	Onset: acute		 
+256-01	26	Mode of arrival:  walk-in		 
+256-01	27	Clinical Course: improving		 
+256-01	28	Pre-morbid neurological status: independent		 
+256-01	29	Code status: full code		 
+256-01	30	PMHx:		 
+256-01	31	HTN		 
+256-01	32	Hyperlipidemia		 
+256-01	33	CAD sp LAD stent (2144)		 
+256-01	34	Migraines (as above)		 
+256-01	35	Familial tremor		 
+256-01	36	Nephrolithiasis		 
+256-01	37	S/p appendectomy		 
+256-01	38	S/p mastoid surgery as a child		 
+256-01	39	"borderline dm" per patient		 
+256-01	40	Meds:		 
+256-01	41	Lipitor		DBN FFF lipitor#0
+256-01	42	Atenolol		DIN FFF atenolol#0
+256-01	43	ASA 325		DIN FFF asa#0
+256-01	44	Protonix		DBN FFF protonix#0
+256-01	45	HCTZ		DPN FFF hctz#0
+256-01	46	Vitamins B12/B6		DBN FFF vitamins#0	MDBN FFF b12 / b6#1
+256-01	47	MVI		DPN FFF mvi#0
+256-01	48	Ginko		 
+256-01	49	All: Sulfa  hives		DIN FFF sulfa#1	INDICATION FFF hives#2
+256-01	50	SocHx:		 
+256-01	51	Lives with husband in Sherman.		 
+256-01	52	Mother of 4 children.		 
+256-01	53	Very active at baseline, secretary of her methodist church.		 
+256-01	54	Tob: active for "several years" quit ~20 years ago		 
+256-01	55	ETOH: denies		 
+256-01	56	Illicit:  denies		 
+256-01	57	FamHx:		 
+256-01	58	Father with vascular disease, asbestosis.		 
+256-01	59	VS:   97.2             71             146/68                 18          98% (RA)		 
+256-01	60	PE:  Gen:  Pleasant woman appears younger than stated age, resting comfortably NAD		 
+256-01	61	HEENT:  NC/AT, o/p clr, mmm		 
+256-01	62	Neck:  supple, no LAD, no carotid or vertebral bruits		 
+256-01	63	CV:  rr, nl s1s2, no m/r/g		DIN FFF m / r#5
+256-01	64	Chest:  CTA b/l, no w/r/r anteriorly		 
+256-01	65	Abd:  soft, nt/nd, +nabs		 
+256-01	66	Ext: no c/c/e, distal pulses 2+, no rash		 
+256-01	67	Neurologic Exam:		 
+256-01	68	MS: A&Ox3, appropriately interactive, normal affect		 
+256-01	69	Attention: DOW, MOY backwards		 
+256-01	70	Speech: fluent w/o paraphasic errors; repetition, naming, reading, writing intact		 
+256-01	71	Memory: 1/3 at 5 minutes; 3/3 with prompting		 
+256-01	72	Calculations: serial 7s 100   93   86   79   62		 
+256-01	73	L/R confusion: No L/R confusion		 
+256-01	74	Praxis: Able to mimic saluting the flag, brushing teeth with either hand.		 

@@ -1,0 +1,26 @@
+222-02||1||Record date: 2095-03-27
+222-02||2||Wt 198  146/84
+222-02||3||72 yo male with few months of cardiac problems, including need for ablation of arrhythmia focus, done 1/95.||INDICATION FFF arrhythmia FFF 14 14||
+222-02||4||Has hx CAD with MI 2062 and 2086, with echo 1/95 showing 40-45% EF with posterior and apical hypokinesis.||INDICATION FFF cad FFF 2 2||INDICATION FFF mi FFF 4 4||DOSE FFF 40-45% FFF 12 12||INDICATION FFF ef FFF 13 13||
+222-02||5||No CHF sx, tho has moderate fluid retention at times.||INDICATION FFF chf FFF 1 1||INDICATION FFF fluid retention FFF 6 7||
+222-02||6||Takes lasix 40mg PRN (about 1-2 times per wk, when edematous, tho even with periph edema, no signif SOB/CHF sx.).||DBN FFF lasix FFF 1 1||DOSE FFF 40mg FFF 2 2||NEC FFF prn FFF 3 3||FREQ FFF per wk, FFF 7 8||INDICATION FFF edematous, FFF 10 10||INDICATION FFF edema, FFF 15 15||INDICATION FFF sob/chf FFF 18 18||INDICATION FFF sob/chf FFF 18 18||
+222-02||8||For past 6 wks has been on atenolol 25 qd (has not been able to tolerate amiodarone, lisinopril in past), but has felt very malaised, weak, lacking in energy, "weak" in the legs.||DRT FFF 6 wks FFF 2 3||DIN FFF atenolol FFF 7 7||DOSE FFF 25 FFF 8 8||FREQ FFF qd FFF 9 9||DIN FFF amiodarone, FFF 16 16||DIN FFF lisinopril FFF 17 17||INDICATION FFF lacking in energy, FFF 26 28||
+222-02||9||Feels his appetite was also affected and he lost 8 pounds.
+222-02||10||He got fed up and 2 days ago on his own, he stopped the atenolol and since then has felt nearly back to usual self.||DRT FFF 2 days FFF 5 6||DIN FFF atenolol FFF 14 14||
+222-02||11||HE says that he will not go back on atenolol.||DIN FFF atenolol. FFF 9 9||
+222-02||12||At last visit, was encouraged by Dr Corona to try to continue with atenolol.||DIN FFF atenolol. FFF 13 13||
+222-02||14||DM on glucophage 1500mg qd (500 AM, 1000PM), without signif poly sx, with recent fingerstick of 180 in AM and 220 in PM.||INDICATION FFF dm FFF 0 0||DBN FFF glucophage FFF 2 2||DOSE FFF 1500mg FFF 3 3||FREQ FFF qd FFF 4 4||TOD FFF (500 am, FFF 5 6||TOD FFF 1000pm), FFF 7 7||TOD FFF am FFF 18 18||TOD FFF pm. FFF 22 22||
+222-02||16||EXAM:   Lungs are clear.
+222-02||17||Extrem 3+ edema.||INDICATION FFF edema. FFF 2 2||
+222-02||18||IMP:    Side effects from atenolol.||DIN FFF atenolol. FFF 4 4||
+222-02||19||AICD/ventricular arrhythmia, controlled recently.||INDICATION FFF arrhythmia, FFF 1 1||
+222-02||20||Fluid retention.  PRN lasix not ideal.||INDICATION FFF fluid retention. FFF 0 1||NEC FFF prn FFF 2 2||DBN FFF lasix FFF 3 3||
+222-02||21||DM not as well controlled as desirable.||INDICATION FFF dm FFF 0 0||INDICATION FFF as FFF 2 2||INDICATION FFF as FFF 5 5||
+222-02||22||LDL 138, should be lower, tho he is so intolerant of meds.||INDICATION FFF ldl FFF 0 0||
+222-02||24||PLAN:   Will discuss with Dr Corona about unwillingness to take beta blocker           and if any other agent indicated.||DIN FFF beta blocker FFF 10 11||DIN FFF agent FFF 16 16||
+222-02||25||BP not ideally controlled.||INDICATION FFF bp FFF 0 0||
+222-02||26||Encouraged regular lasix use of 20mg twice per wk, salt restriction||DBN FFF lasix FFF 2 2||DOSE FFF 20mg FFF 5 5||FREQ FFF per wk, FFF 7 8||DIN FFF salt FFF 9 9||
+222-02||27||Consider lipitor for LDL 138, but next visit.||DBN FFF lipitor FFF 1 1||INDICATION FFF ldl FFF 3 3||
+222-02||28||Increase metformin to 1000 BID.||DIN FFF metformin FFF 1 1||FREQ FFF bid. FFF 4 4||
+222-02||29||Pneumovax today.||DIN FFF pneumovax FFF 0 0||
+222-02||30||Patricia Islam MD||INDICATION FFF md FFF 2 2||

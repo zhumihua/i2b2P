@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2079-01-14
+
+
+PICH 9
+89 James Street, Suite 9                          GREENWOOD, NORA
+Lucerne, KY 66922                                      60005814
+(838) 627-3027                                           01/14/79
+
+
+CHIEF COMPLAINT:  Ms. Greenwood comes in to urgent care clinic for
+hives after taking Keflex.
+
+HISTORY OF PRESENT ILLNESS:  She is a 47-year-old woman with
+chronic hydradenitis suppurativa since the age of 18 in her left
+axilla and her groin.  She has been to the emergency room
+multiple times for purulent drainage around her groin.  She has
+been given multiple courses of antibiotics including Keflex and
+dicloxacillin.  She is planning to have her disease surgically
+managed in the next few months.  She most recently presented to
+the emergency room on January 7, 2079 with swelling and drainage
+of her hydradenitis in her groin.  She was given a prescription
+of Keflex.  Shortly after taking the first tablet, she developed
+itching in the hands, face, and legs and as well as hives.  She
+denied any shortness of breath, difficulty breathing or loss of
+consciousness.  She called the emergency room and was instructed
+to stop taking Keflex as this was most likely an allergic
+reaction.  So now, she is here for follow up from that.  She said
+shortly after stopping antibiotic her symptoms of hives and
+itchiness have improved very quickly.  She is still complaining
+of purulent drainage around her groin.
+
+PAST MEDICAL HISTORY:  Diabetes.
+
+MEDICATIONS:  Glucotrol, Percocet as needed for pain.
+
+ALLERGIES:  She is allergic to erythromycin and now Keflex.  She
+gets hives from both.
+
+PHYSICAL EXAMINATION:  Her left axilla looks dry.  Her bilateral
+groins looks red, swollen tender with some serous as well as some
+purulent drainage.  There is no fluctuance that I could feel.
+
+ASSESSMENT AND PLAN:  Worsening of her hydradenitis.  Given the
+recent allergy to Keflex, we will obviously need to take a
+different antibiotic.  She has been on dicloxacillin in the past
+with good result.  Despite the 15% cross allergy of dicloxacillin
+compared to Keflex, I think dicloxacillin is a good choice for
+now.  If this does not work, I think one should consider
+clindamycin for treatment.  I will go ahead and give her 14 days
+worth of dicloxacillin and I instructing her to notify M.D. if
+she develops any allergic reaction to this medicine.  I also gave
+her 60 tablets of Percocet as well as renewed her renewed her
+prescription of Glucotrol XL 2.5 mg a day.  She should see her
+PCP in two weeks.
+
+
+
+
+
+______________________________
+Byron Pham, M.D.
+
+
+Dictated By: Byron Pham
+
+
+eScription document:9-3042267 EMSSten Tel
+
+
+
+DD: 01/14/79
+DT: 01/15/79
+DV: 01/14/79
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC1" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC2" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="sulfonylureas" type2=""/>
+    <FAMILY_HIST id="DOC5" indicator="not present"/>
+    <SMOKER id="DOC6" status="unknown"/>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC7" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

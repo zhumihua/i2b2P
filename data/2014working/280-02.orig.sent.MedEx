@@ -1,0 +1,28 @@
+280-02	1	Record date: 2085-12-07		 
+280-02	2	ZASTROW, IRENE		 
+280-02	3	42521583		 
+280-02	4	12/07/2085		 
+280-02	5	DATE OF ADMISSION:  12/06/2085.		 
+280-02	6	This 66-year-old woman phoned my office complaining of exertional chest discomfort.		 
+280-02	7	We instructed her to presented to the Emergency Department at Davis Monthan Hospital.		 
+280-02	8	She had experienced multiple episodes of chest pressure with exertion lasting 5-10 minutes and radiating to her left axilla.		 
+280-02	9	On 10/30/2085, she suffered non-ST segment elevation myocardial infarction in Pennsylvania and was managed with percutaneous coronary intervention.		 
+280-02	10	Chest discomfort recurred and on 11/03/2085, she was recatheterized at Davis Monthan Hospital where her mid LAD stent was expanded.		 
+280-02	11	She has had worsening substernal chest discomfort over the past two to three days.		 
+280-02	12	Her discomfort is relieved with nitroglycerin.		DIN FFF nitroglycerin#5
+280-02	13	Overnight, she had on and off chest discomfort with anterior T-wave lability.		 
+280-02	14	She was placed on intravenous heparin and intravenous nitroglycerin.		RUT FFF intravenous#4	DIN FFF heparin#5
+280-02	14	She was placed on intravenous heparin and intravenous nitroglycerin.		RUT FFF intravenous#7	DIN FFF nitroglycerin#8
+280-02	15	She suffered pulmonary embolism in 2074.		 
+280-02	16	That is when I first met her.		DIN FFF met#5
+280-02	17	She has gastroesophageal reflux disease.		 
+280-02	18	She is married; her husband works at 24 Hour Fitness as a personal trainer in the weight room.		 
+280-02	19	She does not smoke cigarettes.		 
+280-02	20	She has four children.		 
+280-02	21	Home medications include aspirin 325 mg daily, atenolol 25 mg daily, Lipitor 80 mg daily, Plavix 75 mg daily, insulin, and sublingual nitroglycerin as needed.		DIN FFF aspirin#3	DOSE FFF 325mg#5	FREQ FFF daily#6
+280-02	21	Home medications include aspirin 325 mg daily, atenolol 25 mg daily, Lipitor 80 mg daily, Plavix 75 mg daily, insulin, and sublingual nitroglycerin as needed.		DIN FFF atenolol#7	DOSE FFF 25mg#9	FREQ FFF daily#10
+280-02	21	Home medications include aspirin 325 mg daily, atenolol 25 mg daily, Lipitor 80 mg daily, Plavix 75 mg daily, insulin, and sublingual nitroglycerin as needed.		DBN FFF lipitor#11	DOSE FFF 80mg#13	FREQ FFF daily#14
+280-02	21	Home medications include aspirin 325 mg daily, atenolol 25 mg daily, Lipitor 80 mg daily, Plavix 75 mg daily, insulin, and sublingual nitroglycerin as needed.		DBN FFF plavix#15	DOSE FFF 75mg#17	FREQ FFF daily#18
+280-02	21	Home medications include aspirin 325 mg daily, atenolol 25 mg daily, Lipitor 80 mg daily, Plavix 75 mg daily, insulin, and sublingual nitroglycerin as needed.		DIN FFF insulin#19	RUT FFF sublingual#21
+280-02	21	Home medications include aspirin 325 mg daily, atenolol 25 mg daily, Lipitor 80 mg daily, Plavix 75 mg daily, insulin, and sublingual nitroglycerin as needed.		DIN FFF nitroglycerin#22	NEC FFF as needed#24
+280-02	22	The review of systems is negative other than the above.		 

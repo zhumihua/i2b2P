@@ -1,0 +1,99 @@
+288-02	1	Record date: 2066-01-20	
+288-02	2	GRANITE COUNTY MEMORIAL	
+288-02	3	Arthritis Department		INDICATION FFF arthritis#0
+288-02	4	17 Weld St                             Bird, Terri		INDICATION FFF st#2
+288-02	5	Lisbon, SD  52797                             80910690	
+288-02	6	659-5187                                      1-20-66	
+288-02	7		
+288-02	8		
+288-02	9		
+288-02	10	Ms. Bird comes in today to follow up on her weight and blood sugar  control, as well as to discuss her overall mental status and its effects  on her living situation.		INDICATION FFF weight#10	INDICATION FFF blood sugar control#14	INDICATION FFF as#15	INDICATION FFF as#17	INDICATION FFF mental status#23
+288-02	11		
+288-02	12	PMH:  Her past medical history includes atrial fibrillation, status post  renal allograft, status post aortic and mitral valve replacements with a  mechanical valve, on chronic Coumadin, a recent aortic aneurysm repair  and complications around that, including a cellulitis which has been  treated, and now waxing and waning mental status.		INDICATION FFF atrial fibrillation#7	DBN FFF coumadin#25	INDICATION FFF aortic aneurysm#29	INDICATION FFF cellulitis#37	INDICATION FFF mental status#48
+288-02	13	She also is  insulin-dependent diabetic.		INDICATION FFF insulin-dependent diabetic#4
+288-02	14		
+288-02	15	MEDICATIONS:  Her medications currently include:	
+288-02	16	1.   Neurontin 300 t.i.d.		DBN FFF neurontin#1	DOSE FFF 300#2	FREQ FFF t.i.d#3
+288-02	17	2.   Insulin NPH 20 units in the morning, 10 in the evening.		DIN FFF insulin nph#2	DOSEAMT FFF 20 units#4	TOD FFF in the morning#7	TOD FFF in the evening#11
+288-02	18	3.   Fosamax each day.		DBN FFF fosamax#1	FREQ FFF each day#3
+288-02	19	4.   Premarin and Provera.		DBN FFF premarin#1	DBN FFF provera#3
+288-02	20	5.   Tums Extra-Strength.		DBN FFF tums#1
+288-02	21	6.   digoxin 0.25 and 0125.		DIN FFF digoxin#1	DOSE FFF 0.25#2
+288-02	22	7.   Mevacor 40 a day.		DBN FFF mevacor#1	DOSE FFF 40#2	DRT FFF a day#4
+288-02	23	8.   Coumadin 1mg each day, except Sunday 2mg.		DBN FFF coumadin#1	DOSE FFF 1mg#2	FREQ FFF each day#4	FREQ FFF sunday#6	DOSE FFF 2mg#7
+288-02	24	9.   Imuran 100mg a day.		DBN FFF imuran#1	DOSE FFF 100mg#2	DRT FFF a day#4
+288-02	25	10.  prednisone 20mg every other day.		DIN FFF prednisone#1	DOSE FFF 20mg#2	FREQ FFF every other day#5
+288-02	26		
+288-02	27	REVIEW OF SYSTEMS:  The patient notes that she has been feeling well and  more active.	
+288-02	28	She is able to walk around her house without her walker.	
+288-02	29	She does use the walker outside of the house for safety and precaution.	
+288-02	30	She is independent in bathing and washing, as well as cooking and  preparing meals.		INDICATION FFF as#7	INDICATION FFF as#9
+288-02	31	She, however, is requiring a lot of assistance with  managing her medications.	
+288-02	32	She has her daughter-in-law downstairs help  her with this.	
+288-02	33	She has not been out of the house much in the last  several months, and, while she wants to drive, no-one has allowed her to  get behind the wheel.		DRT FFF several months#13	DRT FFF while#15
+288-02	34		
+288-02	35	The patient otherwise feels well with no chest pain, no shortness of  breath, no change in her bowel or bladder.		INDICATION FFF chest pain#8	INDICATION FFF shortness of breath#12	INDICATION FFF change#14
+288-02	36		
+288-02	37	HABITS:  She has had a weight which has been stable, and her appetite  has been good.		INDICATION FFF weight#5
+288-02	38		
+288-02	39	PHYSICAL EXAMINATION:  Notable for a well-appearing female who walks  with a walker, slowly, but in no acute distress.	
+288-02	40	Her weight is 104 lbs.		INDICATION FFF weight#1
+288-02	41	Her blood pressure today is 130/72.		INDICATION FFF her blood pressure#2
+288-02	42	Her pulse is 80 and regular today.	
+288-02	43	She has no peripheral edema, and she is comfortable sitting in a chair.		INDICATION FFF edema#4
+288-02	44		
+288-02	45	IMPRESSION:  My overall impression is that Ms. Bird is stable with  her current regimen and medications.  We have been manipulating her	
+288-02	46	GRANITE COUNTY MEMORIAL	
+288-02	47	Arthritis Department		INDICATION FFF arthritis#0
+288-02	48	32 Weld St                             Bird, Terri		INDICATION FFF st#2
+288-02	49	Lisbon, SD  52797                             80910690	
+288-02	50	659-5187                                      1-20-66	
+288-02	51	Page 2	
+288-02	52		
+288-02	53		
+288-02	54	Coumadin to keep her INR between 2 and 3.5 and, most recently, it was		DBN FFF coumadin#0	INDICATION FFF inr#4
+288-02	55	2.5, earlier this week.		DRT FFF this week#3
+288-02	56	She will continue on her current medications,  as noted above.		INDICATION FFF as#7
+288-02	57		
+288-02	58	The bulk of the discussion was regarding her home situation and her  mental status.		INDICATION FFF mental status#13
+288-02	59	She has clearly improved her mental status gradually  over the last several months.		INDICATION FFF mental status#6	DRT FFF several months#12
+288-02	60	She is anxious to drive.	
+288-02	61	However,  everyone in the family who is with her at the visit and her visiting  nurse agree that she is not mentally sound enough to be behind a wheel.	
+288-02	62	I explained this in no uncertain terms, and also set a milestone in  management of her own medications.	
+288-02	63	Hence, our three goals that we set  today were:	
+288-02	64	1.   Management of the patient's own medications, which she was doing       six months ago.		DRT FFF six months#12
+288-02	65	2.   To get out of the house at least once a week, using either		FREQ FFF once a week#11
+288-02	66	community transportation or a family member.	
+288-02	67	3.   To be doing the family's laundry each week.		FREQ FFF each week#8
+288-02	68		
+288-02	69	While the patient was not happy about being told that she could not  drive, she understood the reasons and was satisfied with the goals that  we set.		DRT FFF while#0
+288-02	70		
+288-02	71	Hence, I will see her back in about six weeks and see how she is doing  with these goals.		DRT FFF six weeks#9
+288-02	72	As well, we will continue to have the visiting nurse  see her every other week to monitor her blood sugar and Coumadin.		INDICATION FFF as#0	INDICATION FFF her blood sugar#19	DBN FFF coumadin#21
+288-02	73		
+288-02	74		
+288-02	75		
+288-02	76	______________________________	
+288-02	77	Steve George, M.D.	
+288-02	78		
+288-02	79	ft:ZO:1640	
+288-02	80	DD:1-20-66	
+288-02	81	DT:1-21-66	
+288-02	82	DV:1-20-66	
+288-02	83	******** Not reviewed by Attending Physician ********	
+288-02	84		
+288-02	85		
+288-02	86		
+288-02	87		
+288-02	88		
+288-02	89		
+288-02	90		
+288-02	91		
+288-02	92		
+288-02	93		
+288-02	94		
+288-02	95		
+288-02	96		
+288-02	97		
+288-02	98		
+288-02	99		

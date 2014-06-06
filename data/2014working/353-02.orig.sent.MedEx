@@ -1,0 +1,71 @@
+353-02	1	Record date: 2080-07-03		 
+353-02	2	History of Present Illness		 
+353-02	3	POD # 3		 
+353-02	4	Procedure  femoral-femoral bypass graft		 
+353-02	5	Surgeon    U. Needham		 
+353-02	6	Narrative History		 
+353-02	7	This gentleman has type 2 DM diagnosed in  2078.		 
+353-02	8	At that time he was seen at the ED with urinary frequency and was not feeling well.		 
+353-02	9	He was admitted to the hospital for BG's of 400's.		 
+353-02	10	He was discharged on NPH insulin 30 units q am and 15 units q pm.		DIN FFF nph insulin#5	DOSEAMT FFF 30 units#7	FREQ FFF q am#9
+353-02	10	He was discharged on NPH insulin 30 units q am and 15 units q pm.		DIN FFF nph insulin#5	DOSEAMT FFF 15 units#12	FREQ FFF q pm#14
+353-02	11	He has followed up with Dr.		 
+353-02	12	Xan Dunn from our Diabetes department.		 
+353-02	13	His latest home DM regimen consists of NPH insulin 25 units q am and 10 units q hs.		DPN FFF dm regimen#4	DIN FFF nph insulin#8	DOSEAMT FFF 25 units#10	FREQ FFF q am#12	DOSEAMT FFF 10 units#15	FREQ FFF hs#17
+353-02	14	His home BG's are usually 130 or less.		 
+353-02	15	He has hypoglycemia unawareness.		 
+353-02	16	He has PVD s/p fem-fem bypass graft 6/30/80, ulcer on R big toe, (+)peripheral neuropathy.		 
+353-02	17	Past Medical History		 
+353-02	18	Morbidly obese,  + sleep apnea, +BPH, h/o gastric reflux, h/o pseudotumor cerebri, s/p hip surgery		 
+353-02	19	Family History		 
+353-02	20	no diabetes		 
+353-02	21	Social History		 
+353-02	22	Smoking (+)		 
+353-02	23	Medications Text		 
+353-02	24	Meds now:		 
+353-02	25	NPH insulin 25 units q am and 10 units q hs		DIN FFF nph insulin#1	DOSEAMT FFF 25 units#3	FREQ FFF q am#5
+353-02	25	NPH insulin 25 units q am and 10 units q hs		DIN FFF nph insulin#1	DOSEAMT FFF 10 units#8	FREQ FFF hs#10
+353-02	26	regular insulin SS 201-250--4 units		DIN FFF regular insulin#1	DOSEAMT FFF 4 units#4
+353-02	27	simvastatin, lasix, levaquin, clindamycin, lisinopril, ECASA, lopressor, pepcid		DIN FFF simvastatin#0
+353-02	27	simvastatin, lasix, levaquin, clindamycin, lisinopril, ECASA, lopressor, pepcid		DBN FFF lasix#1
+353-02	27	simvastatin, lasix, levaquin, clindamycin, lisinopril, ECASA, lopressor, pepcid		DBN FFF levaquin#2
+353-02	27	simvastatin, lasix, levaquin, clindamycin, lisinopril, ECASA, lopressor, pepcid		DIN FFF clindamycin#3
+353-02	27	simvastatin, lasix, levaquin, clindamycin, lisinopril, ECASA, lopressor, pepcid		DIN FFF lisinopril#4
+353-02	27	simvastatin, lasix, levaquin, clindamycin, lisinopril, ECASA, lopressor, pepcid		DPN FFF ecasa#5
+353-02	27	simvastatin, lasix, levaquin, clindamycin, lisinopril, ECASA, lopressor, pepcid		DBN FFF lopressor#6
+353-02	27	simvastatin, lasix, levaquin, clindamycin, lisinopril, ECASA, lopressor, pepcid		DBN FFF pepcid#7
+353-02	28	Physical Exam		 
+353-02	29	BP 140/73  PR 72/min    T 98.7		 
+353-02	30	General Appearance		 
+353-02	31	morbidly obese		 
+353-02	32	HEENT		 
+353-02	33	anicteric sclerae		 
+353-02	34	Neck		 
+353-02	35	trachea midline		 
+353-02	36	Chest		 
+353-02	37	CTA		 
+353-02	38	Cor/Cardiac		DIN FFF cor#0
+353-02	39	RRR		 
+353-02	40	Abdomen		 
+353-02	41	Soft, obese		 
+353-02	42	Extremity		 
+353-02	43	dressing intact on ulcer, R big toe		 
+353-02	44	Neurological		 
+353-02	45	alert, oriented		 
+353-02	46	Skin		 
+353-02	47	(+) acanthosis nigracans		 
+353-02	48	Laboratory Data		 
+353-02	49	A1c 6.1 in 03/80		 
+353-02	50	FS's 7/02 65 (treated with OJ)--110   91  238  165		 
+353-02	51	7/03 101                         119		 
+353-02	52	s. creatinine 1.4		 
+353-02	53	LFT wnl		 
+353-02	54	WBC 13.7		 
+353-02	55	Assessment		 
+353-02	56	Type 2 DM complicated by PVD and neuropathy.		 
+353-02	57	He was not eating well 7/01-7/02 but says his appetite has now recovered.		 
+353-02	58	Recommendation		 
+353-02	59	1.  Continue NPH insulin 25 units q am and 10 units q hs.		DIN FFF nph insulin#3	DOSEAMT FFF 25 units#5	FREQ FFF q am#7
+353-02	59	1.  Continue NPH insulin 25 units q am and 10 units q hs.		DIN FFF nph insulin#3	DOSEAMT FFF 10 units#10	FREQ FFF hs#12
+353-02	60	2.  Suggest to change regular insulin sliding scale to humalog as this is more physiologic (acts faster and clears faster as well).		DIN FFF regular insulin#5	DOSE FFF sliding scale#7
+353-02	60	2.  Suggest to change regular insulin sliding scale to humalog as this is more physiologic (acts faster and clears faster as well).		DBN FFF humalog#9	INDICATION FFF as#10	INDICATION FFF as#20

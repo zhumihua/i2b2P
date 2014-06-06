@@ -1,0 +1,29 @@
+221-03	1	Record date: 2091-11-15	
+221-03	2	CARDIOLOGY	
+221-03	3	KELLIHER CARE CENTER	
+221-03	4	Reason for visit:	
+221-03	5	F/u of coronary disease and hypertension.		INDICATION FFF f#0	INDICATION FFF coronary disease#3	INDICATION FFF hypertension .#5
+221-03	6	Interval History:	
+221-03	7	Ted continues to feel well.	
+221-03	8	He has not taken nitroglycerine for 6 months.		DIN FFF nitroglycerine#4	DRT FFF 6 months#7
+221-03	9	He exercises for 25 minutes 3 days per week on the treadmill and does not get chest pain.		DRT FFF 3 days#6	FREQ FFF per week#8	INDICATION FFF chest pain .#17
+221-03	10	He does continue to gain weight because of dietary caloric indiscretion.		INDICATION FFF weight#5
+221-03	11	He is not having any edema or orthopnea.		INDICATION FFF edema#5	INDICATION FFF orthopnea#7
+221-03	12	Family history:	
+221-03	13	Brother has been diagnosed with prostate cancer.		INDICATION FFF prostate#5	INDICATION FFF cancer#6
+221-03	14	Physical examination:	
+221-03	15	-General:   No acute distress.	
+221-03	16	-Skin:   No rashes, anicteric.	
+221-03	17	-Heent:   Unremarkable	
+221-03	18	-Neck:   Carotids 2+ without bruits.	
+221-03	19	JVP no jugular venous distention. -Chest:   Clear to auscultation and percussion.	
+221-03	20	-Cardiac:   Left ventricular impulse discrete and nondisplaced.	
+221-03	21	Regular rate and rhythm, normal S1 and S2, with no S3 +S4.	
+221-03	22	There were no murmurs, clicks or rubs. -Extremities:   No cyanosis, clubbing or edema. 2+ femoral pulses without bruits. 2+ pedal pulses. -Neuro:   A&O x3, CN 2-12 grossly intact.		INDICATION FFF cyanosis#9	INDICATION FFF edema#12	FREQ FFF x3#23	INDICATION FFF cn#24
+221-03	23	-Abdomen:   Normal bowel sounds, soft and has mild epigastric tenderness, with no hepatosplenomegaly or masses appreciated.	
+221-03	24	-BP: 127/55		INDICATION FFF bp#0
+221-03	25	-Pulse: 43	
+221-03	26	-weight: 185  lbs.		INDICATION FFF weight#0
+221-03	27	-BMI:	
+221-03	28	EKG:	
+221-03	29	Sinus rhythm, intraventricular conduction defect, poor RWave progression, unchanged from previous.	

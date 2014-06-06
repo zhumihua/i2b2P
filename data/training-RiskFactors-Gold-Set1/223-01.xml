@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2079-03-23
+
+ 
+
+  
+
+  March 23, 2079
+
+  
+
+  
+
+  
+
+  
+
+  Gage Yingling, M.D. 
+
+  Protestant Home Hospital 
+
+  57 Chinook Drive
+
+  Whiteville, AL 73844
+
+  
+
+  
+
+  RE:  Adler, Imogene
+
+  MRN: 618-13-82-6
+
+  
+
+  
+
+  Dear Dr. Yingling:
+
+  
+
+  Thank you for referring your patient, Imogene Adler,
+
+  for her problem of coronary ischemia.  As you know, Ms.
+
+  Adler is a 49 year old woman with four years of
+
+  essential hypertension and mild dyslipidemia who is
+
+  postmenopausal and has noticed increasing symptoms of chest
+
+  tightness associated with exertion.  A stress MIBI SPECT
+
+  study ordered by you demonstrated inferolateral mid and
+
+  basal inferior ischemia consistent with a left circumflex
+
+  distribution.  The details of the study include an exercise
+
+  protocol for which the patient exercised for 7 minutes and
+
+  15 seconds for 8.9 mets, with an increase in heart rate from
+
+  74 to 159 (which is 94% of predicted peak heart rate), and
+
+  increase in blood pressure from 134/80 to 210/80 (with a
+
+  rate pressure product of 33,390).  The test was stopped due
+
+  to fatigue and moderately severe chest pain.  EKG
+
+  demonstrated 1.5mm of upsloping depression in II, III, F and
+
+  V4-V5, and there were no noted arrhythmias.  
+
+  
+
+  Her past medical history is otherwise unremarkable and her
+
+  current medications include estrogen, Premarin, Provera, and
+
+  verapamil 240mg q.d.  A recent lipid panel demonstrated a
+
+  total cholesterol of 203, LDL of 142, and an HDL of 39.
+
+  
+
+  On physical examination, she is comfortable, well appearing
+
+  woman with a weight of 186 pounds, pulse 68 beats per minute
+
+  and regular, blood pressure 140/82 in the left arm.  Jugular
+
+  venous pressure was approximately 6-8cm of water.  Carotids
+
+  demonstrates normal upstroke with no bruits.  Chest
+
+  examination was clear to auscultation.  Heart examination
+
+  demonstrated a normal S1, positive S4, physiologically split
+
+  S2, no murmurs or rubs.  Abdominal examination was 
+
+  
+
+  
+
+  RE:  Adler, Imogene
+
+  MRN: 618-13-82-6
+
+  Page 2
+
+  March 23, 2079
+
+  
+
+  
+
+  
+
+  unremarkable.  Peripheral examination demonstrated no
+
+  peripheral examination and 2+ bilateral peripheral pulses.  
+
+  
+
+  EKG demonstrated normal sinus rhythm and otherwise normal
+
+  EKG.  
+
+  
+
+  I reviewed the findings suggestive of an obstructive
+
+  coronary lesion in the left circumflex distribution and the
+
+  probability of her having single vessel coronary artery
+
+  disease as the culprit for her chest pain.  We reviewed the
+
+  options which include medical therapy and/or coronary
+
+  angiography and possible angioplasty.  I made no solid
+
+  recommendations for her, but suggested that the angioplasty
+
+  approach was a relatively low risk approach which may lead
+
+  to curing the obstructive lesion as opposed to medical
+
+  therapy, which would also be a well supported decision, and
+
+  I reviewed the evidence to suggest medical treatment of
+
+  single vessel disease does not shorten one's life span and
+
+  only affects the quality of life depending on the symptom
+
+  tolerance.  She and her husband are going to reflect on
+
+  these recommendations and get back to me by the end of the
+
+  week.  If she does decide to undergo coronary angiography
+
+  and possible angioplasty, we will schedule her immediately
+
+  in Cardiology.
+
+  
+
+  I have scheduled follow-up in one month regardless to see
+
+  her in the office.  Please do not hesitate to contact me if
+
+  I can be of any further assistance.
+
+  
+
+  With warm regards,
+
+  
+
+  
+
+  
+
+  William Gomes, M.D. 
+
+  
+
+  WG/anderson
+
+  
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC8" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC10" time="before DCT" indicator="high LDL"/>
+    <HYPERLIPIDEMIA id="DOC11" time="after DCT" indicator="mention"/>
+    <MEDICATION id="DOC3" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC5" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC13" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <HYPERTENSION id="DOC0" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC6" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC14" time="before DCT" indicator="mention"/>
+    <CAD id="DOC1" time="before DCT" indicator="symptom"/>
+    <CAD id="DOC4" time="before DCT" indicator="test"/>
+    <CAD id="DOC9" time="after DCT" indicator="mention"/>
+    <CAD id="DOC12" time="during DCT" indicator="mention"/>
+    <CAD id="DOC16" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC15" indicator="not present"/>
+    <SMOKER id="DOC7" status="unknown"/>
+  </TAGS>
+</root>

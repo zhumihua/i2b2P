@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2097-10-20
+
+
+
+
+EHLERS, ULYSSES
+28735364
+10/20/2097
+
+
+DATE OF ADMISSION:  
+
+PRIMARY CARE PHYSICIAN:
+Noah E. Galvan, M.D.
+Saint John River District Hospital
+699 Kingston Drive
+Caro, MO  12151
+
+REFERRING PHYSICIAN:
+Richard L. Mckenzie, M.D.
+San Luis Obispo County General Hospital
+123 Pittsburg Street, Euite 598
+Baxter Springs, MO  64715
+
+HISTORY:  Mr. Ehlers is referred for evaluation of extensive coronary disease status.  He has history of several risk factors and a history of hypertension, hypercholesterolemia and a history of cigarette smoking. He has a prior history of peripheral arterial disease with a known abdominal aortic aneurysm.  He also has a history of bicuspid aortic valve with mild-to-moderate stenosis on recent echos and paroxysmal atrial fibrillation.  
+
+He is status post a posterolateral MI in 2084 and had an adenosine MIBI in January 2097 with an old inferior MI and peri-infarct ischemia.  He presented with increasing angina with exertion where he is able to do most activities and climb stairs and walk his dog, but does have about one episode of angina a week while raking leaves that last about 5 minutes and resolves with rest.  He has not had any rest pain.  For his increasing angina, he had an attempted cardiac catheterization done last month, but they are unable to advance the guidewire pass the iliac artery and an MRI was able to determine that he has an occluded aorta.  He then had a left brachial artery.  Cardiac catheterization that revealed extensive coronary disease with a 70-80% distal left main stenosis and severe disease of the LAD and circumflex with minimal flow and a subtotal occlusion of the proximal right coronary with collateralization from the LAD territory.  There was an anomalous circumflex that appeared to emerge from the right coronary and there was a question of his anomalus LAD with a separate ostium superior to the left main, but the documentation of this was not clear.  With the complexity of his anatomy, he is referred for further evaluation.  He has otherwise a history of cigarette smoking and quit three months ago, does not drink alcohol.  He is married and lives in Missouri.
+
+MEDICATIONS:  His baseline medicines include aspirin 81 mg a day, has included warfarin, ramipril 10 mg a day, Lopressor 50 mg twice a day, Lipitor 80 mg a day and Zetia 10 mg a day.
+
+PHYSICAL EXAMINATION:  A well-appearing man in no acute distress.  Blood pressure of 128/60, pulse of 60-70 and room air sat of 99%.  He had no jugular venous distention.  Chest was clear.  Heart had normal S1 and S2.  No S3 or S4.  There is a 2/6 systolic ejection murmur along the left sternal border.  His abdomen was benign.  Extremities showed no peripheral edema, but very faint distal pulses that were audible by Doppler.
+
+IMAGING STUDIES:  His electrocardiogram showed sinus rhythm with left anterior fascicular block and was otherwise unremarkable.  His labs showed a BUN/creatinine of 21/1.3, glucose 145 and hematocrit of 40%.
+
+IMPRESSION:  Mr. Ehlers presents with extensive vascular disease including left main and three-vessel disease.  We will try and define better his actual anatomy and likely do act angiogram to try and identify the locations of any anomalus vessels and then have a surgical consults regarding bypass surgery for his left main extensive disease.  We will also get an echocardiogram to reevaluate carefully the aortic valve.  We will also likely consult the vascular surgeons to discuss management of the occluded aorta.
+
+
+______________________________
+Edward L Echevarria, M.D.
+
+
+
+
+
+eScription document:1-0864568 SFFocus
+
+
+
+DD: 10/20/97
+DT: 10/20/97
+DV: 10/20/97
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC7" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC9" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC13" time="before DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="ezetimibe" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC10" time="during DCT" type1="ezetimibe" type2=""/>
+    <MEDICATION id="DOC12" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC15" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC16" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="ezetimibe" type2=""/>
+    <MEDICATION id="DOC20" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC21" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC23" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC24" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC27" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC25" time="before DCT" indicator="mention"/>
+    <CAD id="DOC6" time="before DCT" indicator="symptom"/>
+    <CAD id="DOC14" time="after DCT" indicator="mention"/>
+    <CAD id="DOC19" time="during DCT" indicator="mention"/>
+    <CAD id="DOC22" time="before DCT" indicator="event"/>
+    <CAD id="DOC26" time="during DCT" indicator="symptom"/>
+    <CAD id="DOC28" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC18" indicator="not present"/>
+    <SMOKER id="DOC4" status="past"/>
+  </TAGS>
+</root>

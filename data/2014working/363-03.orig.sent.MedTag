@@ -1,0 +1,52 @@
+363-03	1	Record date: 2094-03-20	
+363-03	2	Nancy is a 75 y/o woman who c/o epigastric discomofrt x 1 day.		INDICATION FFF c / o#7	DRT FFF x 1 day .#12
+363-03	3	With nasal congestion.		INDICATION FFF nasal congestion#2
+363-03	4	Pulm- productive cough.		INDICATION FFF cough .#2
+363-03	5	No wheeze.		INDICATION FFF wheeze#1
+363-03	6	No SOB.		INDICATION FFF sob#1
+363-03	7	Cor- No chest pain.		DIN FFF cor#0	INDICATION FFF chest pain .#3
+363-03	8	No SOB.		INDICATION FFF sob#1
+363-03	9	No  palpitations.	
+363-03	10	No lighthead.	
+363-03	11	No PND.		INDICATION FFF pnd .#1
+363-03	12	No orthopnea.		INDICATION FFF orthopnea#1
+363-03	13	No claudication.   edema- wax and wane but generally improved.		INDICATION FFF edema#2
+363-03	14	GI- No nausea.		INDICATION FFF nausea .#2
+363-03	15	No  vomitting.	
+363-03	16	No  dyspepsia.		INDICATION FFF dyspepsia#1
+363-03	17	No  reflux.	
+363-03	18	No abdo pain.		INDICATION FFF abdo pain#2
+363-03	19	No diarrhea.		INDICATION FFF diarrhea .#1
+363-03	20	No constipation.		INDICATION FFF constipation .#1
+363-03	21	No melena.	
+363-03	22	No BRBPR.	
+363-03	23	Decreased appetite.	
+363-03	24	GU- no hematuria; no dysuria;  no frequency; no urgency; no incontinence.No abnormal bleeding.		INDICATION FFF gu#0	INDICATION FFF bleeding#12
+363-03	25	Problems	
+363-03	26	Diabetes mellitus type 2		INDICATION FFF diabetes mellitus type 2#3
+363-03	27	Hypertension		INDICATION FFF hypertension#0
+363-03	28	Osteoarthritis		INDICATION FFF osteoarthritis#0
+363-03	29	Polyarteritis : 20 years ago.		DRT FFF 20 years#3
+363-03	30	Glaucoma		INDICATION FFF glaucoma#0
+363-03	31	Total knee replacement : right	
+363-03	32	Medications	
+363-03	33	Lisinopril 10MG TABLET take 1 Tablet(s) PO QD		DIN FFF lisinopril#0	DOSE FFF 10mg#1	DOSEAMT FFF 1 tablet#5	RUT FFF po#6	FREQ FFF qd#7
+363-03	34	Alphagan (BRIMONIDINE TARTRATE) 1 DROP OU BID		DBN FFF alphagan#0	DOSEAMT FFF 1 drop#4	RUT FFF ou#5	FREQ FFF bid#6
+363-03	35	Lumigan (BIMATOPROST 0.03%) OU QPM		DBN FFF lumigan#0	RUT FFF ou#3	FREQ FFF qpm#4
+363-03	36	Flonase (FLUTICASONE NASAL SPRAY) 1 SPRAY NAS QD		DBN FFF flonase#0	DOSEAMT FFF 1 spray#5	FREQ FFF qd#7
+363-03	37	Glyburide 15 MG (5MG TABLET take 3) PO QD		DIN FFF glyburide#0	DOSE FFF 15mg#2	DOSE FFF 5mg#3	RUT FFF po#7	FREQ FFF qd#8
+363-03	38	Metformin 850 MG (850MG TABLET take 1) PO TID		DIN FFF metformin#0	DOSE FFF 850mg#2	DOSE FFF 850mg#3	RUT FFF po#7	FREQ FFF tid#8
+363-03	39	Lipitor (ATORVASTATIN) 10MG TABLET take 1 Tablet(s) PO QD		DBN FFF lipitor#0	DOSE FFF 10mg#2	DOSEAMT FFF 1 tablet#6	RUT FFF po#7	FREQ FFF qd#8
+363-03	40	Dyazide (TRIAMTERENE 37.5 MG/HYDROCHLORTHIAZIDE 25 MG) 1 CAPSULE PO QD		DBN FFF dyazide#0	DOSE FFF 25mg#5	DOSEAMT FFF 1 capsule#7	RUT FFF po#8	FREQ FFF qd#9
+363-03	41	Phenobarbital 64.8 MG (32.4MG TABLET take 2) PO QD		DIN FFF phenobarbital#0	DOSE FFF 64.8mg#2	DOSE FFF 32.4mg#3	RUT FFF po#7	FREQ FFF qd#8
+363-03	42	Omeprazole 20 MG (20MG CAPSULE DR take 1) PO QD		DIN FFF omeprazole#0	DOSE FFF 20mg#2	DOSE FFF 20mg#3	RUT FFF po#8	FREQ FFF qd#9
+363-03	43	Atenolol 25MG TABLET take 1 Tablet(s) PO QD		DIN FFF atenolol#0	DOSE FFF 25mg#1	DOSEAMT FFF 1 tablet#5	RUT FFF po#6	FREQ FFF qd#7
+363-03	44	Allergies		INDICATION FFF allergies#0
+363-03	45	Penicillins - Unknown		DBN FFF penicillins#0
+363-03	46	Vital Signs	
+363-03	47	BP 160/64, P 100, RR 16		INDICATION FFF bp#0
+363-03	48	WD,WN,NAD		INDICATION FFF wd#0
+363-03	49	M&T- lips and gums unremarkable.. Moist; no erythema; no exudate; no lesions		INDICATION FFF erythema#7
+363-03	50	Neck- supple.  No JVD.	
+363-03	51	No bruit.	
+363-03	52	No LAN.	

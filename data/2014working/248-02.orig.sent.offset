@@ -1,0 +1,10 @@
+248-02	29	0	Mr. Nielson was admitted on 8/2/2097 to receive his first cycle of R-ICE with dose-reduced Ifos and carboplatin becuase of h/o nephrectomy.	carboplatin FFF 17 17	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+248-02	33	0	On 8/9, he was given 2 units of packed red cells due to anemia and on 8/16, he was given a unit of pheresis platelets for his thrombocytopenia as well as two units of packed red blood cells for his anemia.	packed red blood cells FFF 34 37	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+248-02	50	438	glyburide 10 mg/d	glyburide FFF 0 0	10 mg/d FFF 1 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+248-02	51	438	atorvastatin 10 mg/d	atorvastatin FFF 0 0	10 mg/d FFF 1 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+248-02	52	438	furosemide 40 mg/d	furosemide FFF 0 0	40 mg/d FFF 1 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+248-02	53	438	MVI	mvi FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+248-02	54	438	Prednisone 5 mg/d	prednisone FFF 0 0	5 mg/d FFF 1 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+248-02	55	438	Bactrim DS M,W,F	bactrim ds FFF 0 1	 FFF 	 FFF 	m,w,f FFF 2 2	 FFF 	 FFF 	narrative
+248-02	64	0	He denies history of illicit drugs, IV abuse, or h/o STDs and is not currently sexually active.	illicit drugs, FFF 4 5	 FFF 	iv FFF 6 6	 FFF 	 FFF 	 FFF 	narrative
+248-02	74	0	Cor: RRR, nlS1S2, loud 2/6 crescendo-decrescendo murmur heard best at LUSB radiating to clavical.	cor: FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

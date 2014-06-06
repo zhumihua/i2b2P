@@ -1,0 +1,15 @@
+257-02	63	0	Aspirin (acetylsalicylic acid) 325 mg PO DAILY; Stop: 4/8/2097	Aspirin (acetylsalicylic acid) FFF 0 2	325 mg FFF 3 4	po FFF 5 5	daily; FFF 6 6	 FFF 	 FFF 	narrative
+257-02	64	0	Hydrochlorothiazide 50 mg PO DAILY	hydrochlorothiazide FFF 0 0	50 mg FFF 1 2	po FFF 3 3	daily FFF 4 4	 FFF 	 FFF 	narrative
+257-02	65	0	Lisinopril 40 mg PO DAILY; Stop: 4/13/2097	lisinopril FFF 0 0	40 mg FFF 1 2	po FFF 3 3	daily; FFF 4 4	 FFF 	 FFF 	narrative
+257-02	66	0	Lopressor (metoprolol tartrate) 25 mg PO DAILY	Lopressor (metoprolol tartrate) FFF 0 2	25 mg FFF 3 4	po FFF 5 5	daily FFF 6 6	 FFF 	 FFF 	narrative
+257-02	67	0	Metformin 1000 mg PO Bid; 2 tabs AM, one noon, one tab PM	metformin FFF 0 0	1000 mg FFF 1 2	po FFF 3 3	bid; FFF 4 4	 FFF 	 FFF 	narrative
+257-02	67	0	Metformin 1000 mg PO Bid; 2 tabs AM, one noon, one tab PM	metformin FFF 0 0	2 tabs FFF 5 6	 FFF 	am, FFF 7 7	 FFF 	 FFF 	narrative
+257-02	67	0	Metformin 1000 mg PO Bid; 2 tabs AM, one noon, one tab PM	metformin FFF 0 0	one tab FFF 10 11	 FFF 	pm FFF 12 12	 FFF 	 FFF 	narrative
+257-02	68	0	Norvasc (amlodipine) 10 mg PO DAILY	Norvasc (amlodipine) FFF 0 1	10 mg FFF 2 3	po FFF 4 4	daily FFF 5 5	 FFF 	 FFF 	narrative
+257-02	69	0	Plaquenil sulfate (hydroxychloroquine) 400 mg PO DAILY	Plaquenil sulfate (hydroxychloroquine) FFF 0 2	400 mg FFF 3 4	po FFF 5 5	daily FFF 6 6	 FFF 	 FFF 	narrative
+257-02	70	0	Prilosec (omeprazole) 20 mg PO DAILY	Prilosec (omeprazole) FFF 0 1	20 mg FFF 2 3	po FFF 4 4	daily FFF 5 5	 FFF 	 FFF 	narrative
+257-02	71	0	Zocor (simvastatin) 20 mg PO DAILY	Zocor (simvastatin) FFF 0 1	20 mg FFF 2 3	po FFF 4 4	daily FFF 5 5	 FFF 	 FFF 	narrative
+257-02	80	0	ECG	ecg FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+257-02	90	0	Left Main: The left main coronary artery is of moderate length,       intermediate sized vessel.	vessel. FFF 13 13	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+257-02	96	0	RCA: The right coronary artery is a dominant vessel.	vessel. FFF 8 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+257-02	112	0	Denies illicit drug use.	illicit drug FFF 1 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

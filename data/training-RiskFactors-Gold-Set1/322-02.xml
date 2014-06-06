@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2076-08-30
+
+EDVISIT^24490460^VAUGHN, FRANK^08/30/76^JABLONSKI, SHIRLEY
+
+The patient was interviewed and examined by myself, Dr. Jablonski,
+
+as well as the resident, Dr. Ortiz for visit on 08/30/2076. 
+
+Please see note for details reviewed in full.
+
+HISTORY OF PRESENT ILLNESS:  This is an obese 32-year-old
+
+gentleman with history of high cholesterol, hypertension, and
+
+diabetes who comes in after trying to increase his exercise over
+
+the last couple of weeks with shortness of breath and fatigue and
+
+difficulty breathing since his walking yesterday.  He went to bed
+
+and woke up today with continued symptoms.
+
+FAMILY HISTORY:  Besides his past medical history, he has a
+
+significant CAD in his grandfather with CHF.  His father died at
+
+early age of 19 of a traumatic accident.
+
+SOCIAL HISTORY:  She does not drink and does not smoke.
+
+PAST SURGICAL HISTORY:  He himself has had no surgeries except a
+
+cholecystectomy.
+
+REVIEW OF SYSTEMS:  Shortness of breath, no chest pain, no
+
+lightheadedness, no leg swelling, no palpitations, and came in
+
+acutely diaphoretic with shortness of breath.
+
+MEDICATIONS:  Lantus, glipizide, Zocor, atenolol, and was
+
+recently started insulin as above a week ago.
+
+ALLERGIES:  No known drug allergies.
+
+PHYSICAL EXAMINATION:  Mildly obese gentleman with a pulse of
+
+100, respiratory rate 28, O2 saturation 97 on 4 L, blood pressure
+
+132/69, and temperature 98.1.  HEENT is anicteric.  Neck is
+
+supple.  Heart is regular rate and rhythm although distant heart
+
+sounds.  He is tachypneic but no obvious wheezes.  He has soft
+
+abdomen.  Extremities showed no cyanosis, clubbing, or edema, no
+
+calf tenderness.  Neurologic:  Oriented x3.  No obvious cranial,
+
+motor, or sensory deficits.
+
+Differential can be acute coronary syndrome versus PE.  His
+
+weight is 330 pounds, went ahead and got a d-dimer, which was
+
+negative.  We went ahead and got an EKG, which is normal.  Normal
+
+chest x-ray.  Normal CKs, troponins, and SMA-7.  His magnesium is
+
+slightly therapeutic at 1.7, which was repleted.  His hematocrit
+
+and white count were normal.
+
+DIAGNOSIS:  Shortness of breath, concern for ischemic equivalent.
+
+DISPOSITION:  Admitted to the Medicine Service in stable
+
+condition.
+
+______________________________
+
+JABLONSKI, SHIRLEY M.D.
+
+D: 08/30/76
+
+T: 08/30/76
+
+Dictated By: JABLONSKI, SHIRLEY
+
+eScription document:2-3735520 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC3" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC5" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC16" time="after DCT" indicator="mention"/>
+    <OBESE id="DOC1" time="after DCT" indicator="mention"/>
+    <OBESE id="DOC15" time="before DCT" indicator="mention"/>
+    <OBESE id="DOC19" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC8" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC14" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC20" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC22" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC23" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC24" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC21" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC9" indicator="present"/>
+    <SMOKER id="DOC17" status="never"/>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC12" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC25" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

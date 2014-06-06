@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CardiacRiskTask>
+  <TEXT><![CDATA[
+
+
+Record date: 2081-01-04
+
+
+
+INFECTIOUS DISEASE ASSOCIATES
+CURTIS MEDICAL CENTER
+
+Reason for visit   Brucellosis
+
+History of present illness   70y/o F who presented in late May with daily fever x 2-3 months with low back pain x 2 weeks, admitted May 30 and found to have small gram negative rod bacteremia consistent with Brucellosis, which fits with her epidemiologic exposure to unpasteurized camels milk and her prolonged fever. There was initial concern for TB, but she ruled out for pulmonary tb with 3 negative smears. PPD positive. 
+
+She had an MRI of her spine that was initially read as L5/S1 diskitis/osteomyelitis with right paraspinal phlegmon . MSK radiologists felt that this actually represented degenerative change with no evidence of infection, with explanation that a large right-sided osteophyte is causing irritation. 
+
+Mrs. Iles declined a TEE on during her admission. 
+
+She was treated with streptomycin IM q daily x 2 weeks,and concurrent doxycycline 100 mg po bid plus rifampin 300 mg po tid. 
+
+She was seen in ID clinic on 7/20, 9/7, 11/9, and today (1/4/81). She has improved dramatically, and is able to walk independently without pain. She has no fevers, night sweats, weight loss, nausea, or vomiting. Her pain is well controlled minimal medications.
+
+Past medical history   -DMII (dx late 60s, last A1c = 5.6 in 2/80) 
+-HTN 
+-Hyperlipidemia 
+-Hep B sAb+, sAg+, and core Ab+ in 2067; now sAg-, sAb+, and core Ab (+) in 2/2080 ( recovery ) 
+-H/o H. pylori (+) 2068 and 2080 s/p triple therapy 
+-GERD 
+-OA 
+-H/o vitamin D deficiency 
+-H/o chronic HAs (migraines vs. tension HAs) 
+-+ PPD (in Mississippi in 2067) 
+-H/o malaria
+
+Social history   No tobacco, EtOH, illicits. Currently living with daughter in Grand Island. No pets. No known sick contacts. 
+
+Changes to Allergies
+NKA: No Known Allergies - reaction: [reviewed]
+
+Review of systems   Denies fever, rigor, night sweats, headache, SOB, cough, anorexia, nausea, vomiting, diarrhea, abdominal pain, paresthesias, or rash.
+
+Physical Exam
+General appearance   NAD
+Skin   No rashes
+HEENT   No palpable LN, no oral lesions
+Cor   S1 S2, no murmurs, no peripheral stigmata of endocarditis
+Abdomen   Non tender, BS+, No palpable organomegaly
+Extrem   No clubbing, mild edema at the ankles
+Musc skel   No tenderness on the lower back percussion. Normal gait.
+
+Assessment and plan   70 yr F with confirmed Brucella bacteremia from May 30/31 2080 and probable Brucella diskitis/osteomyelitis at the L5/S1 level. She presented with a syndrome of constitutional symptoms and back pain of 3 months duration, and has improved dramatically after 2 weeks of streptomycin IM (completed), rifampin 300 mg po tid, and doxycycline 100 mg po bid. Her antibiotics started on 6/4/80 and will be discontinued today 1/4/81 after 6 months of therapy. 
+
+She was counseled today that she is to watch out for recurrence of infection, which may include fever, night sweats, weight loss, anorexia, worsening back pain, and fatigue. She knows to contact us should this occur. 
+
+She was counseled to not drink unpasteurized camel milk.
+
+In addition, Mrs Iles is PPD positive: she has completed the required 4 months of therapy for latent TB (she had 6 months) as part of the treatment of her Brucella infection. 
+
+All Allergies Reviewed
+	
+
+Ms. Iles was seen and examined with Dr. Tillman. Her back pain, fevers, and weight loss have entirely resolved. She has finished six months of doxy/rif and should stop these medications. We asked her to return for any new back pain, fevers, or weight loss.
+
+Todd Riley, MD pager #03268
+
+cc: DANIELLE TOMPKINS, CMC Internal Medicine
+
+Signed electronically by  Todd Riley, MD
+Document Status: Final
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC2" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC4" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC9" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC7" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC8" indicator="not present"/>
+    <SMOKER id="DOC10" status="never"/>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC5" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention"/>
+  </TAGS>
+</CardiacRiskTask>

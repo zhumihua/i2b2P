@@ -1,0 +1,23 @@
+392-01||1||Record date: 2111-09-26
+392-01||2||CC:  Ear pain, cough||TOD FFF cc: FFF 0 0||INDICATION FFF ear pain, FFF 1 2||INDICATION FFF cough FFF 3 3||
+392-01||3||HPI:  49 y.o. female c/o cough with clear mucus, left ear pain and nasal congestion for the past week.||INDICATION FFF c/o FFF 4 4||INDICATION FFF cough FFF 5 5||INDICATION FFF ear pain FFF 10 11||INDICATION FFF nasal congestion FFF 13 14||
+392-01||4||She denies any chest pain, shortness of breath, fever, chills or sweat.||INDICATION FFF chest pain, FFF 3 4||INDICATION FFF shortness of breath, FFF 5 7||INDICATION FFF fever, FFF 8 8||
+392-01||5||No sore throat.||INDICATION FFF sore throat. FFF 1 2||
+392-01||6||She does smoke about one pack/day for 25 years and does not want to quit.||DOSEAMT FFF one pack/day FFF 4 5||DRT FFF 25 years FFF 7 8||
+392-01||7||She also notes problems with bending her right thumb without h/o trauma, pain, parathesias or numbness.||INDICATION FFF trauma, FFF 11 11||INDICATION FFF pain, FFF 12 12||
+392-01||8||Symptoms present for past 3 months.||INDICATION FFF symptoms FFF 0 0||DRT FFF 3 months. FFF 4 5||
+392-01||9||Allergies||INDICATION FFF allergies FFF 0 0||
+392-01||10||NKA
+392-01||11||Health Maint
+392-01||12||Cholesterol 03/10/01 222||INDICATION FFF cholesterol FFF 0 0||DIN FFF 222 FFF 2 2||
+392-01||13||Mammogram 11/02/97 see report in Results
+392-01||14||Pap Smear 09/28/99 see report in Results||INDICATION FFF pap FFF 0 0||
+392-01||15||HbA1c 08/22/2106 10.70
+392-01||16||Procedures||INDICATION FFF procedures FFF 0 0||
+392-01||17||Hysterectomy
+392-01||18||Flowsheets
+392-01||19||BLOOD PRESSURE 110/70||INDICATION FFF blood pressure FFF 0 1||
+392-01||20||WEIGHT 206 lb||INDICATION FFF weight FFF 0 0||
+392-01||21||HENT:  PERRLA, oral w/out lesions, neck supple, nasal turbinates mildly enlarged with no sinus tenderness.||RUT FFF oral FFF 2 2||RUT FFF nasal FFF 7 7||
+392-01||22||No lymphadenopathy and TMs clear.
+392-01||23||LUNGS:  CTA

@@ -1,0 +1,70 @@
+356-02	1	Record date: 2151-09-12	
+356-02	2	September 12, 2151	
+356-02	3	Ishida, Nathan	
+356-02	4	BMC 879 20 76	
+356-02	5	PROBLEMS:	
+356-02	6	Prostate		INDICATION FFF prostate#0
+356-02	7	Now on avodart and enablex with improvement in bladder symptoms.		DBN FFF avodart#2	DBN FFF enablex#4	INDICATION FFF symptoms#9
+356-02	8	Bladder emptying fine.	
+356-02	9	Exercising	
+356-02	10	Stopped due to hip pain.		INDICATION FFF pain .#4
+356-02	11	Right knee pain		INDICATION FFF pain#2
+356-02	12	Stable	
+356-02	13	Hip now worse than knee.	
+356-02	14	Difficulty moving bowels.	
+356-02	15	Likes enulose more than metamucil.		DBN FFF enulose#1	DBN FFF metamucil#4
+356-02	16	Barrett's esophagus -  endoscopy negative.		INDICATION FFF barrett's#0	INDICATION FFF esophagus#1
+356-02	17	PAST MEDICAL HISTORY:	
+356-02	18	Sleep Apnea -  has not used CPAP since loosing weight (lost 70 lbs).		INDICATION FFF sleep#0	INDICATION FFF apnea#1	INDICATION FFF weight#9
+356-02	19	Has gained it back.	
+356-02	20	Now sleeps on side with good effect.	
+356-02	21	Psoriasis		INDICATION FFF psoriasis#0
+356-02	22	DM		INDICATION FFF dm#0
+356-02	23	Obesity		INDICATION FFF obesity#0
+356-02	24	"angina"  -  ETT MIBI negative 2/2149		INDICATION FFF angina#0
+356-02	25	Colonic polyps removed 4/21/2149 by Dr.	
+356-02	26	Johnsen, at Guttenberg Care Center.	
+356-02	27	GERD		INDICATION FFF gerd#0
+356-02	28	Barretts esophagitis  -  last endoscopy 1/2151  with Dr.		INDICATION FFF esophagitis#1
+356-02	29	Andrew Ludwig.	
+356-02	30	MEDICATIONS	
+356-02	31	Atenolol 50 mg qd		DIN FFF atenolol#0	DOSE FFF 50mg#2	FREQ FFF qd#3
+356-02	32	Glucophage (metformin)  500 mg bid		DBN FFF glucophage#0	DOSE FFF 500mg#3	FREQ FFF bid#4
+356-02	33	Lisinopril 60 mg qd		DIN FFF lisinopril#0	DOSE FFF 60mg#2	FREQ FFF qd#3
+356-02	34	Dovonex cm prn		DBN FFF dovonex#0	INDICATION FFF cm#1	NEC FFF prn#2
+356-02	35	Simvastatin 40 mg qd		DIN FFF simvastatin#0	DOSE FFF 40mg#2	FREQ FFF qd#3
+356-02	36	Vesicare 5 qd    Oxybutynin, chloride 5 mg qid		DBN FFF vesicare#0	DOSE FFF 5#1	FREQ FFF qd#2	DIN FFF oxybutynin#3	DOSE FFF 5mg#6	FREQ FFF qid#7
+356-02	37	Aleve  bid		DBN FFF aleve#0	FREQ FFF bid#1
+356-02	38	Nexium 40 mg qd		DBN FFF nexium#0	DOSE FFF 40mg#2	FREQ FFF qd#3
+356-02	39	Zocor 40 mg qod		DBN FFF zocor#0	DOSE FFF 40mg#2	FREQ FFF qod#3
+356-02	40	Cozaar 100 mg qd		DBN FFF cozaar#0	DOSE FFF 100mg#2	FREQ FFF qd#3
+356-02	41	HCTZ 12.5 mg qd  -  was given perscription, but has not filled yet.		DPN FFF hctz#0	DOSE FFF 12.5mg#2	FREQ FFF qd#3
+356-02	42	Metamucil prn and enulose prn.  -  likes to alternate them.		DBN FFF metamucil#0	NEC FFF prn#1	DBN FFF enulose#3	NEC FFF prn#4
+356-02	43	ALLERGIES		INDICATION FFF allergies#0
+356-02	44	Reports had a severe reaction to one of the psoriasis medications in the past.		INDICATION FFF psoriasis#9
+356-02	45	SOCIAL HISTORY	
+356-02	46	Widowed	
+356-02	47	Denies smoking	
+356-02	48	FAMILY HEALTH	
+356-02	49	non contrib.	
+356-02	50	PHYSICAL EXAMINATION:	
+356-02	51	BP: 120/70        P60        R: 18		INDICATION FFF bp#0
+356-02	52	SKIN: minimal psoriatic changes	
+356-02	53	HEENT: anicteric, sclera clear.	
+356-02	54	NECK:  Supple, no adenopathy, no thyromegaly		INDICATION FFF thyromegaly#5
+356-02	55	CHEST: few bibasilar rales, clear with cough.		INDICATION FFF cough .#6
+356-02	56	COR:   Normal S1, physiologically split S2		DIN FFF cor#0
+356-02	57	ABD:   Normal BS, no masses or tenderness;  no organomegaly		INDICATION FFF bs#2
+356-02	58	EXT: tr edema bilaterally.		INDICATION FFF tr#1	INDICATION FFF edema#2
+356-02	59	IMPRESSION:	
+356-02	60	Obesity - no improvement		INDICATION FFF obesity#0
+356-02	61	Hypertension   - excellent today.		INDICATION FFF hypertension#0
+356-02	62	Sleep apnea -  denies difficulty sleeping and not interested in C-PAP again.		INDICATION FFF sleep#0	INDICATION FFF apnea#1
+356-02	63	Urinary incontinence  -  much improved on new regimen.		INDICATION FFF urinary incontinence#1
+356-02	64	Barrett's esophagus followup endoscopy negative 1/2151.		INDICATION FFF barrett's#0	INDICATION FFF esophagus#1
+356-02	65	Arthritis-  still with right knee pains and hip pain.		INDICATION FFF arthritis#0	INDICATION FFF pain .#8
+356-02	66	Constipation  --  remains major complaint.		INDICATION FFF constipation#0
+356-02	67	PLAN:	
+356-02	68	Metamucil 1 tsp qd  -  has not been taking, but works when he takes it .		DBN FFF metamucil#0	DOSEAMT FFF 1 tsp#2	FREQ FFF qd#3
+356-02	69	Enulose every other day prn - causes diarrhea		DBN FFF enulose#0	FREQ FFF every other day#3	NEC FFF prn#4	INDICATION FFF diarrhea#7
+356-02	70	Same meds for now.	

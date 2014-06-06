@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2090-04-09
+
+                     VALLEY LANE EMERGENCY DEPT VISIT
+
+ 
+
+                                                VISIT DATE: 04/09/90
+
+The patient was seen and examined in the emergency department on 
+
+04/09/90.  The patient was seen with Dr. Jarman.  I have discussed 
+
+management with the resident physician, reviewed the medical 
+
+record.  
+
+PRESENTING COMPLAINT:  Possible seizure.
+
+HISTORY OF PRESENTING COMPLAINT:  This is a 72-year-old gentleman 
+
+who was brought in after having an episode of being unresponsive, 
+
+per his wife.  He seemed to have his eyes roll back in his head.  
+
+There was no definite tonic-clonic movement.  His wife relates the 
+
+fact that he had seizures in the past although she does not know if 
+
+this was a seizure.  Patient denied chest pain, shortness of 
+
+breath, or abdominal pain.  No history of trauma.  
+
+REVIEW OF SYSTEMS:  Patient denies fever or chills, otherwise, 
+
+negative.  
+
+PAST MEDICAL HISTORY:  Diabetes, CABG, seizure disorder.
+
+SOCIAL HISTORY AND FAMILY HISTORY:  Patient is a past smoker.  
+
+PHYSICAL EXAMINATION:  GENERAL:  Patient is comfortable, awake, 
+
+alert but not oriented to date, in no acute distress.  HEENT:  
+
+Normocephalic, atraumatic.  CHEST:  Clear. HEART:  Regular rate.  
+
+ABDOMEN:  Soft, nontender.  EXTREMITIES:  Nontender.   
+
+LABORATORY EVALUATION:  White count 8.3, hematocrit 36.2, 
+
+creatinine 0.7, CK 107.  EKG shows peak T-waves anteriorly, T-waves 
+
+are peak compared to old.   
+
+THERAPY RENDERED/COURSE IN ED:  This gentleman had a syncopal 
+
+episode which may represent seizure activity.  Also, with his EKG 
+
+changes, plan is for hospital admission for telemetry, for 
+
+observation, and will also get neurologic consultation.  
+
+CONSULTATIONS (including PCP):  Neurology.
+
+FINAL DIAGNOSIS:
+
+DISPOSITION (including condition upon discharge):  The patient is 
+
+in stable condition.
+
+___________________________________                    KW419/3572
+
+ANDREW TANG, M.D.  AT57                                 D:04/09/90 
+
+                                                       T:04/11/90 
+
+Dictated by:  ANDREW TANG, M.D.  AT57 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <CAD id="DOC1" time="before DCT" indicator="event"/>
+    <FAMILY_HIST id="DOC4" indicator="not present"/>
+    <SMOKER id="DOC2" status="past"/>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC5" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

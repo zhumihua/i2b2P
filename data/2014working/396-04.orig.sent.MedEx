@@ -1,0 +1,57 @@
+396-04	1	Record date: 2079-12-12		 
+396-04	2	Harper Hospital Physician Group		 
+396-04	3	787 Everett Street		 
+396-04	4	Lake Pocotopaug, ME  15424		 
+396-04	5	281-223-9046		 
+396-04	6	AARON, JEAN		 
+396-04	7	42817774		 
+396-04	8	12/12/2079		 
+396-04	9	HISTORY OF PRESENT ILLNESS:  A 65-year-old female who presents today for hospital followup.		 
+396-04	10	I admitted her to the HH on 10/03/79 with an episode of hypoxemia, which was felt to be secondary to CHF and diastolic dysfunction.		 
+396-04	11	She was discharged to johnson rest home on 10/12/79.		 
+396-04	12	Two hours after arrival, she had a respiratory arrest and was taken to the Intensive Care Unit at Clinica Rovira where she stayed until 11/03/79.		 
+396-04	13	She is extremely difficult to diurese because of her tenuous renal function, this required multiple adjustments of her medication.		DBN FFF diurese#5
+396-04	14	Stress test showed no ischemia and echocardiogram showed concentric left ventricular hypertrophy with normal chamber size and systolic function, estimated ejection fraction is 65% as well as biatrial enlargement .		 
+396-04	15	She did well acutely with BiPAP and remains on oxygen.		 
+396-04	16	As part of her workup, she had pulmonary function tests, which showed moderate obstruction without a bronchodilator response and some mild restriction likely due to her obesity.		DIN FFF bronchodilator#16	INDICATION FFF obesity#26
+396-04	17	In addition, she was quite anemic with hematocrit of 19 on presentation.		 
+396-04	18	There was no evidence of hemolysis.		 
+396-04	19	She is mildly iron deficient and colonoscopy showed a tubulovillous adenoma, which was excised as well as  a short area of Barrett's esophagus.		DIN FFF iron#3	INDICATION FFF adenoma#10	INDICATION FFF as#14	INDICATION FFF as#16	INDICATION FFF barrett's#21	INDICATION FFF esophagus#22
+396-04	20	There was no evidence of active bleeding.		 
+396-04	21	She received multiple transfusions throughout her stay and was started on darbepoetin, for what was ultimately felt to be anemia of renal disease.		 
+396-04	22	She was discharged to Lahey Clinic and has just returned home.		 
+396-04	23	Her son, Brendon Ambrose who was the healthcare proxy, is here with her today.		 
+396-04	24	Today, she feels reasonably well.		 
+396-04	25	She is still somewhat weak from the prolonged hospitalization, but is quite enthusiastic about the fact that she lost 30 pounds.		 
+396-04	26	She is taking her medications regularly and remains on 2 liters of oxygen.		 
+396-04	27	She has no chest pain or shortness of breath.		 
+396-04	28	Her diabetes regimen was changed during the hospital, she is still taking 70/30 insulin, but lower dose in the evenings and using a sliding scale of lispro insulin with meals.		DIN FFF insulin#13	DOSE FFF lower dose#16	DOSE FFF sliding scale#24
+396-04	28	Her diabetes regimen was changed during the hospital, she is still taking 70/30 insulin, but lower dose in the evenings and using a sliding scale of lispro insulin with meals.		DIN FFF lispro insulin#27	TOD FFF with meals#29
+396-04	29	Hospital course was complicated by a hospital-acquired pneumonia and urinary tract infection as well.		 
+396-04	30	PAST MEDICAL HISTORY:  Congestive heart failure secondary to diastolic dysfunction, type 2 diabetes, renal insufficiency with baseline creatinine approximately 3, hyperlipidemia, atrial fibrillation, peripheral vascular disease, chronic obstructive pulmonary disease, peripheral neuropathy, Barrett's esophagus, colon polyps (tubulovillous adenoma 2079), diverticulosis adenoid hypertrophy, humeral fracture, history of marijuana use, history of alcohol abuse.		DIN FFF marijuana#46
+396-04	31	MEDICATIONS:  Reconciled today, they include:		 
+396-04	32	1.  Aspirin 81 mg daily.		DIN FFF aspirin#1	DOSE FFF 81mg#3	FREQ FFF daily#4
+396-04	33	2.  Calcium plus D 1 tablet b.i.d.		DIN FFF calcium#1	DOSEAMT FFF 1 tablet#5	FREQ FFF b.i.d#6
+396-04	34	3.  Darbepoetin is followed by Dr.		 
+396-04	35	Dougherty at St.		 
+396-04	36	Mary's. 4.  Iron sulfate 325 mg b.i.d.		DIN FFF iron sulfate#3	DOSE FFF 325mg#5	FREQ FFF b.i.d#6
+396-04	37	5.  Hydralazine 100 mg t.i.d.		DIN FFF hydralazine#1	DOSE FFF 100mg#3	FREQ FFF t.i.d#4
+396-04	38	6.  Loratadine 10 mg daily.		DIN FFF loratadine#1	DOSE FFF 10mg#3	FREQ FFF daily#4
+396-04	39	7.  Metolazone 100 mg daily.		DIN FFF metolazone#1	DOSE FFF 100mg#3	FREQ FFF daily#4
+396-04	40	8.  Metoprolol succinate 150 mg daily.		DIN FFF metoprolol succinate#2	DOSE FFF 150mg#4	FREQ FFF daily#5
+396-04	41	9.  Multivitamin.		DBN FFF multivitamin#1
+396-04	42	10.  Nitroglycerin patch 0.3 mg per hour (3 x 0.1 mg patches). 11.  70/30 NovoLog 60 units in the morning and 35 in the evening.		DBN FFF nitroglycerin patch#2	DOSE FFF 0.3mg#4	FREQ FFF per hour#6	DOSE FFF 0.1mg#10
+396-04	42	10.  Nitroglycerin patch 0.3 mg per hour (3 x 0.1 mg patches). 11.  70/30 NovoLog 60 units in the morning and 35 in the evening.		DBN FFF novolog#14	DOSEAMT FFF 60 units#16	TOD FFF in the morning#19	TOD FFF in the evening#24
+396-04	43	12.  Omeprazole 20 mg b.i.d.		DIN FFF omeprazole#1	DOSE FFF 20mg#3	FREQ FFF b.i.d#4
+396-04	44	13.  Potassium chloride 40 mEq t.i.d.		DIN FFF potassium chloride#2	DOSE FFF 40meq#4	FREQ FFF t.i.d#5
+396-04	45	14.  Ropinirole 0.25 mg daily.		DIN FFF ropinirole#1	DOSE FFF 0.25mg#3	FREQ FFF daily#4
+396-04	46	15.  Simvastatin 40 mg daily.		DIN FFF simvastatin#1	DOSE FFF 40mg#3	FREQ FFF daily#4
+396-04	47	16.  Spiriva 1 inhalation daily.		DBN FFF spiriva#1	DOSEAMT FFF 1#2	RUT FFF inhalation#3	FREQ FFF daily#4
+396-04	48	17.  Spironolactone 50 mg daily.		DIN FFF spironolactone#1	DOSE FFF 50mg#3	FREQ FFF daily#4
+396-04	49	18.  Torsemide 100 mg b.i.d.		DIN FFF torsemide#1	DOSE FFF 100mg#3	FREQ FFF b.i.d#4
+396-04	50	19.  Trazodone 25 mg nightly.		DIN FFF trazodone#1	DOSE FFF 25mg#3	FREQ FFF nightly#4
+396-04	51	20.  B-complex vitamin daily.		DBN FFF b-complex#1
+396-04	51	20.  B-complex vitamin daily.		DIN FFF vitamin#2	FREQ FFF daily#3
+396-04	52	21.  Vitamin D3 1000 units daily.		DIN FFF vitamin d3#2	DOSEAMT FFF 1000 units#4	FREQ FFF daily#5
+396-04	53	22.  Coumadin as monitored by the Hematology Dept..		DBN FFF coumadin#1	INDICATION FFF as#2
+396-04	54	ALLERGIES TO MEDICATIONS:  None.		 

@@ -1,0 +1,39 @@
+366-01||1||Record date: 2059-08-07
+366-01||2||PCC EMERGENCY DEPT VISIT||INDICATION FFF pcc FFF 0 0||
+366-01||4||FERRARA,LAUREN   481-85-43-7                       VISIT DATE: 08/07/59
+366-01||5||I have examined and treated the patient myself as well as reviewed  and confirmed the resident's detailed documentation.||INDICATION FFF as FFF 8 8||INDICATION FFF as FFF 10 10||
+366-01||6||HISTORY OF PRESENTING COMPLAINT:  Briefly, this 68-year-old woman  with a history of diabetes and a past history of ulcers on the  right foot complains of increased pain on the right leg over the  past three days.||INDICATION FFF diabetes FFF 12 12||INDICATION FFF ulcers FFF 18 18||INDICATION FFF pain FFF 26 26||DRT FFF three days. FFF 34 35||
+366-01||7||It was worse yesterday.
+366-01||8||It was slightly better  today.
+366-01||9||She has not really been able to get out of bed secondary to  the pain, whereas she is usually very active.||INDICATION FFF the pain, FFF 13 14||
+366-01||10||She denies fever,  chills, palpitations, and diarrhea.||INDICATION FFF fever, FFF 2 2||INDICATION FFF diarrhea. FFF 6 6||
+366-01||11||She has not recently checked  her blood sugar.||INDICATION FFF her blood sugar. FFF 5 7||
+366-01||12||PAST MEDICAL HISTORY:  Diabetes mellitus, hypothyroidism, dementia,||INDICATION FFF diabetes mellitus, FFF 3 4||INDICATION FFF hypothyroidism, FFF 5 5||INDICATION FFF dementia, FFF 6 6||
+366-01||13||chronic ulcer of left great toe.||INDICATION FFF ulcer FFF 1 1||
+366-01||14||Past surgical history:
+366-01||15||Hysterectomy in the distant past.
+366-01||16||PHYSICAL EXAMINATION:  VITAL SIGNS:  Temperature 97.2, pulse 70,||INDICATION FFF temperature FFF 4 4||
+366-01||17||respirations 18.
+366-01||18||Blood pressure was initially 241/90.||INDICATION FFF blood pressure FFF 0 1||
+366-01||19||HEENT:
+366-01||20||Within normal limits.
+366-01||21||NECK:  Within normal limits.
+366-01||22||LUNGS:  Within  normal limits.
+366-01||23||HEART:  Normal except for a 3/6 systolic ejection  murmur.
+366-01||24||ABDOMEN:  Soft and nontender.
+366-01||25||EXTREMITIES:  Normal pulses  throughout except that most of the pulses are heard only by
+366-01||26||Doppler, and on the left posterior tibial and dorsalis pedis pulses  there is no Doppler pulse available.
+366-01||27||The lower extremities are  both cool and somewhat modeled to the mid thigh.
+366-01||28||Toes are somewhat  dusky.
+366-01||29||There is a 5 x 5-mm shallow ulcer on the medial aspect of  the left great toe.||FREQ FFF x 5-mm FFF 4 5||INDICATION FFF 5-mm FFF 5 5||INDICATION FFF ulcer FFF 7 7||
+366-01||30||THERAPY RENDERED/COURSE IN ED:  The Orthopedic Service was||INDICATION FFF ed: FFF 3 3||
+366-01||31||consulted and did AVIs and PVRs which indicated an ischemic lower  extremity with a question of aortoiliac disease versus thrombus.||INDICATION FFF thrombus. FFF 19 19||
+366-01||32||CONSULTATIONS (including PCP):  Orthopedic Service.||INDICATION FFF pcp): FFF 2 2||
+366-01||33||FINAL DIAGNOSIS:  Arterial insufficiency.
+366-01||34||DISPOSITION (including condition upon discharge):  The patient is  being admitted to the Orthopedic Service, is not being heparinized  at present; and a decision of angiography or MRA will be  considered.
+366-01||35||The patient was admitted to the hospital in stable  condition.
+366-01||36||___________________________________                    YC253/88823
+366-01||37||LOGAN COLEMAN, M.D.       LC2                         D:08/07/59
+366-01||38||T:08/08/59
+366-01||39||Dictated by:  LOGAN COLEMAN, M.D.       LC2
+366-01||40||******** Not reviewed by Attending Physician ********

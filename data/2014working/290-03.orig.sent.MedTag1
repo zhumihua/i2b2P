@@ -1,0 +1,100 @@
+290-03||1||Record date: 2098-06-04
+290-03||2||RENAL CONSULTATION SERVICE
+290-03||3||LOUISIANA AVENUE MEDICAL CENTER
+290-03||4||Patient:  Ehlers, Ulysses MR: 28735364
+290-03||5||Renal Attending: Dr.
+290-03||6||Judge
+290-03||7||Admission Date: 4/24/2098   Consultation Date: 4/24/2098
+290-03||8||Reason for Consultation:
+290-03||9||Progressive renal impairment.
+290-03||10||Creat rose from 1.6 (Nov 97) to 4.07 (may 98)
+290-03||11||History of Present Illness:
+290-03||12||This is a 69 year old male with a hx of CAD s/p CABG 10/2097, who was referred on 6/03 from renal Dr.||DRT FFF 69 year FFF 3 4||INDICATION FFF cad FFF 11 11||
+290-03||13||Turk, Elvis at the Central Buffalo Hospital to Dr.
+290-03||14||Judge at BHCC for rapidly progressive renal impairment.
+290-03||15||He is an arteriopath with occluded aorta beneath the levels of renal arteries as revealed in recent MRA.||INDICATION FFF as FFF 13 13||
+290-03||16||In the past an attempted femoral artery cannulation was proved unsuccessful due to above reason.
+290-03||17||Subsequently he underwent two cardiac angiograms thro' left brachial and Rt radial arterial route.
+290-03||18||His creatinine has risen from baseline of 1.6 (Nov 97, post CABG) to 4.07 (may 98).||INDICATION FFF creatinine FFF 1 1||
+290-03||19||He denies taking any NSAIDS.||DIN FFF nsaids. FFF 4 4||
+290-03||20||He thinks that he was started on Altace post surgery, but was not sure about that fact.||DBN FFF altace FFF 7 7||INDICATION FFF surgery, FFF 9 9||
+290-03||21||Dr. Turk did an duplex scan to assess his renal arteries which was suggestive of high grade stenosis of renal arteries on both sides.||INDICATION FFF stenosis FFF 17 17||
+290-03||22||Since IR doctors at CentralBuffalo were not keen to do renal agniogram/angioplasty thro' radial artery route, Dr.Turk refered Mr. Ehlers to BHCC for consideration of renal angioplasty.
+290-03||23||He has also asked him to discontinue Altace and to withold coumadin (Indn: AF) inview of potential angioplasty.||DBN FFF altace FFF 7 7||DBN FFF coumadin FFF 11 11||INDICATION FFF af) FFF 13 13||
+290-03||24||He complains of claudication pains in both legs with left leg>Rt leg.
+290-03||25||He experiences pain on exertion on left calf, thigh and buttock.||INDICATION FFF pain FFF 2 2||
+290-03||26||He complains of long term pedal swelling which extends upto upper knee level.||INDICATION FFF swelling FFF 6 6||
+290-03||27||He is SOB on moderate exertion and sleeps with 3 pillows.||INDICATION FFF sob FFF 2 2||
+290-03||28||He also has some prostatic symptoms with poor urinary stream, frequency etc.||INDICATION FFF symptoms FFF 5 5||
+290-03||29||Past Medical History:
+290-03||30||CAD s/p CABG on 10/97||INDICATION FFF cad FFF 0 0||
+290-03||31||Paroxysmal AF||INDICATION FFF af FFF 1 1||
+290-03||32||DM2
+290-03||33||HTN||INDICATION FFF htn FFF 0 0||
+290-03||34||Hyperlipidemia||INDICATION FFF hyperlipidemia FFF 0 0||
+290-03||35||PVD (occluded aorta)||INDICATION FFF pvd FFF 0 0||
+290-03||36||AS (aortic bicapsid)||INDICATION FFF as FFF 0 0||
+290-03||37||BPH||INDICATION FFF bph FFF 0 0||
+290-03||38||Medications: NKDA
+290-03||39||Amiodarone 200mg daily||DIN FFF amiodarone FFF 0 0||DOSE FFF 200mg FFF 1 1||FREQ FFF daily FFF 2 2||
+290-03||40||Atenolol 100mg BID||DIN FFF atenolol FFF 0 0||DOSE FFF 100mg FFF 1 1||FREQ FFF bid FFF 2 2||
+290-03||41||Metformin HCL 500mg daily||DIN FFF metformin hcl FFF 0 1||DOSE FFF 500mg FFF 2 2||FREQ FFF daily FFF 3 3||
+290-03||42||ASA 81mg daily||DIN FFF asa FFF 0 0||DOSE FFF 81mg FFF 1 1||FREQ FFF daily FFF 2 2||
+290-03||43||Lasix 40mg daily,||DBN FFF lasix FFF 0 0||DOSE FFF 40mg FFF 1 1||FREQ FFF daily, FFF 2 2||
+290-03||44||lipitor 40mg daily prn||DBN FFF lipitor FFF 0 0||DOSE FFF 40mg FFF 1 1||FREQ FFF daily FFF 2 2||NEC FFF prn FFF 3 3||
+290-03||45||Zetia 10mg daily prn||DBN FFF zetia FFF 0 0||DOSE FFF 10mg FFF 1 1||FREQ FFF daily FFF 2 2||NEC FFF prn FFF 3 3||
+290-03||46||Family History: no history of renal disease in family||INDICATION FFF renal disease FFF 5 6||
+290-03||47||Social History: married.
+290-03||48||PPD for 50 years.||DRT FFF 50 years. FFF 2 3||
+290-03||49||Review of Systems: as above.||INDICATION FFF as FFF 3 3||
+290-03||50||No chest pain, discomfort, palpitation, SOB, BM changes, abdominal pain.||INDICATION FFF chest pain, FFF 1 2||INDICATION FFF sob, FFF 5 5||INDICATION FFF bm FFF 6 6||INDICATION FFF abdominal pain. FFF 8 9||
+290-03||51||He notes mild occasional back pain.||INDICATION FFF back pain. FFF 4 5||
+290-03||52||Vital Signs: 98.4 50 132/78 20 97% on RAUrine output: 600 ml (6/04 0-12am)||DOSE FFF 97% FFF 6 6||DOSE FFF 600 ml FFF 10 11||TOD FFF 0-12am) FFF 13 13||
+290-03||53||Physical Examination:General: well appearing
+290-03||54||HEENT: PERRLA, EOMI
+290-03||55||Neck: no bruit
+290-03||56||Skin: no rash, normal turgor
+290-03||57||Chest: CTAB
+290-03||58||Heart: RRR, no mrg
+290-03||59||Abd: nontender, distended, normal active bowel sounds, no HSM
+290-03||60||Ext: 2+ edema in lower extremities upto knee level.||INDICATION FFF edema FFF 2 2||
+290-03||61||Bilateral distal femoral, popliteal , dorsalis pedis and posterior tibial pulses not palpable.
+290-03||62||Toes appear discolored and dusky in appearance with slight delay in capillary refill.
+290-03||63||Results
+290-03||64||Date/Time         NA             K              CL             CO2||DIN FFF na FFF 1 1||INDICATION FFF k FFF 2 2||INDICATION FFF cl FFF 3 3||
+290-03||65||06/04/2098        136            5.3 (*)        102            27
+290-03||66||06/04/2098        141            5.5 (*)        108            24
+290-03||67||06/03/2098        137            4.9            103            27
+290-03||68||Date/Time         BUN            CRE            EGFR           GLU||DIN FFF glu FFF 4 4||
+290-03||69||06/04/2098        83 (*)         4.23 (*)       14 [1]         130 (*)
+290-03||70||06/04/2098        80 (*)         3.92 (*)       15 [2]         108
+290-03||71||06/03/2098        75 (*#)        4.07 (*#)      15 [3]         165 (*)
+290-03||72||Date/Time         ANION
+290-03||73||06/04/2098        7
+290-03||74||06/04/2098        9
+290-03||75||06/03/2098        7
+290-03||76||Date/Time         CA             MG             TBILI          TP||INDICATION FFF ca FFF 1 1||INDICATION FFF tp FFF 4 4||
+290-03||77||06/04/2098        9.0
+290-03||78||06/04/2098        9.1            2.2
+290-03||79||06/03/2098        8.8                           0.7            6.4
+290-03||80||Date/Time         ALB            GLOB||DIN FFF alb FFF 1 1||
+290-03||81||06/03/2098        3.8            2.6
+290-03||82||Date/Time         ALT/SGPT       AST/SGOT       ALKP           TBILI
+290-03||83||06/03/2098        30             23             80             0.7
+290-03||84||Date/Time         WBC            RBC            HGB            HCT
+290-03||85||06/04/2098        6.84           2.77 (*)       9.1 (*)        28.7 (*)
+290-03||86||06/03/2098        6.76           2.65 (*#)      8.7 (*#)       27.2 (*)
+290-03||87||Date/Time         MCV            MCH            MCHC           PLT
+290-03||88||06/04/2098        103.4 (*)      32.8 (*)       31.8 (*)       164
+290-03||89||06/03/2098        102.4 (*#)     32.9 (*)       32.1           179 (#)
+290-03||90||Date/Time         RDW
+290-03||91||06/04/2098        17.8 (*)
+290-03||92||06/03/2098        18.0 (*#)
+290-03||93||ASSESSMENT:
+290-03||94||Progressive renal dysfunction in the setting of severe bilateral renal artery stenosis for consideration of reno-vascular disease.||INDICATION FFF stenosis FFF 11 11||
+290-03||95||PLAN:
+290-03||96||1. His MRA of abdomen was reviewed with Dr.Quilici, BHCC IR department. Aorta is fully occluded beneath the level of both kidneys.
+290-03||97||Tight renal artery stenosis noted in both kidneys.||INDICATION FFF stenosis FFF 3 3||
+290-03||98||Both proximal and distal stenosis noted in the Rt renal artery.||INDICATION FFF stenosis FFF 4 4||
+290-03||99||Both kidneys appeared normal in size 11.2 and 11.4 cm.||INDICATION FFF cm. FFF 9 9||
+290-03||100||Dr.Quilici is confident that renal angioplasty could be done relatively safely through radial artery approach. 2. We have requested Dr.Xi, Vascular surgeon to get his opinon on the need for surgical revascularisation of feet to save his legs from critical ischemia in the future. If so, whether he would benefit from surgical revascularisation of the kidneys. We are awaiting his expert opinion. 3. Patient realises that renal angiogram + angioplasty thro' radial artery carries its own risk. Risks of Cholesterol emboli, Contrast nephropathy, arterial injury, risk of further deterioration of his kidney function leading to early initiation of dialysis are explained. However patient feels that it worth taking a choice to prevent the kidneys from worsening rapidly by attempted angiopalsty. 4. We will obtain renal ultrasound to again measure his kidneys and to rule out any obstructive uropathy as the cause of renal dysfunction. 5. If patient is going for IR renal angiogram/plasty, then he will need Contrast prophylaxis.||INDICATION FFF ischemia FFF 40 40||INDICATION FFF risk. FFF 76 76||INDICATION FFF cholesterol FFF 79 79||INDICATION FFF nephropathy, FFF 82 82||INDICATION FFF risk FFF 85 85||DIN FFF prevent FFF 111 111||INDICATION FFF as FFF 138 138||INDICATION FFF prophylaxis. FFF 158 158||

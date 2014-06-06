@@ -1,0 +1,34 @@
+309-02	1	Record date: 2092-12-15		 
+309-02	2	NAME:    Wilson, Gabriel		 
+309-02	3	MRN:       8514931		 
+309-02	4	The patient is a 71-year-old woman who comes in for follow up.		 
+309-02	5	She has been having symptoms of ataxia which are difficult to understand in the sense that I cannot get a clear history of her symptoms.		 
+309-02	6	At times she reports that she feels dizzy as if she might fall over to her right side.		 
+309-02	7	There is no associated vertigo, dysarthria or other symptoms.		 
+309-02	8	She has not actually had syncope.		 
+309-02	9	There is no positional component to her symptoms. I had scheduled her for an MRA/MRI to evaluate those symptoms.		 
+309-02	10	The		 
+309-02	11	MRI does show some small microvascular changes in the coronal radiata, centrum ovale and bilateral pontine region.		DBN FFF centrum#11
+309-02	12	She had small chronic lacunar infarcts.		 
+309-02	13	She reports that she falls to the right, but the stroke seemed to be more on the right brain which would not necessarily correlate with her symptoms.		 
+309-02	14	She had some left internal carotid mild 30% proximal stenosis.		 
+309-02	15	Her vertebral arteries were patent with anti-grade flow.		 
+309-02	16	PHYSICAL EXAM:  Small lacunar infarcts.		 
+309-02	17	Most likely related to hypertension rather than embolic disease.		 
+309-02	18	Her blood pressure has been very well controlled.		 
+309-02	19	In fact, today on exam, her blood pressure was 100/60.		 
+309-02	20	She brought her medications with her and has been taking atenolol 50 mg p.o. q.d., Cozaar 50 mg 1 tab twice a day and hydrochlorothiazide 12.5 mg p.o. q.d. She had not taken her medications today and her blood pressure here when I repeated it was 110/70 in the right arm and 120/70 in the left.		DIN FFF atenolol#10	DOSE FFF 50mg#12	RUT FFF p.o#13	FREQ FFF q.d .#14
+309-02	20	She brought her medications with her and has been taking atenolol 50 mg p.o. q.d., Cozaar 50 mg 1 tab twice a day and hydrochlorothiazide 12.5 mg p.o. q.d. She had not taken her medications today and her blood pressure here when I repeated it was 110/70 in the right arm and 120/70 in the left.		DBN FFF cozaar#15	DOSE FFF 50mg#17	DOSEAMT FFF 1 tab#19	FREQ FFF twice a day#22
+309-02	20	She brought her medications with her and has been taking atenolol 50 mg p.o. q.d., Cozaar 50 mg 1 tab twice a day and hydrochlorothiazide 12.5 mg p.o. q.d. She had not taken her medications today and her blood pressure here when I repeated it was 110/70 in the right arm and 120/70 in the left.		DIN FFF hydrochlorothiazide#24	DOSE FFF 12.5mg#26	RUT FFF p.o#27	FREQ FFF q.d .#28	INDICATION FFF her blood pressure#39
+309-02	21	Her neck is supple without JVD or bruits.		 
+309-02	22	Her lungs are clear without wheezes, rales or rhonchi.		 
+309-02	23	Her cardiac exam shows a regular rate and rhythm, normal		 
+309-02	24	S1, S2.		 
+309-02	25			 
+309-02	26	ASSESSMENT AND PLAN:   History of hypertension.		 
+309-02	27	Now with lower blood pressure and some lightheadedness.		 
+309-02	28	We will d/c her atenolol. I would like her to get a repeat blood pressure in one week. I discussed her MRI/MRA findings with her.		DIN FFF atenolol#4	INDICATION FFF blood pressure#14	DRT FFF one week#17
+309-02	29	Long term we will need to continue to try and optimize her cholesterol levels and her diabetes.		 
+309-02	30	She will follow up in one week for a repeat blood pressure.		 
+309-02	31	Julie Fraser, M.D.		 
+309-02	32	JF/crane/powell		 

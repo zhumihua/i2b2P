@@ -1,0 +1,84 @@
+300-02	1	0	Record date: 2089-12-01
+300-02	2	0	CHIEF COMPLAINT:  F/U HOSP
+300-02	3	0	HISTORY OF PRESENT ILLNESS: FU SMI ER abdominal pain now  better. pain was periumbilical.
+300-02	4	0	PAST MEDICAL HISTORY: Entered By:ostrowski  On:05/20/2088
+300-02	5	0	
+300-02	6	0	PMH significant for HTN.
+300-02	7	0	Colonic Poilyp SP LGI blled post colonoscopy 2087
+300-02	8	0	PAST SURGICAL HISTORY: Entered By:ostrowski  On:05/20/2088
+300-02	9	0	 tonsillectomy.
+300-02	10	0	FAMILY HISTORY: Entered By:ostrowski  On:05/20/2088
+300-02	11	0	Father deceaced Alsheimer's
+300-02	12	0	Mother NIDDM, HTN, CVA, Nephrogenic DI.
+300-02	13	0	SOCIAL HISTORY: Entered By:ostrowski  On:05/20/2088
+300-02	14	0	
+300-02	15	0	EtOH:  rare use.
+300-02	16	0	Drugs:  no drug abuse.
+300-02	17	0	Tobacco:  none.
+300-02	18	0	Family:  single.
+300-02	19	0	Work:     Senior Manager of Goods Production            .
+300-02	20	0	REVIEW OF SYSTEMS: Constitution:  Constitution:  good general health, no fever, no change in weight .
+300-02	21	0	 Respiratory:  no cough, no wheezing or dyspnea.
+300-02	22	0	 Cardiovascular:  no palpitations, no chest pain or dyspnea.
+300-02	23	0	 Gastrointestinal:  (denies) abdominal pain, decreased appetite, no change in bowel habits, (denies) diarrhea, (denies) dysphagia and (denies) hematemesis.
+300-02	24	0	 Gastrointestinal:  (denies) nausea, (denies) rectal bleeding, normal stools and (denies) vomiting.
+300-02	25	0	 Urinary:  (denies) dysuria, (denies) hematuria and (denies) frequent urination
+300-02	26	0	
+300-02	27	0	VITAL SIGNS:
+300-02	28	0	Date/Time: 12/01/2089  04:09 PM  - ostrowski
+300-02	29	0	Pulse 1: 70 bpm
+300-02	30	0	Blood Pressure 1: 120 / 80 mmHg
+300-02	31	0	Weight: 299.00 lbs.
+300-02	32	0	EXAMINATION:
+300-02	33	0	[Neck] - supple no lymphadenopathy or thyromegaly and
+300-02	34	0	[Respiratory] - clear breath sounds bilaterally, no accessory muscle use, normal percussion.
+300-02	35	0	[CV] - Heart: normal rate and regular rhythm.
+300-02	36	0	[GI] - Abdomen: no tenderness, (-) rebound, (-) guarding, normal bowel sounds, (-) hepatomegaly, (-) splenomegaly and no abdominal mass.
+300-02	37	790	Labs/Studies: _____. WBC 13.5 CT diverticulosis / Diverticulitis  w some bowel loops
+300-02	38	0	CONSTITUTIONAL: Appears properly developed for stated age, in no apparent distress.
+300-02	39	0	The patient appears severely obese.
+300-02	40	0	IMPRESSION: Hypertension
+300-02	41	0	Obesity
+300-02	42	0	GI bleed SP polypectomy
+300-02	43	0	Diverticulosis w ? diverticulitis  ? SBO resolved
+300-02	44	0	GERD.
+300-02	45	448	ALLERGIES:
+300-02	46	448	No Known Drug Allergies 05/21/2087 ostrowski
+300-02	47	438	MEDICATIONS:
+300-02	48	438	CIPRO 500MG PO bid : 12/01/2089 - 02/02/2090 ACT : ostrowski
+300-02	49	438	   Script:  Amt: 20  Refill: 0 Date: 12/01/2089 : ostrowski
+300-02	50	0	METAMUCIL 1Tablespoon twice daily w water : 12/01/2089 - 12/18/2093 ACT : ostrowski
+300-02	51	0	   Script:  Amt: 1  Refill: 0 Date: 12/01/2089 : ostrowski
+300-02	52	0	CETAPHIL   topically prn : 09/29/2089 - 12/18/2093 ACT : ostrowski
+300-02	53	0	   Script:  Amt: 1  Refill: 0 Date: 09/29/2089 : ostrowski
+300-02	54	0	Lipitor 10MG qd : 01/27/2089 - 08/23/2092 ACT : ostrowski
+300-02	55	0	   Script:  Amt: 30  Refill: 11 Date: 08/29/2091 : ostrowski
+300-02	56	0	Cormax 0.05% topically bid prn : 12/11/2087 - 02/02/2090 ACT : ostrowski
+300-02	57	0	   Script:  Amt: 45 `gRAMS  Refill: 2 Date: 12/11/2087 : ostrowski
+300-02	58	0	Lidex cream No Match bid prn up to 2 week : 01/09/2087 - 02/02/2090 ACT : ostrowski
+300-02	59	0	   Script:  Amt: 45 grams  Refill: 1 Date: 09/29/2089 : ostrowski
+300-02	60	0	K-Dur 10MEQ qod : 05/02/2086 - 03/06/2092 ACT : ostrowski
+300-02	61	0	   Script:  Amt: #30  Refill: 11 Date: 08/03/2090 : ostrowski
+300-02	62	0	HCTZ 12.5mg qd : 05/02/2086 - 03/06/2092 ACT : ostrowski
+300-02	63	0	   Script:  Amt: 100  Refill: 3 Date: 08/29/2091 : ostrowski
+300-02	64	0	Zestril 10MG PO qd : 05/02/2086 - 01/02/2092 ACT : ostrowski
+300-02	65	0	   Script:  Amt: 30  Refill: 11 Date: 12/12/2091 : ostrowski
+300-02	66	0	IMMUNIZATIONS:
+300-02	67	0	Td 01/27/2089
+300-02	68	0	PROBLEMS - CARE PLANS:
+300-02	69	0	Problem: problem
+300-02	70	0	Code: 562.11 Diverticulitis
+300-02	71	0	Careplan:
+300-02	72	438	Medications:  CIPRO - 500MG      - PO bid - 12/01/2089 - Script: Amt: 20 Refill: 0.
+300-02	73	438	
+300-02	74	0	Diet:  clear liquid till better then low residue. W metamucil bid
+300-02	75	0	
+300-02	76	0	Problem: problem
+300-02	77	0	Code: 562.10 Diverticulosis
+300-02	78	0	Careplan:
+300-02	79	0	Diet:  Diverticulosis diet.
+300-02	80	0	
+300-02	81	0	Follow Up:  prn f/u
+300-02	82	0	
+300-02	83	438	Medications:  METAMUCIL - 1Tablespoon          - twice daily w water  - 12/01/2089 - Script: Amt: 1 Refill: 0.
+300-02	84	438	

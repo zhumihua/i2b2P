@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2067-10-03
+
+80 yo man with CAD, anemia, and the chief complaint of buttock pain with ambulation.
+
+
+
+He has had some pain in his buttocks when he ambulates a short distance which resolves with standing still. Hip films were unremarkable. No calf pains. He saw Dr. Jaimes for a second opinion and was advised to exercise more and cut down on alcohol. He has had some anemia and his GI w/u at Fairfield was negative. I then started him on Coumadin which he finally started taking.
+
+
+
+
+
+================ Medications ================
+
+COZAAR  50MG PO QD
+
+HCTZ  25MG PO QD
+
+AMBIEN (ZOLPIDEM TARTRATE)  10MG PO HS PRN .
+
+PROCARDIA XL  120MG PO QD
+
+GLUCOTROL  20MG PO BID
+
+ACTOS (PIOGLITAZONE) 45MG 1 Tablet(s) PO QD
+
+ATENOLOL 50MG 1 Tablet(s) PO QD
+
+LIPITOR (ATORVASTATIN) 40MG 1 Tablet(s) PO QHS
+
+LASIX (FUROSEMIDE) 40MG 1 Tablet(s) PO QD
+
+COUMADIN (WARFARIN SODIUM) 2.5MG 1 Tablet(s) PO QPM
+
+
+
+
+
+ALLERGIES:  None.
+
+
+
+FAMILY HISTORY:  Noncontributory.
+
+
+
+SOCIAL HISTORY:  Married.  Retired.  No cigarettes.
+
+
+
+ROS   Back pain. Thigh aching. Fatigue. Rest of ROS is negative.
+
+
+
+PE  Looks less fatigued.
+
+
+
+================ Vital signs ================
+
+Blood Pressure:   170/82
+Weight:   198   [Pounds]
+P 60 irreg irreg
+
+HEENT: EOMI  No scleral icterus. No retinopathy.
+
+No lymphadenopathy. No carotid bruits.
+
+Lungs: Clear
+
+Cor: irreg irreg. No audible murmurs or gallops.
+
+Abd: Obese. Non tender.
+
+Ext: No edema. Trace PT pulse on the right. Could not palpate any on the left.
+
+
+
+================ Problems ================
+
+BUTTOCK PAIN   With ambulation. Probably spinal stenosis but I will check some vascular studies.
+
+
+
+ANEMIA    GI w/u at Fairfield was negative. I referred him to Dr. Emmons in Hematology today.
+
+         
+
+HYPERTENSION   Did not take meds today.
+
+         
+
+DIABETES (FOLLOWED AT CLAIBORNE)     Brings an A1C of 6.1. Continue Actos and Glucotrol.
+
+     
+
+PROSTATE CA        Stable.
+
+
+
+ALCOHOL   Reiterate the importance of keeping limit on alcohol.
+
+
+
+AF  I am relieved that he has finally agreed to start the Coumadin.
+
+
+
+CAD  Doing well after angioplasty.
+
+
+
+PATIENT/PHYSICIAN  He has wanted to see Dr. Jaimes in Cardiology. I explained to him that I am a cardiologist as well and that I have found in the past it does not work out well to have two cardiologists involved in his care. I think Dr. Jaimes is a superb cardiologist and I gave him the number for GCH teleservices to find himself a new internist. He clearly is somewhat conflicted about this and will think about it.
+
+
+
+
+
+
+
+
+
+
+
+______________________________                              
+
+
+
+Jacobson, Isaiah Peter, M.D.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC1" time="after DCT" indicator="mention"/>
+    <OBESE id="DOC20" time="before DCT" indicator="mention"/>
+    <OBESE id="DOC27" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC6" time="before DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC8" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC11" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC12" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC14" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC16" time="after DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC18" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC19" time="during DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC23" time="after DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC26" time="during DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC28" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC29" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC30" time="after DCT" type1="thiazolidinedione" type2=""/>
+    <MEDICATION id="DOC31" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC32" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC34" time="during DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC35" time="before DCT" type1="ARB" type2=""/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC7" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC9" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC33" time="after DCT" indicator="mention"/>
+    <CAD id="DOC15" time="after DCT" indicator="mention"/>
+    <CAD id="DOC22" time="during DCT" indicator="mention"/>
+    <CAD id="DOC25" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC21" indicator="not present"/>
+    <SMOKER id="DOC24" status="never"/>
+    <DIABETES id="DOC3" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC4" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention"/>
+  </TAGS>
+</root>

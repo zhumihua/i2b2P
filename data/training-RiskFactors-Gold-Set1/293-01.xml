@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2076-12-15
+
+                     STONYBROOK EMERGENCY DEPT VISIT
+
+ 
+
+QUINLEY,CORA   759-87-55-2                         VISIT DATE: 12/15/76
+
+This patient was seen by me in the emergency department on  
+
+December 15, 2076, with the resident.  Resident's note reviewed.  
+
+Patient interviewed and examined by me.  See resident's note for 
+
+further details.  Past medical history, social history, and family 
+
+history all reviewed and confirmed with the resident's note. 
+
+HISTORY OF PRESENTING COMPLAINT:  The patient is a pleasant 
+
+70-year-old female who comes in with substernal chest pressure, a 
+
+tightness involving her upper back also, two distinct discomforts.  
+
+There are no exertional symptoms, no nausea, no vomiting, no 
+
+diarrhea, no abdominal pain, and no palpitations.  The patient does 
+
+report some mild shortness of breath.  The chest pressure is not 
+
+acute in onset.  There is no exacerbation with activity.  She had a 
+
+negative exercise tolerance test four years ago.  Since being here, 
+
+she has received some improvement in her symptoms after 
+
+nitroglycerin.  She has no known coronary disease.
+
+PAST MEDICAL HISTORY:  Atrial fibrillation and insulin-dependent 
+
+diabetes mellitus.
+
+SOCIAL HISTORY AND FAMILY HISTORY:  The patient is an active smoker 
+
+and lives alone.  No family history.
+
+PHYSICAL EXAMINATION:  Patient is hemodynamically stable, nontoxic, 
+
+well appearing, resting comfortably.  NECK:  No jugulovenous 
+
+distention.  LUNGS:  Clear.  HEART:  Regular rate and rhythm.  
+
+ABDOMEN:  Soft.  NEUROLOGIC:  Nonfocal.
+
+LABORATORY EVALUATION:  White count is 7.8, hematocrit 41.  Normal 
+
+electrolyte panel.  Troponin I is 0.3 which is elevated.  CK is 160 
+
+which is normal.  The EKG shows some flattening T wave laterally 
+
+which is old.  A chest x-ray shows no effusion, infiltrate, or 
+
+pneumothorax.
+
+THERAPY RENDERED/COURSE IN ED:  The patient has a positive troponin 
+
+here and will be admitted.  She will be heparinized __________ 
+
+started.  See resident's note for details.
+
+FINAL DIAGNOSES:  
+
+1.  Rule out myocardial infarction.
+
+2.  Chest tightness.
+
+DISPOSITION (including condition upon discharge):  The patient was 
+
+admitted to the hospital in stable condition.
+
+___________________________________                    ID374/80829 
+
+CHRISTOPHER QUINTOS, M.D.       CQ07                         D:12/15/76 
+
+                                                       T:12/15/76 
+
+Dictated by:  CHRISTOPHER QUINTOS, M.D.       CQ07 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC6" time="during DCT" type1="nitrate" type2=""/>
+    <CAD id="DOC4" time="during DCT" indicator="symptom"/>
+    <FAMILY_HIST id="DOC2" indicator="not present"/>
+    <SMOKER id="DOC1" status="current"/>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC5" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

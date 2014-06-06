@@ -1,0 +1,83 @@
+255-02	1	Record date: 2065-06-27		 
+255-02	2	HPI: 51 yo F with HTN, DM, CAD, gastritis, depression, s/p CVA returns for f/u.		 
+255-02	3	Very noncompliant with meds and appts		 
+255-02	4	Today c/o significant fatigue.		 
+255-02	5	Also occ has left sided chest pressure and DOE.		 
+255-02	6	In the past she c/o orthopnea and this is unchanged.		 
+255-02	7	CP comes unrelated to exertion.		 
+255-02	8	No n/v or radiation/diaphoresis.		 
+255-02	9	In terms of s/o TIA, she denies dizziness, falls, visual changes, ataxia, no syncope or presyncope, no other focal neurologic sx, she does get frquent headaches.		 
+255-02	10	Problems		 
+255-02	11	HTN		 
+255-02	12	DM		 
+255-02	13	CAD:		 
+255-02	14	-EKG with LVH and repol abnlity.		 
+255-02	15	-Stress echo () Limited, only able to walk 0'47".		 
+255-02	16	MHR 122 (72%predicted), BP 230/100.		 
+255-02	17	Stopped 2/2 dizziness, SOB and SSCP.		 
+255-02	18	EKG shwed 1 mm ST depressions in II, III, F, V5-6.		 
+255-02	19	Read as c/w but not diagnostic of ischemia.		 
+255-02	20	Echo showed baseline EF of 60% with no RWMA.		 
+255-02	21	After exercise there was minor nonspecific inferoposterior WMA.		 
+255-02	22	Read as no evidence of inducible ischenia (but low sensitivity 2/2 low MHR)		 
+255-02	23	HX OF GASTRITIS BY UGIS H PYLORI +		 
+255-02	24	S/P TAH 2/2 FIBROIDS		 
+255-02	25	OA		 
+255-02	26	Depression		 
+255-02	27	Asthma		 
+255-02	28	s/p CVA		 
+255-02	29	Medications		 
+255-02	30	Humulin 70/30 60 UNITS qpm x 30 days		DBN FFF humulin 70/30#1	DOSEAMT FFF 60 units#3	FREQ FFF qpm#4	DRT FFF 30 days#7
+255-02	31	Insulin REGULAR HUMAN 3 UNITS SC AC+HS , use per sliding scale-2U if 150-200, 4U if 200-250, 6U 250-300, 8U 300-350		DPN FFF insulin regular human#2	DOSEAMT FFF 3 units#4	RUT FFF sc#5	TOD FFF ac#6	FREQ FFF hs#6	DOSE FFF 4u#14	DOSE FFF 6u#17	DOSE FFF 8u#19
+255-02	32	Protonix (PANTOPRAZOLE) 40MG TABLET EC take 1 Tablet(s) PO QD		DBN FFF protonix#0	MDBN FFF pantoprazole#1	DOSE FFF 40mg#2	DDF FFF tablet#3
+255-02	32	Protonix (PANTOPRAZOLE) 40MG TABLET EC take 1 Tablet(s) PO QD		DIN FFF ec#4	DOSEAMT FFF 1 tablet#7	RUT FFF po#8	FREQ FFF qd#9
+255-02	33	Trazodone 50MG TABLET take 1 Tablet(s) PO qhs PRN insomna		DIN FFF trazodone#0	DOSE FFF 50mg#1	DDF FFF tablet#2	DOSEAMT FFF 1 tablet#5	RUT FFF po#6	FREQ FFF qhs#7	NEC FFF prn#8
+255-02	34	Naprosyn (NAPROXEN) 500MG TABLET take 1 Tablet(s) PO BID		DBN FFF naprosyn#0	MDBN FFF naproxen#1	DOSE FFF 500mg#2	DDF FFF tablet#3	DOSEAMT FFF 1 tablet#6	RUT FFF po#7	FREQ FFF bid#8
+255-02	35	Polytrim (TRIMETHOPRIM/POLYMYXIN B SULFATE) 1 DROP OU Q4-6H x 7 days		DBN FFF polytrim#0	MDBN FFF trimethoprim / polymyxin b sulfate#3	DOSEAMT FFF 1 drop#5	RUT FFF ou#6	FREQ FFF q4-6h#7	DRT FFF x 7 days#10
+255-02	36	Proventil INH 2 PUFFS INH Q 6 H PRN SOB , PRN: SOB/WHEEZING		DBN FFF proventil#0	RUT FFF inh#1	DOSEAMT FFF 2 puffs#3	RUT FFF inh#4	FREQ FFF q 6 h#7	NEC FFF prn#8	INDICATION FFF sob#9	NEC FFF prn#11	INDICATION FFF sob#12	INDICATION FFF wheezing#12
+255-02	37	Azmacort INH 2 PUFF AER BID		DBN FFF azmacort#0	RUT FFF inh#1	DOSEAMT FFF 2 puff#3	FREQ FFF bid#5
+255-02	38	Glucophage 500 MG PO BID		DBN FFF glucophage#0	DOSE FFF 500mg#2	RUT FFF po#3	FREQ FFF bid#4
+255-02	39	Lipitor 40 MG PO QD		DBN FFF lipitor#0	DOSE FFF 40mg#2	RUT FFF po#3	FREQ FFF qd#4
+255-02	40	Zestoretic (LISINOPRIL/HYDROCHLOROTHIAZIDE) 20-25 TABLET take 1 Tablet(s) PO QD		DBN FFF zestoretic#0	MDBN FFF lisinopril / hydrochlorothiazide#1	DOSEAMT FFF 20-25 tablet#3	DOSEAMT FFF 1 tablet#6	RUT FFF po#7	FREQ FFF qd#8
+255-02	41	Ecasa (ASPIRIN ENTERIC COATED) 325MG TABLET EC take 1 Tablet(s) PO QD		DPN FFF ecasa#0	MDBN FFF aspirin enteric coated#3	DOSE FFF 325mg#4	DDF FFF tablet#5
+255-02	41	Ecasa (ASPIRIN ENTERIC COATED) 325MG TABLET EC take 1 Tablet(s) PO QD		DIN FFF ec#6	DOSEAMT FFF 1 tablet#9	RUT FFF po#10	FREQ FFF qd#11
+255-02	42	Clarinex (DESLORATADINE) 5MG TABLET take 1 Tablet(s) PO QD		DBN FFF clarinex#0	MDBN FFF desloratadine#1	DOSE FFF 5mg#2	DDF FFF tablet#3	DOSEAMT FFF 1 tablet#6	RUT FFF po#7	FREQ FFF qd#8
+255-02	43	Plavix (CLOPIDOGREL) 75 MG PO QD		DBN FFF plavix#0	MDBN FFF clopidogrel#1	DOSE FFF 75mg#3	RUT FFF po#4	FREQ FFF qd#5
+255-02	44	Paxil (PAROXETINE) 20 MG (20MG TABLET take 1) PO QD		DBN FFF paxil#0
+255-02	45	Atenolol 50 MG (50MG TABLET take 1) PO QD		DIN FFF atenolol#0	DOSE FFF 50mg#2	DOSE FFF 50mg#3	DDF FFF tablet#4	RUT FFF po#7	FREQ FFF qd#8
+255-02	46	Flucoconzole 150 MG PO x1 x 1 day		 
+255-02	47	Lotrimin 1% CREAM (CLOTRIMAZOLE 1% CREAM) 1 APPLICATION TOP QD , apply to vaginal area (external) qd prn itch		DBN FFF lotrimin#0	DOSE FFF 1%#1	DDF FFF cream#2
+255-02	48	Insulin 70/30 (HUMAN) 30 U/30 U SC QAM/Qpm		DPN FFF insulin 70/30#1	DOSE FFF 30u/30u#5	RUT FFF sc#6	FREQ FFF qam#7	FREQ FFF qpm#7
+255-02	49	EXAM:		 
+255-02	50	VS 138/80  HR 72		 
+255-02	51	Neck No JVD No thyromegaly  No carotid bruits		 
+255-02	52	Cor RRR, S1S2, 2/6 sys M at RUSB		DIN FFF cor#0
+255-02	53	Lungs CTA bl, no crackles/wheezes		 
+255-02	54	Abd Soft NTND +BS		 
+255-02	55	Ext No c/c/e		 
+255-02	56	NEURO: PERRL.		 
+255-02	57	Facial asymmetry, unable to smile or raise eyebrow on L, tongue deviates to R.		 
+255-02	58	Strength 4/5 LUE extensors, o/w 5/5 throughout.		 
+255-02	59	Normal gait.		 
+255-02	60	Unchanged fr previous		 
+255-02	61	A/P:		 
+255-02	62	53F with MMP incl DM, high chol, depression, s/p TIA, noncompliance, for f/u		 
+255-02	63	1) Recent possible HIV exposure: Neg HIV and other STDs, need to recheck 6 mos after exposure in 12/65		 
+255-02	64	2) DM:		 
+255-02	65	--Now on Humulin 70/30 at 60qam and 30 qpm after off for several mos.		DBN FFF humulin 70/30#3	FREQ FFF qam#5	FREQ FFF qpm#8
+255-02	66	Last A1c was 13.9. --Cont glucophage 500 bid		DBN FFF glucophage#5	DOSE FFF 500#6	FREQ FFF bid#7
+255-02	67	--cont ASA, statin		DIN FFF asa#1
+255-02	67	--cont ASA, statin		DIN FFF statin#2
+255-02	68	--at next visit will schedule eye exam and recheck A1C		 
+255-02	69	3)NEURO-s/p CVA, did not f/u with neurology but will resched appt today.		 
+255-02	70	ASA 325 qd, Plavix 75 mg PO QD. 4)CV-Recent stress echo with low sensitivity given poor exercise tolerance but nondiagnostic of ischemia. HTN poorly controlled likely bc pt not compliant with meds.		DIN FFF asa#0	DOSE FFF 325#1	FREQ FFF qd#2
+255-02	70	ASA 325 qd, Plavix 75 mg PO QD. 4)CV-Recent stress echo with low sensitivity given poor exercise tolerance but nondiagnostic of ischemia. HTN poorly controlled likely bc pt not compliant with meds.		DBN FFF plavix#3	DOSE FFF 75mg#5	RUT FFF po#6	FREQ FFF qd#7	INDICATION FFF ischemia .#21	INDICATION FFF htn#22
+255-02	71	--Restart  Atenolol at 25 qd, likely need to titrate up, used to be on 100.		DIN FFF atenolol#1	FREQ FFF qd#4
+255-02	72	Cont  Lisinopril 20/HCTZ 25 qd.  --Cont Lipitor 40 mg qd, will check LFTs and lipid panel in 6-8 weeks		DIN FFF lisinopril#1	DOSE FFF 20#2
+255-02	72	Cont  Lisinopril 20/HCTZ 25 qd.  --Cont Lipitor 40 mg qd, will check LFTs and lipid panel in 6-8 weeks		DPN FFF hctz#2	FREQ FFF qd#4
+255-02	72	Cont  Lisinopril 20/HCTZ 25 qd.  --Cont Lipitor 40 mg qd, will check LFTs and lipid panel in 6-8 weeks		DBN FFF lipitor#6	DOSE FFF 40mg#8	FREQ FFF qd#9	DRT FFF 6-8 weeks#18
+255-02	73	--Cont ASA 325 qd		DIN FFF asa#1	DOSE FFF 325#2	FREQ FFF qd#3
+255-02	74	--Check EKG and resched adenosine MIBI which she has missed multiple times		DIN FFF adenosine#4
+255-02	75	--check chem 7 given recent restart BP meds		DBN FFF bp meds#7
+255-02	76	5)PSYCH-Depression.		 
+255-02	77	Cont Celexa to 40 qd 6)PULM-Asthma.		DBN FFF celexa#1	FREQ FFF qd#4

@@ -1,0 +1,42 @@
+279-05||1||Record date: 2094-07-02
+279-05||2||Problems
+279-05||3||coronary artery disease||INDICATION FFF coronary artery disease FFF 0 2||
+279-05||4||hypertension||INDICATION FFF hypertension FFF 0 0||
+279-05||5||hyperlipidemia||INDICATION FFF hyperlipidemia FFF 0 0||
+279-05||6||chronic obstructive pulmonary disease||INDICATION FFF obstructive pulmonary disease FFF 1 3||
+279-05||7||peripheral vascular disease||INDICATION FFF peripheral vascular disease FFF 0 2||
+279-05||8||peripheral edema : left ankle, doppler negative||INDICATION FFF edema FFF 1 1||
+279-05||9||anxiety||INDICATION FFF anxiety FFF 0 0||
+279-05||10||borderline diabetes mellitus||INDICATION FFF diabetes mellitus FFF 1 2||
+279-05||11||urinary tract infection : Reoccurrent||INDICATION FFF urinary tract infection FFF 0 2||
+279-05||12||S/P cardiac bypass graft surgery : 100% obstr of LPC and mid RCA, 70% obstr LAD on cath 11/92.||INDICATION FFF surgery FFF 4 4||DOSE FFF 100% FFF 6 6||DOSE FFF 70% FFF 13 13||
+279-05||13||Medications
+279-05||14||Ecotrin (ASPIRIN ENTERIC COATED) 325MG TABLET EC take 1 Tablet(s) PO QD , Take as directed||DBN FFF ecotrin FFF 0 0||DOSE FFF 325mg FFF 4 4||DIN FFF ec FFF 6 6||DOSEAMT FFF 1 tablet(s) FFF 8 9||RUT FFF po FFF 10 10||FREQ FFF qd FFF 11 11||INDICATION FFF as FFF 14 14||
+279-05||15||Ntg 1/150 (NITROGLYCERIN 1/150 (0.4 MG)) 1 TAB SL x1 , USE AS DIRECTED||DPN FFF ntg FFF 0 0||DOSEAMT FFF 1 tab FFF 6 7||RUT FFF sl FFF 8 8||FREQ FFF x1 FFF 9 9||INDICATION FFF as FFF 12 12||
+279-05||16||Nystatin POWDER TOPICAL TOP BID||DIN FFF nystatin FFF 0 0||RUT FFF topical FFF 2 2||RUT FFF top FFF 3 3||FREQ FFF bid FFF 4 4||
+279-05||17||Lipitor (ATORVASTATIN) 20MG TABLET take 1 Tablet(s) PO QD , Take as directed||DBN FFF lipitor FFF 0 0||DOSE FFF 20mg FFF 2 2||DOSEAMT FFF 1 tablet(s) FFF 5 6||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||INDICATION FFF as FFF 11 11||
+279-05||18||Acetaminophen W/CODEINE 30MG 1 TAB PO Q4H PRN pain , Take as directed||DOSE FFF 30mg FFF 2 2||DOSEAMT FFF 1 tab FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF q4h FFF 6 6||NEC FFF prn FFF 7 7||INDICATION FFF pain FFF 8 8||INDICATION FFF as FFF 11 11||
+279-05||19||Bactroban (MUPIROCIN) TOPICAL TOP BID||DBN FFF bactroban FFF 0 0||RUT FFF topical FFF 2 2||RUT FFF top FFF 3 3||FREQ FFF bid FFF 4 4||
+279-05||20||Plavix (CLOPIDOGREL) 75 MG PO QD||DBN FFF plavix FFF 0 0||DOSE FFF 75 mg FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF qd FFF 5 5||
+279-05||21||Lopressor (METOPROLOL TARTRATE) 50MG TABLET take 1 Tablet(s) PO BID||DBN FFF lopressor FFF 0 0||DOSE FFF 50mg FFF 3 3||DOSEAMT FFF 1 tablet(s) FFF 6 7||RUT FFF po FFF 8 8||FREQ FFF bid FFF 9 9||
+279-05||22||Nexium (ESOMEPRAZOLE) 40MG CAPSULE EC take 1 Capsule(s) PO QD||DBN FFF nexium FFF 0 0||DOSE FFF 40mg FFF 2 2||DIN FFF ec FFF 4 4||DOSEAMT FFF 1 capsule(s) FFF 6 7||RUT FFF po FFF 8 8||FREQ FFF qd FFF 9 9||
+279-05||23||Avapro (IRBESARTAN) 150MG TABLET take 1 Tablet(s) PO QD||DBN FFF avapro FFF 0 0||DOSE FFF 150mg FFF 2 2||DOSEAMT FFF 1 tablet(s) FFF 5 6||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||
+279-05||24||Clonazepam 0.5MG TABLET take 1 Tablet(s) PO BID PRN anxiety||DIN FFF clonazepam FFF 0 0||DOSE FFF 0.5mg FFF 1 1||DOSEAMT FFF 1 tablet(s) FFF 4 5||RUT FFF po FFF 6 6||FREQ FFF bid FFF 7 7||NEC FFF prn FFF 8 8||INDICATION FFF anxiety FFF 9 9||
+279-05||25||Procardia XL (NIFEDIPINE (SUSTAINED RELEA... 60 MG (60MG TABLET take 1) PO QD||DBN FFF procardia xl FFF 0 1||DOSE FFF 60 mg FFF 5 6||DOSE FFF (60mg FFF 7 7||RUT FFF po FFF 11 11||FREQ FFF qd FFF 12 12||
+279-05||26||Furosemide 40MG TABLET take 1 Tablet(s) PO BID||DIN FFF furosemide FFF 0 0||DOSE FFF 40mg FFF 1 1||DOSEAMT FFF 1 tablet(s) FFF 4 5||RUT FFF po FFF 6 6||FREQ FFF bid FFF 7 7||
+279-05||27||Kcl SUSTAINED RELEASE ( 20MEQ TABLET CR take 2 Tablet(s) PO QD , take 2 tabs in am and 2 tab in pm||DIN FFF kcl FFF 0 0||DOSE FFF 20meq FFF 4 4||DOSEAMT FFF 2 tablet(s) FFF 8 9||RUT FFF po FFF 10 10||FREQ FFF qd FFF 11 11||DOSEAMT FFF 2 tabs FFF 14 15||TOD FFF am FFF 17 17||DOSEAMT FFF 2 tab FFF 19 20||TOD FFF pm FFF 22 22||
+279-05||28||Follow up visit.
+279-05||29||Doing well, lives alone, independent with ADL's.
+279-05||30||Has nocturia X 5, urinates 3-4 X during the day.||FREQ FFF x 5, FFF 2 3||DRT FFF during FFF 7 7||
+279-05||31||Has 1 c tea qd, no coffee or ETOH.||FREQ FFF qd, FFF 4 4||
+279-05||32||Drinks 5 bottles of water qd, 16 oz cranberry juice.||DOSEAMT FFF 5 bottles FFF 1 2||FREQ FFF qd, FFF 5 5||DIN FFF cranberry juice. FFF 8 9||
+279-05||33||Never started macrobid.  Denies CP, SOB, GI sx.||DBN FFF macrobid. FFF 2 2||INDICATION FFF cp, FFF 4 4||INDICATION FFF sob, FFF 5 5||
+279-05||34||Quit smoking 11/92.
+279-05||35||Walks 30 min qd.||FREQ FFF qd. FFF 3 3||
+279-05||36||PE:  NAD P 60 reg  BP 148/70 after rest 154/70||INDICATION FFF pe: FFF 0 0||INDICATION FFF bp FFF 5 5||
+279-05||37||Throat- neg
+279-05||38||Neck- no adenopathy or thyromegaly||INDICATION FFF thyromegaly FFF 4 4||
+279-05||39||Lungs- Clear to P and a
+279-05||40||cor- reg S1S2 no m,r,g||DIN FFF cor- FFF 0 0||
+279-05||41||Breasts- no mass bilat
+279-05||42||Abd- soft, active BS, no mass, tenderness, organomegaly||INDICATION FFF bs, FFF 3 3||

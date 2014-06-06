@@ -1,0 +1,123 @@
+255-03	1	0	Record date: 2066-09-16
+255-03	2	0	51 yo F with HTN, DM, CAD, gastritis, depression, s/p CVA returns for f/u.
+255-03	3	0	Pt reports that she has not been taking any medications for one month.
+255-03	4	0	She left for Poland for two months and ran out of medications.
+255-03	5	0	Pt reprots her sugars have been in the 400-500.
+255-03	6	0	Pt reports numbness of both feet, and the loss of her her toe nails.
+255-03	7	0	
+255-03	8	0	Very noncompliant with meds and appts
+255-03	9	0	Also c/o thick, cottage cheesy vaginal d/c and itch.
+255-03	10	0	Problems
+255-03	11	0	HTN
+255-03	12	0	DM
+255-03	13	0	CAD:
+255-03	14	0	-EKG with LVH and repol abnlity.
+255-03	15	0	-Stress echo () Limited, only able to walk 0'47".
+255-03	16	0	MHR 122 (72%predicted), BP 230/100.
+255-03	17	0	Stopped 2/2 dizziness, SOB and SSCP.
+255-03	18	0	EKG shwed 1 mm ST depressions in II, III, F, V5-6.
+255-03	19	0	Read as c/w but not diagnostic of ischemia.
+255-03	20	0	Echo showed baseline EF of 60% with no RWMA.
+255-03	21	0	After exercise there was minor nonspecific inferoposterior WMA.
+255-03	22	0	Read as no evidence of inducible ischenia (but low sensitivity 2/2 low MHR)
+255-03	23	0	HX OF GASTRITIS BY UGIS H PYLORI +
+255-03	24	0	S/P TAH 2/2 FIBROIDS
+255-03	25	0	OA
+255-03	26	0	Depression
+255-03	27	0	Asthma
+255-03	28	0	s/p CVA
+255-03	29	0	Medications
+255-03	30	0	Humulin 70/30 60 UNITS qpm x 30 days
+255-03	31	0	Insulin REGULAR HUMAN 3 UNITS SC AC+HS , use per sliding scale-2U if 150-200, 4U if 200-250, 6U 250-300, 8U 300-350
+255-03	32	0	Protonix (PANTOPRAZOLE) 40MG TABLET EC take 1 Tablet(s) PO QD
+255-03	33	0	Trazodone 50MG TABLET take 1 Tablet(s) PO qhs PRN insomna
+255-03	34	0	Naprosyn (NAPROXEN) 500MG TABLET take 1 Tablet(s) PO BID
+255-03	35	0	Polytrim (TRIMETHOPRIM/POLYMYXIN B SULFATE) 1 DROP OU Q4-6H x 7 days
+255-03	36	0	Proventil INH 2 PUFFS INH Q 6 H PRN SOB , PRN: SOB/WHEEZING
+255-03	37	0	Azmacort INH 2 PUFF AER BID
+255-03	38	0	Glucophage 500 MG PO BID
+255-03	39	0	Lipitor 40 MG PO QD
+255-03	40	0	Zestoretic (LISINOPRIL/HYDROCHLOROTHIAZIDE) 20-25 TABLET take 1 Tablet(s) PO QD
+255-03	41	0	Ecasa (ASPIRIN ENTERIC COATED) 325MG TABLET EC take 1 Tablet(s) PO QD
+255-03	42	0	Clarinex (DESLORATADINE) 5MG TABLET take 1 Tablet(s) PO QD
+255-03	43	0	Plavix (CLOPIDOGREL) 75 MG PO QD
+255-03	44	0	Paxil (PAROXETINE) 20 MG (20MG TABLET take 1) PO QD
+255-03	45	0	Atenolol 50 MG (50MG TABLET take 1) PO QD
+255-03	46	0	Flucoconzole 150 MG PO x1 x 1 day
+255-03	47	0	Lotrimin 1% CREAM (CLOTRIMAZOLE 1% CREAM) 1 APPLICATION TOP QD , apply to vaginal area (external) qd prn itch
+255-03	48	0	Insulin 70/30 (HUMAN) 30 U/30 U SC QAM/Qpm
+255-03	49	0	.. of note , pt is not taking any of her medications.
+255-03	50	0	EXAM:
+255-03	51	0	Vital Signs
+255-03	52	0	BP 170/86, P 86, Wt 154 lb
+255-03	53	0	Neck No JVD No thyromegaly
+255-03	54	0	Cor RRR, S1S2, 2/6 sys M at RUSB
+255-03	55	0	Lungs CTA bl, no crackles/wheezes
+255-03	56	0	Abd Soft NTND +BS
+255-03	57	0	Ext No c/c/e
+255-03	58	0	NEURO: PERRL.
+255-03	59	0	Facial asymmetry, unable to smile or raise eyebrow on L, tongue deviates to R.
+255-03	60	0	Strength 4/5 LUE extensors, o/w 5/5 throughout.
+255-03	61	0	Loss of sensation
+255-03	62	0	Normal gait.
+255-03	63	0	Unchanged fr previous
+255-03	64	0	Results
+255-03	65	0	Date/Time         NA             K              CL             CO2
+255-03	66	0	05/08/2066                       4.2
+255-03	67	0	05/06/2066        134 (*)        4.2            97 (*)         28
+255-03	68	0	05/01/2066        137            3.4 (*)        96 (*)         33 (*)
+255-03	69	0	Date/Time         BUN            CRE            GLU            ANION
+255-03	70	0	05/08/2066                       0.9
+255-03	71	0	05/06/2066        13             0.7            285 (*)        9
+255-03	72	0	05/01/2066        19             0.8            187 (*)        8
+255-03	73	0	Date/Time         CA             TBILI          TP             ALB
+255-03	74	0	05/06/2066        9.6
+255-03	75	0	05/01/2066        9.5            0.3            7.2            3.8
+255-03	76	0	Date/Time         GLOB
+255-03	77	0	05/01/2066        3.4
+255-03	78	0	Date/Time         ALT/SGPT       AST/SGOT       ALKP           TBILI
+255-03	79	0	05/01/2066        15             16             89             0.3
+255-03	80	0	Date/Time         CHOL           TRIG           HDL            LDLCAL
+255-03	81	0	05/08/2066        272 (*)        301 (*)        46             166 (*)
+255-03	82	0	Date/Time         VLDL
+255-03	83	0	05/08/2066        60
+255-03	84	0	Date/Time         MALB           MALB/CRE
+255-03	85	0	05/08/2066        9.8 (*)        59.8 (*)[1]
+255-03	86	0	Date/Time         UTIME
+255-03	87	0	05/08/2066        RANDOM
+255-03	88	0	Date/Time         UTIME          U/UCRE
+255-03	89	0	05/08/2066        RANDOM         163.9
+255-03	90	0	Date/Time         WBC            RBC            HGB            HCT
+255-03	91	0	05/01/2066        10.40 (*)      4.29           13.3           37.6
+255-03	92	0	Date/Time         MCV            MCH            MCHC           PLT
+255-03	93	0	05/01/2066        87.6           31.1           35.5           302
+255-03	94	0	Date/Time         RDW
+255-03	95	0	05/01/2066        12.4
+255-03	96	0	Date/Time         %POLY-A        %LYMPH-A       %MONO-A        %EOS-A
+255-03	97	0	05/01/2066        65.5           29             4.2 (#)        0.9
+255-03	98	0	Date/Time         %BASO-A
+255-03	99	0	05/01/2066        0.4
+255-03	100	0	Date/Time         ANEUT-A        ALYMP-A        AMONO-A        AEOS-A
+255-03	101	0	05/01/2066        6.81           3.01           0.44           0.09
+255-03	102	0	Date/Time         ABASO-A
+255-03	103	0	05/01/2066        0.04
+255-03	104	0	[1] RESULT COMMENT:   Units = mg Alb/g Cre
+255-03	105	0	A/P:
+255-03	106	0	53F with MMP incl DM, high chol, depression, s/p TIA, noncompliance, for f/u
+255-03	107	0	1) Recent possible HIV exposure: Neg HIV and other STDs, pt did not return for recheck 6 mos after exposure in 12/65, pt will think about re testing adn decide at next visit
+255-03	108	0	2) DM:  Humulin 70/30 at 70qam and 30 qpm after off for several mos.
+255-03	109	0	Last A1c was 13.9. 5/23,  -- seeB. Jamiesonfor insulin titration.
+255-03	110	0	--Cont glucophage 500 bid
+255-03	111	0	--cont ASA, statin
+255-03	112	0	--referred to opthamology
+255-03	113	0	3)NEURO-s/p CVA, needs to f/u with neuro given this light headedness she feels, which she thinks is how she felt before the last CVA.
+255-03	114	0	ASA 325 qd,will refer to Neurology at next visit. 4)CV-Recent stress echo with low sensitivity given poor exercise tolerance but nondiagnostic of ischemia. HTN poorly controlled likely bc pt not compliant with meds.
+255-03	115	0	.- Will schedule MIBI again.
+255-03	116	0	--BP elevated: Atenolol 50 Cont Zestoretic.
+255-03	117	0	Will see NP in 1 wk and may need further incr in Atenolol (used to be on 100) --Cont Lipitor 40 mg qd, Lipids continue to be elevated, will recheck in 3 months
+255-03	118	0	--Cont ASA 325 qd
+255-03	119	0	5)PSYCH-Depression, doing well fr this.
+255-03	120	0	Cont Celexa to 40 qd 6)PULM-Asthma.
+255-03	121	0	Cont albuterol and asthmacort 7)GI-GERD.
+255-03	122	0	Cont Protonix 8)Heme: Hct 37 and MCV
+255-03	123	0	9)Vaginal candidiasis: Diflucan 150 x1

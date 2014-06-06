@@ -1,0 +1,5 @@
+362-03	8	0	ETT 11/11/73:  7'8    on SBP, typical CP, nondiagnostic ECG changes interpreted as c/w but not diagnostic of ischemia.	ecg FFF 8 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+362-03	15	438	Meds:  aspirin 81mg qd, metformin 850mg bid, nifedipine.	aspirin FFF 1 1	81mg FFF 2 2	 FFF 	qd, FFF 3 3	 FFF 	 FFF 	narrative
+362-03	15	438	Meds:  aspirin 81mg qd, metformin 850mg bid, nifedipine.	metformin FFF 4 4	850mg FFF 5 5	 FFF 	bid, FFF 6 6	 FFF 	 FFF 	narrative
+362-03	15	438	Meds:  aspirin 81mg qd, metformin 850mg bid, nifedipine.	nifedipine. FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+362-03	16	438	Contrast allergy in record (details unknown), intolerant of lisinopril.	lisinopril. FFF 8 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

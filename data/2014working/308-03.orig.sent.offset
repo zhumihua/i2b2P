@@ -1,0 +1,7 @@
+308-03	13	438	MEDS: ASA, Metformin, Glyberide, Tegretol, Fosinoperil, Lipitor, HCTZ	asa, FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+308-03	13	438	MEDS: ASA, Metformin, Glyberide, Tegretol, Fosinoperil, Lipitor, HCTZ	metformin, FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+308-03	13	438	MEDS: ASA, Metformin, Glyberide, Tegretol, Fosinoperil, Lipitor, HCTZ	tegretol, FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+308-03	13	438	MEDS: ASA, Metformin, Glyberide, Tegretol, Fosinoperil, Lipitor, HCTZ	lipitor, FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+308-03	13	438	MEDS: ASA, Metformin, Glyberide, Tegretol, Fosinoperil, Lipitor, HCTZ	hctz FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+308-03	29	0	Plantar response is flexor on right and extensor on left.	flexor FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+308-03	32	0	MRI Brain (9/25/75)     DWI bright ADC dark right lateral medullary pyramid with associated increased T2 signal.	adc FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

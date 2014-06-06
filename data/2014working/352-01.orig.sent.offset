@@ -1,0 +1,12 @@
+352-01	9	0	She was seen by her primary care physician, who  treated her with Biaxin.	biaxin. FFF 12 12	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+352-01	10	0	The patient took the Biaxin; however, she  developed some epigastric abdominal pain on Tuesday.	biaxin; FFF 4 4	 FFF 	 FFF 	on Tuesday. FFF 12 13	 FFF 	 FFF 	narrative
+352-01	12	0	Biaxin reaction.	biaxin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+352-01	13	0	She was told to discontinue the Biaxin on Thursday.	biaxin FFF 6 6	 FFF 	 FFF 	on Thursday. FFF 7 8	 FFF 	 FFF 	narrative
+352-01	33	438	MEDICATIONS:  Albuterol inhaler; glucophage; insulin; codeine.	albuterol inhaler; FFF 1 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+352-01	33	438	MEDICATIONS:  Albuterol inhaler; glucophage; insulin; codeine.	glucophage; FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+352-01	33	438	MEDICATIONS:  Albuterol inhaler; glucophage; insulin; codeine.	insulin; FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+352-01	33	438	MEDICATIONS:  Albuterol inhaler; glucophage; insulin; codeine.	codeine. FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+352-01	60	0	Maalox and 150 mg of Axid, which seemed to improve her pain	maalox FFF 0 0	150 mg FFF 2 3	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+352-01	60	0	Maalox and 150 mg of Axid, which seemed to improve her pain	axid, FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+352-01	69	0	She was given a  prescription for Axid and for Maalox.	axid FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+352-01	69	0	She was given a  prescription for Axid and for Maalox.	maalox. FFF 9 9	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

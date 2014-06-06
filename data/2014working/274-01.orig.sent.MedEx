@@ -1,0 +1,56 @@
+274-01	1	Record date: 2077-10-11		 
+274-01	2	PINELLAS EMERGENCY DEPT VISIT		 
+274-01	3			 
+274-01	4	ICKES,WILLIAM JR   810-71-62-8		 
+274-01	5	PRESENTING COMPLAINT: This is a 70-year-old man who presented by		 
+274-01	6	ambulance with epigastric pain.		 
+274-01	7	HISTORY OF PRESENTING COMPLAINT: This is a 70-year-old man who		 
+274-01	8	presented with some chest pain and chest pressure after breakfast  this morning.		 
+274-01	9	He took a walk at about 11:30.		 
+274-01	10	The pain got  intense, he went back home, called and ambulance and presented  here.		 
+274-01	11	The patient presents here now and, after being put in the  room emergently, became pale and diaphoretic and clammy with mild  hypertension and an EKG showing an acute MI.		 
+274-01	12	There is ST elevation  in inferior leads and lateral leads and ST depression in anterior  leads.		 
+274-01	13	The patient was immediately given aspirin, beta blocker and  heparinized as well as a nitro drip.		DIN FFF aspirin#5
+274-01	13	The patient was immediately given aspirin, beta blocker and  heparinized as well as a nitro drip.		DIN FFF beta blocker#7	INDICATION FFF as#10	INDICATION FFF as#12	RUT FFF drip#15
+274-01	14	The second EKG showed some  resolving of his ST elevation and ST depression.		 
+274-01	15	His pain has  subsided now to about a 1/10.		 
+274-01	16	Blood pressure 102/56, pulse rate of  58.		 
+274-01	17	Chest x-ray, portable, was done and is also pending.		 
+274-01	18	Cardiology is aware.		 
+274-01	19	The cath lab team has been called and has  been mobilized immediately.		 
+274-01	20	Medications that he has gotten so far  are aspirin, morphine sulfate, nitro paste, sublingual  nitroglycerine.		DIN FFF aspirin#8
+274-01	20	Medications that he has gotten so far  are aspirin, morphine sulfate, nitro paste, sublingual  nitroglycerine.		DIN FFF morphine sulfate#10
+274-01	20	Medications that he has gotten so far  are aspirin, morphine sulfate, nitro paste, sublingual  nitroglycerine.		DPN FFF nitro paste#12	RUT FFF sublingual#13
+274-01	20	Medications that he has gotten so far  are aspirin, morphine sulfate, nitro paste, sublingual  nitroglycerine.		DIN FFF nitroglycerine#14
+274-01	21	He is currently on an IV nitroglycerine drip.		RUT FFF iv#5	DIN FFF nitroglycerine#6	RUT FFF drip#7
+274-01	22	Three IV lines have been placed.		 
+274-01	23	Portable chest x-ray done.		 
+274-01	24	Cards  fellow is here and the cath team is aware.		 
+274-01	25	PAST MEDICAL HISTORY: Only significant for hypertension.		 
+274-01	26	MEDICATIONS: Atenolol for his blood pressure medicine and recently  put on quinine sulfate for pain in his legs.		DIN FFF atenolol#1	INDICATION FFF blood pressure#5
+274-01	26	MEDICATIONS: Atenolol for his blood pressure medicine and recently  put on quinine sulfate for pain in his legs.		DIN FFF quinine sulfate#12	INDICATION FFF pain#14
+274-01	27	REVIEW OF SYSTEMS: Otherwise negative.		 
+274-01	28	Never had any angina, never  had an acute MI and never had any pain like this before.		 
+274-01	29	He denies  any interscapular pain and denies any other problems or  complications at this point.		 
+274-01	30	PHYSICAL EXAMINATION: Lungs are clear.		 
+274-01	31	Cardiac exam: No murmurs  heard, no rubs or gallops.		 
+274-01	32	No JVD, no bruits heard.		 
+274-01	33	Abdomen is  soft and nontender.		 
+274-01	34	Rectal exam: Guaiac-negative with normal tone.		 
+274-01	35	THERAPY RENDERED/COURSE IN ED: Currently in stable condition.		 
+274-01	36	Blood pressure normal.		 
+274-01	37	Oxygen saturation 95% and a pulse rate of  58.		 
+274-01	38	He received 2.5 of Lopressor and is almost pain free at this  point and doing well.		DBN FFF lopressor#4	INDICATION FFF pain#8
+274-01	39	Seen by the cards fellow.		 
+274-01	40	Cath lab team  mobilized.		 
+274-01	41	The patient is going to the cath lab.		 
+274-01	42	FINAL DIAGNOSIS: Acute MI.		 
+274-01	43	DISPOSITION (including condition upon discharge): Family member has  been called and message was left for his wife on her machine.		 
+274-01	44	She  is probably on the way to the hospital and we will inform her.		DIN FFF inform#12
+274-01	45	Condition stable.		 
+274-01	46	DIAGNOSIS: Acute MI in a 70-year-old male, going to the cath lab.		 
+274-01	47	___________________________________                    EC508/03905		 
+274-01	48	PAUL VALENTINE, M.D.   PV46                               D:10/11/77		 
+274-01	49	T:10/11/77		 
+274-01	50	Dictated by:  PAUL VALENTINE, M.D.   PV46		 
+274-01	51	******** Not reviewed by Attending Physician ********		 

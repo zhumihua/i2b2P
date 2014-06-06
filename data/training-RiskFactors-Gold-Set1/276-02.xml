@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2060-07-28
+
+
+
+
+GIPSON, ALEC
+32707420
+07/28/2060
+
+
+Vernon Lozano, M.D.
+CV Division, Ireton Medical Clinic
+91 Neptune Lane
+Abilene, FL  81494
+
+Dear Vernon,
+
+I write to summarize for your records the recent IMC course of your patient, Dr. Alec Gipson, who was admitted to our cardiology service on 07/25/2060 with progressive angina and a small, non-ST elevation MI.  His cardiac troponin rose to 0.13.  There were no demonstrable ECG changes, though we queried the possibility of a left circumflex event.  He had been previously scheduled for semi-urgent catheterization and angiography on 07/26/2060.
+
+His condition stabilized with institution of anti-thrombotic and anti-ischemic therapy.  He was taken to the catheterization laboratory by Dr. Otero on 07/26/2060.  Angiography demonstrated a high-grade lesion in the proximal portion of a large first diagonal branch, as well as a significant stenosis in the first obtuse marginal branch.  The diagonal lesion was managed with angioplasty and deployment of a drug-eluting stent.  A drug-eluting stent could not be delivered to the obtuse marginal lesion; a bare-metal stent was positioned without difficulty.  He did have smoldering chest discomfort of an anginal nature following the procedure.  The cardiac troponin elevated further to a peak value of 0.86 as of 07/27/2060 (08:54).  He also had a mild, vagal reaction characterized by flushing and transient bradycardia.
+
+He felt much improved the following day.  A repeat cardiac troponin returned at a lower level of 0.75.  An abdominal ultrasound showed no evidence of an AAA.  After consultation with you, we felt that he could return home, under the care of his wife.
+
+He was discharged on the afternoon of 07/27/2060.  His medications included Ecotrin 325 mg daily, clopidogrel 75 mg daily, losartan 100 mg daily, metformin 500 mg b.i.d., Toprol-XL 50 mg b.i.d., niacin 500 mg b.i.d., ramipril 2.5 mg daily, and nitroglycerin if needed.
+
+Please let me know if I can provide you with any further information.
+
+Sincerely yours,
+
+
+______________________________
+Victor Quijano, M.D.
+
+
+
+
+
+eScription document:6-5332849 DFFocus
+
+
+
+DD: 07/28/60
+DT: 07/29/60
+DV: 07/28/60
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="before DCT" type1="niacin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC5" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC7" time="during DCT" type1="niacin" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC10" time="during DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC12" time="after DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC15" time="after DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC16" time="after DCT" type1="niacin" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC19" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC20" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC21" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC24" time="before DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC25" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC26" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC27" time="during DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC28" time="before DCT" type1="ARB" type2=""/>
+    <CAD id="DOC11" time="before DCT" indicator="test"/>
+    <CAD id="DOC22" time="before DCT" indicator="event"/>
+    <CAD id="DOC23" time="before DCT" indicator="symptom"/>
+    <FAMILY_HIST id="DOC18" indicator="not present"/>
+    <SMOKER id="DOC14" status="unknown"/>
+  </TAGS>
+</root>

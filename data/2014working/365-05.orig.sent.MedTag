@@ -1,0 +1,76 @@
+365-05	1	Record date: 2076-02-17	
+365-05	2	Internal Medicine Admission Note	
+365-05	3	Patient Name: Rivers, Karsten	
+365-05	4	MRN (HH):		INDICATION FFF hh#1
+365-05	5	32054233	
+365-05	6	Attending: Dr.	
+365-05	7	Gilmore	
+365-05	8	CC    Ulcer on right outer foot x 2 days		TOD FFF cc#0	INDICATION FFF ulcer#1	DRT FFF x 2 days#8
+365-05	9	HPI	
+365-05	10	49 year old man with longstanding diabetes and neuropathy presented to HH ED for  right foot ulcer.		DRT FFF 49 year#1	INDICATION FFF diabetes#6	INDICATION FFF neuropathy#8	INDICATION FFF hh#11	INDICATION FFF ed#12	INDICATION FFF foot ulcer#16
+365-05	11	Patient reports that 2 days ago, when he clean his feet, he noticed a piece of skin detached from his right outer foot.		DRT FFF 2 days#4
+365-05	12	He removed the skin and cleaned the wound with alcohol swab and dressed with bind aid.		INDICATION FFF wound#7	DBN FFF alcohol swab#10
+365-05	13	He did not note any injury to his foot, did not find any foreign object in his shoes.	
+365-05	14	He does recall that 5 days ago, his daughter broke a vase but he did not  step on it.		DRT FFF 5 days#5
+365-05	15	The next day, he noticed right groin  pain and felt a lump in the area.		INDICATION FFF pain#7	DOSEAMT FFF a lump#11
+365-05	16	The right foot became warmer and more painful.		INDICATION FFF painful#7
+365-05	17	He however denies any chills, fever, shaking or diaphoresis.		INDICATION FFF fever#5	INDICATION FFF shaking#6
+365-05	18	He has been diagnosed with DM for more than 20 years, was on insulin and had constant high blood glucose (&gt;600) most of the time before the gastric bypass surgery.		INDICATION FFF dm#5	DRT FFF 20 years#10	DIN FFF insulin#13	INDICATION FFF high blood glucose#19	RUT FFF gt#20	INDICATION FFF surgery#29
+365-05	19	He has neuropathy for more than 10 years.		INDICATION FFF neuropathy#2	DRT FFF 10 years#7
+365-05	20	He had laparoscopic Roux-en-Y on 06/08/2074.	
+365-05	21	His weight lost from 435 lbs before the Sx to 275 lbs.		INDICATION FFF weight#1	INDICATION FFF the sx#8
+365-05	22	He is no longer on insulin.		DIN FFF insulin#5
+365-05	23	Current hypoglycemic regimen includes metformin 850 mg daily.		DIN FFF hypoglycemic#1	DIN FFF metformin#4	DOSE FFF 850mg#6	FREQ FFF daily#7
+365-05	24	Last A1C was less than 7.	
+365-05	25	He reports dry cough and he attributes to lisinopril.		INDICATION FFF cough#3	DIN FFF lisinopril#8
+365-05	26	In ED, he was given morphine for pain and vancomycin iv for infection.		INDICATION FFF ed#1	DIN FFF morphine#5	INDICATION FFF pain#7	DIN FFF vancomycin#9	RUT FFF iv#10	INDICATION FFF infection#12
+365-05	27	Blood culture sent before given antibiotics.		DIN FFF antibiotics#5
+365-05	28	PMH	
+365-05	29	DM		INDICATION FFF dm#0
+365-05	30	Obesity s/p Roux-en-Y		INDICATION FFF obesity#0
+365-05	31	Right renal cancer s/p partial nephrectomy		INDICATION FFF cancer#2
+365-05	32	HTN		INDICATION FFF htn#0
+365-05	33	Diabetic neuropathy		INDICATION FFF diabetic neuropathy#1
+365-05	34	Family History:	
+365-05	35	Renal failure in father		INDICATION FFF renal failure#1
+365-05	36		
+365-05	37	Habits	
+365-05	38	Denies smoking, ex-smoker, quit 6 years ago		DRT FFF 6 years#5
+365-05	39	Social ETOH	
+365-05	40	Denies recreational drugs		DIN FFF drugs#2
+365-05	41		
+365-05	42	Social History:	
+365-05	43	Occupation    Floor Covering Installer	
+365-05	44	Married, lives with spouse and children	
+365-05	45		
+365-05	46	Medications	
+365-05	47	Caltrate Plus D(600MG/400IU) (CALCIUM 600mg + Vitamin D(400IU)) 1 TAB PO BID		DBN FFF caltrate plus#1	DOSE FFF 600mg/400iu#2	DIN FFF vitamin d#7	DOSE FFF 400iu#7	DOSEAMT FFF 1 tab#9	RUT FFF po#10	FREQ FFF bid#11
+365-05	48	Labetalol Hcl 300 MG (300MG TABLET Take 1) PO BID x 90 days #180 Tablet(s)		DIN FFF labetalol hcl#1	DOSE FFF 300mg#3	DOSE FFF 300mg#4	RUT FFF po#8	FREQ FFF bid#9	DRT FFF x 90 days#12
+365-05	49	Lasix (FUROSEMIDE) 80 MG (80 MG TABLET Take 1) PO BID #1 Month(s) Supply		DBN FFF lasix#0	DOSE FFF 80mg#3	DOSE FFF 80mg#5	RUT FFF po#9	FREQ FFF bid#10
+365-05	50	Lisinopril 20 MG (20 MG TABLET Take 1) PO QD #Tablet(s)		DIN FFF lisinopril#0	DOSE FFF 20mg#2	DOSE FFF 20mg#4	RUT FFF po#8	FREQ FFF qd#9
+365-05	51	Miconazole Nitrate 2% Powder 1 APPLICATION (2% POWDER ) TOP TID #1 month(s) SupplyOmeprazole 20 MG (20 MG CAPSULE DR Take 1) PO BID #60 Tablet(s)		DPN FFF miconazole nitrate 2 % powder#3	DOSEAMT FFF 1 application#5	DOSE FFF 2%#6	RUT FFF top#9	FREQ FFF tid#10	DOSE FFF 20mg#15	DOSE FFF 20mg#17	RUT FFF po#22	FREQ FFF bid#23
+365-05	52		
+365-05	53	Allergies		INDICATION FFF allergies#0
+365-05	54	Penicillins - Rash		DBN FFF penicillins#0
+365-05	55	ROS	
+365-05	56	Negative except noted in HPI	
+365-05	57	Physical Examination	
+365-05	58	Vitals: BP 142/67, HR 87, R 18, T 99, O2 sat 99 rm air		INDICATION FFF bp#1	INDICATION FFF t#7
+365-05	59	Patient is in no apparent distress, good attention to hygiene and body habitus.	
+365-05	60	Oriented to person, place and time. obese. Mood normal and appropriate to situation.		INDICATION FFF obese#6
+365-05	61	Eyes: EOMI	
+365-05	62	HEENT:  NC/AT	
+365-05	63	Neck:  Supple.No JVD.	
+365-05	64	Thyroid is palpable with normal size and consistency.	
+365-05	65	Respiratory:  Auscultation of lungs reveal clear lung fields.	
+365-05	66	Cardiovascular:  Heart auscultation reveals normal S1 and S2 and no murmurs.	
+365-05	67	Abdomen: Abdomen soft, nontender, bowel sounds present, no palpable masses.	
+365-05	68	Neurological Examination: No focal deficit.	
+365-05	69	DTR WNL	
+365-05	70	Extremity exam: +Right foot shallow ulcer with right foot erythema, warm and tender.		INDICATION FFF ulcer#5	INDICATION FFF erythema#9
+365-05	71	Right groin enlarged and tender lymph node	
+365-05	72	ResultsDate/Time         NA             K              CL             CO2            02/17/2076        137            3.8            100            30 (H)         Date/Time         BUN            CRE            EGFR           GLU            02/17/2076        24 (H)         1.32 (H)       &gt; 60           177 (H)        Date/Time         ANION          02/17/2076        8              Date/Time         CA             TBILI          TP             ALB            02/17/2076        9.0            0.6            6.8            4.0            Date/Time         ALT/SGPT       AST/SGOT       ALKP           TBILI          02/17/2076        10             15             110            0.6            Date/Time         UACET          02/17/2076        NEGATIVE       Date/Time         WBC            RBC            HGB            HCT            02/17/2076        13.6 (H)       4.30 (L)       11.9 (L)       35.2 (L)       Date/Time         MCV            MCH            MCHC           PLT            02/17/2076        82             27.7 (L)       33.9           237            Date/Time         RDW            02/17/2076        13.4           Date/Time         %NEUT          %MONO          %EOS           %BASO          02/17/2076        82.0 (H)       4.1            1.4            0.3            Date/Time         %LYMPH-M       02/17/2076        12.2 (L)       Date/Time         UA-COLOR       UA-APP         UA-GLUC        UA-BILI        02/17/2076        YELLOW         CLEAR          NEGATIVE       NEGATIVE       Date/Time         UR-SPGR        UA-BLD         UA-PH          UA-PROT        02/17/2076        1.019          NEGATIVE       5.0            TRACE (H)      Date/Time         UA-UROBI       UA-NIT         UA-WBC         02/17/2076        1.0            NEGATIVE       NEGATIVE       EKG: NSR at 77 BPM.		DIN FFF na#1	INDICATION FFF k#2	INDICATION FFF cl#3	DIN FFF glu#15	DOSE FFF 02/17#16	RUT FFF gt#21	INDICATION FFF ca#30	INDICATION FFF tp#32	DIN FFF alb#33	DOSE FFF 02/17#34
+365-05	73	No st elevation		INDICATION FFF st elevation#2
+365-05	74	CXR: No infiltrates	
+365-05	75	Right foot x-ray: No sigh suggest osteomyelitis		INDICATION FFF osteomyelitis#6
+365-05	76	Assessment:	

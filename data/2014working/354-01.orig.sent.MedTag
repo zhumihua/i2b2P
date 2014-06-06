@@ -1,0 +1,64 @@
+354-01	1	Record date: 2094-09-18	
+354-01	2	EDVISIT^11289501^FAY, BROOK^9/18/2094^XAYSANA, YUSEF	
+354-01	3	I confirm that I have interviewed and examined the patient,	
+354-01	4	reviewed the resident's documentation on the patient's chart, and	
+354-01	5	discussed the evaluation, plan of care, and disposition with the	
+354-01	6	patient and the resident, Dr.	
+354-01	7	Vanburen.	
+354-01	8	Please see his note for full details.	
+354-01	9	HISTORY OF PRESENT ILLNESS:  A 67-year-old female who presents to	
+354-01	10	triage complaining of substernal chest pain, diaphoretic.		INDICATION FFF substernal chest pain#5
+354-01	11	Triage note states that she is complaining of substernal chest pain radiating to the neck with this and diaphoresis.		INDICATION FFF substernal chest pain#10
+354-01	12	She is cool and pale.	
+354-01	13	Her triage vital signs showed pulse of 148, up to 180s.	
+354-01	14	She was tachypneic.	
+354-01	15	Her blood pressure was unobtainable and her sats were 90% on room air.		INDICATION FFF her blood pressure#2	DIN FFF sats#7	DOSE FFF 90%#9
+354-01	16	She is hypoxic.	
+354-01	17	She was afebrile, temperature 96.		INDICATION FFF temperature#3
+354-01	18	She was immediately brought back to room.	
+354-01	19	At that time, she complained of palpitations, diaphoresis, and chest pain since 10 p.m.  She has had no history of an MI.		INDICATION FFF chest pain#10	TOD FFF p.m#13	INDICATION FFF mi#21
+354-01	20	PAST MEDICAL HISTORY:  She does have history of hypertension,		INDICATION FFF hypertension#8
+354-01	21	diabetes, and hypercholesterolemia.		INDICATION FFF diabetes#0	INDICATION FFF hypercholesterolemia#2
+354-01	22	SOCIAL HISTORY:  She denies any tobacco or IV drugs or any other		RUT FFF iv#7	DIN FFF drugs#8
+354-01	23	drugs.  She lives with her family who is at her bedside.		DIN FFF drugs#0	RUT FFF bedside#10
+354-01	24	PAST SURGICAL HISTORY:  She has had bilateral tubal ligation.	
+354-01	25	REVIEW OF SYSTEMS:  Currently, chest pain, palpitations,		INDICATION FFF chest pain#5
+354-01	26	diaphoresis, and shortness of breath.		INDICATION FFF shortness of breath .#4
+354-01	27	Otherwise, all systems are negative.	
+354-01	28	MEDICATIONS:  She is on metformin and Lipitor.		DIN FFF metformin#4	DBN FFF lipitor#6
+354-01	29	ALLERGIES:  She has no known drug allergies.		INDICATION FFF allergies#0	INDICATION FFF drug allergies#6
+354-01	30	PHYSICAL EXAMINATION:  She is awake, alert, in moderate distress.	
+354-01	31	She is tachycardic to 180 in the monitor.	
+354-01	32	Her blood pressure is not able to be obtained at this time.		INDICATION FFF her blood pressure#2
+354-01	33	Her saturations are 100% on room air, normal interpretation.		DOSE FFF 100%#3
+354-01	34	She is alert, awake and oriented, follows commands.	
+354-01	35	Her head is atraumatic.	
+354-01	36	Her pharynx is normal.	
+354-01	37	Her neck is supple and nontender.	
+354-01	38	She is in no respiratory distress with normal breath sounds.	
+354-01	39	Her heart is tachycardic with a narrow complex tachycardia on monitor.	
+354-01	40	Her abdomen is soft and nontender.	
+354-01	41	Her skin is intact but diaphoretic.	
+354-01	42	Extremities are without pedal edema.		INDICATION FFF edema#4
+354-01	43	She is oriented x3 with no cranial nerve and no motor or sensory deficits.		FREQ FFF x3#3
+354-01	44	EMERGENCY DEPARTMENT COURSE:  She was placed on a monitor, EKG	
+354-01	45	and received oxygen as well with this.		INDICATION FFF as#3
+354-01	46	She was explained that she was going to receive adenosine 6 mg and this did break her off from her SVT.  I was present during this time.		DIN FFF adenosine#9	DOSE FFF 6mg#11	INDICATION FFF svt#20	DRT FFF during#24
+354-01	47	She had an	
+354-01	48	EKG that then transformed to normal sinus rhythm at 91 with an	
+354-01	49	incomplete right bundle-branch block with no previous to compare.	
+354-01	50	She received aspirin, Lopressor, and nitroglycerin and remained		DIN FFF aspirin#2	DBN FFF lopressor#3	DIN FFF nitroglycerin#5
+354-01	51	hemodynamically stable throughout her ED stay.		INDICATION FFF ed#4
+354-01	52	For her tachycardia and chest pain, we ruled out AFib, complex		INDICATION FFF chest pain#5	INDICATION FFF afib#9
+354-01	53	tachycardia, pulmonary embolism, and acute coronary syndrome.		INDICATION FFF pulmonary embolism#2
+354-01	54	She was admitted for telemetry as well as a cardiac rule out.		INDICATION FFF as#5	INDICATION FFF as#7
+354-01	55	Her white count was 12 and her hematocrit was 42.		INDICATION FFF her hematocrit#7
+354-01	56	BUN 29 and creatinine 1.2.		INDICATION FFF creatinine#3
+354-01	57	The d-dimer was negative.	
+354-01	58	Troponin was negative.	
+354-01	59	Her chest x-ray was negative.  ******** Not reviewed by Attending Physician ******** 1.	
+354-01	60	SVT. 2.  Chest pain, rule out acute coronary syndrome.		INDICATION FFF svt#0	INDICATION FFF chest pain#3
+354-01	61	3.  Abnormal EKG.	
+354-01	62	CRITICAL CARE TIME:  20 minutes.	
+354-01	63	______________________________	
+354-01	64	XAYSANA, YUSEF M.D.	

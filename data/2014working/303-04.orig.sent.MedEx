@@ -1,0 +1,178 @@
+303-04	1	Record date: 2120-03-09		 
+303-04	2			 
+303-04	3	Neurology Resident ER Consult Note		 
+303-04	4	Patient Name:  Lindsay, Anastasha		 
+303-04	5	MRN: 5563788		 
+303-04	6	Date/Time/Place of Exam/Initial Assessment: 3/06/2120 3:50 p.m.		 
+303-04	7	Time paged:3:38 p.m.		 
+303-04	8	Tine Called Back: 3:42 p.m.		 
+303-04	9	Time Reccs given: 4:30 p.m.		 
+303-04	10	Consulted by:		 
+303-04	11	ED for L. facial droop, dysarthria; English speaking, interviewed  with translator		 
+303-04	12	HPI: Ms. Lindsay is 76y.o. RHW with a  h/o R.MCA CVA in 2112 with minimal residual dysarthria, shingles in her back in 2118, HTN, HL, DM, who was noted to have L. facial droop, numbness, and worsening dysarthria this morning while she was sipping coffee. During her R. MCA CVA she had L. facial droop, RUE weakness and numbness, but today the sx are only limited to the face as noted above. She denied CP, SOB, palpitations, no diplopia, language, motor, other sensory, visual, or gait deficits, no n, v, vertigo. She has  noticed that her L. eye is itchy, and watery, has ear pain, and that sounds appear to be louder on the L. No deficits in taste. She has intermittently sharp h/a bifrontally, but not persistent. She does suffer from similar h/a routinely. No fevers, but has had chills, and sweats since yesterday. Her PCP Dr. Urquidez came to see her while she was in the ED and noted that though her BP is elevated, lately she has ranged between 160-200 mm Hg SBP despite meds.		 
+303-04	13	Meds:		 
+303-04	14	- aspirin  81 mg po daily - Rx (Qty:90 Rf:3)		DIN FFF aspirin#1	DOSE FFF 81mg#3	RUT FFF po#4	FREQ FFF daily#5
+303-04	15	CONFIRMED		 
+303-04	16	- atenolol  75 mg PO daily Take 1 1/2 50mg pills daily		DIN FFF atenolol#1	DOSE FFF 75mg#3	RUT FFF po#4	FREQ FFF daily#5
+303-04	16	- atenolol  75 mg PO daily Take 1 1/2 50mg pills daily		DIN FFF atenolol#1	DOSE FFF 50mg#9	FREQ FFF daily#11
+303-04	17	- calcitriol  0.25mg PO every other day Take 1 tablet by mouth every other day		DIN FFF calcitriol#1	DOSE FFF 0.25mg#2	RUT FFF po#3	FREQ FFF every other day#6
+303-04	17	- calcitriol  0.25mg PO every other day Take 1 tablet by mouth every other day		DIN FFF calcitriol#1	DOSEAMT FFF 1 tablet#9	RUT FFF by mouth#11	FREQ FFF every other day#14
+303-04	18	- Cozaar  100mg po daily (needs appt! 9/18/19)		DBN FFF cozaar#1	DOSE FFF 100mg#2	RUT FFF po#3	FREQ FFF daily#4
+303-04	19	- Humulin N  20u/15 units QAM; QPM		DBN FFF humulin n#2	DOSE FFF 20u#3	DOSEAMT FFF 15 units#4	FREQ FFF qam#5	FREQ FFF qpm#6
+303-04	20	- Imdur  120mg SR 1 tablet po daily		DBN FFF imdur#1	DOSE FFF 120mg#2	DOSEAMT FFF 1 tablet#5	RUT FFF po#6	FREQ FFF daily#7
+303-04	21	- Lasix  20 mg po daily		DBN FFF lasix#1	DOSE FFF 20mg#3	RUT FFF po#4	FREQ FFF daily#5
+303-04	22	- multivitamins  1 tab po daily Take 1 pill by mouth daily		DIN FFF multivitamins#1	DOSEAMT FFF 1 tab#3	RUT FFF po#4	FREQ FFF daily#5
+303-04	22	- multivitamins  1 tab po daily Take 1 pill by mouth daily		DIN FFF multivitamins#1	DOSEAMT FFF 1 pill#8	RUT FFF by mouth#10	FREQ FFF daily#11
+303-04	23	- Norvasc  2.5mg po daily		DBN FFF norvasc#1	DOSE FFF 2.5mg#2	RUT FFF po#3	FREQ FFF daily#4
+303-04	24	- Patanol 0.1% eye drops  0.1% x 1-2gtt ou bid 1-2 drops in each eye 2x/day; administer doses 6-8h apart             - Plavix  75 mg PO daily one tablet by mouth every day.		DBN FFF patanol#1	DOSE FFF 0.1%#2
+303-04	24	- Patanol 0.1% eye drops  0.1% x 1-2gtt ou bid 1-2 drops in each eye 2x/day; administer doses 6-8h apart             - Plavix  75 mg PO daily one tablet by mouth every day.		DBN FFF eye drops#4	DOSE FFF 0.1%#5	DOSEAMT FFF 1-2 gtt#7	RUT FFF ou#8	FREQ FFF bid#9	DOSEAMT FFF 1-2 drops#11	RUT FFF eye#14	DRT FFF 6-8 h#18
+303-04	24	- Patanol 0.1% eye drops  0.1% x 1-2gtt ou bid 1-2 drops in each eye 2x/day; administer doses 6-8h apart             - Plavix  75 mg PO daily one tablet by mouth every day.		DBN FFF plavix#21	DOSE FFF 75mg#23	RUT FFF po#24	FREQ FFF daily#25	DOSEAMT FFF one tablet#27	RUT FFF by mouth#29	FREQ FFF every day#31
+303-04	25	- Protonix  40 mg po daily		DBN FFF protonix#1	DOSE FFF 40mg#3	RUT FFF po#4	FREQ FFF daily#5
+303-04	26	- Seroquel  25mg po at bedtime Take 1 tablet by mouth nightly at bedtime.		DBN FFF seroquel#1	DOSE FFF 25mg#2	RUT FFF po#3	TOD FFF at bedtime#5
+303-04	26	- Seroquel  25mg po at bedtime Take 1 tablet by mouth nightly at bedtime.		DBN FFF seroquel#1	DOSEAMT FFF 1 tablet#8	RUT FFF by mouth#10	FREQ FFF nightly#11	TOD FFF at bedtime#13
+303-04	27	- simvastatin  20mg po qpm		DIN FFF simvastatin#1	DOSE FFF 20mg#2	RUT FFF po#3	FREQ FFF qpm#4
+303-04	28	- Zoloft  50mg po daily		DBN FFF zoloft#1	DOSE FFF 50mg#2	RUT FFF po#3	FREQ FFF daily#4
+303-04	29	ALL:		 
+303-04	30	Zestril &#224;hyperkalemia, inc in creatnine		DBN FFF zestril#0	DISA FFF #224#1	INDICATION FFF hyperkalemia#1
+303-04	31	PMHx:		 
+303-04	32	As above and		 
+303-04	33	Breast carcinoma		 
+303-04	34	Chronic renal failure		 
+303-04	35	Depression		 
+303-04	36	Diabetes mellitus		 
+303-04	37	Health maintenance		 
+303-04	38	Hypertension		 
+303-04	39	Obesity		 
+303-04	40	Insomnia		 
+303-04	41	Neck pain		 
+303-04	42	Pedal edema		 
+303-04	43	Chronic renal insufficiency		 
+303-04	44	Urinary tract infection		 
+303-04	45	Nephrolithiasis		 
+303-04	46	Cerebrovascular accident, status post		 
+303-04	47	Free text diagnosis		 
+303-04	48	Conjunctivitis		 
+303-04	49	Acute renal failure		 
+303-04	50	Anemia		 
+303-04	51	Foot pain		 
+303-04	52	Smoking status: former smoker		 
+303-04	53	Ventral hernia		 
+303-04	54	FH: HTN, Stomach CA (Father), CVA (Mother), No breast CA, colon CA.		 
+303-04	55	SH:		 
+303-04	56	lives with husband, able to do ADLs, but husband takes care of all ADLs; denied T/E/D		 
+303-04	57	Examination:		 
+303-04	58	VS:   Tm 97 BP 189/53 HR 47 RR  OS		 
+303-04	59	99% RA		 
+303-04	60	General:		 
+303-04	61	Appearance:   WDWN, NAD		 
+303-04	62	Skin:                No rashes or bruising.		 
+303-04	63	HEENT:          NCAT, MMM, OP clear.		 
+303-04	64	NO rashes or vesicles in mouth, ear, or back		 
+303-04	65	Neck:              Supple, no bruits		 
+303-04	66	Chest:                         CTAB with good flow.		 
+303-04	67	CVS:               Brady, Nl S1/S2. No M/G/R.		 
+303-04	68	Abd:                 Soft, NT, ND.		 
+303-04	69	Ext:                  Peripheral edema 2+		 
+303-04	70	MS:		 
+303-04	71	The patient was fully alert and oriented, and was following all commands and appropriately interactive.		 
+303-04	72	There was complete fluency without paraphasic errors.		 
+303-04	73	The concentration, and attention were intact.		 
+303-04	74	CN:		 
+303-04	75	I:                      Not tested.		 
+303-04	76	II:                     VFFC. PERRL 4 mm &#224; 2 mm. No RAPD.		 
+303-04	77	III,IV,VI            EOMI w/o nystagmus (or diplopia).		 
+303-04	78	No ptosis. lagophthalmos L.		 
+303-04	79	V:                     Sensation diminished to LT over V1, and to PP over V2, V3 on the L.  by 50 % compared to the R.		 
+303-04	80	VII:                   L. LMN facial palsy		 
+303-04	81	VIII:                  Hears finger rub equally and bilaterally.		 
+303-04	82	IX,X:                Dysarthria to labiala nd lingual sounds &gt; palatal and guttaral sounds.		 
+303-04	83	Palate elevates symmetrically.		 
+303-04	84	XI:                    SCM and trapezii full.		 
+303-04	85	XII:                   Tongue protrudes midline.		 
+303-04	86	Motor:		 
+303-04	87	Normal bulk and tone; no tremor, rigidity, or bradykinesia.		 
+303-04	88	No pronator drift.		 
+303-04	89	Finger tapping slow on the L. vs. R.		 
+303-04	90	Del		 
+303-04	91	Bi		 
+303-04	92	Tri		 
+303-04	93	FE		DIN FFF fe#0
+303-04	94	IP		 
+303-04	95	Quad		 
+303-04	96	Hamst		 
+303-04	97	TibAnt		 
+303-04	98	EHL		 
+303-04	99	Gastro		 
+303-04	100	C5		 
+303-04	101	C6		 
+303-04	102	C7		 
+303-04	103	C8/T1		 
+303-04	104	L2		 
+303-04	105	L3		 
+303-04	106	L4-S1		 
+303-04	107	L4		 
+303-04	108	L5		 
+303-04	109	S1		 
+303-04	110	R		 
+303-04	111	5		 
+303-04	112	5		 
+303-04	113	5		 
+303-04	114	5		 
+303-04	115	5		 
+303-04	116	5		 
+303-04	117	5		 
+303-04	118	5		 
+303-04	119	5		 
+303-04	120	5		 
+303-04	121	L		 
+303-04	122	5		 
+303-04	123	5		 
+303-04	124	5		 
+303-04	125	5		 
+303-04	126	5		 
+303-04	127	5		 
+303-04	128	5		 
+303-04	129	5		 
+303-04	130	5		 
+303-04	131	5		 
+303-04	132	Coord:		 
+303-04	133	Rapid alternating, heel-to-shin, and finger-to-nose-finger movements intact.		 
+303-04	134	No truncal ataxia.		 
+303-04	135	Reflex:		 
+303-04	136			 
+303-04	137	Bi		 
+303-04	138	Tri		 
+303-04	139	Bra		 
+303-04	140	Pat		 
+303-04	141	Ank		 
+303-04	142	Toes		 
+303-04	143	C6		 
+303-04	144	C7		 
+303-04	145	C6		 
+303-04	146	L4		 
+303-04	147	S1		 
+303-04	148	R		 
+303-04	149	2		 
+303-04	150	2		 
+303-04	151	2		 
+303-04	152	2		 
+303-04	153	2		 
+303-04	154	down		 
+303-04	155	L		 
+303-04	156	2		 
+303-04	157	2		 
+303-04	158	2		 
+303-04	159	2		 
+303-04	160	2		 
+303-04	161	down		 
+303-04	162	Sens:		 
+303-04	163	As noted above on the face.		 
+303-04	164	LT and temperature intact.		 
+303-04	165	Joint position intact.		 
+303-04	166	Vibration intact.		 
+303-04	167	No evidence of extinction or graphesthesia.		 
+303-04	168	Gait:    Deferred		 
+303-04	169	Labs/Studies:		 
+303-04	170	BUN/Cr 58/2.08 Glu 111 Tn negative W 9.5 plt 262 INR 1.1		DIN FFF glu#2	DOSE FFF 111#3	INDICATION FFF tn#4	INDICATION FFF inr#10
+303-04	171	A/P: 76 RH F with prior CVA with minimal dysarthria at baseline HTN, HL, here with sx most consistent with idiopathic Bells palsy of the L. face given lower motor neuron distribution of her findings. Other considerations include recrudescence of her prior CVA sx, vs. HTN urgency/emergency.		 
+303-04	172	Plan:		 

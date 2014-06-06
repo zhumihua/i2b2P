@@ -1,0 +1,11 @@
+244-01	27	0	Patient reports that she went to University Hospital and there they treated her with antibiotics and inhaler.	antibiotics FFF 14 14	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+244-01	28	0	Unfortunately patient is unable to recall the name of the antibiotic or the inhaler.	antibiotic FFF 10 10	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+244-01	35	0	Patient did rule out for MI by serial enzymes and there are no changes seen on her ECG.	ecg. FFF 17 17	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+244-01	38	0	Stress test done 1/26 showed a normal exercise capacity (METS=7), ECG nondiagnostic for ischemia and the perfusion images were suggestive of anterior ischemia although body habitus limited the interpretation.	ecg FFF 10 10	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+244-01	58	438	paxil 20 mg q.d.	paxil FFF 0 0	20 mg FFF 1 2	 FFF 	q.d. FFF 3 3	 FFF 	 FFF 	narrative
+244-01	59	438	atenolol 25 mg q.d.	atenolol FFF 0 0	25 mg FFF 1 2	 FFF 	q.d. FFF 3 3	 FFF 	 FFF 	narrative
+244-01	60	438	prednisone 10 mg q.d.	prednisone FFF 0 0	10 mg FFF 1 2	 FFF 	q.d. FFF 3 3	 FFF 	 FFF 	narrative
+244-01	61	438	hydroxychloroquine q.d.	hydroxychloroquine FFF 0 0	 FFF 	 FFF 	q.d. FFF 1 1	 FFF 	 FFF 	narrative
+244-01	62	438	nifedipine XR 60 mg q.d.	nifedipine FFF 0 0	60 mg FFF 2 3	 FFF 	q.d. FFF 4 4	 FFF 	 FFF 	narrative
+244-01	63	438	isosorbide 10 mg t.i.d.	isosorbide FFF 0 0	10 mg FFF 1 2	 FFF 	t.i.d. FFF 3 3	 FFF 	 FFF 	narrative
+244-01	65	438	aspirin	aspirin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

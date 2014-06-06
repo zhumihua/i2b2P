@@ -1,0 +1,8 @@
+306-03	22	0	Fragmin (DALTEPARIN SODIUM) 8500 UNITS SC Q12H , Anticoagulation as per Neurology- Thomas Javier MD.	fragmin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+306-03	24	0	Lipitor (ATORVASTATIN) 20 MG (20MG TABLET take 1) PO QHS , For high cholesterol.	lipitor FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+306-03	26	0	Glucotrol (GLIPIZIDE) 5 MG (5MG TABLET take 1) PO BID , For diabetes.	glucotrol FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+306-03	28	0	Fluoxetine HCL 20 MG (20MG TABLET take 1) PO QD , Take one pill per day.	fluoxetine hcl FFF 0 1	20 mg FFF 2 3	po FFF 8 8	qd FFF 9 9	 FFF 	 FFF 	narrative
+306-03	29	0	Metformin 500 MG (500MG TABLET take 1) PO BID	metformin FFF 0 0	500 mg FFF 1 2	po FFF 7 7	bid FFF 8 8	 FFF 	 FFF 	narrative
+306-03	30	0	Ciprofloxacin 500 MG (500MG TABLET take 1) PO Q12H	ciprofloxacin FFF 0 0	500 mg FFF 1 2	po FFF 7 7	q12h FFF 8 8	 FFF 	 FFF 	narrative
+306-03	31	0	Lisinopril 20 MG (20MG TABLET take 1) PO QD , For blood pressure.	lisinopril FFF 0 0	20 mg FFF 1 2	po FFF 7 7	qd FFF 8 8	 FFF 	 FFF 	narrative
+306-03	61	0	3) Depression: Improved. Cont. fluoxetine for now. referral to MH again today.	fluoxetine FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

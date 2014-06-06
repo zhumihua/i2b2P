@@ -1,0 +1,106 @@
+339-04	1	0	Record date: 2085-07-17
+339-04	2	0	
+339-04	3	0	Team D Internal Medicine Admit Note
+339-04	4	0	Pt:Asher,Vanessa
+339-04	5	0	MR#:	0467550
+339-04	6	0	Date of Admission:7/17/85
+339-04	7	0	Attending: Dr.
+339-04	8	0	Nebraska Hunter
+339-04	9	0	PCP: Dr. Hunter
+339-04	10	0	HPI : 75 year old woman with PMH DM, HTN who presents with four episodes of substernal chest pain on day of admit.
+339-04	11	0	Episodes occurred at rest , lasted 30 seconds to 1 minute and were associated with nausea but no vomiting.
+339-04	12	0	No SOB, no radiation.
+339-04	13	0	She describes the pain as sharp.
+339-04	14	0	ED Course: On arrival to the ED vitals were BP 176/83 P 63 RR 20 T 98.
+339-04	15	0	She received ASA 325mg but was not felt to have pulse room for beta blocker.
+339-04	16	0	Her EKG was read as unchanged from prior and she had a negative first set of cardiac markers.
+339-04	17	0	PMH:
+339-04	18	0	DM - on Lispro insulin
+339-04	19	0	Anemia - baseline Hct 33
+339-04	20	0	CRI - baseline Cr  1.5
+339-04	21	0	HTN
+339-04	22	0	RA
+339-04	23	438	Meds:
+339-04	24	438	Hctz (HYDROCHLOROTHIAZIDE) 25MG TABLET take 1 Tablet(s) PO QD
+339-04	25	438	Asa (CHILDRENS) (ACETYLSALICYLIC ACID (CHILDRENS)) 81 MG (81MG TABLET take 1) PO QD
+339-04	26	438	Ranitidine HCL 150 MG PO QD , For sx of reflux.
+339-04	27	438	For future prescriptions, please note that pt prefers Brand name only
+339-04	28	438	Zestril (LISINOPRIL) 40MG TABLET take 1 Tablet(s) PO qd
+339-04	29	438	Lipitor (ATORVASTATIN) 10 MG (10MG TABLET take 1) PO QD
+339-04	30	438	Lopressor (METOPROLOL TARTRATE) 50 MG (50MG TABLET take 1) PO BID
+339-04	31	438	Humalog MIX 75/25 (INSULIN LISPRO MIX 75/25) 30 U SC QAM BEFORE BREAKFAST/15 units before dinner
+339-04	32	438	Humalog MIX 75/25 (INSULIN LISPRO MIX 75/25) 15 U SC QPM BEFORE SUPPER
+339-04	33	448	Allergies: NKDA
+339-04	34	0	SH:
+339-04	35	0		Tob: denies
+339-04	36	0		EtOH:  occasional
+339-04	37	0		Illicits:   denies
+339-04	38	0	
+339-04	39	0	ROS: LE parathesias, numbness.
+339-04	40	0	Unintentional 15 lbs weight loss x 2 months, describes decreased appetite.
+339-04	41	0	Otherwise negative.
+339-04	42	0	Exam:
+339-04	43	0		VS:  173/86 T 98.5 P 60 RR 22 100% on RA
+339-04	44	0	              GEN:Alert and oriented x 3, pleasant, coopertive
+339-04	45	0	HEENT: EOMI, MMM
+339-04	46	0	Neck:  	No LAD, JVP difficult to assess
+339-04	47	0	Lungs: CTAB
+339-04	48	0	Cor:  	RRR, no m/r/g
+339-04	49	0	Abd:   	soft , diffusely tender, BS + , no HSM
+339-04	50	0	Extr:  	 Trace edema b/l. NO palpable cord, neg.
+339-04	51	0	Homan's b/l
+339-04	52	0	              Neuro:  . moves all extremities, alert and oriented able to give complete history.
+339-04	53	0	             GI/GU : Guiac negative per Dr.
+339-04	54	0	Jeffrey in ED
+339-04	55	790	Labs:
+339-04	56	790	Chemistry Detail for ASHER, VANESSA J
+339-04	57	790	   MARY  PLASMA         16-Jul-2085 21:51  Accession# 4349B13794
+339-04	58	790	Test Description                 Result           Flags    Ref.
+339-04	59	790	Range       Units
+339-04	60	790	Plasma Sodium                    138                       (135-145)      mmol/L
+339-04	61	790	Plasma Potassium                 4.3                       (3.4-4.8)      mmol/L
+339-04	62	790	Plasma Chloride                  104                       (100-108)      mmol/L
+339-04	63	790	Plasma Urea Nitrogen             35               H        (8-25)         mg/dl
+339-04	64	790	Plasma Creatinine                1.6              H        (0.6-1.5)      mg/dl
+339-04	65	790	Plasma Glucose                   125              H        (70-110)       mg/dl
+339-04	66	790	Calcium                          9.3                       (8.5-10.5)     mg/dl
+339-04	67	790	Phosphorus                       4.3                       (2.6-4.5)      mg/dl
+339-04	68	790	Magnesium                        2.3              H        (1.4-2.0)      meq/L
+339-04	69	790	Total Protein                    7.8                       (6.0-8.3)      g/dl
+339-04	70	790	Albumin                          3.7                       (3.3-5.0)      g/dl
+339-04	71	790	Globulin                         4.1                       (2.6-4.1)      g/dl
+339-04	72	790	Direct Bilirubin                 0.1                       (0-0.4)        mg/dl
+339-04	73	790	Total Bilirubin                  0.2                       (0.0-1.0)      mg/dl
+339-04	74	790	Alkaline Phosphatase             62                        (30-100)       U/L
+339-04	75	790	Transaminase-SGPT                14                        (7-30)         U/L
+339-04	76	790	Transaminase-SGOT                16                        (9-32)         U/L
+339-04	77	790	Creatine Kinase Isoenzymes       NEGATIVE                  (NEG)
+339-04	78	790	Troponin-I                       NEGATIVE                  (NEG)
+339-04	79	790	Hematology Detail for ASHER, VANESSA J
+339-04	80	790	   MARY  BLOOD          16-Jul-2085 17:34  Accession# 6184O55309
+339-04	81	790	Test Description                 Result           Flags    Ref.
+339-04	82	790	Range       Units
+339-04	83	790	WBC                              7.8                       (4.5-11.0)     th/cmm
+339-04	84	790	HCT                              29.1             L        (36.0-46.0)    %
+339-04	85	790	HGB                              9.8              L        (12.0-16.0)    gm/dl
+339-04	86	790	RBC                              3.34             L        (4.00-5.20)    mil/cmm
+339-04	87	790	PLT                              181                       (150-350)      th/cumm
+339-04	88	790	MCV                              87                        (80-100)       fl
+339-04	89	790	MCH                              29.4                      (26.0-34.0)    pg/rbc
+339-04	90	790	MCHC                             33.8                      (31.0-37.0)    g/dl
+339-04	91	790	RDW                              14.5                      (11.5-14.5)    %
+339-04	92	790	PT                               12.4                      (11.3-13.3)    sec
+339-04	93	790	APTT                             23.0                      (22.1-35.1)    sec
+339-04	94	790	
+339-04	95	0	EKG: NSR @64, normal axis, normal intervals, low voltage, < 1mm ST elevation in v4 and v6,  both present on prior EKG of 2/85.
+339-04	96	0	CXR: Grossly stable chest examination, with no evidence for CHF.
+339-04	97	0	__________________________________________________________________________________
+339-04	98	0	A/P:  75 year old woman with DM, HTN p/w atypical chest pain.
+339-04	99	0	Ddx includes ischemia, chest wall pain, PNA, PE.
+339-04	100	0	No clinical signs of infection, negative CXR.
+339-04	101	0	No tacycardia, hypoxia or  sig.
+339-04	102	0	DVT/PE risk factores. Plan to r/o ACS by markers obtain adenosine MIBI in am.  1)	Chest pain a.	Cycle enzymes b.	Lopressor as pulse allows c.	Adenosine MIBI in AM
+339-04	103	0	2)	DM
+339-04	104	0	a.	Hold Humalog while NPO. RISS
+339-04	105	0	b.	Some signs of DM complications, followed by PCP
+339-04	106	0	3)	HTN

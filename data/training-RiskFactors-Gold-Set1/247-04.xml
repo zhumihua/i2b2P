@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2064-09-10
+
+                                                       Patient Name: ISENBERG,MICHAEL [ MRN: 3674193HCC ]
+
+                                                         Date of Visit: 9/10/2064
+
+
+
+Vascular Surgery Consult Note:
+
+
+
+I am asked to examine Mr. Isenberg and comment on recent CT findings of a intraluminal defect in the right subclavian artery.
+
+
+
+PMH / PSH:
+
+1.	CAD - S/p  2-V CABG off pump in 4/64
+
+2.	CHF- EF 38%, mild MR, diffusely hypokinetic LV w/ apical aneurysm, RVSP 46mmHg, upper 
+
+segment septal hypertrophy w/o evidence of obstruction on TTE on 3/24/64
+
+3.	HTN
+
+4.	Hyperlipidemia
+
+5.	DMII
+
+6.	CRI- Baseline Pcr is between 1.6-1.8
+
+
+
+Medications: 
+
+Plavix 75 mg qd
+
+Aspirin 325 mg qd
+
+Lipitor 80 mg qd
+
+Lisinopril 2.5 mg qd
+
+Atenolol 25 mg qd
+
+Fluoxetine 10 mg qd
+
+ 	 	 	 	
+
+Allergies: NKDA
+
+
+
+
+
+Mr Isenberg is a 82 yo gentleman one week out from attempted placement of right subclavian pacemaker- complicated by brief arterial puncture, prompt removal of the arterial catheter and successful compression. Duplex ultrasonography after compression showed no evidence of a pseudoaneurysm. A CTA done yesterday to evaluate his thyroid was  read as: 
+
+
+
+" Hematoma around right subclavian artery.  Narrowing of the artery. Apparent filling defect, most likely artifactual.  If thrombus is of clinical concern, upper extremity ultrasound may be obtained."
+
+
+
+On physical examination, he has mild non expansile hematoma of the right chest wall. His right hand is warm and well perfused, with 1+ radial and brachial pulses. There are no thrills or bruits.
+
+
+
+My review of arterial components of the CT show the following:
+
+1). Hematoma- to be expected
+
+2). Diffuse arterial calcifications- obscures the ability to read what is or is not in the lumen.
+
+3). Venous contrast bolus delivered on the right side- obscures our ability to discern the anatomy in the area of the subclavian artery.
+
+4). Contrast bolus inadequate to comment on arterial anatomy.
+
+
+
+Based on his clinical exam, and the fact that he is on an anticoagulant, a follow up subclavian artery ultrasound examination is in order. This test should be geared towards determining whether there is any evidence of a pseudoaneurysm. If there is an intraarterial filling defect, I would not pursue it. He is anticoagulated and his arm is viable. There are no stigmata of atheroemboli.
+
+
+
+
+
+Uriel A. Xavier, MD
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC10" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC19" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC24" time="before DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC7" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC17" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC21" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC25" time="before DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC27" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC28" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC26" time="before DCT" indicator="mention"/>
+    <CAD id="DOC15" time="after DCT" indicator="mention"/>
+    <CAD id="DOC20" time="during DCT" indicator="mention"/>
+    <CAD id="DOC23" time="before DCT" indicator="event"/>
+    <CAD id="DOC29" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC18" indicator="not present"/>
+    <SMOKER id="DOC14" status="unknown"/>
+    <DIABETES id="DOC5" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC8" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC22" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2082-07-04
+
+
+Beaumont Hospital Physician Group
+229 Crowley Avenue                                    Rhodes, Yajaira
+Rutland, FL 94265                            97627182
+(153) 636-7011                                           07/04/82
+(584) 728-8734
+
+SUBJECTIVE: The patient returns.  She has had three
+operations on her back, finally ending with a fusion of
+L2-L3 and a laminectomy in that area for recurrent disk
+disease  at L2-L3.  She still is having severe pain going
+down her right leg and anterior knee which is unchanged or
+perhaps somewhat better.  She sees Dr. Herring with
+regularity.  She has seen Dr. Oscar Riggs.  She has
+nothing wrong with her hips and she has had multiple CT
+scans showing the numerous operations and fusion.  
+
+MEDICATIONS:  
+1.  Lipitor 20 mg q.d. 
+2.  Glynase 1.5 mg b.i.d. 
+3.  Trandate 100 mg q.d.  
+4.  Tegretol 300 mg in a.m., 200 mg in the p.m.  
+5.  Premarin 0.625 mg 30 days a month.  
+6.  Provera 5 mg 12 days a month.
+7.  Enteric-coated aspirin 81 mg q.d. 
+8.  Calcium 1200 mg q.d. 
+
+She is in physiotherapy presently. She is not smoking nor
+drinking.  She has been eating and has gained considerable
+weight.
+
+She has no cardiopulmonary, GI or GU complaints.  She is to
+see Dr. Bruce Godfrey's replacement in August and to get a
+mammogram at that time.  Hopefully, she will be able to lie
+on the table when that occurs.  She is now able to drive a
+car, but walks with a cane and cannot lie down with any
+degree of ease.
+
+PHYSICAL EXAMINATION:  She weighs 192 lbs stripped and her
+blood pressure is 160/90 in the left arm standing, pulse is
+72 and regular.  She appears as a well developed, overweight
+white female in pain, having to hold on while standing,
+easily weeping, but pleasant.  There is no icterus, cyanosis
+or edema.  The eyes reveal 2+ arcus.  Pupils are round,
+reactive and equal.  Nose and throat examination is
+unremarkable.  Neck veins are flat.  Carotids are 2+ and
+equal and without bruit.  Thyroid small and smooth.  Lungs
+are clear to P&A. The heart is not enlarged.  There is a
+regular sinus rhythm and no significant murmurs.  S1 and S2
+are normal.  Liver and spleen cannot be felt.  She has good
+peripheral pulses.
+
+IMPRESSION:  
+1.  Diabetes mellitus type 2.  She has had an eye exam at
+Mitchel Memorial Hospital this past year, but her diabetes is poorly
+controlled as her blood sugars have been in the 150-200
+range.  I have told her to increase her Glynase to 3 mg
+twice a day until she is able to diet.
+2.  L2-L3 disk with fusion. 
+3.  Mild hypertension, on no medication.  Will not start any
+until she loses weight.
+
+
+______________________________
+Brett F. Rutherford, M.D.
+
+
+CC:
+
+eScription document:0-532059
+
+DD: 07/04/82
+DT: 07/05/82
+DV: 07/04/82
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC7" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC11" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC12" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC14" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC19" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC8" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC17" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC13" indicator="not present"/>
+    <SMOKER id="DOC15" status="never"/>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC10" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC20" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

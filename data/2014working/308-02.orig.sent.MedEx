@@ -1,0 +1,29 @@
+308-02	1	Record date: 2075-08-08		 
+308-02	2	Reason for Visit		 
+308-02	3	62 y.o. man, pt of Dr.		 
+308-02	4	Kidd, presents w/ c/o R hand pain x 1d.		 
+308-02	5	Has sharp pain, starts in thumb, radiates proximally up arm to biceps area.		 
+308-02	6	Pain lasts several minutes, resolves spontaneously.		 
+308-02	7	Occurs several times a day, not reated to arm movement.		 
+308-02	8	He denies trauma to area, recent falls, denies swelling, redness, rashes, weakness.		 
+308-02	9	Problems		 
+308-02	10	Diabetes mellitus		 
+308-02	11	Hypertension		 
+308-02	12	H/O Seizure disorder    : Status post head trauma		 
+308-02	13	H/O Alcohol abuse		 
+308-02	14	Medications		 
+308-02	15	Aspirin (ACETYLSALICYLIC Acid)   81MG TABLET CHEWABLE take 1 Tablet(s) PO QD ,  Take as directed		DIN FFF aspirin#0	MDBN FFF acetylsalicylic acid#2	DOSE FFF 81mg#3	DDF FFF tablet#4	DOSEAMT FFF 1 tablet#8	RUT FFF po#9	FREQ FFF qd#10	INDICATION FFF as#13
+308-02	16	Glucophage (METFORMIN)   500MG TABLET take 1 Tablet(s) PO TID x 90 days		DBN FFF glucophage#0	MDBN FFF metformin#1	DOSE FFF 500mg#2	DDF FFF tablet#3	DOSEAMT FFF 1 tablet#6	RUT FFF po#7	FREQ FFF tid#8	DRT FFF x 90 days#11
+308-02	17	Micronase (GLYBURIDE)   10 MG (5MG TABLET take 2) PO BID x 90 days		DBN FFF micronase#0
+308-02	18	Tegretol (CARBAMAZEPINE)   200MG TABLET take 1 Tablet(s) PO TID x 90 days		DBN FFF tegretol#0	MDBN FFF carbamazepine#1	DOSE FFF 200mg#2	DDF FFF tablet#3	DOSEAMT FFF 1 tablet#6	RUT FFF po#7	FREQ FFF tid#8	DRT FFF x 90 days#11
+308-02	19	Monopril (FOSINOPRIL Sodium)   20MG TABLET take 1 Tablet(s) PO QD x 90 days		DBN FFF monopril#0	MDBN FFF fosinopril sodium#2	DOSE FFF 20mg#3	DDF FFF tablet#4	DOSEAMT FFF 1 tablet#7	RUT FFF po#8	FREQ FFF qd#9	DRT FFF x 90 days#12
+308-02	20	Lipitor (ATORVASTATIN)   10MG TABLET take 1 Tablet(s) PO QD ,  Take as directed		DBN FFF lipitor#0	MDBN FFF atorvastatin#1	DOSE FFF 10mg#2	DDF FFF tablet#3	DOSEAMT FFF 1 tablet#6	RUT FFF po#7	FREQ FFF qd#8	INDICATION FFF as#11
+308-02	21	Hctz (HYDROCHLOROTHIAZIDE)   25MG TABLET take 1 Tablet(s) PO QD x 90 days,  Take as directed		DPN FFF hctz#0	MDBN FFF hydrochlorothiazide#1	DOSE FFF 25mg#2	DDF FFF tablet#3	DOSEAMT FFF 1 tablet#6	RUT FFF po#7	FREQ FFF qd#8	DRT FFF x 90 days#11	INDICATION FFF as#13
+308-02	22	Allergies		 
+308-02	23	NKA		 
+308-02	24	Social History		 
+308-02	25	legally blind, also has MR; lives w/ sister Urquiza who is his care taker.		 
+308-02	26	Vital Signs		 
+308-02	27	BLOOD PRESSURE   118/74		 
+308-02	28	PULSE   72		 
+308-02	29	WEIGHT   192 lb		 

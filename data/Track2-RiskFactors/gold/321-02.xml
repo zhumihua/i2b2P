@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CardiacRiskTask>
+  <TEXT><![CDATA[
+
+
+Record date: 2069-07-03
+
+R foot ulcer - Present for several months. Being followed by Dr. Vetter. Being fitted with for special shoes tomorrow.
+
+
+
+AODM - Meds reviewed. Will check HgbA1c today. Last eye exam 09/25/68. Cataracts noted by Dr. Gaines.
+
+
+
+HBP - Borderline high. Will increase Atenolol to 50 mg qd. No hypoglycemic rxn's.
+
+
+
+
+
+Problems
+
+Foot ulcer 
+
+Diabetes 
+
+Hearing impairment : AD 
+
+
+
+PE: WD/WN in NAD
+
+
+
+Flowsheets
+
+BP 144/70 Left Arm
+
+P 72 Regular
+
+Ht 68 in.
+
+Wt 245 lb
+
+ 
+
+R foot - Ulcer on ball of L foot clean and granulating
+
+
+
+Plan: Increase atenolol to 50 mg qd
+
+         RTC 3 months 30 min
+
+         Call with BP readings
+
+         Check HgbA1c
+
+
+
+
+
+_____________________________________________
+
+Yan D. Ball, MD
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC4" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC9" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC1" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC6" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC11" indicator="not present"/>
+    <SMOKER id="DOC8" status="unknown"/>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC10" time="after DCT" indicator="mention"/>
+  </TAGS>
+</CardiacRiskTask>

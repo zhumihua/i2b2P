@@ -1,0 +1,48 @@
+276-01	1	Record date: 2060-07-25		 
+276-01	2	EDVISIT^32707420^GIPSON, ALEC^07/25/60^YERGER, DESEAN		DIN FFF alec#1	DOSE FFF 07/25#1
+276-01	3	The patient was seen with Dr.		 
+276-01	4	Godfrey.  I confirmed her history and physical.  I also interviewed and examined the patient.		 
+276-01	5	Please see the note for more details.		 
+276-01	6	HISTORY OF PRESENT ILLNESS:  This is a 71-year-old gentleman with		 
+276-01	7	a history of hypertension, non-insulin-dependent diabetes, and 2		 
+276-01	8	weeks of intermittent chest pain for which he was evaluated with		 
+276-01	9	stress test a week prior to ED visit, which was abnormal.		 
+276-01	10	The patient had a plan for cardiac catheterization the day after this		 
+276-01	11	ED visit but presented on this day for an episode of chest		 
+276-01	12	discomfort which occurred at rest, which was unlike his previous		 
+276-01	13	episodes of chest discomfort which usually occurred with		 
+276-01	14	activity.		 
+276-01	15	He took nitroglycerin with relief and then presented for further evaluation and treatment.		DIN FFF nitroglycerin#2
+276-01	16	MEDICATIONS:  Metformin, Toprol, Cozaar, nitro, aspirin, and		DIN FFF metformin#1
+276-01	16	MEDICATIONS:  Metformin, Toprol, Cozaar, nitro, aspirin, and		DPN FFF toprol#2
+276-01	16	MEDICATIONS:  Metformin, Toprol, Cozaar, nitro, aspirin, and		DBN FFF cozaar#3
+276-01	16	MEDICATIONS:  Metformin, Toprol, Cozaar, nitro, aspirin, and		DIN FFF aspirin#5
+276-01	17	Altace.		DBN FFF altace#0
+276-01	18	PHYSICAL EXAMINATION:  He is awake and alert, in no distress,		 
+276-01	19	chest pain free.  Afebrile with pulse 72, blood pressure 129/69,		 
+276-01	20	and O2 saturation 98% on room air.		 
+276-01	21	His lungs are clear to auscultation.		 
+276-01	22	Heart:  Regular rate and rhythm.		 
+276-01	23	Abdomen is soft and nontender.		 
+276-01	24	Extremities are warm and well perfused.		 
+276-01	25	No elevated JVP.		 
+276-01	26	EMERGENCY DEPARTMENT COURSE:  An EKG was done revealing right		 
+276-01	27	bundle-branch block, but sinus rhythm at 67 with no ischemic		 
+276-01	28	changes.  IV access was established.		 
+276-01	29	Labs were sent revealing essentially normal CBC and electrolytes.		 
+276-01	30	Initial troponin was less than assay with an INR of 1.1 and chest x-ray, which was normal.		 
+276-01	31	The patient has been taking aspirin prior to arrival.		DIN FFF aspirin#5
+276-01	32	Heart rate was in the 60s in the emergency room and no additional		 
+276-01	33	beta-blockade was given to the patient.		 
+276-01	34	However, based on his story, which was suggestive for unstable angina, he was given Lovenox in the emergency room.  I spoke to the Cardiology B attending on call who agreed to take the patient on to his service for probable cardiac catheterization in the near future.		DBN FFF lovenox#14	INDICATION FFF cardiac catheterization#41
+276-01	35	With this plan, he was admitted in stable condition with a		 
+276-01	36	diagnosis of unstable angina.		 
+276-01	37	CRITICAL CARE TIME:  50 minutes.		 
+276-01	38	______________________________		 
+276-01	39	YERGER, DESEAN MD		 
+276-01	40	D: 08/01/60		 
+276-01	41	T: 08/01/60		 
+276-01	42	Dictated By: YERGER, DESEAN		 
+276-01	43	eScription document:0-0255081 BFFocus		 
+276-01	44	******** Not reviewed by Attending Physician ********		 
+276-01	45			 

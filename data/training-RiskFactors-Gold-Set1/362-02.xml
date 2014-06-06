@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2072-04-08
+
+                     KEKELA EMERGENCY DEPT VISIT
+
+ 
+
+DIETZ,SUSIE   538-41-21-0                    VISIT DATE: 04/08/72
+
+This patient was seen in conjunction with resident physician, 
+
+Echols.  Please see resident's note for explicit details of the 
+
+visit.  
+
+PRESENTING COMPLAINT:  Chest pain.
+
+HISTORY OF PRESENTING COMPLAINT:  This patient is a 47-year-old 
+
+female who presents to the emergency department complaining of 
+
+chest pain.  The patient has had multiple emergency department 
+
+visits for nonspecific symptoms.  She has a diagnosis of panic 
+
+attacks.  The patient states that over the last day or two, she has 
+
+been having symptoms of left neck pain and arm pain, with exertion. 
+
+The patient presents for evaluation. 
+
+REVIEW OF SYSTEMS:  Negative for shortness of breath, weakness, 
+
+numbness, headache, blurred vision, fevers, chills.  Other review 
+
+of systems are negative.  
+
+PAST MEDICAL HISTORY:  Diabetes and hypertension.
+
+MEDICATIONS:  Glucophage, Klonopin, diltiazem.
+
+ALLERGIES:  No known drug allergies. 
+
+SOCIAL HISTORY AND FAMILY HISTORY:  Noncontributory. 
+
+PHYSICAL EXAMINATION:  This is a well-appearing female in no 
+
+distress.  VITAL SIGNS:  Temperature 98.6, pulse 86, respiratory 
+
+rate 18, blood pressure 140/60.  Oxygen saturation is 100% on room 
+
+air.  HEENT:  Scalp is intact, with no evidence of trauma, 
+
+lacerations, or abrasions.  Pupils are round, reactive to light and 
+
+accommodation.  Tympanic membranes are clear bilaterally.  Pharynx 
+
+is non-erythematous with a midline uvula.  NECK:  Trachea is 
+
+midline without stridor.  Carotids are 2+ without bruits.  CHEST:  
+
+Clear to auscultation and percussion.  CARDIOVASCULAR:  S1, S2, no 
+
+murmurs, gallops, or rubs.  ABDOMEN:  Soft, non-tender, 
+
+non-distended.  No organomegaly.  Positive bowel sounds.  No 
+
+peritoneal signs.  EXTREMITIES:  Negative for clubbing, cyanosis, 
+
+or edema.  SKIN:  Negative for rash, petechiae, or urticaria.  
+
+NEUROLOGICAL:  Awake, alert and oriented x 3.  Cranial nerves 
+
+II-XII are intact.  Symmetric strength, reflexes, and sensation.  
+
+Normal gait.   
+
+LABORATORY EVALUATION:  Initial cardiogram was unremarkable and no 
+
+change from previous.  The patient had an exercise treadmill test 
+
+in 2069 which was consistent with, but diagnostic of, ischemia. 
+
+THERAPY RENDERED/COURSE IN ED:  The patient was given aspirin by 
+
+mouth, O2 via nasal cannula.  Given the patient's previous exercise 
+
+treadmill test, her history of hypertension and diabetes, and 
+
+nonspecific symptoms, the patient will be admitted to the hospital 
+
+for a rule out myocardial infarction and stress MIBI testing.
+
+FINAL DIAGNOSIS:  Chest pain, unclear etiology.
+
+DISPOSITION (including condition upon discharge):  The patient was 
+
+admitted in stable condition.
+
+___________________________________                    CG993/95284 
+
+RICHARD ZAHN, M.D.       RZ5                           D:04/08/72 
+
+                                                       T:04/08/72 
+
+Dictated by:  RICHARD ZAHN, M.D.       RZ5 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC3" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC6" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <HYPERTENSION id="DOC2" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC11" indicator="not present"/>
+    <SMOKER id="DOC12" status="unknown"/>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC13" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC14" time="during DCT" indicator="mention"/>
+  </TAGS>
+</root>

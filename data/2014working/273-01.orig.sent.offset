@@ -1,0 +1,15 @@
+273-01	3	0	Novolog 3/4-5/5/6 683-51-28	novolog FFF 0 0	 FFF 	 FFF 	 FFF 	3/4-5/5/6 FFF 1 1	 FFF 	narrative
+273-01	4	0	Lantus 20-21 at hs Xuan, Wendy	lantus FFF 0 0	20-21 FFF 1 1	 FFF 	at hs FFF 2 3	 FFF 	 FFF 	narrative
+273-01	5	0	Neoral 100/100 mg bid	neoral FFF 0 0	100/100 mg FFF 1 2	 FFF 	bid FFF 3 3	 FFF 	 FFF 	narrative
+273-01	6	0	CellCept 1000 mg bid	cellcept FFF 0 0	1000 mg FFF 1 2	 FFF 	bid FFF 3 3	 FFF 	 FFF 	narrative
+273-01	7	0	Lopressor 12.5 mg bid	lopressor FFF 0 0	12.5 mg FFF 1 2	 FFF 	bid FFF 3 3	 FFF 	 FFF 	narrative
+273-01	8	0	Lipitor 10 mg qd	lipitor FFF 0 0	10 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+273-01	9	0	Neurontin 600/600/1200 mg tid	neurontin FFF 0 0	600/600/1200 FFF 1 1	 FFF 	tid FFF 3 3	 FFF 	 FFF 	narrative
+273-01	10	0	Tums 200 mg ii bid	tums FFF 0 0	200 mg FFF 1 2	 FFF 	bid FFF 4 4	 FFF 	 FFF 	narrative
+273-01	11	0	Prilosec 20 mg bid	prilosec FFF 0 0	20 mg FFF 1 2	 FFF 	bid FFF 3 3	 FFF 	 FFF 	narrative
+273-01	12	0	MVI i bid	mvi FFF 0 0	 FFF 	 FFF 	bid FFF 2 2	 FFF 	 FFF 	narrative
+273-01	13	0	ASA 325 mg qd	asa FFF 0 0	325 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+273-01	14	0	Quinine Sulfate 260 mg at hs	quinine sulfate FFF 0 1	260 mg FFF 2 3	 FFF 	at hs FFF 4 5	 FFF 	 FFF 	narrative
+273-01	16	0	Flax Seed Oil ii qd	flax seed oil FFF 0 2	 FFF 	 FFF 	qd FFF 4 4	 FFF 	 FFF 	narrative
+273-01	29	0	There are not enough data points to determine whether the Lantus dose is appropriate.	lantus FFF 10 10	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+273-01	43	438	Had the second of hepatitis A series in L deltoid today.	hepatitis a FFF 4 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

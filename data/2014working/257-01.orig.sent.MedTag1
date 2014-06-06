@@ -1,0 +1,56 @@
+257-01||1||Record date: 2097-03-04
+257-01||2||CARDIOLOGY
+257-01||4||ELIZABETHTOWN STATE HOSPITAL
+257-01||6||RE:  I had the pleasure of seeing Verna Cantu in consultation today for management of coronary artery disease and aortic stenosis.||INDICATION FFF coronary artery disease FFF 15 17||INDICATION FFF stenosis. FFF 20 20||
+257-01||7||Dear Dr.
+257-01||8||Levon Nichols,
+257-01||9||She is a very pleasant 60 year old female with cardiovascular risk factors of non-insulin dependent diabetes mellitus, hypertension, peripheral arterial disease, and prior tobacco abuse.||DRT FFF 60 year FFF 5 6||INDICATION FFF risk FFF 11 11||INDICATION FFF non-insulin dependent diabetes mellitus, FFF 14 17||INDICATION FFF hypertension, FFF 18 18||INDICATION FFF tobacco abuse. FFF 24 25||
+257-01||10||She has no prior history of myocardial infarction, arrhythmia, or congestive heart failure.||INDICATION FFF myocardial infarction, FFF 6 7||INDICATION FFF arrhythmia, FFF 8 8||INDICATION FFF congestive heart failure. FFF 10 12||
+257-01||11||About 15 years ago she underwent an ETT for evaluation of exertional lightheadedness which by her reports was unremarkable.||DRT FFF 15 years FFF 1 2||
+257-01||12||She has an extensive vascular history s/p right popliteal PTA/Stent and left common femoral endarterectomy for which she has been receiving regular care from Dr.
+257-01||13||Nichols.
+257-01||14||She has a history of mixed connective tissue disease with Raynaud's for which she has been followed by Dr.
+257-01||15||Lucille Jackson.
+257-01||16||She reports that for the past year she has had dyspnea on exertion which typically manifests itself when she is trying to climb the 2.5 flights of stairs that she has at home.||DRT FFF for the past year FFF 3 6||INDICATION FFF dyspnea FFF 10 10||
+257-01||17||She feels shortness of breath requiring her to stop when she gets to the top.||INDICATION FFF shortness of breath FFF 2 4||RUT FFF top. FFF 14 14||
+257-01||18||She denies exertional chest pain or lightheadedness.||INDICATION FFF chest pain FFF 3 4||
+257-01||19||She denies orthopnea, paroxysmal nocturnal dyspnea, or edema.||INDICATION FFF orthopnea, FFF 2 2||INDICATION FFF dyspnea, FFF 5 5||INDICATION FFF edema. FFF 7 7||
+257-01||20||She denies lightheadedness, dizziness, palpitations, or syncope.||INDICATION FFF dizziness, FFF 3 3||
+257-01||21||Currently she reports no symptoms of claudication.||INDICATION FFF symptoms FFF 4 4||
+257-01||22||No regular exercise.
+257-01||23||A couple of times a day.||DRT FFF a day. FFF 4 5||
+257-01||24||Bowls on Sunday night with no shortness of breath.||FREQ FFF sunday FFF 2 2||INDICATION FFF shortness of breath. FFF 6 8||
+257-01||25||She has also been noted to have a systolic murmur on previous exams.
+257-01||26||An echocardiogram in 2094 revealed aortic valve leaflet thickening but did not report significant aortic stenosis, though this was a technically difficult study by report.||INDICATION FFF stenosis, FFF 15 15||
+257-01||27||For evaluation of these symptoms she underwent an ETT-MIBI which was notable for poor exercise capacity, drop in blood pressure, exercise induced LBBB, and perfusion abnormality suggesting distal LAD territory ischemia.||INDICATION FFF symptoms FFF 4 4||INDICATION FFF drop in blood pressure, FFF 16 19||INDICATION FFF ischemia. FFF 30 30||
+257-01||28||Past medical history:
+257-01||29||1. Diabetes Mellitus: On oral medications for 7 years +Retinopathy both eyes ~ 7 yrs ago, no nephropathy. +neuropathy||INDICATION FFF diabetes mellitus: FFF 1 2||DPN FFF oral medications FFF 4 5||DRT FFF 7 years FFF 7 8||DRT FFF 7 yrs FFF 13 14||INDICATION FFF nephropathy. FFF 17 17||INDICATION FFF +neuropathy FFF 18 18||
+257-01||30||2. Hypertension controlled on medication ~ 5yrs, requiring frequent adjustments of meds, 140/70||INDICATION FFF hypertension FFF 1 1||DRT FFF 5yrs, FFF 6 6||
+257-01||31||3. Peripheral arterial disease.
+257-01||32||Status post left common femoral endarterectomy by Dr.
+257-01||33||Vanover 11/26/95.  4. Carotid artery disease.
+257-01||34||Mild bilateral internal carotid artery stenoses duplex ultrasound 6/96.  5. Mixed connective tissue disease with Raynaud's. Followed by Dr. Lucille Jackson. In 2094 was having leg pains.
+257-01||35||6. Melanoma involving right thigh. s/p surgical resection 20 years ago||INDICATION FFF melanoma FFF 1 1||DRT FFF 20 years FFF 8 9||
+257-01||36||7. Arthritis primarily of hands||INDICATION FFF arthritis FFF 1 1||
+257-01||37||Prior surgeries: tonsillectomy, melanoma resection.||INDICATION FFF melanoma FFF 3 3||
+257-01||38||Supplements:||DBN FFF supplements: FFF 0 0||
+257-01||39||Calcium with Vit. D.||DIN FFF calcium FFF 0 0||
+257-01||41||Changes to Allergies||INDICATION FFF allergies FFF 2 2||
+257-01||43||NKA: No Known Allergies - reaction: [reviewed]||INDICATION FFF allergies FFF 3 3||
+257-01||44||Family history:
+257-01||45||Mother had rheumatic heart disease, had 3 valve surgeries.||INDICATION FFF rheumatic FFF 2 2||INDICATION FFF heart disease, FFF 3 4||
+257-01||46||Died at the age of 49 from complications of a urinary infection in the setting of stroke.||INDICATION FFF urinary infection FFF 10 11||INDICATION FFF stroke. FFF 16 16||
+257-01||47||Father had cirrhosis and died at the age of 51, alcoholic.||INDICATION FFF cirrhosis FFF 2 2||
+257-01||48||Sister: alive and well.
+257-01||49||There is no family history of premature coronary artery disease, cardiomyopathy, or arrhythmia.||INDICATION FFF coronary artery disease, FFF 7 9||INDICATION FFF arrhythmia. FFF 12 12||
+257-01||50||Social history:
+257-01||51||Works as Broadcast Technician NPR for 10 years.||INDICATION FFF as FFF 1 1||DRT FFF 10 years. FFF 6 7||
+257-01||52||Tobacco: quit 20 years ago. 1 ppd for 25 years.||DRT FFF 20 years FFF 2 3||DRT FFF 25 years. FFF 8 9||
+257-01||53||EtoH: none
+257-01||54||Lives with husband and son.
+257-01||55||Review of systems:
+257-01||56||No bright red blood per rectum or melena.||RUT FFF per rectum FFF 4 5||
+257-01||57||No transient ischemic attack, or stroke.||INDICATION FFF transient ischemic attack, FFF 1 3||INDICATION FFF stroke. FFF 5 5||
+257-01||58||She reports some left forearm muscle tightness with usual activities.||INDICATION FFF tightness FFF 6 6||
+257-01||59||Relieved with rest for the past one year.||DRT FFF one year. FFF 6 7||
+257-01||60||Physical examination:

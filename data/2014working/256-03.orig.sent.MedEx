@@ -1,0 +1,73 @@
+256-03	1	Record date: 2151-08-30		 
+256-03	2			 
+256-03	3	76 year old mother of four - 1 grandchild.		 
+256-03	4	Retired  performer.		 
+256-03	5	Husband Nathaniel Klein		 
+256-03	6	Nodular thyroid		 
+256-03	7	HPI		 
+256-03	8	Health generally ok.		 
+256-03	9	Complex migraine.		 
+256-03	10	CAD - stent  2144. T. William is cardiologist.		 
+256-03	11	XRT - none.		 
+256-03	12	2150   CT scan -multiple nodules in thyroid		 
+256-03	13	US - Multiple nodules.		 
+256-03	14	Largest is L lower 1.6 x 1.3 x 1.2 cm      Hypoechoic.		 
+256-03	15	Smaller right nodules are also hypoechoic.		 
+256-03	16	Some     macrocalcification in the larger nodule.		 
+256-03	17	June 2150  FNA. Benign follicular cells and colloid.  L nodule		 
+256-03	18	Aug 2151  US -  Right 4 x 4 x 4 mm		 
+256-03	19	Midpole right 9 x8 x8		 
+256-03	20	Midpole 7 x 4 x 9		 
+256-03	21	Lower pole 1.1 x 1 x 1.3 solid.		 
+256-03	22	Right 8 x 5 x 1		 
+256-03	23	Left thyroid 6 x 5 x 7		 
+256-03	24	Midpole L 1.5 x 1.0 x 1.5 cm.		 
+256-03	25	Lower pole 5 x 3 x 6 mm		 
+256-03	26	Interim History and ROS		 
+256-03	27	Compared current and prior US.		 
+256-03	28	No change in size. L nodule has been FNA'd		 
+256-03	29	Question is whether right will need FNA.		 
+256-03	30	Now has diabetes and is now on Metformin.		INDICATION FFF diabetes#2	DIN FFF metformin#7
+256-03	31	Discussed stopped before contrast agents.		 
+256-03	32	She and husband have been working on estate of friend.		 
+256-03	33	ROS		 
+256-03	34	Constitutional:  Weight stable.		 
+256-03	35	Appetite normal.		 
+256-03	36	Tends to be hot.		 
+256-03	37	Energy down.		 
+256-03	38	Head No frequent headaches.		 
+256-03	39	No hair loss.		 
+256-03	40	Eye : Vision down - has cataracts.		 
+256-03	41	Throat : No difficulty swallowing.		 
+256-03	42	Voice unchanged. No neck pressure		 
+256-03	43	Cardiac:  No chest pain.		 
+256-03	44	No palpitations.		 
+256-03	45	Respiratory : No exertional dyspnea.		 
+256-03	46	Increaed cough since Jan 2151.		 
+256-03	47	Had chest x-ray ok.		 
+256-03	48	Takes protonix in a.m.		DBN FFF protonix#1	TOD FFF a.m#3
+256-03	49	GI: Digestion fine.		 
+256-03	50	No difficulty with bowel movements.		 
+256-03	51	GU: Urination without difficulty.		 
+256-03	52	Menopausal.		 
+256-03	53	NM: No pain or aches - save occ ankle aches.		 
+256-03	54	Strength is good.		 
+256-03	55	Psych: Difficulty sleeping - up to urinate or suddently awake or husband snoring.		 
+256-03	56	Mood is fine.		 
+256-03	57			 
+256-03	58	Medications		 
+256-03	59	Lipitor 10		DBN FFF lipitor#0
+256-03	60	Isordil		DBN FFF isordil#0
+256-03	61	Verapamil 240		DIN FFF verapamil#0
+256-03	62	Atenolol 25		DIN FFF atenolol#0
+256-03	63	Metformin 500 x 2		DIN FFF metformin#0	DOSE FFF 500#1	FREQ FFF x 2#3
+256-03	64	ASA		DIN FFF asa#0
+256-03	65	Protonix 40		DBN FFF protonix#0
+256-03	66	HCTZ 12.5 each a.m.		DPN FFF hctz#0	TOD FFF a.m#3
+256-03	67	Vits		 
+256-03	68	Allergies		 
+256-03	69	Sulfa		DIN FFF sulfa#0
+256-03	70	Vinegar		DIN FFF vinegar#0
+256-03	71	H Social History		 
+256-03	72	Born Estill		 
+256-03	73	Husband Nathaniel Klein - pt of mine.		 

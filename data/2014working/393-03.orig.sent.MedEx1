@@ -1,0 +1,37 @@
+393-03||1||Record date: 2081-08-09
+393-03||2||Here for f/u, was again hospitalized with N/V.
+393-03||3||Seen by both GI and Endocrine. D/c on regimen of NPH insulin 30u with Reg sliding scale before breakfast and NPH 20u (per d/c instructions, should be 22u) with Regular sliding scale before dinner.||DIN FFF nph insulin FFF 10 11||DOSE FFF 30u FFF 12 12||DOSE FFF sliding scale FFF 15 16||
+393-03||3||Seen by both GI and Endocrine. D/c on regimen of NPH insulin 30u with Reg sliding scale before breakfast and NPH 20u (per d/c instructions, should be 22u) with Regular sliding scale before dinner.||DBN FFF nph FFF 20 20||DOSE FFF 20u FFF 21 21||DOSE FFF 22u) FFF 27 27||DOSE FFF sliding scale FFF 30 31||TOD FFF before dinner. FFF 32 33||
+393-03||4||Thinks she had some low blood sugar reactions in the hospital, but hasn't had any since.
+393-03||5||Brings in BS record with BS in 200's mostly especially during daytime.
+393-03||6||Nausea controlled, wary of another episode starting.
+393-03||7||Began Zelnorm 6mg which she is only taking QD.||DBN FFF zelnorm FFF 1 1||DOSE FFF 6mg FFF 2 2||FREQ FFF qd. FFF 8 8||
+393-03||8||Problems
+393-03||9||Diabetes mellitus : since 2060's, poorly controlled
+393-03||10||Hypertension
+393-03||11||Gastroparesis : N/V due to diabetes
+393-03||12||Retinopathy : due to AODM, s/p first laser treatment 3/81, sees Ophtho in Stanwood
+393-03||13||S/P cholecystectomy
+393-03||14||S/P TAH/BSO : menopause at age 86, had some hot flashes which are slowing improving.||DIN FFF tah/bso FFF 1 1||INDICATION FFF menopause FFF 3 3||INDICATION FFF hot flashes FFF 9 10||
+393-03||15||Medications
+393-03||16||Lexapro (ESCITALOPRAM) 10 MG (10MG TABLET take 1) PO QD||DBN FFF lexapro FFF 0 0||
+393-03||17||Colace (DOCUSATE SODIUM) 100 MG (100MG TABLET take 1) PO BID||DBN FFF colace FFF 0 0||
+393-03||18||Hydrochlorothiazide 25 MG (25MG TABLET take 1) PO QAM , for high blood pressure||DIN FFF hydrochlorothiazide FFF 0 0||DOSE FFF 25 mg FFF 1 2||DOSE FFF (25mg FFF 3 3||DDF FFF tablet FFF 4 4||RUT FFF po FFF 7 7||FREQ FFF qam FFF 8 8||INDICATION FFF high blood pressure FFF 11 13||
+393-03||19||Ativan (LORAZEPAM) 1 MG (1MG TABLET take 1) PO Q8H||DBN FFF ativan FFF 0 0||
+393-03||20||Lisinopril 40MG TABLET PO QAM||DIN FFF lisinopril FFF 0 0||DOSE FFF 40mg FFF 1 1||DDF FFF tablet FFF 2 2||RUT FFF po FFF 3 3||FREQ FFF qam FFF 4 4||
+393-03||21||Miralax (POLYETHYLENE GLYCOL ) 17 GM PO QD , Each 17 GM dose to be dissolved in 8 oz of water||DBN FFF miralax FFF 0 0||
+393-03||22||Zofran (CHEMO N/V) (ONDANSETRON HCL (CHEMO N/V)) 8 MG (8MG TABLET take 1) PO BID PRN||DBN FFF zofran FFF 0 0||
+393-03||23||Insulin REGULAR HUMAN SC , Follow sliding scale||DPN FFF insulin regular human FFF 0 2||RUT FFF sc FFF 3 3||DOSE FFF sliding scale FFF 6 7||
+393-03||24||Norvasc (AMLODIPINE) 5 MG (5MG TABLET take 1) PO QD||DBN FFF norvasc FFF 0 0||
+393-03||25||Zelnorm (TEGASEROD) 6 MG (6MG TABLET take 1) PO QD||DBN FFF zelnorm FFF 0 0||
+393-03||26||Insulin NPH HUMAN 100 U/ML VIAL ML SC QAM & QHS as directed , Take 30u in AM and at bedtime||DIN FFF insulin nph human FFF 0 2||DOSE FFF 100 u/ml FFF 3 4||RUT FFF sc FFF 7 7||FREQ FFF qam FFF 8 8||FREQ FFF qhs FFF 10 10||INDICATION FFF as FFF 11 11||DOSE FFF 30u FFF 15 15||TOD FFF am FFF 17 17||TOD FFF at bedtime FFF 19 20||
+393-03||27||Atenolol 50 MG (50MG TABLET take 1) PO QD||DIN FFF atenolol FFF 0 0||DOSE FFF 50 mg FFF 1 2||DOSE FFF (50mg FFF 3 3||DDF FFF tablet FFF 4 4||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||
+393-03||28||Asa (ACETYLSALICYLIC ACID) 325 MG (325MG TABLET take 1) PO QD||DIN FFF asa FFF 0 0||
+393-03||29||Reglan (METOCLOPRAMIDE HCL) 10 MG (10MG TABLET take 1) PO QID , Take with each meal and at bedtime.||DBN FFF reglan FFF 0 0||
+393-03||30||Nexium (ESOMEPRAZOLE) 20 MG (20MG CAPSULE DR take 1) PO q AM , Take 15-30 min before first meal of the day.||DBN FFF nexium FFF 0 0||
+393-03||31||Vital Signs
+393-03||32||BP 143/75, P 69, Temp 98.2 F
+393-03||33||Repeat BP136/72
+393-03||34||Abd:soft, mild diffuse tenderness without rebound
+393-03||35||Affect:still flat
+393-03||36||A/P:1.AODM-given elevated BS in AM, will increase NPH at night to 30u. F/u with me in one month, also has Endocrine f/u 9/20 schedulued.||DBN FFF nph FFF 7 7||TOD FFF at night FFF 8 9||DOSE FFF 30u. FFF 11 11||INDICATION FFF f/u FFF 12 12||INDICATION FFF me FFF 14 14||DRT FFF one month, FFF 16 17||INDICATION FFF f/u FFF 21 21||

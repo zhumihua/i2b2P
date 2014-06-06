@@ -1,0 +1,60 @@
+223-04	1	Record date: 2087-03-22	
+223-04	2	Internal Medicine	
+223-04	3	Reason for visit	
+223-04	4	Diarrhea		INDICATION FFF diarrhea#0
+223-04	5	Fever		INDICATION FFF fever#0
+223-04	6	Chest pain		INDICATION FFF chest pain#1
+223-04	7	Fatigue		INDICATION FFF fatigue#0
+223-04	8	History of present illness	
+223-04	9	The patient is here complaining of several days history of diarrhea with mild nausea, mild fever and retrosternal chest discomfort.		DRT FFF several days#7	INDICATION FFF diarrhea#10	INDICATION FFF nausea#13	INDICATION FFF fever#15
+223-04	10	That is intermittent mild and  insiduous.	
+223-04	11	The pain is not triggered by exercise or physical activity or position.		INDICATION FFF the pain#1	DRT FFF physical activity#9
+223-04	12	She has been feeling weak.	
+223-04	13	Medical history	
+223-04	14	Coronary vasospastic events	
+223-04	15	Glucose intolerance + postprandial hyperglycemia		INDICATION FFF glucose intolerance#1	INDICATION FFF hyperglycemia#4
+223-04	16	Hyperlipidemia		INDICATION FFF hyperlipidemia#0
+223-04	17	Hypertension		INDICATION FFF hypertension#0
+223-04	18	Postmenopausal	
+223-04	19	Cervical osteoarthritis DDD		INDICATION FFF osteoarthritis#1
+223-04	20	Microscopic hematuria with negative work up	
+223-04	21	Hypovitaminosis D		INDICATION FFF hypovitaminosis d#1
+223-04	22	Obesity - now loosing weight		INDICATION FFF obesity#0	INDICATION FFF weight#4
+223-04	23	Current meds	
+223-04	24	Amlodipine                 5 mg qd		DIN FFF amlodipine#0	DOSE FFF 5mg#2	FREQ FFF qd#3
+223-04	25	Metoprolol XL             50 mg qd		DIN FFF metoprolol#0	DOSE FFF 50mg#3	FREQ FFF qd#4
+223-04	26	Valsartan                160 mg qd       -combined		DIN FFF valsartan#0	DOSE FFF 160mg#2	FREQ FFF qd#3
+223-04	27	Hydrochlorothiazide       25 mg qd       -combined		DIN FFF hydrochlorothiazide#0	DOSE FFF 25mg#2	FREQ FFF qd#3
+223-04	28	Atorvastatin              20 mg qd		DIN FFF atorvastatin#0	DOSE FFF 20mg#2	FREQ FFF qd#3
+223-04	29	Aspirin                   81 mg qd		DIN FFF aspirin#0	DOSE FFF 81mg#2	FREQ FFF qd#3
+223-04	30	Metformin                500 mg bid		DIN FFF metformin#0	DOSE FFF 500mg#2	FREQ FFF bid#3
+223-04	31	Review of systems	
+223-04	32	Denies abdominal pain, vomiting, dyspnea		INDICATION FFF abdominal pain#2	INDICATION FFF vomiting#3	INDICATION FFF dyspnea#4
+223-04	33	Family and social history	
+223-04	34	Place of birth        GambiaHome residence        JaffreyMarital status        MarriedHousehold members     HusbandOccupation            Composer	
+223-04	35	Mother       A       dementia		INDICATION FFF dementia#2
+223-04	36	Father       A       diabetes		INDICATION FFF diabetes#2
+223-04	37	Brothers     0	
+223-04	38	Sisters      1	
+223-04	39	Spouse       A	
+223-04	40	Children     2	
+223-04	41	Cancer       0		INDICATION FFF cancer#0
+223-04	42	Diabetes     +       F		INDICATION FFF diabetes#0	INDICATION FFF f#2
+223-04	43	+       M	
+223-04	44	CV Disease   0		INDICATION FFF cv disease#1
+223-04	45	Stroke       0		INDICATION FFF stroke#0
+223-04	46	Labs and images	
+223-04	47	Reviewed	
+223-04	48	Exam	
+223-04	49	Vitals 110/72  96  16  98.0	
+223-04	50	HEENT eomi, conjunctiva pink, ears clear, nasal mucosa pink, no mucus, no sinus tenderness, no post nasal drip.		RUT FFF nasal#6	RUT FFF nasal#16	RUT FFF drip#17
+223-04	51	Neck is supple, no JVD, no thyroid imprint, no submandibular nodes.	
+223-04	52	Thorax expands symmetrically, clear to auscultation bilaterally.	
+223-04	53	Pain reproduced on chest palpation.		INDICATION FFF pain#0
+223-04	54	Cardiovascular S1 and S2 with regular rhythm and rate.	
+223-04	55	No murmurs.	
+223-04	56	Abdomen is soft, non tender, no palpable masses or organomegaly.	
+223-04	57	Increased bowel sounds.	
+223-04	58	Extremities are symmetrical with no edema.		INDICATION FFF edema#5
+223-04	59	Neurological exam is grossly non focal.	
+223-04	60	Assessment and plan	

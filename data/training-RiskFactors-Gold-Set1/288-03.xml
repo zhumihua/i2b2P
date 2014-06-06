@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2066-03-03
+
+GRANITE COUNTY MEMORIAL
+Arthritis Department
+93 Weld St                             BIRD, TERRI
+Lisbon, SD  52797                             80910690
+                                              3-03-66
+ 
+ 
+ 
+ID: Mrs. Bird comes in today for a routine check-up.  She is a 
+70-year-old female with multiple medical problems including atrial 
+fibrillation, status post renal allograft, status post MVR and AVR, on 
+Coumadin now, history of CABG in the setting of her valve replacements, 
+history of a recent aortic aneurysm repair with some mental status 
+diminution after the surgery. 
+ 
+MEDICATIONS: Synthroid, Hydralazine, Lopressor, prednisone, Coumadin, 
+Provera, NPH insulin, Neurontin 300mg t.i.d., Imuran 100mg a day, Zocor 
+20mg a day, and Digoxin 0.25 alternating with 0.125mg.  She is also 
+taking Fosamax 10mg a day and Premarin 0.3mg a day.  
+ 
+The patient is followed closely by a visiting nurse at home.  Her blood 
+pressure checks have all been 120-140/70-90 and her blood sugars have 
+been running in the morning between 80 and 120 and in the evening from 
+150 all the way up to 450.  We have made some adjustments recently in 
+her NPH morning dose, and hope to see if this will make a benefit.  
+ 
+Patient notes that she has been feeling generally well, that she has 
+been able to fill her cassettes for her medicines, and overall manage her 
+medicines without problems.  She does note that she is having some pain 
+down her left leg, which she describes as her usual sciatica.  The 
+patient has had this on multiple occasions, and it usually waxes and 
+wanes over time.  The Neurontin in the past has been very helpful for 
+this. 
+ 
+The patient denies any chest pain, shortness of breath, has had no 
+fevers or weight loss recently, and has no dyspnea at nighttime. 
+ 
+PHYSICAL EXAM: Notable for a short female in no acute distress, who 
+walks with a walker today.  Blood pressure: 144/76.  Pulse: 78 and 
+regular.  Her lungs bilaterally are clear to auscultation.   Her heart 
+is with sharp click during S1 and S2.  She has got a regular rate and 
+rhythm today.  Her abdomen is soft, nontender, with no organomegaly.  
+She has got a well-healed abdominal scar. She has got no lower extremity 
+edema.  Her musculoskeletal examination is notable for tenderness up 
+into the sciatic notch on the left side.  She has got otherwise joints 
+that move through a normal range of motion, no swelling or warmth. There 
+is no evidence for ecchymoses or petechiae anywhere.  
+ 
+Today will check a hemoglobin A1C, a CBC, and a chem 7 for routine 
+monitoring. 
+ 
+My overall impression is that Ms. Bird is doing quite well.   I will 
+not make any changes to her medicines until I see her hemoglobin A1C.  I 
+suggested that I could give her an injection for her sciatica, but I 
+would rather wait because of her anticoagulation, and to see whether it 
+remits on it's own. 
+ 
+GRANITE COUNTY MEMORIAL
+Arthritis Department
+12 Weld St                             BIRD, TERRI
+Lisbon, SD  52797                             80910690
+                                              3-03-66
+PAGE 2
+ 
+ 
+Lastly, as far as her ability to drive, this has been an issue for the 
+last several months since her abdominal aortic aneurysm repair. She is 
+clearly doing better from a mental status standpoint, as evidenced by 
+her being able to manage her own medications.  I have discussed this 
+issue at length with family and her nurse, and everybody is comfortable 
+with her trying to drive with someone in the car with her.  I will talk 
+to her son, Steven Bird, who lives downstairs, and see whether he or 
+his wife could help with trying her out driving first in a schoolyard 
+without any people there, and then on less-crowded roads, and then 
+finally in a more regular situation.  We will try this over time and see 
+how it works, and I will be involved in making any decisions as far as 
+letting her drive on her own. 
+ 
+ 
+ 
+______________________________
+Steve George, M.D.                                                    
+ 
+EH:UC:8398                                                               
+DD:3-03-66                                                              
+DT:3-04-66                                                              
+DV:3-03-66                                                              
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC6" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC8" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC11" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="insulin" type2=""/>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC12" time="before DCT" indicator="high bp"/>
+    <CAD id="DOC4" time="before DCT" indicator="event"/>
+    <FAMILY_HIST id="DOC7" indicator="not present"/>
+    <SMOKER id="DOC10" status="unknown"/>
+  </TAGS>
+</root>

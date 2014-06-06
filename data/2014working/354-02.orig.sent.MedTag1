@@ -1,0 +1,91 @@
+354-02||1||Record date: 2095-09-04
+354-02||2||ADULT PHYSICAL EXAM VISIT
+354-02||3||DATE:
+354-02||4||9/04/95
+354-02||5||New pt to me; previously cared for by Dr.||INDICATION FFF me; FFF 3 3||
+354-02||6||Winston, Dr. Dye. pt nearly 20 min late for 30 min appt
+354-02||7||CONCERNS:
+354-02||8||1. Need refill on cholesterol med||INDICATION FFF cholesterol FFF 4 4||
+354-02||9||PMH/PROBLEM LIST:
+354-02||10||CHRONIC JOINT PAIN||INDICATION FFF joint pain FFF 1 2||
+354-02||11||GERDS
+354-02||12||INTERTRIGO
+354-02||13||Htn||INDICATION FFF htn FFF 0 0||
+354-02||14||dyslipidemia
+354-02||15||dm||INDICATION FFF dm FFF 0 0||
+354-02||16||avnrt 2094||INDICATION FFF avnrt FFF 0 0||
+354-02||17||obesity||INDICATION FFF obesity FFF 0 0||
+354-02||18||rbbb
+354-02||19||oa||INDICATION FFF oa FFF 0 0||
+354-02||20||mild rhabdo thought to be due to crestor||DBN FFF crestor FFF 7 7||
+354-02||21||neg dipyridamole myocardial PET scan 8/94 (no flow limiting CAD, nl LV fxn)||DIN FFF dipyridamole FFF 1 1||INDICATION FFF pet FFF 3 3||INDICATION FFF cad, FFF 9 9||INDICATION FFF lv FFF 11 11||
+354-02||22||MEDICATIONS:
+354-02||23||albuterol inh||DIN FFF albuterol FFF 0 0||RUT FFF inh FFF 1 1||
+354-02||24||oyst-cal 500 w/ vit D -- 1 tab bid||DRT FFF 500 w/ FFF 1 2||DIN FFF vit d FFF 3 4||DOSEAMT FFF 1 tab FFF 6 7||FREQ FFF bid FFF 8 8||
+354-02||25||tramadol 50 mg tabs  -- 1 tab q 6 hrs||DIN FFF tramadol FFF 0 0||DOSE FFF 50 mg FFF 1 2||DOSEAMT FFF 1 tab FFF 5 6||FREQ FFF q 6 hrs FFF 7 9||
+354-02||26||metformin 500 mg po bid||DIN FFF metformin FFF 0 0||DOSE FFF 500 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF bid FFF 4 4||
+354-02||27||avandia 8 mg po qd||DBN FFF avandia FFF 0 0||DOSE FFF 8 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+354-02||28||lisnopril 10 mg po qd||DOSE FFF 10 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+354-02||29||hctz 25 mg po qd||DPN FFF hctz FFF 0 0||DOSE FFF 25 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+354-02||30||asa 81 mg po qd||DIN FFF asa FFF 0 0||DOSE FFF 81 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+354-02||31||atenolol 50 mg po qd||DIN FFF atenolol FFF 0 0||DOSE FFF 50 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+354-02||32||omeprazole 20 mg po qd||DIN FFF omeprazole FFF 0 0||DOSE FFF 20 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+354-02||33||loratadine 10 mg po qd||DIN FFF loratadine FFF 0 0||DOSE FFF 10 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+354-02||34||1 touch lancets
+354-02||35||1 touch blood glucose strips
+354-02||36||2 touch monitor
+354-02||37||fosamax 70 mg tabs , 1 tab q wk||DBN FFF fosamax FFF 0 0||DOSE FFF 70 mg FFF 1 2||DOSEAMT FFF 1 tab FFF 5 6||FREQ FFF q wk FFF 7 8||
+354-02||38||doxepin 25 mg po qd||DIN FFF doxepin FFF 0 0||DOSE FFF 25 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+354-02||39||amitriptyline 10 mgpo qd||DIN FFF amitriptyline FFF 0 0||DOSE FFF 10 FFF 1 1||FREQ FFF qd FFF 3 3||
+354-02||40||cholesterol med - hasn't taken in 1.5 months||INDICATION FFF cholesterol FFF 0 0||DRT FFF 1.5 months FFF 6 7||
+354-02||41||ALLERGIES:||INDICATION FFF allergies: FFF 0 0||
+354-02||42||crestor --rhabdo||DBN FFF crestor FFF 0 0||
+354-02||43||SOCIAL HISTORY and HABITS:
+354-02||44||Tobacco: no
+354-02||45||Alcohol: no
+354-02||46||Recreational Drugs: none||DIN FFF drugs: FFF 1 1||
+354-02||47||Sexual History: yes, doesn't use condoms
+354-02||48||Diet:  pt says is varied.
+354-02||49||Exercise: walks a little
+354-02||50||Seat Belts: yes
+354-02||51||REVIEW OF SYSTEMS:
+354-02||52||cough --||INDICATION FFF cough FFF 0 0||
+354-02||53||reports 2 weeks of cough; associated w/ tickling senstation in throat no nasal discharge, no fever||DRT FFF 2 weeks FFF 1 2||INDICATION FFF cough; FFF 4 4||RUT FFF nasal FFF 12 12||INDICATION FFF fever FFF 15 15||
+354-02||55||leg pain --||INDICATION FFF leg pain FFF 0 1||
+354-02||56||years in duration
+354-02||57||told she had arthritis||INDICATION FFF arthritis FFF 3 3||
+354-02||58||PHYSICAL EXAM
+354-02||59||VS: 206 1/2 lb  59.75 inches 98.5  126/92  72
+354-02||60||GENERAL: Well-appearing, in no apparent distress.
+354-02||61||SKIN: No suspicious lesions.
+354-02||62||HEENT: Head normocephalic, atraumatic.
+354-02||63||Sclerae and conjunctiva unremarkable.
+354-02||64||EOMI.    No nasal discharge.||RUT FFF nasal FFF 2 2||
+354-02||65||Mucous membranes moist with no erythema, lesions, or exudate.||INDICATION FFF erythema, FFF 5 5||
+354-02||66||NECK:  no lymphadenopathy, no thyroidmegaly.
+354-02||67||PULM: No accessory muscle use.
+354-02||68||Clear to auscultation without wheezes, rhonchi, or rales.||INDICATION FFF wheezes, FFF 4 4||
+354-02||69||CV: RRR, normal S1,S2, no murmur/rug/or gallop.
+354-02||70||BREASTS: symmetric.
+354-02||71||No nipple or skin abnormalities, no mass lesions, no axillary nodes.
+354-02||72||ABDOMEN: Soft, non-tender, non-distended with no HSM.
+354-02||73||GYN: Derferred as had pelvic, PAP earlier this year.||INDICATION FFF as FFF 2 2||INDICATION FFF pap FFF 5 5||
+354-02||74||NEURO: Alert, oriented.
+354-02||75||ASSESSMENT and PLAN:
+354-02||76||This is a a 68 yr old f with the following issues:||DRT FFF 68 yr FFF 4 5||INDICATION FFF f FFF 7 7||
+354-02||77||#1 Routine Health Maintenance:
+354-02||78||--PAP; pt reports had nl PAP this year w/ Dr.||INDICATION FFF --pap; FFF 0 0||INDICATION FFF pap FFF 5 5||
+354-02||79||Dye --mammography -- per pt had this year w/ Dr.
+354-02||80||Dye and was nl --colorectal -- had at GH this year and was wnl per pt
+354-02||81||--osteoporosis screening -- pt reports she had this done this year by other PCP -- is already on fosamax||INDICATION FFF --osteoporosis FFF 0 0||INDICATION FFF pcp FFF 13 13||DBN FFF fosamax FFF 18 18||
+354-02||82||--asa if risk for cad -- already on||DIN FFF --asa FFF 0 0||INDICATION FFF risk FFF 2 2||INDICATION FFF cad FFF 4 4||
+354-02||83||Imms: pneumcoccal -- pt reports 3 years ago but isn't entirely sure, Td -- doesn't recall||DRT FFF 3 years FFF 5 6||RUT FFF td FFF 12 12||
+354-02||84||Asked pt to get records.
+354-02||85||#2 HTN||INDICATION FFF htn FFF 1 1||
+354-02||86||126/92; 92 not at goal.
+354-02||87||Pt doesn't want me to recheck her bp today.||INDICATION FFF me FFF 3 3||INDICATION FFF her bp FFF 6 7||
+354-02||88||No changes in med today, will check at next visit. --check lytes given meds #3 DM||INDICATION FFF dm FFF 15 15||
+354-02||89||Report that she check sugars at home.  107 this nl.  69-107 in general.
+354-02||90||--check Hgb A1c
+354-02||91||--check U microalbumin
+354-02||92||#4 Dyslipidemia

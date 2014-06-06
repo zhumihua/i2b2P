@@ -1,0 +1,11 @@
+229-01	9	0	He took one TNG over the past 6 months for indigestion like sensation.	tng FFF 3 3	 FFF 	 FFF 	 FFF 	6 months FFF 7 8	 FFF 	narrative
+229-01	17	0	ASA 325 mg po qd Start: 05/08/2079	asa FFF 0 0	325 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+229-01	18	0	Plavix 75mg po qd Start: 05/08/2079	plavix FFF 0 0	75mg FFF 1 1	po FFF 2 2	qd FFF 3 3	 FFF 	 FFF 	narrative
+229-01	19	0	Toprol XL 25mg po qd Start: 05/08/2079	toprol xl FFF 0 1	25mg FFF 2 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+229-01	20	0	Lipitor 10mg po qd Start: 05/08/2079	lipitor FFF 0 0	10mg FFF 1 1	po FFF 2 2	qd FFF 3 3	 FFF 	 FFF 	narrative
+229-01	21	0	lisinopril 10 mg po qd Start: 05/08/2079	lisinopril FFF 0 0	10 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+229-01	22	0	Prilosec 20mg po qd Start: 05/08/2079	prilosec FFF 0 0	20mg FFF 1 1	po FFF 2 2	qd FFF 3 3	 FFF 	 FFF 	narrative
+229-01	23	0	Imdur 30 mg SR po qd Start: 05/08/2079	imdur FFF 0 0	30 mg FFF 1 2	po FFF 4 4	qd FFF 5 5	 FFF 	 FFF 	narrative
+229-01	24	0	Lasix 10mg po qd Start: 05/08/2079	lasix FFF 0 0	10mg FFF 1 1	po FFF 2 2	qd FFF 3 3	 FFF 	 FFF 	narrative
+229-01	51	0	LDL goal should be 60-80 and Lipitor is increased to 20mg hs in this regard.	lipitor FFF 6 6	20mg FFF 10 10	 FFF 	hs FFF 11 11	 FFF 	 FFF 	narrative
+229-01	52	0	BP goal should be 120 systolic and Lisinopril is increased to 20mg from 10mg in this regard,.	lisinopril FFF 7 7	20mg FFF 11 11	 FFF 	 FFF 	 FFF 	 FFF 	narrative

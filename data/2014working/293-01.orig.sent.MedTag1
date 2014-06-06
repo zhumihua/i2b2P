@@ -1,0 +1,44 @@
+293-01||1||Record date: 2076-12-15
+293-01||2||STONYBROOK EMERGENCY DEPT VISIT
+293-01||4||QUINLEY,CORA   759-87-55-2                         VISIT DATE: 12/15/76
+293-01||5||This patient was seen by me in the emergency department on||INDICATION FFF me FFF 5 5||
+293-01||6||December 15, 2076, with the resident.
+293-01||7||Resident's note reviewed.
+293-01||8||Patient interviewed and examined by me.||INDICATION FFF me. FFF 5 5||
+293-01||9||See resident's note for  further details.
+293-01||10||Past medical history, social history, and family  history all reviewed and confirmed with the resident's note.
+293-01||11||HISTORY OF PRESENTING COMPLAINT:  The patient is a pleasant
+293-01||12||70-year-old female who comes in with substernal chest pressure, a  tightness involving her upper back also, two distinct discomforts.||INDICATION FFF pressure, FFF 8 8||INDICATION FFF tightness FFF 10 10||
+293-01||13||There are no exertional symptoms, no nausea, no vomiting, no||INDICATION FFF symptoms, FFF 4 4||INDICATION FFF nausea, FFF 6 6||INDICATION FFF vomiting, FFF 8 8||
+293-01||14||diarrhea, no abdominal pain, and no palpitations.||INDICATION FFF diarrhea, FFF 0 0||INDICATION FFF abdominal pain, FFF 2 3||
+293-01||15||The patient does  report some mild shortness of breath.||INDICATION FFF shortness of breath. FFF 6 8||
+293-01||16||The chest pressure is not  acute in onset.||INDICATION FFF pressure FFF 2 2||
+293-01||17||There is no exacerbation with activity.
+293-01||18||She had a  negative exercise tolerance test four years ago.||DRT FFF four years FFF 7 8||
+293-01||19||Since being here,  she has received some improvement in her symptoms after  nitroglycerin.||INDICATION FFF symptoms FFF 10 10||DIN FFF nitroglycerin. FFF 12 12||
+293-01||20||She has no known coronary disease.||INDICATION FFF coronary disease. FFF 4 5||
+293-01||21||PAST MEDICAL HISTORY:  Atrial fibrillation and insulin-dependent||INDICATION FFF atrial fibrillation FFF 3 4||
+293-01||22||diabetes mellitus.||INDICATION FFF diabetes mellitus. FFF 0 1||
+293-01||23||SOCIAL HISTORY AND FAMILY HISTORY:  The patient is an active smoker  and lives alone.
+293-01||24||No family history.
+293-01||25||PHYSICAL EXAMINATION:  Patient is hemodynamically stable, nontoxic,  well appearing, resting comfortably.
+293-01||26||NECK:  No jugulovenous  distention.
+293-01||27||LUNGS:  Clear.  HEART:  Regular rate and rhythm.
+293-01||28||ABDOMEN:  Soft.  NEUROLOGIC:  Nonfocal.
+293-01||29||LABORATORY EVALUATION:  White count is 7.8, hematocrit 41.||INDICATION FFF hematocrit FFF 6 6||
+293-01||30||Normal  electrolyte panel.
+293-01||31||Troponin I is 0.3 which is elevated.
+293-01||32||CK is 160  which is normal.
+293-01||33||The EKG shows some flattening T wave laterally  which is old.||INDICATION FFF t FFF 5 5||
+293-01||34||A chest x-ray shows no effusion, infiltrate, or  pneumothorax.||INDICATION FFF pneumothorax. FFF 8 8||
+293-01||35||THERAPY RENDERED/COURSE IN ED:  The patient has a positive troponin  here and will be admitted.||INDICATION FFF ed: FFF 3 3||
+293-01||36||She will be heparinized __________  started.
+293-01||37||See resident's note for details.
+293-01||38||FINAL DIAGNOSES:
+293-01||39||1.  Rule out myocardial infarction.||INDICATION FFF myocardial infarction. FFF 3 4||
+293-01||40||2.  Chest tightness.||INDICATION FFF tightness. FFF 2 2||
+293-01||41||DISPOSITION (including condition upon discharge):  The patient was  admitted to the hospital in stable condition.
+293-01||42||___________________________________                    ID374/80829
+293-01||43||CHRISTOPHER QUINTOS, M.D.       CQ07                         D:12/15/76
+293-01||44||T:12/15/76
+293-01||45||Dictated by:  CHRISTOPHER QUINTOS, M.D.       CQ07

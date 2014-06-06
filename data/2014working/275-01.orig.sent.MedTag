@@ -1,0 +1,29 @@
+275-01	1	Record date: 2089-04-04	
+275-01	2		
+275-01	3	SDU JAR Transfer Note	
+275-01	4	Name:   Catherine Kong	
+275-01	5	MR: 6746781	
+275-01	6	DOA:   4/3/89	
+275-01	7	DOT: 4/4/89	
+275-01	8	PCP:  William Sawyer		INDICATION FFF pcp#0
+275-01	9	Attending: WARD	
+275-01	10	CODE: FULL	
+275-01	11	HPI:	
+275-01	12	Please see admit note for details of history prior to admission.	
+275-01	13	Overnight in the SDU, patient was given several stepwise doses of lasix.		DRT FFF overnight#0	DBN FFF lasix#11
+275-01	14	She put out about 500cc to 30 IV lasix, then another 300cc to 40 IV lasix.		TOD FFF cc#4	RUT FFF iv#7	DBN FFF lasix#8	TOD FFF cc#11	RUT FFF iv#14	DBN FFF lasix#15
+275-01	15	Patient was hypoxic on a NRB with sats in low 90s and RR of 45, but improved when transitioned to high flow O2 with saturation in high 90s and RR of 30.		DIN FFF sats#7
+275-01	16	Bedside TTE done in the morning confirmed aortic valve leaflet vegetations and moderate AI.		RUT FFF bedside#0	TOD FFF in the morning#5
+275-01	17	CT surgery was consulted, and given prior hx of angina and recent episodes of chest pain, they requested cardiac cath prior to OR for valve replacement.		INDICATION FFF ct#0	INDICATION FFF surgery#1	INDICATION FFF angina#9	INDICATION FFF chest pain#15
+275-01	18	ASSESSMENT AND PLAN:	
+275-01	19	70 yo F p/w acute CHF 2/2 aortic insufficiency from subacute aortic valve endocarditis		INDICATION FFF f#2	INDICATION FFF chf#5	INDICATION FFF endocarditis#13
+275-01	20	CV:	
+275-01	21	Ischemia: History of stable angina, no prior MI.		INDICATION FFF ischemia#0	INDICATION FFF angina#4	INDICATION FFF mi#7
+275-01	22	No acute ST changes, borderline troponin elevation, recent history of chest pain at rest.		INDICATION FFF st#2	INDICATION FFF chest pain#11
+275-01	23	Cardiac cath today to eval for CAD		INDICATION FFF cad#6
+275-01	24	Hold anticoagulation given likely CT surgery		INDICATION FFF anticoagulation#1	INDICATION FFF ct#4	INDICATION FFF surgery#5
+275-01	25	Pump: AV endocarditis by TTE resulting in moderate AI and significant pulmonary edema.		INDICATION FFF av#1	INDICATION FFF endocarditis#2	INDICATION FFF pulmonary edema#12
+275-01	26	Per discussion with microbiology lab at Community Hospital, patient was positive for Beta Strep Group B 2/2 bottles on 2/21/89, sensitivities were not done.		INDICATION FFF strep#13	DOSEAMT FFF 2/2 bottles#17
+275-01	27	Continue amp/vanc/gent, await culture and sensitivity results		DPN FFF vanc#1
+275-01	28	Continue to titrate lasix to TBB     1-2 liters per day		DBN FFF lasix#3	DOSE FFF 1-2liters#7	FREQ FFF per day#9
+275-01	29	Rhythm: Normal sinus rhythm	

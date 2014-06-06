@@ -1,0 +1,4 @@
+365-01	17	0	THERAPY RENDERED/COURSE IN ED:  The patient received a tetanus shot  and was seen by the Burn Service.	tetanus FFF 8 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+365-01	18	0	He was dressed with Bacitracin  and discharged home.	bacitracin FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+365-01	22	0	DISPOSITION (including condition upon discharge):  He is discharged  with Bacitracin ointment and analgesics, and is to follow up in 48  hours.	bacitracin ointment FFF 9 10	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+365-01	22	0	DISPOSITION (including condition upon discharge):  He is discharged  with Bacitracin ointment and analgesics, and is to follow up in 48  hours.	analgesics, FFF 12 12	 FFF 	 FFF 	 FFF 	48 hours. FFF 19 20	 FFF 	narrative

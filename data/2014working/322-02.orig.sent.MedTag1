@@ -1,0 +1,47 @@
+322-02||1||Record date: 2076-08-30
+322-02||2||EDVISIT^24490460^VAUGHN, FRANK^08/30/76^JABLONSKI, SHIRLEY||INDICATION FFF frank^08/30/76^jablonski, FFF 1 1||
+322-02||3||The patient was interviewed and examined by myself, Dr.
+322-02||4||Jablonski, as well as the resident, Dr.||INDICATION FFF as FFF 1 1||INDICATION FFF as FFF 3 3||
+322-02||5||Ortiz for visit on 08/30/2076.
+322-02||6||Please see note for details reviewed in full.
+322-02||7||HISTORY OF PRESENT ILLNESS:  This is an obese 32-year-old||INDICATION FFF obese FFF 7 7||
+322-02||8||gentleman with history of high cholesterol, hypertension, and||INDICATION FFF cholesterol, FFF 5 5||INDICATION FFF hypertension, FFF 6 6||
+322-02||9||diabetes who comes in after trying to increase his exercise over||INDICATION FFF diabetes FFF 0 0||
+322-02||10||the last couple of weeks with shortness of breath and fatigue and||INDICATION FFF shortness of breath FFF 6 8||INDICATION FFF fatigue FFF 10 10||
+322-02||11||difficulty breathing since his walking yesterday.||INDICATION FFF difficulty breathing FFF 0 1||
+322-02||12||He went to bed and woke up today with continued symptoms.||INDICATION FFF symptoms. FFF 10 10||
+322-02||13||FAMILY HISTORY:  Besides his past medical history, he has a
+322-02||14||significant CAD in his grandfather with CHF.||INDICATION FFF cad FFF 1 1||INDICATION FFF chf. FFF 6 6||
+322-02||15||His father died at early age of 19 of a traumatic accident.
+322-02||16||SOCIAL HISTORY:  She does not drink and does not smoke.
+322-02||17||PAST SURGICAL HISTORY:  He himself has had no surgeries except a
+322-02||18||cholecystectomy.
+322-02||19||REVIEW OF SYSTEMS:  Shortness of breath, no chest pain, no||INDICATION FFF shortness of breath, FFF 3 5||INDICATION FFF chest pain, FFF 7 8||
+322-02||20||lightheadedness, no leg swelling, no palpitations, and came in||INDICATION FFF leg swelling, FFF 2 3||
+322-02||21||acutely diaphoretic with shortness of breath.||INDICATION FFF shortness of breath. FFF 3 5||
+322-02||22||MEDICATIONS:  Lantus, glipizide, Zocor, atenolol, and was||DBN FFF lantus, FFF 1 1||DIN FFF glipizide, FFF 2 2||DBN FFF zocor, FFF 3 3||DIN FFF atenolol, FFF 4 4||
+322-02||23||recently started insulin as above a week ago.||DIN FFF insulin FFF 2 2||INDICATION FFF as FFF 3 3||DRT FFF a week FFF 5 6||
+322-02||24||ALLERGIES:  No known drug allergies.||INDICATION FFF allergies: FFF 0 0||INDICATION FFF drug allergies. FFF 3 4||
+322-02||25||PHYSICAL EXAMINATION:  Mildly obese gentleman with a pulse of||INDICATION FFF obese FFF 3 3||
+322-02||26||100, respiratory rate 28, O2 saturation 97 on 4 L, blood pressure||DOSE FFF 4 l, FFF 8 9||INDICATION FFF blood pressure FFF 10 11||
+322-02||27||132/69, and temperature 98.1.||INDICATION FFF temperature FFF 2 2||
+322-02||28||HEENT is anicteric.
+322-02||29||Neck is supple.
+322-02||30||Heart is regular rate and rhythm although distant heart sounds.
+322-02||31||He is tachypneic but no obvious wheezes.||INDICATION FFF wheezes. FFF 6 6||
+322-02||32||He has soft abdomen.
+322-02||33||Extremities showed no cyanosis, clubbing, or edema, no calf tenderness.||INDICATION FFF cyanosis, FFF 3 3||INDICATION FFF edema, FFF 6 6||
+322-02||34||Neurologic:  Oriented x3.||FREQ FFF x3. FFF 2 2||
+322-02||35||No obvious cranial, motor, or sensory deficits.
+322-02||36||Differential can be acute coronary syndrome versus PE.||INDICATION FFF pe. FFF 7 7||
+322-02||37||His weight is 330 pounds, went ahead and got a d-dimer, which was||INDICATION FFF weight FFF 1 1||
+322-02||38||negative.
+322-02||39||We went ahead and got an EKG, which is normal.
+322-02||40||Normal chest x-ray.
+322-02||41||Normal CKs, troponins, and SMA-7.
+322-02||42||His magnesium is slightly therapeutic at 1.7, which was repleted.||INDICATION FFF his magnesium FFF 0 1||
+322-02||43||His hematocrit and white count were normal.||INDICATION FFF hematocrit FFF 1 1||
+322-02||44||DIAGNOSIS:  Shortness of breath, concern for ischemic equivalent.||INDICATION FFF shortness of breath, FFF 1 3||
+322-02||45||DISPOSITION:  Admitted to the Medicine Service in stable
+322-02||46||condition.
+322-02||47||______________________________

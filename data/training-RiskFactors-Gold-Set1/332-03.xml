@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2097-08-21
+
+
+
+Neil, Ruba
+
+Internal Medicine Associates, Suite M
+
+Shady Rest Care Center, 4th Floor , Room 483
+
+Arroyo Grande, KS, 19741-6273
+
+		RE: ALAINA  ROJAS
+
+08/21/2097
+
+Admission Note
+
+87 yo woman with bilat leg swelling for several weeks; now with 1 week of redness L> R.  
+
+
+
+Problems:
+
+Diabetes mellitus- HgB A1c7.6
+
+Hypertension- adequate control
+
+Hyperlipidemia
+
+Chronic renal failure
+
+Iron deficiency anemia
+
+
+
+
+
+Allergies:
+
+No known drug allergy
+
+
+
+Medications:
+
+vitamin d 1000 units po daily
+
+glipizide 10 mg po bid take 30min before meals
+
+Prandin 2 mg before each meal 2 week supply til mail order arrives
+
+ferrous sulfate 325mg po bid
+
+lisinopril 40 mg po daily
+
+Norvasc 10mg po daily
+
+metoprolol 25mg po take 3 tabs twice a day
+
+lovastatin 10mg po qpm take with food
+
+furosemide 20 mg po daily
+
+Ecotrin 325 mg po daily
+
+
+
+Family history:
+
+She was born in Arroyo Grande.  She had five children; four of them are alive, all living in the area.  Husband died in 2080. Mother had Parkinson's disease.  Sister had breast cancer at the age of 72.
+
+
+
+Social history:
+
+Continues to get out to the American Senior Center, except on one day.  In the spring, she continues to get out, goes to bingo and continues to be very active.  She gets out everyday.  She is very active.  Daughters are very involved with her.  We have gone over in detail on this visit managing all of her issues.  Continues to go to the club at Dekalb three times a week.  
+
+
+
+Review of systems:
+
+No change in bowel habits, although she is a little bit constipated.  Urine, no hematuria or urinary tract symptoms. Cardiac: No chest pain, shortness of breath, PND, or orthopnea.  Pulmonary, no wheezes or asthma symptoms. HEENT: No ear or throat symptoms.  Allergies: No new issues with that.  Neurologic: No new issues.  Psychiatric: Very anxious about all of the medications she has to take it as she was someone, who never needed pills.  We tried to reassure her and spent the majority of this 45-minute visit on that coordinating her care.
+
+
+
+Physical Exam:
+
+Blood pressure: 130/82
+
+Pulse: 57
+
+Weight: 167 pounds
+
+Office blood glucose fingerstick: 221 at noon
+
+Skin: Warm and dry.  No rashes
+
+Neck: Carotids, normal upstroke without bruits
+
+Nodes: Lymph nodes, no lymphadenopathy
+
+Breasts: No masses, discharge, or tenderness
+
+Chest: Lungs are entirely clear with no wheezes, rales, or rhonchi
+
+Cor: No murmurs, rubs, or gallops, regular rate
+
+Abdomen: Nontender without masses
+
+Extrem: violaceous L shin without obvious streaking; swollen without tenderness.  R shin present but not as severe
+
+
+
+Labs: pending
+
+
+
+Assessment and plan:
+
+Admit for antibiotics IV
+
+
+
+Ruba Neil, MD pager #34596
+
+
+
+Signed electronically by  Ruba Neil, MD
+
+Document Status: Final
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC9" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC21" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC23" time="before DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC6" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC10" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC12" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC13" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC15" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC19" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC22" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC24" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC25" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC27" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC28" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC14" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC26" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC20" indicator="not present"/>
+    <SMOKER id="DOC16" status="unknown"/>
+    <DIABETES id="DOC3" time="during DCT" indicator="A1C"/>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC17" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC29" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

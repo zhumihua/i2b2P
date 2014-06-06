@@ -1,0 +1,97 @@
+361-04	1	0	Record date: 2068-06-23
+361-04	2	0	Patient:
+361-04	3	0	 Jay, Corey
+361-04	4	0	MRN:
+361-04	5	0	 47646361
+361-04	6	0	Inpt Attending:
+361-04	7	0	Foy
+361-04	8	0	Admit Date:
+361-04	9	0	6/23/68
+361-04	10	0	CC:
+361-04	11	0	LLQ pain
+361-04	12	0	HPI:
+361-04	13	0	Mr. Jay is a 48yo with type II DM c/b diabetic retinopathy, ESRD on HD, bilateral TMA, and HTN who presents with LLQ pain x2 days.
+361-04	14	0	Mr. Jay was seen in the ED the day prior to admission with the same complaint of new onset LLQ pain, which was sharp, non radiating, and most painful with inspiration.
+361-04	15	0	He reports that at this time, he has some mild shortness of breath with the onset of the pain, although this was resolved by the time he was seen in the ED.
+361-04	16	0	He did not complain of any chest pain, palpitations or dipahoresis at that time, although he did have some nausea and vomited once in the ED.
+361-04	17	0	Patient is well known to the ED from prior admissions, and at that time his pain was felt to be 2/2 to throacic radiculopathy/neuropathy 2/2 to his diabetes, however acuity of pain, CT abdomen was performed at that time, which did not reveal any acute patholgy to explain his pain.
+361-04	18	0	He was discharged to home at that time with oral pain medication.
+361-04	19	0	Patient reports that pain did not improve, and was not well controlled with oral pain mediations at home, so he re- presented to the ED.
+361-04	20	0	He does not report any fevers or chills, shortness of breath, cough, back pain, or LE swelling.
+361-04	21	0	Patient is anuric and has been attending dialysis per his usual MWF routine.
+361-04	22	0	On presentation to the ED, patient was afebrile, BP 180s/90s, HR 70s, satting 100% on RA.
+361-04	23	0	He was given IV morphine for his pain, and IV benedryl for nausea (he has had a cyclic vomiting/nausea syndrome on prior admission which has been effectively treated this way).
+361-04	24	0	Patient reported at that time that he had not had a bowel movement in 3 days, and that he normally has one every other day.
+361-04	25	0	Rectal exam did not reveal any stool in the vault, and CT scan from the day prior did not show excessive stool or evidence of obstruction or fecal impaction.
+361-04	26	0	However, patient was given dulcolax PR.
+361-04	27	0	He was admitted to medicine for further evaluation and pain control.
+361-04	28	0	PMH:
+361-04	29	0	IDDM, diagnosed 20 years ago, complicated by retinopathy 5 years ago, nephropathy 5 years ago, and bilateral TMA 8 years ago
+361-04	30	0	
+361-04	31	0	ESRD on HD, started HD 5 years ago, on MWF schedule at Cochran Memorial Hospital
+361-04	32	0	Bilateral blindness for 5 years 2/2 diabetic retinopathy
+361-04	33	0	Hypertension
+361-04	34	0	Hyperlipidemia
+361-04	35	0	DepressionGERD/Gastritis
+361-04	36	0	S/p bilateral TMA 8 years ago, complicated by osteomyelitis of right foot in 2065 and 2068
+361-04	37	0	S/p cholecystectomy
+361-04	38	448	Allergies:
+361-04	39	448	NKDA
+361-04	40	438	Home medications:
+361-04	41	438	Acetylsalicylic Acid 81 MG (81 MG TABLET Take 1) PO QD #100 Tablet(s)
+361-04	42	438	Amlodipine 10 MG (10 MG TABLET Take 1) PO QD x 30 days #30 Tablet(s)
+361-04	43	438	Cinacalcet 30 MG PO QHS #30 Tablet(s)
+361-04	44	438	Clonidine 0.2 MG PO BID
+361-04	45	438	Cymbalta (DULOXETINE) 20 MG (20MG CAPSULE DR Take 1) PO BID #60 Capsule(s)
+361-04	46	438	Diphenhydramine Oral 25 MG PO 3x/Week M-W-F PRN Itching, originally prescribed MWF with dialysis, has been taking TID with meals
+361-04	47	438	Docusate Sodium 100 MG PO BID #100 Capsule(s)
+361-04	48	438	Epoetin Alfa (NON-ONCOLOGY) 6000 UNITS IVPUSH x1
+361-04	49	438	Hecterol 6 MCG IV with dialysis, With Dialysis Monday, Wednesday and Friday #1 Month(s) Supply
+361-04	50	438	Hecterol 6 MG 3x/Week M-W-F, GIve with HD
+361-04	51	438	Insulin Lispro Mix 75/25 12 UNITS SC QPM #1 Month(s) Supply
+361-04	52	438	Insulin Lispro Mix 75/25 25 UNITS SC QAM #1 Month(s) Supply
+361-04	53	438	Insulin Syringes ONE PO bid #1 Month(s) Supply
+361-04	54	438	Kexalate 15 GM PO bid, On non dialysis days - En los dias que no se hace dialisis #1 Month(s) Supply
+361-04	55	438	Lisinopril 40 MG PO QD, on non-dialysis days only
+361-04	56	438	Miralax (POLYETHYLENE Glycol ) 17 GM (17G POWD PACK ) PO QD PRN constipation, Each 17 GM dose to be dissolved in 8 oz of water x 15 days #15 doses
+361-04	57	438	Nephro-vit Rx 1 TAB PO QD #90 Tablet(s)
+361-04	58	438	Omeprazole 20 MG (20 MG CAPSULE DR Take 1) PO QD #90 Capsule(s)
+361-04	59	438	Reglan (METOCLOPRAMIDE Hcl) 5 MG (5 MG TABLET Take 1) PO AC PRN nausea, constipation x 30 days #90 Tablet(s)
+361-04	60	438	Sennosides 17.2 MG PO BID PRN Constipation
+361-04	61	438	Sevelamer 2400 MG (800MG TABLET Take 3) PO TID
+361-04	62	438	Simvastatin 20 MG (20MG TABLET Take 1) PO QHS #90 Tablet(s)
+361-04	63	438	Toprol Xl (METOPROLOL Succinate Extended Release) 150 MG (100 MG TAB.SR 24H Take 1) PO QD, Take 1 pill of 100 mg and 1 pill 50 mg for total of 150 mg #60 TAB.SR
+361-04	64	0	FAMILY HISTORY:
+361-04	65	0	
+361-04	66	0	Mother and grandmother with DM.
+361-04	67	0	SOCIAL HISTORY:
+361-04	68	0	
+361-04	69	0	(per note from previous admission 3/10/68)
+361-04	70	0	Originally from Panama City.
+361-04	71	0	Lives with his mother in Needville.
+361-04	72	0	Never married, no children.
+361-04	73	0	Tobacco: Quit 8 years ago, used to smoke 1/2 PPD
+361-04	74	0	EtOH: Quit 8 years ago, used to be a heavy drinker
+361-04	75	0	Illicits: Never
+361-04	76	0	Exam on admission:T Afebrile, HR 78, BP 170/75, RR 18, SaO2 96%RA GEN: spanish speaking, awake, alert, cooperative with exam, mild distress
+361-04	77	0	SKIN: warm and dry; several exoriated lesions, nonerythematous
+361-04	78	0	HEENT:  normocephalic, atraumatic, blind, oropharynx clear, mucous membranes moist.
+361-04	79	0	CHEST: CTAB
+361-04	80	0	CV:  JVP difficult to assess 2/2 body habitus; regular rhythm, holsystolic murmur heard best over LLSB
+361-04	81	0	ABD:  Obese, soft, focal tenderness to palpation over region in the LLQ, no rebound, no guarding, BS present but hypoactive
+361-04	82	0	EXT: warm, bilateral TMAs, distal pulses palpable, fistula left forearm with palpable thrill
+361-04	83	0	NEURO:  Nonfocal
+361-04	84	790	Labs on admission:
+361-04	85	790	Results06/22/2068 NA 136,  K 3.9,  CL 96 (*),  CO2 28,  BUN 37 (*),  CRE 6.52 (*),  EGFR 9 [1],  GLU 204 (*)06/22/2068 ANION 1206/22/2068 LACT 1.1 (#)06/22/2068 CA 9.9,  TBILI 0.3,  TP 7.6,  ALB 4.0,  GLOB 3.6,  LIPS 4306/22/2068 ALT/SGPT 58 (*),  AST/SGOT 24,  ALKP 134 (*),  TBILI 0.306/22/2068 WBC 7.50,  RBC 4.11 (*),  HGB 11.7 (*),  HCT 36.2 (*),  MCV 88.0,  MCH 28.5,  MCHC 32.3,  PLT 26306/22/2068 RDW 19.1 (*)06/22/2068 %POLY-A 67.5,  %LYMPH-A 23.2,  %MONO-A 5.3,  %EOS-A 3.8,  %BASO-A 0.206/22/2068 ANEUT-A 5.06,  ALYMP-A 1.74,  AMONO-A 0.40,  AEOS-A 0.28,  ABASO-A 0.0206/22/2068 ANISO ++,  HYPO ++,  MACRO +,  MICRO +,  LShift + [1][1] RESULT COMMENT: &lt; 5% BANDS SEEN ON SMEARRadiology06/22/2068 00:44 EDUCARE-FARGO RadiologyStudy Name CT SCAN ABDOMEN W/O CONTRAST      TECHNIQUE: CT scans of the abdomen and pelvis were performed with     oral contrast.
+361-04	86	790	No intravenous contrast was administered.
+361-04	87	0	COMPARISON: March 10, 2068.          FINDINGS:     Limited evaluation of the lung bases demonstrate new small     bilateral pleural effusion with bibasilar subsegmental     atelectasis.
+361-04	88	0	There is a small hiatal hernia.
+361-04	89	0	ABDOMEN: The unopacified liver, spleen, pancreas, adrenal glands     are normal.
+361-04	90	0	The kidneys are atrophic bilaterally.
+361-04	91	0	The patient is     status post cholecystectomy.
+361-04	92	0	There is no significant abdominal or     pelvic lymphadenopathy or free fluid.
+361-04	93	0	PELVIS: Opacified loops of small and large bowel are normal.
+361-04	94	0	The     appendix is normal.
+361-04	95	0	There is unchanged diffuse bladder wall     thickening.
+361-04	96	0	The prostate and seminal vesicles are normal.
+361-04	97	0	There     are no suspicious lytic or blastic lesions.

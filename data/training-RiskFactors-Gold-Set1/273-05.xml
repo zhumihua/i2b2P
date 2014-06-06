@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2079-06-10
+
+					
+
+Novolog 3-10 tid	683-51-28
+
+Lantus 19-20 at hs	Xuan, Wendy
+
+CellCept 1000 mg bid 
+
+Rapamune 2/1 mgs qod
+
+Toprol XL 25 mg qd
+
+Lipitor 10 mg qd
+
+Neurontin 600/1200 mg bid
+
+Tums 200 mg ii qd (should be at least bid)
+
+Prilosec 20 mg bid
+
+MVI i bid
+
+ASA 325 mg qd
+
+Tylenol 1325 mg over the day for arthritis
+
+Wellbutrin 150 mg bid
+
+Androgel to leg qd
+
+DHEA 25 mg qd
+
+Celexa 80 mg qAM  (Dr. Colin Keane)
+
+
+
+Jun 10, 2079
+
+
+
+Interim History:	
+
+Comes to review her medical problems.
+
+She has been well overall but has been bothered by trigger finger (R ring). She has seen Dr. Ibarra, who has suggested surgery since a steroid injection did not help.
+
+Brings no test results. No severe hypoglycemia.
+
+Retinopathy:	Saw Dr. Aragon yesterday. Stable. Last laser was about 5 years ago. 1 year.
+
+Nephropathy:	Reports that she cannot do blood tests at KJH since she gets copays. Covered if done at Promptcare. She does not recall when her BUN/Cr were last checked but says that it was prior to January and that results were sent to Dr. Hayes. 
+
+Neuropathy:	Not much troubled by neuropathy.  She still has the sensation of food or liquid getting stuck mid sternal level. BaS last year showed GERD and dysmotility. I am not sure that Reglan would help, but have reluctance to try it in any case because of her long history of depression. 
+
+Cardiac:	She thinks that she may be having dyspnea on exertion that is easier to precipitate than it had been. She has had some sternal discomfort at rest on two occasions while sitting at rest - felt bony. She says that she has been    trying to ignore    the possible increase in dyspnea on exertion. She sees Dr. Dotson in October. 
+
+Vascular:	No claudication
+
+
+
+Past Medical History: 
+
+Medications: Stopped Quinine; increased Celexa. Did not start simvastatin since did not have blood work done. 
+
+
+
+Social History:
+
+Ivory is well. 
+
+
+
+Review of Systems: above
+
+Skin: Saw colleague of Dr. Keeler yesterday. Given cream for scalp.
+
+Gyn: Report that Yareli Kilgore will no longer see her for routine follow-up. Periods are regular. Does not use contraception. Has never been pregnant. Discussed this and she left it that she is not worried about it.
+
+
+
+Physical Exam:	
+
+Looks well.
+
+BP:   120/76		P:   82, regular
+
+Wt:   161.5 without shoes, stable
+
+HEENT:	Anicteric. 
+
+Carotids:	Normal pulses, without bruits
+
+Chest:	Clear to auscultation
+
+Breasts:	No masses; no nodes	
+
+Nodes:	No cervical, supraclavicular, axillary
+
+Heart:	Normal S1; physiologic S2.  S4.  2/6 systolic ejection murmur
+
+Abdomen:	No hepatosplenomegaly. No masses. No tenderness. No palpable AAA. 
+
+Extremities:	No edema.        DP 1-2+,=.  PT absent.   L great toenail appears to be about to be lost, thickened with probable subungual hematoma.
+
+Neurological:	AJ absent.  
+
+
+
+Impressions and Plan:	
+
+Will get ETT with imaging. Need approval from her insurance. Call if she has any more convincing cardiac symptoms.
+
+She should see Yareli Holcomb, NP for Pap with history of HPV and abnormal Paps in the past. 
+
+She should see Dr. Xie for foot care. 
+
+Strongly suggest she get some labs in the next week or so, fasting:
+
+A1c, lipids, Electrolytes, BUN/Creatinine, CBC, SGOT, SGPT, alkaline phosphatase, Bili T/D, urinalysis
+
+
+
+
+
+Appointments:	Yareli Holcomb, NP as above
+
+	Me 4 months
+
+
+
+cc:	Xavier Dotson, M.D.
+
+	Henry Hayes, M.D.
+
+
+
+
+
+			Yacob T. Kane, M.D., Ph.D.
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC6" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC7" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC10" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC11" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC13" time="after DCT" type1="insulin" type2=""/>
+    <FAMILY_HIST id="DOC12" indicator="not present"/>
+    <SMOKER id="DOC9" status="unknown"/>
+  </TAGS>
+</root>

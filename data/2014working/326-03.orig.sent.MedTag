@@ -1,0 +1,67 @@
+326-03	1	Record date: 2086-09-06	
+326-03	2	DISCHARGE SUMMARY	
+326-03	3		
+326-03	4	NAME: IORIO, OLIVIA L                  UNIT NUMBER: 929-02-28	
+326-03	5	ADMISSION DATE: 08/29/2086             DISCHARGE DATE: 09/06/2086	
+326-03	6		
+326-03	7	PRINCIPAL DIAGNOSIS:  REVISION Thromosed AV fistula.		INDICATION FFF av#4
+326-03	8		
+326-03	9	ASSOCIATED DIAGNOSIS:  End stage renal disease, Status post 2 failed renal		INDICATION FFF end stage renal disease#5
+326-03	10	transplant, seizures, hypertension, anemia.		INDICATION FFF seizures#1	INDICATION FFF hypertension#2	INDICATION FFF anemia#3
+326-03	11		
+326-03	12	HISTORY OF PRESENT ILLNESS:  This 29 year old young woman, Status post 2      failed transplants for membranoproliferative glomerulonephritis age 9 months, Status      post bilateral nephrectomies with a history of seizures and multiple access      failures admitted for left arm AV fistula revision and thrombectomy.		DRT FFF 29 year#6	DRT FFF 9 months#20	INDICATION FFF seizures#29	INDICATION FFF av#38
+326-03	13		
+326-03	14	ALLERGIES:  Demerol leads to seizure, Penicillin rash, Quinolone seizure,		INDICATION FFF allergies#0	INDICATION FFF seizure#4	DIN FFF quinolone#7	INDICATION FFF seizure#8
+326-03	15	Vancomycin Redman's syndrome this med needs to be given over 4 hours.		DIN FFF vancomycin#0	DRT FFF 4 hours#11
+326-03	16		
+326-03	17	PAST MEDICAL HISTORY:	
+326-03	18	- ESRD 2/2 MPGN Dx age 9 mos		INDICATION FFF esrd#1	DRT FFF 9 mos#7
+326-03	19	- on HD TThSa at Educare-Pullman		INDICATION FFF hd#2
+326-03	20	- previously on PD		INDICATION FFF pd#3
+326-03	21	- multiple failed vascular accesses, current AVF placed by Dr.	
+326-03	22	Schmitt 05/85	
+326-03	23	- ruptured and infected L thigh graft	
+326-03	24	- s/p 2 failed LRRTx (2069, 2078), some issues of non-compliance		DIN FFF p 2#2
+326-03	25	-HTN		INDICATION FFF htn#0
+326-03	26	-s/p 3-1/2 parathyroidectomy	
+326-03	27	-seizure disorder, last seizure 08/80		INDICATION FFF seizure disorder#1	INDICATION FFF seizure#3
+326-03	28	-previous suicidal ideation	
+326-03	29	SOCIAL HISTORY:former Construction Worker, lives with mother	
+326-03	30	PHYSICAL EXAMINATION: blood pressure is 130/70, pulse 90 and regular.		INDICATION FFF blood pressure#3
+326-03	31	Fundi not well visualized. periorbital edema, conjunctival injection, neck was supple,       carotid upstroke normal chest clear to auscultation and percussion, S4 no S3 gallop or rub,		INDICATION FFF edema#5
+326-03	32	Abdomen, soft, nontender.	
+326-03	33	Bowel sounds are normal.	
+326-03	34	Extremity       1+ edema.		INDICATION FFF edema#2
+326-03	35	IMPRESSION: end stage renal disease on hemodialysis, seizure		INDICATION FFF end stage renal disease#4	INDICATION FFF seizure#7
+326-03	36	disorder thrombosed A-V fistula, volume overload.		INDICATION FFF thrombosed#1	INDICATION FFF volume overload .#5
+326-03	37	HOSPITAL COURSE: The patient underwent revision of her left upper arm A-V fistulae by Dr.	
+326-03	38	Schmitt	
+326-03	39	On 8/30/86 without complications.	
+326-03	40	Because her arm was swollen her subsequent dialysis was done	
+326-03	41	Utilizing a temporary femoral dialysis catheter.	
+326-03	42	She was noted to be persistently anemic with a	
+326-03	43	Hematocrit of 23.3% on 9/05/86.		INDICATION FFF hematocrit#0	DOSE FFF 23.3%#2
+326-03	44	It was felt that her low hematocrit was due to both blood loss from Persistent severe menorrhagia as well as a dilutional component from fluid overload.		INDICATION FFF hematocrit#6	INDICATION FFF blood loss#12	INDICATION FFF menorrhagia#16	INDICATION FFF as#17	INDICATION FFF as#19	INDICATION FFF fluid overload#25
+326-03	45	She was electively  transfused 2 units of packed cells on 9/05/86 while on dialysis utilizing her revised A-V fistulae.		DOSEAMT FFF 2 units#5	DRT FFF while#11
+326-03	46	The rest of her hospital course was uneventful.	
+326-03	47	She was hyperphosphatemic in hospital and was given dietary counseling for use of her phosphate binders.	
+326-03	48	She was discharged home with recommendations for a GYN	
+326-03	49	Follow-up to assess her persistent mennorhagia and for f/u with her vascular surgeon Dr.		INDICATION FFF f#8
+326-03	50	Schmitt.	
+326-03	51	She will continue 3x/week dialysis in her Educare-Pullman outpatient unit.	
+326-03	52	MEDICATINS ON DISCHARGE:	
+326-03	53	PREDNISONE  2.5 MG PO  QAM    o NEPHRO-VIT RX (NEPHRO-VIT )  1 TAB PO  QAM		DIN FFF prednisone#0	DOSE FFF 2.5mg#2	RUT FFF po#3	FREQ FFF qam#4	DBN FFF nephro-vit rx#7	DOSEAMT FFF 1 tab#11	RUT FFF po#12	FREQ FFF qam#13
+326-03	54	PHENYTOIN (DILANTIN )  200 MG PO  BID		DIN FFF phenytoin#0	DOSE FFF 200mg#4	RUT FFF po#5	FREQ FFF bid#6
+326-03	55	CARBAMAZEPINE (TEGRETOL )  250 MG PO  BID		DIN FFF carbamazepine#0	DOSE FFF 250mg#4	RUT FFF po#5	FREQ FFF bid#6
+326-03	56	PAROXETINE (PAXIL )  20 MG PO  QAM		DIN FFF paroxetine#0	DOSE FFF 20mg#4	RUT FFF po#5	FREQ FFF qam#6
+326-03	57	NIFEDIPINE (EXTENDED RELEASE) (NIFEDICAL )  30 MG PO  ONLY ON MORNINGS WHEN SHE DOES NOT GET DIALYSIS		DIN FFF nifedipine#0	DOSE FFF 30mg#6	RUT FFF po#7
+326-03	58	ATENOLOL  50 MG PO  EACH MORNING ON DAYS SHE DOES NOT GET DIALYSIS		DIN FFF atenolol#0	DOSE FFF 50mg#2	RUT FFF po#3	FREQ FFF each morning#5
+326-03	59	DOXEPIN HCL (DOXEPIN )  50 MG PO  QPM		DIN FFF doxepin hcl#1	DOSE FFF 50mg#5	RUT FFF po#6	FREQ FFF qpm#7
+326-03	60	ALPRAZOLAM (XANAX )  2-2.5 MG PO  QPM		DIN FFF alprazolam#0	DOSE FFF 5mg#4	RUT FFF po#5	FREQ FFF qpm#6
+326-03	61	ZYRTEC  10 MG PO  QPM		DBN FFF zyrtec#0	DOSE FFF 10mg#2	RUT FFF po#3	FREQ FFF qpm#4
+326-03	62	WARFARIN SODIUM (COUMADIN )  2 MG PO  QPM		DIN FFF warfarin sodium#1	DOSE FFF 2mg#5	RUT FFF po#6	FREQ FFF qpm#7
+326-03	63	CLOPIDOGREL (PLAVIX )  75 MG PO  QD		DIN FFF clopidogrel#0	DOSE FFF 75mg#4	RUT FFF po#5	FREQ FFF qd#6
+326-03	64	CALCIUM ACETATE ( 1 TABLET=667 MG) (PHOSLO )  2001 MG PO  TID		DIN FFF calcium acetate#1	DOSEAMT FFF 1 tablet#4	DOSE FFF 667mg#5	DOSE FFF 2001mg#9	RUT FFF po#10	FREQ FFF tid#11
+326-03	65	PANTOPRAZOLE (PROTONIX )  40 MG PO  QD		DIN FFF pantoprazole#0	DOSE FFF 40mg#4	RUT FFF po#5	FREQ FFF qd#6
+326-03	66	CHARLES ULLAH, M.D.	
+326-03	67	MEDIQUIK RENAL ASSOCIATES	

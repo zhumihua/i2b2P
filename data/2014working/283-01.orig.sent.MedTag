@@ -1,0 +1,69 @@
+283-01	1	Record date: 2121-05-09	
+283-01	2	BCH EMERGENCY DEPT VISIT	
+283-01	3		
+283-01	4	HOLCOMB,DENNIS   833-12-06-0                       VISIT DATE: 05/09/21	
+283-01	5	This patient was seen, interviewed and examined by myself as well  as Dr.		INDICATION FFF as#9	INDICATION FFF as#11
+283-01	6	Petty whose I have reviewed and whose findings I have  confirmed.	
+283-01	7	HISTORY OF PRESENTING COMPLAINT:  This is a 53-year-old male who	
+283-01	8	presents with complaints of palpitations, shortness of breath and a  general feeling of weakness.		INDICATION FFF shortness of breath#7
+283-01	9	The patient states he has been  feeling unwell for the past three days and has noticed his heart  racing.		DRT FFF three days#12
+283-01	10	He actually has had his significant other take his heart  rate and blood pressure while he was at home, and his readings have  been in the 1 teens to 120s.		INDICATION FFF heart rate#10	INDICATION FFF blood pressure#13	DRT FFF while#14
+283-01	11	The patient has had a decreased  appetite with vomiting and nausea as well as chest tightness in his  mid-chest.		INDICATION FFF vomiting#8	INDICATION FFF nausea#10	INDICATION FFF as#11	INDICATION FFF as#13	INDICATION FFF tightness#15
+283-01	12	The patient felt himself get worse, and he, therefore,  presents to the emergency department.	
+283-01	13	REVIEW OF SYSTEMS:  As per the written note.		INDICATION FFF as#3
+283-01	14	PAST MEDICAL HISTORY:  Insulin dependent diabetes mellitus.		INDICATION FFF insulin dependent diabetes mellitus#6
+283-01	15	MEDICATIONS:  Insulin.		DIN FFF insulin#1
+283-01	16	ALLERGIES:  No known drug allergies.		INDICATION FFF allergies#0	INDICATION FFF drug allergies#4
+283-01	17	SOCIAL HISTORY AND FAMILY HISTORY:  As per the written note.		INDICATION FFF as#5
+283-01	18	PHYSICAL EXAMINATION:  This is a well-developed, well-nourished	
+283-01	19	male in moderate distress.	
+283-01	20	Pulse 160-177, respiratory rate 40,  blood pressure is 130/68, oxygen saturation is 100% on room air.		INDICATION FFF blood pressure#6	DOSE FFF 100%#12
+283-01	21	NECK:  Supple, full range of motion, no jugular venous distension.	
+283-01	22	CARDIAC:  Regular, tachycardic, no murmur is auscultated, clear S1  and S2.	
+283-01	23	LUNGS:  Positive rales at the bases, otherwise clear, good  air movement, tachypneic.	
+283-01	24	NEURO:  Alert and oriented x 3, follows  all commands appropriate.		FREQ FFF x 3#5
+283-01	25	Further details of the exam are as per  the written note.		INDICATION FFF as#6
+283-01	26	LABORATORY EVALUATION:  Labs are significant for a glucose of 322,	
+283-01	27	BUN of 31, creatinine of 1.8, bicarbonate of 19, CK of 186, MB of		INDICATION FFF creatinine#3
+283-01	28	4.0, troponin of 1.11, calcium of 9.9.		DIN FFF calcium#4
+283-01	29	White count of 15.6,  hematocrit of 47.6, platelets of 206.		INDICATION FFF hematocrit#4
+283-01	30	PT of 14.0, PTT of 29.0.		INDICATION FFF ptt#3
+283-01	31	EKG shows wide complex, regular, tachycardia.		INDICATION FFF tachycardia .#5
+283-01	32	THERAPY RENDERED/COURSE IN ED:  The patient was seen, interviewed  and examined in the emergency department with labs obtained and as  documented above.		INDICATION FFF ed#3	INDICATION FFF as#19
+283-01	33	In addition to the above studies, the patient  had a chest x-ray which shows increased pulmonary vasculature.	
+283-01	34	The  patient's EKG along with his history is concerning for a	
+283-01	35	ventricular tachycardia.		INDICATION FFF ventricular tachycardia#1
+283-01	36	The patient, therefore, initially  received amiodarone.		DIN FFF amiodarone#5
+283-01	37	The amiodarone affected no change in the  patient's heart rate.		DIN FFF amiodarone#1	INDICATION FFF change#4	INDICATION FFF heart rate#9
+283-01	38	The patient remained tachypneic and  tachycardic and generally well appearing.	
+283-01	39	The decision was made to  proceed with cardioversion.	
+283-01	40	The patient received morphine and		DIN FFF morphine#3
+283-01	41	Ativan and had a synchronized cardioversion once at 52 volts with  immediate change to sinus tachycardia in the 1 teens.		DBN FFF ativan#0	INDICATION FFF change#12
+283-01	42	The patient  stated that his chest tightness resolved immediately following  cardioversion.		INDICATION FFF tightness#6
+283-01	43	The patient received aspirin, beta-blockers, oxygen  and heparin while in the emergency department.		DIN FFF aspirin#3	DIN FFF heparin#7	DRT FFF while#8
+283-01	44	He is on amiodarone  drip.		DIN FFF amiodarone#3	RUT FFF drip#4
+283-01	45	Individuals from the Cardiac Service were contacted  regarding possibly getting the patient to the catheterization lab  especially in light of his ruling in for a myocardial infarction.		INDICATION FFF myocardial infarction .#26
+283-01	46	The plan at this time is for the patient to be admitted to the CCU,  be observed and then to proceed to cardiac catheterization  thereafter.		INDICATION FFF cardiac catheterization#23
+283-01	47	CONSULTATIONS (including PCP):  Cardiac Service.		INDICATION FFF pcp#2
+283-01	48	FINAL DIAGNOSES:	
+283-01	49	1.  Myocardial infarction.		INDICATION FFF myocardial infarction .#2
+283-01	50	2.  Ventricular tachycardia.		INDICATION FFF ventricular tachycardia#2
+283-01	51	DISPOSITION (including condition upon discharge):  The patient is  admitted in satisfactory condition.	
+283-01	52	Critical care time is 70  minutes.	
+283-01	53	___________________________________                    PY989/54741	
+283-01	54	KATHLEEN IRELAND, M.D.       KI30                        D:05/09/21	
+283-01	55	T:05/10/21	
+283-01	56	Dictated by:  KATHLEEN IRELAND, M.D.       KI30	
+283-01	57	******** Not reviewed by Attending Physician ********	
+283-01	58		
+283-01	59		
+283-01	60		
+283-01	61		
+283-01	62		
+283-01	63		
+283-01	64		
+283-01	65		
+283-01	66		
+283-01	67		
+283-01	68		
+283-01	69		

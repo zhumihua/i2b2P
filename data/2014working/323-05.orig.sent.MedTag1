@@ -1,0 +1,39 @@
+323-05||1||Record date: 2067-02-12
+323-05||2||GUADALUPE VALLEY HOSPITAL
+323-05||3||99 Oregon Avenue
+323-05||4||Brazzaville, Nc  65818
+323-05||5||155-900-5638
+323-05||6||XIAN, BROOKLYN
+323-05||7||60244986
+323-05||8||02/12/2067
+323-05||9||IDENTIFICATION:  A 71-year-old woman who presents to follow up diabetes.||INDICATION FFF diabetes. FFF 9 9||
+323-05||10||HISTORY OF PRESENT ILLNESS:  I received the patient's recent blood work and asked her to come in for a short-term followup.
+323-05||11||Her hemoglobin A1c is 11.1.
+323-05||12||We discussed her current system for managing her blood sugar.||INDICATION FFF her blood sugar. FFF 7 9||
+323-05||13||She notes 100% compliance in using her NPH insulin, 45 units in the morning, 40 in the evening.||DOSE FFF 100% FFF 2 2||DIN FFF nph insulin, FFF 7 8||DOSEAMT FFF 45 units FFF 9 10||TOD FFF in the morning, FFF 11 13||TOD FFF in the evening. FFF 15 17||
+323-05||14||She is taking 2 shots of Humalog, on average, in the morning and just before bedtime.||DBN FFF humalog, FFF 6 6||TOD FFF in the morning FFF 9 11||TOD FFF bedtime. FFF 15 15||
+323-05||15||She is doing 2 fingersticks a day, in the morning fasting and before bed.||DRT FFF a day, FFF 5 6||TOD FFF in the morning FFF 7 9||
+323-05||16||She notes recent indiscretions in terms of her calorie intake.
+323-05||17||She checked her fingerstick this morning, but cannot remember the result.||TOD FFF morning, FFF 5 5||
+323-05||18||She is fully compliant with her other medications.
+323-05||19||She was on simvastatin in the past, which was stopped because of liver test elevations.||DIN FFF simvastatin FFF 3 3||INDICATION FFF liver FFF 12 12||
+323-05||20||She was on Crestor in the past, which was stopped at the time of a hospitalization when her CK was noted to be elevated.||DBN FFF crestor FFF 3 3||
+323-05||21||Today, she is having no fever, chest pain, shortness of breath, abdominal pain, dysuria, leg swelling, or leg numbness.||INDICATION FFF fever, FFF 5 5||INDICATION FFF chest pain, FFF 6 7||INDICATION FFF shortness of breath, FFF 8 10||INDICATION FFF abdominal pain, FFF 11 12||INDICATION FFF leg swelling, FFF 14 15||
+323-05||22||Medications
+323-05||23||Aricept (DONEPEZIL Hcl) 5 MG (5MG TABLET Take 1) PO QPM #30 Tablet(s)||DBN FFF aricept FFF 0 0||DOSE FFF 5 mg FFF 3 4||DOSE FFF (5mg FFF 5 5||RUT FFF po FFF 9 9||FREQ FFF qpm FFF 10 10||
+323-05||24||Asa (ACETYLSALICYLIC Acid) 81MG TABLET EC Take 1 Tablet(s) PO QD #90 Tablet(s)||DIN FFF asa FFF 0 0||DOSE FFF 81mg FFF 3 3||DIN FFF ec FFF 5 5||DOSEAMT FFF 1 tablet(s) FFF 7 8||RUT FFF po FFF 9 9||FREQ FFF qd FFF 10 10||
+323-05||25||Celebrex (CELECOXIB) 200 MG (200MG CAPSULE Take 1) PO QD #30 Capsule(s)||DBN FFF celebrex FFF 0 0||DOSE FFF 200 mg FFF 2 3||DOSE FFF (200mg FFF 4 4||RUT FFF po FFF 8 8||FREQ FFF qd FFF 9 9||
+323-05||26||Glucagon Emergency Kit (GLUCAGON Hcl) 1 MG (1MG VIAL Take 1) SC x1, use as needed for low blood sugar #1 VIAL||DIN FFF glucagon FFF 0 0||DOSE FFF 1 mg FFF 5 6||DOSE FFF (1mg FFF 7 7||RUT FFF sc FFF 11 11||FREQ FFF x1, FFF 12 12||NEC FFF as needed FFF 14 15||INDICATION FFF low blood sugar FFF 17 19||
+323-05||27||Hctz (HYDROCHLOROTHIAZIDE) 50 MG (25MG TABLET Take 2) PO QD as directed x 30 days #60 Tablet(s)||DPN FFF hctz FFF 0 0||DOSE FFF 50 mg FFF 2 3||DOSE FFF (25mg FFF 4 4||RUT FFF po FFF 8 8||FREQ FFF qd FFF 9 9||INDICATION FFF as FFF 10 10||DRT FFF 30 days FFF 13 14||
+323-05||28||Humalog Insulin (INSULIN Lispro) 15 UNITS SC ac x 90 days #3 Month(s) Supply||DIN FFF humalog insulin FFF 0 1||DOSEAMT FFF 15 units FFF 4 5||RUT FFF sc FFF 6 6||TOD FFF ac FFF 7 7||DRT FFF x 90 days FFF 8 10||
+323-05||29||Insulin Nph Human 45 UNIT S AM AND 40 PM SC AM and QHS x 90 days #3 Month(s) Supply||DIN FFF insulin nph human FFF 0 2||DOSE FFF 45 FFF 3 3||TOD FFF am FFF 6 6||TOD FFF 40 pm FFF 8 9||RUT FFF sc FFF 10 10||TOD FFF am FFF 11 11||FREQ FFF qhs FFF 13 13||DRT FFF x 90 days FFF 14 16||
+323-05||30||Labetalol Hcl 200 MG (100MG TABLET Take 2) PO BID #120 Tablet(s)||DIN FFF labetalol hcl FFF 0 1||DOSE FFF 200 mg FFF 2 3||DOSE FFF (100mg FFF 4 4||RUT FFF po FFF 8 8||FREQ FFF bid FFF 9 9||
+323-05||31||Levothyroxine Sodium 125 MCG (125MCG TABLET Take 1) PO qd x 90 days #90 Tablet(s)||DIN FFF levothyroxine sodium FFF 0 1||DOSE FFF 125 mcg FFF 2 3||DOSE FFF (125mcg FFF 4 4||RUT FFF po FFF 8 8||FREQ FFF qd FFF 9 9||DRT FFF x 90 days FFF 10 12||
+323-05||32||Lisinopril 40 MG (40MG TABLET Take 1) PO QD x 30 days #30 Tablet(s)||DIN FFF lisinopril FFF 0 0||DOSE FFF 40 mg FFF 1 2||DOSE FFF (40mg FFF 3 3||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||DRT FFF 30 days FFF 10 11||
+323-05||33||Mirapex (PRAMIPEXOLE) 0.125MG TABLET PO as directed PRN as directed, 1-4 tab #120 Tablet(s)||DBN FFF mirapex FFF 0 0||DOSE FFF 0.125mg FFF 2 2||RUT FFF po FFF 4 4||INDICATION FFF as FFF 5 5||NEC FFF prn FFF 7 7||INDICATION FFF as FFF 8 8||DOSEAMT FFF 1-4 tab FFF 10 11||
+323-05||34||Oxycodone 5 MG (5 MG TABLET Take 1) PO Q6H PRN pain, May increase to 2 PO QID if needed for pain. #180 Tablet(s)||DIN FFF oxycodone FFF 0 0||DOSE FFF 5 mg FFF 1 2||DOSE FFF (5 mg FFF 3 4||RUT FFF po FFF 8 8||FREQ FFF q6h FFF 9 9||NEC FFF prn FFF 10 10||INDICATION FFF pain, FFF 11 11||RUT FFF po FFF 16 16||FREQ FFF qid FFF 17 17||NEC FFF needed for pain. FFF 19 21||
+323-05||35||Temazepam 30 MG (30MG CAPSULE Take 1) PO QHS prn, caution causes sedation x 30 days #30 Capsule(s)||DIN FFF temazepam FFF 0 0||DOSE FFF 30 mg FFF 1 2||DOSE FFF (30mg FFF 3 3||RUT FFF po FFF 7 7||FREQ FFF qhs FFF 8 8||NEC FFF prn, FFF 9 9||DRT FFF 30 days FFF 14 15||
+323-05||36||Allergies||INDICATION FFF allergies FFF 0 0||
+323-05||37||Erythromycins - Itching||INDICATION FFF itching FFF 2 2||
+323-05||38||SIMVASTATIN - elevates liver enzymes||DIN FFF simvastatin FFF 0 0||INDICATION FFF liver FFF 3 3||
+323-05||39||AMITRIPTYLINE HCL - urinary retention||DIN FFF amitriptyline hcl FFF 0 1||INDICATION FFF urinary retention FFF 3 4||

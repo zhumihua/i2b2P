@@ -1,0 +1,9 @@
+246-03	5	0	Johnson County HomeEmergency Department Record - Observation UnitED Obs NoteEDIS Note Status: SignedPatient: Yeo, Austin &nbsp       &nbsp   MRN: 8652895        DOB:  5/17/2060     Sex: MRegistration Date/Time: 1/4/2103 03:51	dob: FFF 19 19	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+246-03	15	0	HPI:42yo male presents to the ED with co cp x 2 days that worsened after using cocaine.	cocaine. FFF 16 16	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+246-03	65	0	(NOTE)Drugs included in PANEL 1 (Detection limit in mg/L): Ethanol (100).	(note)drugs FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+246-03	66	0	Isopropanol (100).	isopropanol FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+246-03	67	0	Methanol (100). [2] RESULT COMMENT:	methanol FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+246-03	69	0	(NOTE)Drugs included in PANEL 2 (Detection limit in mg/L):	(note)drugs FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+246-03	70	0	Acetaminophen (25). Lamotrigine	acetaminophen FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+246-03	70	0	Acetaminophen (25). Lamotrigine	lamotrigine FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+246-03	71	0	(4). Salicylate (100). [fj365]	salicylate FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

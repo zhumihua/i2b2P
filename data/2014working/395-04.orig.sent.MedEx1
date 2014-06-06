@@ -1,0 +1,131 @@
+395-04||1||Record date: 2107-08-03
+395-04||2||Team 3A Intern Admission Note
+395-04||3||Name: Do, Tanya
+395-04||4||MRN:  6051778
+395-04||5||Date of Admission: 8/03/07
+395-04||6||PCP: Dr. Orelia Burns
+395-04||7||Admitting Physician: Dr. Orelia Burns
+395-04||8||Chief Complaint:
+395-04||9||79 year old woman with DM-2 (7 years), HTN, on chronic immunosuppression for RA, presents with left lower leg erythema and swelling.
+395-04||10||History Obtained From:
+395-04||11||Patient, chart review
+395-04||12||History of Present Illness:
+395-04||13||This is a 79 year old woman with a long-standing history of RA on chronic immunosuppression (prednisone and now on methotrexate), DM-2 (HbA1c 5.5), previous history of leg surgeries with ?vasculitis, and prior history of cellulitis, who presents with a 1 week history erythema and swelling on right lower leg (anterior).||DIN FFF methotrexate), FFF 20 20||INDICATION FFF ?vasculitis, FFF 30 30||INDICATION FFF cellulitis, FFF 35 35||DRT FFF 1 week FFF 40 41||INDICATION FFF erythema FFF 43 43||INDICATION FFF swelling FFF 45 45||
+395-04||14||Ms. Do has had two prior hospitalizations for cellulitis/osteomyelitis.
+395-04||15||In 2104, she developed osteomyelitis following a fall, requiring surgery for debridment (right leg).
+395-04||16||In 2106, she was also admitted to Seymour Hospital with cellulitis of right leg and required a 2-week course of IV antibiotics.||DIN FFF antibiotics. FFF 21 21||
+395-04||17||At this presentation, she has been in her usual state of health (ET 25 feet, limited by pain in legs, no dyspnea, no chest pain) until last Tuesday when she presented to her podiatrist for a corn removal (right foot).
+395-04||18||The podiatrist made an observation that she had some erythema on the dorsal part of the foot.
+395-04||19||She was not experiencing any pain.
+395-04||20||Over this past week, she noted that the erythema and some swelling had extended, now to include the anterior portion of the lower shin.
+395-04||21||She presented to EFHC for a follow-up appointment, and was treated with Keflex po.||DBN FFF keflex FFF 12 12||RUT FFF po. FFF 13 13||
+395-04||22||Her cellulitis failed to improve and she presented to her PCP for evaluation on the day of admission, and was directly admitted to OGH.
+395-04||23||She denies any new fevers or chills (patient is having almost daily night sweats, which have been partially relieved with standing Tylenol intake.||DBN FFF tylenol FFF 21 21||
+395-04||24||These night sweats, along with the weight loss and anorexia are in the process of being worked up at this time).
+395-04||25||She has had no cough, nasal discharge, headaches, diarrhea, or dysuria/burning.
+395-04||26||No recent trauma to the leg.
+395-04||27||Past Medical History:
+395-04||28||Diabetes
+395-04||29||On oral hypoglycemics, no history of insulin use||RUT FFF oral FFF 1 1||DIN FFF hypoglycemics, FFF 2 2||
+395-04||29||On oral hypoglycemics, no history of insulin use||DIN FFF insulin FFF 6 6||
+395-04||30||Checks own FSG tid
+395-04||31||HbA1c - 5.5% (3/07)
+395-04||32||Yearly eye exams, frequent podiatrist visits
+395-04||33||Hypertension - on two agents, no known history of CAD
+395-04||34||Rheumatoid arthritis
+395-04||35||40+ year history
+395-04||36||Has been on chronic steroids - 25 years
+395-04||37||Methotrexate - several years||DIN FFF methotrexate FFF 0 0||
+395-04||38||Osteomyelitis - 2104 (left foot)
+395-04||39||Fallowing a fall and injury
+395-04||40||Vasculitis on legs with ulcers
+395-04||41||Leg cellulites - 2106
+395-04||42||Right renal mass
+395-04||43||See on CT scan during a work-up for anorexia, weight loss, and night sweats
+395-04||44||To be biopsied by IR
+395-04||45||Chronic anemia - approximately monthly Aranesp injections - being evaluated at EFHC||DBN FFF aranesp FFF 5 5||
+395-04||46||Osteoporosis
+395-04||47||Multiple fractures
+395-04||48||Spinal stenosis - s/p rod fixation/fusion
+395-04||49||TIA - 2106, no residual deficits
+395-04||50||Hyperlipidemia
+395-04||51||Secondary adrenal insufficiency - due to chronic steroid use||INDICATION FFF adrenal insufficiency FFF 1 2||DIN FFF steroid FFF 7 7||
+395-04||52||Viral meningitis - 2106
+395-04||53||Cataracts - bilateral surgeries
+395-04||54||Surgeries:
+395-04||55||Back fusion - 2098, 2099
+395-04||56||Left knee replacement - 2082
+395-04||57||Right knee replacement - 2081
+395-04||58||Right hip replacement - 2070
+395-04||59||Sigmoid resection secondary to obstruction - 2103
+395-04||60||Reversal of colostomy - 2103
+395-04||61||Cataract surgeries
+395-04||62||Medications:
+395-04||63||1. Methotrexate 15 mg qweek||DIN FFF methotrexate FFF 1 1||DOSE FFF 15 mg FFF 2 3||FREQ FFF qweek FFF 4 4||
+395-04||64||2. Prednisone 5 mg bid||DIN FFF prednisone FFF 1 1||DOSE FFF 5 mg FFF 2 3||FREQ FFF bid FFF 4 4||
+395-04||65||3. Glucophage 1000 mg bid||DBN FFF glucophage FFF 1 1||DOSE FFF 1000 mg FFF 2 3||FREQ FFF bid FFF 4 4||
+395-04||66||4. Folic acid 1 mg qam||DIN FFF folic acid FFF 1 2||DOSE FFF 1 mg FFF 3 4||FREQ FFF qam FFF 5 5||
+395-04||67||5. Zabeta 1.25 mg qd
+395-04||68||6. Fosamax 70 mg qweek||DBN FFF fosamax FFF 1 1||DOSE FFF 70 mg FFF 2 3||FREQ FFF qweek FFF 4 4||
+395-04||69||7. Celebrex 200 mg bid||DBN FFF celebrex FFF 1 1||DOSE FFF 200 mg FFF 2 3||FREQ FFF bid FFF 4 4||
+395-04||70||8. Aspirin 81 mg qd||DIN FFF aspirin FFF 1 1||DOSE FFF 81 mg FFF 2 3||FREQ FFF qd FFF 4 4||
+395-04||71||9. Tylenol 1000 mg bid||DBN FFF tylenol FFF 1 1||DOSE FFF 1000 mg FFF 2 3||FREQ FFF bid FFF 4 4||
+395-04||72||10. Calcium 500 mg bid||DIN FFF calcium FFF 1 1||DOSE FFF 500 mg FFF 2 3||FREQ FFF bid FFF 4 4||
+395-04||73||11. MVI 1 qd||DPN FFF mvi FFF 1 1||FREQ FFF qd FFF 3 3||
+395-04||74||12. Lipitor 10 mg qod||DBN FFF lipitor FFF 1 1||DOSE FFF 10 mg FFF 2 3||FREQ FFF qod FFF 4 4||
+395-04||75||13. Lisinopril 10 mg qd||DIN FFF lisinopril FFF 1 1||DOSE FFF 10 mg FFF 2 3||FREQ FFF qd FFF 4 4||
+395-04||76||14. Plavix 75 mg qd||DBN FFF plavix FFF 1 1||DOSE FFF 75 mg FFF 2 3||FREQ FFF qd FFF 4 4||
+395-04||77||Allergies:
+395-04||78||Codeine, morphine - nausea||DIN FFF codeine, FFF 0 0||
+395-04||78||Codeine, morphine - nausea||DIN FFF morphine FFF 1 1||INDICATION FFF nausea FFF 3 3||
+395-04||80||Family History:
+395-04||81||Father - died when patient was 13 months old
+395-04||82||Mother - diabetes
+395-04||83||No know family history of malignancies or autoimmune disorders
+395-04||84||Social history:
+395-04||85||Divorced, lives alone, no children.
+395-04||86||Used to work as a paralegal for 42 years.
+395-04||87||Retired.
+395-04||88||Tobacco: 50 pack-year history (stopped 20 years ago)
+395-04||89||Alcohol: none
+395-04||90||Review of System:
+395-04||91||General: Night sweats, weight loss - 1.5 years.
+395-04||92||Loosing approximately 0.5-1 lbs per week.
+395-04||93||Skin: Multiple bruises, easy bruising
+395-04||94||HEENT: No headaches, trauma, , diplopia, photophobia, eye pain or discharge;  hearing loss  (? Worsened after meningitis) deficits; no epistaxis, rhinorrhea, sinus pain; no dental problems, mouth sores, pain or hoarsness, no history of thrush||DBN FFF sinus pain; FFF 21 22||RUT FFF mouth FFF 26 26||INDICATION FFF pain FFF 28 28||INDICATION FFF thrush FFF 34 34||
+395-04||95||Neck: No pain, limitation of motion, masses
+395-04||96||Resp: No pleuritic pain, wheezing, cough, hemoptysis
+395-04||97||CV: No chest pain, palpitations, DOE, orthopnea, PND, claudications
+395-04||98||GI: Decreased appetite during the past several months.
+395-04||99||No food intolerance,  dysphagia, abdominal pain, nausea, vomiting, hematemesis, hematochezia, diarrhea, constipation, hemorrhoid
+395-04||100||GU: No dysuria, urgency, burning, frequency, polyuria, nocturia, hesitancy, incontinence, hematuria
+395-04||101||Heme: Easy bleeding, bruising
+395-04||102||MSK: See HPI
+395-04||103||Neuro: No vertigo, tremors, memory deficits, seizures, paralysis, weakness, incoordination, aphasia
+395-04||104||Physical Exam:
+395-04||105||VS: BP=142/ 67; HR=77 ; RR=20 ; SaO2=95% RA ; Tmax=100.7; Weight=100.6
+395-04||106||General: In no apparent acute distress, well-nourishes, well-groomed, appears of younger than stated age
+395-04||107||Skin: Soft, warm, moist, multiple bruises on extremities
+395-04||108||HEENT: NCAT, PERRL, EOMI; sclera anicteric, no conjuntival injections, no nasal erythema or discharge; moist mucous membranes, no oropharyngeal lesions, no thrush
+395-04||109||Neck: Supple, full range of motion, no thyromegaly, JVP 5-6 cm
+395-04||110||Lymph glands: No cervical, supraclavicular, inguinal LAD
+395-04||111||Spine: No spinal tenderness, normal curvutre.
+395-04||112||Scars consistent with prior surgeries.
+395-04||113||No CVA tenderness.
+395-04||114||Chest: No dullness to precussion, good air entry bilaterally, clear to auscultation without wheezes, rales, ronchi
+395-04||115||Cor: Non-displaced PMI, no precordial thrills or heaves; regular rhythm, normal rate, normal S1, S2, ? S4, no murmurs||DIN FFF cor: FFF 0 0||
+395-04||116||Abdomen:  Scars consistent with a prior surgery, minimally distended, BS normal throughout; soft, non-tender to palpation and precussion, no rebound tenderness or guarding, no organomegaly or masses palpated
+395-04||117||Ext: Trace edema at ankles right >left; no clubbing or cyanosis; bruise (palpable on right distal shin), erythema and slightly increased temperature on leftight anterior shin (8x5 cm).
+395-04||118||No tenderness to palpation, no tenderness to palpation of calves bilaterally.
+395-04||119||Scars from prior surgery on the right.
+395-04||120||Upper extremities - left in brace; ulnar deviation bilaterally, increased MCPs and PIPs, + rheumatoid nodules
+395-04||121||Pulses: 2+ radial, dorsalis pedis, posterior tibialis bilaterally
+395-04||122||Neuro: Awake, alert, very talkative. CN - PERRLA, EOMI, symmetric face with intact sensation, no horizontal or vertical nystagmus.
+395-04||123||Normal tone, 5/5 strength throughout upper and lower extremities; 2+ brachial, radial, patellar, ankle reflexes; downward plantar reflexes bilaterally; bilaterally equal and intact sensation to light touch, cold, vibration; intact proprioception bilaterally.
+395-04||124||Normal-based gait.
+395-04||125||Labs:
+395-04||126||Recent labs pending
+395-04||127||Radiology:
+395-04||128||CT Scan:  MILD SPLENOMEGALY WITH MULTIPLE DISCRETE SPLENIC LESIONS AND CALCIFIED FOCI.
+395-04||129||DIFFERENTIAL DIAGNOSIS INCLUDES GRANULOMAS/SARCOIDOSIS.
+395-04||130||ISOLATED LYMPHOMA IS ALSO A CONSIDERATION.

@@ -1,0 +1,59 @@
+285-05	1	Record date: 2098-03-16	
+285-05	2	EDVISIT^28297534^OGRADY, MICHAEL^03/16/98^OCASIO, GEORGE OJAS	
+285-05	3	I saw this patient with resident Dr.	
+285-05	4	Elijah Parker.	
+285-05	5	Please see his note for further details.  I confirm that I have interviewed and examined the patient, reviewed the resident's documentation on the patient's chart, and discussed the evaluation, plan of care, and disposition with the patient.	
+285-05	6	HISTORY OF PRESENT ILLNESS:  The patient is a 69-year-old male	
+285-05	7	with a history of hypertension, diabetes, coronary artery		INDICATION FFF hypertension#4	INDICATION FFF diabetes#5
+285-05	8	disease, previous MI, and esophageal cancer with mets to lung,		INDICATION FFF mi#2	INDICATION FFF esophageal cancer#5	INDICATION FFF mets#7
+285-05	9	status post VATS, and a recent hemothorax and chest tube.		RUT FFF tube#9
+285-05	10	He was discharged 2 days ago, now presenting with increasing cough.		DRT FFF 2 days#4	INDICATION FFF cough .#10
+285-05	11	He had been seen in an outside hospital earlier today and diagnosed with a right lower lobe pneumonia.		INDICATION FFF pneumonia .#17
+285-05	12	He was also given 1 g of ceftriaxone.		DOSE FFF 1g#5	DIN FFF ceftriaxone#7
+285-05	13	His complaints prior to presentation had been chest pain as well as shortness of breath, abdominal discomfort, and palpitations.		INDICATION FFF chest pain#8	INDICATION FFF as#9	INDICATION FFF as#11	INDICATION FFF shortness of breath#14
+285-05	14	On reviewing his chart, he had had his diltiazem and Lopressor discontinued on his last admission.		DIN FFF diltiazem#8	DBN FFF lopressor#10
+285-05	15	Other systems were reviewed and found to be negative including fevers, chills, hemoptysis, or difficulty swallowing.		INDICATION FFF fevers#10
+285-05	16	MEDICATIONS:  Reviewed.	
+285-05	17	Please see the chart.	
+285-05	18	He is currently on aspirin and took today.		DIN FFF aspirin#4
+285-05	19	ALLERGIES:  IV dye and Neurontin.		INDICATION FFF allergies#0	RUT FFF iv#1
+285-05	20	PHYSICAL EXAMINATION:  He is awake, alert, but cachectic		INDICATION FFF cachectic#7
+285-05	21	appearing, and nontoxic.	
+285-05	22	Temperature 98, pulse of 111, respirations 20, blood pressure 104/61, and oxygen saturations are 95%, however, this is on 5 liters.		INDICATION FFF temperature#0	INDICATION FFF blood pressure#8	DOSE FFF 95%#14	DOSE FFF 5liters#20
+285-05	23	HEENT exam:  Mucosal membranes are dry.	
+285-05	24	Neck is supple without lymphadenopathy.	
+285-05	25	Lungs:  Crackles at the right lung.	
+285-05	26	Left lung is clear.	
+285-05	27	CVS:	
+285-05	28	Tachycardic but regular.	
+285-05	29	Abdomen:  There is some mild diffuse tenderness in the upper quadrants, no rebound or guarding, and no	
+285-05	30	Murphy's.  He has normoactive bowel sounds.	
+285-05	31	Skin is warm and dry.	
+285-05	32	Back is nontender at CVA points.		INDICATION FFF cva#4
+285-05	33	He has got bilateral lower extremity edema, but no tenderness in the thighs and calves.		INDICATION FFF lower extremity edema#6
+285-05	34	Neurologically, he is somewhat somnolent, but oriented without focal motor or sensory deficits.	
+285-05	35	LABORATORY DATA:  White count is elevated at 19,300, 90% polys, 2		DOSE FFF 90%#8
+285-05	36	bands.  Chemistries are normally slightly perhaps more dehydrated		INDICATION FFF dehydrated#7
+285-05	37	with creatinine of 1.3, which is a little above his baseline of		INDICATION FFF creatinine#1
+285-05	38	1.2 when he was discharged.	
+285-05	39	LFTs are all normal including lipase and total bilirubin; however, his alkaline phosphatase is mildly elevated.		DIN FFF lipase#5
+285-05	40	First set of cardiac enzymes is negative.	
+285-05	41	EKG shows a sinus tachycardia with PVCs and nonspecific inferior ST-T wave changes.	
+285-05	42	Chest x-ray shows bilateral basilar nodules, which have been there in the past.	
+285-05	43	There is a hazy opacity in the right mid hemithorax, which does not look new, however, this could represent tumor versus pneumonia.		INDICATION FFF tumor#19	INDICATION FFF pneumonia .#21
+285-05	44	However, no significant change prior to his discharge.		INDICATION FFF change#3
+285-05	45	EMERGENCY DEPARTMENT COURSE:  Given his dyspnea and his elevated		INDICATION FFF dyspnea#5
+285-05	46	white count, this case was discussed with Oncology.	
+285-05	47	He was admitted for dyspnea, ruling out pneumonia.		INDICATION FFF dyspnea#4	INDICATION FFF pneumonia .#7
+285-05	48	He is in stable condition.	
+285-05	49	______________________________	
+285-05	50	OCASIO, GEORGE OJAS MD		INDICATION FFF md#3
+285-05	51	D: 03/29/98	
+285-05	52	T: 03/29/98		INDICATION FFF t#0
+285-05	53	Dictated By: OCASIO, GEORGE OJAS	
+285-05	54	eScription document:8-5838264 BFFocus	
+285-05	55	******** Not reviewed by Attending Physician ********	
+285-05	56		
+285-05	57		
+285-05	58		
+285-05	59		

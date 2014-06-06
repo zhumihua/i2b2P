@@ -1,0 +1,8 @@
+391-03	4	0	Oil City, VA  14172	va FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+391-03	10	438	MEDICATIONS:  She is currently on atenolol 50 mg b.i.d., HCTZ 50 mg q.d., Zestril 20 mg q.d.	atenolol FFF 5 5	50 mg FFF 6 7	 FFF 	b.i.d., FFF 8 8	 FFF 	 FFF 	narrative
+391-03	10	438	MEDICATIONS:  She is currently on atenolol 50 mg b.i.d., HCTZ 50 mg q.d., Zestril 20 mg q.d.	hctz FFF 9 9	50 mg FFF 10 11	 FFF 	q.d., FFF 12 12	 FFF 	 FFF 	narrative
+391-03	10	438	MEDICATIONS:  She is currently on atenolol 50 mg b.i.d., HCTZ 50 mg q.d., Zestril 20 mg q.d.	zestril FFF 13 13	20 mg FFF 14 15	 FFF 	q.d. FFF 16 16	 FFF 	 FFF 	narrative
+391-03	13	0	1. I would increase her atenolol to 100 mg in the morning and 50 mg in the late afternoon.	atenolol FFF 5 5	100 mg FFF 7 8	 FFF 	in the morning FFF 9 11	 FFF 	 FFF 	narrative
+391-03	13	0	1. I would increase her atenolol to 100 mg in the morning and 50 mg in the late afternoon.	atenolol FFF 5 5	50 mg FFF 13 14	 FFF 	afternoon. FFF 18 18	 FFF 	 FFF 	narrative
+391-03	14	0	2. Diabetes is in suboptimal control, despite maximum dose Micronase.	micronase. FFF 9 9	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+391-03	15	0	Creatinine of 1.4 would argue against using Glucophage.	glucophage. FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

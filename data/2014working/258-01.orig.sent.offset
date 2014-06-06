@@ -1,0 +1,9 @@
+258-01	11	0	ASPIRIN   325MG PO QD	aspirin FFF 0 0	325mg FFF 1 1	po FFF 2 2	qd FFF 3 3	 FFF 	 FFF 	narrative
+258-01	12	0	GLUCOTROL     PO	glucotrol FFF 0 0	 FFF 	po FFF 1 1	 FFF 	 FFF 	 FFF 	narrative
+258-01	13	0	LISINOPRIL	lisinopril FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+258-01	14	0	LASIX	lasix FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+258-01	15	0	AMBIEN (ZOLPIDEM TARTRATE)  10MG PO HS PRN .	AMBIEN (ZOLPIDEM TARTRATE) FFF 0 2	10mg FFF 3 3	po FFF 4 4	HS PRN FFF 5 6	 FFF 	 FFF 	narrative
+258-01	16	0	PROCARDIA XL  120MG PO QD	procardia xl FFF 0 1	120mg FFF 2 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
+258-01	17	0	LIPITOR	lipitor FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+258-01	18	0	CLOPIDOGREL	clopidogrel FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+258-01	31	0	Cor: irreg irreg.	cor: FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

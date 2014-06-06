@@ -1,0 +1,15 @@
+256-02	8	0	DOB: 8/6/2075	dob: FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+256-02	13	0	HPI: As you know, Ms. Klein is a 74 yo RH woman with history of HTN, hyperlipidemia, CAD s/p LAD stent (2144), migraine, who was in her USOH until the afternoon of 2/6/50 when she experienced sudden onset of garbled speech and difficulty "expressing myself" while cooking lunch for she and her husband.  This episode was accompanied shortly thereafter by a dull, L fronto-temporal headache that persisted for several hours.  She states she did not have word-finding difficulties but simply had trouble articulating herself.   In particular she related several examples of semantic paraphasic errors.  The episode came on suddenly and lasted 1-2 hours before she resolved back to baseline.  In addition to headache, associated symptoms included generalized weakness, feeling cold and mildly nauseated.  She denied visual changes, chest pain, sob, palpitations, lightheadedness, vertigo, difficulty with swallowing, coordination or gait.  She describes having a glass of orange juice with the thought that her sugar might be low, without apparent effect.  She recalled one similar episode ~ 2 years ago at which time she had her husband drive her home and she went to bed.  The speech difficulty had resolved by morning, and she apparently never told her physician or had any further work-up.  She has no known history of seizures but migraines occur 1-2x/year, last 30 minutes to several hours and are typically preceeded by scintillating scotoma (   jagged horizontal lines   ), associated with nausea/photophobia, and relieved by sleep.	orange juice FFF 145 146	 FFF 	 FFF 	morning, FFF 189 189	2 years FFF 165 166	 FFF 	narrative
+256-02	16	0	She was discharged on her home medications, which included ASA 325mg po qd, with a diagnosis of complex migraine.	asa FFF 9 9	325mg FFF 10 10	po FFF 11 11	qd, FFF 12 12	 FFF 	 FFF 	narrative
+256-02	18	0	She has tried Excedrin migraine a few times recently, with good results.	excedrin migraine FFF 3 4	a FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+256-02	20	0	Similarly feels that her balance is transiently affected when getting out of bed in the morning (   I rock   ).	balance FFF 4 4	 FFF 	 FFF 	in the morning FFF 13 15	transiently FFF 6 6	 FFF 	narrative
+256-02	35	438	ASA 325	asa FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+256-02	36	438	Lipitor 10	lipitor FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+256-02	37	438	Isordil	isordil FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+256-02	38	438	Verapamil 240	verapamil FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+256-02	39	438	Atenolol 25	atenolol FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+256-02	40	438	Protonix 40	protonix FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+256-02	41	438	HCTZ 12.5	hctz FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+256-02	42	438	MVI	mvi FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+256-02	47	0	Denies tobacco, ETOH, or illicit drug use.	illicit drug FFF 4 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+256-02	56	0	Cor:  rr, nl s1s2, no m/r/g	cor: FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

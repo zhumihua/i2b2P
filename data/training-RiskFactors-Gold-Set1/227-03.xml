@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2163-02-25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+February 25, 2163
+
+
+
+
+
+Barbara Chavez, M.D.
+
+NMC
+
+Internal Medicine
+
+IMA 1
+
+NXO 2-359
+
+
+
+RE:  William Le
+
+MRN:  054-00-99
+
+DOB:  09/03/2089
+
+
+
+DOS:  02/25/2163
+
+
+
+Dear Dr Chavez,
+
+
+
+Mr. William Le return for follow-up in the Neurology clinic today.  He still has significant difficulty walking, and he is falling frequently at home. He has not sustained any significant injuries.  He has numbness and paresthesias of his feet, but there has been no interval change in his symptoms since his last visit in November 2162.
+
+
+
+Medications:  Neurontin 300mg TID, Lasix 40mg daily, aspirin, Atenolol 50mg daily, Zetia 10mg, Pravastatin 20mg, Nexium and multi vitamins.
+
+
+
+Examination:  reveals that strength testing in the legs is normal.  He has absent deep tendon reflexes of the ankles, trace to 1+ at the knees.  Romberg's test is positive, and the patient has difficulty standing without assistance.  Despite the degree of sensory ataxia, he is still able to feel position sense at the metatarsophalangeal joints in his feet. Vibration and pinprick sensation are diminished.
+
+
+
+Data Review:  The patient does have a persistent low concentration of monoclonal protein in the slow gamma region.  This is unchanged compared to the previous study done in February 2162. This most likely is a MGUS.
+
+
+
+Impression and Recommendation:  The patient has poorly controlled diabetes, complicated by polyneuropathy.  The monoclonal protein is an incidental finding and is probably not accounting for his peripheral neuropathy.  Given that the monoclonal protein has not changed in concentration or character I do not believe that there is a need for additional testing at this stage.  He will continue with Neurontin to manage his neuropathic symptoms.  I have urged him to try and maintain good diabetic control. Follow-up in 6 months
+
+
+
+
+
+Sincerely,
+
+
+
+
+
+
+
+Charles Tisdale      
+
+      
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="ezetimibe" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC5" time="before DCT" type1="ezetimibe" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC7" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC9" time="during DCT" type1="ezetimibe" type2=""/>
+    <MEDICATION id="DOC10" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC13" time="during DCT" type1="beta blocker" type2=""/>
+    <FAMILY_HIST id="DOC15" indicator="not present"/>
+    <SMOKER id="DOC12" status="unknown"/>
+    <DIABETES id="DOC8" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC14" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC16" time="during DCT" indicator="mention"/>
+  </TAGS>
+</root>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2079-01-06
+
+EDVISIT^52402461^Ervin, Quindarrius^01/06/79^MEDINA, LUTHER
+
+Seen on 01/06/2079 with Dr. Delaney.  I confirmed that I have
+
+interviewed and examined the patient, reviewed the resident's
+
+documentation on the patient's chart, and discussed the
+
+evaluation, plan of care, and disposition with the patient. 
+
+Please see the resident's note for details.
+
+HISTORY OF PRESENT ILLNESS:  Briefly, this is a 68-year-old
+
+gentleman who presents from rehab with 1 week of diaphoresis and
+
+2 days of shortness of breath and nonproductive cough.  He has a
+
+history of diabetes, hypertension, spinal stenosis, atrial
+
+fibrillation, CHF, CABG, and aortic valve replacement.
+
+PHYSICAL EXAMINATION:  He is profoundly diaphoretic and is in
+
+mild respiratory distress.  Pulse 82, respirations 20, blood
+
+pressure 145/95, pulse oximetry 98% on room air, and his
+
+temperature is 95.9.  He has crackles and bronchial breath sounds
+
+in his right middle and upper lung fields.  He has a regular rate
+
+and rhythm with a 2/6 systolic murmur.
+
+LABORATORY DATA:  His chest x-ray shows right upper lobe
+
+infiltrate.  Sodium is 135.  His white count is 9.8 with left
+
+shift.
+
+CLINICAL IMPRESSION:  Pneumonia.
+
+ ******** Not reviewed by Attending Physician ********
+
+PLAN:  Admission for IV antibiotics.
+
+______________________________
+
+MEDINA, LUTHER M.D.
+
+D: 01/07/79
+
+T: 01/07/79
+
+Dictated By: MEDINA, LUTHER
+
+eScription document:9-5046707 BFFocus
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC6" time="after DCT" indicator="mention"/>
+    <CAD id="DOC2" time="before DCT" indicator="event"/>
+    <FAMILY_HIST id="DOC7" indicator="not present"/>
+    <SMOKER id="DOC8" status="unknown"/>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC9" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

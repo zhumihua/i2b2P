@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2098-07-20
+
+ 
+
+ 
+
+July 20, 2098
+
+ 
+
+ 
+
+ 
+
+Patricia Islam, M.D.
+
+Redwood Area Hospital
+
+34 Tamworth Place/Internal Medicine
+
+Cass City, MS  25448
+
+ 
+
+Re:  Brady Duvall
+
+     MR #425-03-15-1
+
+ 
+
+Dear Patricia:
+
+ 
+
+I saw Brady Duvall again today.  He has been very stable
+
+clinically over these past six months.  I believe this represents
+
+a composite of the following three major changes in his medical
+
+regimen.  As you know, we have discontinued all beta blockers,
+
+and this has been associated with a symptomatic stability.  He
+
+had biventricular pacing box placed, certainly contributing to
+
+his overall improved status and he is now taking a regular dose
+
+of Lasix.  He is on 80 mg alternating with 40 mg per day.  He
+
+does have symptoms of fatigue, but his overall volume status is
+
+quite reasonable.  He is currently on Aldactone 25 mg daily and
+
+Lasix 80 mg per day alternating with 40 mg per day, Captopril
+
+6.25 mg p.o. t.i.d., Zocor, insulin, Glucophage, aspirin, and
+
+mexiletine.  His amiodarone has been discontinued.  He does have
+
+asymptomatic ventricular tachycardia, often paced out of this,
+
+but I am reluctant to recommend ablation therapy for him at the
+
+present time.  He has not been shocked by his ICD.
+
+ 
+
+Functionally he seems quite stable.  He does have mild fatigue,
+
+but is otherwise reasonably active.  He will hopefully be
+
+traveling to Miami this spring.
+
+ 
+
+Physical examination today is of note for a weight of 184 lbs. 
+
+His blood pressure is 118/70, his resting pulse 69.  His neck
+
+veins are in fact, quite unimpressive.  There is minimal jugular
+
+distention, perhaps 6-7 cm.  There is no hepatojugular reflux.  
+
+ 
+
+ 
+
+Re:  Brady Duvall
+
+     MR #425-03-15-1                 -2-                07/18/98
+
+ 
+
+Lungs were clear.  Examination of his heart reveals a quiet
+
+precordium.  S1 and S2 seem normal.  No S3, no gallop and no
+
+murmur or mitral regurgitation.  Abdomen is benign without
+
+palpable liver or spleen and there was no peripheral edema. 
+
+There are bilateral varicosities.
+
+ 
+
+His electrocardiogram shows pace rhythm.
+
+ 
+
+Mr. Brady Duvall is currently stable on this regimen. 
+
+Accordingly, I have made no changes.  I have checked appropriate
+
+electrolytes.
+
+ 
+
+Many thanks for letting us participate in his care.
+
+ 
+
+With best regards.
+
+ 
+
+Sincerely,
+
+ 
+
+ 
+
+ 
+
+U. L. Dana, M.D.
+
+ 
+
+/paris
+
+ 
+
+ 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC9" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC10" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC11" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC14" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC15" time="before DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC16" time="during DCT" type1="insulin" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="beta blocker" type2=""/>
+    <FAMILY_HIST id="DOC12" indicator="not present"/>
+    <SMOKER id="DOC8" status="unknown"/>
+  </TAGS>
+</root>

@@ -1,0 +1,31 @@
+367-03	1	Record date: 2083-07-09	
+367-03	2	Pt here for new PCP and f/u on multiple issues.		INDICATION FFF pcp#4	INDICATION FFF f#6
+367-03	3	Medications	
+367-03	4	Premarin (CONJUGATED Estrogens) 2 GM PV QHS : SIG ONE APPLICATOR FULL AT HSX 1WK THEN TWICE PER WEEK		DBN FFF premarin#0	DOSE FFF 2gm#4	INDICATION FFF pv#5	FREQ FFF qhs#6	DOSEAMT FFF one applicator#10	DRT FFF 1 wk#14	FREQ FFF twice per week#18
+367-03	5	Cozaar (LOSARTAN) 50MG, 1 Tablet(s) PO bid		DBN FFF cozaar#0	DOSE FFF 50mg#2	DOSEAMT FFF 1 tablet#4	RUT FFF po#5	FREQ FFF bid#6
+367-03	6	ATENOLOL 50MG, 0.5 Tablet(s) PO QD		DIN FFF atenolol#0	DOSE FFF 50mg#1	DOSEAMT FFF 0.5 tablet#3	RUT FFF po#4	FREQ FFF qd#5
+367-03	7	Ativan (LORAZEPAM) 0.5MG, 1 Tablet(s) PNGT QD		DBN FFF ativan#0	DOSE FFF 0.5mg#2	DOSEAMT FFF 1 tablet#4	FREQ FFF qd#6
+367-03	8	GLYBURIDE 5MG, 1 Tablet(s) PO QD		DIN FFF glyburide#0	DOSE FFF 5mg#1	DOSEAMT FFF 1 tablet#3	RUT FFF po#4	FREQ FFF qd#5
+367-03	9	Allergies		INDICATION FFF allergies#0
+367-03	10	Codeine - GI upset		DIN FFF codeine#0
+367-03	11	Sulfa - Rash		DIN FFF sulfa#0
+367-03	12	* lisinopril - cough		DIN FFF lisinopril#1	INDICATION FFF cough#3
+367-03	13	Penicillins - Rash		DBN FFF penicillins#0
+367-03	14	* hctz - cramps		DPN FFF hctz#1	INDICATION FFF cramps#3
+367-03	15	Problems	
+367-03	16	Diabetes mellitus - cheated last weekend at a party, but mostly sugars 60-150s.		INDICATION FFF diabetes mellitus#1
+367-03	17	Last low-sugar rxn was a month ago, and her glyb. was decreased.  She may have "polys".  She still has not called her eye doctor for an appt. b/c too busy.  Urine microalbumin nl.  HBA1C 6.6%		DRT FFF a month#5	RUT FFF eye#22	DOSE FFF 6.6%#34
+367-03	18	Hypertension - did not increase atenolol as advised by Dr Buckley.		INDICATION FFF hypertension#0	DIN FFF atenolol#5	INDICATION FFF as#6
+367-03	19	Her home BPs are 150/70, but her pulse is often in the 50s, which is why she is taking only 1/2 of atenolol.		DIN FFF atenolol#22
+367-03	20	Renal cancer : incidentally discovered, s/p nephrectomy		INDICATION FFF cancer#1
+367-03	21	Hyperparathyroidism : ? 2/2 Vit D deficiency.		INDICATION FFF hyperparathyroidism#0	DIN FFF vit d#5
+367-03	22	Thyroid nodules.	
+367-03	23	Being evaluated by Dr Lawson, SH Endocrine.		INDICATION FFF sh#5
+367-03	24	However, the last time she went to Endo. she was told she did not have an appt. She has not rec'd another in the mail.  She never had the thyroid bx.  Last Ca nl. but phos low.		INDICATION FFF endo#7	INDICATION FFF ca#32
+367-03	25	Dyspepsia/ H Pylori : unable to tolerate bismuth, TCN, metronidazole or clarithromycin and metronidazole.		INDICATION FFF dyspepsia#0	DIN FFF bismuth#7	DIN FFF tcn#8	DIN FFF metronidazole#9	DIN FFF clarithromycin#11	DIN FFF metronidazole#13
+367-03	26	She has occ. dyspepsia, for which she takes prn ranitidine, none lately.  Of note, recent guaiacs positive.  She had a colonoscopy 2079, which showed a polyp and diverticulosis.  Three year f/u rec.  Pt has been afraid to reschedule b/c was not sufficiently anesthetised the last time and had a lot of pain.		INDICATION FFF dyspepsia#3	NEC FFF prn#8	DIN FFF ranitidine#9	DRT FFF three year#29	INDICATION FFF f#30	INDICATION FFF pain .#51
+367-03	27	Plantar Fasciitis - resolved.	
+367-03	28	RHM - UTD.	
+367-03	29	SH - married.		INDICATION FFF sh#0
+367-03	30	Husband has some medical problems, but is able to drive her on all her errands, as she does not dirve.		INDICATION FFF as#15
+367-03	31	No cigs, EtOH, sexual activity.	

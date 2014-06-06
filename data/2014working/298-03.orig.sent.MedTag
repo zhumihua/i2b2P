@@ -1,0 +1,60 @@
+298-03	1	Record date: 2082-02-03	
+298-03	2	85 yo male for follow up.	
+298-03	3	c/o mainly of arthritis pain in hands.  no redness or swelling.		INDICATION FFF c / o#0	DBN FFF arthritis pain#4	INDICATION FFF redness#8	INDICATION FFF swelling#10
+298-03	4	Sleeping well at night with no pnd or orthopnea.   sleeping in bed as opposed to couch/chair.		TOD FFF at night#3	INDICATION FFF orthopnea#8	INDICATION FFF as#12
+298-03	5	finds reflux of small amount of food every three meals if he eats quickly.  sometimes gets rushed by family members.	
+298-03	6	no dysphagia or odynophagia.	
+298-03	7	PROBLEMS	
+298-03	8	Congestive heart failure		INDICATION FFF congestive heart failure#2
+298-03	9	Chronic obstructive pulmonary disease		INDICATION FFF obstructive pulmonary disease#3
+298-03	10	Hypertension		INDICATION FFF hypertension#0
+298-03	11	Gout		INDICATION FFF gout#0
+298-03	12	DJD		INDICATION FFF djd#0
+298-03	13	Benign prostatic hypertrophy		INDICATION FFF benign prostatic hypertrophy#2
+298-03	14	Hyperlipidemia		INDICATION FFF hyperlipidemia#0
+298-03	15	Chronic renal dysfunction	
+298-03	16	Peripheral vascular disease  s/p right fem-tib bypass 1/78		INDICATION FFF peripheral vascular disease#2
+298-03	17	Prostatic nodule  psa 1.6 09/81.  seen by dr. hoover in 11/81 who recommended yearly follow up.		INDICATION FFF psa#2	FREQ FFF yearly#13
+298-03	18	MEDICATIONS	
+298-03	19	PREDNISONE   5MG  1 Tablet(s) PO QD  Take as directed		DIN FFF prednisone#0	DOSE FFF 5mg#1	DOSEAMT FFF 1 tablet#3	RUT FFF po#4	FREQ FFF qd#5	INDICATION FFF as#7
+298-03	20	COUMADIN (WARFARIN SODIUM)      1 Tablet(s) PO QPM  Take as directed per anticoag		DBN FFF coumadin#0	DOSEAMT FFF 1 tablet#4	RUT FFF po#5	FREQ FFF qpm#6	INDICATION FFF as#8	DIN FFF anticoag#11
+298-03	21	HYDRALAZINE HCL   10MG  1 Tablet(s) PO QID  Take as directed		DIN FFF hydralazine hcl#1	DOSE FFF 10mg#2	DOSEAMT FFF 1 tablet#4	RUT FFF po#5	FREQ FFF qid#6	INDICATION FFF as#8
+298-03	22	ISORDIL (ISOSORBIDE DINITRATE)   20MG  1 Tablet(s) PO TID  Take as directed		DBN FFF isordil#0	DOSE FFF 20mg#3	DOSEAMT FFF 1 tablet#5	RUT FFF po#6	FREQ FFF tid#7	INDICATION FFF as#9
+298-03	23	ALLOPURINOL   100MG  1 Tablet(s) PO QD  Take as directed		DIN FFF allopurinol#0	DOSE FFF 100mg#1	DOSEAMT FFF 1 tablet#3	RUT FFF po#4	FREQ FFF qd#5	INDICATION FFF as#7
+298-03	24	K-DUR (KCL SLOW REL.)   20MEQ  1 Tablet(s) PO QD  Take as directed		DBN FFF k-dur#0	DOSE FFF 20meq#4	DOSEAMT FFF 1 tablet#6	RUT FFF po#7	FREQ FFF qd#8	INDICATION FFF as#10
+298-03	25	CALCIUM CARBONATE (500 MG ELEMENTAL CA  )   500MG  1 Tablet(s) PO QD  Take as directed		DPN FFF calcium carbonate ( 500 mg elemental ca )#6	DOSE FFF 500mg#7	DOSEAMT FFF 1 tablet#9	RUT FFF po#10	FREQ FFF qd#11	INDICATION FFF as#13
+298-03	26	DIGOXIN   0.125MG  1 Tablet(s) PO QOD  Take as directed		DIN FFF digoxin#0	DOSE FFF 0.125mg#1	DOSEAMT FFF 1 tablet#3	RUT FFF po#4	FREQ FFF qod#5	INDICATION FFF as#7
+298-03	27	COLCHICINE   0.6MG  1 Tablet(s) PO QOD  Take as directed		DIN FFF colchicine#0	DOSE FFF 0.6mg#1	DOSEAMT FFF 1 tablet#3	RUT FFF po#4	FREQ FFF qod#5	INDICATION FFF as#7
+298-03	28	PRILOSEC (OMEPRAZOLE)   20MG  1 Capsule(s) PO QD		DBN FFF prilosec#0	DOSE FFF 20mg#2	DOSEAMT FFF 1 capsule#4	RUT FFF po#5	FREQ FFF qd#6
+298-03	29	METOPROLOL TARTRATE   50MG  1 Tablet(s) PO BID  Take as directed		DIN FFF metoprolol tartrate#1	DOSE FFF 50mg#2	DOSEAMT FFF 1 tablet#4	RUT FFF po#5	FREQ FFF bid#6	INDICATION FFF as#8
+298-03	30	LASIX (FUROSEMIDE)   40MG  1 Tablet(s) PO BID  Take as directed		DBN FFF lasix#0	DOSE FFF 40mg#2	DOSEAMT FFF 1 tablet#4	RUT FFF po#5	FREQ FFF bid#6	INDICATION FFF as#8
+298-03	31	CELEBREX (CELECOXIB)   200MG  1 Capsule(s) PO QD  Take as directed		DBN FFF celebrex#0	DOSE FFF 200mg#2	DOSEAMT FFF 1 capsule#4	RUT FFF po#5	FREQ FFF qd#6	INDICATION FFF as#8
+298-03	32	ALLERGY		INDICATION FFF allergy#0
+298-03	33	Penicillins  Unknown		DBN FFF penicillins#0
+298-03	34	exam: weight 192(down 8 lbs)		INDICATION FFF weight#1
+298-03	35	bp 130/70		INDICATION FFF bp#0
+298-03	36	pulse  72	
+298-03	37	appears well	
+298-03	38	lungs:slight rales at bases with diminished sounds throughout but no wheeze.		INDICATION FFF wheeze#10
+298-03	39	abd: obese soft and nontender		INDICATION FFF obese#1
+298-03	40	ext: no edema.  hands: no redness or swelling		INDICATION FFF edema#2	INDICATION FFF redness#5	INDICATION FFF swelling#7
+298-03	41	a/p	
+298-03	42	chf: stable.   lung exam at baseline.   follow  present management.		INDICATION FFF chf#0
+298-03	43	copd: stable.		INDICATION FFF copd#0
+298-03	44	htn: stable.		INDICATION FFF htn :#0
+298-03	45	Gerd:   tertiary contractions on barium swallow in october.  advised to eat slowly, taking his time and cutting food in small pieces.		INDICATION FFF gerd#0	RUT FFF swallow#5
+298-03	46	prostatic nodule:   seen by dr. hoover on 11/27/81 and found asymmetry with left > right.   his plan is yearly exam.		FREQ FFF yearly#18
+298-03	47	guaiac positive stool:   Will be having colonoscopy in the next month.	
+298-03	48	arthritis:   asked him to call arthritis clinic: dr. quijada for follow up. continue with prednisone.		INDICATION FFF arthritis#0	INDICATION FFF arthritis#5	DIN FFF prednisone#14
+298-03	49	HEALTH MAINTENANCE	
+298-03	50	Influenza 10/02/2081	
+298-03	51	Cholesterol 10/03/2081 217  DESIRABLE: less then 200		INDICATION FFF cholesterol#0
+298-03	52	Rectal exam 10/02/2081	
+298-03	53	Stool Guaiac 12/05/2081 one trace postiive out of three Done - positive	
+298-03	54	Pneumovax 11/07/75  Done		DIN FFF pneumovax#0	DOSE FFF 11/07#1
+298-03	55	Smoking status 10/02/2081  Never a smoker	
+298-03	56	UA-Protein 08/31/2081 1+	
+298-03	57	check tsh	
+298-03	58	follow up in three months.		DRT FFF three months#4
+298-03	59	______________________________________________	
+298-03	60	David S. Hale, M.D.	

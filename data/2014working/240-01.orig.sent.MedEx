@@ -1,0 +1,33 @@
+240-01	1	Record date: 2095-03-31		 
+240-01	2	INTERNAL MEDICINE ASSOCIATES		 
+240-01	3	YORK CONVALESCENT HOSPITAL		 
+240-01	4	History of present illness		 
+240-01	5			 
+240-01	6	Oneill was hospitalized at the Muscatine Health Center shortly after leaving the YCH following his catheterization and placement of the stent by Dr.		 
+240-01	7	Hall.  Because of the recurrent chest pain at Muscatine Health he was catheterized again from the left groin and the stent seemed to be functioning normally.		 
+240-01	8	He was given the usual supportive therapy and discharged.		 
+240-01	9	He is now taking Isordil 30 mg SR daily as isosorbide mononitrate.		DBN FFF isordil#4	DOSE FFF 30mg#6	FREQ FFF daily#8	INDICATION FFF as#9
+240-01	9	He is now taking Isordil 30 mg SR daily as isosorbide mononitrate.		DIN FFF isosorbide mononitrate#11
+240-01	10	He takes metoprolol 25 mg one-half BID, Procardia XL 30 mg daily, furosemide 20 mg per day, K-Dur 20 mEq daily, Flomax 0.4 mg daily, Singulair 10 mg daily, Advair 25/50 mg daily, Prilosec 20 mg per day, terazosin 10 mg per day, and atorvastatin 10 mg HS.		DIN FFF metoprolol#2	DOSE FFF 25mg#4	DOSEAMT FFF one-half#5	FREQ FFF bid#6
+240-01	10	He takes metoprolol 25 mg one-half BID, Procardia XL 30 mg daily, furosemide 20 mg per day, K-Dur 20 mEq daily, Flomax 0.4 mg daily, Singulair 10 mg daily, Advair 25/50 mg daily, Prilosec 20 mg per day, terazosin 10 mg per day, and atorvastatin 10 mg HS.		DBN FFF procardia xl#8	DOSE FFF 30mg#10	FREQ FFF daily#11
+240-01	10	He takes metoprolol 25 mg one-half BID, Procardia XL 30 mg daily, furosemide 20 mg per day, K-Dur 20 mEq daily, Flomax 0.4 mg daily, Singulair 10 mg daily, Advair 25/50 mg daily, Prilosec 20 mg per day, terazosin 10 mg per day, and atorvastatin 10 mg HS.		DIN FFF furosemide#12	DOSE FFF 20mg#14	FREQ FFF per day#16
+240-01	10	He takes metoprolol 25 mg one-half BID, Procardia XL 30 mg daily, furosemide 20 mg per day, K-Dur 20 mEq daily, Flomax 0.4 mg daily, Singulair 10 mg daily, Advair 25/50 mg daily, Prilosec 20 mg per day, terazosin 10 mg per day, and atorvastatin 10 mg HS.		DBN FFF k-dur 20#18	FREQ FFF daily#20
+240-01	10	He takes metoprolol 25 mg one-half BID, Procardia XL 30 mg daily, furosemide 20 mg per day, K-Dur 20 mEq daily, Flomax 0.4 mg daily, Singulair 10 mg daily, Advair 25/50 mg daily, Prilosec 20 mg per day, terazosin 10 mg per day, and atorvastatin 10 mg HS.		DBN FFF flomax#21	DOSE FFF 0.4mg#23	FREQ FFF daily#24
+240-01	10	He takes metoprolol 25 mg one-half BID, Procardia XL 30 mg daily, furosemide 20 mg per day, K-Dur 20 mEq daily, Flomax 0.4 mg daily, Singulair 10 mg daily, Advair 25/50 mg daily, Prilosec 20 mg per day, terazosin 10 mg per day, and atorvastatin 10 mg HS.		DBN FFF singulair#25	DOSE FFF 10mg#27	FREQ FFF daily#28
+240-01	10	He takes metoprolol 25 mg one-half BID, Procardia XL 30 mg daily, furosemide 20 mg per day, K-Dur 20 mEq daily, Flomax 0.4 mg daily, Singulair 10 mg daily, Advair 25/50 mg daily, Prilosec 20 mg per day, terazosin 10 mg per day, and atorvastatin 10 mg HS.		DBN FFF advair#29	DOSE FFF 25/50mg#31	FREQ FFF daily#32
+240-01	10	He takes metoprolol 25 mg one-half BID, Procardia XL 30 mg daily, furosemide 20 mg per day, K-Dur 20 mEq daily, Flomax 0.4 mg daily, Singulair 10 mg daily, Advair 25/50 mg daily, Prilosec 20 mg per day, terazosin 10 mg per day, and atorvastatin 10 mg HS.		DBN FFF prilosec#33	DOSE FFF 20mg#35	FREQ FFF per day#37
+240-01	10	He takes metoprolol 25 mg one-half BID, Procardia XL 30 mg daily, furosemide 20 mg per day, K-Dur 20 mEq daily, Flomax 0.4 mg daily, Singulair 10 mg daily, Advair 25/50 mg daily, Prilosec 20 mg per day, terazosin 10 mg per day, and atorvastatin 10 mg HS.		DIN FFF terazosin#38	DOSE FFF 10mg#40	FREQ FFF per day#42
+240-01	10	He takes metoprolol 25 mg one-half BID, Procardia XL 30 mg daily, furosemide 20 mg per day, K-Dur 20 mEq daily, Flomax 0.4 mg daily, Singulair 10 mg daily, Advair 25/50 mg daily, Prilosec 20 mg per day, terazosin 10 mg per day, and atorvastatin 10 mg HS.		DIN FFF atorvastatin#44	DOSE FFF 10mg#46	FREQ FFF hs#47
+240-01	11	He states that he feels completely well.		 
+240-01	12	He has noted good healing in the left groin.		 
+240-01	13	No new issues.		 
+240-01	14	Change in therapies and Renewals		 
+240-01	15	isosorbide mononitrate 30 mg SR po qd QTY:90 Refills:3 Start: 03/31/2095		DIN FFF isosorbide mononitrate#1	DOSE FFF 30mg#3	RUT FFF po#5	FREQ FFF qd#6
+240-01	16	metoprolol 25mg po 1/2 bid QTY:90 Refills:3 Start: 03/31/2095		DIN FFF metoprolol#0	DOSE FFF 25mg#1	RUT FFF po#2	FREQ FFF bid#4
+240-01	17	Physical examination		 
+240-01	18	Blood pressure 140/70    by the nurse, 135/75 by my exam 10 minutes later.		 
+240-01	19	Weight   194 pounds.		 
+240-01	20	Neck   Neck veins are flat in the sitting positing.		 
+240-01	21	No neck bruits.		 
+240-01	22	Cor   Heart sounds are fine.		DIN FFF cor#0
+240-01	23	No clicks or murmurs.		 

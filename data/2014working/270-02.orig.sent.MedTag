@@ -1,0 +1,82 @@
+270-02	1	Record date: 2097-03-25	
+270-02	2	Patient Name: Whitaker, Vincent	
+270-02	3	MRN: 29964344	
+270-02	4	Admit Date: 3/25/97	
+270-02	5	Today's Date: 3/25/97	
+270-02	6	ESRD Attending: Dr.		INDICATION FFF esrd#0
+270-02	7	Nancy Gipson	
+270-02	8	Renal Dialysis Fellow Note	
+270-02	9	HPI: 65 yo M h/o HTN, DM, RAS, now ESRD on HD, recent admission in LH CCU 1/26-2/28/97 after presenting with PEA cardiac arrest, course c/b respiratory failure requiring trach and PEG, initiated on HD during that admission, d/c'ed to Homestead Hospital 2/28/97, transferred from HH for fevers (T to 102 on 3/22) and urine and blood cultures positive for gram negative rods for further management.		INDICATION FFF htn#5	INDICATION FFF dm#6	INDICATION FFF esrd#9	INDICATION FFF hd#11	DRT FFF 1/26 - 2/28#17	INDICATION FFF cardiac arrest#23	INDICATION FFF hd#34	DRT FFF during#35	INDICATION FFF hh#45	INDICATION FFF fevers#47	INDICATION FFF t#48
+270-02	10	Was given on 3/24/97 linezolid and levaquin, gentamicin at HD.		DIN FFF linezolid#4	DBN FFF levaquin#6	DIN FFF gentamicin#7	INDICATION FFF hd#9
+270-02	11	RIJ catheter pulled prior to transfer. + c/o diarrhea for several days.		INDICATION FFF c / o#7	INDICATION FFF diarrhea#8	DRT FFF for several days .#11
+270-02	12	No recent CP, SOB, nausea, vomiting. + productive cough, +back pain.		INDICATION FFF cp#2	INDICATION FFF sob#3	INDICATION FFF nausea#4	INDICATION FFF vomiting#5	INDICATION FFF cough#8	INDICATION FFF back pain#10
+270-02	13	Previous to January admission, patient had CKD stage 4 with Cr in 4s, developed oliguric renal failure and initiated on HD with no evidence of renal recovery.		INDICATION FFF renal failure#16	INDICATION FFF hd#20
+270-02	14	MEDICAL HISTORY:	
+270-02	15	ESRD on HD		INDICATION FFF esrd#0	INDICATION FFF hd#2
+270-02	16	s/p PEA arrest 1/26/97	
+270-02	17	Respiratory failure s/p trach	
+270-02	18	PEG	
+270-02	19	Right-sided RAS	
+270-02	20	HTN		INDICATION FFF htn#0
+270-02	21	CAD		INDICATION FFF cad#0
+270-02	22	DM		INDICATION FFF dm#0
+270-02	23	Anemia		INDICATION FFF anemia#0
+270-02	24	HCV antibody +	
+270-02	25	MEDICATIONS:	
+270-02	26	Diltiazem 30mg qid		DIN FFF diltiazem#0	DOSE FFF 30mg#1	FREQ FFF qid#2
+270-02	27	Lopressor 25mg tid		DBN FFF lopressor#0	DOSE FFF 25mg#1	FREQ FFF tid#2
+270-02	28	Insulin		DIN FFF insulin#0
+270-02	29	Linezolid 600mg bid (started 3/22/97)		DIN FFF linezolid#0	DOSE FFF 600mg#1	FREQ FFF bid#2
+270-02	30	Levaquin 500mg qod (started 3/24/97)		DBN FFF levaquin#0	DOSE FFF 500mg#1	FREQ FFF qod#2
+270-02	31	Phoslo 667mg ac meals		DBN FFF phoslo#0	DOSE FFF 667mg#1	TOD FFF ac#2
+270-02	32	Colace 100mg bid		DBN FFF colace#0	DOSE FFF 100mg#1	FREQ FFF bid#2
+270-02	33	Heparin sq q8h		DIN FFF heparin#0	RUT FFF sq#1	FREQ FFF q8h#2
+270-02	34	Ranitidine 150mg qdaily		DIN FFF ranitidine#0	DOSE FFF 150mg#1
+270-02	35	Trazodone 25mg qdaily		DIN FFF trazodone#0	DOSE FFF 25mg#1
+270-02	36	Coumadin		DBN FFF coumadin#0
+270-02	37	Tylenol 650mg prn		DBN FFF tylenol#0	DOSE FFF 650mg#1	NEC FFF prn#2
+270-02	38	Nepro tube feeds		DIN FFF nepro#0	RUT FFF tube#1
+270-02	39	ALLERGIES:  Statins - rhabdo, Reserpine - anemia, Nifedipine - swelling		INDICATION FFF allergies#0	INDICATION FFF anemia#6	DIN FFF nifedipine#7	INDICATION FFF swelling#9
+270-02	40	SOCIAL HISTORY: no alcohol, smoking, drugs.		DIN FFF drugs#5
+270-02	41	Currently at Homestead	
+270-02	42	FAMILY HISTORY: non-contributory	
+270-02	43		
+270-02	44	REVIEW OF SYSTEMS: pertinent positives in HPI.	
+270-02	45	Systems otherwise negative in detail.	
+270-02	46	PHYSICAL EXAM:	
+270-02	47	Vitals: T 98.4  HR 118  BP164/82		INDICATION FFF t#1	DRT FFF 98.4 hr#3
+270-02	48	General: comfortable, awake, able to answer questions appropriately	
+270-02	49	HEENT: neck supple, + trach mask	
+270-02	50	CV: Irregular rhythm, S1, S2	
+270-02	51	Chest: CTAB	
+270-02	52	Abd: +PEG, soft, non-tender	
+270-02	53	Back: no CVA tenderness		INDICATION FFF cva#2
+270-02	54	Ext: trace edema		INDICATION FFF trace edema#2
+270-02	55	Access: LIJ tunneled HD catheter		INDICATION FFF hd#3
+270-02	56	LABS:	
+270-02	57	Date/Time         NA             K              CL             CO2            03/25/2097        137            4.2             98             27             03/24/2097        138            3.8 (#)[1]     99             27             Date/Time         BUN            CRE            EGFR           GLU            03/25/2097        44 (*)          5.31 (*)       11 [2]         114            03/24/2097        34 (*#)        4.10 (*#)      15 [3]         131 (*)                Date/Time         CA             PHOS           MG             TBILI          03/25/2097        9.6            2.2 (*)        2.4                           03/24/2097        9.4            SEE DETAIL[4]  2.1 (#)[5]     0.4            Date/Time         TP             ALB            GLOB           03/24/2097        7.8            3.9            3.9            Date/Time         ALT/SGPT       AST/SGOT       ALKP           TBILI          03/24/2097        12             20             66             0.4            Date/Time         WBC            RBC            HGB            HCT            03/25/2097        9.08              3.59 (*)       10.7 (*)       32.7 (*)       03/24/2097        9.95              3.69 (*)       10.7 (*)       34.1 (*)       Date/Time         MCV            MCH            MCHC           PLT            03/25/2097        91.1             29.9             32.8           357            03/24/2097        92.3             28.9 (#)        31.3 (*)       350 (#)		DIN FFF na#1	INDICATION FFF k#2	INDICATION FFF cl#3	DIN FFF glu#20	DOSE FFF 03/25#21	INDICATION FFF ca#39	INDICATION FFF tp#56	DIN FFF alb#57
+270-02	58	Date/Time         PT             PT-INR         PTT            03/25/2097        18.0 (*)       1.4 (*)        30.1           03/24/2097        17.4 (*#)      1.4 (*)        29.1           CXR 3/24/97: no acute cardiopulmonary process		INDICATION FFF ptt#3
+270-02	59		
+270-02	60	Assessment/Recommendations: 65 year old M CAD s/p PEA arrest 1/97, now ESRD on HD, DM, respiratory failure s/p trach/PEG, admitted with gram negative bacteremia.		DRT FFF 65 year#2	INDICATION FFF cad#5	INDICATION FFF esrd#11	INDICATION FFF hd#13	INDICATION FFF dm#14	INDICATION FFF bacteremia#23
+270-02	61		
+270-02	62	1. Reason for admission: gram negative bacteremia, fevers		INDICATION FFF bacteremia#6	INDICATION FFF fevers#7
+270-02	63	-Follow up blood cultures	
+270-02	64	-Call Homestead for speciation and sensitivities of blood cultures	
+270-02	65	-Antibiotics for now: vanco, ceftaz, flagyl		DIN FFF antibiotics#0	DPN FFF ceftaz#4	DBN FFF flagyl#5
+270-02	66	-Will check vancomycin level at end of HD tomorrow.		DIN FFF vancomycin#2	INDICATION FFF hd#7
+270-02	67	-ID consult for assistance with appropriate antibiotic coverage		INDICATION FFF antibiotic coverage#7
+270-02	68	-Check stool studies, urine culture	
+270-02	69		
+270-02	70	2. ESRD on HD		INDICATION FFF esrd#1	INDICATION FFF hd#3
+270-02	71	-Schedule TThS	
+270-02	72	-Access: LIJ tunneled catheter	
+270-02	73	-Will draw blood cultures through tunneled catheter tomorrow at HD-Renal indices currently stable	
+270-02	74		
+270-02	75	3. Anemia: Epogen 2000 units with HD tomorrow.		INDICATION FFF anemia#1	DBN FFF epogen#2	DOSEAMT FFF 2000 units#4	INDICATION FFF hd#6
+270-02	76	Will check iron studies	
+270-02	77	4. Mineral metabolism: continue phoslo.		DBN FFF phoslo#4
+270-02	78	-Will check PTH level tomorrow at HD		DIN FFF pth#2	INDICATION FFF hd#6
+270-02	79		
+270-02	80	5. Nutrition: continue nepro feeds		DIN FFF nepro#3
+270-02	81		
+270-02	82		

@@ -1,0 +1,17 @@
+359-04	13	0	tobacco     neg      ETOH    neg     drugs neg     work  detective         marital   div 1 c          dom violence neg     belts  no/ advised to use seatbelts.	drugs FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+359-04	13	0	tobacco     neg      ETOH    neg     drugs neg     work  detective         marital   div 1 c          dom violence neg     belts  no/ advised to use seatbelts.	dom FFF 12 12	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+359-04	25	0	COR             sounds S1 S2  reg	cor FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+359-04	31	0	HTN BP high at office,  P: increase lisinopril 20 mg/d  .	lisinopril FFF 7 7	20 mg/d FFF 8 9	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+359-04	32	0	Type 2 dm on diet and glyburide;  poor compl with HBGM. on WW diet 1200 cal ada nas; P: continue diet, glyburide, check BS bid	glyburide; FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+359-04	32	0	Type 2 dm on diet and glyburide;  poor compl with HBGM. on WW diet 1200 cal ada nas; P: continue diet, glyburide, check BS bid	glyburide, FFF 21 21	 FFF 	 FFF 	bid FFF 24 24	 FFF 	 FFF 	narrative
+359-04	33	0	HLP on statin,and diet; P: continue same.	statin,and FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+359-04	34	0	Hypothyroidism clinically euthyr; last TSH ok; P; continue  levothyroxine.	levothyroxine. FFF 8 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+359-04	38	0	Asa (CHILDREN 81MG TABLET Take 1 Tablet(s) QD , Take as directed	asa FFF 0 0	81mg FFF 2 2	 FFF 	qd FFF 7 7	 FFF 	 FFF 	narrative
+359-04	39	0	Dyazide 50/25 (Take 1) PO QD , 50/25 #90 Capsule(s)	dyazide FFF 0 0	50/25 FFF 1 1	po FFF 4 4	qd FFF 5 5	 FFF 	 FFF 	narrative
+359-04	40	0	Flonase (FLUTICASONE NASAL SPRAY) 1-2 SPRAY NAS QD x 14 days #1 Bottle(s)	Flonase (FLUTICASONE NASAL SPRAY) FFF 0 3	1-2 spray FFF 4 5	 FFF 	qd FFF 7 7	x 14 days FFF 8 10	 FFF 	narrative
+359-04	41	0	Glyburide 5MG TABLET Take 1 Tablet(s) PO BID 15 minutes prior to breakfast and supper #60 Tablet(s)	glyburide FFF 0 0	5mg FFF 1 1	po FFF 6 6	bid FFF 7 7	 FFF 	 FFF 	narrative
+359-04	42	0	Levothyroxine SODIUM 112MCG TABLET PO QD , Take as directed #90 Tablet(s)	levothyroxine sodium 112MCG tablet FFF 0 3	 FFF 	po FFF 4 4	qd FFF 5 5	 FFF 	 FFF 	narrative
+359-04	43	0	Lisinopril 10 MG (10MG TABLET Take 1) PO QD , Take as directed #30 Tablet(s)	lisinopril FFF 0 0	10 mg FFF 1 2	po FFF 7 7	qd FFF 8 8	 FFF 	 FFF 	narrative
+359-04	44	0	Simvastatin 40 MG (40MG TABLET Take 1) PO QPM #90 Tablet(s)	simvastatin FFF 0 0	40 mg FFF 1 2	po FFF 7 7	qpm FFF 8 8	 FFF 	 FFF 	narrative
+359-04	45	0	Toprol XL (METOPROLOL SUCCINATE EXTENDED RELEASE) 100MG TABLET CR 24HR Take 1.5 Tablet(s) PO QD , Please keep appt for further refills #135 Tablet(s)	toprol xl FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+359-04	46	0	Warfarin SODIUM 4 MG (1MG TABLET Take 4) PO QPM , Take as directed per AMA clinic	warfarin sodium FFF 0 1	4 mg FFF 2 3	po FFF 8 8	qpm FFF 9 9	 FFF 	 FFF 	narrative

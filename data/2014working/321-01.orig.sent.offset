@@ -1,0 +1,8 @@
+321-01	15	0	Efforts to control nausea in past with compazine have not been successful.	compazine FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+321-01	16	0	She took meds including 15u NPH.	nph. FFF 5 5	15u FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+321-01	21	0	She ended up with a TMA and is followed now by Dr.	tma FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+321-01	41	0	Tetanus 02/08/2066   Will do at next visit	tetanus FFF 0 0	02/08/2066 FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+321-01	50	0	REGLAN (METOCLOPRAMIDE HCL)  10MG PO BID	REGLAN (METOCLOPRAMIDE HCL) FFF 0 2	10mg FFF 3 3	po FFF 4 4	bid FFF 5 5	 FFF 	 FFF 	narrative
+321-01	51	0	INSULIN NPH HUMAN  15UNITS SC QAM	insulin nph human FFF 0 2	15units FFF 3 3	sc FFF 4 4	qam FFF 5 5	 FFF 	 FFF 	narrative
+321-01	52	0	ASA (ACETYLSALICYLIC ACID) 325MG 1 Tablet(s) PO QD	ASA (ACETYLSALICYLIC ACID) FFF 0 2	325mg FFF 3 3	po FFF 6 6	qd FFF 7 7	 FFF 	 FFF 	narrative
+321-01	53	0	CAPTOPRIL  50MG PO BID	captopril FFF 0 0	50mg FFF 1 1	po FFF 2 2	bid FFF 3 3	 FFF 	 FFF 	narrative

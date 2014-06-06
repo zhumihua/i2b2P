@@ -1,0 +1,27 @@
+339-03	26	0	She was treated with steroid, alpha blocker, Beta blocker drops and carbonic anhydrase inhibitors (both PO and drops) to lower her pressure.	steroid, FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+339-03	26	0	She was treated with steroid, alpha blocker, Beta blocker drops and carbonic anhydrase inhibitors (both PO and drops) to lower her pressure.	alpha blocker, FFF 5 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+339-03	26	0	She was treated with steroid, alpha blocker, Beta blocker drops and carbonic anhydrase inhibitors (both PO and drops) to lower her pressure.	beta blocker drops FFF 7 9	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+339-03	26	0	She was treated with steroid, alpha blocker, Beta blocker drops and carbonic anhydrase inhibitors (both PO and drops) to lower her pressure.	carbonic anhydrase inhibitors FFF 11 13	 FFF 	po FFF 15 15	 FFF 	 FFF 	 FFF 	narrative
+339-03	30	0	She has been on insulin for 3 years and has been a diabetic for 7 years	insulin FFF 4 4	 FFF 	 FFF 	 FFF 	for 3 years FFF 5 7	 FFF 	narrative
+339-03	42	438	Humalog 75/25 34u at bkfst	humalog FFF 0 0	75/25 FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+339-03	42	438	Humalog 75/25 34u at bkfst	humalog FFF 0 0	34u FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+339-03	43	438	Humalog 75/25 18u at dinner	humalog FFF 0 0	75/25 FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+339-03	43	438	Humalog 75/25 18u at dinner	humalog FFF 0 0	18u FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+339-03	44	438	Glucophage 1000mg BID	glucophage FFF 0 0	1000mg FFF 1 1	 FFF 	bid FFF 2 2	 FFF 	 FFF 	narrative
+339-03	45	438	Neurontin 300mg HS (sometimes skips)	neurontin FFF 0 0	300mg FFF 1 1	 FFF 	hs FFF 2 2	 FFF 	 FFF 	narrative
+339-03	46	438	Bayer ASA 81mg QD	Bayer ASA 81mg QD FFF 0 3	 FFF 	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+339-03	47	438	HCTZ 25mg QD	hctz FFF 0 0	25mg FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+339-03	48	438	Norvasc 10mg QD (started yesterday; prescribed by Dr.	norvasc FFF 0 0	10mg FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+339-03	50	438	Metoprolol 50mg, 1/2 tablet BID	metoprolol FFF 0 0	50mg, FFF 1 1	 FFF 	bid FFF 4 4	 FFF 	 FFF 	narrative
+339-03	51	438	Lisinopril 40mg QD	lisinopril FFF 0 0	40mg FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+339-03	52	438	Lipitor 10mg QD	lipitor FFF 0 0	10mg FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+339-03	53	438	Ranitidine 150mg QD	ranitidine FFF 0 0	150mg FFF 1 1	 FFF 	qd FFF 2 2	 FFF 	 FFF 	narrative
+339-03	76	0	NA         136	na FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+339-03	82	0	GLU        399(H)	glu FFF 0 0	399(h) FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+339-03	90	0	ALB        3.8	alb FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+339-03	154	0	-Xalatan qHS	-xalatan FFF 0 0	 FFF 	 FFF 	qhs FFF 1 1	 FFF 	 FFF 	narrative
+339-03	155	0	-Pred Forte QID	-pred forte FFF 0 1	 FFF 	 FFF 	qid FFF 2 2	 FFF 	 FFF 	narrative
+339-03	156	0	-Timolol BID	-timolol FFF 0 0	 FFF 	 FFF 	bid FFF 1 1	 FFF 	 FFF 	narrative
+339-03	157	0	-Trusopt BID	-trusopt FFF 0 0	 FFF 	 FFF 	bid FFF 1 1	 FFF 	 FFF 	narrative
+339-03	158	0	-Acetazolamide BID	-acetazolamide FFF 0 0	 FFF 	 FFF 	bid FFF 1 1	 FFF 	 FFF 	narrative
+339-03	159	0	-Alphagan	-alphagan FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

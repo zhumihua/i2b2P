@@ -1,0 +1,37 @@
+305-04||1||Record date: 2088-04-19
+305-04||2||Internal Medicine
+305-04||3||714 Riverview Circle              ROBISON, NEIL
+305-04||4||St. Peter, TX  89615                    82302673
+305-04||5||(660) 857-3335                     04/19/2088
+305-04||6||HISTORY OF PRESENT ILLNESS:  Neil comes in today to follow up on multiple medical issues, the first of which is his benign prostatic hypertrophy.
+305-04||7||He states that since beginning the Flomax that we started him on in January, his symptoms are at least 50% better.||DBN FFF flomax FFF 6 6||INDICATION FFF symptoms FFF 15 15||DOSE FFF 50% FFF 19 19||
+305-04||8||He is only getting up once per night to go to the bathroom and is not having any hesitancy or difficulty passing his urine.
+305-04||9||He is also following up on his elevated cholesterol, his hypertension.
+305-04||10||He states that he has been trying to follow a better diet, but does state that he has not been particularly good about getting regular exercise.
+305-04||11||He is also following up on his diabetes.
+305-04||12||He is not having any difficulty with his medications.
+305-04||13||He did not schedule his colonoscopy that I had referred him for in January but states that he would be willing to do so after the spring.
+305-04||14||He is also following up on his COPD.
+305-04||15||He states that he has been using the Pulmicort and the Spiriva as well as the Serevent Diskus on a daily basis.||DBN FFF pulmicort FFF 8 8||
+305-04||15||He states that he has been using the Pulmicort and the Spiriva as well as the Serevent Diskus on a daily basis.||DBN FFF spiriva FFF 11 11||INDICATION FFF as FFF 12 12||INDICATION FFF as FFF 14 14||
+305-04||15||He states that he has been using the Pulmicort and the Spiriva as well as the Serevent Diskus on a daily basis.||DBN FFF serevent diskus FFF 16 17||FREQ FFF daily FFF 20 20||
+305-04||16||He states that his breathing has been good.
+305-04||17||He is hardly wheezing at all and he has better exercise tolerance than before.
+305-04||18||He is also noted to have hepatitis C as well as fatty liver.
+305-04||19||A recent ultrasound also demonstrated gallstones.
+305-04||20||He does not have any postprandial symptoms of right upper quadrant pain, nausea or vomiting.
+305-04||21||He does question whether or not he is a candidate for treatment of hepatitis C.
+305-04||22||PAST MEDICAL HISTORY:  Significant for B-cell lymphoma, pontine stroke, basilar artery stent, herpes zoster, graft versus host disease, hypertension, hyperlipidemia, hyperhomocysteinemia, Pseudomonas pneumonia, COPD, diabetes, heart murmur, BPH and hepatitis C as well as gallstones and fatty liver.
+305-04||23||MEDICATIONS:  Serevent Diskus, metformin, folate, Flomax, Spiriva, albuterol, Lopressor, Combivent, Pulmicort, vitamin B12, vitamin B6, magnesium and aspirin.||DBN FFF serevent diskus, FFF 1 2||
+305-04||23||MEDICATIONS:  Serevent Diskus, metformin, folate, Flomax, Spiriva, albuterol, Lopressor, Combivent, Pulmicort, vitamin B12, vitamin B6, magnesium and aspirin.||DIN FFF metformin, FFF 3 3||
+305-04||23||MEDICATIONS:  Serevent Diskus, metformin, folate, Flomax, Spiriva, albuterol, Lopressor, Combivent, Pulmicort, vitamin B12, vitamin B6, magnesium and aspirin.||DIN FFF folate, FFF 4 4||
+305-04||23||MEDICATIONS:  Serevent Diskus, metformin, folate, Flomax, Spiriva, albuterol, Lopressor, Combivent, Pulmicort, vitamin B12, vitamin B6, magnesium and aspirin.||DBN FFF flomax, FFF 5 5||
+305-04||23||MEDICATIONS:  Serevent Diskus, metformin, folate, Flomax, Spiriva, albuterol, Lopressor, Combivent, Pulmicort, vitamin B12, vitamin B6, magnesium and aspirin.||DBN FFF spiriva, FFF 6 6||
+305-04||23||MEDICATIONS:  Serevent Diskus, metformin, folate, Flomax, Spiriva, albuterol, Lopressor, Combivent, Pulmicort, vitamin B12, vitamin B6, magnesium and aspirin.||DIN FFF albuterol, FFF 7 7||
+305-04||23||MEDICATIONS:  Serevent Diskus, metformin, folate, Flomax, Spiriva, albuterol, Lopressor, Combivent, Pulmicort, vitamin B12, vitamin B6, magnesium and aspirin.||DBN FFF lopressor, FFF 8 8||
+305-04||23||MEDICATIONS:  Serevent Diskus, metformin, folate, Flomax, Spiriva, albuterol, Lopressor, Combivent, Pulmicort, vitamin B12, vitamin B6, magnesium and aspirin.||DBN FFF combivent, FFF 9 9||
+305-04||23||MEDICATIONS:  Serevent Diskus, metformin, folate, Flomax, Spiriva, albuterol, Lopressor, Combivent, Pulmicort, vitamin B12, vitamin B6, magnesium and aspirin.||DBN FFF pulmicort, FFF 10 10||
+305-04||23||MEDICATIONS:  Serevent Diskus, metformin, folate, Flomax, Spiriva, albuterol, Lopressor, Combivent, Pulmicort, vitamin B12, vitamin B6, magnesium and aspirin.||DIN FFF vitamin b12, FFF 11 12||
+305-04||23||MEDICATIONS:  Serevent Diskus, metformin, folate, Flomax, Spiriva, albuterol, Lopressor, Combivent, Pulmicort, vitamin B12, vitamin B6, magnesium and aspirin.||DIN FFF vitamin b6, FFF 13 14||
+305-04||23||MEDICATIONS:  Serevent Diskus, metformin, folate, Flomax, Spiriva, albuterol, Lopressor, Combivent, Pulmicort, vitamin B12, vitamin B6, magnesium and aspirin.||DIN FFF magnesium FFF 15 15||
+305-04||23||MEDICATIONS:  Serevent Diskus, metformin, folate, Flomax, Spiriva, albuterol, Lopressor, Combivent, Pulmicort, vitamin B12, vitamin B6, magnesium and aspirin.||DIN FFF aspirin. FFF 17 17||

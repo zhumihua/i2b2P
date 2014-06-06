@@ -1,0 +1,131 @@
+301-05	1	Record date: 2082-08-21	
+301-05	2		
+301-05	3	TEAM 4 ADMISSION NOTE	
+301-05	4	PATIENT: Albert, Bobbie	
+301-05	5	MRN: 7000963	
+301-05	6	ADMIT DATE:   8/21/82                TIME:  0515 AM		TOD FFF 0515 am#5
+301-05	7	PCP:   Dr. Alexander Petersen		INDICATION FFF pcp#0
+301-05	8	Attending: Dr.	
+301-05	9	Atkinson, transplant	
+301-05	10	Code status:	
+301-05	11	Full	
+301-05	12	Source: Patient, patient record	
+301-05	13	CC: dyspnea, hypoxia		TOD FFF cc#0	INDICATION FFF dyspnea#1
+301-05	14	HPI:	
+301-05	15	47 yo man with long-standing bronchiectasis requiring double lung transplant in 2073 who states that for approximately the last month he has felt occasionally dyspneic and &#8220;dizzy&#8221; (which he more specifically describes as a sensation of unsteadiness, not vertigo-like), along with several discrete episodes of nausea with vomiting (maybe three days in the last month, the last time yesterday).		INDICATION FFF bronchiectasis#5	INDICATION FFF as#32	INDICATION FFF nausea#45	INDICATION FFF vomiting#47	DRT FFF three days#50
+301-05	16	He was visiting friends/family near The Woodlands, when on 8/20 he awoke feeling acutely dyspneic and weak.	
+301-05	17	He presented to Marion Memorial Hospital, where he was noted to be saturating in the high 90s on 2L, which is his baseline (4L with activity).		DOSE FFF 2l#18	DOSE FFF 4l#23
+301-05	18	Other notable labs were a Cr of 2.3, BNP 84, INR subtherapeutic at 1.4.		INDICATION FFF inr#10
+301-05	19	CXR was read as no acute processHe was thought to be wheezy, and was given 10 mg of dexamethasone IV, nebulizers.		INDICATION FFF as#3	DOSE FFF 10mg#16	DIN FFF dexamethasone#18	RUT FFF iv#19
+301-05	20	He was empirically started on a heparin drip (800 unit bolus, 1800 units/hr) given his h/o DVT and a subtherapeutic INR.		DIN FFF heparin#6	RUT FFF drip#7	DIN FFF bolus#10	DOSEAMT FFF 1800 units#12	INDICATION FFF dvt#16	INDICATION FFF subtherapeutic inr .#20
+301-05	21	He was then transferred to MARY.	
+301-05	22	In the ED here his INR was 2.4 (and his PTT was over 150).		INDICATION FFF ed#2	INDICATION FFF inr#5	INDICATION FFF ptt#10
+301-05	23	Upon interview here, he endorses the above history.	
+301-05	24	Vitals upon arrival to the ED 97.3 79 141/95 24 100%2L.		INDICATION FFF ed#5	DOSE FFF 100%#10	DOSE FFF 2l#10
+301-05	25	He also notes that his INR had been stable recently (followed by his PCP) on his current dose of 4 Coumadin daily (except 2 on Mon/Fri).		INDICATION FFF inr#5	INDICATION FFF pcp#13	DBN FFF coumadin#20	FREQ FFF daily#21
+301-05	26	He denies cough, chest pain, GI symptoms, URI symptoms		INDICATION FFF cough#2	INDICATION FFF chest pain#4	INDICATION FFF symptoms#6	INDICATION FFF symptoms#8
+301-05	27	15-point ROS negative except as in HPI with following additions: none.		INDICATION FFF as#4
+301-05	28	MEDICAL HISTORY	
+301-05	29	Bronchiectasis, diagnosed as a toddler, with double lung transplant in 2073		INDICATION FFF bronchiectasis#0	INDICATION FFF as#2
+301-05	30	Chronic renal insufficiency (baseline cr from 2.3-3)		INDICATION FFF chronic renal insufficiency#2
+301-05	31	Depression		INDICATION FFF depression#0
+301-05	32	Gout		INDICATION FFF gout#0
+301-05	33	Hyperlipidemia		INDICATION FFF hyperlipidemia#0
+301-05	34	Hypertension		INDICATION FFF hypertension#0
+301-05	35	Obesity		INDICATION FFF obesity#0
+301-05	36	Sleep apnea, on bipap nocturnally at 18/12		INDICATION FFF sleep#0	INDICATION FFF apnea#1
+301-05	37	Cataracts	
+301-05	38	Lung transplantation, status post	
+301-05	39	Chronic rejection	
+301-05	40	Deep venous thrombosis in October of 2081.		INDICATION FFF deep venous thrombosis#2
+301-05	41	Plan is for perpetual anticoagulation given risk factors.		INDICATION FFF anticoagulation#4	INDICATION FFF risk#6
+301-05	42	Dizziness		INDICATION FFF dizziness#0
+301-05	43	Hypokalemia		INDICATION FFF hypokalemia#0
+301-05	44	Hypomagnesemia	
+301-05	45	Insomnia		INDICATION FFF insomnia#0
+301-05	46	Pseudomonas pulmonary infection		INDICATION FFF infection#2
+301-05	47	h/o suspected cute rejection	
+301-05	48	MEDICATIONS ON ADMISSION:	
+301-05	49	1. Acetylsalicylic Acid (Aspirin)  81 MG PO QD		DBN FFF acetylsalicylic acid#2	DOSE FFF 81mg#5	RUT FFF po#6	FREQ FFF qd#7
+301-05	50	2. Acyclovir    200 MG PO BID		DIN FFF acyclovir#1	DOSE FFF 200mg#3	RUT FFF po#4	FREQ FFF bid#5
+301-05	51	3. Albuterol Nebulizer Solution  2.5 MG NEB Q8H prn dypsnea		DIN FFF albuterol#1	DOSE FFF 2.5mg#5	RUT FFF neb#6	FREQ FFF q8h#7	NEC FFF prn#8
+301-05	52	4. Albuterol Inhaler Hfa  1 PUFF INH Q4H prn dyspnea, wheezing		DBN FFF albuterol inhaler#2	DOSEAMT FFF 1 puff#5	RUT FFF inh#6	FREQ FFF q4h#7	NEC FFF prn#8	INDICATION FFF dyspnea#9	INDICATION FFF wheezing#10
+301-05	53	5. Amlodipine (Norvasc)  10 MG PO QD		DIN FFF amlodipine#1	DOSE FFF 10mg#4	RUT FFF po#5	FREQ FFF qd#6
+301-05	54	6. Amoxicillin  500 MG PO		DIN FFF amoxicillin#1	DOSE FFF 500mg#3	RUT FFF po#4
+301-05	55	takke 4 tabs 1 hour prior to dental procedures		DOSEAMT FFF 4 tabs#2	DRT FFF 1 hour#4	INDICATION FFF procedures#8
+301-05	56	7. Atorvastatin (Lipitor)  40 MG PO QD		DIN FFF atorvastatin#1	DOSE FFF 40mg#4	RUT FFF po#5	FREQ FFF qd#6
+301-05	57	9. Azithromycin  250 MG PO QMWF		DIN FFF azithromycin#1	DOSE FFF 250mg#3	RUT FFF po#4
+301-05	58	10. Bupropion Hcl Sustained Release (12 Hr Tab) (Wellbutrin Sr)  150 MG PO BID		DIN FFF bupropion hcl#2	DRT FFF 12 hr#6	DOSE FFF 150mg#11	RUT FFF po#12	FREQ FFF bid#13
+301-05	59	11. Bupropion Hcl (Wellbutrin)  150 MG PO BID		DIN FFF bupropion hcl#2	DOSE FFF 150mg#5	RUT FFF po#6	FREQ FFF bid#7
+301-05	60	12. Calcium Citrate  Alternate PO BID		DIN FFF calcium citrate#2	RUT FFF po#4	FREQ FFF bid#5
+301-05	61	500 mg bid		DOSE FFF 500mg#1	FREQ FFF bid#2
+301-05	62	13. Colchicine   0.6 MG PO QD for gout prophylaxis		DIN FFF colchicine#1	DOSE FFF 0.6mg#3	RUT FFF po#4	FREQ FFF qd#5	INDICATION FFF gout#7	INDICATION FFF prophylaxis#8
+301-05	63	14. Colistimethate (Colistin )  150 MG NEB QD		DIN FFF colistimethate#1	DOSE FFF 150mg#5	RUT FFF neb#6	FREQ FFF qd#7
+301-05	64	15. Doxycycline Monohydrate  100 MG PO BID		DIN FFF doxycycline monohydrate#2	DOSE FFF 100mg#4	RUT FFF po#5	FREQ FFF bid#6
+301-05	65	16. Ergocalciferol  50000 UNITS PO QWEEK		DIN FFF ergocalciferol#1	DOSEAMT FFF 50000 units#3	RUT FFF po#4	FREQ FFF qweek#5
+301-05	66	17. Escitalopram (Lexapro)  20 MG PO QD		DIN FFF escitalopram#1	DOSE FFF 20mg#4	RUT FFF po#5	FREQ FFF qd#6
+301-05	67	18. Esomeprazole  40 MG PO QD		DIN FFF esomeprazole#1	DOSE FFF 40mg#3	RUT FFF po#4	FREQ FFF qd#5
+301-05	68	19. Fluticasone Propionate Nasal Spray (Flonase  )  1 SPRAY NAS QD		DIN FFF fluticasone propionate#2	DOSEAMT FFF 1 spray#8	FREQ FFF qd#10
+301-05	69	20. Fluticasone Prop/Salmeterol 250/50 (Advair Diskus 250/50)  1 INHALATION INH BID		DIN FFF fluticasone#1	DIN FFF salmeterol#2	DOSE FFF 250/50#3	RUT FFF inhalation#8	RUT FFF inh#9	FREQ FFF bid#10
+301-05	70	21. Ipratropium Nebulizer (Atrovent Nebulizer)  0.5 MG NEB TID prn dyapnea		DIN FFF ipratropium#1	DOSE FFF 0.5mg#6	RUT FFF neb#7	FREQ FFF tid#8	NEC FFF prn#9
+301-05	71	22. Magnesium Gluconate  1000 MG PO TID		DIN FFF magnesium gluconate#2	DOSE FFF 1000mg#4	RUT FFF po#5	FREQ FFF tid#6
+301-05	72	23. Metoclopramide Hcl  10 MG PO QID (AC + HS)		DIN FFF metoclopramide hcl#2	DOSE FFF 10mg#4	RUT FFF po#5	FREQ FFF qid#6	TOD FFF ac#7	FREQ FFF hs#9
+301-05	73	24. Metoprolol Succinate Extended Release  100 MG PO QD		DIN FFF metoprolol succinate#2	DOSE FFF 100mg#6	RUT FFF po#7	FREQ FFF qd#8
+301-05	74	25. Multivitamins  1 TAB PO QD		DIN FFF multivitamins#1	DOSEAMT FFF 1 tab#3	RUT FFF po#4	FREQ FFF qd#5
+301-05	75	26. Mycophenolate Mofetil (Cellcept)  500 MG PO BID		DIN FFF mycophenolate mofetil#2	DOSE FFF 500mg#5	RUT FFF po#6	FREQ FFF bid#7
+301-05	76	27. Prednisone  Alternate PO QD		DIN FFF prednisone#1	RUT FFF po#3	FREQ FFF qd#4
+301-05	77	12.5 mg		DOSE FFF 12.5mg#1
+301-05	78	28. Ranitidine Hcl  150 MG PO BID		DIN FFF ranitidine hcl#2	DOSE FFF 150mg#4	RUT FFF po#5	FREQ FFF bid#6
+301-05	79	29. Tacrolimus (Prograf)  Alternate PO BID		DIN FFF tacrolimus#1	RUT FFF po#4	FREQ FFF bid#5
+301-05	80	6 mg		DOSE FFF 6mg#1
+301-05	81	30. Trimethoprim /Sulfamethoxazole Single Strength (Bactrim Ss)  1 TAB PO QMONDAY, WEDNESDAY, FRIDAY		DIN FFF trimethoprim / sulfamethoxazole#2	DOSE FFF single strength#4	DOSEAMT FFF 1 tab#8	RUT FFF po#9	FREQ FFF wednesday#11	FREQ FFF friday#12
+301-05	82	31. Warfarin Sodium (Coumadin)  Alternate PO		DIN FFF warfarin sodium#2	RUT FFF po#5
+301-05	83		
+301-05	84	4 mg daily, except 2 mg Mon/Fri		DOSE FFF 4mg#1	FREQ FFF daily#2	DOSE FFF 2mg#5
+301-05	85	NOTE THAT LASIX WAS RECENTLY DISCONTINUED BY DR.		DBN FFF lasix#2
+301-05	86	ATKINSON	
+301-05	87	ALLERGIES:		INDICATION FFF allergies#0
+301-05	88	NKDA	
+301-05	89	FAMILY HISTORY	
+301-05	90	Notable for maternal aunt with Cancer.		INDICATION FFF cancer#5
+301-05	91	SOCIAL HISTORY	
+301-05	92	The patient lives in Earle, Florida.	
+301-05	93	He doesn&#8217;t currently work, but used to be a Motion Picture Manager.		INDICATION FFF t#1
+301-05	94	He has never smoked.	
+301-05	95	PHYSICAL EXAM	
+301-05	96	VITALS:  T:  97.9   HR:   74     BP: 162/96     O2Sat: 99% 2L Weight 304 lbs		INDICATION FFF t#1	DRT FFF 97.9 hr#3	INDICATION FFF bp#5	DOSE FFF 99%#8	DOSE FFF 2l#9	INDICATION FFF weight#10
+301-05	97	GEN&#8217;L: pleasant, no acute distress, cushingoid body habitus	
+301-05	98	SKIN: dry, no rashes noted	
+301-05	99	HEENT: normocephalic, atraumatic, mucus membranes moist	
+301-05	100	NECK: no cervical lymphadenopathy noted, supple	
+301-05	101	HEART: RRR, no m/r/g		DIN FFF m / r#3
+301-05	102	LUNG: CTAB &#8211; unable to appreciate any wheezes		INDICATION FFF wheezes#7
+301-05	103	ABD: NT/ND/+BS		INDICATION FFF bs#1
+301-05	104	EXT: no c/c/e bilaterally	
+301-05	105	NEURO: CN 2-12 intact.		INDICATION FFF cn#1
+301-05	106	Strength 5/5 in all extremities, major muscle groups	
+301-05	107	LABORATORY STUDIES	
+301-05	108	Creatinine 2.35, glucose 239		INDICATION FFF creatinine#0
+301-05	109	CK and troponin I negative in ED		INDICATION FFF ed#6
+301-05	110	WBC 8.1, Hct 35, platelets 128	
+301-05	111	INR 2.3, PTT over 150 in ED		INDICATION FFF inr#0	INDICATION FFF ptt#2	INDICATION FFF ed#6
+301-05	112	1 am tacro level pending		TOD FFF 1 am#1
+301-05	113	CXR with no evidence of infiltrate, volume overload.		INDICATION FFF volume overload .#7
+301-05	114	ASSESSMENT &amp; PLAN	
+301-05	115	47-year-old man with h/o double lung transplant admitted with one-month h/o subjective dyspnea (without hypoxia), weakness, and intermittent nausea.		INDICATION FFF dyspnea#12	INDICATION FFF nausea .#18
+301-05	116	Workup relatively unremarkable so far.	
+301-05	117	History not c/w PE, lungs clear on admission exam, no fever or leukocytosis or cough endorsed.		INDICATION FFF pe#3	INDICATION FFF fever#10	INDICATION FFF leukocytosis#12	INDICATION FFF cough#14
+301-05	118	Dyspnea/nausea/weakness:		INDICATION FFF dyspnea#0	INDICATION FFF nausea#0
+301-05	119	-check orthostatics	
+301-05	120	-continue heparin drip at reduced rate (units/hr), recheck INR this am, continue coumadin at home dose, lower extremity ultrasound to eval for DVT (as possible proxy for PE)		DIN FFF heparin#1	RUT FFF drip#2	INDICATION FFF inr#8	TOD FFF am#10	DBN FFF coumadin#12	DOSE FFF home dose#15	INDICATION FFF dvt#22	INDICATION FFF as#23	INDICATION FFF pe#27
+301-05	121	-continue rglan per home regimen		DBN FFF home regimen#4
+301-05	122	-transplant service to follow	
+301-05	123	-lung exam currently clear, little suspicion for COPD flare &#8211; will resume steroids at home dose (12.5 mg)		INDICATION FFF copd flare#8	DOSE FFF home dose#15	DOSE FFF 12.5mg#17
+301-05	124	-schedule duonebs		DPN FFF duonebs#1
+301-05	125	s/p lung transplant: missed last night&#8217;s doses of mycophenolate and tacro, got them at 4 am today in ED		DIN FFF mycophenolate#8	TOD FFF 4 am#15	INDICATION FFF ed#18
+301-05	126	-discussed with pulm &#8211; hold am dose of mycophenolate/tacro today, restart this evening		TOD FFF am#5	DIN FFF mycophenolate#8	TOD FFF evening#12
+301-05	127	-continue prophylactic meds/abx: colistin, azithro, bactrim, doxy		DIN FFF prophylactic#1	DBN FFF bactrim#5
+301-05	128	Renal insufficiency: at baseline.		INDICATION FFF renal insufficiency#1
+301-05	129	Seems relatively euvolemic -will continue colchicine for gout proph as this has been long-standing		DIN FFF colchicine#5	INDICATION FFF gout#7	INDICATION FFF as#9
+301-05	130	-lasix still on hold		DBN FFF lasix#0
+301-05	131	-BNP was low at OSH; don&#8217;t suspect volume overload		DIN FFF don#5	INDICATION FFF t#5	INDICATION FFF volume overload#8

@@ -1,0 +1,22 @@
+332-01	1	Record date: 2094-01-29	
+332-01	2	INTERNAL MEDICINE ASSOCIATES	
+332-01	3	ROSELAND COMMUNITY HOSPITAL	
+332-01	4	Major Problems	
+332-01	5	Diabetes mellitus		INDICATION FFF diabetes mellitus#1
+332-01	6	Blood sugars have been good at home.		INDICATION FFF blood sugars#1
+332-01	7	Hemoglobin A1c's have been good.	
+332-01	8	We are rechecking that again.	
+332-01	9	Hypertension		INDICATION FFF hypertension#0
+332-01	10	Blood pressure is okay today, 140/68.		INDICATION FFF blood pressure#1
+332-01	11	We will need to follow this closely.	
+332-01	12	Her potassium has been up a little bit.		DIN FFF potassium#1
+332-01	13	We will need to change around her medications to see if the Norvasc that we put her on increased her potassium.		INDICATION FFF change#4	DBN FFF norvasc#12	DIN FFF potassium#20
+332-01	14	Health maintenance	
+332-01	15	She continues to decline sigmoidoscopy and mammogram.	
+332-01	16	The patient's cyst at the left leg has been removed and is well healed at this time.	
+332-01	17	Physical examination	
+332-01	18	Blood pressure 140/68		INDICATION FFF blood pressure#1
+332-01	19	Weight   166 pounds		INDICATION FFF weight#0
+332-01	20	Neck   Thyroid exam is unremarkable	
+332-01	21	Nodes   No lymphadenopathy	
+332-01	22	Chest   Lungs are clear with no wheezes, rales, or rhonchi		INDICATION FFF wheezes#6

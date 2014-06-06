@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2071-05-18
+
+
+
+                        OFFICE NOTE
+
+Conner, Andrew
+MR #9911852
+May 18, 2071
+
+Andy comes in for followup of hospitalization on May 6, for coronary artery disease and he had
+increasing angina pectoris leading to catheterization.  He underwent angioplasty of the
+circumflex vessels and then angioplasty and stenting of the first diagonal branch to the LAD. 
+The latter one was done in the second setting and part of the study where the ____ the stent
+versus a plain stent.  This was done by Dr. Winn, and Dr. Cook.  Since then he has been
+tired, otherwise felt well.  He had reasonable lipids but low HDL syndrome.  His blood sugars
+have been controlled recently with A1C's in the 6 range.  He is overweight and does not do any
+regular exercise program.  He is on        for arthritis.  
+
+His current medications consist of aspirin 325 mg per day, Plavix 75 mg per day, Glucatrol 10
+mg twice daily and Glucophage 500 mg twice daily, Atenolol 25 mg daily, Nexium 20 mg per
+day, Flomax .4 and Zestril. He feels well.  He is a little fatigued.  No obvious angina.  His blood
+pressure is running 110/70, his pulse is running 60 and regular.  JVP is normal. Carotids are
+normal.  The lungs are clear.  Coronary:  S3.
+
+IMPRESSION:  Doing well.  I think he should probably be on Lipitor even though he is on low
+lipids and I also think that he would benefit from cardiac rehabilitation. He will also pay close
+attention to diabetes and he is prepared to move on with insulin.
+
+
+
+Brandon Walls, M.D.
+
+Dictated/Not Read
+
+BW/yen
+
+
+    
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC9" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC10" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC12" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC15" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC19" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC22" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC23" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC24" time="before DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC25" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC26" time="during DCT" type1="beta blocker" type2=""/>
+    <CAD id="DOC6" time="before DCT" indicator="symptom"/>
+    <CAD id="DOC14" time="after DCT" indicator="mention"/>
+    <CAD id="DOC18" time="during DCT" indicator="mention"/>
+    <CAD id="DOC21" time="before DCT" indicator="event"/>
+    <CAD id="DOC27" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC16" indicator="not present"/>
+    <SMOKER id="DOC13" status="unknown"/>
+    <DIABETES id="DOC5" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC20" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

@@ -1,0 +1,17 @@
+270-01	19	0	He subsequently became puloseless and asystolic and was coded for about 10 minutes with 3 rounds of epinephrine and atropine before he regained his pulse.	epinephrine FFF 17 17	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+270-01	19	0	He subsequently became puloseless and asystolic and was coded for about 10 minutes with 3 rounds of epinephrine and atropine before he regained his pulse.	atropine FFF 19 19	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+270-01	25	0	He was started on a lasix gtt for diuresis without a good response.	lasix FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+270-01	26	0	His Cr started to rise: 4.6 &#224; 4.9 &#224; 5.4 &#224; 5.33 &#224; 6.3 &#224; 7.0.	rise: FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+270-01	38	438	Versed gtt	versed FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+270-01	39	438	Propofol gtt	propofol FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+270-01	40	438	Fentanyl gtt	fentanyl FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+270-01	41	438	Heparin 5000 units Q8h	heparin FFF 0 0	5000 units FFF 1 2	 FFF 	q8h FFF 3 3	 FFF 	 FFF 	narrative
+270-01	42	438	Levofloxacin 250mg IV Q48h	levofloxacin FFF 0 0	250mg FFF 1 1	iv FFF 2 2	q48h FFF 3 3	 FFF 	 FFF 	narrative
+270-01	43	438	Flagyl 250mg IV Q8h	flagyl FFF 0 0	250mg FFF 1 1	iv FFF 2 2	q8h FFF 3 3	 FFF 	 FFF 	narrative
+270-01	44	438	ASA 325mg daily	asa FFF 0 0	325mg FFF 1 1	 FFF 	daily FFF 2 2	 FFF 	 FFF 	narrative
+270-01	45	438	Pepcid 20mg IV daily	pepcid FFF 0 0	20mg FFF 1 1	iv FFF 2 2	daily FFF 3 3	 FFF 	 FFF 	narrative
+270-01	46	438	Colace 100mg BID	colace FFF 0 0	100mg FFF 1 1	 FFF 	bid FFF 2 2	 FFF 	 FFF 	narrative
+270-01	47	438	Tylenol PRN	tylenol FFF 0 0	 FFF 	 FFF 	prn FFF 1 1	 FFF 	 FFF 	narrative
+270-01	48	438	Maalox PRN	maalox FFF 0 0	 FFF 	 FFF 	prn FFF 1 1	 FFF 	 FFF 	narrative
+270-01	49	438	Mucomyst 1200mg BID x 4 doses	mucomyst FFF 0 0	1200mg FFF 1 1	 FFF 	bid FFF 2 2	x 4 doses FFF 3 5	 FFF 	narrative
+270-01	81	0	BCP: Na 136, K 5.2, Cl 106, HCO3 18, BUN 68, Cr 7.0, glucose 139	hco3 FFF 7 7	18, FFF 8 8	 FFF 	 FFF 	 FFF 	 FFF 	narrative

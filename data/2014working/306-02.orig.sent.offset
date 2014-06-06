@@ -1,0 +1,10 @@
+306-02	21	0	Fragmin (DALTEPARIN SODIUM) 8500 UNITS SC Q12H , Anticoagulation as per Neurology- Thomas Javier MD.	fragmin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+306-02	23	0	Metformin 500 mg po BID	metformin FFF 0 0	500 mg FFF 1 2	po FFF 3 3	bid FFF 4 4	 FFF 	 FFF 	narrative
+306-02	24	0	Lopressor 50 mg po BID	lopressor FFF 0 0	50 mg FFF 1 2	po FFF 3 3	bid FFF 4 4	 FFF 	 FFF 	narrative
+306-02	50	0	1) Uncontrolled DM: Add Glipizide 5 mg po BID. Cont. Metformin 500 mg po BID.	glipizide FFF 4 4	5 mg FFF 5 6	po FFF 7 7	bid. FFF 8 8	 FFF 	 FFF 	narrative
+306-02	50	0	1) Uncontrolled DM: Add Glipizide 5 mg po BID. Cont. Metformin 500 mg po BID.	metformin FFF 10 10	500 mg FFF 11 12	po FFF 13 13	bid. FFF 14 14	 FFF 	 FFF 	narrative
+306-02	53	0	Check on referrals to ophthalmologist, podiatry, diabetic teaching nurse, nutrition. 2) HTN: Add Lisinopril 5 mg po qd.	lisinopril FFF 13 13	5 mg FFF 14 15	po FFF 16 16	qd. FFF 17 17	 FFF 	 FFF 	narrative
+306-02	54	0	3) CVD s/p CVA: Stable. Cont. Fragmin 8500 units SQ BID as per neurology.	fragmin FFF 6 6	8500 units FFF 7 8	sq FFF 9 9	bid FFF 10 10	 FFF 	 FFF 	narrative
+306-02	55	0	Follow up with neurology. 4) Hyperlipidemia: Add lipitor 20 mg po qhs.	lipitor FFF 7 7	20 mg FFF 8 9	po FFF 10 10	qhs. FFF 11 11	 FFF 	 FFF 	narrative
+306-02	57	0	She is to stop Fragmin on 12/17/15 for this.  6)Poor dentition: Referral to dentistry.	fragmin FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+306-02	68	0	Triglycerides 11/25/2115 131	triglycerides FFF 0 0	11/25/2115 FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative

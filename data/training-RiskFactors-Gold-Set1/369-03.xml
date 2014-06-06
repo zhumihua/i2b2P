@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2080-11-30
+
+
+
+Reason for Visit
+
+Owen is a 63 y/o male here for evaluation of treatment. Doin relatively well. 
+
+
+
+Problems
+
+
+
+      OA
+
+
+
+      LLE-PARTIALLY SEVERED-MULT. SURGERIES
+
+
+
+      IRRIDECTOMY
+
+
+
+      SKIN ULCER-DR Esposito
+
+
+
+      PAST SMOKER 
+
+
+
+      HTN
+
+
+
+
+
+Medications
+
+
+
+      ASA       PO 
+
+
+
+      Vitamin E        PO QD : 400 IU 
+
+
+
+      ATENOLOL   25 MG PO QD
+
+
+
+      Lipitor (ATORVASTATIN)    10MG,  1 Tablet(s)  PO QD
+
+
+
+
+
+Allergies
+
+
+
+      NKDA    - NONE
+
+
+
+
+
+Narrative History
+
+Takes meds. No SEs. Denies vision change, headache, chest pain, SOB, light head, palptations. Denies loss of balance, strength or sensation. 
+
+ Pulm- no cough.  Occ wheeze. No SOB.
+
+GI- no nausea, vomitting, dyspepsia, reflux, abdo pain, diarrhea, constipation, melena, BRBPR.
+
+GU- asymp
+
+Locomotor- pain left knee/leg. 
+
+Sees Dr Esposito for chr ulcer. Has surgical boot on now. 
+
+Exercise- no
+
+Diet-no
+
+Cigs-no
+
+ETOH-no
+
+
+
+Exam
+
+BP=132/76 , P= 68, Wt= 261 ; NAD,WD, WN
+
+Head- no tenderness
+
+M&T- moist; no erythema; no exudate; no lesions
+
+Neck- supple with no JVD, bruit, LAN or thyromegaly.
+
+Chest- clear A&P                                                                   Cor- reg rhythm,S1S2 normal with no murmer, gallop or rub
+
+Abdo- obese; normal BS;soft with no HSM,mass or tenderness.  DRE- normal sphincter. Prostate small with no nodules. Brown stool.
+
+Ext- Surg boot LLE. RLE-no edema. 
+
+
+
+Assessment
+
+Normotensive. Increased weight. Did have elevated glucose last visit. 
+
+
+
+Disposition and Plans
+
+CBC,glu,PSA. Decrease weight- increase exercise and eat less. Cont meds. RTC 6 mon or PRN.
+
+______________________________
+
+ William Seth Potter, M.D.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC4" time="after DCT" indicator="mention"/>
+    <OBESE id="DOC8" time="during DCT" indicator="mention"/>
+    <OBESE id="DOC12" time="before DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC5" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC10" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC14" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC9" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC11" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC15" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC16" indicator="not present"/>
+    <SMOKER id="DOC7" status="past"/>
+  </TAGS>
+</root>

@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2079-05-08
+
+CARDIOLOGY
+
+ALGIERS MEDICAL CENTER
+
+
+
+Reason for visit:
+
+   Mr. Cortez is seen in follow up for ASMI, sleep apnea, coronary risk factors, glucose intolerance, obesity.
+
+
+
+Interval History:
+
+   The patient relates that he's been feeling reasonably well.  He complains of lightheadedness when he lies down which is lasting only seconds and disappears the instant he puts his head on his pillow.  He took one TNG over the past 6 months for indigestion like sensation.
+
+
+
+He doesn't have any exertional syndrome to suggest angina.
+
+
+
+No syncope, pre-syncope.  No palpitations, no recent weight loss.
+
+
+
+
+
+
+
+Social history:
+
+   Continues to work.  Looking forward to Spring work in his garden.
+
+
+
+Change in therapies and Renewals
+
+ASA 325 mg po qd Start: 05/08/2079
+
+Plavix 75mg po qd Start: 05/08/2079
+
+Toprol XL 25mg po qd Start: 05/08/2079
+
+Lipitor 10mg po qd Start: 05/08/2079
+
+lisinopril 10 mg po qd Start: 05/08/2079
+
+Prilosec 20mg po qd Start: 05/08/2079
+
+Imdur 30 mg SR po qd Start: 05/08/2079
+
+Lasix 10mg po qd Start: 05/08/2079
+
+
+
+Review of systems:
+
+   Most recent PSA was 3.4.  No other new issues.
+
+
+
+Physical examination:
+
+-BP: 146/86  
+
+-Pulse: 75  
+
+-weight: 250  
+
+-General:   No acute distress.
+
+-Skin:   slight drainage from lesion on upper back.  No rash.
+
+-Heent:   Unremarkable
+
+-Neck:   Carotids 2+ without bruits. JVP no jugular venous distention.
+
+-Chest:   Clear to auscultation and percussion.
+
+-Cardiac:   S1 S2.  Soft left sternal border and apical murmur grade 1-2 without radiation.
+
+-Abdomen:   Normal bowel sounds, obese,soft and nontender, with no hepatosplenomegaly or masses appreciated.
+
+-Extremities:   1+ edema bilaterally.
+
+-Musc skel:   Negative
+
+-Neuro:   Fluent, equal motor, symmetric cranial nerves
+
+
+
+Major Problems:
+
+Myocardial infarction (anteroseptal) HISTORY OF
+
+Apical dyskinesis
+
+Sleep apnea HISTORY OF
+
+
+
+Obesity
+
+
+
+Glucose intolerance HISTORY OF
+
+
+
+
+
+Assessment and plan:
+
+   Mr. Cortez is doing reasonably well.  
+
+
+
+I think it would be reasonable to obtain a stress test because he is not significantly active, has glucose intolerance and should be periodically screened for coronary artery disease progression.
+
+
+
+LDL goal should be 60-80 and Lipitor is increased to 20mg hs in this regard.
+
+
+
+BP goal should be 120 systolic and Lisinopril is increased to 20mg from 10mg in this regard,.
+
+
+
+He is strongly encouraged to pursue weightloss this Spring.
+
+
+
+F/U 6 months.
+
+
+
+ETT before visit.
+
+
+
+
+
+
+
+EKG:
+
+   Sinus rhythm, borderline left axis deviation, right bundle branch block with anteroseptal MI, no acute changes
+
+
+
+CC:   Nicholas Osuna, MD
+
+
+
+Signed electronically by   Opal P Garner MD  on  May 13, 2079     
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC4" time="after DCT" indicator="mention"/>
+    <OBESE id="DOC15" time="before DCT" indicator="mention"/>
+    <OBESE id="DOC21" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC8" time="during DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC13" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC14" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC17" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC19" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC22" time="before DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC23" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC24" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC9" time="during DCT" indicator="high bp"/>
+    <CAD id="DOC20" time="before DCT" indicator="event"/>
+    <FAMILY_HIST id="DOC16" indicator="not present"/>
+    <SMOKER id="DOC12" status="unknown"/>
+  </TAGS>
+</root>

@@ -1,0 +1,146 @@
+278-02||1||Record date: 2095-07-13
+278-02||3||Team 1b Medical Intern Admission Note
+278-02||4||Pt: Jasso, Stephen
+278-02||5||MR#:   7990698
+278-02||6||Date of Admission:  7/05/95
+278-02||7||Attending:  I.
+278-02||8||Ellsworth
+278-02||9||CC:  Vertigo, EKG changes
+278-02||10||HPI:  73   yo with h/o of DM, CAD s/p anteroseptal MI (2091) and stent placement presents with 2 days of vertigo, most prominent upon wakening in the a.m.  He reports feeling as if he is spinning while the room is stable; this sensation is worsened by changes in position or head movement.
+278-02||11||It diminishes only slightly as the day progresses.
+278-02||12||He denies any numbness, weakness, tingling, changes in vision or memory.
+278-02||13||He denies any recent URI.
+278-02||14||He does report tinnitus which has been present intermittently for years as well as bilateral sensorineural hearing secondary to gunshot exposure.
+278-02||15||No NV.
+278-02||16||The sensation of vertigo is superimposed upon one week of gradually progressive loss of balance, described as not knowing where to put his limbs in relation to space.||DIN FFF balance, FFF 14 14||INDICATION FFF as FFF 16 16||
+278-02||17||He also reports ~7 days of mild diarrhea in a.m only, attributable to eating sorbitol ice cream as well as continuing to take Metamucil for the same 7 day period.||DIN FFF sorbitol FFF 14 14||DDF FFF cream FFF 16 16||INDICATION FFF as FFF 17 17||INDICATION FFF as FFF 19 19||
+278-02||17||He also reports ~7 days of mild diarrhea in a.m only, attributable to eating sorbitol ice cream as well as continuing to take Metamucil for the same 7 day period.||DBN FFF metamucil FFF 23 23||DRT FFF 7 day FFF 27 28||
+278-02||18||Diarrhea has been fully resolved for 2 days PTA.
+278-02||19||He does report good PO fluid intake, ~8 bottles of H20 per day.
+278-02||20||He monitors his sugars regularly and reports they have been running in the 110-140s.
+278-02||21||He denies any fevers, chills, sweats or sick contacts.
+278-02||22||The patient does have ptosis on the L and reports that this has been present less than one month.
+278-02||23||He has had no changes in medications.
+278-02||24||Additionally, the patient reports one episode of fleeting chest pain along the midaxillary line on 07/12 which was relieved immediately by NTG.  (Pt attributes the pain to gas as the belching coincident with the NTG also seemed to relieve the pain).||DPN FFF ntg. FFF 21 21||INDICATION FFF the pain FFF 24 25||DDF FFF gas FFF 27 27||INDICATION FFF as FFF 28 28||
+278-02||24||Additionally, the patient reports one episode of fleeting chest pain along the midaxillary line on 07/12 which was relieved immediately by NTG.  (Pt attributes the pain to gas as the belching coincident with the NTG also seemed to relieve the pain).||DPN FFF ntg FFF 34 34||INDICATION FFF the pain). FFF 39 40||
+278-02||25||He does also report an increase in SOB after walking up one flight of stairs which has arisen over the past few months.
+278-02||26||PMH:
+278-02||27||DM x 20 years, peripheral neuropathy
+278-02||28||HTN
+278-02||29||CAD
+278-02||30||Anteroseptal MI in 03/91, PTCA and stent
+278-02||31||EF 32% (last echo 2092)
+278-02||32||Hemorrhoids (normal colo 2095)
+278-02||33||Iritis, corneal dystrophy
+278-02||34||Osteoporosis
+278-02||35||Diverticulosis (?)
+278-02||36||Meds:
+278-02||37||Glipizide 2.5 QD||DIN FFF glipizide FFF 0 0||DOSE FFF 2.5 FFF 1 1||FREQ FFF qd FFF 2 2||
+278-02||38||Asa  325 QD||DIN FFF asa FFF 0 0||DOSE FFF 325 FFF 1 1||FREQ FFF qd FFF 2 2||
+278-02||39||Lisinopril 5mg QD||DIN FFF lisinopril FFF 0 0||DOSE FFF 5mg FFF 1 1||FREQ FFF qd FFF 2 2||
+278-02||40||Lopressor  50 mg BID||DBN FFF lopressor FFF 0 0||DOSE FFF 50 mg FFF 1 2||FREQ FFF bid FFF 3 3||
+278-02||41||Lipitor  10 mg QD||DBN FFF lipitor FFF 0 0||DOSE FFF 10 mg FFF 1 2||FREQ FFF qd FFF 3 3||
+278-02||42||Amitryptilline  25 mg QHS
+278-02||43||Prednisone gtt||DIN FFF prednisone FFF 0 0||
+278-02||44||Caltrate + D (CALCIUM Carbonate 1500 Mg (600 Mg Elem Ca)/ Vit D 200 Iu)  1 TAB PO BID||DBN FFF caltrate FFF 0 0||MDBN FFF (calcium carbonate FFF 3 4||DOSE FFF (600 mg FFF 7 8||INDICATION FFF ca)/ FFF 10 10||
+278-02||44||Caltrate + D (CALCIUM Carbonate 1500 Mg (600 Mg Elem Ca)/ Vit D 200 Iu)  1 TAB PO BID||DIN FFF vit d FFF 11 12||DOSE FFF 200 iu) FFF 13 14||DOSEAMT FFF 1 tab FFF 15 16||RUT FFF po FFF 17 17||FREQ FFF bid FFF 18 18||
+278-02||45||All:   Acetaminophen--rash
+278-02||46||SH:
+278-02||47||Tob:   43 year pack hx, quit 2060 EtOH: denies Illicits:  denies
+278-02||48||FH:   Mother:  pernicious anemia
+278-02||49||Father:  died in accident at young age
+278-02||50||Brother:  leukemia
+278-02||51||ROS:
+278-02||52||As in HPI.
+278-02||53||- General: no weight loss/gain, no fatigue, no fevers, no chills, no change in appetite
+278-02||54||- Respiratory: no cough, no SOB, no DOE, no hemoptysis, no wheezing
+278-02||55||- HEENT: no neck stiffness, no hoarseness, no hearing loss
+278-02||56||- Cardiac: chest pain/pressure as above, no palpitations, no orthopnea, no PND
+278-02||57||- Gastrointestinal: no nausea, no vomiting, no diarrhea, no constipation, no bleeding
+278-02||58||- Neurologic: diminished sensation in LLE bilaterally
+278-02||59||- Lymph nodes: no enlarged lymph nodes
+278-02||60||- Musculoskeletal: No back pain, no neck pain, no leg pain, no arm pain
+278-02||61||- Urologic: No hematuria, no dysuria, no polyuria, no nocturia
+278-02||62||- Hematologic: No bruising, no bleeding
+278-02||63||- Exposures: No sick contacts, no recent travel
+278-02||64||Exam:
+278-02||65||VS:   97.7  74 18  98%  supine 108/54 standing 127/70
+278-02||66||HEENT: NC/AT, PERRL, nonicteric.
+278-02||67||EOMI, no nystagmus.
+278-02||68||MMM, w/o exudates.
+278-02||69||Dicks Hall Pike maneuver elicited neither nystagmus nor symptoms
+278-02||70||Neck:   supple, NT, full ROM, 2+ carotids w/o bruits, no LAD.
+278-02||71||JVP 7cm
+278-02||72||Lungs:  CTAB; no crackles, no wheezes
+278-02||73||Cor:   RRR; normal S1S2, no m/r/g appreciated||DIN FFF cor: FFF 0 0||
+278-02||73||Cor:   RRR; normal S1S2, no m/r/g appreciated||DIN FFF m/r/g FFF 5 5||
+278-02||74||Abd:   soft, non-tender, non-distended; NABS; no organomegaly
+278-02||75||G/R:  brown stool, guaiac neg in ER
+278-02||76||Extr:   no c/c/e; 2+ DP's, 1+ PTs bilaterally
+278-02||77||Neuro: AOx3, MS nl, CN II through XII intact with exception of L ptosis, motor and sensory nonfocal; DTR's 2+ and symmetric throughout.
+278-02||78||Equivocal Babinskis bilaterally. F to N nl, H to S nl, FFM intact, Romberg neg.
+278-02||79||LE  Hip flex Hip ext Knee flex Knee ext Ankle flex Ankle ext
+278-02||80||Right 5 5 5 5 5 5
+278-02||81||Left 5 5 5 5 5 5
+278-02||82||UE  Shoulder abd Elbow ext Elbow flex Wrist ext Wrist flex Finger abd
+278-02||83||Right 5 5 5 5 5 5
+278-02||84||Left 5 5 5 5 5 5
+278-02||85||Labs:
+278-02||86||Chemistry:
+278-02||88||Chemistry
+278-02||89||Lytes/Renal/Glucose
+278-02||90||Sodium                 139   135-145 mmol/L     07/13/95 12:59||DIN FFF sodium FFF 0 0||DOSE FFF 139 FFF 1 1||
+278-02||90||Sodium                 139   135-145 mmol/L     07/13/95 12:59||DIN FFF sodium FFF 0 0||DOSE FFF 135-145 mmol/l FFF 2 3||
+278-02||91||Potassium              3.7   3.4-4.8 mmol/L     07/13/95 12:59||DIN FFF potassium FFF 0 0||DOSE FFF 3.7 FFF 1 1||
+278-02||91||Potassium              3.7   3.4-4.8 mmol/L     07/13/95 12:59||DIN FFF potassium FFF 0 0||DOSE FFF 3.4-4.8 mmol/l FFF 2 3||
+278-02||92||Chloride               107   100-108 mmol/L     07/13/95 12:59
+278-02||93||Carbon Dioxide        23.9   23.0-31.9 mmol/L   07/13/95 12:59    21.0(L) 03/12/92||DIN FFF carbon dioxide FFF 0 1||DOSE FFF 23.9 FFF 2 2||
+278-02||93||Carbon Dioxide        23.9   23.0-31.9 mmol/L   07/13/95 12:59    21.0(L) 03/12/92||DIN FFF carbon dioxide FFF 0 1||DOSE FFF 23.0-31.9 mmol/l FFF 3 4||
+278-02||94||BUN                     11   8-25 mg/dl         07/13/95 12:59
+278-02||95||Creatinine             0.9   0.6-1.5 mg/dl      07/13/95 12:59
+278-02||96||Glucose                111H  70-110 mg/dl       07/13/95 12:59     111(H) 07/13/95
+278-02||98||CK-MB             NEGATIVE   NEG                07/13/95 12:08    15.6(H) 03/12/92
+278-02||99||Troponin-I        NEGATIVE   NEG                07/13/95 12:08
+278-02||100||Lipid Tests
+278-02||101||Cholesterol            120   mg/dl              07/04/95 15:59
+278-02||102||Triglycerides          102   40-150 mg/dl       07/04/95 15:59||DIN FFF triglycerides FFF 0 0||DOSE FFF 102 FFF 1 1||
+278-02||102||Triglycerides          102   40-150 mg/dl       07/04/95 15:59||DIN FFF triglycerides FFF 0 0||DOSE FFF 40-150 mg/dl FFF 2 3||
+278-02||103||HDL                     41   35-100 mg/dl       07/04/95 15:59
+278-02||104||LDL Cholesterol         59   mg/dl              07/04/95 15:59
+278-02||105||Chol/HDL Ratio         2.9                      07/04/95 15:5
+278-02||106||Hemoglobin A1C        4.40   3.80-6.40 %        07/09/95 11:31    6.50(H) 03/14/92
+278-02||107||Hematology
+278-02||108||Complete Blood Count
+278-02||109||WBC                    8.5   4.5-11.0 th/cmm    07/13/95 12:35    15.5(H) 03/12/92
+278-02||110||RBC               NOT DONE   4.50-5.90 mil/cm   07/13/95 12:35
+278-02||111||Hgb               see detail                    07/13/95 12:35    13.0(L) 03/11/92
+278-02||112||HCT               see detail                    07/13/95 12:35    40.5(L) 03/12/92
+278-02||113||MicroHCT              31.5L  41.0-53.0 %        07/13/95 13:17    31.5(L) 07/13/95
+278-02||114||MCV               NOT DONE   80-100 fl          07/13/95 12:35
+278-02||115||MCH               NOT DONE   26.0-34.0 pg/rbc   07/13/95 12:35
+278-02||116||MCHC              NOT DONE   31.0-37.0 g/dl     07/13/95 12:35
+278-02||117||PLT                    206   150-350 th/cumm    07/13/95 12:35
+278-02||118||RDW               NOT DONE   11.5-14.5 %        07/13/95 12:35
+278-02||119||Coagulation
+278-02||120||Routine Coagulation
+278-02||121||PT                    12.8   11.1-13.1 sec      03/11/92 12:16    13.5(H) 03/11/92||DIN FFF sec FFF 3 3||DOSE FFF 03/11/92 FFF 4 4||
+278-02||122||PT-INR                 1.1                      03/11/92 12:16
+278-02||123||Cardiac markers negative x 1:
+278-02||125||UA:negative
+278-02||126||Guaic: negative
+278-02||127||EKG: Old anteroseptal infarct-Q and ST elevations in V2-4
+278-02||128||CXR: The lungs are well aerated.
+278-02||129||There are no focal areas of  consolidation or effusion.
+278-02||130||The cardiac silhouette is normal in  size and configuration.
+278-02||131||There are no mediastinal abnormalities.
+278-02||132||There are no osseous or soft tissue abnormalities.
+278-02||134||CT:
+278-02||135||No evidence of acute intracranial pathology.
+278-02||136||Nonspecific periventricular white matter hypodensities most
+278-02||137||consistent with microangiopathic disease in a patient of this age
+278-02||138||MRA:  pending
+278-02||139||________________________________________________________________________
+278-02||140||A/P:  73 yo with h/o HTN, DM, CAD presenting with 2 days of vertigo and one week of loss of balance.||DIN FFF balance. FFF 20 20||
+278-02||141||Symptoms of vertigo are most consistent with peripheral vertigo.
+278-02||142||BPPV most likely as symptoms are worse in a.m and diminish over the day.
+278-02||143||Given tinnitus Meniers on the diiferential but less likely.

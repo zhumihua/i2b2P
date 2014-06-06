@@ -1,0 +1,92 @@
+242-04	1	Record date: 2074-04-02	
+242-04	2	Patient Name: LOUIS,ROBERT [ MRN: 85588852LGH ]	
+242-04	3	Date of Visit: 04/02/2074	
+242-04	4	History of Present Illness	
+242-04	5	*H&P conducted with interpreter present.	
+242-04	6	70M DM, HTN, CAD, CHF (CAD vs EtOH), COPD, elevated PSA, here for routine follow-up appointment.		INDICATION FFF dm#1	INDICATION FFF htn#2	INDICATION FFF cad#3	INDICATION FFF chf#4	INDICATION FFF cad#5	INDICATION FFF copd#8	INDICATION FFF psa#10
+242-04	7	1) R>L groin/testicular/buttock pain x1mo.		INDICATION FFF pain#3
+242-04	8	No F/C/N/V/D/melena/hematochezia/dysuria/hematuria.		INDICATION FFF f#1
+242-04	9	Seen in ED 3/17/74, found to have very small reducible hernia and exophytic bladder mass by U/S (3.6x2.7x2.4cm, indenting base of bladder, bladder vs prostate).		INDICATION FFF ed#2	INDICATION FFF prostate#24
+242-04	10	Pt has multiple RF's for bladder ca: smoking, EtOH.		INDICATION FFF bladder ca#6
+242-04	11	Also had had h/o BPH, elevated PSA, with failure to F/U to urology appts.		INDICATION FFF bph#4	INDICATION FFF psa#6	INDICATION FFF f#10
+242-04	12	PSA: 4/73=4.8, 3/72=4.1, 10/70=5.0, 2/70=9.4, 11/67=5.9, 8/65=5.9, 7/63=4.2.  Pt states he had prostate biopsy at EDUCARE-FARGO 7yrs ago, which was apparently negative.		INDICATION FFF psa#0	INDICATION FFF prostate#12	DRT FFF 7 yrs#16
+242-04	13	Have asked pt to obtain these records on multiple occasions, but he has not.	
+242-04	14	Saw urology for initial visit 5/73; since then has missed 3 follow-up appointments for prostate biopsy.   2) HTN.  Pt hypertensive today.  Pt admitted upon hospitalization 11/73 that he had not been taking his meds, states he is taking them now.  3) CAD.  Cardiac RF's: DM, HTN, smoking, age.  Denies: CP, SOB, LE edema, orthopnea, PND.  Followed by Dr Ferraro (Cardiology).  Mibi 1/72: 23%, 5 mets, neg.  NQWMI 10/70.  Cath 10/70: 30% RCA.  NEG ETT '68.   4) CHF.  Hospitalized 11/73 for CHF.  Denies: CP, SOB, LE edema, orthopnea, PND since D/C home. 11/73: EF 30-35%,  global hk, trace AI, trace MR, trace TR, RVH.  CXR 6/73: "pulmonary vascular engorgment without overt pulmonary edema, ?scarring LUL"  PFT's 5/73: poor-quality study, FEV1=1.36 (58%), FVC=1.93 (66%), FEV1/FVC=91%.  5) DM.  FS=114 in clinic today.  Given CHF and increasing Cr, D/C Metformin at last visit, pt currently only on Glyburide 5mg QD.  Fasting am FS 110-124, has not been checking post-prandial FS. 6) EtOH.  Pt states he is drinking 1/2 pint of rum Qwk.  Recommended that he decrease this amount.  Discussed my concern that his EtOH was contributing to his heart disease.		INDICATION FFF prostate#14	INDICATION FFF htn#17	INDICATION FFF hypertensive#19	INDICATION FFF cad#41	INDICATION FFF dm#44	INDICATION FFF htn#45	INDICATION FFF cp#49	INDICATION FFF sob#50	INDICATION FFF le#51	INDICATION FFF edema#52	INDICATION FFF orthopnea#53	INDICATION FFF pnd .#54	DOSE FFF 23%#62	INDICATION FFF mets#64	DOSE FFF 30%#70	INDICATION FFF chf#76	INDICATION FFF chf#80	INDICATION FFF cp#82	INDICATION FFF sob#83	INDICATION FFF le#84	INDICATION FFF edema#85	INDICATION FFF orthopnea#86	INDICATION FFF ef#92	DOSE FFF 30-35%#93	INDICATION FFF tr#101	INDICATION FFF pulmonary edema#111	DOSE FFF 58%#119	DOSE FFF 66%#121	DOSE FFF 91%#122	INDICATION FFF dm#124	INDICATION FFF chf#130	DIN FFF metformin#135	DIN FFF glyburide#143	DOSE FFF 5mg#144	FREQ FFF qd#145	TOD FFF am#147	FREQ FFF qwk#167	INDICATION FFF heart disease#185
+242-04	15	Problems	
+242-04	16	Diabetes mellitus		INDICATION FFF diabetes mellitus#1
+242-04	17	Hypertension		INDICATION FFF hypertension#0
+242-04	18	CAD		INDICATION FFF cad#0
+242-04	19	NQWMI	
+242-04	20	Congestive heart failure		INDICATION FFF congestive heart failure#2
+242-04	21	EtOH	
+242-04	22	COPD		INDICATION FFF copd#0
+242-04	23	Smoking	
+242-04	24	BPH, Elevated PSA		INDICATION FFF bph#0	INDICATION FFF psa#2
+242-04	25	Prostatic nodule	
+242-04	26	Diverticula	
+242-04	27	OA of lumbar spine		INDICATION FFF oa#0
+242-04	28	Bladder mass	
+242-04	29	Health Maintenance	
+242-04	30	Cholesterol  04/04/2073 129  (Desirable <200, High >240)		INDICATION FFF cholesterol#0
+242-04	31	Cholesterol-HDL  04/04/2073 43	
+242-04	32	Cholesterol-LDL  04/04/2073 70	
+242-04	33	Colonoscopy  11/14/2073 Pt refused	
+242-04	34	Complete Physical Exam  04/02/2074	
+242-04	35	Creatinine  03/19/2074 0.9		INDICATION FFF creatinine#0
+242-04	36	EKG  02/13/2069   SMMC Final	
+242-04	37	HBA1C  04/04/2073 6.5	
+242-04	38	Hct (Hematocrit)  03/19/2074 43.5		INDICATION FFF hematocrit#1
+242-04	39	Hgb (Hemoglobin)  03/19/2074 14.3	
+242-04	40	Home glucose monitoring  04/02/2074 Fasting am: 110-124		TOD FFF am#5
+242-04	41	Hypoglycemia Assessment/Counseling  04/02/2074 Denies		INDICATION FFF hypoglycemia#0
+242-04	42	Influenza Vaccine  11/15/2073   PT RECEIVED FLU VACCINE PER PCP.		DIN FFF influenza vaccine#1	DOSE FFF 11/15#2	DIN FFF flu vaccine#6	INDICATION FFF pcp#8
+242-04	43	LOT#340211-EXP.7/03/74.	
+242-04	44	M-alb/creat ratio  05/16/2073 24.6  Units = mg Alb/g Cre		DOSEAMT FFF 24.6 units#4	DIN FFF alb#7
+242-04	45	Mammogram  03/27/2070 Mammography Bilateral	
+242-04	46	Microalbumin  05/16/2073 3.0	
+242-04	47	Ophthal Exam  04/02/2074 appt 4/74 Done/scheduled	
+242-04	48	Pneumovax  11/02/2070   PNEUMOCOCCAL VACCINE IM IN L DELTOID.		DIN FFF pneumovax#0	DOSE FFF 11/02#1	DIN FFF pneumococcal vaccine#3	RUT FFF im#4
+242-04	49	PNEUMOVAX 23.  LOT 4050.  EXP 30Aug71.		DBN FFF pneumovax 23#1
+242-04	50	Podiatry exam  07/12/2072 WNL	
+242-04	51	Sigmoidoscopy  09/05/2068   *See Report	
+242-04	52	Smoking status  05/16/2073 1/2PPD x50yrs Current smoker  Counsel: 05/16/2073	
+242-04	53	Stool Guaiac  02/22/2069   STOOL GUAIAC NEG. X 3 CARDS		FREQ FFF x 3#7
+242-04	54	Triglycerides  04/04/2073 82		DIN FFF triglycerides#0	DOSE FFF 04/04#1
+242-04	55	UA-Protein  03/19/2074 NEG	
+242-04	56	Medications	
+242-04	57	ALBUTEROL (INHALER)  2PUFF INH QID		DIN FFF albuterol#0	DOSEAMT FFF 2 puff#2	RUT FFF inh#3	FREQ FFF qid#4
+242-04	58	AMLODIPINE  10MG PO QD		DIN FFF amlodipine#0	DOSE FFF 10mg#1	RUT FFF po#2	FREQ FFF qd#3
+242-04	59	ATENOLOL  50MG 1 Tablet(s) PO QD		DIN FFF atenolol#0	DOSE FFF 50mg#1	DOSEAMT FFF 1 tablet#3	RUT FFF po#4	FREQ FFF qd#5
+242-04	60	ATROVENT INHALER (IPRATROPIUM INHALER)  2PUFF INH QID		DBN FFF atrovent#0	DOSEAMT FFF 2 puff#4	RUT FFF inh#5	FREQ FFF qid#6
+242-04	61	ECASA (ASPIRIN ENTERIC COATED)  325MG PO QD		DPN FFF ecasa#0	DOSE FFF 325mg#4	RUT FFF po#5	FREQ FFF qd#6
+242-04	62	FOLATE (FOLIC ACID)  1MG PO QD		DIN FFF folate#0	DOSE FFF 1mg#3	RUT FFF po#4	FREQ FFF qd#5
+242-04	63	GLYBURIDE  5MG 1 Tablet(s) PO QD		DIN FFF glyburide#0	DOSE FFF 5mg#1	DOSEAMT FFF 1 tablet#3	RUT FFF po#4	FREQ FFF qd#5
+242-04	64	LISINOPRIL  40MG PO QD		DIN FFF lisinopril#0	DOSE FFF 40mg#1	RUT FFF po#2	FREQ FFF qd#3
+242-04	65	MVI (MULTIVITAMINS)  1CAPSULE PO QD		DPN FFF mvi#0	DOSEAMT FFF 1 capsule#2	RUT FFF po#3	FREQ FFF qd#4
+242-04	66	THIAMINE HCL  100MG PO QD		DIN FFF thiamine hcl#1	DOSE FFF 100mg#2	RUT FFF po#3	FREQ FFF qd#4
+242-04	67	TORSEMIDE  20MG 2 Tablet(s) PO QD		DIN FFF torsemide#0	DOSE FFF 20mg#1	DOSEAMT FFF 2 tablet#3	RUT FFF po#4	FREQ FFF qd#5
+242-04	68	Allergies		INDICATION FFF allergies#0
+242-04	69	NKDA  NONE	
+242-04	70	Vital Signs	
+242-04	71	Blood Pressure:  142/84   Left Arm		INDICATION FFF blood pressure#1
+242-04	72	Weight:  178   Pounds		INDICATION FFF weight#0
+242-04	73	Physical Exam	
+242-04	74	General Appearance	
+242-04	75	NAD.	
+242-04	76	Skin	
+242-04	77	Peri-anal area: dry skin, no blisters/lesions.		DBN FFF dry skin#3
+242-04	78	Abdomen	
+242-04	79	Soft, NT, ND, NABS, no HSM.	
+242-04	80	Extremity	
+242-04	81	2+ DP/PT pulses.  No C/C/E.		INDICATION FFF dp#1
+242-04	82	Genito-Urinary	
+242-04	83	Very small R inguinal hernia.	
+242-04	84	Mild tenderness on balotting of L testicle, epididymis not inflamed.	
+242-04	85	Plan	
+242-04	86	*H&P conducted with interpreter present.	
+242-04	87	70M DM, HTN, CAD, CHF (CAD vs EtOH), COPD, elevated PSA, here for routine follow-up appointment.		INDICATION FFF dm#1	INDICATION FFF htn#2	INDICATION FFF cad#3	INDICATION FFF chf#4	INDICATION FFF cad#5	INDICATION FFF copd#8	INDICATION FFF psa#10
+242-04	88	1) R>L groin/testicular/buttock pain x1mo.		INDICATION FFF pain#3
+242-04	89	No F/C/N/V/D/melena/hematochezia/dysuria/hematuria.		INDICATION FFF f#1
+242-04	90	Seen in ED 3/17/74, found to have very small reducible hernia and exophytic bladder mass by U/S (3.6x2.7x2.4cm, indenting base of bladder, bladder vs prostate).		INDICATION FFF ed#2	INDICATION FFF prostate#24
+242-04	91	Pt has multiple RF's for bladder ca: smoking, EtOH.		INDICATION FFF bladder ca#6
+242-04	92	Also had had h/o BPH, elevated PSA, with failure to F/U to urology appts.		INDICATION FFF bph#4	INDICATION FFF psa#6	INDICATION FFF f#10

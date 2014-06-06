@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2078-05-10
+
+
+
+Vital signs
+
+BP 140/88, P 68, Wt 172 lb 
+
+69 year old male returns with daughter and grandson for follow-up of diabetes and hypertension. he was seen here several weeks ago after a 4 month absence when he was in the UK. hgba1c and creatinine were checked at the time, and bp was to be rechecked as it was not optimally controlled. the patient returns feeling well, denies chest pain, shortness of breath, PND, orthopnea, change in exercise tolerance. he is taking medications as directed. daughter states that he saw an eye doctor in Anchorage Northeast in 11/77, had his pupils dilated, was checked for DM, was told everything was fine and he should return in 1 year
+
+VS as noted
+
+chest clear to ausc. RR 12
+
+cardiac normal s1/s2 no m/s3/s4 HR 58 reg
+
+no peripheral edema
+
+hgba1c 6.5 (decreased from 8.9 in 11/77) creatinine stable at 1.4
+
+Assessment - improved diabetic control. renal function stable. suboptimal bp control for diabetic with history of CAD; already bradycardic on atenolol 50 mg qd
+
+Plan - continue current regimen with the exception of lisinopril - will increase to 20mg qd. pt has PE scheduled 5/31/78. bp recheck at that time
+
+no ophthalmology referral was made as he appears to be up to date with eye care
+
+N. levine, MD
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC5" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC7" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC12" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC14" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC3" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention"/>
+    <CAD id="DOC1" time="after DCT" indicator="mention"/>
+    <CAD id="DOC9" time="before DCT" indicator="mention"/>
+    <CAD id="DOC17" time="during DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC16" indicator="not present"/>
+    <SMOKER id="DOC13" status="unknown"/>
+    <DIABETES id="DOC2" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC4" time="before DCT" indicator="A1C"/>
+    <DIABETES id="DOC10" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC15" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

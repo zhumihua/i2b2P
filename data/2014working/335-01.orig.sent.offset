@@ -1,0 +1,14 @@
+335-01	19	0	HTN, Hyperlipidemia (h/o normal stress test in past), palpitations, GERD, thyroid nodules, lichen sclerosis, bilateral adrenal adenomas, diabetes mellitus type II, sarcoidosis	adrenal FFF 15 15	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+335-01	25	438	Ciprofloxacin 500 mg q 12 hr	ciprofloxacin FFF 0 0	500 mg FFF 1 2	 FFF 	q 12 hr FFF 3 5	 FFF 	 FFF 	narrative
+335-01	26	438	Lovenox 40 mg SC day	lovenox FFF 0 0	40 mg FFF 1 2	sc FFF 3 3	 FFF 	 FFF 	 FFF 	narrative
+335-01	27	438	Lisinopril 40 mg Po day	lisinopril FFF 0 0	40 mg FFF 1 2	po FFF 3 3	 FFF 	 FFF 	 FFF 	narrative
+335-01	28	438	Simvastatin 40 mg QHS	simvastatin FFF 0 0	40 mg FFF 1 2	 FFF 	qhs FFF 3 3	 FFF 	 FFF 	narrative
+335-01	29	438	Nifedipine 60 mg Po day	nifedipine FFF 0 0	60 mg FFF 1 2	po FFF 3 3	 FFF 	 FFF 	 FFF 	narrative
+335-01	30	438	Omeprazole 40 mg Po day	omeprazole FFF 0 0	40 mg FFF 1 2	po FFF 3 3	 FFF 	 FFF 	 FFF 	narrative
+335-01	32	438	Mag Sulfate	sulfate FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+335-01	34	438	Colace	colace FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+335-01	59	0	WBC 4.5 Hg 11 Hct 33 Plt 331  P 57  L 31  M 9.2  Na 138  K 4.1  Cl 103  Co2 27  BUN 11 Cr 0.73  Glu 243  Ca 9.0  Mg 1.2  ESR 20  D-Dimer 529	na FFF 14 14	138 FFF 15 15	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+335-01	59	0	WBC 4.5 Hg 11 Hct 33 Plt 331  P 57  L 31  M 9.2  Na 138  K 4.1  Cl 103  Co2 27  BUN 11 Cr 0.73  Glu 243  Ca 9.0  Mg 1.2  ESR 20  D-Dimer 529	glu FFF 26 26	243 FFF 27 27	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+335-01	61	0	Ace Pending	ace FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+335-01	77	0	Findings consistent with infection versus less likely     inflammation.     2. Bladder calculus.     3. Abdominal lymphadenopathy, increased since prior study, may be     consistent with progression of known sarcoid, versus malignancy.     4. Adrenal nodules, unchanged.	adrenal FFF 29 29	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+335-01	80	0	IMPRESSION:     1. Mediastinal, bilateral hilar, supraclavicular,     retroperitoneal, and gastrohepatic adenopathy likely represents     lymphoma rather than sarcoidosis given the patient age and     abdominal involvement.     2. Bilateral adrenal nodules.	adrenal FFF 25 25	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

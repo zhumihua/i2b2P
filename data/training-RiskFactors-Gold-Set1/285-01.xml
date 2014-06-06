@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2093-02-28
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+February 28, 2093
+
+ 
+
+ 
+
+ 
+
+Herman Patton, M.D.
+
+Department of Thoracic Surgery
+
+Grafton State Hospital 
+
+39 Pacific Boulevard
+
+Cape Town, OR 67125
+
+ 
+
+RE: Michael Ogrady
+
+       MR #631-90-33-7
+
+ 
+
+Dear Dr. Patton:
+
+ 
+
+I had the pleasure of seeing your patient Michael Ogrady in consultation for 
+
+his coronary artery
+
+disease, before his surgery for esophageal cancer.  As you know, this is a 
+
+63-year-old male with a
+
+long past medical history which includes diabetes, coronary artery disease, 
+
+peripheral vascular
+
+disease, hypertension, smoking history, hypercholesterolemia, DVT and newly 
+
+diagnosed
+
+esophageal carcinoma.  He has been followed by his cardiologist, Yehuda 
+
+Landers, for the last nine
+
+years.  Essentially he has every cardiac risk factor and known coronary 
+
+artery disease which is
+
+documented on cardiac catheterization performed on 1/20/93.  The 
+
+catheterization demonstrated
+
+right dominant system with 100% RCA lesion, a complex 30% diagonal 1 lesion 
+
+and a 30%
+
+marginal 1 lesion.  There was collateral flow noted from the LAD to the right 
+
+PDA and from the
+
+septal 2 branch to the RCA, and from the circumflex artery to the RCA.  The 
+
+procedure was
+
+performed through the right radial artery without complications.  Patient 
+
+also has peripheral
+
+vascular disease and is status post a left femoral posterior tibial saphenous 
+
+vein bypass graft in
+
+2088.  He is also status post atherectomy and dilatation of stenosis in the 
+
+femoral to posterior
+
+tibial graft.  He also had a left leg DVT in 2090.  His activity level is 
+
+limited by his claudication. 
+
+He has a history of hypertension and hypercholesterolemia and diabetes on 
+
+treatment.  
+
+ 
+
+At baseline he has dyspnea on exertion after walking half a mile.  He gets 
+
+chest pressure one to
+
+two times a month.  However, his activity is extremely limited.  He reports 
+
+that he has had a
+
+positive stress test.  Further information is not available.  Patient 
+
+understands he has coronary
+
+disease, however does not have amenable disease for angioplasty.  On 
+
+catheterization he had
+
+preserved ejection fraction of 62%.  
+
+ 
+
+He is to undergo esophageal cancer surgery in the next one to two months 
+
+after receiving
+
+chemotherapy and radiation therapy preop.  Patient states he will be 
+
+receiving a Hickman
+
+Michael Ogrady
+
+Page 2
+
+March 3, 2093
+
+ 
+
+catheter and a jejunostomy tube placement before his chemo and radiation 
+
+therapy. 
+
+ 
+
+On physical exam, the patient is obese, weighing 288 pounds.  His blood 
+
+pressure is 100/72,
+
+heart rate is 57 bpm.  HEENT: oropharynx benign.  Neck: carotids intact 
+
+bilaterally without
+
+audible bruits.  Lungs: distant breath sounds.  Cor: without obvious jugular 
+
+venous distention. 
+
+Heart sounds distant.  Normal S1 and S2.  No appreciable murmurs.  Abdomen: 
+
+unable to palpate
+
+firm masses or aortic aneurysm.  Bowel sounds present.  Extremities: status 
+
+post surgery to the
+
+left flank with 1 to 2+ edema to the knee.  Distal pulses are absent.  Neuro: 
+
+intact.
+
+ 
+
+EKG: Sinus brady with first degree AV block.  IMI with age undetermined.  
+
+Nonspecific STT
+
+wave abnormalities present.  No previous EKG for comparison.
+
+ 
+
+Impression: 63-year-old diabetic, hypertensive male with known coronary 
+
+artery disease and
+
+peripheral vascular disease who has preserved left ventricular function.  He 
+
+clearly has ischemia
+
+on a positive stress test.  I would recommend dobutamine echocardiogram to 
+
+check ischemic
+
+threshold.  He is clearly at intermediate risk for a perioperative cardiac 
+
+event.  However, given
+
+his life-threatening esophageal carcinoma, patient wants to proceed with 
+
+surgery even
+
+understanding possible complications.
+
+ 
+
+Plan:
+
+1.   Dobutamine echocardiogram to check ischemic threshold.
+
+2.   Recommend intravenous beta-blockers during the surgery with fairly tight 
+
+control of
+
+     blood pressure and heart rate, utilizing the information determined on 
+
+dobutamine
+
+     echocardiography.
+
+ 
+
+Thank you for allowing me to participate in the care of your patient, Michael 
+
+Ogrady.  Please do
+
+not hesitate to contact me if you have any questions.
+
+ 
+
+Sincerely yours, 
+
+ 
+
+ 
+
+Susan Ximena Elias, M.D., M.M.S.C.
+
+ 
+
+/alvarado
+
+ 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC3" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC8" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC14" time="during DCT" indicator="mention"/>
+    <OBESE id="DOC5" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention"/>
+    <CAD id="DOC0" time="before DCT" indicator="mention"/>
+    <CAD id="DOC2" time="during DCT" indicator="test"/>
+    <CAD id="DOC10" time="during DCT" indicator="mention"/>
+    <CAD id="DOC13" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC12" indicator="not present"/>
+    <SMOKER id="DOC4" status="ever"/>
+    <DIABETES id="DOC7" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC9" time="after DCT" indicator="mention"/>
+    <DIABETES id="DOC15" time="during DCT" indicator="mention"/>
+  </TAGS>
+</root>

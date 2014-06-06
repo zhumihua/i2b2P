@@ -1,0 +1,127 @@
+255-03||1||Record date: 2066-09-16
+255-03||2||51 yo F with HTN, DM, CAD, gastritis, depression, s/p CVA returns for f/u.
+255-03||3||Pt reports that she has not been taking any medications for one month.
+255-03||4||She left for Poland for two months and ran out of medications.
+255-03||5||Pt reprots her sugars have been in the 400-500.
+255-03||6||Pt reports numbness of both feet, and the loss of her her toe nails.
+255-03||8||Very noncompliant with meds and appts
+255-03||9||Also c/o thick, cottage cheesy vaginal d/c and itch.
+255-03||10||Problems
+255-03||11||HTN
+255-03||12||DM
+255-03||13||CAD:
+255-03||14||-EKG with LVH and repol abnlity.
+255-03||15||-Stress echo () Limited, only able to walk 0'47".
+255-03||16||MHR 122 (72%predicted), BP 230/100.
+255-03||17||Stopped 2/2 dizziness, SOB and SSCP.
+255-03||18||EKG shwed 1 mm ST depressions in II, III, F, V5-6.
+255-03||19||Read as c/w but not diagnostic of ischemia.
+255-03||20||Echo showed baseline EF of 60% with no RWMA.
+255-03||21||After exercise there was minor nonspecific inferoposterior WMA.
+255-03||22||Read as no evidence of inducible ischenia (but low sensitivity 2/2 low MHR)
+255-03||23||HX OF GASTRITIS BY UGIS H PYLORI +
+255-03||24||S/P TAH 2/2 FIBROIDS
+255-03||25||OA
+255-03||26||Depression
+255-03||27||Asthma
+255-03||28||s/p CVA
+255-03||29||Medications
+255-03||30||Humulin 70/30 60 UNITS qpm x 30 days||DBN FFF humulin 70/30 FFF 0 1||DOSEAMT FFF 60 units FFF 2 3||FREQ FFF qpm FFF 4 4||DRT FFF 30 days FFF 6 7||
+255-03||31||Insulin REGULAR HUMAN 3 UNITS SC AC+HS , use per sliding scale-2U if 150-200, 4U if 200-250, 6U 250-300, 8U 300-350||DPN FFF insulin regular human FFF 0 2||DOSEAMT FFF 3 units FFF 3 4||RUT FFF sc FFF 5 5||TOD FFF ac+hs FFF 6 6||FREQ FFF ac+hs FFF 6 6||DOSE FFF 4u FFF 14 14||DOSE FFF 6u FFF 17 17||DOSE FFF 8u FFF 19 19||
+255-03||32||Protonix (PANTOPRAZOLE) 40MG TABLET EC take 1 Tablet(s) PO QD||DBN FFF protonix FFF 0 0||MDBN FFF (pantoprazole) FFF 1 1||DOSE FFF 40mg FFF 2 2||DDF FFF tablet FFF 3 3||
+255-03||32||Protonix (PANTOPRAZOLE) 40MG TABLET EC take 1 Tablet(s) PO QD||DIN FFF ec FFF 4 4||DOSEAMT FFF 1 tablet(s) FFF 6 7||RUT FFF po FFF 8 8||FREQ FFF qd FFF 9 9||
+255-03||33||Trazodone 50MG TABLET take 1 Tablet(s) PO qhs PRN insomna||DIN FFF trazodone FFF 0 0||DOSE FFF 50mg FFF 1 1||DDF FFF tablet FFF 2 2||DOSEAMT FFF 1 tablet(s) FFF 4 5||RUT FFF po FFF 6 6||FREQ FFF qhs FFF 7 7||NEC FFF prn FFF 8 8||
+255-03||34||Naprosyn (NAPROXEN) 500MG TABLET take 1 Tablet(s) PO BID||DBN FFF naprosyn FFF 0 0||MDBN FFF (naproxen) FFF 1 1||DOSE FFF 500mg FFF 2 2||DDF FFF tablet FFF 3 3||DOSEAMT FFF 1 tablet(s) FFF 5 6||RUT FFF po FFF 7 7||FREQ FFF bid FFF 8 8||
+255-03||35||Polytrim (TRIMETHOPRIM/POLYMYXIN B SULFATE) 1 DROP OU Q4-6H x 7 days||DBN FFF polytrim FFF 0 0||MDBN FFF (trimethoprim/polymyxin b sulfate) FFF 1 3||DOSEAMT FFF 1 drop FFF 4 5||RUT FFF ou FFF 6 6||FREQ FFF q4-6h FFF 7 7||DRT FFF x 7 days FFF 8 10||
+255-03||36||Proventil INH 2 PUFFS INH Q 6 H PRN SOB , PRN: SOB/WHEEZING||DBN FFF proventil FFF 0 0||RUT FFF inh FFF 1 1||DOSEAMT FFF 2 puffs FFF 2 3||RUT FFF inh FFF 4 4||FREQ FFF q 6 h FFF 5 7||NEC FFF prn FFF 8 8||INDICATION FFF sob FFF 9 9||NEC FFF prn: FFF 11 11||INDICATION FFF sob/wheezing FFF 12 12||INDICATION FFF sob/wheezing FFF 12 12||
+255-03||37||Azmacort INH 2 PUFF AER BID||DBN FFF azmacort FFF 0 0||RUT FFF inh FFF 1 1||DOSEAMT FFF 2 puff FFF 2 3||FREQ FFF bid FFF 5 5||
+255-03||38||Glucophage 500 MG PO BID||DBN FFF glucophage FFF 0 0||DOSE FFF 500 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF bid FFF 4 4||
+255-03||39||Lipitor 40 MG PO QD||DBN FFF lipitor FFF 0 0||DOSE FFF 40 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+255-03||40||Zestoretic (LISINOPRIL/HYDROCHLOROTHIAZIDE) 20-25 TABLET take 1 Tablet(s) PO QD||DBN FFF zestoretic FFF 0 0||MDBN FFF (lisinopril/hydrochlorothiazide) FFF 1 1||DOSEAMT FFF 20-25 tablet FFF 2 3||DOSEAMT FFF 1 tablet(s) FFF 5 6||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||
+255-03||41||Ecasa (ASPIRIN ENTERIC COATED) 325MG TABLET EC take 1 Tablet(s) PO QD||DPN FFF ecasa FFF 0 0||MDBN FFF (aspirin enteric coated) FFF 1 3||DOSE FFF 325mg FFF 4 4||DDF FFF tablet FFF 5 5||
+255-03||41||Ecasa (ASPIRIN ENTERIC COATED) 325MG TABLET EC take 1 Tablet(s) PO QD||DIN FFF ec FFF 6 6||DOSEAMT FFF 1 tablet(s) FFF 8 9||RUT FFF po FFF 10 10||FREQ FFF qd FFF 11 11||
+255-03||42||Clarinex (DESLORATADINE) 5MG TABLET take 1 Tablet(s) PO QD||DBN FFF clarinex FFF 0 0||MDBN FFF (desloratadine) FFF 1 1||DOSE FFF 5mg FFF 2 2||DDF FFF tablet FFF 3 3||DOSEAMT FFF 1 tablet(s) FFF 5 6||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||
+255-03||43||Plavix (CLOPIDOGREL) 75 MG PO QD||DBN FFF plavix FFF 0 0||MDBN FFF (clopidogrel) FFF 1 1||DOSE FFF 75 mg FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF qd FFF 5 5||
+255-03||44||Paxil (PAROXETINE) 20 MG (20MG TABLET take 1) PO QD||DBN FFF paxil FFF 0 0||
+255-03||45||Atenolol 50 MG (50MG TABLET take 1) PO QD||DIN FFF atenolol FFF 0 0||DOSE FFF 50 mg FFF 1 2||DOSE FFF (50mg FFF 3 3||DDF FFF tablet FFF 4 4||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||
+255-03||46||Flucoconzole 150 MG PO x1 x 1 day
+255-03||47||Lotrimin 1% CREAM (CLOTRIMAZOLE 1% CREAM) 1 APPLICATION TOP QD , apply to vaginal area (external) qd prn itch||DBN FFF lotrimin FFF 0 0||DOSE FFF 1% FFF 1 1||DDF FFF cream FFF 2 2||
+255-03||48||Insulin 70/30 (HUMAN) 30 U/30 U SC QAM/Qpm||DPN FFF insulin 70/30 FFF 0 1||DOSE FFF 30 u/30 u FFF 3 5||RUT FFF sc FFF 6 6||FREQ FFF qam/qpm FFF 7 7||FREQ FFF qam/qpm FFF 7 7||
+255-03||49||.. of note , pt is not taking any of her medications.
+255-03||50||EXAM:
+255-03||51||Vital Signs
+255-03||52||BP 170/86, P 86, Wt 154 lb
+255-03||53||Neck No JVD No thyromegaly
+255-03||54||Cor RRR, S1S2, 2/6 sys M at RUSB||DIN FFF cor FFF 0 0||
+255-03||55||Lungs CTA bl, no crackles/wheezes
+255-03||56||Abd Soft NTND +BS
+255-03||57||Ext No c/c/e
+255-03||58||NEURO: PERRL.
+255-03||59||Facial asymmetry, unable to smile or raise eyebrow on L, tongue deviates to R.
+255-03||60||Strength 4/5 LUE extensors, o/w 5/5 throughout.
+255-03||61||Loss of sensation
+255-03||62||Normal gait.
+255-03||63||Unchanged fr previous
+255-03||64||Results
+255-03||65||Date/Time         NA             K              CL             CO2||DIN FFF na FFF 1 1||INDICATION FFF k FFF 2 2||INDICATION FFF cl FFF 3 3||
+255-03||66||05/08/2066                       4.2
+255-03||67||05/06/2066        134 (*)        4.2            97 (*)         28
+255-03||68||05/01/2066        137            3.4 (*)        96 (*)         33 (*)
+255-03||69||Date/Time         BUN            CRE            GLU            ANION||DIN FFF glu FFF 3 3||
+255-03||70||05/08/2066                       0.9
+255-03||71||05/06/2066        13             0.7            285 (*)        9
+255-03||72||05/01/2066        19             0.8            187 (*)        8
+255-03||73||Date/Time         CA             TBILI          TP             ALB||DIN FFF alb FFF 4 4||
+255-03||74||05/06/2066        9.6
+255-03||75||05/01/2066        9.5            0.3            7.2            3.8
+255-03||76||Date/Time         GLOB
+255-03||77||05/01/2066        3.4
+255-03||78||Date/Time         ALT/SGPT       AST/SGOT       ALKP           TBILI
+255-03||79||05/01/2066        15             16             89             0.3
+255-03||80||Date/Time         CHOL           TRIG           HDL            LDLCAL
+255-03||81||05/08/2066        272 (*)        301 (*)        46             166 (*)
+255-03||82||Date/Time         VLDL
+255-03||83||05/08/2066        60
+255-03||84||Date/Time         MALB           MALB/CRE
+255-03||85||05/08/2066        9.8 (*)        59.8 (*)[1]
+255-03||86||Date/Time         UTIME
+255-03||87||05/08/2066        RANDOM
+255-03||88||Date/Time         UTIME          U/UCRE
+255-03||89||05/08/2066        RANDOM         163.9
+255-03||90||Date/Time         WBC            RBC            HGB            HCT
+255-03||91||05/01/2066        10.40 (*)      4.29           13.3           37.6
+255-03||92||Date/Time         MCV            MCH            MCHC           PLT
+255-03||93||05/01/2066        87.6           31.1           35.5           302
+255-03||94||Date/Time         RDW
+255-03||95||05/01/2066        12.4
+255-03||96||Date/Time         %POLY-A        %LYMPH-A       %MONO-A        %EOS-A
+255-03||97||05/01/2066        65.5           29             4.2 (#)        0.9
+255-03||98||Date/Time         %BASO-A
+255-03||99||05/01/2066        0.4
+255-03||100||Date/Time         ANEUT-A        ALYMP-A        AMONO-A        AEOS-A
+255-03||101||05/01/2066        6.81           3.01           0.44           0.09
+255-03||102||Date/Time         ABASO-A
+255-03||103||05/01/2066        0.04
+255-03||104||[1] RESULT COMMENT:   Units = mg Alb/g Cre||DIN FFF alb/g FFF 6 6||
+255-03||105||A/P:
+255-03||106||53F with MMP incl DM, high chol, depression, s/p TIA, noncompliance, for f/u
+255-03||107||1) Recent possible HIV exposure: Neg HIV and other STDs, pt did not return for recheck 6 mos after exposure in 12/65, pt will think about re testing adn decide at next visit
+255-03||108||2) DM:  Humulin 70/30 at 70qam and 30 qpm after off for several mos.||DBN FFF humulin 70/30 FFF 2 3||FREQ FFF 70qam FFF 5 5||FREQ FFF qpm FFF 8 8||
+255-03||109||Last A1c was 13.9. 5/23,  -- seeB. Jamiesonfor insulin titration.||DIN FFF insulin FFF 8 8||
+255-03||110||--Cont glucophage 500 bid||DBN FFF glucophage FFF 1 1||DOSE FFF 500 FFF 2 2||FREQ FFF bid FFF 3 3||
+255-03||111||--cont ASA, statin||DIN FFF asa, FFF 1 1||
+255-03||111||--cont ASA, statin||DIN FFF statin FFF 2 2||
+255-03||112||--referred to opthamology
+255-03||113||3)NEURO-s/p CVA, needs to f/u with neuro given this light headedness she feels, which she thinks is how she felt before the last CVA.
+255-03||114||ASA 325 qd,will refer to Neurology at next visit. 4)CV-Recent stress echo with low sensitivity given poor exercise tolerance but nondiagnostic of ischemia. HTN poorly controlled likely bc pt not compliant with meds.||DIN FFF asa FFF 0 0||DOSE FFF 325 FFF 1 1||FREQ FFF qd,will FFF 2 2||INDICATION FFF ischemia. FFF 22 22||INDICATION FFF htn FFF 23 23||
+255-03||115||.- Will schedule MIBI again.
+255-03||116||--BP elevated: Atenolol 50 Cont Zestoretic.||DIN FFF atenolol FFF 2 2||DOSE FFF 50 FFF 3 3||
+255-03||116||--BP elevated: Atenolol 50 Cont Zestoretic.||DBN FFF zestoretic. FFF 5 5||
+255-03||117||Will see NP in 1 wk and may need further incr in Atenolol (used to be on 100) --Cont Lipitor 40 mg qd, Lipids continue to be elevated, will recheck in 3 months||DIN FFF atenolol FFF 12 12||
+255-03||117||Will see NP in 1 wk and may need further incr in Atenolol (used to be on 100) --Cont Lipitor 40 mg qd, Lipids continue to be elevated, will recheck in 3 months||DBN FFF lipitor FFF 19 19||DOSE FFF 40 mg FFF 20 21||FREQ FFF qd, FFF 22 22||DRT FFF 3 months FFF 31 32||
+255-03||118||--Cont ASA 325 qd||DIN FFF asa FFF 1 1||DOSE FFF 325 FFF 2 2||FREQ FFF qd FFF 3 3||
+255-03||119||5)PSYCH-Depression, doing well fr this.
+255-03||120||Cont Celexa to 40 qd 6)PULM-Asthma.||DBN FFF celexa FFF 1 1||FREQ FFF qd FFF 4 4||
+255-03||121||Cont albuterol and asthmacort 7)GI-GERD.||DIN FFF albuterol FFF 1 1||
+255-03||122||Cont Protonix 8)Heme: Hct 37 and MCV||DBN FFF protonix FFF 1 1||DOSE FFF 8)heme: FFF 2 2||
+255-03||123||9)Vaginal candidiasis: Diflucan 150 x1||INDICATION FFF candidiasis: FFF 1 1||DBN FFF diflucan FFF 2 2||DOSE FFF 150 FFF 3 3||FREQ FFF x1 FFF 4 4||

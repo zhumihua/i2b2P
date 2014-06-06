@@ -1,0 +1,21 @@
+273-05	3	0	Novolog 3-10 tid 683-51-28	novolog FFF 0 0	3-10 FFF 1 1	 FFF 	tid FFF 2 2	 FFF 	 FFF 	narrative
+273-05	4	0	Lantus 19-20 at hs Xuan, Wendy	lantus FFF 0 0	19-20 FFF 1 1	 FFF 	at hs FFF 2 3	 FFF 	 FFF 	narrative
+273-05	5	0	CellCept 1000 mg bid	cellcept FFF 0 0	1000 mg FFF 1 2	 FFF 	bid FFF 3 3	 FFF 	 FFF 	narrative
+273-05	6	0	Rapamune 2/1 mgs qod	rapamune FFF 0 0	2/1 FFF 1 1	 FFF 	qod FFF 3 3	 FFF 	 FFF 	narrative
+273-05	7	0	Toprol XL 25 mg qd	toprol xl FFF 0 1	25 mg FFF 2 3	 FFF 	qd FFF 4 4	 FFF 	 FFF 	narrative
+273-05	8	0	Lipitor 10 mg qd	lipitor FFF 0 0	10 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+273-05	9	0	Neurontin 600/1200 mg bid	neurontin FFF 0 0	600/1200 mg FFF 1 2	 FFF 	bid FFF 3 3	 FFF 	 FFF 	narrative
+273-05	10	0	Tums 200 mg ii qd (should be at least bid)	tums FFF 0 0	200 mg FFF 1 2	 FFF 	qd FFF 4 4	 FFF 	 FFF 	narrative
+273-05	11	0	Prilosec 20 mg bid	prilosec FFF 0 0	20 mg FFF 1 2	 FFF 	bid FFF 3 3	 FFF 	 FFF 	narrative
+273-05	12	0	MVI i bid	mvi FFF 0 0	 FFF 	 FFF 	bid FFF 2 2	 FFF 	 FFF 	narrative
+273-05	13	0	ASA 325 mg qd	asa FFF 0 0	325 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+273-05	14	0	Tylenol 1325 mg over the day for arthritis	tylenol FFF 0 0	1325 mg FFF 1 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+273-05	15	0	Wellbutrin 150 mg bid	wellbutrin FFF 0 0	150 mg FFF 1 2	 FFF 	bid FFF 3 3	 FFF 	 FFF 	narrative
+273-05	16	0	Androgel to leg qd	androgel FFF 0 0	 FFF 	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+273-05	17	0	DHEA 25 mg qd	dhea FFF 0 0	25 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+273-05	18	0	Celexa 80 mg qAM  (Dr. Colin Keane)	celexa FFF 0 0	80 mg FFF 1 2	 FFF 	qam FFF 3 3	 FFF 	 FFF 	narrative
+273-05	24	0	Ibarra, who has suggested surgery since a steroid injection did not help.	steroid injection FFF 7 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+273-05	34	0	BaS last year showed GERD and dysmotility. I am not sure that Reglan would help, but have reluctance to try it in any case because of her long history of depression.	reglan FFF 12 12	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+273-05	42	438	Medications: Stopped Quinine; increased Celexa.	quinine; FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+273-05	42	438	Medications: Stopped Quinine; increased Celexa.	celexa. FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+273-05	43	438	Did not start simvastatin since did not have blood work done.	simvastatin FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

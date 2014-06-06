@@ -1,0 +1,12 @@
+392-02	5	0	She was started on pravachol for hyperlipidemia and lisinopril for microalbuminuira on last visit without side effect to meds.	pravachol FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+392-02	5	0	She was started on pravachol for hyperlipidemia and lisinopril for microalbuminuira on last visit without side effect to meds.	lisinopril FFF 8 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+392-02	17	0	Claritin (LORATADINE) 10 MG (10MG TABLET take 1) PO QD x 30 days	claritin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+392-02	18	0	Glipizide Xl (GLIPIZIDE Xl) 10 MG (10MG TAB OSM 24 take 1) PO QD x 30 days	glipizide xl FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+392-02	18	0	Glipizide Xl (GLIPIZIDE Xl) 10 MG (10MG TAB OSM 24 take 1) PO QD x 30 days	osm FFF 8 8	24 FFF 9 9	po FFF 12 12	qd FFF 13 13	30 days FFF 15 16	 FFF 	narrative
+392-02	19	0	IBUPROFEN 800 MG (800MG TABLET take 1) PO TID PRN pain x 30 days, Take with food or milk.	ibuprofen FFF 0 0	800 mg FFF 1 2	po FFF 7 7	TID PRN FFF 8 9	30 days, FFF 12 13	 FFF 	narrative
+392-02	20	0	LISINOPRIL 2.5 MG (2.5MG TABLET take 1) PO QD x 30 days	lisinopril FFF 0 0	2.5 mg FFF 1 2	po FFF 7 7	qd FFF 8 8	30 days FFF 10 11	 FFF 	narrative
+392-02	21	0	METFORMIN 500 MG (500MG TABLET take 1) PO BID x 30 days	metformin FFF 0 0	500 mg FFF 1 2	po FFF 7 7	bid FFF 8 8	30 days FFF 10 11	 FFF 	narrative
+392-02	22	0	Pravastatin (PRAVASTATIN) 10 MG (10MG TABLET take 1) PO QHS x 30 days	pravastatin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+392-02	23	0	Tylenol #3 (ACETAMINOPHEN W/codeine 30mg) 1 TAB PO Q6H x 21 days, Do not drive, drink alcohol with this medication.	Tylenol #3 (ACETAMINOPHEN W/codeine 30mg) FFF 0 4	30mg) FFF 4 4	po FFF 7 7	q6h FFF 8 8	21 days, FFF 10 11	 FFF 	narrative
+392-02	23	0	Tylenol #3 (ACETAMINOPHEN W/codeine 30mg) 1 TAB PO Q6H x 21 days, Do not drive, drink alcohol with this medication.	this medication. FFF 18 19	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+392-02	35	0	Pneumovax 12/26/2111	pneumovax FFF 0 0	12/26/2111 FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative

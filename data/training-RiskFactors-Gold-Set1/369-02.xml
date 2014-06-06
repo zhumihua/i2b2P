@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2079-12-01
+
+                                                       Patient Name: QIN,OWEN [ MRN: 88491427LBH ]
+
+                                                         Date of Visit: 12/01/79
+
+
+
+
+
+
+
+
+
+Reason for Visit	
+
+Owen is a 62 y/o male here for evl of Rx.
+
+
+
+Problems	    
+
+OA	      
+
+LLE-PARTIALLY SEVERED-MULT. SURGERIES	      
+
+IRRIDECTOMY	      
+
+SKIN ULCER-DR ESPOSITO	      
+
+PAST SMOKER	      
+
+HTN	      
+
+
+
+Medications	    
+
+ASA	    PO 
+
+VITAMIN E	    PO QD
+
+ATENOLOL	 25MG PO QD
+
+LIPITOR (ATORVASTATIN)	 10MG 1 Tablet(s) PO QD
+
+
+
+Allergies	    
+
+NKDA	 NONE
+
+
+
+Narrative History	
+
+Takes meds. No SEs. Denies vision change, headache, chest pain, SOB, light head, palptations. Denies loss of balance, strength or sensation. Gets new Unna boot q week. Ulcer slowly getting better. No GI symptoms. No GU symptoms except nocturia x3-4. Vision is fine. 
+
+Exercise-no
+
+Diet- eats too much
+
+Cigs-no
+
+ETOH-no
+
+
+
+Exam	
+
+BP= 126/78, P= 76, Wt= 252; NAD,WD, WN
+
+Head- no tenderness
+
+Neck- supple with no JVD, bruit, LAN or thyromegaly.
+
+Chest- clear A&P     Cor- reg rhythm,S1S2 normal with no murmer, gallop or rub
+
+Abdo- obese; normal BS; soft with no HSM, mass or tenderness. DRE- normal sphincter. Prostate smooth with no nodules and normal consistency. 
+
+Ext- no edema. Pulses intact and symmetric right.  Unna boot left. 
+
+
+
+Assessment	
+
+Doing well. 
+
+
+
+Disposition and Plans	
+
+Cont meds. BMP,PSA, FOBT. FLu vaccine. F/U Dr Esposito. RTC 6 mon or PRN.
+
+
+
+
+
+______________________________                              
+
+
+
+William Seth Potter, M.D.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC7" time="during DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC4" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC9" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC12" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC10" time="before DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC13" time="after DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC14" indicator="not present"/>
+    <SMOKER id="DOC6" status="past"/>
+  </TAGS>
+</root>

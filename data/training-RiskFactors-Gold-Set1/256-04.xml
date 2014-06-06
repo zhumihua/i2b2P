@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2152-08-26
+
+
+	CARDIOLOGY
+	
+
+	VALLEY COUNTY HOSPITAL
+	
+
+Whitney V Keller M.D. 
+052 Penny Lane
+Punta Gorda, OK 98634
+
+Dear Whitney:
+
+  I was pleased to see Michelle Klein this morning for a post hospitalization followup evaluation.  You know Michelle well, she does have coronary artery disease, has had an LAD stent placed in 2148, and had a normal stress sestamibi study in November 2151.  She has moderate mitral insufficiency.  Her left atrial dimension is 52 and RV pressure 42.  She is diabetic and has hypertension.  She was hospitalized with a diarrheal bleeding issue attributed to salmonella infection attributed to tomatoes it also affecting her husband and this was accomplished at the Copley Hospital.
+
+Her medications were modified somewhat.  She presently takes atenolol 50 mg a day, verapamil 120 mg per day, Lipitor 10 mg a day, Diovan 80 mg per day, they held her aspirin and her Imdur, she takes Prilosec 40 mg BID, and metformin 500 mg BID.  Her blood pressure remains high today at 147/70, it had been similar range when I saw her in June this year.  Pending her diarrhea at home, we may need to go back up on some of her medications, but at this point we will change.  She is symptom free vis-a-vie her heart.
+
+Her exam shows no cyanosis, clubbing, or edema.  Normal thyroid, normal neck veins, and arteries.  Clear lungs.  Normal abdomen, nontender, and no mass felt.  Her heart palpates normally.  There were no thrills and no scars.  Her first sound is soft and second is normal.  There is a 1/6 apical mitral insufficiency murmur with positive response to isometrics.  There were no diastolic murmurs.  Blood pressure is 145/70.
+
+The electrocardiogram was normal with trace nonspecific ST flattening.
+
+I will plan to reassess Michelle in four months and she will have a recheck several times a month of her blood pressure at home and she will send diaries to me.  If her blood pressure is continued at home to be in her present level, we will advance her medications to accommodate this.  If there are any questions feel free to call me.
+
+Sincerely yours,
+
+	
+Tony Wilkinson, MD
+
+	
+Signed electronically by  Tony Wilkinson, MD
+Document Status: Final
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC6" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC8" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC13" time="after DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC14" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC15" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC16" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC19" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC20" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC23" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC25" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC26" time="during DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC28" time="during DCT" type1="ARB" type2=""/>
+    <MEDICATION id="DOC29" time="before DCT" type1="ARB" type2=""/>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC24" time="before DCT" indicator="mention"/>
+    <CAD id="DOC12" time="after DCT" indicator="mention"/>
+    <CAD id="DOC18" time="during DCT" indicator="mention"/>
+    <CAD id="DOC22" time="before DCT" indicator="event"/>
+    <CAD id="DOC27" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC17" indicator="not present"/>
+    <SMOKER id="DOC11" status="unknown"/>
+    <DIABETES id="DOC4" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC21" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

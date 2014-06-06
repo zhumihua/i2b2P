@@ -1,0 +1,52 @@
+220-01	1	Record date: 2067-05-03	
+220-01	2	Narrative History	
+220-01	3	55 yo woman who presents for f/u		INDICATION FFF f#6
+220-01	4		
+220-01	5	Seen in Cardiac rehab locally last week and BP 170/80.		INDICATION FFF bp#8
+220-01	6	They called us and we increased her HCTZ to 25 mg from 12.5 mg.		DPN FFF hctz#7	DOSE FFF 25mg#10	DOSE FFF 12.5mg#13
+220-01	7	States her BP's were fine there since - 130-140/70-80.	
+220-01	8	Saw Dr Oakley 4/5/67 - she was happy with results of ETT at Clarkfield.	
+220-01	9	To f/u 7/67.		INDICATION FFF f#1
+220-01	10	No CP's since last admit.	
+220-01	11	Back to work and starting to walk.	
+220-01	12	No wt loss and discouraged by this, but just starting to exercise.	
+220-01	13	No smoking for 3 months now!		DRT FFF 3 months#4
+220-01	14		
+220-01	15	Still with hotflashes, wakes her up at night.		TOD FFF at night#7
+220-01	16	Problems	
+220-01	17	FH breast cancer   37 yo s		INDICATION FFF fh#0	INDICATION FFF cancer#2
+220-01	18	FH myocardial infarction   mother died 66 yo		INDICATION FFF fh#0	INDICATION FFF myocardial infarction#2
+220-01	19	Hypertension		INDICATION FFF hypertension#0
+220-01	20	Uterine fibroids   u/s 2062		INDICATION FFF fibroids#1
+220-01	21	Smoking	
+220-01	22	hyperlipidemia   CRF mild chol, cigs, HTN, Fhx and known hx CAD in pt.		INDICATION FFF hyperlipidemia#0	INDICATION FFF crf#1	INDICATION FFF htn#5	INDICATION FFF cad#10
+220-01	23	borderline diabetes mellitus   4/63 125 , follow hgbaic		INDICATION FFF diabetes mellitus#2
+220-01	24	VPB   2065 - ETT showed freq PVC		INDICATION FFF vpb#0	INDICATION FFF pvc#6
+220-01	25	coronary artery disease   s/p ant SEMI + stent LAD 2/67, Dr Oakley		INDICATION FFF coronary artery disease#2
+220-01	26	thyroid nodule   2065, hot, follow TSH.	
+220-01	27	Medications	
+220-01	28	NORVASC (AMLODIPINE)     5MG  1 Tablet(s) PO QD		DBN FFF norvasc#0	DOSE FFF 5mg#2	DOSEAMT FFF 1 tablet#4	RUT FFF po#5	FREQ FFF qd#6
+220-01	29	PLAVIX (CLOPIDOGREL)   75 MG     PO QD		DBN FFF plavix#0	DOSE FFF 75mg#3	RUT FFF po#4	FREQ FFF qd#5
+220-01	30	ATENOLOL     50MG  1 Tablet(s) PO QD		DIN FFF atenolol#0	DOSE FFF 50mg#1	DOSEAMT FFF 1 tablet#3	RUT FFF po#4	FREQ FFF qd#5
+220-01	31	ASA (ACETYLSALICYLIC ACID)     325MG  1 Tablet(s) PO QD		DIN FFF asa#0	DOSE FFF 325mg#3	DOSEAMT FFF 1 tablet#5	RUT FFF po#6	FREQ FFF qd#7
+220-01	32	ZESTRIL (LISINOPRIL)     40MG  1 Tablet(s) PO QD		DBN FFF zestril#0	DOSE FFF 40mg#2	DOSEAMT FFF 1 tablet#4	RUT FFF po#5	FREQ FFF qd#6
+220-01	33	LIPITOR (ATORVASTATIN)     10MG  1 Tablet(s) PO QD		DBN FFF lipitor#0	DOSE FFF 10mg#2	DOSEAMT FFF 1 tablet#4	RUT FFF po#5	FREQ FFF qd#6
+220-01	34	HCTZ (HYDROCHLOROTHIAZIDE)     25MG  1 Tablet(s) PO QD		DPN FFF hctz#0	DOSE FFF 25mg#2	DOSEAMT FFF 1 tablet#4	RUT FFF po#5	FREQ FFF qd#6
+220-01	35	NITROGLYCERIN 1/150 (0.4 MG)   1 TAB     SL x1  PRN prn CP		DIN FFF nitroglycerin 1/150 ( 0.4 mg )#3	DOSEAMT FFF 1 tab#5	RUT FFF sl#6	FREQ FFF x1#7	NEC FFF prn#8	NEC FFF prn#9	INDICATION FFF cp#10
+220-01	36	Allergies		INDICATION FFF allergies#0
+220-01	37	CECLOR (CEFACLOR)   Rash		DBN FFF ceclor#0
+220-01	38	Vital Signs	
+220-01	39	BLOOD PRESSURE-SITTING   150/70	
+220-01	40	repeat 145/80   HR 60 reg  WT  202 lbs		DRT FFF 145/80 hr#2
+220-01	41	Physical Exam	
+220-01	42	Looks well.	
+220-01	43	Lungs clear,  CVS  RRRs1s2, Ext - no edema		INDICATION FFF edema#7
+220-01	44	Assessment and Plan	
+220-01	45	1. H/M - Pe next appt in few months.		INDICATION FFF pe#3
+220-01	46	Overdue for mammo - will need to stress this.    2.  CAD - cont with cardiac rehab, exercise, Dr Oakley, but doing well.		INDICATION FFF cad#10
+220-01	47	3.  BP - better on increased HCTZ.		INDICATION FFF bp#1	DPN FFF hctz#6
+220-01	48	Check labs next visit, good K recently and on ACEI.    4.  Cigs - great!		INDICATION FFF k#5
+220-01	49	5. Hot flashes - doesn't want to try any other meds - will try to put up with it.		INDICATION FFF hot flashes#2
+220-01	50	6. Hot thyroid nodule - recheck TSH next visit.	
+220-01	51	7. Borderline glc - ok hgba1c 3/67.	
+220-01	52	8.  Chol - ok, fasting on next visit.	

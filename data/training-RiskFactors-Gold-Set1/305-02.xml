@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2086-02-11
+
+February 9, 2086
+
+Wesley Snow, M.D.
+
+Dept of Internal Medicine
+
+Rio Grande State Center
+
+29 Fir Street
+
+Tucson Southeast, TX  27535
+
+
+
+Re:   Neil Robison  #371-97-98
+
+
+
+Dear Wilcox,
+
+
+
+     I saw Mr. Robison today. I hadn't seen him since last year.  I'm very pleased to see how well he's done.  He has had no double vision, no staggering, and no numbness around the mouth.  His speech is a little slurred he says (unchanged).  He walks with a wide-based gait, but is otherwise steady on his feet.  There is no tremor.  His arms and legs are strong.  Extraocular movements are full.  The pupils are equal.  There is no ptosis.  His speech is fluent.
+
+
+
+     He takes one aspirin a day as well Lipitor and some vitamins (the other medicines he doesn't recall but I think you are in the know about).  
+
+
+
+     His blood pressure is 120/80.  The pulse is around 76.  There are no cervical bruits.  
+
+
+
+     From my perspective he is doing well on the aspirin and we should sit tight.  I would like to see him again in a year and at that time we should have our Dopplers again to recheck the flow in the basilar artery. The right vertebral is dominant and the left is occluded.  The left MCA stem was hard to visualize on the imaging.  It may well be occluded with collateralization. The left imaging was in 2082.  He is stable at this time.  He knows to call if he develops any symptoms.
+
+
+
+Best regards,
+
+
+
+
+
+G. Kevin Yawn, M.D.
+
+   
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC5" time="before DCT" type1="aspirin" type2=""/>
+    <FAMILY_HIST id="DOC6" indicator="not present"/>
+    <SMOKER id="DOC7" status="unknown"/>
+  </TAGS>
+</root>

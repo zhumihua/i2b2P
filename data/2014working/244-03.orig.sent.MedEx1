@@ -1,0 +1,101 @@
+244-03||1||Record date: 2092-02-13
+244-03||2||Problems
+244-03||3||Health maintenance
+244-03||4||Depression
+244-03||5||Osteoporosis
+244-03||6||GERD
+244-03||7||HTN
+244-03||8||Interstitial nephritis
+244-03||9||H/O Systemic lupus erythematosis    : Diagnosed 2083 with ANA +, 1:5120 speckled pattern; Anti Ro+.
+244-03||10||Abdominal pain
+244-03||11||H/O Coronary artery disease    : S/p RCA PTCA 12/2082.
+244-03||12||Narrative History
+244-03||13||Pt reutrns for f/u.
+244-03||14||She has not been taking lipitor for several weeks as ran out and did not refull Rx.||DBN FFF lipitor FFF 5 5||DRT FFF several weeks FFF 7 8||INDICATION FFF as FFF 9 9||
+244-03||15||She has had R shoulder pain for about one month.
+244-03||16||Pain is an aching quality, minimally alleviated by tylenol, exacerbated by moving rotating shoulder.||INDICATION FFF pain FFF 0 0||DBN FFF tylenol, FFF 8 8||
+244-03||17||Does not have frozen shoulder or sensation of morning stiffness.
+244-03||18||She is able to continue all IADL activities requiring use of the joint but notes the pain has become increasingly bothersome.
+244-03||19||She notes no weakness of her R arm, no dysesthesias or paresthesias, swelling, or history of injury.
+244-03||20||She has noted burning pain in lower extremities, stocking distribution x 1 year.
+244-03||21||She has pain described as "pins" from bottom of foot extending up both legs.
+244-03||22||She has a burning sensation of both legs that she notices particularly at night.
+244-03||23||Walking does not exacerbate or alleviate this sensation.
+244-03||24||She has not used anything to relieve the discomfort.
+244-03||25||She has no symptoms of claudication, no reported cyanosis of her LE digits, and no LE edema.
+244-03||26||Allergies
+244-03||27||* Celebrex    - SOB : "that triggered her asthma"||DBN FFF celebrex FFF 1 1||INDICATION FFF sob FFF 3 3||INDICATION FFF asthma" FFF 8 8||
+244-03||28||Medications
+244-03||29||Aspirin (ACETYLSALICYLIC Acid)    81 MG,  1 Tablet(s)  PO QD||DIN FFF aspirin FFF 0 0||MDBN FFF (acetylsalicylic acid) FFF 1 2||DOSE FFF 81 mg, FFF 3 4||DOSEAMT FFF 1 tablet(s) FFF 5 6||RUT FFF po FFF 7 7||FREQ FFF qd FFF 8 8||
+244-03||30||Calcium Gluconate    500MG,  2 Tablet(s)  PO x1||DIN FFF calcium gluconate FFF 0 1||DOSE FFF 500mg, FFF 2 2||DOSEAMT FFF 2 tablet(s) FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF x1 FFF 6 6||
+244-03||31||Vitamin D (ERGOCALCIFEROL)      PO QD||DIN FFF vitamin d FFF 0 1||MDBN FFF (ergocalciferol) FFF 2 2||RUT FFF po FFF 3 3||FREQ FFF qd FFF 4 4||
+244-03||32||Nitroglycerin 1/150 (0.4 Mg)    1 TAB SL  : PRN||DIN FFF nitroglycerin 1/150 (0.4 mg) FFF 0 3||DOSEAMT FFF 1 tab FFF 4 5||RUT FFF sl FFF 6 6||NEC FFF prn FFF 8 8||
+244-03||33||Nifedipine (EXTENDED Release)    90MG,  1 Tablet(s)  PO QD||DIN FFF nifedipine FFF 0 0||DDF FFF (extended release) FFF 1 2||DOSE FFF 90mg, FFF 3 3||DOSEAMT FFF 1 tablet(s) FFF 4 5||RUT FFF po FFF 6 6||FREQ FFF qd FFF 7 7||
+244-03||34||HYDROXYCHLOROQUINE   200MG,  1 Tablet(s)  PO BID x 30 day(s)||DIN FFF hydroxychloroquine FFF 0 0||DOSE FFF 200mg, FFF 1 1||
+244-03||34||HYDROXYCHLOROQUINE   200MG,  1 Tablet(s)  PO BID x 30 day(s)||DIN FFF hydroxychloroquine FFF 0 0||DOSEAMT FFF 1 tablet(s) FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF bid FFF 5 5||DRT FFF 30 day(s) FFF 7 8||
+244-03||35||ATENOLOL   50MG,  1 Tablet(s)  PO QD||DIN FFF atenolol FFF 0 0||DOSE FFF 50mg, FFF 1 1||DOSEAMT FFF 1 tablet(s) FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF qd FFF 5 5||
+244-03||36||Protonix (PANTOPRAZOLE)    40MG,  1 Tablet(s)  PO QD x 30 day(s)||DBN FFF protonix FFF 0 0||MDBN FFF (pantoprazole) FFF 1 1||DOSE FFF 40mg, FFF 2 2||DOSEAMT FFF 1 tablet(s) FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF qd FFF 6 6||DRT FFF 30 day(s) FFF 8 9||
+244-03||37||PREDNISONE   10MG,  1 Tablet(s)  PO QD x 30 day(s)||DIN FFF prednisone FFF 0 0||DOSE FFF 10mg, FFF 1 1||
+244-03||37||PREDNISONE   10MG,  1 Tablet(s)  PO QD x 30 day(s)||DIN FFF prednisone FFF 0 0||DOSEAMT FFF 1 tablet(s) FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF qd FFF 5 5||DRT FFF 30 day(s) FFF 7 8||
+244-03||38||Isosorbide Dinitrate    30MG,  1 Tablet(s)  PO QD||DIN FFF isosorbide dinitrate FFF 0 1||DOSE FFF 30mg, FFF 2 2||DOSEAMT FFF 1 tablet(s) FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF qd FFF 6 6||
+244-03||39||Vioxx (ROFECOXIB)    25MG,  1 Tablet(s)  PO QD x 90 day(s)||DBN FFF vioxx FFF 0 0||MDBN FFF (rofecoxib) FFF 1 1||DOSE FFF 25mg, FFF 2 2||DOSEAMT FFF 1 tablet(s) FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF qd FFF 6 6||DRT FFF 90 day(s) FFF 8 9||
+244-03||40||Amitriptyline Hcl    25MG,  1 Tablet(s)  PO QHS x 90 day(s)||DIN FFF amitriptyline hcl FFF 0 1||DOSE FFF 25mg, FFF 2 2||
+244-03||40||Amitriptyline Hcl    25MG,  1 Tablet(s)  PO QHS x 90 day(s)||DIN FFF amitriptyline hcl FFF 0 1||DOSEAMT FFF 1 tablet(s) FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF qhs FFF 6 6||DRT FFF 90 day(s) FFF 8 9||
+244-03||41||Lipitor (ATORVASTATIN)    20MG,  1 Tablet(s)  PO QD x 90 day(s)||DBN FFF lipitor FFF 0 0||MDBN FFF (atorvastatin) FFF 1 1||DOSE FFF 20mg, FFF 2 2||DOSEAMT FFF 1 tablet(s) FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF qd FFF 6 6||DRT FFF 90 day(s) FFF 8 9||
+244-03||42||Review of Systems
+244-03||43||Thirteen point ROS is negative in detail except as noted in the HPI.
+244-03||44||Vital Signs
+244-03||45||BLOOD PRESSURE   120/64 Left Arm
+244-03||46||PULSE   68 Regular
+244-03||47||RESPIRATORY RATE   14 Regular
+244-03||48||WEIGHT   202 lb
+244-03||49||Physical Exam
+244-03||50||Looks stated age, cushingoid habitus w/ moon facies, well groomed, NAD.
+244-03||51||HEENT - PERRL, EOMI.
+244-03||52||Sclerae anicteric, conjunctivae pale.
+244-03||53||No sinus tenderness.
+244-03||54||Oropharynx moist, dentition good, no oral lesions.
+244-03||55||Neck supple, no LAN, no masses.
+244-03||56||Chest - CTA B.
+244-03||57||CV - RRR. Nl S1, S2; distant heart sounds.
+244-03||58||No MRG.
+244-03||59||JVP flat. DP 2+ B.
+244-03||60||Abd - NABS, TTP LUQ w/ mild rebound, no guarding.
+244-03||61||Ext - No edema, cyanosis, clubbing.
+244-03||62||FROM B.
+244-03||63||No evidence of capsulitis of R shoulder.
+244-03||64||Has pain with cross over manouver and impingement sign.
+244-03||65||Tender to palpation along anterior aspect of acromioclavicular joint.
+244-03||66||Pulses in LE are R DP 1+ PT 2+; L DP 2+ PT 2+.
+244-03||67||Health Maintenance
+244-03||68||Influenza Vaccine   10/23/2091 Lot #771830||DIN FFF influenza vaccine FFF 0 1||DOSE FFF 10/23/2091 FFF 2 2||DISA FFF #771830 FFF 4 4||
+244-03||69||Right Arm
+244-03||70||Breast Exam   03/27/2090    Bil fibrocystic appearance without dominant mass or nipple discharge.
+244-03||71||No axillary lymphadenopathy or assymetry.
+244-03||72||No skin changes.
+244-03||73||Cholesterol   03/27/2090 156  DESIRABLE: <200
+244-03||74||Pap Smear   08/14/2091 See report in Results
+244-03||75||UA-Protein   11/30/2091 1+
+244-03||76||HBA1C   12/14/2091 6.90
+244-03||77||Triglycerides   03/27/2090 129||DIN FFF triglycerides FFF 0 0||DOSE FFF 03/27/2090 FFF 1 1||
+244-03||78||Cholesterol-LDL   01/07/2088 88
+244-03||79||Bone Density   05/18/2091 BMD-Hip
+244-03||80||Hct (Hematocrit)   12/13/2091 39.0
+244-03||81||Cholesterol-HDL   03/27/2090 42
+244-03||82||Assessment and Plan
+244-03||83||1. Shoulder pain.
+244-03||84||Impingement sign, pain with cross over manouver, and pain with use of shoulder to extend arm are consistent with rotator cuff injury.
+244-03||85||Check shoulder films to exclude acromioclavicular injury or degenerative process.
+244-03||86||Renew Vioxx prescription (avoiding NSAIDs) in this patient on prednisone, at risk for gastritis.||DBN FFF vioxx FFF 1 1||
+244-03||86||Renew Vioxx prescription (avoiding NSAIDs) in this patient on prednisone, at risk for gastritis.||DIN FFF nsaids) FFF 4 4||
+244-03||86||Renew Vioxx prescription (avoiding NSAIDs) in this patient on prednisone, at risk for gastritis.||DIN FFF prednisone, FFF 9 9||INDICATION FFF risk FFF 11 11||INDICATION FFF gastritis. FFF 13 13||
+244-03||87||2. CAD.
+244-03||88||Pt had negative stress MIBI in 12/91 and has not had cardiology follow up for multiple years.
+244-03||89||She is being referred to the Internal Medicine ward service for consultation.
+244-03||90||Specifically, she remains on a nitrate (isordil) which may exacerbate GERD.||DIN FFF nitrate FFF 5 5||MDBN FFF (isordil) FFF 6 6||INDICATION FFF gerd. FFF 10 10||
+244-03||91||She also merits being placed on an ACE inhibitor to prevent reinfarction.||DIN FFF ace inhibitor FFF 7 8||
+244-03||91||She also merits being placed on an ACE inhibitor to prevent reinfarction.||DIN FFF prevent FFF 10 10||
+244-03||92||She is well beta blocked and her BP is well controlled by the current regimen of atneolol and isordil.||INDICATION FFF her bp FFF 6 7||DBN FFF isordil. FFF 18 18||
+244-03||93||Checking fasting lipids.
+244-03||94||3. SLE.
+244-03||95||She is being followed by Dr.

@@ -1,0 +1,13 @@
+282-04	20	0	time.  He continues on aspirin, Lasix 60 mg a day, Isordil 40 mg	aspirin, FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+282-04	20	0	time.  He continues on aspirin, Lasix 60 mg a day, Isordil 40 mg	lasix FFF 5 5	60 mg FFF 6 7	 FFF 	 FFF 	a day, FFF 8 9	 FFF 	narrative
+282-04	20	0	time.  He continues on aspirin, Lasix 60 mg a day, Isordil 40 mg	isordil FFF 10 10	40 mg FFF 11 12	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+282-04	21	0	p.o. t.i.d., Zestril 40 mg a day, Lopressor 100 mg b.i.d.,	zestril FFF 2 2	40 mg FFF 3 4	 FFF 	 FFF 	a day, FFF 5 6	 FFF 	narrative
+282-04	21	0	p.o. t.i.d., Zestril 40 mg a day, Lopressor 100 mg b.i.d.,	lopressor FFF 7 7	100 mg FFF 8 9	 FFF 	b.i.d., FFF 10 10	 FFF 	 FFF 	narrative
+282-04	22	0	simvastatin 20 mg a day, Norvasc 5 mg p.o. b.i.d., Prevacid,	simvastatin FFF 0 0	20 mg FFF 1 2	 FFF 	 FFF 	a day, FFF 3 4	 FFF 	narrative
+282-04	22	0	simvastatin 20 mg a day, Norvasc 5 mg p.o. b.i.d., Prevacid,	norvasc FFF 5 5	5 mg FFF 6 7	p.o. FFF 8 8	b.i.d., FFF 9 9	 FFF 	 FFF 	narrative
+282-04	22	0	simvastatin 20 mg a day, Norvasc 5 mg p.o. b.i.d., Prevacid,	prevacid, FFF 10 10	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+282-04	23	0	multivitamins, and K-Dur in addition to his insulin.	multivitamins, FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+282-04	23	0	multivitamins, and K-Dur in addition to his insulin.	k-dur FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+282-04	23	0	multivitamins, and K-Dur in addition to his insulin.	insulin. FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+282-04	41	0	actually taking his Isordil b.i.d., and I will let him continue	isordil FFF 3 3	 FFF 	 FFF 	b.i.d., FFF 4 4	 FFF 	 FFF 	narrative
+282-04	43	0	We will increase his Norvasc to 10 mg, and he will be following up with you within the next few weeks.	norvasc FFF 4 4	10 mg, FFF 6 7	 FFF 	 FFF 	 FFF 	 FFF 	narrative

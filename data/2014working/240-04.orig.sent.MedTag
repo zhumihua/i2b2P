@@ -1,0 +1,98 @@
+240-04	1	Record date: 2097-01-12	
+240-04	2	CARDIOLOGY	
+240-04	3		
+240-04	4	YORK CONVALESCENT HOSPITAL	
+240-04	5		
+240-04	6	Reason for visit:	
+240-04	7	s/p proximal Lad stent today	
+240-04	8	Interval History:	
+240-04	9	Mr Innis is a 77 y.o male with a history of hypertension, hyperlipidemia and CAD.		INDICATION FFF hypertension#11	INDICATION FFF hyperlipidemia#12	INDICATION FFF cad#14
+240-04	10	His cardiac history dates back to March 2095 when he experienced dyspnea and exertional chest pressure that radiated to his jaw and arms.		INDICATION FFF dyspnea#11	INDICATION FFF pressure#15
+240-04	11	Cardiac catheterization at that time showed LAD disease and he underwent PTCA/Taxus stent to his LAD.		INDICATION FFF cardiac catheterization#1
+240-04	12	He did well until August 2096 when he presented with a dull mid scapular discomfort that radiated to his upper chest.		DRT FFF until#3
+240-04	13	These symptoms were accompanied by diaphoresis, dyspnea and transient blurry vision.		INDICATION FFF symptoms#1	INDICATION FFF dyspnea#6
+240-04	14	After evaluation and clearance by Neurology he underwent another cardiac catheterization.		INDICATION FFF cardiac catheterization#10
+240-04	15	Catheterization revealed his LAD stent was patent but he had a 90% lesion proximal to the stent.		DOSE FFF 90%#11	INDICATION FFF stent .#16
+240-04	16	He had PTCA/Vision stent to his LAD.	
+240-04	17	Since 11/19/2096 he has had complaints of increasing dyspnea on exertion and chest pressure.		INDICATION FFF dyspnea#8	INDICATION FFF pressure#13
+240-04	18	He was treated with antibiotics and prednisone with relief of his dyspnea.		DIN FFF antibiotics#4	DIN FFF prednisone#6	INDICATION FFF dyspnea#11
+240-04	19	He continues with daily exertional chest discomfort that resolves with rest and sl nitroglycerin.		FREQ FFF daily#3	RUT FFF sl#12	DIN FFF nitroglycerin#13
+240-04	20	Today he presented for elective cardiac catheterization which show ed a proximal 90% occlusion and mild In stent restenosis.		INDICATION FFF cardiac catheterization#6	INDICATION FFF ed#9	DOSE FFF 90%#12
+240-04	21	He had a cypher stent placed in his LAD.		INDICATION FFF cypher stent#4
+240-04	22	He arrived in Cardiology pain free and hemodynamically stable.		INDICATION FFF pain#4
+240-04	23	Past medical history:	
+240-04	24	CAD		INDICATION FFF cad#0
+240-04	25	Hypertension		INDICATION FFF hypertension#0
+240-04	26	Hyperlipidemia		INDICATION FFF hyperlipidemia#0
+240-04	27	BPH		INDICATION FFF bph#0
+240-04	28	COPD		INDICATION FFF copd#0
+240-04	29	CVA with no residual.		INDICATION FFF cva#0
+240-04	30	PSH: lipoma removed from his upper back	
+240-04	31	Allergies: NKDA		INDICATION FFF allergies#0
+240-04	32	Medications:	
+240-04	33	simvastatin 80mg po qpm		DIN FFF simvastatin#0	DOSE FFF 80mg#1	RUT FFF po#2	FREQ FFF qpm#3
+240-04	34	advair 500/50 mcg 1 puff bid		DBN FFF advair#0	DOSE FFF 500/50mcg#2	DOSEAMT FFF 1 puff#4	FREQ FFF bid#5
+240-04	35	combivent 120/21 mcg inh 2 puffs qid		DBN FFF combivent#0	DOSE FFF 120/21mcg#2	RUT FFF inh#3	DOSEAMT FFF 2 puffs#5	FREQ FFF qid#6
+240-04	36	aspirin 325 mg po daily		DIN FFF aspirin#0	DOSE FFF 325mg#2	RUT FFF po#3	FREQ FFF daily#4
+240-04	37	furosemide 20 mg po daily		DIN FFF furosemide#0	DOSE FFF 20mg#2	RUT FFF po#3	FREQ FFF daily#4
+240-04	38	isosorbide mononitrite 60 mg SR 1 1/2 tabs daily		DIN FFF isosorbide#0	DOSE FFF 60mg#3	DOSEAMT FFF 1/2 tabs#7	FREQ FFF daily#8
+240-04	39	lisinopril 40 mg po q pm		DIN FFF lisinopril#0	DOSE FFF 40mg#2	RUT FFF po#3	FREQ FFF q pm#5
+240-04	40	Kdur 20 Meq po daily		DOSE FFF 20meq#2	RUT FFF po#3	FREQ FFF daily#4
+240-04	41	norvasc 5 mg po daily		DBN FFF norvasc#0	DOSE FFF 5mg#2	RUT FFF po#3	FREQ FFF daily#4
+240-04	42	plavix 75 mg po daily		DBN FFF plavix#0	DOSE FFF 75mg#2	RUT FFF po#3	FREQ FFF daily#4
+240-04	43	proscar 5 mg po qam		DBN FFF proscar#0	DOSE FFF 5mg#2	RUT FFF po#3	FREQ FFF qam#4
+240-04	44	terazosin 10 mg po qpm		DIN FFF terazosin#0	DOSE FFF 10mg#2	RUT FFF po#3	FREQ FFF qpm#4
+240-04	45	singulair 10 mg po qhs		DBN FFF singulair#0	DOSE FFF 10mg#2	RUT FFF po#3	FREQ FFF qhs#4
+240-04	46	toprol xl 75 mg po daily		DPN FFF toprol xl#1	DOSE FFF 75mg#3	RUT FFF po#4	FREQ FFF daily#5
+240-04	47	Family history:	
+240-04	48	Father died at 78	
+240-04	49	Mother died at 80	
+240-04	50	8 sibs - all alive without CAD.		INDICATION FFF cad#6
+240-04	51	Social history:	
+240-04	52	Married with 5 grown children, Lives in Redland, LA	
+240-04	53	retired Engineering Inspector.	
+240-04	54	His son in law fell 6 weeks ago and is trached at Duluth Clinic.		DRT FFF 6 weeks#6
+240-04	55	Tobacco - quit in 2060's, former 1 ppd x 20 years		FREQ FFF x 20#9
+240-04	56	ETOH - rare	
+240-04	57	caffeine: 2-3 cups of coffee/day		DIN FFF caffeine#0
+240-04	58	exercise: no formal	
+240-04	59	Review of systems:	
+240-04	60	Denies headache, dizziness, TIA's, palpitations, GERD, diabetes, anemia, bleeding disorder, thyroid disease, renal disease  up to void 2-4 times/night  emotionally upset about his son-in-law		INDICATION FFF headache#1	INDICATION FFF dizziness#2	INDICATION FFF gerd#5	INDICATION FFF diabetes#6	INDICATION FFF anemia#7	INDICATION FFF bleeding#8	INDICATION FFF renal disease#13
+240-04	61	Physical examination:	
+240-04	62		
+240-04	63	-BMI: 33.7  Obese, high risk		INDICATION FFF obese#2	INDICATION FFF risk#4
+240-04	64	-Pulse: 65	
+240-04	65	-resp. rate: 18	
+240-04	66	-height: 64  in.	
+240-04	67	-weight: 196  lbs.		INDICATION FFF weight#0
+240-04	68	-General:   Pleasant male lying in bed, teary at times.	
+240-04	69	-Chest:   Bilateral breath sounds clear anteriorly	
+240-04	70	-Cardiac:   Normal S1 and S2, without S3, S4 ro murmur.	
+240-04	71	No JVD.	
+240-04	72	Carotids brisk bilaterally without bruits. -Abdomen:   Obese, soft NT active BS throughout.  + umbilical hernia -Extremities:   Right femoral arterial sheath in place. +PPP,  trace pedal edema		INDICATION FFF obese#6	INDICATION FFF bs#10	INDICATION FFF ppp#22	INDICATION FFF edema#25
+240-04	73	-Neuro:   A&amp;O, grossly non-focal.	
+240-04	74	-BP: 135/60		INDICATION FFF bp#0
+240-04	75	EKG:	
+240-04	76	1/12/97 NSR 61 PR.18  QRS .08	
+240-04	77	unchanged from EKG 12/09/96	
+240-04	78	Selected recent labs:	
+240-04	79	Metabolic	
+240-04	80	Date     K        BUN      CRE      GLU		INDICATION FFF k#1	DIN FFF glu#4
+240-04	81	01/07/97 4.6      24       1.2      115	
+240-04	82	Lipid/Thyroid	
+240-04	83	Date     CHOL     TRIG     HDL      LDL		INDICATION FFF ldl#4
+240-04	84	12/14/96 175      69       76       85	
+240-04	85	Hematology	
+240-04	86	Date     HCT      WBC      PLT	
+240-04	87	01/07/97 31.8     7.0      235	
+240-04	88		
+240-04	89	Assessment and plan:	
+240-04	90	77 y.o male with hypertension, hyperlipidemia and previous cardiac stenting to LAD.		INDICATION FFF hypertension#4	INDICATION FFF hyperlipidemia#5
+240-04	91	Now with six week history of exertional chest pressure and dyspnea that continues despite changes in his medical regimen.		DRT FFF six week#3	INDICATION FFF pressure#8	INDICATION FFF dyspnea#10	DBN FFF medical regimen#18
+240-04	92	Today cardiac catheterization showed 90% proximal Lad lesion and some in stent restenosis and he had a PTCA/Cypher stent to his LAD.		INDICATION FFF cardiac catheterization#2	DOSE FFF 90%#4	INDICATION FFF cypher stent#18
+240-04	93	Plan:	
+240-04	94	CV: Hemodynamically stable, will resume all medications at previous doses	
+240-04	95	D/c femoral sheath once PTT &lt; 60, then bedrest x 6 hours		INDICATION FFF ptt#4	FREQ FFF x 6#10
+240-04	96	continue Aspirin and plavix indefinitely		DIN FFF aspirin#1	DBN FFF plavix#3
+240-04	97	check cbc, bun, cr, lytes, mg trop and Ck in am.		TOD FFF am#10
+240-04	98	He had fasting lipids less than a month ago so will defer.		DRT FFF a month#7

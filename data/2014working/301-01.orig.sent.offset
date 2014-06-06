@@ -1,0 +1,12 @@
+301-01	9	0	ARF during transplant admission, peak Crea 2.9. Post-tx Creatinine 1.8    2.0. Slow rise to 2.5 in 6/74, then episode of low blood pressure and fatigue.	rise FFF 12 12	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+301-01	10	0	Cellcept and Norvasc were stopped.	cellcept FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+301-01	10	0	Cellcept and Norvasc were stopped.	norvasc FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+301-01	11	0	Crea rise from 1.8 to 3.3, yesterday 3.0.	rise FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+301-01	21	0	Neoral 150/175 bid, Prednison 15 qod, Bactrim SS tiw, Acyclovir 200 bid, Lipitor 40, Atenolol 50, MgGluconate 500 tid, Ca 600 bid, Vit D 50,000, Reglan 10 tid.	neoral FFF 0 0	150/175 FFF 1 1	 FFF 	bid, FFF 2 2	 FFF 	 FFF 	narrative
+301-01	21	0	Neoral 150/175 bid, Prednison 15 qod, Bactrim SS tiw, Acyclovir 200 bid, Lipitor 40, Atenolol 50, MgGluconate 500 tid, Ca 600 bid, Vit D 50,000, Reglan 10 tid.	bactrim ss FFF 6 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+301-01	21	0	Neoral 150/175 bid, Prednison 15 qod, Bactrim SS tiw, Acyclovir 200 bid, Lipitor 40, Atenolol 50, MgGluconate 500 tid, Ca 600 bid, Vit D 50,000, Reglan 10 tid.	acyclovir FFF 9 9	200 FFF 10 10	 FFF 	bid, FFF 11 11	 FFF 	 FFF 	narrative
+301-01	21	0	Neoral 150/175 bid, Prednison 15 qod, Bactrim SS tiw, Acyclovir 200 bid, Lipitor 40, Atenolol 50, MgGluconate 500 tid, Ca 600 bid, Vit D 50,000, Reglan 10 tid.	lipitor FFF 12 12	40, FFF 13 13	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+301-01	21	0	Neoral 150/175 bid, Prednison 15 qod, Bactrim SS tiw, Acyclovir 200 bid, Lipitor 40, Atenolol 50, MgGluconate 500 tid, Ca 600 bid, Vit D 50,000, Reglan 10 tid.	atenolol FFF 14 14	50, FFF 15 15	 FFF 	tid, FFF 18 18	 FFF 	 FFF 	narrative
+301-01	21	0	Neoral 150/175 bid, Prednison 15 qod, Bactrim SS tiw, Acyclovir 200 bid, Lipitor 40, Atenolol 50, MgGluconate 500 tid, Ca 600 bid, Vit D 50,000, Reglan 10 tid.	vit d FFF 22 23	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+301-01	21	0	Neoral 150/175 bid, Prednison 15 qod, Bactrim SS tiw, Acyclovir 200 bid, Lipitor 40, Atenolol 50, MgGluconate 500 tid, Ca 600 bid, Vit D 50,000, Reglan 10 tid.	reglan FFF 25 25	10 FFF 26 26	 FFF 	tid. FFF 27 27	 FFF 	 FFF 	narrative
+301-01	22	0	Pamidronate IV q3months	pamidronate FFF 0 0	 FFF 	iv FFF 1 1	q3months FFF 2 2	 FFF 	 FFF 	narrative

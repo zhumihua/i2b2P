@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2112-01-17
+
+ CC:  Follow-up labs/MRI
+
+HPI:  49 y.o. female with h/o diabetes who had meds resumed on last visit.  She is unable to check her blood sugar due to unable to afford strips and insurance will not pay for them.  She was started on pravachol for hyperlipidemia and lisinopril for microalbuminuira on last visit without side effect to meds.  She had an MRI of hips which shows mild DJD and arterial noninvasives showing mild disease on the right and moderate on the left.  Mammogram was negative.  She continues to smoke but is done to one pack/day from two pack/day.  She denies any chest pain, shortness of breath or palpitations.  She has difficulty walking long distances due to claudication.
+
+Problems
+Peripheral vascular disease   
+Diabetes mellitus type 2   
+Hyperlipidemia   
+Claudication   
+
+Medications
+Claritin (LORATADINE) 10 MG (10MG TABLET take 1) PO QD x 30 days 
+Glipizide Xl (GLIPIZIDE Xl) 10 MG (10MG TAB OSM 24 take 1) PO QD x 30 days 
+IBUPROFEN 800 MG (800MG TABLET take 1) PO TID PRN pain x 30 days, Take with food or milk. 
+LISINOPRIL 2.5 MG (2.5MG TABLET take 1) PO QD x 30 days 
+METFORMIN 500 MG (500MG TABLET take 1) PO BID x 30 days 
+Pravastatin (PRAVASTATIN) 10 MG (10MG TABLET take 1) PO QHS x 30 days 
+Tylenol #3 (ACETAMINOPHEN W/codeine 30mg) 1 TAB PO Q6H x 21 days, Do not drive, drink alcohol with this medication. 
+
+Allergies
+NKA   
+
+Family/social History
+Coronary Artery Disease  Relative: Brother; Comments: H/o 4V CABG 
+Bone Cancer Relative: Father; Age of Onset: 53; Living: No  
+Uterine Cancer Relative: Mother; Age of Onset: 46; Living: No  
+Diabetes Mellitus Type 2 Relative: Brother;Relative: Sister;Relative: Grandfather, maternal; 
+
+Health Maint
+Smoking status 01/17/2112  Current smoker  Last Counsel date: 01/17/2112, No Of Cigarettes Smoked per Day: 10-19 CIG/DAY (1/2-1 ppd), Readiness to Change: Ready to quit now 
+Mammogram 01/11/2112 see report in Results    
+Pap Smear 09/28/99 see report in Results    
+Pneumovax 12/26/2111     
+
+Flowsheets
+BLOOD PRESSURE 110/72  
+PULSE 78  
+WEIGHT 207 lb 
+AGE 49y7.7m  
+
+EXAM:  Deferred.
+
+A/P:  1.  PVD.  Start walking program, d/c tobacco, cholesterol, diabetes and hypertension control.  Start Pletal.  Will also evaluate for CAD given multiple risk factors.  Check EKG and schedule nonexercise stress test. 
+2.  Diabetes.  Continue current meds and check labs at f/u visit in 2 months.  Referral for eye exam.
+3.  Hyperlipidemia.  Continue on Pravachol and check last at next visit.
+4.  Tobacco use.  Pt advised to d/c tobacco.  She wants to try on her own and if no success will consider supplemental therapies.
+
+
+
+
+_____________________________________________
+Grace C. Valerie-Yun, M.D.
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC15" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC16" time="before DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC5" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC9" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC12" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC13" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC14" time="before DCT" type1="metformin" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="sulfonylureas" type2=""/>
+    <FAMILY_HIST id="DOC10" indicator="present"/>
+    <SMOKER id="DOC17" status="current"/>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC11" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC19" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>

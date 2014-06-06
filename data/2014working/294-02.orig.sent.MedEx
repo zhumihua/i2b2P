@@ -1,0 +1,113 @@
+294-02	1	Record date: 2094-12-02		 
+294-02	2	CARDIOLOGY		 
+294-02	3			 
+294-02	4	BAPTIST MEMORIAL HOSPITAL		 
+294-02	5			 
+294-02	6	Reason for visit:		 
+294-02	7	coronary artery disease, hypertension, hyperlipidemia, history of syncope		 
+294-02	8	Interval History:		 
+294-02	9	Mr. Shepherd is a 79 year old man with coronary artery disease, hypertension, diabetes mellitus type 2, hyperlipidemia, carotid disease, and peripheral vascular disease who was admitted to the medicine service in June, 2094, for syncope and now returns for cardiology followup.		 
+294-02	10	To summarize, in June, the patient was admitted after experiencing several syncopal episodes.		 
+294-02	11	They were associated with a prodrome of lightheadedness and weakness that sometimes occurred with positional changes and at other times at rest.		 
+294-02	12	He denied associated chest pain, palpitations, diaphoresis, vertigo, focal neurologic weakness, dysphagia, diplopia or blurry vision occur during the episodes.		 
+294-02	13	These spells lasted about 4-5 minutes and there were no incontinence, post-ictal symptoms, or tonic-clonic movements.		 
+294-02	14	His workup included a surface echocardiogram that showed an ejection fraction of 59% but with inferior wall motion abnormalities.		 
+294-02	15	A subsequent adenosine MIBI showed mild inferolateral ischemia and a cardiac catheterization showed 40% ostial RCA disease and a 75% lesion in a small diameter distal PLV.		DIN FFF adenosine#2	INDICATION FFF ischemia#7	INDICATION FFF cardiac catheterization#11	DOSE FFF 40%#13	DOSE FFF 75%#19
+294-02	16	The culprit lesion was felt to be non-intervenable and the patient was started on medical therapy.		 
+294-02	17	During his admission, his telemetry showed a twelve beat run of non-sustained ventricular tachycardia and so the electrophysiology service was called.		 
+294-02	18	He underwent an electrophysiology study which was nondiagnostic and a REVEAL monitor was implanted.		 
+294-02	19	Prior to his discharge, the patient exhibited features of depression with psychotic features and he was ultimately transferred to the in-patient psychiatry unit for about four weeks.		 
+294-02	20	Today, he presents with no acute complaints.		 
+294-02	21	He denies chest pain, dyspnea, or palpitations.		 
+294-02	22	He   s had no further fainting spells and reports that his last REVEAL interrogation was unremarkable.		 
+294-02	23	His claudication is at his baseline.		 
+294-02	24	He walks at a mall for 30 minutes to 1 hour before he experiences a "tired" sensation in both legs.		 
+294-02	25	He is followed in the vascular clinic at the FHV medical center.		 
+294-02	26	Also of note, he underwent a repair of a right inguinal hernia in October of 2094 by Dr.		 
+294-02	27	Small without complications.		 
+294-02	28	Past medical history:		 
+294-02	29	Coronary artery disease		 
+294-02	30	*status post cardiac catheterization showing 40% ostial RCA disease and distal PLV disease		 
+294-02	31	*medical therapy, no intervention		 
+294-02	32	Diabetes mellitus, type 2		 
+294-02	33	Hypertension		 
+294-02	34	Hyperlipidemia		 
+294-02	35	Benign prostatic hypertrophy		 
+294-02	36	Right external carotid stenosis		 
+294-02	37	Peripheral vascular disease with claudication		 
+294-02	38	*followed at FHV vascular clinic		 
+294-02	39	Glaucoma		 
+294-02	40	Ventral hernia		 
+294-02	41			 
+294-02	42	Allergies:		 
+294-02	43			 
+294-02	44	No known allergies		 
+294-02	45	Medications (Confirmed):		 
+294-02	46			 
+294-02	47	ASA  325mg po daily		DIN FFF asa#0	DOSE FFF 325mg#1	RUT FFF po#2	FREQ FFF daily#3
+294-02	48	brimonidine  0.2% x 1 drop ou bid		DIN FFF brimonidine#0	DOSE FFF 0.2%#1	FREQ FFF x 1#3	RUT FFF ou#5	FREQ FFF bid#6
+294-02	49	Cardura  4mg po daily		DBN FFF cardura#0	DOSE FFF 4mg#1	RUT FFF po#2	FREQ FFF daily#3
+294-02	50	Cymbalta  60mg po daily		DBN FFF cymbalta#0	DOSE FFF 60mg#1	RUT FFF po#2	FREQ FFF daily#3
+294-02	51	Removed - Lasix  20mg po daily		DBN FFF lasix#2	DOSE FFF 20mg#3	RUT FFF po#4	FREQ FFF daily#5
+294-02	52	lisinopril  40mg po daily		DIN FFF lisinopril#0	DOSE FFF 40mg#1	RUT FFF po#2	FREQ FFF daily#3
+294-02	53	MiraLax  17g PO daily		DBN FFF miralax#0	DOSE FFF 17g#1	RUT FFF po#2	FREQ FFF daily#3
+294-02	54	Pletal  100mg PO bid		DBN FFF pletal#0	DOSE FFF 100mg#1	RUT FFF po#2	FREQ FFF bid#3
+294-02	55	senna  2tabs PO bedtime		DIN FFF senna#0	DOSEAMT FFF 2 tabs#1	RUT FFF po#2	TOD FFF bedtime#3
+294-02	56	Toprol XL  100mg po daily		DPN FFF toprol xl#1	DOSE FFF 100mg#2	RUT FFF po#3	FREQ FFF daily#4
+294-02	57	Zocor  80mg po qpm		DBN FFF zocor#0	DOSE FFF 80mg#1	RUT FFF po#2	FREQ FFF qpm#3
+294-02	58	Zyprexa  3.75mg po at bedtime		DBN FFF zyprexa#0	DOSE FFF 3.75mg#1	RUT FFF po#2	TOD FFF at bedtime#4
+294-02	59	Family history:		 
+294-02	60	Mom MI at age 63; grandson w/ h/o sudden LOC at age 16 with negative w/u by peds; otherwise, no h/o sudden death.		 
+294-02	61	Social history:		 
+294-02	62	Retired Archive Manager who lives with wife; has 6 children		 
+294-02	63	HRB: quit smoking 20 years ago 40 pack-yr smoking history; no EtOH; no drugs		DRT FFF 20 years#4	DIN FFF drugs#13
+294-02	64	Review of systems:		 
+294-02	65	General: unremarkable		 
+294-02	66	Skin: unremarkable		 
+294-02	67	HEENT: unremarkable		 
+294-02	68	Respiratory: unremarkable		 
+294-02	69	Cardiovascular: see above		 
+294-02	70	Gastrointestinal: unremarkable		 
+294-02	71	Genitourinary: nocturia		 
+294-02	72	Endocrine: unremarkable		 
+294-02	73	Musculoskeletal: unremarkable		 
+294-02	74	Neurologic: unremarkable		 
+294-02	75	Psychiatric: unremarkable		 
+294-02	76	Physical examination:		 
+294-02	77			 
+294-02	78	-BMI: 30.2  Obese, high risk		 
+294-02	79	-Pulse: 56  regular		 
+294-02	80	-resp. rate: 100%  room air		 
+294-02	81	-height: 68  in.		 
+294-02	82	-weight: 198  lbs.		 
+294-02	83	-General:   pleasant and in no distress		 
+294-02	84	-Skin:   unremarkable		 
+294-02	85	-HEENT:   PERRL EOMI OP clear		 
+294-02	86	-Neck:   bilateral carotid bruits; JVP~5 cm normal contours, no Kussmaul's		 
+294-02	87	-Chest:   CTAB no dullness		 
+294-02	88	-Cardiac:   Left ventricular impulse discrete and nondisplaced.		 
+294-02	89	Regular rate and rhythm, normal S1 and S2, with no S3 or S4.		 
+294-02	90	There were no murmurs, clicks or rubs. -Abdomen:   soft NTND +BS, ventral hernia -Extremities:   2+ femorals bilateral without bruits; 1+ pitting ankle edema with trace DP pulses bilaterally and no foot ulcers		 
+294-02	91	-BP: 130/80  both arms		 
+294-02	92	EKG:		 
+294-02	93	sinus bradycardia at 56 with PACs LAFB and IVCD with secondary nonspecific ST T wave abnormalities; compared with the prior tracing, his heart rate has decreased by 30		 
+294-02	94	Assessment and plan:		 
+294-02	95	79 year old man with known coronary artery disease and risk factors of hypertension, diabetes mellitus, hyperlipidemia, carotid disease, and PVD who has a history of syncope.		 
+294-02	96	He's had no recent episodes and is currently being monitored via a REVEAL monitor.		 
+294-02	97	He is on medical therapy for coronary artery disease.		 
+294-02	98	Problem list:		 
+294-02	99	1. Syncope - no recent episodes, being monitored with implanted loop recorder		 
+294-02	100	2. Coronary artery disease in RCA and distal PLV on medical therapy		 
+294-02	101	- aspirin 325		DIN FFF aspirin#1
+294-02	102	- lisinopril 40		DIN FFF lisinopril#1
+294-02	103	- toprol XL 100		DPN FFF toprol xl#2
+294-02	104	- zocor 80 (last LDL 51)		DBN FFF zocor#1	DOSE FFF 80#2	INDICATION FFF ldl#4
+294-02	105	3. peripheral vascular disease		 
+294-02	106	- pletal (last echo EF normal)		DBN FFF pletal#1	INDICATION FFF ef#4
+294-02	107	- statins		DIN FFF statins#1
+294-02	108	- followed in vascular clinic at the FHV		 
+294-02	109	4. mild lower extremity edema, no evidence of JVD.		 
+294-02	110	Consider lasix if worsening.		DBN FFF lasix#1
+294-02	111	Other problems:		 
+294-02	112	Diabetes mellitus, type 2		 
+294-02	113	Hypertension		 

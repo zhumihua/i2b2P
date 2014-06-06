@@ -1,0 +1,42 @@
+332-04||1||Record date: 2097-10-31
+332-04||2||INTERNAL MEDICINE ASSOCIATES
+332-04||3||ROSELAND COMMUNITY HOSPITAL
+332-04||4||Reason for visit
+332-04||6||f/u high blood sugar||INDICATION FFF f/u FFF 0 0||INDICATION FFF blood sugar FFF 2 3||
+332-04||7||Major Problems
+332-04||8||Diabetes mellitus||INDICATION FFF diabetes mellitus FFF 0 1||
+332-04||9||PT here with no complaints except sugar still high.
+332-04||10||She was seen 2 days ago , for ?UTI and UC was neg.||DRT FFF 2 days FFF 3 4||INDICATION FFF ?uti FFF 8 8||INDICATION FFF uc FFF 10 10||
+332-04||11||SHe has been taking bactrim .||DBN FFF bactrim FFF 4 4||
+332-04||12||She is up at night urinating  freq , denies fever, GI sx, cough, rash , joint pain.||TOD FFF at night FFF 3 4||INDICATION FFF fever, FFF 9 9||INDICATION FFF cough, FFF 12 12||INDICATION FFF joint pain. FFF 15 16||
+332-04||13||She is taking her meds.
+332-04||14||Daughter in with her.
+332-04||15||Active Medications
+332-04||16||Bactrim DS 160mg/800mg po bid x 7 days||DIN FFF bactrim ds FFF 0 1||DOSE FFF 160mg/800mg FFF 2 2||RUT FFF po FFF 3 3||FREQ FFF bid FFF 4 4||DRT FFF x 7 days FFF 5 7||
+332-04||17||Ecotrin 325 mg po daily||DBN FFF ecotrin FFF 0 0||DOSE FFF 325 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF daily FFF 4 4||
+332-04||18||ferrous sulfate 325mg po bid||DIN FFF ferrous sulfate FFF 0 1||DOSE FFF 325mg FFF 2 2||RUT FFF po FFF 3 3||FREQ FFF bid FFF 4 4||
+332-04||19||free text medications  qid one touch ultra lancets||FREQ FFF qid FFF 3 3||DBN FFF one touch FFF 4 5||
+332-04||20||furosemide 20mg po daily||DIN FFF furosemide FFF 0 0||DOSE FFF 20mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF daily FFF 3 3||
+332-04||21||glipizide 10mg po bid take 30min before a meal||DIN FFF glipizide FFF 0 0||DOSE FFF 10mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF bid FFF 3 3||
+332-04||22||lisinopril 40 mg po daily||DIN FFF lisinopril FFF 0 0||DOSE FFF 40 mg FFF 1 2||RUT FFF po FFF 3 3||FREQ FFF daily FFF 4 4||
+332-04||23||lovastatin 10mg po qpm take with food||DIN FFF lovastatin FFF 0 0||DOSE FFF 10mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF qpm FFF 3 3||
+332-04||24||metoprolol 25mg,  3 tabs po bid||DIN FFF metoprolol FFF 0 0||DOSE FFF 25mg, FFF 1 1||DOSEAMT FFF 3 tabs FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF bid FFF 5 5||
+332-04||25||Norvasc 10mg po daily||DBN FFF norvasc FFF 0 0||DOSE FFF 10mg FFF 1 1||RUT FFF po FFF 2 2||FREQ FFF daily FFF 3 3||
+332-04||26||Prandin 2 mg before each meal||DBN FFF prandin FFF 0 0||DOSE FFF 2 mg FFF 1 2||
+332-04||27||vitamin d 1000 units po daily||DIN FFF vitamin d FFF 0 1||DOSEAMT FFF 1000 units FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF daily FFF 5 5||
+332-04||28||Physical Exam
+332-04||29||Blood pressure 147/78||INDICATION FFF blood pressure FFF 0 1||
+332-04||30||Pulse 54
+332-04||31||Weight 159 today,  154 pounds||INDICATION FFF weight FFF 0 0||
+332-04||32||Office blood glucose fingerstick 448  at noon after breakfast
+332-04||33||Office O2 saturation 100%||DOSE FFF 100% FFF 3 3||
+332-04||34||General appearance   Well developed, well nourished, no acute distress.
+332-04||35||Skin   Warm and dry.
+332-04||36||No rashes
+332-04||37||HEENT   ? jaundice to eyes
+332-04||38||Nodes    no  cervical lymphadenopathy
+332-04||39||Chest   Lungs are clear
+332-04||40||Cor   Unremarkable||DIN FFF cor FFF 0 0||
+332-04||41||Abdomen   Nontender without masses
+332-04||42||Musc skel   no CVA tenderness||INDICATION FFF cva FFF 3 3||
+332-04||43||Assessment and plan

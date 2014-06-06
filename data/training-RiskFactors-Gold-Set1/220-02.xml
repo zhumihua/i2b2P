@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2068-12-05
+
+Narrative History	
+
+ Patient presents for uri.  Walks -in .  Overdue for follow-up by 3 months.
+
+
+
+Started last week.   Sinus pressure, post nasal drip , headache , ears blocked.  
+
+No fevers.
+
+Slight white nasal cdischarge.
+
+
+
+Taking advil sinus only helps transiently.
+
+Not getting better or worse.
+
+No chest symptoms - coughing etc..
+
+
+
+Got flu shot already.
+
+
+
+
+
+Problems
+
+FH breast cancer : 37 yo s
+
+FH myocardial infarction : mother died 66 yo
+
+Hypertension 
+
+Uterine fibroids : u/s 2062
+
+Smoking : quit 2/67 s/p MI
+
+Hyperlipidemia : CRF mild chol, cigs, HTN, Fhx and known hx CAD in pt.
+
+borderline diabetes mellitus : 4/63 125 , follow hgbaic
+
+VPB : 2065 - ETT showed freq PVC's, bigeminy and couplets, nondx for ischemia
+
+Coronary artery disease : s/p ant SEMI + stent LAD 2/67, Dr Oakley, ETT Clarkfield 3/67 - neg scan for ischemia.
+
+Thyroid nodule : 2065, thyroid scan 2066 consistent with hot nodule and toxic multinodular goiter, saw Dr Dolan, follow TSH. 
+
+
+
+
+
+Medications
+
+Asa (ACETYLSALICYLIC Acid) 325MG, 1 Tablet(s) PO QD
+
+Nitroglycerin 1/150 (0.4 Mg) 1 TAB SL x1 PRN prn CP
+
+Norvasc (AMLODIPINE) 5MG, 1 Tablet(s) PO QD
+
+Plavix (CLOPIDOGREL) 75 MG PO QD
+
+ATENOLOL 50MG, 1 Tablet(s) PO QD
+
+Lipitor (ATORVASTATIN) 10MG, 1 Tablet(s) PO QD
+
+Hctz (HYDROCHLOROTHIAZIDE) 25MG, 1 Tablet(s) PO QD
+
+Zestril (LISINOPRIL) 40MG, 1 Tablet(s) PO QD 
+
+
+
+
+
+Allergies
+
+Ceclor (CEFACLOR) - Rash 
+
+
+
+
+
+Physical Exam	 
+
+	
+
+Vital signs  140/82  98.2
+
+Looks well,  nontoxic
+
+Sinuses - nontender
+
+TM's clear
+
+OP - negative without exudates
+
+neck- supple without increased nodes
+
+lungs - clear without wheezing on forced exp 
+
+CVS - rrrs2s2
+
+ 
+
+
+
+
+
+Assessment and Plan	
+
+1. URI - no evidence of bact sinus infection.  Needs decongestion but would like to avoid decong systemically given history CAD and ectopy in past. Will use steam, humidity, nasal decong spray for 3 days.  Call if fevers, worsens or persists.
+
+2. Hot thyroid nodule - was slightly higher last visit - will refer to Dr Dolan for discussion re treating this now especially given her history of cardiac ds in the last couple of years.
+
+3. blood pressure - slightly elevated above what would want it. Will recheck on follow-up which will be soon
+
+4. Chol- will check fastings next visit. Lfts okay in June
+
+
+
+Due for annual - will schedule next avail.
+
+
+
+Beverly Thiel MD
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC13" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC24" time="after DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC29" time="before DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC3" time="during DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC7" time="after DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC8" time="before DCT" type1="ACE inhibitor" type2=""/>
+    <MEDICATION id="DOC9" time="before DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC10" time="after DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC11" time="during DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC12" time="during DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC14" time="after DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC15" time="before DCT" type1="calcium channel blocker" type2=""/>
+    <MEDICATION id="DOC16" time="after DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC18" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC20" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC21" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC22" time="during DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC26" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC27" time="before DCT" type1="nitrate" type2=""/>
+    <MEDICATION id="DOC30" time="after DCT" type1="diuretic" type2=""/>
+    <MEDICATION id="DOC31" time="before DCT" type1="thienopyridine" type2=""/>
+    <MEDICATION id="DOC33" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC34" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC17" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC32" time="before DCT" indicator="mention"/>
+    <CAD id="DOC19" time="after DCT" indicator="mention"/>
+    <CAD id="DOC25" time="during DCT" indicator="mention"/>
+    <CAD id="DOC28" time="before DCT" indicator="event"/>
+    <CAD id="DOC35" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC23" indicator="not present"/>
+    <SMOKER id="DOC5" status="past"/>
+  </TAGS>
+</root>

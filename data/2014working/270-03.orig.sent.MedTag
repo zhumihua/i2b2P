@@ -1,0 +1,42 @@
+270-03	1	Record date: 2097-08-11	
+270-03	2	EDVISIT^29964344^WHITAKER, VINCENT^08/11/97^TRAN, FREDDY	
+270-03	3	I confirm that I have interviewed and examined the patient,	
+270-03	4	reviewed the resident's documentation on the patient's chart, and	
+270-03	5	discussed the evaluation, plan of care, and disposition with the	
+270-03	6	patient and the resident, Dr.	
+270-03	7	Nieto.  Please see her note for full details.	
+270-03	8	HISTORY OF PRESENT ILLNESS:  The patient is a 65-year-old	
+270-03	9	gentleman with significant past medical history of hypertension;		INDICATION FFF hypertension#7
+270-03	10	diabetes; AFib; CHF; chronic renal insufficiency; end-stage renal		INDICATION FFF diabetes#0	INDICATION FFF afib#1	INDICATION FFF chf#2	INDICATION FFF chronic renal insufficiency#5
+270-03	11	disease on hemodialysis Monday, Wednesday and Friday; history		FREQ FFF monday#3	FREQ FFF wednesday and friday#6
+270-03	12	of PE and cardiac arrest as well as bacteremia who presents with		INDICATION FFF pe#1	INDICATION FFF cardiac arrest#4	INDICATION FFF as#5	INDICATION FFF as#7	INDICATION FFF bacteremia#8
+270-03	13	cough, weakness, chest pain, and palpitations.		INDICATION FFF cough#0	INDICATION FFF chest pain#3
+270-03	14	At dialysis he was found coughing and was sent here via ambulance.		INDICATION FFF coughing#5
+270-03	15	He notes decreased appetite.	
+270-03	16	He denies any fevers.		INDICATION FFF fevers#3
+270-03	17	He has noted some chills, some sweats, and some shortness of breath.		INDICATION FFF sweats#6	INDICATION FFF shortness of breath .#11
+270-03	18	PHYSICAL EXAMINATION:  He is slow.	
+270-03	19	Temperature 95.9, pulse 89, respiratory rate 18, blood pressure 180/71, and saturation is 95% on 2 liters.		INDICATION FFF temperature#0	INDICATION FFF blood pressure#8	DOSE FFF 95%#13	DOSE FFF 2liters#16
+270-03	20	He looks dyspneic, dehydrated with neck that is supple.		INDICATION FFF dehydrated#3
+270-03	21	No rales, rhonchi, or wheezing.		INDICATION FFF wheezing .#4
+270-03	22	Heart is regular without a murmur.	
+270-03	23	Abdomen is soft, nontender, and nondistended.	
+270-03	24	Skin is intact.	
+270-03	25	He has 2+ pedal edema.		INDICATION FFF edema#4
+270-03	26	He appears to be lethargic but no focal neurologically.	
+270-03	27	LABORATORY DATA:  Review of his blood work shows a BUN of 31,	
+270-03	28	creatinine of 6.07, sodium of 139, potassium of 5.6 and		INDICATION FFF creatinine#0	DIN FFF sodium#3	DIN FFF potassium#6
+270-03	29	bicarbonate of 32.	
+270-03	30	LFTs are normal.	
+270-03	31	Lipase is 63.		DIN FFF lipase#0
+270-03	32	BNP is 501.	
+270-03	33	Lactic acid is 3.		DIN FFF lactic acid#1
+270-03	34	Troponin is 0.04.	
+270-03	35	White count 5, hematocrit 42, and INR 2.		INDICATION FFF hematocrit#3	INDICATION FFF inr#6
+270-03	36	Chest x-ray shows cardiomegaly, no acute pneumonia.		INDICATION FFF pneumonia .#6
+270-03	37	An EKG with rate 106, normal ST-T changes.	
+270-03	38	EMERGENCY DEPARTMENT COURSE:  The patient was covered empirically	
+270-03	39	with vancomycin, ceftazidime, given gentle IV fluid bolus and is		DIN FFF vancomycin#1	DIN FFF ceftazidime#2	RUT FFF iv#5	DIN FFF bolus#7
+270-03	40	being admitted to Renal Medicine.	
+270-03	41	At this time, he is hemodynamically stable.	
+270-03	42	PRIMARY DIAGNOSIS:  Weakness, end-stage renal disease, and		INDICATION FFF end-stage renal disease#5

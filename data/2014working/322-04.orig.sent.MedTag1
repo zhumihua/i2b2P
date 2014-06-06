@@ -1,0 +1,215 @@
+322-04||1||Record date: 2077-06-19
+322-04||2||MANAMANA  MEDICAL  CONSULT  NOTE
+322-04||3||PATIENT:  Vaughn, Frank R.||INDICATION FFF frank FFF 2 2||
+322-04||4||MANAMANA MR#:  6767510
+322-04||5||PCP:  Henry Jenkins, M.D. (503 155-7742)||INDICATION FFF pcp: FFF 0 0||
+322-04||6||PSYCH:  Brittany Prince, M.D.
+322-04||7||CONTACT:  Mother, Haley Vaughn (158 857-4114)
+322-04||8||SOURCE:   Patient; M.D. Passoff; Previous Medical Records
+322-04||9||PRECAUTIONS:   MRSA; VRE||INDICATION FFF mrsa; FFF 1 1||
+322-04||10||PRIMARY SERVICE:  Psychiatry Service (Internal Medicine)
+322-04||11||CONSULT DATE:   6/19/77
+322-04||12||TIME:   2:00 PM||TOD FFF pm FFF 2 2||
+322-04||13||CC:  Suicidal ideation||TOD FFF cc: FFF 0 0||
+322-04||14||REASON for CONSULT:  Evaluation for history of medical problems
+322-04||15||HPI:  Pt is a 33 y.o. male with HTN, IDDM2, hyperlipidemia, recent prolonged hospitalization for Fournier&#8217;s gangrene at MANAMANA, and depression, who was transferred to the MANAMANA Psychiatry by his MEDIQUIK psychiatrist, Dr.||INDICATION FFF htn, FFF 8 8||INDICATION FFF hyperlipidemia, FFF 10 10||INDICATION FFF gangrene FFF 16 16||INDICATION FFF depression, FFF 20 20||
+322-04||16||Prince from her clinic today for active suicidal ideation.
+322-04||17||Dr. Prince had arranged involuntary hospitalization for this pt with campus security and EMS, prior to his arrival for the appointment.||INDICATION FFF ems, FFF 13 13||
+322-04||18||However, per Mr. Vaughn, he arrived to the appointment only with the expectation of discussing his depression and refilling his Celexa, which he has been unable to take for the past 2 weeks, due to an expired prescription.||INDICATION FFF depression FFF 16 16||DBN FFF celexa, FFF 20 20||DRT FFF 2 weeks, FFF 31 32||
+322-04||19||Dr. Prince documents a discussion in which the pt was tearful and emotional, while describing active suicidal ideation with a plan to overdose on oxycodone.||DRT FFF while FFF 13 13||INDICATION FFF overdose FFF 22 22||DIN FFF oxycodone. FFF 24 24||
+322-04||20||He reportedly had several episodes this past week, where he had more than a hundred oxycodone pills in his hand, but did not follow through on his plans.||DIN FFF oxycodone FFF 15 15||
+322-04||21||Given concern for imminent danger, a Section 12 was completed, and pt was transferred to the MANAMANA ED.||INDICATION FFF ed. FFF 17 17||
+322-04||22||The pt does admit to phobias of the hospital, and strong desire to avoid admission.||INDICATION FFF phobias FFF 5 5||
+322-04||23||However, he states that his last suicidal ideation was approximately 2 weeks ago, and that he changed his mind, once he realized his mother&#8217;s soon-to-be ex-husband, who has been threatening her, will be released from prison soon.||DRT FFF 2 weeks FFF 10 11||
+322-04||24||Moreover, he states that he has been taking all his medications, checking his insulin at least four times a day for his sliding scale, and changing the dressings on his sacral and scrotal wounds, with intent to improving his health.||DIN FFF insulin FFF 13 13||FREQ FFF four times a day FFF 16 19||DOSE FFF sliding scale, FFF 22 23||
+322-04||25||The Medical Service was asked to evaluate the pt for active and impending medical issues prior to admission to a Psychiatry Service.
+322-04||26||PMH/PSH
+322-04||27||1. Depression:  Symptoms since age 12.||INDICATION FFF depression: FFF 1 1||INDICATION FFF symptoms FFF 2 2||
+322-04||28||2. IDDM2:  Diagnosed at age 18.
+322-04||29||Was previously on oral hypoglycemics, but now on insulin.||RUT FFF oral FFF 3 3||DIN FFF hypoglycemics, FFF 4 4||DIN FFF insulin. FFF 8 8||
+322-04||30||When pt had lost weight and down to 210 lbs, he did not require insulin.||INDICATION FFF weight FFF 4 4||DIN FFF insulin. FFF 14 14||
+322-04||31||Last Hgb A1c of 11.3 in December 2076. 3. Microalbuminuria: Microalbumin of 286mg/dl (12/20/76) and Malb/Cre ratio of 4133.  Pt was previously taking Lisinopril 40mg daily and Losartan 25mg daily, but is not taking an ACE-inhibitor or ARB currently. 4. Hyperlipidemia:  Primarily hypertriglyceridemia.  TG as high as 3060 on 6/20/76 in setting of poorly controlled DM2.  Last TG of 346 on 2/13/77.  Pt was previously on Fenofibrate 145mg daily, but is not taking it currently. 5. HTN:  On Toprol XL.||DOSE FFF 286mg/dl FFF 12 12||DIN FFF lisinopril FFF 23 23||DOSE FFF 40mg FFF 24 24||FREQ FFF daily FFF 25 25||DIN FFF losartan FFF 27 27||DOSE FFF 25mg FFF 28 28||FREQ FFF daily, FFF 29 29||DBN FFF arb FFF 37 37||INDICATION FFF hyperlipidemia: FFF 40 40||INDICATION FFF hypertriglyceridemia. FFF 42 42||INDICATION FFF as FFF 44 44||INDICATION FFF as FFF 46 46||DIN FFF fenofibrate FFF 66 66||DOSE FFF 145mg FFF 67 67||FREQ FFF daily, FFF 68 68||INDICATION FFF htn: FFF 76 76||DPN FFF toprol xl. FFF 78 79||
+322-04||32||6. Fournier&#8217;s Gangrene:  Pt presented to EDUCARE-PULLMAN Clinic on 1/21/77 with buttock pain and folliculitis that did not improve on oral antibiotics.||INDICATION FFF gangrene: FFF 2 2||INDICATION FFF pain FFF 12 12||RUT FFF oral FFF 20 20||DIN FFF antibiotics. FFF 21 21||
+322-04||33||Subsequent scrotal pain, swelling, and found to have Fournier&#8217;s gangrene requiring surgical debridement at MANAMANA on 2/01/77.||INDICATION FFF pain, FFF 2 2||INDICATION FFF swelling, FFF 3 3||INDICATION FFF gangrene FFF 9 9||INDICATION FFF debridement FFF 12 12||
+322-04||34||Pt had prolonged hospitalization with ICU course, multiple wound closures, diverting colostomy, and extended IV antibiotic course.||INDICATION FFF wound FFF 8 8||RUT FFF iv FFF 14 14||DBN FFF antibiotic FFF 15 15||
+322-04||35||Pt was discharged on 3/12/77 with sacral and scrotal wounds improving, but not fully healed.
+322-04||36||He has been followed closely by MANAMANA Surgery with significant improvements. 7. S/p Diverting Colostomy: S/p diverting colostomy on 2/6/77 in setting of recovery following Fournier&#8217;s gangrene.||INDICATION FFF surgery FFF 7 7||INDICATION FFF gangrene. FFF 26 26||
+322-04||37||On 6/9/77, pt underwent dilatation of the skin surrounding the colostomy site, to relieve a large bowel obstruction. 8. Obesity:  Currently weighs 298 lbs. 9. Migraine headaches 10. S/p Cholecystectomy in 2065||INDICATION FFF bowel obstruction. FFF 16 17||INDICATION FFF obesity: FFF 19 19||INDICATION FFF headaches FFF 26 26||
+322-04||38||MEDICATIONS: (Confirmed with pt)
+322-04||39||1. Toprol XL    100mg     PO   once daily||DPN FFF toprol xl FFF 1 2||DOSE FFF 100mg FFF 3 3||RUT FFF po FFF 4 4||FREQ FFF once daily FFF 5 6||
+322-04||40||2. NPH Insulin  30units   SC   QAM with breakfast||DIN FFF nph insulin FFF 1 2||DOSEAMT FFF 30units FFF 3 3||RUT FFF sc FFF 4 4||FREQ FFF qam FFF 5 5||TOD FFF with breakfast FFF 6 7||
+322-04||41||3. NPH Insulin  10units   SC   QPM with dinner||DIN FFF nph insulin FFF 1 2||DOSEAMT FFF 10units FFF 3 3||RUT FFF sc FFF 4 4||FREQ FFF qpm FFF 5 5||TOD FFF with dinner FFF 6 7||
+322-04||42||4. Regular Insulin Sliding Scale  SC  QAC + QHS||DIN FFF regular insulin FFF 1 2||DOSE FFF sliding scale FFF 3 4||RUT FFF sc FFF 5 5||FREQ FFF qhs FFF 8 8||
+322-04||43||- For FS of 130-170, give 2units||DOSEAMT FFF 2units FFF 6 6||
+322-04||44||- For FS of 171-200, give 4units||DOSEAMT FFF 4units FFF 6 6||
+322-04||45||- For FS of 201-250, give 6units||DOSEAMT FFF 6units FFF 6 6||
+322-04||46||- For FS greater than 250, give 10units||DOSEAMT FFF 10units FFF 7 7||
+322-04||47||5. Celexa       60mg      PO   once daily (stopped taking 2 weeks ago)||DBN FFF celexa FFF 1 1||DOSE FFF 60mg FFF 2 2||RUT FFF po FFF 3 3||FREQ FFF once daily FFF 4 5||DRT FFF 2 weeks FFF 8 9||
+322-04||48||6. Klonopin      1mg      PO   once daily  PRN for anxiety (last dose was 3 days ago)||DBN FFF klonopin FFF 1 1||DOSE FFF 1mg FFF 2 2||RUT FFF po FFF 3 3||FREQ FFF once daily FFF 4 5||NEC FFF prn FFF 6 6||INDICATION FFF anxiety FFF 8 8||DRT FFF 3 days FFF 12 13||
+322-04||49||7. MVI           1tablet  PO   once daily||DPN FFF mvi FFF 1 1||DOSEAMT FFF 1tablet FFF 2 2||RUT FFF po FFF 3 3||FREQ FFF once daily FFF 4 5||
+322-04||50||8. Zinc supplements||DIN FFF zinc FFF 1 1||DBN FFF supplements FFF 2 2||
+322-04||51||ALLERGIES:||INDICATION FFF allergies: FFF 0 0||
+322-04||52||HCTZ -&gt; hyponatremia||DPN FFF hctz FFF 0 0||RUT FFF -&gt; FFF 1 1||INDICATION FFF hyponatremia FFF 2 2||
+322-04||53||Social History:
+322-04||54||Lives in Waupun, AL with his mother, Haley Vaughn||INDICATION FFF al FFF 3 3||
+322-04||55||Occupation:  Former Motor Vehicle Assembling Supervisor.
+322-04||56||Currently Publishing Manager.
+322-04||57||Tobacco: Denies
+322-04||58||EtOH: Rare. 1 drink a year.||DRT FFF a year. FFF 4 5||
+322-04||59||Illicits: Denies IVDU, all illicits, including marijuana.||DIN FFF marijuana. FFF 6 6||
+322-04||60||ROS:  Please refer to HPI for pertinent positives and negatives.
+322-04||61||General: Denies fevers, chills, general weakness.||INDICATION FFF fevers, FFF 2 2||
+322-04||62||Denies light-headedness.
+322-04||63||Skin: No changing moles, lumps.
+322-04||64||Sacral and scrotal wounds stable and improving
+322-04||65||Head: Occasional migraine headaches.||INDICATION FFF headaches. FFF 3 3||
+322-04||66||Denies trauma||INDICATION FFF trauma FFF 1 1||
+322-04||67||Eyes: No visual changes or drainage
+322-04||68||Nose: No epistaxis, obstruction, sinusitis||INDICATION FFF epistaxis, FFF 2 2||INDICATION FFF sinusitis FFF 4 4||
+322-04||69||Mouth: No sores, no sore throat||RUT FFF mouth: FFF 0 0||INDICATION FFF sore throat FFF 4 5||
+322-04||70||Resp: No wheezing, hemoptysis, shortness of breath||INDICATION FFF wheezing, FFF 2 2||INDICATION FFF shortness of breath FFF 4 6||
+322-04||71||CV: No CP, angina, DOE, PND, orthopnea, palpitations||INDICATION FFF cp, FFF 2 2||INDICATION FFF angina, FFF 3 3||INDICATION FFF orthopnea, FFF 6 6||
+322-04||72||GI: Denies ABD pain, constipation, diarrhea.||INDICATION FFF pain, FFF 3 3||INDICATION FFF constipation, FFF 4 4||INDICATION FFF diarrhea. FFF 5 5||
+322-04||73||Colostomy site with good output and without bleeding||INDICATION FFF bleeding FFF 7 7||
+322-04||74||GU: No dysuria, nocturia, hematuria, frequency, urgency, hesitancy.||INDICATION FFF gu: FFF 0 0||
+322-04||75||Denies urinary incontinence||INDICATION FFF urinary incontinence FFF 1 2||
+322-04||76||Neuro: No dizziness, involuntary movements, syncope, loss of coordination, paralysis||INDICATION FFF dizziness, FFF 2 2||INDICATION FFF paralysis FFF 9 9||
+322-04||77||PHYSICAL EXAM
+322-04||78||VS:  T: 97.6     P: 90 (Regular)      BP: 126/72       RR: 18      O2 Sat: 98% on R.A.    Wt: 298 lbs||INDICATION FFF t: FFF 1 1||INDICATION FFF bp: FFF 6 6||DOSE FFF 98% FFF 12 12||
+322-04||79||GEN:  In NAD.
+322-04||80||Obese. Comfortable, lying flat in bed.||INDICATION FFF obese. FFF 0 0||
+322-04||81||HEENT:  NC/AT.
+322-04||82||PERRL.  EOMI.  OP clear without lesions, MMM without erosions.||INDICATION FFF op FFF 2 2||
+322-04||83||NECK:  Soft, supple, FROM, no thyromegaly.  2+ carotid pulses bilaterally without delay.||INDICATION FFF thyromegaly. FFF 5 5||
+322-04||84||No cervical spine tenderness.
+322-04||85||CHEST:  Clear to auscultation bilaterally.
+322-04||86||No wheezes or rales.||INDICATION FFF wheezes FFF 1 1||
+322-04||87||CV:  Regular rate. Normal S1, S2.
+322-04||88||No m/r/g.||DIN FFF m/r/g. FFF 1 1||
+322-04||89||No PA tap or RV heave.||INDICATION FFF pa FFF 1 1||
+322-04||90||PMI along mid-axillary line.  JVP of 7.5 cm H2O.||INDICATION FFF cm FFF 7 7||
+322-04||91||ABD:  + bowel sounds; Soft, NT, obese.||INDICATION FFF obese. FFF 6 6||
+322-04||92||No organomegaly.
+322-04||93||No rebound tenderness, no peritoneal signs, no fluid wave.
+322-04||94||LLQ colostomy site with good output of brown stool.
+322-04||95||Colostomy bag properly secured.
+322-04||96||BACK:  No focal or paraspinal tenderness.
+322-04||97||EXT:  Warm. No L.E. edema.  No c/c.  2+ DP and PTs bilaterally.||INDICATION FFF edema. FFF 4 4||INDICATION FFF dp FFF 8 8||
+322-04||98||DERM:  0.5cm open wound in sacram with surrounding erythema.  1cm open wound at base of scrotum, close to perineum.  Dressing in place.  No pus or drainage expressed from both wounds.  When compared to descriptions in the past, and per pt, both wounds are continuing to improve.||INDICATION FFF 0.5cm FFF 1 1||INDICATION FFF wound FFF 3 3||INDICATION FFF erythema. FFF 8 8||INDICATION FFF 1cm FFF 9 9||INDICATION FFF wound FFF 11 11||
+322-04||99||NEURO:  Alert and oriented x 3.||FREQ FFF x 3. FFF 4 5||
+322-04||100||PSYCH:  Denies SI and HI.||INDICATION FFF hi. FFF 4 4||
+322-04||101||Rest of exam deferred to Internal Medicine Evaluation.
+322-04||102||EKG:   Normal sinus rhythm at 95 bpm.
+322-04||103||Normal axis.
+322-04||104||Poor R wave progression.
+322-04||105||Non-specific ST-T changes.
+322-04||106||No significant change from previous EKG on 6/9/77.||INDICATION FFF change FFF 2 2||
+322-04||107||Labs:
+322-04||108||HEMATOLOGY
+322-04||109||WBC                              7.8                       (4.5-11.0)     th/cmm
+322-04||110||HCT                              38.0             L        (41.0-53.0)    %||DOSE FFF 38.0 l FFF 1 2||
+322-04||111||HGB                              13.1             L        (13.5-17.5)    gm/dl||DOSE FFF 13.1 l FFF 1 2||
+322-04||112||RBC                              4.63                      (4.50-5.90)    mil/cmm
+322-04||113||PLT                              219                       (150-350)      th/cumm
+322-04||114||MCV                              82                        (80-100)       fl
+322-04||115||MCH                              28.4                      (26.0-34.0)    pg/rbc
+322-04||116||MCHC                             34.6                      (31.0-37.0)    g/dl
+322-04||117||RDW                              16.1             H        (11.5-14.5)    %||DRT FFF 16.1 h FFF 1 2||
+322-04||118||Poly                             70               H        (40-70)        %||DRT FFF 70 h FFF 1 2||
+322-04||119||Lymphs                           21               L        (22-44)        %||DOSE FFF 21 l FFF 1 2||
+322-04||120||Monos                            6                         (4-11)         %
+322-04||121||EOS                              3                         (0-8)          %
+322-04||122||Basos                            0                         (0-3)          %
+322-04||123||Absolute Neuts                   5.44                      (1.8-7.7)      th/cmm
+322-04||124||Absolute Lymphs                  1.64                      (1.0-4.8)      th/cmm
+322-04||125||Absolute Monos                   0.49             H        (0.2-0.4)      th/cmm||DRT FFF 0.49 h FFF 2 3||
+322-04||126||Absolute EOS                     0.19                      (0.1-0.3)      th/cmm
+322-04||127||Absolute Basos                   0.03                      (0.0-0.3)      th/cmm
+322-04||128||Aniso                            1+               H        (None)||DRT FFF 1+ h FFF 1 2||
+322-04||129||Hypo                             None                      (None)
+322-04||130||Macrocytes                       None                      (None)
+322-04||131||Microcytes                       None                      (None)
+322-04||132||CHEMISTRY
+322-04||133||Sodium (Stat Lab)                139                       (135-145)      mmol/L||TOD FFF (stat FFF 1 1||
+322-04||134||Potassium (Stat Lab)             3.9                       (3.4-4.8)      mmol/L||TOD FFF (stat FFF 1 1||
+322-04||135||Chloride (Stat Lab)              103                       (100-108)      mmol/L||TOD FFF (stat FFF 1 1||
+322-04||136||CO2 (Stat Lab)                   26.7                      (23.0-31.9)    mmol/L||TOD FFF (stat FFF 1 1||
+322-04||137||BUN (Stat Lab)                   21                        (8-25)         mg/dl||TOD FFF (stat FFF 1 1||
+322-04||138||Creatinine (Stat Lab)            0.9                       (0.6-1.5)      mg/dl||INDICATION FFF creatinine FFF 0 0||TOD FFF (stat FFF 1 1||
+322-04||139||Glucose (Stat Lab)               118              H        (70-110)       mg/dl||TOD FFF (stat FFF 1 1||DRT FFF 118 h FFF 3 4||
+322-04||140||Calcium                          9.6                       (8.5-10.5)     mg/dl||DIN FFF calcium FFF 0 0||DOSE FFF 9.6 FFF 1 1||
+322-04||141||Phosphorus                       3.8                       (2.6-4.5)      mg/dl||INDICATION FFF phosphorus FFF 0 0||
+322-04||142||Magnesium                        1.3              L        (1.4-2.0)      meq/L||DIN FFF magnesium FFF 0 0||DOSE FFF 1.3 l FFF 1 2||
+322-04||143||Total Protein                    7.5                       (6.0-8.3)      g/dl
+322-04||144||Albumin                          3.9                       (3.3-5.0)      g/dl||DIN FFF albumin FFF 0 0||DOSE FFF 3.9 FFF 1 1||
+322-04||145||Globulin                         3.6                       (2.6-4.1)      g/dl
+322-04||146||Direct Bilirubin                 0.2                       (0-0.4)        mg/dl
+322-04||147||Total Bilirubin                  0.2                       (0.0-1.0)      mg/dl
+322-04||148||Alkaline Phosphatase             84                        (45-115)       U/L
+322-04||149||Transaminase-SGPT                30                        (10-55)        U/L
+322-04||150||Transaminase-SGOT                18                        (10-40)        U/L
+322-04||151||TOXICOLOGY SCREEN:
+322-04||152||SERUM TOXICOLOGY
+322-04||153||Test Description                 Result           Flags    Ref.
+322-04||154||Range       Units
+322-04||155||Clonazepam                       42                                       mcg/L||DIN FFF clonazepam FFF 0 0||DOSE FFF 42 mcg/l FFF 1 2||
+322-04||156||REF. RANGE: 10-70
+322-04||157||TOXIC: &gt;80||RUT FFF &gt;80 FFF 1 1||
+322-04||158||Ibuprofen                        &lt;17.0                                    mg/L||DIN FFF ibuprofen FFF 0 0||DOSE FFF &lt;17.0 mg/l FFF 1 2||
+322-04||159||REF. RANGE: 20-70
+322-04||160||TOXIC: &gt;100||RUT FFF &gt;100 FFF 1 1||
+322-04||161||Tox Panel 1 (ALC)
+322-04||162||COMPLETED: PANEL NEGATIVE
+322-04||163||(NOTE)Drugs included in PANEL 1 (Detection limit in mg/L): Ethanol (100).||DIN FFF (note)drugs FFF 0 0||
+322-04||164||Isopropanol (100).||DIN FFF isopropanol FFF 0 0||
+322-04||165||Methanol (100).||DIN FFF methanol FFF 0 0||
+322-04||166||Tox Panel 2 (ATS)
+322-04||167||COMPLETED: PANEL NEGATIVE
+322-04||168||(NOTE)Drugs included in PANEL 2 (Detection limit in mg/L):||DIN FFF (note)drugs FFF 0 0||
+322-04||169||Acetaminophen (25). Lamotrigine||DIN FFF acetaminophen FFF 0 0||DIN FFF lamotrigine FFF 2 2||
+322-04||170||(4). Salicylate (100).||DIN FFF salicylate FFF 1 1||
+322-04||171||Tox Panel 3 (BBT)
+322-04||172||COMPLETED: POSITIVE FINDINGS LISTED ABOVE.
+322-04||173||(NOTE)Drugs included in PANEL 3 (Detection limit in mg/L): Butalbital (10).||DIN FFF (note)drugs FFF 0 0||DIN FFF butalbital FFF 9 9||
+322-04||174||Carbamazepine (2). Ibuprofen||DIN FFF carbamazepine FFF 0 0||DIN FFF ibuprofen FFF 2 2||
+322-04||175||(17). Pentobarbital (6).||DIN FFF pentobarbital FFF 1 1||
+322-04||176||Phenobarbital (11). Phenytoin||DIN FFF phenobarbital FFF 0 0||DIN FFF phenytoin FFF 2 2||
+322-04||177||(5). Secobarbital (5).||DIN FFF secobarbital FFF 1 1||
+322-04||178||Tox Panel 4 (BZ)
+322-04||179||COMPLETED: POSITIVE FINDINGS LISTED ABOVE.
+322-04||180||(NOTE)Drugs included in PANEL 4 (Detection limit in mcg/L):||DIN FFF (note)drugs FFF 0 0||
+322-04||181||4-OH Glutethimide (1000). Alprazolam (50). Chlordiazepoxide (200).||INDICATION FFF 4-oh FFF 0 0||DIN FFF glutethimide FFF 1 1||DIN FFF alprazolam FFF 3 3||DIN FFF chlordiazepoxide FFF 5 5||
+322-04||182||Clonazepam (10). Demoxepam (200). Desalkylflurazepam (300).||DIN FFF clonazepam FFF 0 0||DIN FFF demoxepam FFF 2 2||DIN FFF desalkylflurazepam FFF 4 4||
+322-04||183||Diazepam (100). Flurazepam (500). Glutethimide (1000).||DIN FFF diazepam FFF 0 0||DIN FFF flurazepam FFF 2 2||DIN FFF glutethimide FFF 4 4||
+322-04||184||Lidocaine (150). Lorazepam (150). Methaqualone (1000).||DIN FFF lidocaine FFF 0 0||DIN FFF lorazepam FFF 2 2||DIN FFF methaqualone FFF 4 4||
+322-04||185||Norchlordiazepoxide (200).||DIN FFF norchlordiazepoxide FFF 0 0||
+322-04||186||Nordiazepam (100).||DIN FFF nordiazepam FFF 0 0||
+322-04||187||Oxazepam (150).||DIN FFF oxazepam FFF 0 0||
+322-04||188||Quinidine (1000). Temazepam (250). Trazodone (250).||DIN FFF quinidine FFF 0 0||DIN FFF temazepam FFF 2 2||DIN FFF trazodone FFF 4 4||
+322-04||189||Tox Panel 5 (TC)
+322-04||190||COMPLETED: PANEL NEGATIVE
+322-04||191||(NOTE)Drugs included in PANEL 5 (Detection limit in mcg/L):||DIN FFF (note)drugs FFF 0 0||
+322-04||192||Amitriptyline (20). Chlorpheniramine (40).||DIN FFF amitriptyline FFF 0 0||DIN FFF chlorpheniramine FFF 2 2||
+322-04||193||Chlorpromazine (30). Clomipramine||DIN FFF chlorpromazine FFF 0 0||DIN FFF clomipramine FFF 2 2||
+322-04||194||(20). Clozapine (250).||DIN FFF clozapine FFF 1 1||
+322-04||195||Cocaethylene (10). Cocaine||DIN FFF cocaethylene FFF 0 0||DIN FFF cocaine FFF 2 2||
+322-04||196||(10). Cyclobenzaprine (20).||DIN FFF cyclobenzaprine FFF 1 1||
+322-04||197||Pseudoephedrine (500). Desipramine (20). Desmethylsertraline (50).||DIN FFF pseudoephedrine FFF 0 0||DIN FFF desipramine FFF 2 2||
+322-04||198||Dextromethorphan (1000). Diphenhydramine (20). Disopyramide (150).||DIN FFF dextromethorphan FFF 0 0||DIN FFF diphenhydramine FFF 2 2||DIN FFF disopyramide FFF 4 4||
+322-04||199||Doxepin (20). Doxylamine||DIN FFF doxepin FFF 0 0||DIN FFF doxylamine FFF 2 2||
+322-04||200||(20). Fluoxetine||DIN FFF fluoxetine FFF 1 1||
+322-04||201||(50). Fluvoxamine (40).||DIN FFF fluvoxamine FFF 1 1||
+322-04||202||Imipramine (20).||DIN FFF imipramine FFF 0 0||
+322-04||203||M-cPP (100). Maprotilene (400). Meperidine (200). Mesoridazine (500).||DIN FFF m-cpp FFF 0 0||DIN FFF meperidine FFF 4 4||DIN FFF mesoridazine FFF 6 6||
+322-04||204||Methadone (100). Norclomipramine (20).||DIN FFF methadone FFF 0 0||DIN FFF norclomipramine FFF 2 2||
+322-04||205||Nordoxepin (20).||DIN FFF nordoxepin FFF 0 0||
+322-04||206||Norfluoxetine (50).||DIN FFF norfluoxetine FFF 0 0||
+322-04||207||Normaprotilene (450).
+322-04||208||Normeperidine (200).||DIN FFF normeperidine FFF 0 0||
+322-04||209||Norpropoxyphene (200).
+322-04||210||Nortriptyline (20).||DIN FFF nortriptyline FFF 0 0||
+322-04||211||Norverapamil (50).||DIN FFF norverapamil FFF 0 0||
+322-04||212||Oxycodone (40). Paroxetine||DIN FFF oxycodone FFF 0 0||DIN FFF paroxetine FFF 2 2||
+322-04||213||(50). Pentazocine (1000).||DIN FFF pentazocine FFF 1 1||
+322-04||214||Promazine (50). Propoxyphene (200).Propranolol (50). Pyrilamine (50).||DIN FFF promazine FFF 0 0||DIN FFF propoxyphene FFF 2 2||DIN FFF (200).propranolol FFF 3 3||DIN FFF pyrilamine FFF 5 5||
+322-04||215||Sertraline (20). Thioridazine (100). Trifluoperazine (60).||DIN FFF sertraline FFF 0 0||DIN FFF thioridazine FFF 2 2||DIN FFF trifluoperazine FFF 4 4||

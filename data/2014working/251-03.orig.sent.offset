@@ -1,0 +1,24 @@
+251-03	31	0	He received Zofran 4 mg IV once, levofloxacin 500 mg PO once, and a NS 500 cc bolus.	zofran FFF 2 2	4 mg FFF 3 4	iv FFF 5 5	 FFF 	 FFF 	 FFF 	narrative
+251-03	31	0	He received Zofran 4 mg IV once, levofloxacin 500 mg PO once, and a NS 500 cc bolus.	levofloxacin FFF 7 7	500 mg FFF 8 9	po FFF 10 10	cc FFF 16 16	 FFF 	 FFF 	narrative
+251-03	31	0	He received Zofran 4 mg IV once, levofloxacin 500 mg PO once, and a NS 500 cc bolus.	bolus. FFF 17 17	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+251-03	38	0	On 8/10/83 an Abd and Pelvic CT were done showing:  marked thickening of the wall of the distal esophagus (35-40cm by endoscopy - partial obstruction and circumferential) extending into the gastric cardia, consistent with biopsy proven adenocarcinoma.	proven FFF 35 35	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+251-03	39	0	Also felt to be bleeding silently so placed on Fe replacement.	fe FFF 9 9	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+251-03	47	0	His last Taxotere treatment was February 17; further treatment was stopped secondary to a chemotherapy burn on the right arm.	taxotere FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+251-03	49	0	1. Metastatic esophageal adenocarcinoma:  Stage IV-B s/p Taxotere therapy.	taxotere FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+251-03	51	0	Last HgBA1c (06/19/83) was 5.30. 3. HTN:  On multiple medications for blood pressure control.  No evidence of end-stage renal damage.	multiple medications FFF 8 9	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+251-03	52	0	4. Hypercholesterolemia:  Being treated with Lipitor 10 mg daily.	lipitor FFF 5 5	10 mg FFF 6 7	 FFF 	daily. FFF 8 8	 FFF 	 FFF 	narrative
+251-03	54	0	6. Renal vein thrombosis, on coumadin.	coumadin. FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+251-03	58	438	Atenolol 25 mg QD	atenolol FFF 0 0	25 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+251-03	60	438	Vitamin B Complex 100 u QD	vitamin b complex FFF 0 2	100 u FFF 3 4	 FFF 	qd FFF 5 5	 FFF 	 FFF 	narrative
+251-03	61	438	Folic Acid 1 mg QD	folic acid FFF 0 1	1 mg FFF 2 3	 FFF 	qd FFF 4 4	 FFF 	 FFF 	narrative
+251-03	62	438	Iron Sulfate 1 tab BID	iron sulfate FFF 0 1	1 tab FFF 2 3	 FFF 	bid FFF 4 4	 FFF 	 FFF 	narrative
+251-03	63	438	Lipitor 10 mg QHS	lipitor FFF 0 0	10 mg FFF 1 2	 FFF 	qhs FFF 3 3	 FFF 	 FFF 	narrative
+251-03	64	438	Terazosin 5 mg QD	terazosin FFF 0 0	5 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+251-03	65	438	Ducolax 2 tabs QD	ducolax FFF 0 0	2 tabs FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+251-03	66	438	Warfarin 5 mg QD	warfarin FFF 0 0	5 mg FFF 1 2	 FFF 	qd FFF 3 3	 FFF 	 FFF 	narrative
+251-03	67	438	Zantac 75 mg QD PRN heartburn.	zantac 75 FFF 0 1	 FFF 	 FFF 	QD PRN FFF 3 4	 FFF 	 FFF 	narrative
+251-03	90	0	Nose and Sinuses: Reports nosebleeds secondary to Coumadin.	coumadin. FFF 7 7	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+251-03	115	0	Cor:   RRR; normal S1S2, 3/6 systolic ejection murmur heard best at the right sternal base, radiating to the axilla, consistent with AS.	cor: FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+251-03	131	0	NA         139	na FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+251-03	137	0	GLU        145(H)	glu FFF 0 0	145(h) FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+251-03	142	0	ALB        3.3	alb FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

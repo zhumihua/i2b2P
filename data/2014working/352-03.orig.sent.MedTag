@@ -1,0 +1,34 @@
+352-03	1	Record date: 2069-12-24	
+352-03	2	CC: Shortness of breath, neck pain.		TOD FFF cc#0	INDICATION FFF shortness of breath#3	INDICATION FFF pain .#5
+352-03	3	HPI:  Ms. Riley was recently hospitalized in 11/69 for neck pain, chest pain, and SOB.		INDICATION FFF pain#10	INDICATION FFF chest pain#12	INDICATION FFF sob#14
+352-03	4	She had an extensive cardiovascular work-up that showed no signs of cardiac ischemia.		INDICATION FFF cardiac ischemia#12
+352-03	5	Her MIBI showed no evidence of scar or ischemia and an ejection fraction of 57%.		INDICATION FFF ischemia#8	DOSE FFF 57%#14
+352-03	6	On the other hand, her blood sugars were found to be in the 300-400s.		INDICATION FFF her blood sugars#6
+352-03	7	Since then, she has been followed by the IM dept.		RUT FFF im#8
+352-03	8	She comes in today complaining of 2 main symptoms that have been occuring for several months now, and which in large part led to her recent hospitalization: 1) dyspnea that occurs on average twice a week, allevaited after 30 min of SL NTG, no precipitating factors identified.		INDICATION FFF symptoms#8	DRT FFF several months#15	INDICATION FFF led#22	INDICATION FFF dyspnea#28	FREQ FFF twice a week#35	RUT FFF sl#41	DPN FFF ntg#42
+352-03	9	SOB not significantly imporved by albuterol.  2) neck pain, localized to the lateral aspects of her neck.  She feels "her veins exploding".  Of note, she suffered left ankle pain, for which she self-medicated cephalexin (without knowing its an Abx), which she had at home.  She says most of her symptoms resolved.  Per her husband, she has always been a fairly anxious person.		INDICATION FFF sob#0	DIN FFF albuterol#5	INDICATION FFF pain#8	INDICATION FFF pain#28	DIN FFF cephalexin#33	DPN FFF abx#38	INDICATION FFF symptoms#49
+352-03	10	ROS: No DOE, no PND, no fever.		INDICATION FFF fever#6
+352-03	11	Good apetite, polydypsia.	
+352-03	12	Blurry vision.	
+352-03	13	PAST MEDICAL HISTORY:  A total thyroidectomy, on levothyroxine 200 mcg daily, COPD, obesity, diabetes mellitus, hypertension, hyperlipidemia, GERD, sleep apnea, cholecystectomy and a meniscal tear.		DIN FFF levothyroxine#7	DOSE FFF 200mcg#9	FREQ FFF daily#10	INDICATION FFF copd#11	INDICATION FFF obesity#12	INDICATION FFF diabetes mellitus#14	INDICATION FFF hypertension#15	INDICATION FFF hyperlipidemia#16	INDICATION FFF gerd#17	INDICATION FFF sleep#18	INDICATION FFF apnea#19	INDICATION FFF tear#24
+352-03	14	CURRENT MEDICATIONS (updated)	
+352-03	15	1) Albuterol inhaler		DBN FFF albuterol inhaler#2
+352-03	16	2) Atenolol 50 mg p.o. daily		DIN FFF atenolol#1	DOSE FFF 50mg#3	RUT FFF p.o#4	FREQ FFF daily#5
+352-03	17	3) Clonidine HCL 0.2 mg p.o. b.i.d.		DIN FFF clonidine hcl#2	DOSE FFF 0.2mg#4	RUT FFF p.o#5	FREQ FFF b.i.d#6
+352-03	18	4) Aspirin 81 mg p.o. daily		DIN FFF aspirin#1	DOSE FFF 81mg#3	RUT FFF p.o#4	FREQ FFF daily#5
+352-03	19	5) Flovent 220 mcg b.i.d.		DBN FFF flovent#1	DOSE FFF 220mcg#3	FREQ FFF b.i.d#4
+352-03	20	6) Levothyroxine 200 mcg p.o. daily		DIN FFF levothyroxine#1	DOSE FFF 200mcg#3	RUT FFF p.o#4	FREQ FFF daily#5
+352-03	21	7) Lisinopril 20 mg p.o. daily		DIN FFF lisinopril#1	DOSE FFF 20mg#3	RUT FFF p.o#4	FREQ FFF daily#5
+352-03	22	8) Singulair 10 mg p.o. daily,		DBN FFF singulair#1	DOSE FFF 10mg#3	RUT FFF p.o#4	FREQ FFF daily#5
+352-03	23	9) Lipitor 10 mg p.o. q.h.s.		DBN FFF lipitor#1	DOSE FFF 10mg#3	RUT FFF p.o#4	FREQ FFF q.h.s#5
+352-03	24	10) Humulin 70/30  90 U sc qAM, 70 U sc QPM		DBN FFF humulin 70/30#2	DOSE FFF 90u#4	RUT FFF sc#5	FREQ FFF qam#6	DOSE FFF 70u#8	RUT FFF sc#9	FREQ FFF qpm#10
+352-03	25	11) Metformin 1000 mg PO BID		DIN FFF metformin#1	DOSE FFF 1000mg#3	RUT FFF po#4	FREQ FFF bid#5
+352-03	26	12) SL NTG 0.3		RUT FFF sl#1	DPN FFF ntg#2
+352-03	27	SOCIAL HISTORY:  Ms. Riley is from Mexico.  She has lived here for the last 15 years. Lives with her husband. Denies any tobacco or alcohol.		DRT FFF 15 years#15
+352-03	28	PHYSICAL EXAMINATION:	
+352-03	29	Weight: 215 lbs.  P 73, BP 122/74, SO2 97% RA		INDICATION FFF weight#0	INDICATION FFF bp#5	DOSE FFF 97%#8	INDICATION FFF ra#9
+352-03	30	Gen: Well nourished.	
+352-03	31	Apperas well.	
+352-03	32	Not pale.	
+352-03	33	Obese		INDICATION FFF obese#0
+352-03	34	HEENT: PERRL.	

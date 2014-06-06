@@ -1,0 +1,12 @@
+243-02||1||Record date: 2078-05-10
+243-02||2||Vital signs
+243-02||3||BP 140/88, P 68, Wt 172 lb||INDICATION FFF bp FFF 0 0||
+243-02||4||69 year old male returns with daughter and grandson for follow-up of diabetes and hypertension. he was seen here several weeks ago after a 4 month absence when he was in the UK. hgba1c and creatinine were checked at the time, and bp was to be rechecked as it was not optimally controlled. the patient returns feeling well, denies chest pain, shortness of breath, PND, orthopnea, change in exercise tolerance. he is taking medications as directed. daughter states that he saw an eye doctor in Anchorage Northeast in 11/77, had his pupils dilated, was checked for DM, was told everything was fine and he should return in 1 year||DRT FFF 69 year FFF 0 1||INDICATION FFF diabetes FFF 12 12||INDICATION FFF hypertension. FFF 14 14||DRT FFF several weeks FFF 19 20||DRT FFF 4 month FFF 24 25||INDICATION FFF creatinine FFF 35 35||INDICATION FFF bp FFF 42 42||INDICATION FFF as FFF 47 47||INDICATION FFF chest pain, FFF 59 60||INDICATION FFF shortness of breath, FFF 61 63||INDICATION FFF orthopnea, FFF 65 65||INDICATION FFF change FFF 66 66||INDICATION FFF as FFF 74 74||RUT FFF eye FFF 82 82||INDICATION FFF pupils dilated, FFF 91 92||INDICATION FFF dm, FFF 96 96||DRT FFF 1 year FFF 107 108||
+243-02||5||VS as noted||INDICATION FFF as FFF 1 1||
+243-02||6||chest clear to ausc.
+243-02||7||RR 12 cardiac normal s1/s2 no m/s3/s4 HR 58 reg
+243-02||8||no peripheral edema||INDICATION FFF edema FFF 2 2||
+243-02||9||hgba1c 6.5 (decreased from 8.9 in 11/77) creatinine stable at 1.4||INDICATION FFF creatinine FFF 7 7||
+243-02||10||Assessment - improved diabetic control. renal function stable. suboptimal bp control for diabetic with history of CAD; already bradycardic on atenolol 50 mg qd||INDICATION FFF diabetic control. FFF 3 4||INDICATION FFF bp control FFF 9 10||INDICATION FFF cad; FFF 16 16||DIN FFF atenolol FFF 20 20||DOSE FFF 50 mg FFF 21 22||FREQ FFF qd FFF 23 23||
+243-02||11||Plan - continue current regimen with the exception of lisinopril - will increase to 20mg qd. pt has PE scheduled 5/31/78. bp recheck at that time no ophthalmology referral was made as he appears to be up to date with eye care||DIN FFF lisinopril FFF 9 9||DOSE FFF 20mg FFF 14 14||FREQ FFF qd. FFF 15 15||INDICATION FFF pe FFF 18 18||INDICATION FFF bp FFF 21 21||INDICATION FFF as FFF 31 31||RUT FFF eye FFF 40 40||
+243-02||12||N. levine, MD||INDICATION FFF md FFF 2 2||

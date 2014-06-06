@@ -1,0 +1,21 @@
+225-03	12	0	He had symptomatic relief until about one month ago when he began to experience exertional discomfort and dyspnea which has now progressed to symptoms at rest despite an aggressive medical regimen.	medical regimen. FFF 29 30	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+225-03	27	0	ACE Inhibitor - reaction: cough [reviewed]	ace inhibitor FFF 0 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+225-03	28	0	METFORMIN - reaction: GI Intolerance [reviewed]	metformin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+225-03	29	0	ROSUVASTATIN - reaction: myalgia [reviewed]	rosuvastatin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+225-03	30	0	SIMVASTATIN - reaction: myalgias [reviewed]	simvastatin FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+225-03	31	0	VALSARTAN - reaction: fatigue [reviewed]	valsartan FFF 0 0	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+225-03	70	0	- amlodipine besylate  10 MG PO daily	amlodipine besylate FFF 1 2	10 mg FFF 3 4	po FFF 5 5	daily FFF 6 6	 FFF 	 FFF 	narrative
+225-03	71	0	- ASPIRIN ENTERIC COATED (ASA ENTERIC COATED )  325 MG PO daily	ASPIRIN ENTERIC COATED (ASA ENTERIC COATED ) FFF 1 7	325 mg FFF 8 9	po FFF 10 10	daily FFF 11 11	 FFF 	 FFF 	narrative
+225-03	72	0	- atorvastatin  40 MG PO QPM	atorvastatin FFF 1 1	40 mg FFF 2 3	po FFF 4 4	qpm FFF 5 5	 FFF 	 FFF 	narrative
+225-03	73	0	- clopidogrel bisulfate  75 MG PO daily	clopidogrel bisulfate FFF 1 2	75 mg FFF 3 4	po FFF 5 5	daily FFF 6 6	 FFF 	 FFF 	narrative
+225-03	74	0	- escitalopram  40 MG PO daily	escitalopram FFF 1 1	40 mg FFF 2 3	po FFF 4 4	daily FFF 5 5	 FFF 	 FFF 	narrative
+225-03	75	0	- fenofibrate  200 MG PO daily	fenofibrate FFF 1 1	200 mg FFF 2 3	po FFF 4 4	daily FFF 5 5	 FFF 	 FFF 	narrative
+225-03	76	0	- furosemide  20 MG PO daily	furosemide FFF 1 1	20 mg FFF 2 3	po FFF 4 4	daily FFF 5 5	 FFF 	 FFF 	narrative
+225-03	77	0	- isosorbide mononitrate extended release  60 MG PO daily	isosorbide mononitrate extended release FFF 1 4	60 mg FFF 5 6	po FFF 7 7	daily FFF 8 8	 FFF 	 FFF 	narrative
+225-03	78	0	- KCL SLOW RELEASE TAB  10 MEQ PO daily	kcl slow release FFF 1 3	10 meq FFF 5 6	po FFF 7 7	daily FFF 8 8	 FFF 	 FFF 	narrative
+225-03	79	0	- metoprolol tartrate  12.5 MG PO BID	metoprolol tartrate FFF 1 2	12.5 mg FFF 3 4	po FFF 5 5	bid FFF 6 6	 FFF 	 FFF 	narrative
+225-03	80	0	- NITROGLYCERIN 1/200 (0.3 MG)  1 TAB SL Q 5 mins X 3 doses PRN	nitroglycerin FFF 1 1	1/200 FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+225-03	80	0	- NITROGLYCERIN 1/200 (0.3 MG)  1 TAB SL Q 5 mins X 3 doses PRN	nitroglycerin FFF 1 1	(0.3 mg) FFF 3 4	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+225-03	80	0	- NITROGLYCERIN 1/200 (0.3 MG)  1 TAB SL Q 5 mins X 3 doses PRN	nitroglycerin FFF 1 1	1 tab FFF 5 6	sl FFF 7 7	 FFF 	x 3 doses prn FFF 11 14	 FFF 	narrative
+225-03	81	0	- pantoprazole  40 MG PO daily	pantoprazole FFF 1 1	40 mg FFF 2 3	po FFF 4 4	daily FFF 5 5	 FFF 	 FFF 	narrative
+225-03	82	0	- ranolazine  1000 MG PO daily	ranolazine FFF 1 1	1000 mg FFF 2 3	po FFF 4 4	daily FFF 5 5	 FFF 	 FFF 	narrative

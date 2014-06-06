@@ -1,0 +1,83 @@
+225-03	1	0	Record date: 2094-12-16
+225-03	2	0		CARDIOLOGY
+225-03	3	0	
+225-03	4	0		OXFORD DELTA CLINIC
+225-03	5	0	
+225-03	6	0		Reason for visit:
+225-03	7	0	   s/p Coronary angiogram with placement Cypher stent to LAD
+225-03	8	0		Interval History:
+225-03	9	0	   The patient is a 70 yo male with a history of HTN, hyperlipidemia, DM, CAD and CABG September 2092 which was c/b premature graft failure of the SVG to LAD.
+225-03	10	0	Cardiac catheterization was performed in Jan 93 and underwent POBA of likely diffusely diseased, intramyocardial LAD, but never really improved.
+225-03	11	0	He was admitted to ODC in May 94 and cath demonstrated severe native disease with a mid-LAD lesion which was treated with PTCA/ Taxus stent.
+225-03	12	0	He had symptomatic relief until about one month ago when he began to experience exertional discomfort and dyspnea which has now progressed to symptoms at rest despite an aggressive medical regimen.
+225-03	13	0	He presented today for cath which revealed a new stenosis distal to the prior LAD stent which was patent.
+225-03	14	0	The lesion was stented with a 2.25 x 13 mm Cypher stent. he is now admitted to the Cardiology department for post procedure monitoring and arrived to cardio clinic pain free and hemodynamically stable.
+225-03	15	0		Past medical history:
+225-03	16	0	   DM
+225-03	17	0	HTN
+225-03	18	0	Hyperlipidemia
+225-03	19	0	CAD -CABG x 3 September 2092 WMMC (LIMA to D2, SVG to RCA, SVG to LAD) s/p PCI prox LAD Jan 2093, s/p Taxus stent to LAD 5/94
+225-03	20	0	GERD s/p H pylori eradication several years ago
+225-03	21	0	Left rotator cuff injury s/p CABG
+225-03	22	0	Anxiety
+225-03	23	0	hernia repair
+225-03	24	0	
+225-03	25	0		Changes to Allergies
+225-03	26	0	
+225-03	27	0	ACE Inhibitor - reaction: cough [reviewed]
+225-03	28	0	METFORMIN - reaction: GI Intolerance [reviewed]
+225-03	29	0	ROSUVASTATIN - reaction: myalgia [reviewed]
+225-03	30	0	SIMVASTATIN - reaction: myalgias [reviewed]
+225-03	31	0	VALSARTAN - reaction: fatigue [reviewed]
+225-03	32	0		Social history:
+225-03	33	0	   Lives with wife in Lagrange,KS.
+225-03	34	0	Retired.
+225-03	35	0	Former heavy smoker-quit x 30 yrs.
+225-03	36	0	Rare ETOH.
+225-03	37	0		Review of systems:
+225-03	38	0	   negative in detail other than mentioned in HPI
+225-03	39	0	Physical examination:
+225-03	40	0	
+225-03	41	0	-Pulse:
+225-03	42	0	-resp. rate:
+225-03	43	0	-height: 67  in.
+225-03	44	0	-weight: 175  lbs.
+225-03	45	0	-General:   No acute distress.
+225-03	46	0	-Skin:   No rashes, anicteric.
+225-03	47	0	-Neck:   2+ carotid pulses with normal upstrokes, no bruits, JVP 5-6 cm
+225-03	48	0	-Chest:   Clear to auscultation anteriorly
+225-03	49	0	-Cardiac:   Left ventricular impulse discrete and nondisplaced.
+225-03	50	0	Regular rate and rhythm, normal S1 and S2, with no S3 or S4.
+225-03	51	0	There were no murmurs, clicks or rubs. -Abdomen:   Normal bowel sounds, soft and nontender, with no hepatosplenomegaly or masses appreciated. -Extremities:   No cyanosis, clubbing or edema. 2+ femoral pulses without bruits. 2+ pedal pulses.
+225-03	52	0	-BP:
+225-03	53	0	-temp:
+225-03	54	0	-Pain scale (0 to 10): 0
+225-03	55	0		EKG:
+225-03	56	0	   SB @ 55, LAD, RBBB no acute changes
+225-03	57	790	Selected recent labs:
+225-03	58	790		 11/29/94 WBC 6.7, Hct 45, Plts 287
+225-03	59	790	         Na 144, K 4.5, Cl 106, BUN 17, Cr 1.2
+225-03	60	790	
+225-03	61	790		Impression:
+225-03	62	790	   70 yo male with CAD s/p CABG with early LAD graft failure s/p LAD stenting 5/94 now with recurrent symptoms found to have a new LAD stenosis that was Cypher stented today.
+225-03	63	790		Assessment and plan:
+225-03	64	790	   CV:Pain free and hemodynamically stable, HR and BP in good range continue current medical regimen and monitor
+225-03	65	0	DM:Diet controlled, monitor FSBS and cover as needed
+225-03	66	0	Further plans per Dr Paulson
+225-03	67	0			Medication List
+225-03	68	0	
+225-03	69	0					CONFIRMED
+225-03	70	0			- amlodipine besylate  10 MG PO daily
+225-03	71	0			- ASPIRIN ENTERIC COATED (ASA ENTERIC COATED )  325 MG PO daily
+225-03	72	0			- atorvastatin  40 MG PO QPM
+225-03	73	0			- clopidogrel bisulfate  75 MG PO daily
+225-03	74	0			- escitalopram  40 MG PO daily
+225-03	75	0			- fenofibrate  200 MG PO daily
+225-03	76	0			- furosemide  20 MG PO daily
+225-03	77	0			- isosorbide mononitrate extended release  60 MG PO daily
+225-03	78	0			- KCL SLOW RELEASE TAB  10 MEQ PO daily
+225-03	79	0			- metoprolol tartrate  12.5 MG PO BID
+225-03	80	0			- NITROGLYCERIN 1/200 (0.3 MG)  1 TAB SL Q 5 mins X 3 doses PRN
+225-03	81	0			- pantoprazole  40 MG PO daily
+225-03	82	0			- ranolazine  1000 MG PO daily
+225-03	83	0	

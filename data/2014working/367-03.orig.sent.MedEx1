@@ -1,0 +1,35 @@
+367-03||1||Record date: 2083-07-09
+367-03||2||Pt here for new PCP and f/u on multiple issues.
+367-03||3||Medications
+367-03||4||Premarin (CONJUGATED Estrogens) 2 GM PV QHS : SIG ONE APPLICATOR FULL AT HSX 1WK THEN TWICE PER WEEK||DBN FFF premarin FFF 0 0||
+367-03||5||Cozaar (LOSARTAN) 50MG, 1 Tablet(s) PO bid||DBN FFF cozaar FFF 0 0||MDBN FFF (losartan) FFF 1 1||DOSE FFF 50mg, FFF 2 2||DOSEAMT FFF 1 tablet(s) FFF 3 4||RUT FFF po FFF 5 5||FREQ FFF bid FFF 6 6||
+367-03||6||ATENOLOL 50MG, 0.5 Tablet(s) PO QD||DIN FFF atenolol FFF 0 0||DOSE FFF 50mg, FFF 1 1||DOSEAMT FFF 0.5 tablet(s) FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF qd FFF 5 5||
+367-03||7||Ativan (LORAZEPAM) 0.5MG, 1 Tablet(s) PNGT QD||DBN FFF ativan FFF 0 0||MDBN FFF (lorazepam) FFF 1 1||DOSE FFF 0.5mg, FFF 2 2||DOSEAMT FFF 1 tablet(s) FFF 3 4||FREQ FFF qd FFF 6 6||
+367-03||8||GLYBURIDE 5MG, 1 Tablet(s) PO QD||DIN FFF glyburide FFF 0 0||DOSE FFF 5mg, FFF 1 1||DOSEAMT FFF 1 tablet(s) FFF 2 3||RUT FFF po FFF 4 4||FREQ FFF qd FFF 5 5||
+367-03||9||Allergies
+367-03||10||Codeine - GI upset||DIN FFF codeine FFF 0 0||
+367-03||11||Sulfa - Rash||DIN FFF sulfa FFF 0 0||
+367-03||12||* lisinopril - cough||DIN FFF lisinopril FFF 1 1||INDICATION FFF cough FFF 3 3||
+367-03||13||Penicillins - Rash||DBN FFF penicillins FFF 0 0||
+367-03||14||* hctz - cramps||DPN FFF hctz FFF 1 1||INDICATION FFF cramps FFF 3 3||
+367-03||15||Problems
+367-03||16||Diabetes mellitus - cheated last weekend at a party, but mostly sugars 60-150s.
+367-03||17||Last low-sugar rxn was a month ago, and her glyb. was decreased.  She may have "polys".  She still has not called her eye doctor for an appt. b/c too busy.  Urine microalbumin nl.  HBA1C 6.6%
+367-03||18||Hypertension - did not increase atenolol as advised by Dr Buckley.||DIN FFF atenolol FFF 5 5||INDICATION FFF as FFF 6 6||
+367-03||19||Her home BPs are 150/70, but her pulse is often in the 50s, which is why she is taking only 1/2 of atenolol.||DIN FFF atenolol. FFF 22 22||
+367-03||20||Renal cancer : incidentally discovered, s/p nephrectomy
+367-03||21||Hyperparathyroidism : ? 2/2 Vit D deficiency.||INDICATION FFF hyperparathyroidism FFF 0 0||DIN FFF vit d FFF 4 5||
+367-03||22||Thyroid nodules.
+367-03||23||Being evaluated by Dr Lawson, SH Endocrine.
+367-03||24||However, the last time she went to Endo. she was told she did not have an appt. She has not rec'd another in the mail.  She never had the thyroid bx.  Last Ca nl. but phos low.
+367-03||25||Dyspepsia/ H Pylori : unable to tolerate bismuth, TCN, metronidazole or clarithromycin and metronidazole.||DIN FFF bismuth, FFF 7 7||
+367-03||25||Dyspepsia/ H Pylori : unable to tolerate bismuth, TCN, metronidazole or clarithromycin and metronidazole.||DIN FFF tcn, FFF 8 8||
+367-03||25||Dyspepsia/ H Pylori : unable to tolerate bismuth, TCN, metronidazole or clarithromycin and metronidazole.||DIN FFF metronidazole FFF 9 9||
+367-03||25||Dyspepsia/ H Pylori : unable to tolerate bismuth, TCN, metronidazole or clarithromycin and metronidazole.||DIN FFF clarithromycin FFF 11 11||
+367-03||25||Dyspepsia/ H Pylori : unable to tolerate bismuth, TCN, metronidazole or clarithromycin and metronidazole.||DIN FFF metronidazole. FFF 13 13||
+367-03||26||She has occ. dyspepsia, for which she takes prn ranitidine, none lately.  Of note, recent guaiacs positive.  She had a colonoscopy 2079, which showed a polyp and diverticulosis.  Three year f/u rec.  Pt has been afraid to reschedule b/c was not sufficiently anesthetised the last time and had a lot of pain.||DIN FFF ranitidine, FFF 9 9||DRT FFF three year FFF 28 29||INDICATION FFF f/u FFF 30 30||INDICATION FFF pain. FFF 51 51||
+367-03||27||Plantar Fasciitis - resolved.
+367-03||28||RHM - UTD.
+367-03||29||SH - married.
+367-03||30||Husband has some medical problems, but is able to drive her on all her errands, as she does not dirve.
+367-03||31||No cigs, EtOH, sexual activity.

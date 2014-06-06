@@ -1,0 +1,6 @@
+365-04	3	0	OldhamChief Complaint This patient is admitted to the hospital for gastric bypassHistory of Present Illness The patient has a  10  year history of Type 2 diabetes.	a 10 FFF 18 19	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+365-04	4	0	He was treated with  metformin and insulin.	metformin FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+365-04	4	0	He was treated with  metformin and insulin.	insulin. FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+365-04	5	0	Unclear when metformin was discontinued.	metformin FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
+365-04	6	0	Currently the patient is treated with   detemir 60 bid and novolog 50 ac  as an outpatient .	novolog FFF 10 10	50 FFF 11 11	 FFF 	bid FFF 8 8	 FFF 	 FFF 	narrative
+365-04	12	0	He received Lantus 30.	lantus FFF 2 2	30. FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	narrative

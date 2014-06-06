@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2092-07-28
+
+Abdominal Pain
+
+   80 yr old female sent from Assisted living RN for abdo pain that was brought to RN's attention yesterday.
+
+   patient came to RN;s office 7/27 complaining severe low abd pain " as in cramps".  
+
+   Yesterday temp 98;1 BP 108/64. patient observed in pain with each spasm lasting 30 -45 seconds per RN written report. Comes today to Brown Hospital for evaluation.
+
+
+
+ Patient not really able to give me any hx. Her complaint was of urinary incontinence. When I asked about the abdo pain she was not sure of any history. Denies any diarrhea, fever, dysuria, hematuria, melana.
+
+ Patient says she takes prune juice daily for bowels to avoid constipaiton.
+
+
+
+ Patient denied any hx of diverticultis or prior similar problems.
+
+ Asking her about scar on hypogastruim she said was a bladder operation.
+
+   
+
+ Pertinent PMH:
+
+    Is diabetic on glyburide
+
+    Has been on prednisone for PMR, tpaering dose. Current dose per RN sheet is total 8 mg per day prednisone.
+
+    Although mention of prior colonoscopy is made, I could not find record of results to see if known diverticuli
+
+    A more recent colonoscopy attempt failed do to poor clean- out and patient intolerance
+
+    Hx of chronic diarrhea
+
+
+
+    Son reports worsening depression recently with move to the Forest Hills Center. Patient has appt with 
+
+       Dr. Regina Reeves of Geriatric Psych 7/30.
+
+
+
+
+
+Problems
+
+Urinary incontinence : s/p sling procedure in 4/91; s/p 3 prior bladder suspension surgeries
+
+Hypertension 
+
+Depression 
+
+Elevated cholesterol 
+
+Diarrhea 
+
+Polymyalgia rheumatica : diagnosed in 1/91
+
+S/P rectocele repair 
+
+Paroxysmal atrial fibrillation : controlled with medication
+
+Peripheral neuropathy : unclear etiology
+
+Hyperlipidemia 
+
+H/O Alcohol abuse 
+
+S/P urosepsis : admission in 9/90
+
+chronic diarrhea : colonoscopy attempted in 9/90 but pt not able to tolerate procedure
+
+Dementia : Mild-moderate; neuropsychiatric test done in 5/91 
+
+
+
+
+
+Medications
+
+Folic Acid 1MG, 1 Tablet(s) PO QD
+
+Ecotrin (ASPIRIN Enteric Coated) 325MG, 1 Tablet(s) PO QD
+
+Metoprolol Tartrate 50MG, 1 Tablet(s) PO TID
+
+SOTALOL 80MG, 1 Tablet(s) PO BID
+
+Thiamine Hcl 100MG, 1 Tablet(s) PO QD
+
+DIGOXIN 0.125MG, 1 Tablet(s) PO QD
+
+Ferrous Sulfate 325MG, 1 Tablet(s) PO QD
+
+Mvi (MULTIVITAMINS) 1 CAPSULE PO QD
+
+Calcium Carbonate Vit D(1TABLET=250MG E... 500 MG PO TID
+
+NITROFURANTOIN 100MG, 1 Capsule(s) PO QD
+
+Aricept (DONEPEZIL Hcl) 5 MG PO QHS x 30 day(s)
+
+Zocor (SIMVASTATIN) 20MG, 1 Tablet(s) PO QHS x 30 day(s)
+
+GLYBURIDE 2.5MG, 1 Tablet(s) PO QD
+
+PREDNISONE 5MG, 1 Tablet(s) PO QAM
+
+PREDNISONE 1MG, 3 Tablet(s) PO QAM : total 8 mg/
+
+Paxil (PAROXETINE) 20MG, 1 Tablet(s) PO QD 
+
+Vitamin B 1 100 mg qd
+
+
+
+The above meds were same as on the med list patient brought from Forest Hills
+
+
+
+
+
+Allergies
+
+NKDA 
+
+
+
+
+
+Vital signs
+
+BP 144/90 ,Temp 98.9 
+
+
+
+NAD. patient able to jump off of table without pain, lively
+
+Lungs: clear 
+
+Cor: RR 72
+
+Abd: soft BS normal   
+
+        no rebound  no percussion tenderness, no guarding
+
+        However, patient did wince in pain when I palpated LLQ. She denied was very painful though
+
+        no masses, no h/s megly
+
+Rectal: ? slight tender toward LLQ, no masses
+
+           stool: heme negative
+
+
+
+Urine  Dipstick::
+
+-PH 7.0
+
+DS-LEUKOCYTES NEGATIVE
+
+UA-Protein TRACE
+
+DS-GLUCOSE 1000
+
+DS-KETONES NEGATIVE
+
+DS-BLOOD NEGATIVE
+
+
+
+Impression: Pateint appears well and has minimal physical findings (minimal pain on palp LLQ) but given
+
+                       that she is on prednisone which may mask symptoms, as well as diabetic and dementia
+
+                       could also obscure exam as well as history, I am concerned about acute diverticulitis.
+
+
+
+                 I am unable to find if known diverticuli in past.
+
+
+
+Plan:      To get Abdo/Pelvic CT now
+
+              Will get CBC with diff, chemistries including LFT's, amylase
+
+               Send urine for culture
+
+
+
+Naima Zavaleta, MD 
+
+
+
+
+
+. 
+
+    
+
+
+
+
+
+ 
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC3" time="before DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC6" time="during DCT" indicator="mention"/>
+    <HYPERLIPIDEMIA id="DOC17" time="after DCT" indicator="mention"/>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC8" time="after DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC9" time="during DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC14" time="before DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC15" time="during DCT" type1="statin" type2=""/>
+    <MEDICATION id="DOC18" time="before DCT" type1="aspirin" type2=""/>
+    <MEDICATION id="DOC19" time="before DCT" type1="sulfonylureas" type2=""/>
+    <MEDICATION id="DOC21" time="before DCT" type1="beta blocker" type2=""/>
+    <MEDICATION id="DOC22" time="during DCT" type1="beta blocker" type2=""/>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="high bp"/>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention"/>
+    <HYPERTENSION id="DOC20" time="before DCT" indicator="mention"/>
+    <FAMILY_HIST id="DOC16" indicator="not present"/>
+    <SMOKER id="DOC12" status="unknown"/>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention"/>
+    <DIABETES id="DOC13" time="before DCT" indicator="mention"/>
+    <DIABETES id="DOC23" time="after DCT" indicator="mention"/>
+  </TAGS>
+</root>
