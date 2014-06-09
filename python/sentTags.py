@@ -160,7 +160,10 @@ class Tag:
         self.type=treeNode.tag
     
     def __eq__(self,other):
-        return self.start==other.start and self.end==other.end and self.lineNum==other.lineNum
+        if other==None:
+            return False
+        else:
+            return self.start==other.start and self.end==other.end and self.lineNum==other.lineNum
     def __hash__(self):
         return hash((self.start,self.end,self.lineNum))
         

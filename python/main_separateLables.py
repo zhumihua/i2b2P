@@ -21,11 +21,12 @@ if __name__=="__main__":
     outFiles=[o1,o2,o3,o4]
     
     for line in f:
+        line=line.strip()
         feature_label=re.split('\,',line)
         labels=feature_label[-4:]
         features=feature_label[:-4]
         for i,out in enumerate(outFiles):
-            out.write(",".join(labels[i]+features)+"\n")
+            out.write(",".join([labels[i]]+features)+"\n")
               
     f.close()
     for out in outFiles:

@@ -12,4 +12,4 @@ from sentTags import aReport
 if __name__=="__main__":
     
     dd=ds(None)
-    dd.DS2CSV_dependency(sys.argv[0])
+    dd.DS2CSV_dependency(sys.argv[1])

@@ -13,6 +13,8 @@ import nltk
 import lexicons
 from nltk.tag.stanford import NERTagger
 
+TF2binary=lambda x: str(0) if (x == False or x==0) else str(1)
+
 
 def collect(l,index):
     return map(itemgetter(index),l)
@@ -54,6 +56,7 @@ class TagInstance:
     features_lexicon=None 
     features_relWords=None
     features_secName=None
+
     
     i_sec=''
 #     sec_id=''
@@ -118,7 +121,8 @@ class TagInstance:
         return self.features_relWords.values()
     def getAInstance(self):
         if self.o_tag==None:
-            return [self.i_id,self.i_type,self.isMed]+self.getFeature_sec()+self.getFeature_rel()+self.getFeatures_pos()+self.getLabels()
+            return [self.isMed]+self.getFeature_sec()+self.getFeature_rel()+self.getFeatures_pos()+self.getLabels()            
+            #return [self.i_id,self.i_type,self.isMed]+self.getFeature_sec()+self.getFeature_rel()+self.getFeatures_pos()+self.getLabels()
         else:
             return [self.i_id,self.i_type,self.isMed,self.o_tag.text,self.o_tag.sec_id,self.o_tag.start,self.o_tag.end]+self.getFeatures_pos()+[self.sent]+self.getLabels()
     def getHeadline(self):
@@ -168,7 +172,7 @@ class ds:
             aInstance.setLabel(tag.time)
             aInstance.setFeatures_pos()
             aInstance.setFeatures_sent()
-            aInstance.setFeatures_section()
+            aInstance.setFeatures_section(tag.sec_id)
             self.instances[tagId]=aInstance
             
     def addAllInstances(self):
@@ -183,6 +187,16 @@ class ds:
         for key,value in self.instances.iteritems():
             print '\t'.join(map(str,value.getAInstance()))
             ret+='\t'.join(map(str,value.getAInstance()))+"\n"
+        return ret
+    
+    def printBinaryDS(self,headLine):
+        ret=''
+        if headLine:
+            print ','.join(self.getHeadline())
+            ret=','.join(self.getHeadline())+"\n"
+        for key,value in self.instances.iteritems():
+            print ','.join(map(TF2binary,value.getAInstance()))
+            ret+=','.join(map(TF2binary,value.getAInstance()))+"\n"
         return ret
             
 #     def separateTags(self,outDir):
@@ -218,7 +232,7 @@ class ds:
                 aInstance.setAFeatures_relWord(columns[-1])
                 self.instances[tagId]=aInstance
                 
-        return self.printDS(headLine)
+        return self.printBinaryDS(headLine)
         #return self.printLibSVM()
 
         
