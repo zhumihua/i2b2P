@@ -3,7 +3,7 @@ dirIn='../data/Track2-RiskFactors/complete'
 dirOut='../csv'
 dir2014working='../data/2014working/'
 
-python2.7 main_xml2CSV1.py ${dirIn} ${dirOut} ${dir2014working}
+python2.7 main_xml2CSV1.py ${dirIn} ${dir2014working} ${dirOut}
 
 #get dependency features
 JAVA_DF_SRC=../i2b2Features/src/
