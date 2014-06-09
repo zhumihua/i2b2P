@@ -46,7 +46,8 @@ features_pathLEngth
 class TagInstance:
     i_type=''
     isMed=False
-    i_id=''
+    i_id=''  
+    
     sent='' 
     labels=None
     features_pos=None
@@ -193,7 +194,7 @@ class ds:
         return self.printDS(headLine)
     
     def DS2CSV_dependency(self,fileName='result.xls',headLine=False):
-        csvFile=open('result.xls','r')
+        csvFile=open(fileName,'r')
         lines=csvFile.read().splitlines()
         csvFile.close()
         
@@ -217,8 +218,8 @@ class ds:
                 aInstance.setAFeatures_relWord(columns[-1])
                 self.instances[tagId]=aInstance
                 
-       # return self.printDS(headLine)
-        return self.printLibSVM()
+        return self.printDS(headLine)
+        #return self.printLibSVM()
 
         
         

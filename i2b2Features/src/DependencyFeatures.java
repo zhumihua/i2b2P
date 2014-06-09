@@ -24,7 +24,7 @@ public class DependencyFeatures {
 	}
 	
 	  public static void main(String[] args) throws FileNotFoundException {
-		  args=new String[]{"csv/test.xls","result.xls"};
+		 // args=new String[]{"csv/test.xls","result.xls"};
 	  
 	    if (args.length > 0) {
 	    	loadFile(args[0],args[1]);

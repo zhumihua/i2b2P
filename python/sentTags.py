@@ -92,10 +92,10 @@ def writeCSVFiles(dirIn,dir2014working, dirOut):
             dsCSV=ads.DS2CSV(printHeadLine)
             printHeadLine=False
             #####todo write to file
-#             outName=os.path.join(dirOut,'time.csv')
-#             fout=open(outName,'w')
-#             fout.write(dsCSV)
-#             fout.close()
+            outName=os.path.join(dirOut,'time.csv')
+            fout=open(outName,'w')
+            fout.write(dsCSV)
+            fout.close()
             
             
     print 'files created'
@@ -544,23 +544,23 @@ class aReport:
 
 # dirIn=sys.argv[1]
 # dirOut=sys.argv[2]
-#outName=sys.argv[3]
-dirIn='../data/Track2-RiskFactors/complete'
-#dirIn= '../data/training-RiskFactors-Complete-Set1'
-dirIn='../data/test'
-dirOut='../csv'
-
+# #outName=sys.argv[3]
+# dirIn='../data/Track2-RiskFactors/complete'
+# #dirIn= '../data/training-RiskFactors-Complete-Set1'
+# dirIn='../data/test'
+# dirOut='../csv'
+# 
+# # oReport=aReport(dirIn+'/320-01.xml')
+# # oReport.orig2SentReport_method(splitSentences_nltk)
+# # oReport.tagSection()
+# # oReport.writeXMLReport("adfa")
+# 
 # oReport=aReport(dirIn+'/320-01.xml')
-# oReport.orig2SentReport_method(splitSentences_nltk)
+# sentFilename=('../data/2014working/320-01.orig.sent')
+# oReport.orig2SentReport(sentFilename)
+# oReport.testAlign()
 # oReport.tagSection()
 # oReport.writeXMLReport("adfa")
-
-oReport=aReport(dirIn+'/320-01.xml')
-sentFilename=('../data/2014working/320-01.orig.sent')
-oReport.orig2SentReport(sentFilename)
-oReport.testAlign()
-oReport.tagSection()
-oReport.writeXMLReport("adfa")
 
 
 
@@ -591,8 +591,8 @@ oReport.writeXMLReport("adfa")
 # writeCSVFiles(dirIn,dir2014working,dirOut)
 
 # print 'sss'
-# dd=ds(None)
-# dd.DS2CSV_dependency(dd)
+dd=ds(None)
+dd.DS2CSV_dependency(dd)
 
 
 
