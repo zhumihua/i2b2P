@@ -13,8 +13,7 @@ import nltk
 import lexicons
 from nltk.tag.stanford import NERTagger
 
-TF2binary=lambda x: str(0) if (x == False or x==0) else str(1)
-
+TF2binary=lambda x: str(0) if (str(x) == 'False' or str(x)=='0') else str(1)
 
 def collect(l,index):
     return map(itemgetter(index),l)
@@ -207,7 +206,7 @@ class ds:
         self.addAllInstances()
         return self.printDS(headLine)
     
-    def DS2CSV_dependency(self,fileName='result.xls',headLine=False):
+    def DS2CSV_dependency(self,fileName='../csv/time_depen.csv',headLine=False):
         csvFile=open(fileName,'r')
         lines=csvFile.read().splitlines()
         csvFile.close()
@@ -225,15 +224,15 @@ class ds:
                 
                 #(self,i_id,i_type,sent)
                 aInstance=TagInstance(tagId,tagType,sent,None)
-                aInstance.loadLabel(columns[13:17])
-                aInstance.loadFeatures_pos(columns[6:12])
+                aInstance.loadLabel(columns[14:18])
+                aInstance.loadFeatures_pos(columns[7:13])
                 #aInstance.loadFeatures_sent()
                 aInstance.setFeatures_section(columns[4])
                 aInstance.setAFeatures_relWord(columns[-1])
                 self.instances[tagId]=aInstance
                 
         return self.printBinaryDS(headLine)
-        #return self.printLibSVM()
+
 
         
         
