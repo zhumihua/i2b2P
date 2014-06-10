@@ -4,6 +4,7 @@
 #include <ctype.h>
 #include <errno.h>
 #include "svm.h"
+#include "eval.h"
 #define Malloc(type,n) (type *)malloc((n)*sizeof(type))
 
 void print_null(const char *s) {}
@@ -50,7 +51,9 @@ void exit_input_error(int line_num)
 
 void parse_command_line(int argc, char **argv, char *input_file_name, char *model_file_name);
 void read_problem(const char *filename);
-void do_cross_validation();
+//void do_cross_validation();
+double cv =  binary_class_cross_validation(&prob, &param, nr_fold);
+printf("Cross Validation = %g%%\n",100.0*cv);
 
 struct svm_parameter param;		// set by parse_command_line
 struct svm_problem prob;		// set by read_problem
