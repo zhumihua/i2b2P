@@ -4,6 +4,7 @@
 #include <string.h>
 #include <errno.h>
 #include "svm.h"
+#include "eval.h"
 
 int print_null(const char *s,...) {return 0;}
 
