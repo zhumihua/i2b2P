@@ -13,12 +13,18 @@ import nltk
 import lexicons
 from nltk.tag.stanford import NERTagger
 
-TF2binary=lambda x: str(0) if (str(x) == 'False' or str(x)=='0') else str(1)
+def TF2binary(x):
+    if str(x) == 'False' or str(x) == '0':
+        return str(0)
+    elif str(x) == '-1':
+        return str(-1)
+    else:
+        return str(1)
 
 def collect(l,index):
     return map(itemgetter(index),l)
 
-labelSeq=['during DCT','before DCT','after DCT','continuing']
+labelSeq=['during DCT','before DCT','after DCT','continuing', ]
 posSeq=['VB','VBD','VBN','VBP','VBZ','MD']
 lexiconSeq=re.split(',','before,after,cause,causedBy,during,starting,continuing,ending,suddenly,now,says')
 #dependencySeq=re.split(',','gov,gov_POS')
@@ -43,6 +49,14 @@ the dependency from each entity to their common ancestor and the path between th
 features_pathLEngth
 
 '''
+'''
+first column is the tag_id,the last four column is the time attribute value(four values in the dtd)
+time ( before DCT | during DCT | after DCT | continuing ) 
+'''
+# class Features:
+#     TAG_ID==0
+#     BEFORE_DCT,DURING_DCT,AFTER_DCT,CONTINUING=
+    
 
 class TagInstance:
     i_type=''
@@ -70,7 +84,7 @@ class TagInstance:
         self.i_type=i_type
         self.sent=sent
         
-        self.labels=OrderedDict.fromkeys(labelSeq, 0)
+        self.labels=OrderedDict.fromkeys(labelSeq, -1)
     
         self.features_pos=OrderedDict.fromkeys(posSeq,0)
         self.setIsMed(i_type)
@@ -125,11 +139,15 @@ class TagInstance:
         else:
             return [self.i_id,self.i_type,self.isMed,self.o_tag.text,self.o_tag.sec_id,self.o_tag.start,self.o_tag.end]+self.getFeatures_pos()+[self.sent]+self.getLabels()
     def getHeadline(self):
-        ret=['id','type','isMed']
-        ret+=posSeq
-        ret+=lexiconSeq
-        ret+=labelSeq
-        return ['id','type','isMed','VB','VBD','VBN','VBP','VBZ','MD','during DCT','before DCT','after DCT','continuing']
+        if self.o_tag==None:
+            ret =['isMed']
+        else:
+            ret=['id','type','isMed']
+            ret+=posSeq
+            ret+=lexiconSeq
+            ret+=labelSeq
+            return ret
+#             return ['id','type','isMed','VB','VBD','VBN','VBP','VBZ','MD','during DCT','before DCT','after DCT','continuing']
     def loadLabel(self,values):
         for i,aLable in enumerate(labelSeq):
             self.labels[aLable]=values[i]

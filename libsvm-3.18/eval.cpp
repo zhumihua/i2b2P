@@ -316,7 +316,10 @@ double binary_class_cross_validation(const svm_problem *prob, const svm_paramete
 	free(perm);
 	free(fold_start);
 
-	return validation_function(dec_values, ty);	
+    accuracy(dec_values, ty);
+	precision(dec_values, ty);
+	recall(dec_values, ty);
+	return validation_function(dec_values, ty);
 }
 
 
@@ -394,6 +397,9 @@ void binary_class_predict(FILE *input, FILE *output){
 	}	
 
 	validation_function(dec_values, true_labels);
+    accuracy(dec_values, true_labels);
+	precision(dec_values, true_labels);
+	recall(dec_values, true_labels);
 
 	free(labels);
 	free(x);

@@ -27,7 +27,7 @@ def loadDataset(csvFile):
     
     for label in ys:
         prob=svm_problem(label,x)
-        param=svm_parameter('-t 0 -v 10')
+        param=svm_parameter('-t 0 -v 10 -h 0')
         m=svm_train(prob,param)
         
     
