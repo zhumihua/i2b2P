@@ -31,7 +31,7 @@ OUTDEPENDENCY4=${dirOut}/dependency_pos4.csv
 
 python2.7 main_nominal2binary.py ${OUTCSVFILE} >${OUTDEPENDENCY}
 
-python2.7 main_separatelables.py $OUTDEPENDENCY $OUTDEPENDENCY1 $OUTDEPENDENCY2 $OUTDEPENDENCY3 $OUTDEPENDENCY4
+python2.7 main_separateLables.py $OUTDEPENDENCY $OUTDEPENDENCY1 $OUTDEPENDENCY2 $OUTDEPENDENCY3 $OUTDEPENDENCY4
 
 LIBSVMDATA1=${dirOut}/dependency_pos1.data
 LIBSVMDATA2=${dirOut}/dependency_pos2.data
@@ -44,8 +44,8 @@ python2.7 main_csv2libsvm.py $OUTDEPENDENCY3 $LIBSVMDATA3
 python2.7 main_csv2libsvm.py $OUTDEPENDENCY4 $LIBSVMDATA4
 
 #10-fold cross validation using libsvm command line
-
-#make -C ../libsvm-3.18/
+make clean -C ../libsvm-3.18/
+make -C ../libsvm-3.18/
 ../libsvm-3.18/svm-train -t 0 -v 10 -h 0 $LIBSVMDATA1 > ${dirOut}/result1.txt
 ../libsvm-3.18/svm-train -t 0 -v 10 -h 0 $LIBSVMDATA2 > ${dirOut}/result1.txt
 ../libsvm-3.18/svm-train -t 0 -v 10 -h 0 $LIBSVMDATA3 > ${dirOut}/result1.txt
