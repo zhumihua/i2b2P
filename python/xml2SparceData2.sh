@@ -50,9 +50,9 @@ python2.7 main_csv2libsvm.py $OUTDEPENDENCY1 $LIBSVMDATA1
 python2.7 main_csv2libsvm.py $OUTDEPENDENCY2 $LIBSVMDATA2
 python2.7 main_csv2libsvm.py $OUTDEPENDENCY3 $LIBSVMDATA3
 python2.7 main_csv2libsvm.py $OUTDEPENDENCY4 $LIBSVMDATA4
-python2.7 main_csv2libsvm.py $OUTDEPENDENCY4 $LIBSVMDATA5
-python2.7 main_csv2libsvm.py $OUTDEPENDENCY4 $LIBSVMDATA6
-python2.7 main_csv2libsvm.py $OUTDEPENDENCY4 $LIBSVMDATA7
+python2.7 main_csv2libsvm.py $OUTDEPENDENCY5 $LIBSVMDATA5
+python2.7 main_csv2libsvm.py $OUTDEPENDENCY6 $LIBSVMDATA6
+python2.7 main_csv2libsvm.py $OUTDEPENDENCY7 $LIBSVMDATA7
 
 #10-fold cross validation using libsvm command line
 make clean -C ../libsvm-3.18/

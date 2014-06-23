@@ -46,10 +46,10 @@ if __name__=="__main__":
         labels=feature_label[-4:]
         features=feature_label[:-4]
         
-        labels[-1]=str((-1)*reduce(lambda x,y: int(x)*int(y),labels[:-1]))
-        labels.append(str(int(labels[0])*int(lables[1])))
-        labels.append(str(int(labels[0])*int(lables[2])))
-        labels.append(str(int(labels[1])*int(lables[2])))
+        labels[-1]=str(reduce(lambda x,y: int(x)*int(y),labels[:-1]))
+        labels.append('1' if labels[0]=='1' and  labels[1]=='1' else '-1')
+        labels.append('1' if labels[0]=='1' and  labels[2]=='1' else '-1')
+        labels.append('1' if labels[1]=='1' and  labels[2]=='1' else '-1')
         
         for i,out in enumerate(outFiles):
             out.write(",".join([labels[i]]+features)+"\n")
