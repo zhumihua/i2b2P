@@ -40,28 +40,6 @@ def collect(l,index):
     return map(itemgetter(index),l)
 
 
-def xml2tagcsv(dirIn,dirOut):
-        #create folder
-    printHeadLine=True
-    if os.path.exists(dirOut) == False:    
-            os.mkdir(dirOut)
-            
-    #Explore Directories
-    for dirname, dirnames, filenames in os.walk(dirIn):
-        for filename in filenames:
-            if filename.strip()[0]=='.' :
-                continue
-            f = os.path.join(dirname, filename)            
-           # print "f: ",f
-            oReport = aReport(f)
-            oReport.loadReport_tags()
-            oReport.tagSection()
-            oReport.make_df_tags()
-            oReport.print_df_csv(dirOut)
-
-            
-            
-    print 'files created'
     
 def writeCSVFiles(dirIn, dirOut):
     #create folder
@@ -400,9 +378,9 @@ class aReport:
             
             
 
-    def print_df_csv(self,outDir):
+    def print_df_csv(self,file):
          outName=re.split('\.',self.id)[0]+'.csv'
-         self.df_tags.to_csv(outDir+outName,sep='\t',index=False)
+         self.df_tags.to_csv(file,sep='\t',index=False)
    
     def make_df_tags(self):
         texts=[]
@@ -469,7 +447,12 @@ if __name__=="__main__":
             oReport.loadReport_tags()
             oReport.tagSection()
             oReport.make_df_tags()
-            oReport.print_df_csv("./")
+            dirOut=''
+            outFileName=dirOut+re.split('\.',oReport.id)[0]+'.csv'
+            outFile=open(outFileName,'w')
+            outFile.write(oReport.text)
+            oReport.print_df_csv(outFile)
+            outFile.close()
             
 
         

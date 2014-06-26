@@ -13,9 +13,9 @@ from operator import itemgetter
 from sentTags import aReport
 
 
-    
 def xml2tagcsv(dirIn,dirOut):
         #create folder
+    printHeadLine=True
     if os.path.exists(dirOut) == False:    
             os.mkdir(dirOut)
             
@@ -30,8 +30,12 @@ def xml2tagcsv(dirIn,dirOut):
             oReport.loadReport_tags()
             oReport.tagSection()
             oReport.make_df_tags()
+            outFileName=dirOut+re.split('\.',oReport.id)[0]+'.csv'
+            outFile=open(outFileName,'w')
+            outFile.write(oReport.text)
             oReport.print_df_csv(dirOut)
-            print f+':created'
+            outFile.close()
+            print outFileName
 
             
             
