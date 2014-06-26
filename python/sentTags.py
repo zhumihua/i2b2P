@@ -57,7 +57,7 @@ def xml2tagcsv(dirIn,dirOut):
             oReport.loadReport_tags()
             oReport.tagSection()
             oReport.make_df_tags()
-            oReport.print_df_csv
+            oReport.print_df_csv(dirOut)
 
             
             
@@ -400,9 +400,9 @@ class aReport:
             
             
 
-    def print_df_csv(self):
+    def print_df_csv(self,outDir):
          outName=re.split('\.',self.id)[0]+'.csv'
-         self.df_tags.to_csv(outName,sep='\t',index=False)
+         self.df_tags.to_csv(outDir+outName,sep='\t',index=False)
    
     def make_df_tags(self):
         texts=[]
@@ -469,7 +469,7 @@ if __name__=="__main__":
             oReport.loadReport_tags()
             oReport.tagSection()
             oReport.make_df_tags()
-            oReport.print_df_csv()
+            oReport.print_df_csv("./")
             
 
         

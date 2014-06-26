@@ -16,7 +16,6 @@ from sentTags import aReport
     
 def xml2tagcsv(dirIn,dirOut):
         #create folder
-    printHeadLine=True
     if os.path.exists(dirOut) == False:    
             os.mkdir(dirOut)
             
@@ -31,7 +30,8 @@ def xml2tagcsv(dirIn,dirOut):
             oReport.loadReport_tags()
             oReport.tagSection()
             oReport.make_df_tags()
-            oReport.print_df_csv
+            oReport.print_df_csv(dirOut)
+            print f+':created'
 
             
             
