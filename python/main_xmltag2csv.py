@@ -33,7 +33,7 @@ def xml2tagcsv(dirIn,dirOut):
             outFileName=dirOut+re.split('\.',oReport.id)[0]+'.csv'
             outFile=open(outFileName,'w')
             outFile.write(oReport.text)
-            oReport.print_df_csv(dirOut)
+            oReport.print_df_csv(outFile)
             outFile.close()
             print outFileName
 
