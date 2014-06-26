@@ -14,12 +14,21 @@ from nltk.tokenize.punkt import PunktWordTokenizer
 from nltk.tokenize import WordPunctTokenizer
 from nltk.tokenize import WhitespaceTokenizer
 
-from dataSet import ds
+import numpy as ny
+from scipy.stats import mode
+from pandas import DataFrame
 
-#    f=open(path+fileName,"w")
-#    call(["perl","Sent1.pl",filePath],stdout=f)
-#
 
+
+labelSeq=['during DCT','before DCT','after DCT']
+
+
+def IsMed(type):
+    if not type.upper() in 'DIABETES CAD HYPERTENSION HYPERLIPIDEMIA OBESE'.split():
+        return 1
+    else:
+        return 0
+    
 def prettify(elem):
     """Return a pretty-printed XML string for the Element.
     """
@@ -30,11 +39,8 @@ def prettify(elem):
 def collect(l,index):
     return map(itemgetter(index),l)
 
-def splitSentences_nltk(text):
-    from nltk import tokenize
-    return tokenize.sent_tokenize(text)
 
-def tag_sentToken(dirIn,dirOut):
+def xml2tagcsv(dirIn,dirOut):
         #create folder
     printHeadLine=True
     if os.path.exists(dirOut) == False:    
@@ -48,24 +54,16 @@ def tag_sentToken(dirIn,dirOut):
             f = os.path.join(dirname, filename)            
            # print "f: ",f
             oReport = aReport(f)
+            oReport.loadReport_tags()
+            oReport.tagSection()
+            oReport.make_df_tags()
+            oReport.print_df_csv
 
-            oReport.orig2SentReport_method(splitSentences_nltk)
-            #oReport.writeXMLReport("adfa")
-            #oReport.reDupTag()
-            
-            ads=ds(oReport)
-            dsCSV=ads.DS2CSV(printHeadLine)
-            printHeadLine=False
-            #####todo write to file
-#             outName=os.path.join(dirOut,'time.csv')
-#             fout=open(outName,'w')
-#             fout.write(dsCSV)
-#             fout.close()
             
             
     print 'files created'
     
-def writeCSVFiles(dirIn,dir2014working, dirOut):
+def writeCSVFiles(dirIn, dirOut):
     #create folder
     printHeadLine=True
     if os.path.exists(dirOut) == False:    
@@ -79,14 +77,9 @@ def writeCSVFiles(dirIn,dir2014working, dirOut):
             f = os.path.join(dirname, filename)            
            # print "f: ",f
             oReport = aReport(f)
-            sentFileName=dir2014working+re.split('\.',filename)[0]+'.orig.sent'
-            #print "sent: ",sentFileName
             
-            oReport.orig2SentReport(sentFileName)
+            oReport.loadReport_tags()
             oReport.tagSection()
-            #oReport.orig2SentReport_method(splitSentences_nltk)
-            #oReport.writeXMLReport("adfa")
-            #oReport.reDupTag()
             
             ads=ds(oReport)
             dsCSV=ads.DS2CSV(printHeadLine)
@@ -101,11 +94,6 @@ def writeCSVFiles(dirIn,dir2014working, dirOut):
     print 'files created'
 
 #d = enchant.Dict("en_US")
-
-#lambdas
-#[\t\s\.,;:\(\)]+
-# numbSpace = lambda s:len(re.split('[\t\s]+',s.strip()))-1 #number of space of string s
-# wordPunctToken = lambda s:re.split('[\t\s\.,;:\(\)]+',s.strip())# return word list of string s
 
 numbSpace = lambda s:len(nltk.word_tokenize(s.strip()))-1
 
@@ -125,13 +113,13 @@ getETAttr = lambda e, s:e.get(s)  #return the value of attribute s of element e
 getETTime = lambda e: getETAttr(e,'time')
 getETStart = lambda e: int(getETAttr(e,'start'))
 getETEnd = lambda e: int(getETAttr(e,'end'))
-getETLineNum = lambda e: int(getETAttr(e,'lineNum'))
+
 
 setETAttr = lambda e, s, v : e.set(s,str(v)) #set value of attribute s of element e
 setETTime = lambda e,v: setETAttr(e,'time',v)
 setETStart = lambda e,v: setETAttr(e,'start',v)
 setETEnd = lambda e,v: setETAttr(e,'end',v)
-setETLineNum = lambda e,v: setETAttr(e,'lineNum',v)
+
 
 removeDuplicate = lambda l: list(OrderedDict.fromkeys(l))
 
@@ -147,7 +135,7 @@ class Tag:
     text=''
     comment=''
     treeNode=None
-    lineNum=-1
+
     
     sec_id=''
     
@@ -163,9 +151,9 @@ class Tag:
         if other==None:
             return False
         else:
-            return self.start==other.start and self.end==other.end and self.lineNum==other.lineNum
+            return self.start==other.start and self.end==other.end 
     def __hash__(self):
-        return hash((self.start,self.end,self.lineNum))
+        return hash((self.start,self.end))
         
     
     def setStart(self,newStart):
@@ -176,14 +164,7 @@ class Tag:
         #print "old end: ", self.end
         self.end=newEnd
         setETEnd(self.treeNode,newEnd)
-    def setLineNum(self,lineNum):
-        #print "lineNum: ",lineNum
-        self.lineNum=lineNum
-        setETLineNum(self.treeNode,lineNum)
-    def setLineStartEnd(self,lineNum,newStart,newEnd):
-        self.setLineNum(lineNum)
-        self.setStart(newStart)
-        self.setEnd(newEnd)
+
         
     def setSecID(self,secName):
         self.sec_id=secName
@@ -201,7 +182,7 @@ class Tag_Disease(Tag):
     def __eq__(self,other):
         return Tag.__eq__(self,other)and self.time==other.time
     def __hash__(self):
-        return hash((self.start,self.end,self.lineNum,self.time))
+        return hash((self.start,self.end,self.time))
  
 class Tag_Medication(Tag):
     type1=''
@@ -215,7 +196,7 @@ class Tag_Medication(Tag):
     def __eq__(self,other):
         return Tag.__eq__(self,other)and self.time==other.time
     def __hash__(self):
-        return hash((self.start,self.end,self.lineNum,self.time))
+        return hash((self.start,self.end,self.time))
     
 
 class Tag_Smoke(Tag):
@@ -250,6 +231,8 @@ class aReport:
     tag_secName=[]
     
     textLines=[]
+    
+    df_tags=None
     
     def __init__(self,fileName):
         self.id=os.path.basename(fileName)
@@ -296,15 +279,7 @@ class aReport:
             self.tag_medications.append(tag_temp)
             self.tags.append(tag_temp)  
             
-    def getTagLine(self,tag):
-        if tag.lineNum<0:
-            return ""
-        elif tag.lineNum<len(self.textLines):
-            
-            return self.textLines[tag.lineNum]
-           # return ' '.join(whitespaceToken(self.textLines[tag.lineNum]))
-        else: 
-            return ''
+
            
         
     
@@ -330,21 +305,12 @@ class aReport:
         return " ".join(words[tag.start:tag.end+1])
                 
   
-    def orig2SentReport(self,sentFileName):
+    def loadReport_tags(self):
         self.loadAReport()
         self.tree2Tag()
-        self.alignTags_sentFile(sentFileName)
         
-    def orig2SentReport_method(self,sentFunction):
-        self.loadAReport()
-        self.tree2Tag()
-        self.alignTags_method(sentFunction)
-
-    def writeXMLReport(self,outputName):
-#         f=open(outputName,'w')
-#         f.write(prettify(self.root))
-#         f.close()
-        
+ 
+    def writeXMLReport(self,outputName):        
         print prettify(self.root)
           
     ##TODO add new tags for temporal expression, or PHI
@@ -389,128 +355,23 @@ class aReport:
         map(self.makeDiseaseTag,self.tree_hypertension)
         map(self.makeDiseaseTag,self.tree_hyperlipidemia)
         
-        self.tags.sort(key=lambda x:x.start, reverse=False)
+        self.tags.sort(key=lambda x:(x.start,-x.end), reverse=False)
 #         for tag in self.tags:
 #             print prettify(tag.treeNode)
     
         
-    def alignTags(self,sentLines):
-        old_tagStart=-1
-        old_tagEnd=-1
-        pre_tag=None
-        lineNum=0
-        origOffset=0
-        origTokens=[]
-        origTokenOffset=0
-        sentTokens=whitespaceToken(sentLines[lineNum])
-        sentTokenOffset=0
 
-#         for sent in sentLines:
-#             print sent
-        for aTag in self.tags:
-#             print aTag.text
-            if aTag.start==old_tagStart and aTag.end<=old_tagEnd:
-                    aTag.setLineStartEnd(pre_tag.lineNum,pre_tag.start,pre_tag.end)
-                    
-            elif (aTag.start==old_tagStart and aTag.end>old_tagEnd):
-                    tagTokens_pre=whitespaceToken(self.text[old_tagStart:old_tagEnd])
-                    old_tagEnd=aTag.end
-                    tagTokens=whitespaceToken(self.text[old_tagStart:old_tagEnd])
-                    diff=len(tagTokens)-len(tagTokens_pre)
-                    aTag.setLineStartEnd(lineNum,pre_tag.start,pre_tag.end+diff)
-                    origOffset=old_tagEnd
-                    sentTokenOffset+=diff
-            elif (aTag.start>old_tagStart and aTag.start<old_tagEnd and aTag.end>old_tagEnd):
-                pass         
-            elif (aTag.start>old_tagStart and aTag.start<old_tagEnd and aTag.end<=old_tagEnd):
-                pass      
-            elif aTag.start>old_tagStart and aTag.end<=old_tagEnd:
-                pass
-                #aTag.setLineStartEnd(pre_tag.lineNum,pre_tag.start,pre_tag.end)
-            else:
-                old_tagStart=aTag.start
-                old_tagEnd=aTag.end
-                tagTokens=whitespaceToken(self.text[old_tagStart:old_tagEnd])
-                origTokens=whitespaceToken(' '.join(splitSentences_nltk(self.text[origOffset:old_tagStart])))
-#                 if origOffset>0:
-#                     if self.text[origOffset-1].isalpha() and self.text[origOffset].isalpha():
-#                         if len(origTokens)>0:
-#                             origTokens=origTokens[1:]
-#                         else:
-#                             continue
-                
-                origTokenOffset=0
-                
-                while origTokenOffset<len(origTokens):
-                    while sentTokenOffset>=len(sentTokens):
-                        sentTokenOffset=sentTokenOffset-len(sentTokens)
-                        lineNum+=1
-                        if lineNum>=len(sentLines):
-                            return
-                        sentTokens=whitespaceToken(sentLines[lineNum])
-                    
-                    #print sentTokens,sentTokenOffset,aTag.text
-                    if origTokens[origTokenOffset]==sentTokens[sentTokenOffset]:
-                        origTokenOffset+=1
-                        sentTokenOffset+=1
-                        
-                    else:
-                        origTokenOffset+=1
-#                         print "not match"
-#                         print origTokens
-#                         print sentTokens
-#                         print origTokens[origTokenOffset]
-#                         print sentTokens[sentTokenOffset]
-#                         print aTag.text
-#                         sys.exit()
-
-                
-                aTag.setLineStartEnd(lineNum,sentTokenOffset,sentTokenOffset+len(tagTokens)-1)
-                origOffset=old_tagEnd
-                sentTokenOffset+=len(tagTokens)
-                
-#                 print '==============',tagTokens              
-            pre_tag=aTag
-           
-             
-
-                
-    def alignTags_sentFile(self,sentFilename):
-        if len(self.tags)<=0:
-            print 'no tags'
-            return
-        sentFile=open(sentFilename)
-        sentText=sentFile.read()
-        self.setXMLText(sentText)
-        sentFile.close()
-        sentLines=sentText.splitlines()
-        self.alignTags(sentLines)
-        self.textLines=sentLines
-        self.text='\n'.join(sentLines)
-        
-    def alignTags_method(self,sentFunction):
-        sentText=sentFunction(self.text)
-        self.alignTags(sentText)
-        
-    def testAlign(self):
-        for tag in self.tags:
-            tagText=' '.join(whitespaceToken(self.textLines[tag.lineNum])[tag.start:tag.end+1])
-            if removePunct(tagText)!=tag.text:
-                print tagText,tag.text
-                print self.textLines[tag.lineNum]
-
-            else:
-                print 'true'
-            
-
-    def addSecTag(self,lineIndex,line,secName):
+    
+    def addSecTag(self,lineIndex,start,end,secName):
         treeNode=ET.Element('SecIndicator')
-        treeNode.set('lineNum',str(lineIndex))
-        treeNode.set('text',line)
+        setETStart(treeNode,start)
+        setETStart(treeNode,end)
+        treeNode.set('text',secName)
         treeNode.set('secName',secName)
         self.root.append(treeNode)
-        aTag=Tag(0,0, line,'',treeNode)
-        aTag.lineNum=lineIndex
+        aTag=Tag(0,0, secName,'',treeNode)
+        aTag.start=start
+        aTag.end=end
         aTag.type=treeNode.tag
         aTag.sec_id=secName
         self.tag_secName.append(aTag)
@@ -520,19 +381,95 @@ class aReport:
     def tagSection(self,refFile='./sec_Names.txt'):
         secFile=open(refFile)
         secNames=secFile.read().splitlines()
-        
+        offset=0
         for lineIndex, line in enumerate(self.textLines):
             for sec in secNames:
                 if sec.lower() in line.lower():
-                    self.addSecTag(lineIndex,line,sec)
+                    start=self.text.find(line,offset)
+                    self.addSecTag(lineIndex,start,start+len(line),sec)
+                    offset=start+len(line)
+                    break
                     
         secTagIndex=0
         currSec='UNKNOWN'    
         for atag in self.tags:
-            while secTagIndex<len(self.tag_secName) and atag.lineNum>=self.tag_secName[secTagIndex].lineNum:
+            while secTagIndex<len(self.tag_secName) and atag.start>=self.tag_secName[secTagIndex].start:
                     currSec=self.tag_secName[secTagIndex].sec_id
                     secTagIndex+=1
             atag.setSecID(currSec)
+            
+            
+
+    def print_df_csv(self):
+         outName=re.split('\.',self.id)[0]+'.csv'
+         self.df_tags.to_csv(outName,sep='\t',index=False)
+   
+    def make_df_tags(self):
+        texts=[]
+        indicatorNames=[]
+        med_diseases=[]
+        starts=[]
+        ends=[]
+        sectionNames=[]
+        time_befores=[]
+        time_durings=[]
+        time_afters=[]
+        
+        for atag in self.tags:
+            texts.append(atag.text)
+            indicatorNames.append(atag.type)
+            med_diseases.append(IsMed(atag.type))
+            starts.append(atag.start)
+            ends.append(atag.end)
+            sectionNames.append(atag.sec_id)
+            
+            if atag.time=='during DCT':
+                time_durings.append(1)
+                time_befores.append(0)
+                time_afters.append(0)
+            elif atag.time=='before DCT':
+                time_befores.append(1)
+                time_durings.append(0)
+                time_afters.append(0) 
+            elif atag.time=='after DCT':
+                time_afters.append(1)
+                time_befores.append(0)
+                time_durings.append(0)
+        
+        
+        headNames=['b_text','b_indiName','b_isMed','a_start','a_end','b_sectName','time_before','time_during','time_after']
+        columnValues=[ texts,indicatorNames,med_diseases,starts,ends,sectionNames,time_befores,time_durings,time_afters]
+        adict=dict(zip(headNames, columnValues))
+        self.df_tags=DataFrame(adict)
+        
+        
+        grouped=self.df_tags.groupby(['a_start','a_end'],as_index=False)
+        agged=grouped.agg({'b_text':{'b_text':lambda x: x.iloc[0]},
+                                    'b_indiName':{'b_indiName':lambda x: x.iloc[0]},
+                                    'b_isMed':{'b_isMed':lambda x: x.iloc[0]},
+                                    'b_sectName':{'b_sectName':lambda x: x.iloc[0]},
+                                   'time_before':{'time_before':lambda x: int(ny.any(x))},
+                                   'time_during':{'time_during':lambda x: int(ny.any(x))},
+                                   'time_after':{'time_after':lambda x: int(ny.any(x))} })
+        
+        agged.columns=agged.columns.droplevel(1)
+        self.df_tags=agged.sort_index(axis=1)
+       
+
+        
+        
+        
+
+        
+                       
+
+if __name__=="__main__":
+            f='../data/training-RiskFactors-Complete-Set1/220-01.xml'
+            oReport = aReport(f)
+            oReport.loadReport_tags()
+            oReport.tagSection()
+            oReport.make_df_tags()
+            oReport.print_df_csv()
             
 
         
