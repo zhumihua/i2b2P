@@ -16,11 +16,19 @@ from nltk.tokenize import WhitespaceTokenizer
 
 import numpy as ny
 from scipy.stats import mode
-from pandas import DataFrame
+import pandas as pd
+
+import csv
 
 
 
 labelSeq=['during DCT','before DCT','after DCT']
+diabetesIndicator=['mention','A1C','glucose']
+cadIndicator=['mention','event','test','symptom']
+hypertensionIndicator=['mention','high bp']
+hyperlipidemiaIndicator=['mention','high chol.','high LDL']
+obeseIndicator=['mention','BMI','waist circum.']
+diseaseIndi=['mention','event','test','symptom','A1C','glucose','event ','test ','symptom','high bp','high chol.','high LDL''BMI','waist circum.']
 
 
 def IsMed(type):
@@ -40,38 +48,6 @@ def collect(l,index):
     return map(itemgetter(index),l)
 
 
-    
-def writeCSVFiles(dirIn, dirOut):
-    #create folder
-    printHeadLine=True
-    if os.path.exists(dirOut) == False:    
-            os.mkdir(dirOut)
-            
-    #Explore Directories
-    for dirname, dirnames, filenames in os.walk(dirIn):
-        for filename in filenames:
-            if filename.strip()[0]=='.' :
-                continue
-            f = os.path.join(dirname, filename)            
-           # print "f: ",f
-            oReport = aReport(f)
-            
-            oReport.loadReport_tags()
-            oReport.tagSection()
-            
-            ads=ds(oReport)
-            dsCSV=ads.DS2CSV(printHeadLine)
-            printHeadLine=False
-            #####todo write to file
-            outName=os.path.join(dirOut,'time.csv')
-            fout=open(outName,'w')
-            fout.write(dsCSV)
-            fout.close()
-            
-            
-    print 'files created'
-
-#d = enchant.Dict("en_US")
 
 numbSpace = lambda s:len(nltk.word_tokenize(s.strip()))-1
 
@@ -103,8 +79,6 @@ removeDuplicate = lambda l: list(OrderedDict.fromkeys(l))
 
 
 
-
-
 #class
 class Tag:
     type=''
@@ -113,7 +87,6 @@ class Tag:
     text=''
     comment=''
     treeNode=None
-
     
     sec_id=''
     
@@ -175,16 +148,6 @@ class Tag_Medication(Tag):
         return Tag.__eq__(self,other)and self.time==other.time
     def __hash__(self):
         return hash((self.start,self.end,self.time))
-    
-
-class Tag_Smoke(Tag):
-    status=''
-    ## TODO
-
-class Tag_Family(Tag):
-    indicator=''
-    ## TODO
-
 
 
 class aReport:
@@ -211,6 +174,7 @@ class aReport:
     textLines=[]
     
     df_tags=None
+    df_secTags=None
     
     def __init__(self,fileName):
         self.id=os.path.basename(fileName)
@@ -318,7 +282,7 @@ class aReport:
                     return aSen_trimed[m.start():]
                     
         print "file "+self.id+" different dct format"
-        return ""
+        return " "
    
 
         
@@ -343,7 +307,7 @@ class aReport:
     def addSecTag(self,lineIndex,start,end,secName):
         treeNode=ET.Element('SecIndicator')
         setETStart(treeNode,start)
-        setETStart(treeNode,end)
+        setETEnd(treeNode,end)
         treeNode.set('text',secName)
         treeNode.set('secName',secName)
         self.root.append(treeNode)
@@ -376,15 +340,29 @@ class aReport:
                     secTagIndex+=1
             atag.setSecID(currSec)
             
+        nextStart=-1
+        for asectag in reversed(self.tag_secName):
+            if nextStart==-1:
+                nextStart=asectag.start
+                asectag.end=len(self.text)
+            else:
+                asectag.end=nextStart
+                nextStart=asectag.start
+            
+            
             
 
     def print_df_csv(self,file):
-         outName=re.split('\.',self.id)[0]+'.csv'
-         self.df_tags.to_csv(file,sep='\t',index=False)
+         self.df_tags.to_csv(file,sep=',',quoting=csv.QUOTE_ALL,index=False)
+         self.df_secTags.to_csv(file,sep=',',quoting=csv.QUOTE_ALL,index=False)
    
     def make_df_tags(self):
+        
+        #i2b2Tags
+        
         texts=[]
         indicatorNames=[]
+        disease_indic=[]
         med_diseases=[]
         starts=[]
         ends=[]
@@ -401,6 +379,11 @@ class aReport:
             ends.append(atag.end)
             sectionNames.append(atag.sec_id)
             
+            if isinstance(atag,Tag_Medication):
+                disease_indic.append(atag.type1)
+            else:
+                disease_indic.append(atag.indicator)
+            
             if atag.time=='during DCT':
                 time_durings.append(1)
                 time_befores.append(0)
@@ -415,10 +398,10 @@ class aReport:
                 time_durings.append(0)
         
         
-        headNames=['b_text','b_indiName','b_isMed','a_start','a_end','b_sectName','time_before','time_during','time_after']
-        columnValues=[ texts,indicatorNames,med_diseases,starts,ends,sectionNames,time_befores,time_durings,time_afters]
+        headNames=['b_text','b_indiName','b_diseaseIndic','b_isMed','a_start','a_end','b_sectName','time_before','time_during','time_after']
+        columnValues=[ texts,indicatorNames,disease_indic,med_diseases,starts,ends,sectionNames,time_befores,time_durings,time_afters]
         adict=dict(zip(headNames, columnValues))
-        self.df_tags=DataFrame(adict)
+        self.df_tags=pd.DataFrame(adict)
         
         
         grouped=self.df_tags.groupby(['a_start','a_end'],as_index=False)
@@ -428,18 +411,32 @@ class aReport:
                                     'b_sectName':{'b_sectName':lambda x: x.iloc[0]},
                                    'time_before':{'time_before':lambda x: int(ny.any(x))},
                                    'time_during':{'time_during':lambda x: int(ny.any(x))},
-                                   'time_after':{'time_after':lambda x: int(ny.any(x))} })
+                                   'time_after':{'time_after':lambda x: int(ny.any(x))},
+                                   'b_diseaseIndic':{'b_diseaseIndic':lambda x:x.iloc[0]} })
         
         agged.columns=agged.columns.droplevel(1)
+        #add the DCT as a column before time_after
+        dcts=[self.dct]*len(self.tags)
+        agged['b_dct']=pd.Series(dcts)
         self.df_tags=agged.sort_index(axis=1)
-       
-
         
+        #secName tags
         
+        sec_texts=[]
+        sec_starts=[]
+        sec_ends=[]
         
-
-        
-                       
+        for asecTag in self.tag_secName:
+            sec_texts.append(asecTag.text)
+            sec_starts.append(asecTag.start)
+            sec_ends.append(asecTag.end)
+            
+        secheadNames=['b_text','a_start','a_end']
+        seccolumnValues=[ sec_texts,sec_starts,sec_ends]
+        adict=dict(zip(secheadNames, seccolumnValues))
+        self.df_secTags=pd.DataFrame(adict)
+        self.df_secTags=self.df_secTags.sort_index(axis=1)
+             
 
 if __name__=="__main__":
             f='../data/training-RiskFactors-Complete-Set1/220-01.xml'
