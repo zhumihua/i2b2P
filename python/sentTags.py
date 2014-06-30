@@ -81,16 +81,17 @@ removeDuplicate = lambda l: list(OrderedDict.fromkeys(l))
 
 #class
 class Tag:
-    type=''
-    start=-1
-    end=-1
-    text=''
-    comment=''
-    treeNode=None
-    
-    sec_id=''
+
     
     def __init__(self,start, end, text,comment,treeNode):
+        self.type=''
+        self.start=-1
+        self.end=-1
+        self.text=''
+        self.comment=''
+        self.treeNode=None
+        
+        self.sec_id=''
         self.start = start
         self.end = end
         self.text = text
@@ -124,8 +125,7 @@ class Tag:
         
 #DIABETES CAD HYPERTENSION HYPERLIPIDEMIA OBESE  
 class Tag_Disease(Tag):
-    indicator=''
-    time=''
+
     def __init__(self,start, end, text,comment,treeNode, indicator, time):
         Tag.__init__(self, start, end, text,comment,treeNode)
         self.indicator=indicator
@@ -136,9 +136,7 @@ class Tag_Disease(Tag):
         return hash((self.start,self.end,self.time))
  
 class Tag_Medication(Tag):
-    type1=''
-    type2=''
-    time=''
+
     def __init__(self, start, end, text,comment,treeNode, type1, type2, time):
         Tag.__init__(self, start, end, text,comment,treeNode)
         self.type1=type1
@@ -151,32 +149,32 @@ class Tag_Medication(Tag):
 
 
 class aReport:
-    root=None
-    text=''
-    id=''
-    dct=None
-    tree_medications=None
-    tree_obeses=None
-    tree_diabetes=None
-    tree_cad=None
-    tree_hypertension=None
-    tree_hyperlipidemia=None
-    tree_smoke=None
-    tree_family=None
-    
-    tree_secName=None
-    
-    tag_medications=[]
-    tag_disease=[]
-    tags=[]
-    tag_secName=[]
-    
-    textLines=[]
-    
-    df_tags=None
-    df_secTags=None
     
     def __init__(self,fileName):
+        self.root=None
+        self.text=''
+        self.id=''
+        self.dct=None
+        self.tree_medications=None
+        self.tree_obeses=None
+        self.tree_diabetes=None
+        self.tree_cad=None
+        self.tree_hypertension=None
+        self.tree_hyperlipidemia=None
+        self.tree_smoke=None
+        self.tree_family=None
+        
+        self.tree_secName=None
+        
+        self.tag_medications=[]
+        self.tag_disease=[]
+        self.tags=[]
+        self.tag_secName=[]
+        
+        self.textLines=[]
+        
+        self.df_tags=None
+        self.df_secTags=None
         self.id=os.path.basename(fileName)
         tree = ET.parse(fileName)
         self.root = tree.getroot() 
@@ -439,6 +437,18 @@ class aReport:
              
 
 if __name__=="__main__":
+            f='../data/training-RiskFactors-Complete-Set1/360-04.xml'
+            oReport = aReport(f)
+            oReport.loadReport_tags()
+            oReport.tagSection()
+            oReport.make_df_tags()
+            dirOut=''
+            outFileName=dirOut+re.split('\.',oReport.id)[0]+'.csv'
+            outFile=open(outFileName,'w')
+            outFile.write(oReport.text)
+            oReport.print_df_csv(outFile)
+            outFile.close()
+            
             f='../data/training-RiskFactors-Complete-Set1/220-01.xml'
             oReport = aReport(f)
             oReport.loadReport_tags()
