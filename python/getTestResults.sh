@@ -32,7 +32,7 @@ mkdir ${dirDataSetTestOut}
 
 #ctakes result to dataSet.py
 
-python2.7 TestDS.py ${dirCtakesOut} ${dirDataSetTestOut}
+python2.7 TestDs.py ${dirCtakesOut} ${dirDataSetTestOut}
 
 
 
@@ -43,12 +43,14 @@ duringModel="../csv/during.model"
 afterModel="../csv/after.model"
 
 #pridict
-predictContinue="../csv/pre_continue.ret"
-predictBefore="../csv/pre_before.ret"
-predictDuring="../csv/pre_during.ret"
-predictAfter="../csv/pre_after.ret"
+predictContinue="../csv/pre_continue/"
+predictBefore="../csv/pre_before/"
+predictDuring="../csv/pre_during/"
+predictAfter="../csv/pre_after/"
 
-../libsvm-3.18/svm-predict  "${dirDataSetTestOut}continue.data"  "${continueModel}" "${predictContinue}"
-../libsvm-3.18/svm-predict  "${dirDataSetTestOut}before.data"  "${beforeModel}" "${predictBefore}"
-../libsvm-3.18/svm-predict  "${dirDataSetTestOut}during.data"  "${duringModel}" "${predictDuring}"
-../libsvm-3.18/svm-predict  "${dirDataSetTestOut}after.data"  "${afterModel}" "${predictAfter}"
+for dataFile in `${dirDataSetTestOut}`;do
+../libsvm-3.18/svm-predict  "${dirDataSetTestOut}${dataFile}"  "${continueModel}" "${predictContinue}${dataFile}"
+../libsvm-3.18/svm-predict  "${dirDataSetTestOut}${dataFile}"  "${beforeModel}" "${predictBefore}${dataFile}"
+../libsvm-3.18/svm-predict  "${dirDataSetTestOut}${dataFile}"  "${duringModel}" "${predictDuring}${dataFile}"
+../libsvm-3.18/svm-predict  "${dirDataSetTestOut}${dataFile}"  "${afterModel}" "${predictAfter}${dataFile}"
+done
