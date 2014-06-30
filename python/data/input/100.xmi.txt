@@ -1,0 +1,25 @@
+1	 s/p ant SEMI + stent LAD 2/67,	Problems	event
+7	Hyperlipidemia 	Problems	mention
+7	Hctz	Medications	diuretic
+7	Nitroglycerin	Medications	nitrate
+7	Zestril	Medications	ACE inhibitor
+7	HTN	Problems	mention
+1	/p ant SEMI + stent LAD	Problems	event
+7	Hypertension	Problems	mention	VBN
+7	lipitor	Problems	statin
+7	ATENOLOL	Medications	beta blocker
+7	Lipitor (ATORVASTATIN)	Medications	statin
+7	Norvasc (AMLODIPINE)	Medications	calcium channel blocker
+7	Asa (ACETYLSALICYLIC Acid)	Medications	aspirin
+7	Zestril (LISINOPRIL)	Medications	ACE inhibitor
+1	 ant SEMI + stent LAD	Problems	event
+1	s/p MI	Problems	event	VBD	VBG
+7	Norvasc	Medications	calcium channel blocker
+7	CAD	Problems	mention
+7	Asa	Medications	aspirin
+7	Lipitor	Medications	statin
+7	Zestril 	Medications	ACE inhibitor
+7	Coronary artery disease	Problems	mention
+7	Hyperlipidemia	Problems	mention
+7	Hctz (HYDROCHLOROTHIAZIDE)	Medications	diuretic
+7	Nitroglycerin 1/150	Medications	nitrate

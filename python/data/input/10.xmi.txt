@@ -1,0 +1,8 @@
+7	Hyperlipidemia	PMH/PSH	mention
+7	Glipizide Xl	PMH/PSH	sulfonylureas	VB
+7	Pravastatin	PMH/PSH	statin
+7	LISINOPRIL	PMH/PSH	ACE inhibitor	VB
+7	Glipizide	PMH/PSH	sulfonylureas	VB
+7	METFORMIN	PMH/PSH	metformin
+7	diabetic	UNKNOWN	mention	VBD	VBD	VBN	VBN	VBD	VBZ	VBZ
+7	Diabetes mellitus type 2	PMH/PSH	mention
