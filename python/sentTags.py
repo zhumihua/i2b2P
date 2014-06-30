@@ -260,15 +260,15 @@ class aReport:
     def loadAReport(self):   
         self.text = self.root.find('TEXT').text
         self.dct=self.parseDCT()
-        tree_tags=self.root.find('tree_tags')  
-        self.tree_medications=tree_tags.findall('MEDICATION')
-        self.tree_obeses=tree_tags.findall('OBESE')
-        self.tree_diabetes=tree_tags.findall('DIABETES')
-        self.tree_cad=tree_tags.findall('CAD')
-        self.tree_hypertension=tree_tags.findall('HYPERTENSION')
-        self.tree_hyperlipidemia=tree_tags.findall('HYPERLIPIDEMIA')
-        self.tree_smoke=tree_tags.findall('SMOKER')
-        self.tree_family=tree_tags.findall('FAMILY_HIST')
+        tree_tag=self.root.find('TAGS')  
+        self.tree_medications=tree_tag.findall('MEDICATION')
+        self.tree_obeses=tree_tag.findall('OBESE')
+        self.tree_diabetes=tree_tag.findall('DIABETES')
+        self.tree_cad=tree_tag.findall('CAD')
+        self.tree_hypertension=tree_tag.findall('HYPERTENSION')
+        self.tree_hyperlipidemia=tree_tag.findall('HYPERLIPIDEMIA')
+        self.tree_smoke=tree_tag.findall('SMOKER')
+        self.tree_family=tree_tag.findall('FAMILY_HIST')
         
         self.textLines=self.text.splitlines()
         
