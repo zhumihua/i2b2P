@@ -64,15 +64,14 @@ time ( before DCT | during DCT | after DCT | continuing )
 #     BEFORE_DCT,DURING_DCT,AFTER_DCT,CONTINUING=
           
     
-class ds:
+class TestDS:
     #2    170/84    physical exam    high bp    VBN
     DICT_HEAD={'timeValue':0,'annoText':1,"secName":2, "indicator":3,"POS":4}
     #label, id of the instance
-    def __init__(self,dirIn):
-        self.instances={0:[],1:[],2:[],3:[],4:[],5:[],6:[],7:[]}
-        self.catFiles(dirIn)
+    def __init__(self,dirIn,dirOut):
+        self.loadFile(dirIn,dirOut)
         
-    def catFiles(self,dirIn):
+    def loadFile(self,dirIn,dirOut):
         for dirname, dirnames, filenames in os.walk(dirIn):
             for filename in filenames:
                 if filename.strip()[0]=='.' :
@@ -80,15 +79,17 @@ class ds:
                 f = os.path.join(dirname, filename)
                 ff=open(f) 
                 lines=ff.read().splitlines()
+                fout=open(dirOut+fileName+".data","w")
                 for line in lines:
-                    values=re.split("\t",line)
-                    self.instances[int(values[self.DICT_HEAD['timeValue']])].append(line)
+                    self.createInstance(line,fout)
+                fout.close()
+                ff.close()
+
    
-    def spaceAline(self,timeValue,p_n,of):
-        for line in self.instances.get(timeValue):
+    def createInstance(self,line,fout):
                 featureColumns=[] 
                 values=re.split("\t", line)
-                alineDS=p_n
+                alineDS=values[0]
                 for value in values[1:]:
                     column=dictFeature.get(value)
                     if column is not None and column not in featureColumns:
@@ -96,52 +97,18 @@ class ds:
                 featureColumns.sort()
                 for aCol in featureColumns:
                     alineDS+=" "+str(aCol)+":1"
-                of.write(alineDS+'\n')
+                fout.write(alineDS+'\n')
                         
                         
-    def continueData(self,dirOut):
-        f=open(dirOut+"continue.data",'w')
-        self.spaceAline(7, '1', f)
-        for qq in [0,1,2,3,4,5,6]:
-            self.spaceAline(qq, '-1', f)
-        f.close()
 
-    def beforeData(self,dirOut):
-        f=open(dirOut+"before.data",'w')
-        for qq in [1,3,5,7]:
-            self.spaceAline(qq, '1', f)
-        for pp in [0,2,4,6]:
-            self.spaceAline(pp, '-1', f)
-        f.close()
-        
-    def duringData(self,dirOut):
-        f=open(dirOut+"during.data",'w')
-        for qq in [2,3,6,7]:
-            self.spaceAline(qq, '1', f)
-        for pp in [0,1,4,5]:
-            self.spaceAline(pp, '-1', f)
-        f.close()
-        
-    def afterData(self,dirOut):
-        f=open(dirOut+"after.data",'w')
-        for qq in [4,5,6,7]:
-            self.spaceAline(qq, '1', f)
-        for pp in [1,2,3]:
-            self.spaceAline(pp, '-1', f)
-        f.close()
     
            
     
 if __name__=="__main__":
     dirIn = sys.argv[1]
     dirOut=sys.argv[2]
-    a=ds(dirIn)
-    a.continueData(dirOut)
-    a.beforeData(dirOut)
-    a.duringData(dirOut)
-    a.afterData(dirOut)
-#     a=ds('data/input/')
-#     a.continueData('data/output/')
+    a=TestDS(dirIn,dirOut)
+
     
 
         
