@@ -106,7 +106,30 @@ class ds:
             self.spaceAline(qq, '-1', f)
         f.close()
 
-           
+    def beforeData(self,dirOut):
+        f=open(dirOut+"before.data",'w')
+        for qq in [1,3,5]:
+            self.spaceAline(qq, '1', f)
+        for pp in [0,2,4,6]:
+            self.spaceAline(pp, '-1', f)
+        f.close()
+        
+    def duringData(self,dirOut):
+        f=open(dirOut+"during.data",'w')
+        for qq in [2,3,6]:
+            self.spaceAline(qq, '1', f)
+        for pp in [0,1,4,5]:
+            self.spaceAline(pp, '-1', f)
+        f.close()
+        
+    def afterData(self,dirOut):
+        f=open(dirOut+"after.data",'w')
+        for qq in [4,5,6]:
+            self.spaceAline(qq, '1', f)
+        for pp in [1,2,3]:
+            self.spaceAline(pp, '-1', f)
+        f.close()
+    
            
     
 if __name__=="__main__":
@@ -114,6 +137,9 @@ if __name__=="__main__":
     dirOut=sys.argv[2]
     a=ds(dirIn)
     a.continueData(dirOut)
+    a.beforeData(dirOut)
+    a.duringData(dirOut)
+    a.afterData(dirOut)
 #     a=ds('data/input/')
 #     a.continueData('data/output/')
     
