@@ -344,19 +344,20 @@ class aReport:
         
         
     def predictTimes(self,dirContinue,dirBefore,dirDuring,dirAfter):
-        fContinue=open(dirContinue+self.id+".csv.txt.data")
+        recordId=re.split("\.",self.id)[0]
+        fContinue=open(dirContinue+recordId+".csv.txt.data")
         continues=fContinue.read().splitlines()
         fContinue.close()
         
-        fBefore=open(dirBefore+self.id+".csv.txt.data")
+        fBefore=open(dirBefore+recordId+".csv.txt.data")
         befores=fBefore.read().splitlines()
         fBefore.close()
         
-        fDuring=open(dirDuring+self.id+".csv.txt.data")
+        fDuring=open(dirDuring+recordId+".csv.txt.data")
         durings=fDuring.read().splitlines()
         fDuring.close()
         
-        fAfter=open(dirAfter+self.id+".csv.txt.data")
+        fAfter=open(dirAfter+recordId+".csv.txt.data")
         afters=fAfter.read().splitlines()
         fAfter.close()
         
