@@ -347,8 +347,8 @@ class aReport:
             setETType2(tn,getETType2(aTag.treeNode))
         else:
             setETIndicator(tn,getETIndicator(aTag.treeNode))
-        setETComment(t,getETComment(aTag.treeNode))
-        setETId("DOC"+str(self.docID))
+        setETComment(tn,getETComment(aTag.treeNode))
+        setETId(tn,"DOC"+str(self.docID))
         self.docID+=1
         self.tree_predict.append(tn)
         return tn
@@ -378,10 +378,10 @@ class aReport:
                 setETTime(tb,"before DCT")
             
                 td=self.cloneET(apredict[0])
-                setETime(td,"during DCT")
+                setETTime(td,"during DCT")
                
                 ta=self.cloneET(apredict[0])
-                setETime(ta,"after DCT")
+                setETTime(ta,"after DCT")
                
             else:
                 if apredict[2]==str(1):
