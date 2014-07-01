@@ -4,7 +4,8 @@ predictXML="../xml/"
 rm ${predictXML}*
 mkdir ${predictXML}
 
-dirTestIn=../data/Track2-RiskFactors/complete/
+dirTestIn=/data/i2b2/2014i2b2/src/dev_output/
+#dirTestIn=../data/Track2-RiskFactors/complete/
 dirTestToEx=../csv/i2b2timeTagTest/
 
 rm ${dirTestToEx}*

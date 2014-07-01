@@ -9,6 +9,7 @@ import re
 from collections import OrderedDict
 from operator import itemgetter
 
+import codecs
 
 from sentTags import aReport
 
@@ -31,7 +32,7 @@ def xml2tagcsv(dirIn,dirOut):
             oReport.tagSection()
             oReport.make_df_tags()
             outFileName=dirOut+re.split('\.',oReport.id)[0]+'.csv'
-            outFile=open(outFileName,'w')
+            outFile=codecs.open(outFileName,'w','utf-8')
             outFile.write(oReport.text)
             oReport.print_df_csv(outFile)
             outFile.close()

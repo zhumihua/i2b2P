@@ -13,6 +13,7 @@ from operator import itemgetter
 from dataSet import ds
 from sentTags import aReport
 
+import codecs
 
     
 def writeCSVFiles(dirIn,dir2014working, dirOut):
@@ -43,7 +44,7 @@ def writeCSVFiles(dirIn,dir2014working, dirOut):
             printHeadLine=False
             #####todo write to file
             outName=os.path.join(dirOut,'time.csv')
-            fout=open(outName,'w')
+            fout=codecs.open(outName,'w','utf-8')
             fout.write(dsCSV)
             fout.close()
             

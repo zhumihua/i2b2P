@@ -12,6 +12,8 @@ from operator import itemgetter
 
 from sentTags import aReport
 
+import codecs
+
 
 def predictTime(dirIn,dirOut,dirContinue,dirBefore,dirDuring,dirAfter):
         #create folder
@@ -29,7 +31,7 @@ def predictTime(dirIn,dirOut,dirContinue,dirBefore,dirDuring,dirAfter):
             oReport.loadReport_tags()
             oReport.predictTimes(dirContinue,dirBefore,dirDuring,dirAfter)
             outFileName=dirOut+re.split('\.',oReport.id)[0]+'.xml'
-            outFile=open(outFileName,'w')
+            outFile=codecs.open(outFileName,'w','utf-8')
             oReport.writeGOLDXML(outFile)
             outFile.close()
             print outFileName

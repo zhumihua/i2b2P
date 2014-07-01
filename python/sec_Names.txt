@@ -1,3 +1,5 @@
+Change in therapies and Renewals
+Disposition
 Problems
 Allergies
 general
@@ -19,10 +21,12 @@ Vital Signs
 Continue outpatient meds
 recommendation
 follow up
+plan
 review of systems
 general
 Assessment
-Recommendation
+Recommendation 
+Recommendations
 CHIEF COMPLAINT
 LABORATORY DATA
 Emergency department course
@@ -37,3 +41,7 @@ PMH/PSH
 LABORATORY
 Reason for Visit
 HEALTH MAINTENANCE
+PRESENTING COMPLAINT
+HISTORY OF PRESENTING COMPLAINT
+INTERVAL HISTORY
+Clinical Impression
