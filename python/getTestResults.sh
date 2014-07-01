@@ -48,9 +48,28 @@ predictBefore="../csv/pre_before/"
 predictDuring="../csv/pre_during/"
 predictAfter="../csv/pre_after/"
 
-for dataFile in `${dirDataSetTestOut}`;do
+mkdir ${predictContinue}
+mkdir ${predictBefore}
+mkdir ${predictDuring}
+mkdir ${predictAfter}
+
+#make libsvm
+cd ../libsvm-3.18/
+make clean
+make
+cd ../python
+
+
+
+for dataFile in `ls ${dirDataSetTestOut}`;do
 ../libsvm-3.18/svm-predict  "${dirDataSetTestOut}${dataFile}"  "${continueModel}" "${predictContinue}${dataFile}"
 ../libsvm-3.18/svm-predict  "${dirDataSetTestOut}${dataFile}"  "${beforeModel}" "${predictBefore}${dataFile}"
 ../libsvm-3.18/svm-predict  "${dirDataSetTestOut}${dataFile}"  "${duringModel}" "${predictDuring}${dataFile}"
 ../libsvm-3.18/svm-predict  "${dirDataSetTestOut}${dataFile}"  "${afterModel}" "${predictAfter}${dataFile}"
 done
+
+#predict ouput xml files
+predictXML="../xml/"
+mkdir ${predictXML}
+
+python2.7  ${dirTestIn} ${predictXML} ${predictContinue} ${predictBefore} ${predictDuring} ${predictAfter}

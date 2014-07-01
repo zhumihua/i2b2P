@@ -13,9 +13,8 @@ from operator import itemgetter
 from sentTags import aReport
 
 
-def xml2tagcsv(dirIn,dirOut):
+def predictTime(dirIn,dirOut,dirContinue,dirBefore,dirDuring,dirAfter):
         #create folder
-    printHeadLine=True
     if os.path.exists(dirOut) == False:    
             os.mkdir(dirOut)
             
@@ -28,12 +27,10 @@ def xml2tagcsv(dirIn,dirOut):
            # print "f: ",f
             oReport = aReport(f)
             oReport.loadReport_tags()
-            oReport.tagSection()
-            oReport.make_df_tags()
-            outFileName=dirOut+re.split('\.',oReport.id)[0]+'.csv'
+            oReport.predictTimes(dirContinue,dirBefore,dirDuring,dirAfter)
+            outFileName=dirOut+re.split('\.',oReport.id)[0]+'.xml'
             outFile=open(outFileName,'w')
-            outFile.write(oReport.text)
-            oReport.print_df_csv(outFile)
+            oReport.writeGOLDXML(outFile)
             outFile.close()
             print outFileName
 
@@ -45,6 +42,11 @@ def xml2tagcsv(dirIn,dirOut):
 if __name__=="__main__":
     dirIn = sys.argv[1]
     dirOut=sys.argv[2]
-    xml2tagcsv(dirIn,dirOut)
+    dirContinue=sys.argv[3]
+    dirBefore=sys.argv[4]
+    dirDuring=sys.argv[5]
+    dirAfter=sys.argv[6]
+    
+    predictTime(dirIn,dirOut,dirContinue,dirBefore,dirDuring,dirAfter)
     
 

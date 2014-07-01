@@ -79,7 +79,7 @@ class TestDS:
                 f = os.path.join(dirname, filename)
                 ff=open(f) 
                 lines=ff.read().splitlines()
-                fout=open(dirOut+fileName+".data","w")
+                fout=open(dirOut+filename+".data","w")
                 for line in lines:
                     self.createInstance(line,fout)
                 fout.close()

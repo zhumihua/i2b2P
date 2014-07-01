@@ -67,12 +67,20 @@ getETAttr = lambda e, s:e.get(s)  #return the value of attribute s of element e
 getETTime = lambda e: getETAttr(e,'time')
 getETStart = lambda e: int(getETAttr(e,'start'))
 getETEnd = lambda e: int(getETAttr(e,'end'))
-
+getETType1 = lambda e: getETAttr(e,'type1')
+getETType2 = lambda e: getETAttr(e,'type2')
+getETComment= lambda e: getETAttr(e,'comment')
+getETIndicator = lambda e : getETAttr(e,'indicator')
 
 setETAttr = lambda e, s, v : e.set(s,str(v)) #set value of attribute s of element e
 setETTime = lambda e,v: setETAttr(e,'time',v)
 setETStart = lambda e,v: setETAttr(e,'start',v)
 setETEnd = lambda e,v: setETAttr(e,'end',v)
+setETType1 = lambda e,v: setETAttr(e,'type1',v)
+setETType2 =lambda e,v: setETAttr(e,'type2',v)
+setETComment= lambda e,v: setETAttr(e,'comment',v)
+setETIndicator= lambda e,v: setETAttr(e,'indicator',v)
+setETId= lambda e,v: setETAttr(e,'id',v)
 
 
 removeDuplicate = lambda l: list(OrderedDict.fromkeys(l))
@@ -122,6 +130,7 @@ class Tag:
         self.sec_id=secName
         self.treeNode.set('secName',secName)
         
+
         
 #DIABETES CAD HYPERTENSION HYPERLIPIDEMIA OBESE  
 class Tag_Disease(Tag):
@@ -134,6 +143,9 @@ class Tag_Disease(Tag):
         return Tag.__eq__(self,other)and self.time==other.time
     def __hash__(self):
         return hash((self.start,self.end,self.time))
+    def setTimeAttribute(self,timeValue):
+        self.time=timeValue
+        setETTime(self.treeNode,timeValue)
  
 class Tag_Medication(Tag):
 
@@ -146,6 +158,9 @@ class Tag_Medication(Tag):
         return Tag.__eq__(self,other)and self.time==other.time
     def __hash__(self):
         return hash((self.start,self.end,self.time))
+    def setTimeAttribute(self,timeValue):
+        self.time=timeValue
+        setETTime(self.treeNode,timeValue)
 
 
 class aReport:
@@ -155,14 +170,13 @@ class aReport:
         self.text=''
         self.id=''
         self.dct=None
+        self.tree_tag=None
         self.tree_medications=None
         self.tree_obeses=None
         self.tree_diabetes=None
         self.tree_cad=None
         self.tree_hypertension=None
         self.tree_hyperlipidemia=None
-        self.tree_smoke=None
-        self.tree_family=None
         
         self.tree_secName=None
         
@@ -179,6 +193,18 @@ class aReport:
         tree = ET.parse(fileName)
         self.root = tree.getroot() 
         #self.loadAReport() 
+        
+        #load subtree of TAG element
+        self.docID=0
+        #list of ET node
+        self.tree_medications_prediction=[]
+        self.tree_obeses_prediction=[]
+        self.tree_diabetes_prediction=[]
+        self.tree_cad_predication=[]
+        self.tree_hypertention_predication=[]
+        self.tree_hyperlipidemia_predication=[]
+        
+        self.tree_predict=[]
         
     def setXMLText(self,newText):
         #replace < with &lt
@@ -220,14 +246,6 @@ class aReport:
             self.tags.append(tag_temp)  
             
 
-           
-        
-    
-    def getContextLine(self,tag,window):
-        pass
-    def getContextTag(self,tag,window):
-        pass
-
     def getTagSentText(self,tag):
         return tag.text
     
@@ -250,24 +268,33 @@ class aReport:
         self.tree2Tag()
         
  
-    def writeXMLReport(self,outputName):        
+    def writeGOLDXML(self,fout):
+        for aTag in self.tags:
+            self.tree_tag.remove(aTag)
+        for aPreTag in self.tree_predict:
+            self.tree_tag.append(aPreTag)
+        
         print prettify(self.root)
+        fout.write(prettify(self.root))
+
+        
+    def writeXMLReport(self,fout):
+        print prettify(self.root)
+        fout.write(prettify(self.root))        
           
     ##TODO add new tags for temporal expression, or PHI
     ##TODO do nothing to "SMOKER" and "FAMILY_HIST"
     def loadAReport(self):   
         self.text = self.root.find('TEXT').text
         self.dct=self.parseDCT()
-        tree_tag=self.root.find('TAGS')  
-        self.tree_medications=tree_tag.findall('MEDICATION')
-        self.tree_obeses=tree_tag.findall('OBESE')
-        self.tree_diabetes=tree_tag.findall('DIABETES')
-        self.tree_cad=tree_tag.findall('CAD')
-        self.tree_hypertension=tree_tag.findall('HYPERTENSION')
-        self.tree_hyperlipidemia=tree_tag.findall('HYPERLIPIDEMIA')
-        self.tree_smoke=tree_tag.findall('SMOKER')
-        self.tree_family=tree_tag.findall('FAMILY_HIST')
-        
+        self.tree_tag=self.root.find('TAGS')  
+        self.tree_medications=self.tree_tag.findall('MEDICATION')
+        self.tree_obeses=self.tree_tag.findall('OBESE')
+        self.tree_diabetes=self.tree_tag.findall('DIABETES')
+        self.tree_cad=self.tree_tag.findall('CAD')
+        self.tree_hypertension=self.tree_tag.findall('HYPERTENSION')
+        self.tree_hyperlipidemia=self.tree_tag.findall('HYPERLIPIDEMIA')
+
         self.textLines=self.text.splitlines()
         
     def parseDCT(self):
@@ -299,8 +326,60 @@ class aReport:
 #         for tag in self.tags:
 #             print prettify(tag.treeNode)
     
+    
+    def cloneET(self,aTag):
+        tn=ET.Element(aTag.tag)
+        setETStart(tn,getETStart(aTag))
+        setETEnd(tn,getETEnd(aTag))
+        if tn.tag=='MEDICATION':
+            setETType1(tn,getETType1(aTag))
+            setETType2(tn,getETType2(aTag))
+        else:
+            setETIndicator(tn.getETIndicator(aTag))
+        setETComment(tn.getETComment(aTag))
+        setETId("DOC"+str(self.docID))
+        self.docID+=1
+        self.tree_predict.append()
+        return tn
         
-
+        
+    def predictTimes(self,dirContinue,dirBefore,dirDuring,dirAfter):
+        fContinue=open(dirContinue+self.id+".csv.txt.data")
+        continues=fContinue.read().splitlines()
+        fContinue.close()
+        
+        fBefore=open(dirBefore+self.id+".csv.txt.data")
+        befores=fBefore.read().splitlines()
+        fBefore.close()
+        
+        fDuring=open(dirDuring+self.id+".csv.txt.data")
+        durings=fDuring.read().splitlines()
+        fDuring.close()
+        
+        fAfter=open(dirAfter+self.id+".csv.txt.data")
+        afters=fAfter.read().splitlines()
+        fAfter.close()
+        
+        for apredict in zip(self.tags,continues,befores,durings,afters):
+            if apredict[1]==1:
+                tb=self.cloneET(apredict[0])
+                setETTime(tb,"before DCT")
+                td=self.cloneET(apredict[0])
+                setETime(td,"during DCT")
+                ta=self.cloneET(apredict[0])
+                setETime(ta,"after DCT")
+            else:
+                if apredict[2]==1:
+                    tb=self.cloneET(apredict[0])
+                    setETTime(tb,"before DCT")
+                if apredict[3]==1:
+                    td=self.cloneET(apredict[0])
+                    setETTime(td,"during DCT")
+                if apredict[4]==1:
+                    ta=self.cloneET(apredict[0])
+                    setETTime(ta,"after DCT")
+                
+                
     
     def addSecTag(self,lineIndex,start,end,secName):
         treeNode=ET.Element('SecIndicator')
