@@ -339,18 +339,18 @@ class aReport:
     
     
     def cloneET(self,aTag):
-        tn=ET.Element(aTag.tag)
-        setETStart(tn,getETStart(aTag))
-        setETEnd(tn,getETEnd(aTag))
+        tn=ET.Element(aTag.treeNode.tag)
+        setETStart(tn,aTag.start)
+        setETEnd(tn,aTag.end)
         if tn.tag=='MEDICATION':
-            setETType1(tn,getETType1(aTag))
-            setETType2(tn,getETType2(aTag))
+            setETType1(tn,getETType1(aTag.treeNode))
+            setETType2(tn,getETType2(aTag.treeNode))
         else:
-            setETIndicator(tn.getETIndicator(aTag))
-        setETComment(tn.getETComment(aTag))
+            setETIndicator(tn.getETIndicator(aTag.treeNode))
+        setETComment(tn.getETComment(aTag.treeNode))
         setETId("DOC"+str(self.docID))
         self.docID+=1
-        self.tree_predict.append()
+        self.tree_predict.append(tn)
         return tn
         
         
@@ -373,29 +373,29 @@ class aReport:
         fAfter.close()
         
         for apredict in zip(self.tags,continues,befores,durings,afters):
-            if apredict[1]==1:
+            if apredict[1]==str(1):
                 tb=self.cloneET(apredict[0])
                 setETTime(tb,"before DCT")
-                self.tree_predict.append(tb)
+            
                 td=self.cloneET(apredict[0])
                 setETime(td,"during DCT")
-                self.tree_predict.append(td)
+               
                 ta=self.cloneET(apredict[0])
                 setETime(ta,"after DCT")
-                self.tree_predict.append(ta)
+               
             else:
-                if apredict[2]==1:
+                if apredict[2]==str(1):
                     tb=self.cloneET(apredict[0])
                     setETTime(tb,"before DCT")
-                    self.tree_predict.append(tb)
-                if apredict[3]==1:
+                    
+                if apredict[3]==str(1):
                     td=self.cloneET(apredict[0])
                     setETTime(td,"during DCT")
-                    self.tree_predict.append(td)
-                if apredict[4]==1:
+                    
+                if apredict[4]==str(1):
                     ta=self.cloneET(apredict[0])
                     setETTime(ta,"after DCT")
-                    self.tree_predict.append(ta)
+                   
                 
                 
     
