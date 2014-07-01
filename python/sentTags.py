@@ -346,8 +346,8 @@ class aReport:
             setETType1(tn,getETType1(aTag.treeNode))
             setETType2(tn,getETType2(aTag.treeNode))
         else:
-            setETIndicator(tn.getETIndicator(aTag.treeNode))
-        setETComment(tn.getETComment(aTag.treeNode))
+            setETIndicator(tn,getETIndicator(aTag.treeNode))
+        setETComment(t,getETComment(aTag.treeNode))
         setETId("DOC"+str(self.docID))
         self.docID+=1
         self.tree_predict.append(tn)
