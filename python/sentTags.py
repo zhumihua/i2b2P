@@ -270,7 +270,7 @@ class aReport:
  
     def writeGOLDXML(self,fout):
         for aTag in self.tags:
-            self.tree_tag.remove(aTag)
+            self.tree_tag.remove(aTag.treeNode)
         for aPreTag in self.tree_predict:
             self.tree_tag.append(aPreTag)
         
