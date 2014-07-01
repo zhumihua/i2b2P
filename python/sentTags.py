@@ -376,20 +376,26 @@ class aReport:
             if apredict[1]==1:
                 tb=self.cloneET(apredict[0])
                 setETTime(tb,"before DCT")
+                self.tree_predict.append(tb)
                 td=self.cloneET(apredict[0])
                 setETime(td,"during DCT")
+                self.tree_predict.append(td)
                 ta=self.cloneET(apredict[0])
                 setETime(ta,"after DCT")
+                self.tree_predict.append(ta)
             else:
                 if apredict[2]==1:
                     tb=self.cloneET(apredict[0])
                     setETTime(tb,"before DCT")
+                    self.tree_predict.append(tb)
                 if apredict[3]==1:
                     td=self.cloneET(apredict[0])
                     setETTime(td,"during DCT")
+                    self.tree_predict.append(td)
                 if apredict[4]==1:
                     ta=self.cloneET(apredict[0])
                     setETTime(ta,"after DCT")
+                    self.tree_predict.append(ta)
                 
                 
     
