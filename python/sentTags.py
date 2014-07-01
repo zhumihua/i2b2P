@@ -270,17 +270,17 @@ class aReport:
  
     def writeGOLDXML(self,fout):
         for aTag in self.tree_medications:
-            self.tree_tag.remove(aTag.treeNode)
-        for aTag in self.tree_obeses(aTag.treeNode):
-            self.tree_tag.remove(aTag.treeNode)
-        for aTag in self.tree_diabetes(aTag.treeNode):
-            self.tree_tag.remove(aTag.treeNode)
-        for aTag in self.tree_cad(aTag.treeNode):
-            self.tree_tag.remove(aTag.treeNode)
-        for aTag in self.tree_hyperlipidemia(aTag.treeNode):
-            self.tree_tag.remove(aTag.treeNode)
-        for aTag in self.tree_hypertension(aTag.treeNode):
-            self.tree_tag.remove(aTag.treeNode)
+            self.tree_tag.remove(aTag)
+        for aTag in self.tree_obeses:
+            self.tree_tag.remove(aTag)
+        for aTag in self.tree_diabetes:
+            self.tree_tag.remove(aTag)
+        for aTag in self.tree_cad:
+            self.tree_tag.remove(aTag)
+        for aTag in self.tree_hyperlipidemia:
+            self.tree_tag.remove(aTag)
+        for aTag in self.tree_hypertension:
+            self.tree_tag.remove(aTag)
             
         for aPreTag in self.tree_predict:
             self.tree_tag.append(aPreTag)
