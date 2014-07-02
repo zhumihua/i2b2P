@@ -13,24 +13,32 @@ import nltk
 import lexicons
 from nltk.tag.stanford import NERTagger
 
-def TF2binary(x):
-    if str(x) == 'False' or str(x) == '0':
-        return str(0)
-    elif str(x) == '-1':
-        return str(-1)
-    else:
-        return str(1)
 
-def collect(l,index):
-    return map(itemgetter(index),l)
+#constant values
+indicatorTestSeq=re.split(",","test,high bp,high chol.,high LDL,BMI,waist circum.,A1C,glucose")
+#the key is the indicatorValues in i2b2, the value are the mapping lexicon
+mapIndicatorName={'mention':'mention','symptom':'symptom','event':'event'}
+for aTest in indicatorTestSeq:
+    mapIndicatorName[aTest]='test'
+    
+indicatorNames=re.split(',','test,high bp,high chol.,high LDL,BMI,waist circum.,A1C,glucose,mention,symptom,event' )
+indicatorSeq=list(set(mapIndicatorName.values()))
 
-labelSeq=['during DCT','before DCT','after DCT','continuing', ]
-posSeq=['VB','VBD','VBG','VBN','VBP','VBZ','MD']
+#########################
+
+labelSeq=['during DCT','before DCT','after DCT','continuing' ]
+#########################
+###TODO, don't know what to do with grouping POS
+posValues=['VB','VBD','VBG','VBN','VBP','VBZ','MD']
+mapPOS={'VB':'VB','VBD':'VBD', 'VBG':'VBG','VBN':'VBN','VBP':'VBP','VBZ':'VBZ','MD':'MD'}
+posSeq=list(set(mapPOS.values()))
+
+#########################################
 lexiconSeq=re.split(',','before,after,cause,causedBy,during,starting,continuing,ending,suddenly,now,says')
 #dependencySeq=re.split(',','gov,gov_POS')
 disease_factors=re.split(' ','DIABETES CAD HYPERTENSION HYPERLIPIDEMIA OBESE')
 medication=['MEDICATION']
-indicatorValues=re.split('|','mention|A1C|glucose' )
+
 
 secFile=open('sec_Names.txt','r')
 secNameSeq=secFile.read().splitlines()
@@ -41,10 +49,23 @@ relWordSeq=relWordDict.read().splitlines()
 relWordDict.close()
 
 dictFeature=dict()
-features=posSeq+lexiconSeq+secNameSeq+relWordSeq+medication+disease_factors+indicatorValues
+features=posSeq+lexiconSeq+secNameSeq+relWordSeq+medication+disease_factors+indicatorSeq
 for index, val in enumerate(features):
     dictFeature[val]=index+1
  
+#global methods
+def getLexiconValues(values):
+    ret=[]
+    for value in values:
+        if mapIndicatorName.has_key(value):
+            ret.append(mapIndicatorName[value])
+        elif mapPOS.has_key(value):
+            ret.append(mapPOS[value])
+        else:
+            ret.append(value)
+    return list(set(ret))
+            
+            
 
 '''
 features_pos, include the POS of verb and modal within the sentence
@@ -88,6 +109,7 @@ class ds:
         for line in self.instances.get(timeValue):
                 featureColumns=[] 
                 values=re.split("\t", line)
+                values=getLexiconValues(values)
                 alineDS=p_n
                 for value in values[1:]:
                     column=dictFeature.get(value)
