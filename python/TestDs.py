@@ -13,36 +13,7 @@ import nltk
 import lexicons
 from nltk.tag.stanford import NERTagger
 
-def TF2binary(x):
-    if str(x) == 'False' or str(x) == '0':
-        return str(0)
-    elif str(x) == '-1':
-        return str(-1)
-    else:
-        return str(1)
-
-def collect(l,index):
-    return map(itemgetter(index),l)
-
-labelSeq=['during DCT','before DCT','after DCT','continuing', ]
-posSeq=['VB','VBD','VBG','VBN','VBP','VBZ','MD']
-lexiconSeq=re.split(',','before,after,cause,causedBy,during,starting,continuing,ending,suddenly,now,says')
-#dependencySeq=re.split(',','gov,gov_POS')
-disease_factors=re.split(' ','DIABETES CAD HYPERTENSION HYPERLIPIDEMIA OBESE')
-
-
-secFile=open('sec_Names.txt','r')
-secNameSeq=secFile.read().splitlines()
-secFile.close()
-
-relWordDict=open('wordDict.txt','r')
-relWordSeq=relWordDict.read().splitlines()
-relWordDict.close()
-
-dictFeature=dict()
-features=posSeq+lexiconSeq+secNameSeq+relWordSeq
-for index, val in enumerate(features):
-    dictFeature[val]=index+1
+import dataSet.py
  
 
 '''
@@ -65,8 +36,7 @@ time ( before DCT | during DCT | after DCT | continuing )
           
     
 class TestDS:
-    #2    170/84    physical exam    high bp    VBN
-    DICT_HEAD={'timeValue':0,'annoText':1,"secName":2, "indicator":3,"POS":4}
+
     #label, id of the instance
     def __init__(self,dirIn,dirOut):
         self.loadFile(dirIn,dirOut)
@@ -91,7 +61,7 @@ class TestDS:
                 values=re.split("\t", line)
                 alineDS=values[0]
                 for value in values[1:]:
-                    column=dictFeature.get(value)
+                    column=dataSet.dictFeature.get(value)
                     if column is not None and column not in featureColumns:
                         featureColumns.append(column)
                 featureColumns.sort()

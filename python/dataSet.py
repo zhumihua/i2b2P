@@ -29,7 +29,8 @@ posSeq=['VB','VBD','VBG','VBN','VBP','VBZ','MD']
 lexiconSeq=re.split(',','before,after,cause,causedBy,during,starting,continuing,ending,suddenly,now,says')
 #dependencySeq=re.split(',','gov,gov_POS')
 disease_factors=re.split(' ','DIABETES CAD HYPERTENSION HYPERLIPIDEMIA OBESE')
-
+medication=['MEDICATION']
+indicatorValues=re.split('|','mention|A1C|glucose' )
 
 secFile=open('sec_Names.txt','r')
 secNameSeq=secFile.read().splitlines()
@@ -40,7 +41,7 @@ relWordSeq=relWordDict.read().splitlines()
 relWordDict.close()
 
 dictFeature=dict()
-features=posSeq+lexiconSeq+secNameSeq+relWordSeq
+features=posSeq+lexiconSeq+secNameSeq+relWordSeq+medication+disease_factors+indicatorValues
 for index, val in enumerate(features):
     dictFeature[val]=index+1
  
@@ -65,8 +66,6 @@ time ( before DCT | during DCT | after DCT | continuing )
           
     
 class ds:
-    #2    170/84    physical exam    high bp    VBN
-    DICT_HEAD={'timeValue':0,'annoText':1,"secName":2, "indicator":3,"POS":4}
     #label, id of the instance
     def __init__(self,dirIn):
         self.instances={0:[],1:[],2:[],3:[],4:[],5:[],6:[],7:[]}
