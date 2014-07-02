@@ -64,7 +64,7 @@ time ( before DCT | during DCT | after DCT | continuing )
 #     TAG_ID==0
 #     BEFORE_DCT,DURING_DCT,AFTER_DCT,CONTINUING=
           
-    
+#DICT_HEAD={'timeValue':0,'annoText':1,"secName":2, "indicator":3,"POS":4}  
 class ds:
     #label, id of the instance
     def __init__(self,dirIn):
@@ -81,7 +81,8 @@ class ds:
                 lines=ff.read().splitlines()
                 for line in lines:
                     values=re.split("\t",line)
-                    self.instances[int(values[self.DICT_HEAD['timeValue']])].append(line)
+                    #values[0] is the time value range from 0-7
+                    self.instances[int(values[0])].append(line)
    
     def spaceAline(self,timeValue,p_n,of):
         for line in self.instances.get(timeValue):

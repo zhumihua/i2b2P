@@ -13,7 +13,7 @@ import nltk
 import lexicons
 from nltk.tag.stanford import NERTagger
 
-import dataSet.py
+import dataSet
  
 
 '''
@@ -36,6 +36,7 @@ time ( before DCT | during DCT | after DCT | continuing )
           
     
 class TestDS:
+    DICT_HEAD={'timeValue':0,'annoText':1,"secName":2, "indicator":3,"POS":4} 
 
     #label, id of the instance
     def __init__(self,dirIn,dirOut):
