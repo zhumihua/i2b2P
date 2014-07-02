@@ -285,7 +285,7 @@ class aReport:
         for aPreTag in self.tree_predict:
             self.tree_tag.append(aPreTag)
         
-        print prettify(self.root)
+        #print prettify(self.root)
         fout.write(prettify(self.root))
 
         
@@ -464,6 +464,72 @@ class aReport:
     def print_df_csv(self,file):
          self.df_tags.to_csv(file,sep=',',quoting=csv.QUOTE_ALL,index=False)
          self.df_secTags.to_csv(file,sep=',',quoting=csv.QUOTE_ALL,index=False)
+         
+    def make_df_tags_test(self):
+        texts=[]
+        indicatorNames=[]
+        disease_indic=[]
+        med_diseases=[]
+        starts=[]
+        ends=[]
+        sectionNames=[]
+        time_befores=[]
+        time_durings=[]
+        time_afters=[]
+        
+        for atag in self.tags:
+            texts.append(atag.text)
+            indicatorNames.append(atag.type)
+            med_diseases.append(IsMed(atag.type))
+            starts.append(atag.start)
+            ends.append(atag.end)
+            sectionNames.append(atag.sec_id)
+            
+            if isinstance(atag,Tag_Medication):
+                disease_indic.append(atag.type1)
+            else:
+                disease_indic.append(atag.indicator)
+            
+            if atag.time=='during DCT':
+                time_durings.append(1)
+                time_befores.append(0)
+                time_afters.append(0)
+            elif atag.time=='before DCT':
+                time_befores.append(1)
+                time_durings.append(0)
+                time_afters.append(0) 
+            elif atag.time=='after DCT':
+                time_afters.append(1)
+                time_befores.append(0)
+                time_durings.append(0)
+        
+        
+        headNames=['b_text','b_indiName','b_diseaseIndic','b_isMed','a_start','a_end','b_sectName','time_before','time_during','time_after']
+        columnValues=[ texts,indicatorNames,disease_indic,med_diseases,starts,ends,sectionNames,time_befores,time_durings,time_afters]
+        adict=dict(zip(headNames, columnValues))
+        self.df_tags=pd.DataFrame(adict)
+        
+        #add the DCT as a column before time_after
+        dcts=[self.dct]*len(self.tags)
+        self.df_tags['b_dct']=pd.Series(dcts)
+        self.df_tags=self.df_tags.sort_index(axis=1)
+        
+        #secName tags
+        
+        sec_texts=[]
+        sec_starts=[]
+        sec_ends=[]
+        
+        for asecTag in self.tag_secName:
+            sec_texts.append(asecTag.text)
+            sec_starts.append(asecTag.start)
+            sec_ends.append(asecTag.end)
+            
+        secheadNames=['b_text','a_start','a_end']
+        seccolumnValues=[ sec_texts,sec_starts,sec_ends]
+        adict=dict(zip(secheadNames, seccolumnValues))
+        self.df_secTags=pd.DataFrame(adict)
+        self.df_secTags=self.df_secTags.sort_index(axis=1)
    
     def make_df_tags(self):
         

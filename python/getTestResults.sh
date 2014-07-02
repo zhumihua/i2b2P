@@ -13,7 +13,7 @@ dirTestToEx=../csv/i2b2timeTagTest/
 
 rm ${dirTestToEx}*
 mkdir ${dirTestToEx}
-python2.7 main_xmltag2csv.py ${dirTestIn} ${dirTestToEx}
+python2.7 main_xmltag2csvTest.py ${dirTestIn} ${dirTestToEx}
 
 
 cd ../../CTAKES/apache-ctakes-3.1.1-src/ctakes-clinical-pipeline/
