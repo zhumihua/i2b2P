@@ -372,6 +372,10 @@ class aReport:
         afters=fAfter.read().splitlines()
         fAfter.close()
         
+        if len(self.tags) != len(continues) != len(befores) != len(durings) !=len(afters):
+            print len(self.tags),len(continues)
+            sys.exit()
+        
         for apredict in zip(self.tags,continues,befores,durings,afters):
             isAllNeg=True
             if apredict[1]==str(1):
@@ -401,7 +405,7 @@ class aReport:
                     isAllNeg=False
                     ta=self.cloneET(apredict[0])
                     setETTime(ta,"after DCT")
-                if not isAllNeg:
+                if isAllNeg:
                     #set it Before DCT
                     tb=self.cloneET(apredict[0])
                     setETTime(tb,"before DCT")
