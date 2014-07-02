@@ -373,7 +373,9 @@ class aReport:
         fAfter.close()
         
         for apredict in zip(self.tags,continues,befores,durings,afters):
+            isAllNeg=True
             if apredict[1]==str(1):
+                isAllNeg=False
                 tb=self.cloneET(apredict[0])
                 setETTime(tb,"before DCT")
             
@@ -382,23 +384,31 @@ class aReport:
                
                 ta=self.cloneET(apredict[0])
                 setETTime(ta,"after DCT")
+                
                
             else:
                 if apredict[2]==str(1):
+                    isAllNeg=False
                     tb=self.cloneET(apredict[0])
                     setETTime(tb,"before DCT")
                     
                 if apredict[3]==str(1):
+                    isAllNeg=False
                     td=self.cloneET(apredict[0])
                     setETTime(td,"during DCT")
                     
                 if apredict[4]==str(1):
+                    isAllNeg=False
                     ta=self.cloneET(apredict[0])
                     setETTime(ta,"after DCT")
+                if not isAllNeg:
+                    #set it Before DCT
+                    tb=self.cloneET(apredict[0])
+                    setETTime(tb,"before DCT")
+                    
                    
                 
                 
-    
     def addSecTag(self,lineIndex,start,end,secName):
         treeNode=ET.Element('SecIndicator')
         setETStart(treeNode,start)
