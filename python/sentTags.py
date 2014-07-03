@@ -102,7 +102,7 @@ class Tag:
         self.sec_id=''
         self.start = start
         self.end = end
-        self.text = text.decode('utf-8')
+        self.text = text
         self.comment = comment
         self.treeNode=treeNode
         self.type=treeNode.tag
@@ -292,7 +292,7 @@ class aReport:
     ##TODO add new tags for temporal expression, or PHI
     ##TODO do nothing to "SMOKER" and "FAMILY_HIST"
     def loadAReport(self):   
-        self.text = self.root.find('TEXT').text.decode('utf-8')
+        self.text = self.root.find('TEXT').text
         self.dct=self.parseDCT()
         self.tree_tag=self.root.find('TAGS')  
         self.tree_medications=self.tree_tag.findall('MEDICATION')
@@ -458,8 +458,8 @@ class aReport:
             
 
     def print_df_csv(self,file):
-         self.df_tags.to_csv(file,sep=',',quoting=csv.QUOTE_ALL,index=False,encoding='utf-8')
-         self.df_secTags.to_csv(file,sep=',',quoting=csv.QUOTE_ALL,index=False,encoding='utf-8')
+         self.df_tags.to_csv(file,sep=',',quoting=csv.QUOTE_ALL,index=False)
+         self.df_secTags.to_csv(file,sep=',',quoting=csv.QUOTE_ALL,index=False)
          
     def make_df_tags_test(self):
         texts=[]
@@ -474,7 +474,7 @@ class aReport:
         time_afters=[]
         
         for atag in self.tags:
-            texts.append(atag.text)
+            texts.append(atag.text.encode("ascii","ignore"))
             indicatorNames.append(atag.type)
             med_diseases.append(IsMed(atag.type))
             starts.append(atag.start)
@@ -543,7 +543,7 @@ class aReport:
         time_afters=[]
         
         for atag in self.tags:
-            texts.append(atag.text)
+            texts.append(atag.text.encode("ascii","ignore"))
             indicatorNames.append(atag.type)
             med_diseases.append(IsMed(atag.type))
             starts.append(atag.start)
