@@ -22,7 +22,7 @@ def xml2tagcsv(dirIn,dirOut):
             
     #Explore Directories
     for dirname, dirnames, filenames in os.walk(dirIn):
-        for filename in filenames:
+        for filename in sorted(filenames):
             if filename.strip()[0]=='.' :
                 continue
             f = os.path.join(dirname, filename)            

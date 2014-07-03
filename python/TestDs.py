@@ -60,8 +60,8 @@ class TestDS:
     def createInstance(self,line,fout):
                 featureColumns=[] 
                 values=re.split("\t", line)
-                values=dataSet.getLexiconValues(values)
                 alineDS=values[0]
+                values=dataSet.getLexiconValues(values)
                 for value in values[1:]:
                     column=dataSet.dictFeature.get(value)
                     if column is not None and column not in featureColumns:
