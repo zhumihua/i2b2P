@@ -35,6 +35,7 @@ posSeq=list(set(mapPOS.values()))
 
 #########################################
 lexiconSeq=re.split(',','before,after,cause,causedBy,during,starting,continuing,ending,suddenly,now,says')
+#lexiconSeq=re.split(',','before,after,during,starting,continuing,ending,suddenly,now,says')
 #dependencySeq=re.split(',','gov,gov_POS')
 disease_factors=re.split(' ','DIABETES CAD HYPERTENSION HYPERLIPIDEMIA OBESE')
 medication=['MEDICATION']
@@ -57,6 +58,7 @@ for index, val in enumerate(features):
 def getLexiconValues(values):
     ret=[]
     for value in values:
+        value=value.strip().lower()
         if mapIndicatorName.has_key(value):
             ret.append(mapIndicatorName[value])
         elif mapPOS.has_key(value):

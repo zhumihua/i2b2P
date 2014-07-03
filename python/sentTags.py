@@ -220,7 +220,9 @@ class aReport:
         self.setTextLines(newTextLine)
         
     def makeDiseaseTag(self,treeDisease):
+        i=0
         for subDisease in treeDisease:
+            i+=1
             start=int(subDisease.get('start'))
             end=int(subDisease.get('end'))
             text=subDisease.get('text')
@@ -231,8 +233,22 @@ class aReport:
             tag_temp=Tag_Disease(start, end, text,comment,subDisease,indicator,time) 
             self.tag_disease.append(tag_temp) 
             self.tags.append(tag_temp)
+        if i==0:
+            start=int(treeDisease.get('start'))
+            end=int(treeDisease.get('end'))
+            text=treeDisease.get('text')
+            comment=treeDisease.get('comment')
+            indicator=treeDisease.get('indicator')
+            time=treeDisease.get('time')
+        #(self, type, start, end, text,comment,treeNode, indicator, time)  
+            tag_temp=Tag_Disease(start, end, text,comment,treeDisease,indicator,time) 
+            self.tag_disease.append(tag_temp) 
+            self.tags.append(tag_temp)
+            
     def makeMedicationTag(self,treeMedicaiton):
+        i=0
         for subMedication in treeMedicaiton:
+            i+=1
             start=int(subMedication.get('start'))
             end=int(subMedication.get('end'))
             text=subMedication.get('text')
@@ -244,6 +260,19 @@ class aReport:
             tag_temp=Tag_Medication(start,end,text,comment,subMedication,type1,type2,time)
             self.tag_medications.append(tag_temp)
             self.tags.append(tag_temp)  
+        if i==0:
+            start=int(treeMedicaiton.get('start'))
+            end=int(treeMedicaiton.get('end'))
+            text=treeMedicaiton.get('text')
+            comment=treeMedicaiton.get('comment')
+            type1=treeMedicaiton.get('type1')
+            type2=treeMedicaiton.get('type2')
+            time=treeMedicaiton.get('time')
+            #self, type,  start, end, text,comment,treeNode, type1, type2, time
+            tag_temp=Tag_Medication(start,end,text,comment,treeMedicaiton,type1,type2,time)
+            self.tag_medications.append(tag_temp)
+            self.tags.append(tag_temp)  
+            
             
 
     def getTagSentText(self,tag):

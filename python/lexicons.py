@@ -98,3 +98,4 @@ nowSeq='''at this point | currently | now | right away | right now | soon '''
 
 saysSeq='''says | said | note | notes | noted | told | tells | presents | presented | describes | described | 
 states | stated | denied | denies | complains | complained | report | reports | reported '''
+
