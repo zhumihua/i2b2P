@@ -35,6 +35,9 @@ posSeq=list(set(mapPOS.values()))
 
 #########################################
 lexiconSeq=re.split(',','before,after,cause,causedBy,during,starting,continuing,ending,suddenly,now,says')
+
+timexSeq=re.split(',','DCT_BEFORE,DCT_AFTER,DCT_DURING,TIMEX_END,TIMEX_MID,TIMEX_START,TIMEX_DURING,TIMEX_BEFORE,TIMEX_DURING,TYPE_DURING,TYPE_SET')
+
 #lexiconSeq=re.split(',','before,after,during,starting,continuing,ending,suddenly,now,says')
 #dependencySeq=re.split(',','gov,gov_POS')
 disease_factors=re.split(' ','DIABETES CAD HYPERTENSION HYPERLIPIDEMIA OBESE')
@@ -50,7 +53,7 @@ relWordSeq=relWordDict.read().splitlines()
 relWordDict.close()
 
 dictFeature=dict()
-features=posSeq+lexiconSeq+secNameSeq+relWordSeq+medication+disease_factors+indicatorSeq
+features=posSeq+lexiconSeq+timexSeq+secNameSeq+relWordSeq+medication+disease_factors+indicatorSeq
 for index, val in enumerate(features):
     dictFeature[val]=index+1
  
