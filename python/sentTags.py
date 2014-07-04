@@ -295,7 +295,48 @@ class aReport:
     def loadReport_tags(self):
         self.loadAReport()
         self.tree2Tag()
-        
+    
+       
+    def combineTwoReport(self,report2):
+        ##addALL
+        for obeseT in report2.tree_obeses:
+          self.tree_tag.append(obeseT)
+        for obeseT in report2.tree_diabetes:
+          self.tree_tag.append(obeseT)
+        for obeseT in report2.tree_cad:
+          self.tree_tag.append(obeseT)
+        for obeseT in report2.tree_hypertension:
+          self.tree_tag.append(obeseT)
+        for obeseT in report2.tree_hyperlipidemia:
+          self.tree_tag.append(obeseT)
+        ##remove duplicate based on indicator type1 type2
+        toRemoves=[]
+        tagDict=dict()
+        for aTagET in self.tree_tag:
+            if  aTagET.tag=='MEDICATION':
+                atype1='MEDICATION_1'+getETType1(aTagET)
+                atype2='MEDICATION_2'+getETType2(aTagET)
+                if atype1 in tagDict and atype2 in tagDict:
+                    toRemoves.append(aTagET)
+                else:
+                    tagDict[atype1]=1
+                    tagDict[atype2]=1
+                
+            else:
+                aIndicator=aTagET.tag+getETIndicator(aTagET)
+                if aIndicator in tagDict:
+                    toRemoves.append(aTagET)
+                else:
+                    tagDict[aIndicator]=1
+
+        for toRm in toRemoves:
+            self.tree_tag.remove(toRm)                   
+      
+                
+                
+                
+                
+            
  
     def writeGOLDXML(self,fout):
         
