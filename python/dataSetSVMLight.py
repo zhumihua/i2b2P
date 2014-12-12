@@ -176,7 +176,7 @@ def ngram2sparseStr(X_train, Y_train):
     result=[]
     for astr in rets:
         if astr.find(' ')!=-1 and astr.index(' ')<len(astr)-1:
-            result.append(astr[astr.index(' ')+1:])
+            result.append(astr[astr.index(' '):])
         else:
             result.append('')
     
@@ -217,9 +217,53 @@ def getLexiconValues(values):
 def treeData(x_train):
     rets=[]
     for instance in x_train:
-        tempStr='|BT| '+instance.dependencyC+' |BT| '+instance.pennTree+' |BT| '+instance.pathSubtree+' |ET|'
+        tempStr=' |BT| '+instance.dependencyC+' |BT| '+instance.pennTree+' |BT| '+instance.pathSubtree+' |ET|'
         rets.append(tempStr)
     return rets
+
+#write to file, a single group of features
+def printSingle(x_train,y_train,filePath):
+    print filePath
+    f=open(filePath,'w')
+    for i, x in enumerate(x_train):
+        f.write(str(y[i])+x+'\n')
+    f.close()
+    
+def printVectors(x1,x2,y,filePath):
+    print filePath
+    f=open(filePath,'w')
+    for i in range(len(x1)):
+        f.write(str(y[i])+x1[i]+' |BV|'+x2[i]+' |EV|'+'\n')
+    f.close()
+    
+def printVectors(x1,x2,x3,y,filePath):
+    print filePath
+    f=open(filePath,'w')
+    for i in range(len(x1)):
+        f.write(str(y[i])+x1[i]+' |BV|'+x2[i]+' |BV|'+x3[i]+' |EV|'+'\n')
+    f.close()
+
+def printVectorTree(x1,t1,y,filePath):
+    print filePath
+    f=open(filePath,'w')
+    for i in range(len(x1)):
+        f.write(str(y[i])+t1[i]+x1[i]+' |EV|'+'\n')
+    f.close()
+
+def printVectorTree(x1,x2,t1,y,filePath):
+    print filePath
+    f=open(filePath,'w')
+    for i in range(len(x1)):
+        f.write(str(y[i])+t1[i]+x1[i]+' |BV|'+x2[i]+' |EV|'+'\n')
+    f.close() 
+
+def printVectorTree(x1,x2,x3,t1,y,filePath):
+    print filePath
+    f=open(filePath,'w')
+    for i in range(len(x1)):
+        f.write(str(y[i])+t1[i]+x1[i]+' |BV|'+x2[i]+' |BV|'+x3[i]+' |EV|'+'\n')
+    f.close() 
+    
 
 
 def generateDs(posList,negList,partialPath):
@@ -245,22 +289,73 @@ def generateDs(posList,negList,partialPath):
     tree_test_x=treeData(x_test)
     
     #output dataset
-    filePath=partialPath+"vector."
-    printSingle(ngram_train_x,y_train,filePath+"")
-#dirOutV, only have the binary vectors
-#dirOutVNgram, vectors+TF-IDF
-#dirOutT,only tree
-#dirOutVT, vectors+tree
-#dirOutVNgramT, vectors+Ngram+tree
-    partialPath+"vector.data"
-    f=open(dirOut+"during.data",'w')
-    fvector=open(dirOut+"continue.vector.data",'w')
-    fngram=open(dirOut+"continue.ngram.data",'w')
-    ftree=open(dirOut+"continue.tree.data",'w')
-    fvt=open(dirOut+"continue.vt.data",'w')
-    fnt=open(dirOut+"continue.nt.data",'w')
-    fvn=open(dirOut+"continue.vn.data",'w')
-    fvnt=open(dirOut+"continue.vnt.data",'w')
+    #single group of data
+    filePath=partialPath+"ngram."
+    printSingle(ngram_train_x,y_train,filePath+"train.data")
+    printSingle(ngram_test_x,y_test,filePath+"test.data")
+    
+    filePath=partialPath+"newSent."
+    printSingle(newSent_train_x,y_train,filePath+"train.data")
+    printSingle(newSent_test_x,y_test,filePath+"test.data")
+    
+    filePath=partialPath+"bv."
+    printSingle(bv_train_x,y_train,filePath+"train.data")
+    printSingle(bv_test_x,y_test,filePath+"test.data")
+    
+    filePath=partialPath+"tree."
+    printSingle(tree_train_x,y_train,filePath+"train.data")
+    printSingle(tree_test_x,y_test,filePath+"test.data")
+    
+    #two group of data
+    filePath=partialPath+"ngns."
+    printVectors(ngram_train_x,newSent_train_x,y_train,filePath+"train.data")
+    printVectors(ngram_test_x,newSent_test_x,y_test,filePath+"test.data")
+    
+    filePath=partialPath+"ngbv."
+    printVectors(ngram_train_x,bv_train_x,y_train,filePath+"train.data")
+    printVectors(ngram_test_x,bv_test_x,y_test,filePath+"test.data")
+    
+    filePath=partialPath+"nsbv."
+    printVectors(newSent_train_x,bv_train_x,y_train,filePath+"train.data")
+    printVectors(newSent_test_x,bv_test_x,y_test,filePath+"test.data")
+    
+    #two groups: vector and tree
+    filePath=partialPath+"ngtr."
+    printVectorTree(ngram_train_x,tree_train_x,y_train,filePath+"train.data")
+    printVectorTree(ngram_test_x,tree_test_x,y_test,filePath+"test.data")
+    
+    filePath=partialPath+"nstr."
+    printVectorTree(newSent_train_x,tree_train_x,y_train,filePath+"train.data")
+    printVectorTree(newSent_test_x,tree_test_x,y_test,filePath+"test.data")
+    
+    filePath=partialPath+"bvtr."
+    printVectorTree(bv_train_x,tree_train_x,y_train,filePath+"train.data")
+    printVectorTree(bv_test_x,tree_test_x,y_test,filePath+"test.data")
+    
+    #three group of data
+    filePath=partialPath+"ngnsbv."
+    printVectors(ngram_train_x,newSent_train_x,bv_train_x,y_train,filePath+"train.data")
+    printVectors(ngram_test_x,newSent_test_x,bv_test_x,y_test,filePath+"test.data")
+    
+    #three group: two vectors and a tree
+    filePath=partialPath+"ngnstr."
+    printVectorTree(ngram_train_x,newSent_train_x,tree_train_x,y_train,filePath+"train.data")
+    printVectorTree(ngram_test_x,newSent_test_x,tree_test_x,y_test,filePath+"test.data")
+    
+    filePath=partialPath+"ngbvtr."
+    printVectorTree(ngram_train_x,bv_train_x,tree_train_x,y_train,filePath+"train.data")
+    printVectorTree(ngram_test_x,bv_test_x,tree_test_x,y_test,filePath+"test.data")
+    
+    filePath=partialPath+"nsbvtr."
+    printVectorTree(newSent_train_x,bv_train_x,tree_train_x,y_train,filePath+"train.data")
+    printVectorTree(newSent_test_x,bv_test_x,tree_test_x,y_test,filePath+"test.data")
+
+    #four group of data
+    filePath=partialPath+"ngnsbvtr."
+    printVectorTree(ngram_train_x,newSent_train_x,bv_train_x,tree_train_x,y_train,filePath+"train.data")
+    printVectorTree(ngram_test_x,newSent_test_x,bv_test_x,tree_test_x,y_test,filePath+"test.data")
+
+    
     
     
 def continueData(train,test,dirOut):
