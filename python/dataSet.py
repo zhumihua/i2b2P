@@ -1,4 +1,4 @@
-import string
+ import string
 import os
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
@@ -95,8 +95,12 @@ class ds:
     #label, id of the instance
     def __init__(self,dirIn):
         self.instances={0:[],1:[],2:[],3:[],4:[],5:[],6:[],7:[]}
+
         self.catFiles(dirIn)
-        
+#         for i in range(8):
+#             print len(self.instances.get(i))
+        t11=self.instances.get(3)
+        print "\n".join(t11)
     def catFiles(self,dirIn):
         for dirname, dirnames, filenames in os.walk(dirIn):
             for filename in filenames:

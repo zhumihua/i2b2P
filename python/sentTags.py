@@ -568,6 +568,10 @@ class aReport:
                 time_afters.append(1)
                 time_befores.append(0)
                 time_durings.append(0)
+            else:
+                time_afters.append(1)
+                time_befores.append(1)
+                time_durings.append(1)
         
         
         headNames=['b_text','b_indiName','b_diseaseIndic','b_isMed','a_start','a_end','b_sectName','time_before','time_during','time_after']
