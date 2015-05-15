@@ -110,8 +110,8 @@ class ds:
         
 #         for i in range(8):
 #             print len(self.instances.get(i))
-        t11=self.instances.get(3)
-        print "\n".join(t11)
+        #t11=self.instances.get(3)
+        #print "\n".join(t11)
     def catFiles(self,dirIn):
         for dirname, dirnames, filenames in os.walk(dirIn):
             for filename in filenames:
@@ -121,7 +121,7 @@ class ds:
                 ff=open(f) 
                 lines=ff.read().splitlines()
                 for i in range(0,len(lines),8):
-                    instance=Instance(i,lines[i],lines[i+1],lines[i+2],lines[i+3],lines[i+4],lines[i+5],lines[i+7])
+                    instance=Instance(i,lines[i],lines[i+1],lines[i+2],lines[i+3],lines[i+4],lines[i+5],lines[i+6],lines[i+7])
                     self.instances[instance.getY()].append(instance)
 
 
@@ -178,8 +178,7 @@ def ngram2sparseStr(X_train, Y_train):
         if astr.find(' ')!=-1 and astr.index(' ')<len(astr)-1:
             result.append(astr[astr.index(' '):])
         else:
-            result.append('')
-    
+            result.append('')   
     return result
 
 #return the libsvm format for vector
@@ -222,45 +221,45 @@ def treeData(x_train):
     return rets
 
 #write to file, a single group of features
-def printSingle(x_train,y_train,filePath):
+def printSingle(x,y,filePath):
     print filePath
     f=open(filePath,'w')
-    for i, x in enumerate(x_train):
-        f.write(str(y[i])+x+'\n')
+    for i in range(len(y)):
+        f.write(str(y[i])+x[i]+'\n')
     f.close()
     
-def printVectors(x1,x2,y,filePath):
+def printVectors2(x1,x2,y,filePath):
     print filePath
     f=open(filePath,'w')
-    for i in range(len(x1)):
+    for i in range(len(y)):
         f.write(str(y[i])+x1[i]+' |BV|'+x2[i]+' |EV|'+'\n')
     f.close()
     
-def printVectors(x1,x2,x3,y,filePath):
+def printVectors3(x1,x2,x3,y,filePath):
     print filePath
     f=open(filePath,'w')
-    for i in range(len(x1)):
+    for i in range(len(y)):
         f.write(str(y[i])+x1[i]+' |BV|'+x2[i]+' |BV|'+x3[i]+' |EV|'+'\n')
     f.close()
 
-def printVectorTree(x1,t1,y,filePath):
+def printVectorTree1(x1,t1,y,filePath):
     print filePath
     f=open(filePath,'w')
-    for i in range(len(x1)):
+    for i in range(len(y)):
         f.write(str(y[i])+t1[i]+x1[i]+' |EV|'+'\n')
     f.close()
 
-def printVectorTree(x1,x2,t1,y,filePath):
+def printVectorTree2(x1,x2,t1,y,filePath):
     print filePath
     f=open(filePath,'w')
-    for i in range(len(x1)):
+    for i in range(len(y)):
         f.write(str(y[i])+t1[i]+x1[i]+' |BV|'+x2[i]+' |EV|'+'\n')
     f.close() 
 
-def printVectorTree(x1,x2,x3,t1,y,filePath):
+def printVectorTree3(x1,x2,x3,t1,y,filePath):
     print filePath
     f=open(filePath,'w')
-    for i in range(len(x1)):
+    for i in range(len(y)):
         f.write(str(y[i])+t1[i]+x1[i]+' |BV|'+x2[i]+' |BV|'+x3[i]+' |EV|'+'\n')
     f.close() 
     
@@ -275,10 +274,10 @@ def generateDs(posList,negList,partialPath):
     ngram_train,ngram_test=ngramModel(train_aroundWords,test_aroundWords,y_train)
     newSent_train,newSent_test=ngramModel(train_newSent,test_newSent,y_train)
     
-    ngram_train_x=ngram2sparseStr(train_aroundWords, y_train)
-    ngram_test_x=ngram2sparseStr(test_aroundWords, y_test)
+    ngram_train_x=ngram2sparseStr(ngram_train, y_train)
+    ngram_test_x=ngram2sparseStr(ngram_test, y_test)
     newSent_train_x=ngram2sparseStr(newSent_train, y_train)
-    newSent_test_x=ngram2sparseStr(test_newSent, y_test)
+    newSent_test_x=ngram2sparseStr(newSent_test, y_test)
     
     #vector data
     bv_train_x=binaryfeatures(x_train)
@@ -308,52 +307,52 @@ def generateDs(posList,negList,partialPath):
     
     #two group of data
     filePath=partialPath+"ngns."
-    printVectors(ngram_train_x,newSent_train_x,y_train,filePath+"train.data")
-    printVectors(ngram_test_x,newSent_test_x,y_test,filePath+"test.data")
+    printVectors2(ngram_train_x,newSent_train_x,y_train,filePath+"train.data")
+    printVectors2(ngram_test_x,newSent_test_x,y_test,filePath+"test.data")
     
     filePath=partialPath+"ngbv."
-    printVectors(ngram_train_x,bv_train_x,y_train,filePath+"train.data")
-    printVectors(ngram_test_x,bv_test_x,y_test,filePath+"test.data")
+    printVectors2(ngram_train_x,bv_train_x,y_train,filePath+"train.data")
+    printVectors2(ngram_test_x,bv_test_x,y_test,filePath+"test.data")
     
     filePath=partialPath+"nsbv."
-    printVectors(newSent_train_x,bv_train_x,y_train,filePath+"train.data")
-    printVectors(newSent_test_x,bv_test_x,y_test,filePath+"test.data")
+    printVectors2(newSent_train_x,bv_train_x,y_train,filePath+"train.data")
+    printVectors2(newSent_test_x,bv_test_x,y_test,filePath+"test.data")
     
     #two groups: vector and tree
     filePath=partialPath+"ngtr."
-    printVectorTree(ngram_train_x,tree_train_x,y_train,filePath+"train.data")
-    printVectorTree(ngram_test_x,tree_test_x,y_test,filePath+"test.data")
+    printVectorTree1(ngram_train_x,tree_train_x,y_train,filePath+"train.data")
+    printVectorTree1(ngram_test_x,tree_test_x,y_test,filePath+"test.data")
     
     filePath=partialPath+"nstr."
-    printVectorTree(newSent_train_x,tree_train_x,y_train,filePath+"train.data")
-    printVectorTree(newSent_test_x,tree_test_x,y_test,filePath+"test.data")
+    printVectorTree1(newSent_train_x,tree_train_x,y_train,filePath+"train.data")
+    printVectorTree1(newSent_test_x,tree_test_x,y_test,filePath+"test.data")
     
     filePath=partialPath+"bvtr."
-    printVectorTree(bv_train_x,tree_train_x,y_train,filePath+"train.data")
-    printVectorTree(bv_test_x,tree_test_x,y_test,filePath+"test.data")
+    printVectorTree1(bv_train_x,tree_train_x,y_train,filePath+"train.data")
+    printVectorTree1(bv_test_x,tree_test_x,y_test,filePath+"test.data")
     
     #three group of data
     filePath=partialPath+"ngnsbv."
-    printVectors(ngram_train_x,newSent_train_x,bv_train_x,y_train,filePath+"train.data")
-    printVectors(ngram_test_x,newSent_test_x,bv_test_x,y_test,filePath+"test.data")
+    printVectors3(ngram_train_x,newSent_train_x,bv_train_x,y_train,filePath+"train.data")
+    printVectors3(ngram_test_x,newSent_test_x,bv_test_x,y_test,filePath+"test.data")
     
     #three group: two vectors and a tree
     filePath=partialPath+"ngnstr."
-    printVectorTree(ngram_train_x,newSent_train_x,tree_train_x,y_train,filePath+"train.data")
-    printVectorTree(ngram_test_x,newSent_test_x,tree_test_x,y_test,filePath+"test.data")
+    printVectorTree2(ngram_train_x,newSent_train_x,tree_train_x,y_train,filePath+"train.data")
+    printVectorTree2(ngram_test_x,newSent_test_x,tree_test_x,y_test,filePath+"test.data")
     
     filePath=partialPath+"ngbvtr."
-    printVectorTree(ngram_train_x,bv_train_x,tree_train_x,y_train,filePath+"train.data")
-    printVectorTree(ngram_test_x,bv_test_x,tree_test_x,y_test,filePath+"test.data")
+    printVectorTree2(ngram_train_x,bv_train_x,tree_train_x,y_train,filePath+"train.data")
+    printVectorTree2(ngram_test_x,bv_test_x,tree_test_x,y_test,filePath+"test.data")
     
     filePath=partialPath+"nsbvtr."
-    printVectorTree(newSent_train_x,bv_train_x,tree_train_x,y_train,filePath+"train.data")
-    printVectorTree(newSent_test_x,bv_test_x,tree_test_x,y_test,filePath+"test.data")
+    printVectorTree2(newSent_train_x,bv_train_x,tree_train_x,y_train,filePath+"train.data")
+    printVectorTree2(newSent_test_x,bv_test_x,tree_test_x,y_test,filePath+"test.data")
 
     #four group of data
     filePath=partialPath+"ngnsbvtr."
-    printVectorTree(ngram_train_x,newSent_train_x,bv_train_x,tree_train_x,y_train,filePath+"train.data")
-    printVectorTree(ngram_test_x,newSent_test_x,bv_test_x,tree_test_x,y_test,filePath+"test.data")
+    printVectorTree3(ngram_train_x,newSent_train_x,bv_train_x,tree_train_x,y_train,filePath+"train.data")
+    printVectorTree3(ngram_test_x,newSent_test_x,bv_test_x,tree_test_x,y_test,filePath+"test.data")
 
     
     

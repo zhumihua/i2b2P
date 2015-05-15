@@ -1,9 +1,0 @@
-276-03	16	0	He is taking his medicines.	medicines. FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
-276-03	17	0	He also took an aspirin, did get some nitroglycerin.	aspirin, FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
-276-03	17	0	He also took an aspirin, did get some nitroglycerin.	nitroglycerin. FFF 8 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
-276-03	20	438	MEDICATIONS:  Cozaar, aspirin, Altace, metformin, and Toprol.	cozaar, FFF 1 1	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
-276-03	20	438	MEDICATIONS:  Cozaar, aspirin, Altace, metformin, and Toprol.	aspirin, FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
-276-03	20	438	MEDICATIONS:  Cozaar, aspirin, Altace, metformin, and Toprol.	altace, FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
-276-03	20	438	MEDICATIONS:  Cozaar, aspirin, Altace, metformin, and Toprol.	metformin, FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
-276-03	20	438	MEDICATIONS:  Cozaar, aspirin, Altace, metformin, and Toprol.	toprol. FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
-276-03	54	0	Given his prior CAD history, the patient was given Lopressor.	lopressor. FFF 9 9	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

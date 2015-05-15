@@ -1,6 +1,0 @@
-288-05||1||Record date: 2069-02-17
-288-05||2||MD Connect Call 11:59pm 2/16/69 from Dr.||INDICATION FFF md FFF 0 0||TOD FFF 11:59pm FFF 3 3||
-288-05||3||Hale at Senior Care Clinic Queen Creek, SD regarding Terri Bird.
-288-05||4||Patient admitted there 2/12/69 with CHF exacerbation with some associated COPD exacerbation and associated pneumonia.||INDICATION FFF chf FFF 5 5||INDICATION FFF copd FFF 10 10||INDICATION FFF pneumonia. FFF 14 14||
-288-05||5||All initially improved but then clinically worsening 2/14-2/16.||DRT FFF 2/14-2/16. FFF 7 7||
-288-05||6||Patient requiring 100% NRB mask to maintain normal saturation with rising BUN/CR (hx kidney transplant).||DOSE FFF 100% FFF 2 2||

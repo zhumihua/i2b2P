@@ -1,0 +1,411 @@
+cd /data/i2b2/2014i2b2/data/i2b2_evaluation_scripts-master
+/data/i2b2/2014i2b2/src/2014test-set/combine-all-run1/
+
+/home/sisi/i2b2P/csv/task2-test
+
+
+python evaluate.py cr  --invert --filter  FAMILY_HIST,SMOKER /home/sisi/i2b2P/task2-chunnan-run1-noOffset-allFile/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr --invert --filter  FAMILY_HIST,SMOKER /home/sisi/i2b2P/task2-chunnan-run2-noOffset-allFile/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr --invert --filter  FAMILY_HIST,SMOKER /home/sisi/i2b2P/task2-chunnan-run3-noOffset-allFile/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+
+WARNING: Expected attribute 'indicator' for tag <HYPERLIPIDEMIA (DOC39)> was not valid ('A1C')
+WARNING: Expected attribute 'indicator' for xml element <HYPERLIPIDEMIA (DOC39)>
+
+python evaluate.py cr --conjunctive \ --filter "CAD,before DCT"  /home/sisi/i2b2P/task2-chunnan-run1-noOffset/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr  /home/sisi/i2b2P/task2-chunnan-run1-noOffset-allFile/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr  /home/sisi/i2b2P/task2-chunnan-run2-noOffset-allFile/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr  /home/sisi/i2b2P/task2-chunnan-run3-noOffset-allFile/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+
+
+
+python evaluate.py cr --invert --filter  FAMILY_HIST,SMOKER  /home/sisi/i2b2P/task2-chunnan-run1-noOffset-allFile/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr --invert --filter  FAMILY_HIST  /home/sisi/i2b2P/task2-chunnan-run2-noOffset-allFile/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr --invert --filter  FAMILY_HIST  /home/sisi/i2b2P/task2-chunnan-run3-noOffset-allFile/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr  /home/sisi/i2b2P/task2-chunnan-run1-noOffset-allFile/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr  /home/sisi/i2b2P/task2-chunnan-run2-noOffset-allFile/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr  /home/sisi/i2b2P/task2-chunnan-run3-noOffset-allFile/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr  /home/sisi/i2b2P/task2-chunnan-run3-noOffset/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr  /home/sisi/i2b2P/task2-chunnan-run1-noOffset/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr  /home/sisi/i2b2P/task2-chunnan-run2-noOffset/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr  /home/sisi/i2b2P/task2-chunnan-run3-noOffset/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr --filter  before DCT  /home/sisi/i2b2P/task2-chunnan-run1-noOffset/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr --filter  DIABETES  /home/sisi/i2b2P/task2-chunnan-run1-noOffset/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr --filter  CAD  /home/sisi/i2b2P/task2-chunnan-run1-noOffset/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr --filter   HYPERTENSION  /home/sisi/i2b2P/task2-chunnan-run1-noOffset/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr --filter  HYPERLIPIDEMIA /home/sisi/i2b2P/task2-chunnan-run1-noOffset/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr --filter  OBESE  /home/sisi/i2b2P/task2-chunnan-run1-noOffset/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr --filter  SMOKER  /home/sisi/i2b2P/task2-chunnan-run1-noOffset/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr --filter  MEDICATION  /home/sisi/i2b2P/task2-chunnan-run1-noOffset/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+
+python evaluate.py cr --filter  DIABETES  /home/sisi/i2b2P/task2-chunnan-run3-noOffset/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr --filter  CAD  /home/sisi/i2b2P/task2-chunnan-run3-noOffset/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr --filter   HYPERTENSION  /home/sisi/i2b2P/task2-chunnan-run3-noOffset/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr --filter  HYPERLIPIDEMIA /home/sisi/i2b2P/task2-chunnan-run3-noOffset/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr --filter  OBESE  /home/sisi/i2b2P/task2-chunnan-run3-noOffset/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr --filter  SMOKER  /home/sisi/i2b2P/task2-chunnan-run3-noOffset/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr --filter  MEDICATION  /home/sisi/i2b2P/task2-chunnan-run3-noOffset/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+
+python evaluate.py cr --invert --filter  FAMILY_HIST,SMOKER  /home/sisi/i2b2P/task2-chunnan-run1-noOffset/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr --invert --filter  FAMILY_HIST  /home/sisi/i2b2P/task2-chunnan-run2-noOffset/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr --invert --filter  FAMILY_HIST  /home/sisi/i2b2P/task2-chunnan-run3-noOffset/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+cp -r 
+
+<?xml version="1.0"  ?>
+
+/home/sisi/i2b2P/csv/task2-chunnan-run2-add-startend/
+
+python evaluate.py cr --invert --filter  FAMILY_HIST,SMOKER  /home/sisi/i2b2P/csv/task2-chunnan-run2-add-startend/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr --invert --filter  FAMILY_HIST,SMOKER  /home/sisi/i2b2P/csv/task2-test/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr --invert --filter  FAMILY_HIST,SMOKER  /home/sisi/i2b2P/csv/task2-test2/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr --filter SMOKER /data/i2b2/2014i2b2/finalsubmission-unzip/task2-chunnan-run2-add-header/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr --filter CAD /data/i2b2/2014i2b2/finalsubmission-unzip/task2-chunnan-run2-add-header/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+
+python evaluate.py cr --filter HYPERLIPIDEMIA /data/i2b2/2014i2b2/finalsubmission-unzip/task2-chunnan-run2-add-header/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr    FAMILY_HIST,SMOKER /data/i2b2/2014i2b2/finalsubmission-unzip/task2-chunnan-run2-add-header/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+
+python evaluate.py cr   --invert --filter  FAMILY_HIST,SMOKER,MEDICATION /home/sisi/i2b2P/xml-run1/ /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr   --invert --filter  FAMILY_HIST,SMOKER,MEDICATION /home/sisi/i2b2P/xml-run2/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr   --invert --filter  FAMILY_HIST,SMOKER /home/sisi/i2b2P/xml/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr   --invert --filter  FAMILY_HIST,SMOKER /data/i2b2/2014i2b2/finalsubmission-unzip/task2-chunnan-run1/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+python evaluate.py cr   --invert --filter  FAMILY_HIST,SMOKER /data/i2b2/2014i2b2/finalsubmission-unzip/task2-chunnan-run2/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+python evaluate.py cr   --invert --filter  FAMILY_HIST,SMOKER /data/i2b2/2014i2b2/finalsubmission-unzip/task2-chunnan-run3/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+
+python evaluate.py cr   --invert --filter  FAMILY_HIST,SMOKER /data/i2b2/2014i2b2/src/2014test-set/FINAL/run1/ /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr   --invert --filter  FAMILY_HIST,SMOKER /data/i2b2/2014i2b2/src/2014test-set/FINAL/run2/ /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr   --invert --filter  FAMILY_HIST,SMOKER /data/i2b2/2014i2b2/src/2014test-set/FINAL/run3/ /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+/home/sisi/i2b2P/testing-RiskFactors-Complete
+
+
+python evaluate.py cr   --invert --filter  FAMILY_HIST /home/sisi/i2b2P/task2-chunnan-run3/ /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+python evaluate.py cr   --filter  SMOKER /home/sisi/i2b2P/task2-chunnan-run3/ /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+
+ 
+/home/sisi/i2b2P/xml
+
+/home/sisi/i2b2P/xml/testing-RiskFactors-Gold
+
+/data/i2b2/2014i2b2/data/training-RiskFactors-Complete-Set2/157-03.xml
+
+cd /data/i2b2/2014i2b2/data/i2b2_evaluation_scripts-master
+
+python evaluate.py cr  /home/sisi/i2b2P/xml/ ../training-RiskFactors-Gold-Set1/
+
+python evaluate.py cr --invert --filter  FAMILY_HIST,SMOKER  /home/sisi/i2b2P/xml/ ../training-RiskFactors-Gold-Set2/
+
+python evaluate.py cr --filter MEDICATION /home/sisi/i2b2P/xml/ ../training-RiskFactors-Gold-Set1/
+
+python evaluate.py cr --filter DIABETES /home/sisi/i2b2P/xml/ ../training-RiskFactors-Gold-Set1/
+
+python evaluate.py cr --filter MEDICATION,CAD,HYPERLIPIDEMIA,DIABETES,OBESE,HYPERTENSION /home/sisi/i2b2P/xml/ ../training-RiskFactors-Gold-Set2/
+
+python evaluate.py cr --filter "MEDICATION,before DCT" /home/sisi/i2b2P/xml/ ../training-RiskFactors-Gold-Set1/
+python evaluate.py cr --filter "MEDICATION,during DCT" /home/sisi/i2b2P/xml/ ../training-RiskFactors-Gold-Set1/
+python evaluate.py cr --filter "MEDICATION,after DCT" /home/sisi/i2b2P/xml/ ../training-RiskFactors-Gold-Set1/
+
+python evaluate.py cr --filter "MEDICATION,before DCT" /home/sisi/i2b2P/xml/ ../training-RiskFactors-Gold-Set2/
+python evaluate.py cr --filter "MEDICATION,during DCT" /home/sisi/i2b2P/xml/ ../training-RiskFactors-Gold-Set2/
+python evaluate.py cr --filter "MEDICATION,after DCT" /home/sisi/i2b2P/xml/ ../training-RiskFactors-Gold-Set2/
+
+
+python evaluate.py cr --filter "before DCT" /home/sisi/i2b2P/xml/ ../training-RiskFactors-Gold-Set2/
+python evaluate.py cr --filter "during DCT" /home/sisi/i2b2P/xml/ ../training-RiskFactors-Gold-Set2/
+python evaluate.py cr --filter "after DCT" /home/sisi/i2b2P/xml/ ../training-RiskFactors-Gold-Set2/
+
+
+
+python evaluate.py cr  /home/sisi/i2b2P/xml/ ../training-RiskFactors-Gold-Set2/
+python evaluate.py cr  /home/sisi/i2b2P/xml/ ../training-RiskFactors-Gold-Set1/
+
+python evaluate.py cr --filter MEDICATION  /home/sisi/i2b2P/xml/ ../training-RiskFactors-Gold-Set2/
+
+python evaluate.py cr --invert --filter  MEDICATION  /home/sisi/i2b2P/xml/ ../training-RiskFactors-Gold-Set2/
+
+python evaluate.py cr --invert --filter  FAMILY_HIST SMOKER  /home/sisi/i2b2P/xml/ ../training-RiskFactors-Gold-Set1/
+
+python evaluate.py cr --filter  CAD  /home/sisi/i2b2P/xml/ ../training-RiskFactors-Gold-Set2/
+
+python evaluate.py cr --filter  DIABETES  /home/sisi/i2b2P/xml/ ../training-RiskFactors-Gold-Set2/
+
+python evaluate.py cr --filter  HYPERTENSION  /home/sisi/i2b2P/xml/ ../training-RiskFactors-Gold-Set2/
+
+python evaluate.py cr --filter  HYPERLIPIDEMIA  /home/sisi/i2b2P/xml/ ../training-RiskFactors-Gold-Set2/
+
+
+python evaluate.py cr --filter  CAD  /home/sisi/i2b2P/xml/ ../training-RiskFactors-Gold-Set1/
+
+
+
+python evaluate.py cr --filter  HYPERTENSION  /home/sisi/i2b2P/xml/ ../training-RiskFactors-Gold-Set1/
+
+python evaluate.py cr --filter  HYPERLIPIDEMIA  /home/sisi/i2b2P/xml/ ../training-RiskFactors-Gold-Set1/
+
+python evaluate.py cr --filter  DIABETES  /home/sisi/i2b2P/xml/ ../training-RiskFactors-Gold-Set1/
+
+python evaluate.py cr --filter  OBESE  /home/sisi/i2b2P/xml/ ../training-RiskFactors-Gold-Set1/
+
+../libsvm-3.18/svm-train -t 0 -v 10 -h 0  -w1 1 -w-1 2 $LIBSVMDATA1 > ${dirOut}/result_before.txt
+../libsvm-3.18/svm-train -t 0 -v 10 -h 0 -w1 1 -w-1 2 $LIBSVMDATA2 > ${dirOut}/result_during.txt
+../libsvm-3.18/svm-train -t 0 -v 10 -h 0 -w1 1 -w-1 2  $LIBSVMDATA3 > ${dirOut}/result_after.txt
+#../libsvm-3.18/svm-train -t 0 -v 10 -h 0 -w1 1 -w-1 1 $LIBSVMDATA4 > ${dirOut}/result_continuing.txt
+
+
+../libsvm-3.18/svm-train -t 1 -v 10 -h 0  $LIBSVMDATA1 > ${dirOut}/result_before_poly.txt
+../libsvm-3.18/svm-train -t 1 -v 10 -h 0  $LIBSVMDATA2 > ${dirOut}/result_during_poly.txt
+../libsvm-3.18/svm-train -t 1 -v 10 -h 0  $LIBSVMDATA3 > ${dirOut}/result_after_poly.txt
+
+../libsvm-3.18/svm-train -t 2 -v 10 -h 0  $LIBSVMDATA1 > ${dirOut}/result_before_rbf.txt
+../libsvm-3.18/svm-train -t 2 -v 10 -h 0  $LIBSVMDATA2 > ${dirOut}/result_during_rbf.txt
+../libsvm-3.18/svm-train -t 2 -v 10 -h 0  $LIBSVMDATA3 > ${dirOut}/result_after_rbf.txt
+
+../libsvm-3.18/svm-train -t 3 -v 10 -h 0  $LIBSVMDATA1 > ${dirOut}/result_before_sigmoid.txt
+../libsvm-3.18/svm-train -t 3 -v 10 -h 0  $LIBSVMDATA2 > ${dirOut}/result_during_sigmoid.txt
+../libsvm-3.18/svm-train -t 3 -v 10 -h 0  $LIBSVMDATA3 > ${dirOut}/result_after_sigmoid.txt
+
+sofaURI
+
+cp /data/i2b2/2014i2b2/src/2014orig/399-02.orig .
+
+cp /data/i2b2/2014i2b2/src/2014orig/
+
+open -a Sublime\ Text\ 2 288-03.orig
+
+ grep '%' result_continue.txt 
+
+ grep '%' result_before.txt
+
+ grep '%' result_after.txt
+
+ grep '%' result_during.txt
+
+ grep '%' result_before_during.txt
+
+ grep '%' result_before_after.txt
+
+ grep '%' result_during_after.txt
+
+
+scp -r -P 9221 sisi@idash-nlp-dev:/home/sisi/CTAKES/apache-ctakes-3.1.1-src/ctakes-clinical-pipeline/data .
+
+scp -r  -P 9221 sisi@idash-nlp-dev:/home/sisi/CTAKES/data/output serverOutput
+
+scp -r  -P 9221 sisi@idash-nlp-dev:/home/sisi/CTAKES/apache-ctakes-3.1.1-src/ctakes-clinical-pipeline/data/output .
+
+scp   -P 9221 sisi@idash-nlp-dev:/home/sisi/CTAKES/apache-ctakes-3.1.1-src/ctakes-clinical-pipeline/data/input/* .
+
+git clone git@bitbucket.org:zhumihua/ctakes.git
+
+git clone ssh://git@bitbucket.org:22/zhumihua/ctakes.git apache-ctakes-3.1.1-src
+
+git init
+git remote add origin ssh://git@bitbucket.org:22/zhumihua/ctakes.git
+git fetch
+git checkout -t origin/master 
+
+grep -r '\<import location\=' .
+
+cd /data/i2b2/2014i2b2/tools/CTAKES
+
+ less time.csv | awk  -F $'\t' '{print $1, "\t", $2,"\t",$4,"\t",$5, "\t", $(NF-4),"\t", $(NF-3),"\t", $(NF-2),"\t", $(NF-1)}'  > time_after.csv
+
+ grep '\-1$'  time_after.csv > time_after_neg.csv
+
+
+
+ grep  --perl-regex '\-1\s+[1\-1]$'  time_after.csv > time_during_neg.csv
+
+ grep  --perl-regex '\-1\s+[1\-1]\s+[1\-1]$'  time_after.csv > time_before_neg.csv
+
+ grep  --perl-regex '\-1\s+\-1\s+\-1$'  time_after.csv > time_all_neg.csv
+
+
+ grep  --perl-regex '\-1\s+[1\-1]\s+\-1$'  time_after.csv > time_before_after_neg.csv
+
+ grep  --perl-regex '\-1\s+\-1\s+[1\-1]$'  time_after.csv > time_before_during_neg.csv
+
+ grep  --perl-regex '[1\-1]\s+\-1\s+\-1$'  time_after.csv > time_during_after_neg.csv
+
+
+ grep  --perl-regex '1\s+1\s+1$'  time_after.csv > time_all_posi.csv
+ grep  --perl-regex '1\s+\-1\s+1$'  time_after.csv > time_before_after_posi.csv
+ grep  --perl-regex '\-1\s+1\s+1$'  time_after.csv > time_during_after_posi.csv
+ grep  --perl-regex '1\s+1\s+\-1$'  time_after.csv > time_before_during_posi.csv
+
+
+  grep  --perl-regex '1\s+\-1\s+1$'  time_after.csv > time_before_after_posi.csv
+
+ =======
+ -n return the line number(index) of the matched line
+ grep -n --perl-regex '[1\-1]\s+\-1\s+[1\-1]$'  time_after.csv  | cut -d : -f 1
+
+ grep -n --perl-regex '\-1\s+[1\-1]\s+[1\-1]$'  time_after.csv | cut -d : -f 1
+
+ grep -n --perl-regex '\-1\s+\-1\s+\-1$'  time_after.csv | cut -d : -f 1
+
+
+ grep -n --perl-regex '\-1\s+[1\-1]\s+\-1$'  time_after.csv | cut -d : -f 1
+
+ grep -n --perl-regex '\-1\s+\-1\s+[1\-1]$'  time_after.csv | cut -d : -f 1
+
+ grep  -n --perl-regex '[1\-1]\s+\-1\s+\-1$'  time_after.csv | cut -d : -f 1
+
+ grep -n --perl-regex '1\s+1\s+1$'  time_after.csv | cut -d : -f 1
+ grep -n --perl-regex '1\s+\-1\s+1$'  time_after.csv | cut -d : -f 1
+ grep -n --perl-regex '\-1\s+1\s+1$'  time_after.csv | cut -d : -f 1
+ grep -n --perl-regex '1\s+1\s+\-1$'  time_after.csv | cut -d : -f 1
+
+  =======
+ -c return the number of lines of output context
+
+  
+
+ grep -c --perl-regex '[1\-1]\s+\-1\s+[1\-1]$'  time_after.csv  
+
+ grep -c --perl-regex '\-1\s+[1\-1]\s+[1\-1]$'  time_after.csv 
+
+ grep -c --perl-regex '\-1\s+\-1\s+\-1$'  time_after.csv 
+
+
+ grep -c --perl-regex '\-1\s+[1\-1]\s+\-1$'  time_after.csv 
+
+ grep -c --perl-regex '\-1\s+\-1\s+[1\-1]$'  time_after.csv 
+
+ grep  -c --perl-regex '[1\-1]\s+\-1\s+\-1$'  time_after.csv 
+
+ grep -c --perl-regex '1\s+1\s+1$'  time_after.csv 
+ grep -c --perl-regex '1\s+\-1\s+1$'  time_after.csv 
+ grep -c --perl-regex '\-1\s+1\s+1$'  time_after.csv
+ grep -c --perl-regex '1\s+1\s+\-1$'  time_after.csv 
+
+tar -zxvf data.tar.gz
+mvn -Dmaven.test.skip=true install
+
+ http://softlayer-dal.dl.sourceforge.net/project/ctakesresources/ctakes-resources-3.1.0.zip
+
+find . -name *.zip
+
+  mvn compile -PrunClinicalPipeline exec:java
+  export MAVEN_OPTS="-Xmx2048m"
+
+
+  scp -P 9221 -r /Users/lusisi/i2b2/apache-ctakes-3.1.1-src sisi@idash-nlp-dev:/home/sisi/i2b2P/.
+
+ scp -P 9221 -r apache-ctakes-3.1.1-src sisi@idash-nlp-dev:/data/i2b2/2014i2b2/tools/CTAKES/.
+
+grep -r 'scala' ./*/src/main/java
+
+grep -r 'scala-library' *
+
+cd /data/*/*/*/CTAKES
+
+git remote add origin ssh://git@bitbucket.org:22/zhumihua/medtime.git
+           
+           orig /data/i2b2/2014i2b2/src/2014orig 
+
+
+[WARNING] The POM for org.apache.ctakes:ctakes-assertion:jar:3.1.1 is invalid, transitive dependencies (if any) will not be available: 4 problems were encountered while building the effective model for org.apache.ctakes:ctakes-assertion:3.1.1
+[ERROR] 'dependencies.dependency.systemPath' for org.mitre.medfacts:medfacts-i2b2:jar must specify an absolute path but is ${project.basedir}/lib/med-facts-i2b2-1.2-SNAPSHOT.jar @ 
+[ERROR] 'dependencies.dependency.systemPath' for org.mitre.medfacts:medfacts-zoner:jar must specify an absolute path but is ${project.basedir}/lib/med-facts-zoner-1.1.jar @ 
+[ERROR] 'dependencies.dependency.systemPath' for org.mitre.jcarafe.core:jcarafe.core:jar must specify an absolute path but is ${project.basedir}/lib/jcarafe-core_2.9.1-0.9.8.3.RC4.jar @ 
+[ERROR] 'dependencies.dependency.systemPath' for org.mitre.jcarafe.ext:jcarafe.ext:jar must specify an absolute path but is ${project.basedir}/lib/jcarafe-ext_2.9.1-0.9.8.3.RC4.jar @ 
+
+
+/data/i2b2/2014i2b2/src/2014orig
+/data/i2b2/2014i2b2/tools/CTAKES/data/output
+
+
+install scala
+brew install scala
+
+
+		<dependency>
+			<groupId>org.scala-lang</groupId>
+			<artifactId>scala-library</artifactId>
+			<version>2.9.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.scala-tools.sbinary</groupId>
+			<artifactId>sbinary_2.9.0</artifactId>
+			<version>0.4.0</version>
+		</dependency>
+
+
+
+#Number of instances: 
+total=22727.0
+
+#time="before DCT”
+p_before=19064.0
+ratio_before=p_before/(total-p_before)
+ratio_before_p=p_before/total
+
+#time="during DCT”
+p_during=20277.0
+ratio_during=p_during/(total-p_during)
+ratio_during_p=p_during/total
+
+#time="after DCT”
+p_after=17911.0
+ratio_after=p_after/(total-p_after)
+ratio_after_p=p_after/total
+
+
+print ratio_before, ratio_during, ratio_after
+print ratio_before_p, ratio_during_p, ratio_after_p
+>>> print ratio_before, ratio_during, ratio_after
+5.20447720448 8.27632653061 3.71906146179
+
+print ratio_before_p, ratio_during_p, ratio_after_p
+0.838826065913 0.892198706384 0.788093457121
+
+#time=“continuing”

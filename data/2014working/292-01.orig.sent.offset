@@ -1,9 +1,0 @@
-292-01	15	0	He had a relatively unremarkable course post-catheterization; plavix initiation was delayed until his chest tube was removed, after which it was started without incident.	plavix FFF 7 7	 FFF 	tube FFF 14 14	 FFF 	until his chest tube was removed, FFF 11 16	 FFF 	narrative
-292-01	17	0	Regarding his squamous cell lung cancer, it is my understanding that he had no evidence of metastatic disease and that margins were negative; he is not currently planned for any adjuvant therapy, but will be closely followed.	adjuvant FFF 30 30	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
-292-01	30	0	hyperlipidemia (low HDL and high LDL - tried niaspan in the past without much benefit)  hypothyroid  basal cell skin CA  nephrolithiasis	niaspan FFF 8 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
-292-01	32	438	Lipitor 80 mg	lipitor FFF 0 0	80 mg FFF 1 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
-292-01	33	438	Plavix 75 mg	plavix FFF 0 0	75 mg FFF 1 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
-292-01	34	438	ASA 325 mg po QD	asa FFF 0 0	325 mg FFF 1 2	po FFF 3 3	qd FFF 4 4	 FFF 	 FFF 	narrative
-292-01	35	438	Lopressor 200 mg po BID	lopressor FFF 0 0	200 mg FFF 1 2	po FFF 3 3	bid FFF 4 4	 FFF 	 FFF 	narrative
-292-01	36	438	Prilosec 20 mg	prilosec FFF 0 0	20 mg FFF 1 2	 FFF 	 FFF 	 FFF 	 FFF 	narrative
-292-01	37	438	He has a history of intolerance (dizziness) with lisinopril.	lisinopril. FFF 8 8	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

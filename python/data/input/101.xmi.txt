@@ -1,4 +1,0 @@
-7	Atenolol	Medications	beta blocker
-7	Lipitor	Medications	statin
-7	Hypercholesteremia	Problems	mention
-1	Aterial stent 	Problems	event	VBD	VBN

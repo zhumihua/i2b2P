@@ -1,9 +1,0 @@
-354-01	15	0	Her blood pressure was unobtainable and her sats were 90% on room air.	sats FFF 7 7	90% FFF 9 9	 FFF 	 FFF 	 FFF 	 FFF 	narrative
-354-01	22	0	SOCIAL HISTORY:  She denies any tobacco or IV drugs or any other	drugs FFF 8 8	 FFF 	iv FFF 7 7	 FFF 	 FFF 	 FFF 	narrative
-354-01	23	0	drugs.  She lives with her family who is at her bedside.	drugs. FFF 0 0	 FFF 	bedside. FFF 10 10	 FFF 	 FFF 	 FFF 	narrative
-354-01	28	438	MEDICATIONS:  She is on metformin and Lipitor.	metformin FFF 4 4	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
-354-01	28	438	MEDICATIONS:  She is on metformin and Lipitor.	lipitor. FFF 6 6	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
-354-01	46	0	She was explained that she was going to receive adenosine 6 mg and this did break her off from her SVT.  I was present during this time.	adenosine FFF 9 9	6 mg FFF 10 11	 FFF 	 FFF 	during this time. FFF 24 26	 FFF 	narrative
-354-01	50	0	She received aspirin, Lopressor, and nitroglycerin and remained	aspirin, FFF 2 2	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
-354-01	50	0	She received aspirin, Lopressor, and nitroglycerin and remained	lopressor, FFF 3 3	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative
-354-01	50	0	She received aspirin, Lopressor, and nitroglycerin and remained	nitroglycerin FFF 5 5	 FFF 	 FFF 	 FFF 	 FFF 	 FFF 	narrative

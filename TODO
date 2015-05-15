@@ -1,0 +1,495 @@
+=============================================
+parse word docx document
+http://stackoverflow.com/questions/9562671/extracting-highlighted-words-from-word-document-docx-in-python
+=============================================
+Notes on python Django, and web development on Ubunntu Linux
+http://www.saltycrane.com/blog/2007/10/using-pythons-finditer-to-highlight/
+=============================================
+Pandas
+To replicate the behaviour of the groupby first method over a DataFrame using agg you could use iloc[0] (which gets the first row in each group (DataFrame/Series) by index):
+
+grouped.agg(lambda x: x.iloc[0])
+
+df.columns = df.columns.droplevel(0)
+
+list multiplication, to initialize a list of a specific length in Python
+[0]*10
+Series(list)
+Add a new column
+df[¡®new¡¯]=Series(list)
+
+iterate over a sequence in reverse order
+for x in reversed(L):
+=============================================
+Maven:
+
+in the file ~/.bash_profile
+export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home"
+export PATH="$JAVA_HOME/bin:$PATH"
+
+source .bash_profile
+mvn ¡ªversion
+
+mvn -Dmaven.test.skip=true install
+
+mvn exec:exec -DargumentA=alternateA -DargumentB=alternateB
+in pom.xml declare ${argumentA}, ${argumentB}
+
+Naming conventions
+::groupId, will identify your project uniquely across all projects, so we need to enforce a naming schema.
+::artifactId is the name of the jar without version. (lowercase letters and no starve symbols)
+::version
+
+Standard Directory layout
+:: The top level files, pom.xml, README.txt
+:: The top level folder, src, target
+The target directory is used to house all output of the build
+The src directory contains all the source material for building the project, its site and so on.
+src/main: the main build artifact
+src/test: the unit test code and resources
+src/main/java: the Java source files
+src/main/resources: the ones copied directly to the output directory?
+
+POM.XML
+::build element
+build element under profiles element
+	::resources, includes, excludes
+	::configuration
+	::filters?? .properties file
+	::plugins
+::profiles
+	::activation, activation occurs when one or more of the specified criteria have been met, for example <property>, the profile will active if Maven detects a property (a value which can be dereferenced within the POM by ${name}) of the corresponding name=value pair
+the activation elements can also be activated by settings.xml or explicitly through the command line via a comma separated list after the -P flag
+
+::Alternative pom.xml file
+	mvn -f <other pom file>
+	or running with an alternate pom file, use Maven profiles. With profiles, all versions of the test configurations can be contained within the master pom file and then executed as follows:
+mvm clean test -PstandardConfig
+mvm clean test -PalternateConfig
+mvm clean test -PanotherConfig
+
+MAVEN BUILD LIFECYCLE
+Three built-int build lifecycles: default, clean and site. The default lifecycle handles your project deployment, the clean lifecycle handles project cleaning, while the site lifecycle handles the creation of your project¡¯s site documentation.
+
+Default: has the following build phases <phase>
+validate, compile, test, package, integration-test, verify, install, deploy
+
+The Build Phase is mad up of plugin goals:
+declaring the plugin goals bound to those build phases
+
+::setting up projects using the build lifecycle methods: use <packaging>; use <plugins>
+::Plugins are artifacts that provide goals to Maven. 
+A plugin goal represents a specific task, finer than a build phase, which contributes to the building and managing of a project. It may be bound to zero or more build phases. (If a goal is bound to one or more build phases, that goal will be called in all those phases)
+
+::include resources in the build
+maven-install-plugin
+
+DEPENDENCY
+include dependency¡¯s resource
+include dependency¡¯s dependency ,Transitive dependency
+WARNING: illegal format pom.xml, will not include the dependencies
+:: install the jar in local repository, in clean stage
+mvn clean, then mvn install
+
+/etc/maven
+
+SETTING LOCAL REPOSITORY DIRECTORY
+There are two locations where a settings.xml file may live:
+
+The Maven install: $M2_HOME/conf/settings.xml
+A user¡¯s install: ${user.home}/.m2/settings.xml
+        <settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
+                      http://maven.apache.org/xsd/settings-1.0.0.xsd">
+        <localRepository>/data/i2b2/2014i2b2/tools/CTAKES/.m2/repository</localRepository>
+        </settings>
+
+=============================================
+Ant buildfile
+Each buildfile contains one project and at least one target
+Dependency in ants, the ¡°depends¡± attributes only specifies the order in which targets should be executed
+=============================================
+JAVA
+
+Enum¡ª>int
+yourEnum.orginal()
+int¡ª>enum
+EnumType.values()[someInt]
+String¡ª>enum
+EnumType.valueOf(yourString)
+enum¡ª>
+yourEnum.name()
+
+Unary operators, 
+prefix ++result evaluates to the incremented value
+postfix result++ evaluates to the original values
+
+Java String concatenate string cost O(n^2), use string buffer to append string, cost O(n)
+str.toCharArray()
+StringBuilder
+
+=============================================
+SETTING UP CTAKES
+in CTAKES_HOME, mvm clean install
+//the class files are in ¡°target¡± directory
+java parameters -Xmx2g
+
+sisi@idash-nlp-dev:~/i2b2P/apache-ctakes-3.1.1-src$ ls -lh ./ctakes-distribution/target
+total 2.6G
+-rw-rw-r-- 1 sisi sisi 390M Jun 17 14:54 apache-ctakes-3.1.1-bin.tar.gz
+-rw-rw-r-- 1 sisi sisi 391M Jun 17 14:55 apache-ctakes-3.1.1-bin.zip
+-rw-rw-r-- 1 sisi sisi 896M Jun 17 14:57 apache-ctakes-3.1.1-src.tar.gz
+-rw-rw-r-- 1 sisi sisi 897M Jun 17 14:58 apache-ctakes-3.1.1-src.zip
+drwxrwxr-x 2 sisi sisi 4.0K Jun 17 14:54 archive-tmp
+drwxrwxr-x 3 sisi sisi 4.0K Jun 17 14:54 maven-shared-archive-resources
+
+#download the src tar
+#download the resource tar
+#put the resource in crakes-dictionary-lookup/¡­/src/main/resources
+#in exec-maven plugin, include <resources> to include the resource files
+#in the crakes-assertion module, change the pom.xml, remove the system scope dependency (install the /lib/.jars in local repository), remove all system scope dependencies (in catkes-clinical-pipeline/pom.xml)
+#TO build, first run ¡°mvn clean install¡± under ctakes-assertion, and then run ¡°mvm clean install¡± in $ctakes_home (TODO move the install jars to the root pom.xml to avoid the first step)
+#TO RUN, first set the jvm memory size: export MAVEN_OPTS="-Xmx2048m"
+#ouput: xmi files, need TypeSystem.xml to read it
+
+ADD i2b2 Annotation type to CTAKES
+.Supertype
+org.apache.ctakes.typesystem.type.i2b2Annotation
+
+=============================================
+UIMA
+unstructured information management architecture
+
+::Analysis Engine, Document, Annotator, Annotator Developer, Type, Type System, Feature, Annotation, CAS, Sofa, JCas, UIMA Context.
+
+::Annotation result typically represent meta-data about the document content
+.AE is as software agents that automatically discover and record meta-data about original content
+.CAS Common Analysis System
+CAS is an object-based data structure that allows the representation of objects, properties and values.
+JCas ¡ª java support for CAS
+.Type system as an object schema for the CAS
+
+.Multiviews, simultaneous analysis of multiple views of a document(speech, text¡­) Each view contains a specific subject of analysis(Sofa), plus a set of indexed holding metadata indexed by that view.
+
+::Aggregate Analysis Engine, Delegate Analysis Engine, Tightly and Loosely Coupled, Flow Specification, Analysis Engine Assembler
+.aggregate analysis engines, AE contain other AEs organized in a workflow
+.The internal AEs specified in an aggregate are also called the delegate analysis engine. ¡°delegate¡± is used because aggregate AE¡¯s are thought to ¡°delegate¡± functions to their internal AEs.
+
+::Process Method, Collection Processing Architecture, Collection Reader, CAS Consumer, CAS Initializer, Collection Processing Engine, Collection Processing Manager
+.Method ¡±process¡±, create or acquire an input CAS, initialize the input CAS with a document, and then pass it to the AE through the ¡°process¡± method
+
+.Collection processing architecture
+1,Connect to a physical source
+2,Acquire a document from the source
+3,Initialize a CAS with the document to be analyzed
+4,Send the CAS to a selected analysis engine
+5,Process the resulting CAS
+6,Go back to 2 until the collection is processed
+7,Do any final processing required after all the documents in the collection have been analyzed
+
+.Collection Reader, connect to and iterate through a source collection, acquiring documents and initializing CASes for analysis
+.CAS Consumers, to index CAS contents in a search engine, extract elements of interest and populate a relational database or serialize and store analysis results to disk for subsequent and further analysis
+.Collection processing engine(CPE) is an aggregate component that specifies a ¡°source to sink¡± flow from a collection reader through a set of analysis engines and then a set of  CAS consumers
+CPEs are specified by XML files called CPE descriptors. These are declarative specifications that point to their contained components(Collection Reader, analysis engines, and CAS Consumers) and indicate a flow among them.
+
+.artifact: unstructured thing being analyzed by an annotator(text, HTML web page, image)
+
+sofaURI=¡°file:/....¡±
+
+::UIMA analysis engines, deploying an analysis engine as a web service is one of the deployment options supported by the UIMA framework
+
+::Exploiting analysis results, Semantic Search, XML Fragment Queries.
+
+::Step1, define the CAS Feature Structure types that it creates¡ª>using Type System Descriptor(XML)
+Arrays are primitive types
+built-in type TOP(the root of the type system, analogous to Object in Java)
+FSArray (an array of Feature Structures (i.e. an array of instances of TOP))
+
+Analysis Engine Descriptor
+Type System Descriptor
+Collection processing Components
+	Cas Consumer Descriptor file
+	Cas Initializer Descriptor file
+	collection reader descriptor file
+
+Use ¡°Component descriptor editor¡± to edit the ¡°analysis engine descriptor¡±
+Overview, Aggregate, Parameters, Parameter Settings, Type System, Capabilities, Indexes, Resources, and Source.
+
+::Type system
+.Built-in text Annotation type (lima.tcas.Annotation) declares three fields(features)¡ª> begin, end, sofa
+The feature sofa(subject of analysis) indicates which document the begin and end offsets point into.
+our defined type will inherit these three features from ¡°uima.tcas.Annotation¡±
+::AnalysisComponent
+.Methods¡ª> initialize, process, destroy
+JCasAnnotator_ImplBase, which has implementations of all required methods except for the process method. Need to override process()
+.Eclipse will automatically generate the AnalysisComponent Java source code extends JCasAnnotator_ImplBase based on the typeSystem.xml¡ª>use  Button ¡±JCasGen¡±
+::Analysis Engine Descriptor,
+The UIMA architecture requires that descriptive information about an annotator be represented in an XML file and provided along with the annotator class files to the UIMA framework at run time. 
+.Capabilities page has the Inputs and Outputs Types
+::Accessing analysis results
+annotators access the results of analysis via the CAS, using CAS or JCAS interfaces. 
+.XMI format, the CASes are stored in an XML format
+.UIMA Type System is a class model (UML)
+.UIMA CAS is an object graph (XMI Metadata Interchange)
+.Ordering relation: ¡°begin¡±(ascending order), ¡°end¡±(descending order): longer annotations starting at the same spot come before shorter ones
+
+=============================================
+CTAKES COMMPONENTS
+=============================================
+PYTHON MACHINE LEARNING
+.Data Frame, a data frame is used for strong data tables. It is a list of vectors of equal length.
+The top line of the table, called the header, contains the column names. Each horizontal line afterward denotes a data row, which begins with the name of the row and then followed by the actual data. Each data member of a row is called a cell. 
+
+.I would recommend pandas: pandas.pydata.org you need to convert the pandas.DataFrame to an np array before feeding it to sklearn
+
+.weighted SVM
+Hard SVMs choose the decision surface with the maximum separation of the training patterns. But, once you allow for margin and classification errors (i.e when you introduce C ), SVMs trade-off maximizing the margin size with allowing some points to eigher be in the margin or even misclassified. With unbalanced data, a largeg protion of the data points from the smaller class can end up in the margin or worse. Up weighting them or balancing the data set essentially fixes this.
+
+.If your classes are 
+class 0: 90%
+class 1: 5%
+class 2: 5%
+You should papss the following params to svm:
+-w0 5 -w1 90 -w2 90
+One of the programs in the svmlight family(SVM-rank). directly minimizes the area under the ROC curve. Minizing the AUC may give better results than re-weighting trainign examples
+
+It's fine to have imbalanced data, because the SVM should be able to assign a greater penalty to misclassification errors related with the less likely instance (e.g. "True" in your case), rather than assign equal error weight which results in the undesirable classifier that assigns everything to the majority. However, you'll probably get better results with balanced data. It all depends on your data, really.
+
+You could skew the data artificially to get more balanced data. Why don't you check this paper: http://pages.stern.nyu.edu/~fprovost/Papers/skew.PDF.
+
+My experience is that standard SVM classifiers do not really work nicely on unbalanced data. I encountered that for the C-SVM and it is even worse for the nu-SVM. Maybe you want to have a look at P-SVM which offers a mode that is especially suitable for unbalanced data.
+
+
+python enum, To use back posts, do $pip install enum34
+
+Remove elements as you traverse a list in Python:
+Iterate over a copy of the list
+for c in colors[:]:
+   if c == ¡®green¡¯:
+      colors.remove(c)
+
+for c in list(colors):
+   if c == ¡®green¡¯:
+      colors.remove(c)
+=============================================
+QUESTIONS
+.What is Julia language?
+
+=============================================
+NEED TO KNOW
+find . -name ContextAnnotation*
+
+list the number of files
+ls | wc -l
+
+compress the directory ¡°/home/jerry/prog¡±
+tar -zcvf prog-1-jan-2005.tar.gz /home/jerry/prog
+unzip the tar
+tar -zxvf prog-1-jan-2005.tar.gz
+
+
+grep -r $'\r' *
+Use -r for recursive search and $'' for c-style escape in Bash.
+
+apt-cache search keyword
+sudo apt-get install keyword
+apt-get --purge remove <package>
+apt-get autoremove
+
+.number of lines of a file
+wc -l myfile
+or
+cat -n my_file #
+
+.create symbolic link:
+ln -s target #the link_name is the same as the name of the target
+ln -s target link_name
+ln -s /usr/src/linux-2.6.33.7-desktop-1mnb /usr/src/linux
+
+cd src/*/java
+
+¡­¡­¡­¡­¡­¡­vim¡­¡­¡­¡­¡­¡­
+goto column use COLUMNNUM|
+The | command does what you want, as in 30| will take you to column 30.
+e goes to the end of the next word
+w goes to the beginning of the next word
+b goes to the beginning of the previous word
+ge goes to the end of the previous word
+$ goes to the end of the line
+^ goes to the start of the line
+¡­¡­¡­¡­¡­¡­parse XML files¡­¡­¡­¡­¡­¡­
+<root>
+<element/>
+</root>
+is 4 nodes. A root element, a text node containing \n, the element element and another text node containing \n.
+¡­¡­¡­¡­¡­¡­Tmux¡­¡­¡­¡­¡­¡­
+scroll mode
+Ctrl-b [, press q to quit scroll mode
+¡­¡­¡­¡­¡­¡­Git¡­¡­¡­¡­¡­¡­
+
+http://stackoverflow.com/questions/4114095/revert-to-previous-git-commit
+
+.git rm --cached -r somedir  will stage the deletion of the directory
+recover deleted files:
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	deleted:    data/input/test.txt
+	deleted:     
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+.to git init
+go into folder.. if folder is empty, then
+
+	git clone git@github.com:whatever .
+else
+	git init
+	git remote add origin PATH/TO/REPO
+	git fetch
+	git checkout -t origin/master
+	#to overwrite the local files
+	git fetch ¡ªall
+
+or git fetch origin
+	git reset ¡ªhard origin/master 
+
+
+¡­¡­¡­¡­¡­¡­Tools for data analysis¡­¡­¡­¡­¡­¡­
+R,  Python + numpy/blaze + scipy + scikit , python statsmodels
+The reason why is because you are doing data analysis from a Machine Learning perspective, not stats (where R is dominant) or digital signal processing (where Matlab is dominant)
+Numpy,	SciPy,	 Matplotlib,	IPython,	and	Pandas
+
+.moving matlab to python/numpy
+
+.JPype python programs full access to java class libs
+.Bootstrap for frontend website development (current trend)
+.What is loopy belief propagation? (Pearl,1982)
+
+¡­¡­¡­¡­¡­¡­Tools for clinical nlp¡­¡­¡­¡­¡­¡­
+ohnlp: MedXN, Meciation extraction and normalization, assigning the most specific RxNorm RxCUI to medication descriptions. MedXN uses flexible matching, abbreviation expansion, inference
+ohnlp: MedTime
+
+¡­¡­¡­¡­¡­¡­NLP concept¡­¡­¡­¡­¡­¡­
+lexicon, a language¡¯s inventory of lexemes
+Lexemes, items in the lexicon are called lexemes or word forms
+Lemma, (lexemes are grouped into lemmas) is a group of lexemes generated by inflectional morphology
+
+¡­¡­¡­¡­¡­¡­NLP tools¡­¡­¡­¡­¡­¡­
+the clinical Text Analysis and Knowledge Extraction System (cTAKES), the Medical Knowledge Analysis Tool (MedKAT/P), Health Information Text Extraction (HITEx), and the Cancer Text Information Extraction System (caTIES)
+
+cTAKES stores annotations in the UIMA Common Analysis Structure (CAS)
+
+Mayo Weka/UIMA Integration (MAWUI) library provides tools for exporting data from applications based on UIMA for use with the Weka machine-learning environment.
+
+Common Feature Extraction System(CFE)
+The Automated Retrieval Console (ARC) is a clinical document classification system based on cTAKES
+
+Yale cTAKES extensions(YTEX), store document annotations in a relational database
+
+cTAKES uses the OpenNLP Maximum Entropy package for sentence detection, tokenizing, part-of-speech tagging, and chunking; uses the SPECIALIST lexical variant generator for stemming; and uses an algorithm based on NegEx for negation detection.23¨C25 The cTAKES DictionaryLookup module performs named entity recognition by matching spans of text to entries from a dictionary
+
+
+¡­¡­¡­¡­¡­¡­statistic concept¡­¡­¡­¡­¡­¡­
+Kappa statistic is for similar measures of agreement used with categorical data. Suppose each object in a group of M objects is assigned to one of n categories. For each object, such assignments are done by k raters. The kappa measure of agreement is the ratio:
+K=(P(A)-P(E))/(1-P(E)). P(A) is the proportion of times the k raters agree (relative observed agreement among raters), and P(E) is the proportion of times the k raters are expected to agree by change alone (the hypothetical probability of chance agreement, using the observed data to calculate the probabilities of each observer randomly saying each category).If the raters are in complete agreement then K=1.
+
+=============================================
+
+TODO-LIST
+.Need to add the negation
+.Need to add the NGram
+.Need to change the segmentation/ lexicon, can share the same code
+...use Assertion to write ¡°assertion code¡±
+...Need to add the Temporal Expression
+...In TokenizerAnnotation, they said
+// First look for all newlines and carriage returns (which are not contained within sentences)
+That is they assume that newlines and carriage returns should not be contained in sentence
+
+...set up github repo
+...install and use UIMAFit
+...set up cTakes
+	sentence spliter, tokenizer
+.other openNLP, temporal tagger
+...in sentTags.py, separate different Factor types,
+or in dataset.py, separate different types
+	:prefer dataset, because may have larger feature vectors
+...set up the python to use libSVM¡ª>make the c code and run directly, faster
+.fix the sentfile_orginal matching problem!!!
+...install pandas, ipython(help to do statistic analysis)
+.fix the features index problem, easy to retrieve the features based on feature types
+or use some existing dataset object to manage the dataset, use Pandas?¡ª>use Pandas DataFrame object
+
+...Learn to use grep
+
+.Cannot find org.apache.ctakes.necontexts.type.ContextAnnotation
+for negation
+
+
+DIABETES indicator ( mention | A1C | glucose )
+CAD indicator ( mention | event | test | symptom )
+HYPERTENSION indicator ( mention | high bp ) 
+HYPERLIPIDEMIA indicator ( mention|  high chol. | high LDL )
+OBESE indicator ( mention | BMI | waist circum. ) 
+
+=============================================
+
+THOUGHTS
+.replace "medication full name" with a token medication
+parsing on named entity
+.get the correlation between time attribute values
+.text segmentation based on topics??? TextTiling
+
+
+=============================================
+
+FINDINGS
+.there is no time="continuing"
+
+=============================================
+RETROSPECTION
+.I need to find a way to get knowledge of the most up-to-date tools. Do not use some outdated tools, methods, packages
+.I need to be productive during work time, DO NOT be interrupted by other things, DO NOT be lost in huge amount of unknown knowledge/things. Keep your mind fresh and know what you should do next
+
+=============================================
+FIND A JOB
+
+:show your passione for technology
+	I've been using Visual Studio recently to learn game programming and it's APIs are excellent
+:what areas of technology you are familiar with
+:code on whiteboard
+:web-based company, care about scale: prepare for questions in 'Large Scale'; object oriented design(Amazon)
+:Analytical ability, coding, experience, communication; design a scalable system, prepare for questions from
+"System Design and Memory Limits", questions involving "Bit Manipulation"
+excellent technical skills, passion fro the position and company
+thoughts are clearly communicated
+Apple employees are huge apple fans
+interview with 6-7 people on the same team for 45 minutes each. One interviewer might focus on databases, while another interviewer mgiht focus on your understanding of computer architecture
+5 minutes: general conversation, Tell me about yourself, your project,etc
+20 minutes: coding question. for example implement merge sort
+20 minutes: system design,design a large distribured cache, focus on an area from your past experience or on something your interviewer is curretly working on
+product demos, concerns about the company, your competing offers
+Yahoo: asks aquestions about system design, anticipate you can design software
+do not ask question about vacation time, but the career opportunities, company's growth prospects
+:show therm you are smart and you can code
+
+:show your passion for technology
+	I've been using Visual Studio recently to learn game programming and it's APIs are excellent
+:what areas of technology you are familiar with
+:code on whiteboard
+:web-based company, care about scale: prepare for questions in 'Large Scale'; object oriented design(Amazon)
+:Analytical ability, coding, experience, communication; design a scalable system, prepare for questions from
+"System Design and Memory Limits", questions involving "Bit Manipulation"
+excellent technical skills, passion fro the position and company
+thoughts are clearly communicated
+Apple employees are huge apple fans
+interview with 6-7 people on the same team for 45 minutes each. One interviewer might focus on databases, while another interviewer might focus on your understanding of computer architecture
+5 minutes: general conversation, Tell me about yourself, your project,etc
+20 minutes: coding question. for example implement merge sort
+20 minutes: system design,design a large distribution cache, focus on an area from your past experience or on something your interviewer is currently working on
+product demos, concerns about the company, your competing offers
+Yahoo: asks questions about system design, anticipate you can design software
+do not ask question about vacation time, but the career opportunities, company's growth prospects
+:show therm you are smart and you can code
+

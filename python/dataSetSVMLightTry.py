@@ -20,8 +20,24 @@ from sklearn.feature_selection import SelectKBest, chi2
 from sklearn.datasets import dump_svmlight_file
 import StringIO
 
-    
+
+class Instance:
+    def __init__(self,id,dependencyC,pennTree,pathSubtree,newSent,aroundWords,oldSent,tagText,fvector):
+        self.dependencyC=dependencyC
+        self.pennTree=pennTree
+        self.pathSubtree=pathSubtree
+        self.newSent=newSent
+        self.aroundWords=aroundWords
+        self.oldSent=oldSent
+        self.tagText=tagText
+        self.fvector=fvector
+        self.y=int(re.split("\t",fvector)[0])
+        self.id=id
+
 if __name__=="__main__":
+    
+#     i1=Instance(1,2,3,4,5,6,7,8,'1')
+#     print i1.id
     
     
     f=open('tryCorpus')
@@ -63,12 +79,14 @@ if __name__=="__main__":
     rets=ret.split('\n')
     result=[]
     for astr in rets:
+        print astr
+        print '\n'
         if astr.find(' ')!=-1 and astr.index(' ')<len(astr)-1:
             result.append(astr[astr.index(' ')+1:])
         else:
             result.append('')
     
-    print result
+    
    
     
     

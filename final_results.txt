@@ -1,0 +1,38 @@
+Dear All,
+
+I just run the new evaluation script and got the same values as the Organizer.
+I also run the script filtering out Family-History and get the following results.
+
+Thanks,
+Sisi
+===================================================================================
+
+sisi@idash-nlp-dev:~/i2b2P/i2b2_evaluation_scripts-1.2.1$ python evaluate.py cr --invert --filter  FAMILY_HIST,SMOKER  /home/sisi/i2b2P/task2-chunnan-run1-noOffset-allFile/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+ (514)                   Measure        Macro (SD)     Micro (Primary)     
+---------------------------------------------------------------------------
+Total                    Precision      0.7275 (0.29)  0.8151              
+                         Recall         0.6604 (0.28)  0.7214              
+                         F1             0.6923         0.7654              
+
+
+sisi@idash-nlp-dev:~/i2b2P/i2b2_evaluation_scripts-1.2.1$ 
+sisi@idash-nlp-dev:~/i2b2P/i2b2_evaluation_scripts-1.2.1$ python evaluate.py cr --invert --filter  FAMILY_HIST  /home/sisi/i2b2P/task2-chunnan-run2-noOffset-allFile/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+ (514)                   Measure        Macro (SD)     Micro (Primary)     
+---------------------------------------------------------------------------
+Total                    Precision      0.7392 (0.26)  0.8053              
+                         Recall         0.675 (0.26)   0.715               
+                         F1             0.7057         0.7574              
+
+
+sisi@idash-nlp-dev:~/i2b2P/i2b2_evaluation_scripts-1.2.1$ 
+sisi@idash-nlp-dev:~/i2b2P/i2b2_evaluation_scripts-1.2.1$ python evaluate.py cr --invert --filter  FAMILY_HIST  /home/sisi/i2b2P/task2-chunnan-run3-noOffset-allFile/  /home/sisi/i2b2P/testing-RiskFactors-Gold/
+
+ (514)                   Measure        Macro (SD)     Micro (Primary)     
+---------------------------------------------------------------------------
+Total                    Precision      0.7733 (0.26)  0.8297              
+                         Recall         0.7393 (0.26)  0.7831              
+                         F1             0.7559         0.8057 
+
+
